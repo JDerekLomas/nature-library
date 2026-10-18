@@ -1,0 +1,4706 @@
+[
+ {
+  "slug": "sequoiadendron-giganteum",
+  "scientific": "Sequoiadendron giganteum",
+  "common": "Giant sequoia",
+  "otherNames": [
+   "Sierra redwood (English)",
+   "Mammutbaum (German)",
+   "Séquoia géant (French)",
+   "Secuoya gigante (Spanish)",
+   "巨杉 jùshān (Chinese)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Tree",
+  "family": "Cupressaceae",
+  "shelves": [
+   "tree",
+   "ancient",
+   "marvel",
+   "endangered",
+   "keystone"
+  ],
+  "summary": "The most massive single-stem tree on Earth. General Sherman, in Sequoia National Park, holds roughly 1,487 cubic metres of wood, and the oldest sequoias counted by rings passed 3,000 years. Its bark, up to about 90 cm thick at the base and nearly resin-free, lets it shrug off the low fires its cones depend on.",
+  "nativeRange": "About 70 scattered groves on the western slope of the Sierra Nevada, California, at 1,400–2,000 m",
+  "regions": [
+   "North America"
+  ],
+  "biomes": [
+   "Montane mixed-conifer forest"
+  ],
+  "abilities": [
+   "Grows fibrous, tannin-rich bark up to about 90 cm thick that insulates the cambium from surface fires",
+   "Keeps cones closed and green on the tree for up to 20 years; heat from fire, Douglas squirrels and a cone-boring beetle release the seeds",
+   "Seedlings need bare mineral soil and open sky, conditions that low-intensity fire creates",
+   "Reaches the largest trunk volume of any tree: General Sherman is about 83.8 m tall and 11 m across at the base"
+  ],
+  "edibility": "not-edible",
+  "edibleParts": [],
+  "edibilityNote": "No part is eaten. Not known to be significantly toxic.",
+  "fruit": {
+   "type": "Woody seed cone",
+   "season": "Matures over two seasons; may persist green for many years",
+   "description": "Egg-sized cones 4–7 cm long, holding about 200 seeds each."
+  },
+  "seed": {
+   "description": "Flat, winged, straw-coloured seeds",
+   "size": "~4–5 mm (with wing)",
+   "dispersal": "Wind, after cones are dried by fire or chewed open by squirrels and beetles",
+   "germination": "Cold-stratify 4–8 weeks; sow on the surface of bare, moist mineral soil"
+  },
+  "grow": {
+   "zones": "USDA 6–9",
+   "climates": [
+    "Temperate",
+    "Mediterranean",
+    "Montane"
+   ],
+   "sun": "Full sun",
+   "water": "Moderate; deep watering while young",
+   "soil": "Deep, well-drained, slightly acidic loam",
+   "propagation": "Seed (stratified); cuttings are difficult",
+   "timeToHarvest": "Ornamental; cones begin at around 10–20 years",
+   "steps": [
+    "Stratify seed in moist sand in the fridge for 4–8 weeks",
+    "Surface-sow in a free-draining mix and keep evenly moist and bright",
+    "Pot on yearly and plant out at 1–3 years where it has room to become enormous",
+    "Avoid planting near buildings: roots spread widely and the crown becomes massive"
+   ]
+  },
+  "iucn": "EN",
+  "lore": "Specimens were stripped and shipped east for exhibition in the 1850s, and the outcry over the felled 'Discovery Tree' helped lead Lincoln to sign the 1864 Yosemite Grant, an early act of American wilderness protection. Fires in 2020–2021 killed an estimated 13–19% of all large sequoias.",
+  "historicalNames": [
+   "Wellingtonia gigantea",
+   "Washingtonia californica",
+   "Mammoth tree"
+  ],
+  "funFact": "Despite its fire-proof reputation, the 2020 Castle Fire alone killed an estimated 7,500–10,600 large sequoias, about a tenth of the world's mature population."
+ },
+ {
+  "slug": "sequoia-sempervirens",
+  "scientific": "Sequoia sempervirens",
+  "common": "Coast redwood",
+  "otherNames": [
+   "Palo colorado (Spanish)",
+   "Küstenmammutbaum (German)",
+   "Séquoia toujours vert (French)",
+   "北美红杉 běiměi hóngshān (Chinese)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Tree",
+  "family": "Cupressaceae",
+  "shelves": [
+   "tree",
+   "ancient",
+   "marvel",
+   "endangered",
+   "keystone",
+   "dye-fibre"
+  ],
+  "summary": "The tallest living thing known. Hyperion, found in Redwood National Park in 2006, measured about 116 m, taller than a 35-storey building. Redwoods drink fog through their leaves, sprout new trunks from burls, and grow whole hanging gardens in their crowns.",
+  "nativeRange": "A narrow fog belt along the Pacific coast from south-western Oregon to Big Sur, California",
+  "regions": [
+   "North America"
+  ],
+  "biomes": [
+   "Temperate rainforest",
+   "Coastal fog forest"
+  ],
+  "abilities": [
+   "Absorbs fog water directly through its foliage, which matters in rainless California summers",
+   "Resprouts from basal burls and root crowns after fire or felling, forming 'fairy rings' of clones",
+   "Builds canopy soils that support ferns, huckleberries and even other trees high above the ground",
+   "Has a hexaploid genome, with six sets of chromosomes, unusual among conifers"
+  ],
+  "edibility": "not-edible",
+  "edibleParts": [],
+  "edibilityNote": "Not eaten. Not considered significantly toxic.",
+  "fruit": {
+   "type": "Small woody cone",
+   "season": "Ripens in autumn",
+   "description": "Olive-sized cones 1.5–3 cm long that release tiny seeds."
+  },
+  "seed": {
+   "description": "Tiny two-winged brown seeds, mostly of low viability",
+   "size": "~3–4 mm",
+   "dispersal": "Wind; most regeneration is clonal sprouting",
+   "germination": "No pretreatment needed; sow on moist mix, germination often under 10%"
+  },
+  "grow": {
+   "zones": "USDA 7–9",
+   "climates": [
+    "Temperate",
+    "Oceanic",
+    "Mediterranean"
+   ],
+   "sun": "Full sun to partial shade",
+   "water": "High; humidity and summer moisture",
+   "soil": "Deep, moist, well-drained loam",
+   "propagation": "Seed, cuttings, or burl sprouts",
+   "timeToHarvest": "Ornamental or timber; cones from 5–15 years",
+   "steps": [
+    "Sow fresh seed in spring on moist, sterile mix (expect low germination)",
+    "Keep seedlings humid and sheltered from drying wind",
+    "Plant out in deep soil and water through dry summers for the first years",
+    "Give it space: it can add 1 m or more a year in good conditions"
+   ]
+  },
+  "iucn": "EN",
+  "lore": "Old-growth logging after the 1849 Gold Rush removed about 95% of the original redwood forest; the Save the Redwoods League, founded in 1918, began buying groves back. The Yurok and Tolowa used fallen redwood for plank houses and dugout canoes.",
+  "historicalNames": [
+   "Taxodium sempervirens",
+   "Palo colorado"
+  ],
+  "funFact": "Hyperion's exact location is kept quiet, and since 2022 visitors who go off-trail to find it risk a fine of up to $5,000 and up to six months in jail."
+ },
+ {
+  "slug": "pinus-longaeva",
+  "scientific": "Pinus longaeva",
+  "common": "Great Basin bristlecone pine",
+  "otherNames": [
+   "Bristlecone (English)",
+   "Pino longevo (Spanish)",
+   "Langlebige Kiefer (German)",
+   "狐尾松 húwěisōng (Chinese)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Tree",
+  "family": "Pinaceae",
+  "shelves": [
+   "tree",
+   "ancient",
+   "marvel"
+  ],
+  "summary": "Among the oldest individual non-clonal organisms on Earth. The tree called Methuselah, in California's White Mountains, germinated more than 4,800 years ago, before the Great Pyramid was finished. Bristlecones survive by growing incredibly slowly and letting most of their bark die back.",
+  "nativeRange": "High mountains of eastern California, Nevada and Utah, mostly 2,600–3,500 m",
+  "regions": [
+   "North America"
+  ],
+  "biomes": [
+   "Subalpine woodland",
+   "Cold desert mountains"
+  ],
+  "abilities": [
+   "Lives more than 4,800 years on dry, alkaline dolomite where few competitors grow",
+   "Practises 'sectored architecture': when roots die, only the matching strip of bark dies, so the tree survives on a narrow living ribbon",
+   "Produces dense, resinous wood that resists rot, insects and fungi, so dead wood can lie on the ground for thousands of years",
+   "Keeps needles for up to 40 years or more, saving energy on dry ground"
+  ],
+  "edibility": "not-edible",
+  "edibleParts": [],
+  "edibilityNote": "Pine seeds are small and not a traditional food; not considered toxic.",
+  "fruit": {
+   "type": "Woody seed cone",
+   "season": "Matures in the second autumn",
+   "description": "Dark purple cones 6–10 cm long with a fragile bristle on each scale."
+  },
+  "seed": {
+   "description": "Small seeds with a detachable wing",
+   "size": "~5 mm (wing ~12 mm)",
+   "dispersal": "Wind, and caching by Clark's nutcrackers",
+   "germination": "Cold-stratify ~60 days; sow in gritty mineral mix"
+  },
+  "grow": {
+   "zones": "USDA 4–7",
+   "climates": [
+    "Montane",
+    "Continental",
+    "Arid"
+   ],
+   "sun": "Full sun",
+   "water": "Low",
+   "soil": "Lean, gravelly, sharply drained",
+   "propagation": "Seed",
+   "timeToHarvest": "Ornamental; extremely slow",
+   "steps": [
+    "Cold-stratify seed for about two months",
+    "Sow in a gritty, low-nutrient mix",
+    "Grow on in full sun with minimal fertilizer",
+    "Plant in poor, well-drained ground; rich soil and wet roots kill it"
+   ]
+  },
+  "iucn": "LC",
+  "lore": "Edmund Schulman's ring-counts in the 1950s revealed the trees' age, and bristlecone chronologies stretching back more than 8,000 years were used to calibrate radiocarbon dating. In 1964 a researcher cut down the tree later named Prometheus, at about 4,900 years old, with Forest Service permission.",
+  "historicalNames": [
+   "Pinus aristata var. longaeva"
+  ],
+  "funFact": "Because bristlecone ring-widths record past climate, the trees helped show that early radiocarbon dates were off by centuries."
+ },
+ {
+  "slug": "ficus-benghalensis",
+  "scientific": "Ficus benghalensis",
+  "common": "Banyan",
+  "otherNames": [
+   "Bargad / Bar (Hindi/Urdu)",
+   "Vata / Nyagrodha (Sanskrit)",
+   "Aalamaram (Tamil)",
+   "Bot gach (Bengali)",
+   "Indian fig (English)",
+   "孟加拉榕 (Chinese)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Tree",
+  "family": "Moraceae",
+  "shelves": [
+   "tree",
+   "sacred",
+   "medicinal",
+   "marvel",
+   "keystone",
+   "toxic",
+   "edible"
+  ],
+  "summary": "A tree that becomes a forest. Banyans drop aerial roots from their branches that thicken into new trunks, so one individual can spread across more than a hectare. India's national tree, it has shaded village councils, markets and teachers for millennia.",
+  "nativeRange": "Indian subcontinent; planted across the tropics",
+  "regions": [
+   "South Asia"
+  ],
+  "biomes": [
+   "Tropical dry forest",
+   "Tropical moist forest",
+   "Villages and temples"
+  ],
+  "abilities": [
+   "Turns hanging aerial roots into pillar trunks, letting a single tree expand indefinitely",
+   "Often starts life as an epiphyte from a bird-dropped seed, then strangles and replaces its host",
+   "Thimmamma Marrimanu in Andhra Pradesh covers about 1.9 hectares from a single tree",
+   "Fruits year-round in many places, feeding birds, bats and monkeys when little else is fruiting",
+   "Relies on a single fig-wasp species, Eupristina masoni, for pollination"
+  ],
+  "edibility": "edible-with-care",
+  "edibleParts": [
+   "ripe figs (famine and village food)"
+  ],
+  "edibilityNote": "Ripe figs are edible but bland and often contain fig wasps. The milky latex irritates skin and eyes.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Ayurveda",
+     "use": "Bark and aerial roots (vata) used as astringents for diarrhoea and in preparations for diabetes"
+    },
+    {
+     "tradition": "Unani",
+     "use": "Latex applied to cracked heels, sores and toothache"
+    }
+   ],
+   "compounds": [
+    "flavonoids (e.g. leucopelargonidin derivatives)",
+    "tannins",
+    "sterols"
+   ],
+   "evidence": "traditional",
+   "cautions": "Latex is a skin and eye irritant and can cause allergy in people sensitive to Ficus or latex."
+  },
+  "fruit": {
+   "type": "Syconium (fig)",
+   "season": "Much of the year",
+   "description": "Paired, cherry-sized figs that ripen scarlet, borne in leaf axils."
+  },
+  "seed": {
+   "description": "Tiny achenes inside the fig",
+   "size": "~1 mm",
+   "dispersal": "Birds, bats and monkeys; seeds often germinate in tree crowns or walls",
+   "germination": "Surface-sow on moist mix, warm and bright; 2–4 weeks"
+  },
+  "grow": {
+   "zones": "Tropical only (USDA 10–12)",
+   "climates": [
+    "Tropical",
+    "Subtropical"
+   ],
+   "sun": "Full sun",
+   "water": "Moderate",
+   "soil": "Most well-drained soils",
+   "propagation": "Cuttings or air-layering; seed",
+   "timeToHarvest": "Shade tree within 10–15 years",
+   "steps": [
+    "Root a semi-ripe cutting or air-layer a branch in warm, humid conditions",
+    "Plant far from buildings, drains and walls",
+    "Guide young aerial roots into the ground (in pipes of soil if needed) to form pillars",
+    "Indoors it can be kept as a pot plant or bonsai"
+   ]
+  },
+  "iucn": "LC",
+  "lore": "The banyan is the tree of the Hindu fast Vat Purnima, when married women tie threads around it in memory of Savitri, who won back her husband's life from Yama. The English word comes from 'banias', the Hindu merchants Portuguese and English traders saw trading under its shade.",
+  "historicalNames": [
+   "Ficus indica",
+   "Arbor de raiz",
+   "Indian fig tree"
+  ],
+  "funFact": "The Great Banyan in Howrah's botanic garden lost its main trunk to fungal rot in 1925 yet still stands as a ring of more than 3,000 aerial-root trunks."
+ },
+ {
+  "slug": "ficus-religiosa",
+  "scientific": "Ficus religiosa",
+  "common": "Sacred fig (Bodhi tree)",
+  "otherNames": [
+   "Peepal / Pipal (Hindi/Urdu)",
+   "Ashvattha (Sanskrit)",
+   "Bo (Sinhala)",
+   "Arasu (Tamil)",
+   "菩提树 pútíshù (Chinese)",
+   "Pho (Thai)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Tree",
+  "family": "Moraceae",
+  "shelves": [
+   "tree",
+   "sacred",
+   "medicinal",
+   "ancient",
+   "toxic",
+   "edible"
+  ],
+  "summary": "The tree under which Siddhartha Gautama is said to have attained enlightenment at Bodh Gaya. Its heart-shaped leaves end in a long 'drip tip' that sheds rain, and they tremble in the slightest breeze. A cutting planted in Sri Lanka in 288 BCE is still alive.",
+  "nativeRange": "Indian subcontinent and Indochina; planted at temples across Asia",
+  "regions": [
+   "South Asia",
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Tropical dry forest",
+   "Temples and villages"
+  ],
+  "abilities": [
+   "Leaves taper into a long drip tip that channels rain off the leaf",
+   "Germinates on walls, temples and other trees and pries masonry apart with its roots",
+   "Pollinated only by its own fig wasp, Platyscapa quadraticeps",
+   "Lives for many centuries; the Jaya Sri Maha Bodhi has a documented history of more than 2,300 years"
+  ],
+  "edibility": "edible-with-care",
+  "edibleParts": [
+   "ripe figs",
+   "young leaves and shoots (cooked, famine food)"
+  ],
+  "edibilityNote": "Small figs are eaten but usually contain fig wasps. The latex is an irritant.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Ayurveda",
+     "use": "Bark decoction for skin problems, wounds and diarrhoea; fruit for asthma"
+    },
+    {
+     "tradition": "Unani",
+     "use": "Bark and latex for inflammation and gum problems"
+    }
+   ],
+   "compounds": [
+    "tannins",
+    "phytosterols",
+    "flavonoids"
+   ],
+   "evidence": "traditional",
+   "cautions": "Latex can irritate skin and eyes and cause allergy."
+  },
+  "fruit": {
+   "type": "Syconium (fig)",
+   "season": "Early to mid-summer in India",
+   "description": "Pea-sized paired figs that ripen dark purple."
+  },
+  "seed": {
+   "description": "Minute achenes within the fig",
+   "size": "~1 mm",
+   "dispersal": "Birds and bats",
+   "germination": "Surface-sow on moist mix in warmth and light"
+  },
+  "grow": {
+   "zones": "Tropical only (USDA 10–12)",
+   "climates": [
+    "Tropical",
+    "Subtropical"
+   ],
+   "sun": "Full sun",
+   "water": "Moderate",
+   "soil": "Well-drained; tolerant",
+   "propagation": "Cuttings, air-layering or seed",
+   "timeToHarvest": "Shade tree within 10–15 years",
+   "steps": [
+    "Root a cutting or air-layer in warm, humid conditions",
+    "Pot on in free-draining mix in bright light",
+    "Plant away from walls and foundations, which its roots crack",
+    "In cool climates grow as a large houseplant or bonsai"
+   ]
+  },
+  "lore": "Emperor Ashoka's daughter Sanghamitta is said to have carried a cutting of the Bodh Gaya tree to Anuradhapura, where King Devanampiya Tissa planted it in 288 BCE; it is often called the oldest human-planted tree with a recorded planting date. Hindus circle the peepal and tie threads around it; it is the ashvattha of the Bhagavad Gita (15.1), the cosmic tree with roots above and branches below.",
+  "historicalNames": [
+   "Ficus religiosa",
+   "Arbor Dei",
+   "Pippala"
+  ],
+  "funFact": "The tree at Bodh Gaya today is traditionally said to descend from the one in Sri Lanka, so the Sri Lankan tree is in effect the 'parent' of its own ancestor's replacement."
+ },
+ {
+  "slug": "ginkgo-biloba",
+  "scientific": "Ginkgo biloba",
+  "common": "Ginkgo (Maidenhair tree)",
+  "otherNames": [
+   "Yínxìng 银杏 (Chinese)",
+   "Ichō イチョウ (Japanese)",
+   "Eunhaeng 은행 (Korean)",
+   "Árbol de los cuarenta escudos (Spanish)",
+   "Arbre aux quarante écus (French)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Tree",
+  "family": "Ginkgoaceae",
+  "shelves": [
+   "tree",
+   "ancient",
+   "medicinal",
+   "edible",
+   "toxic",
+   "endangered",
+   "marvel",
+   "sacred"
+  ],
+  "summary": "The last survivor of an order of trees that goes back more than 290 million years, often called a living fossil. Its fan-shaped leaves look much like Jurassic fossils, and several trees near the Hiroshima hypocentre survived the 1945 bombing and still leaf out every spring.",
+  "nativeRange": "Possibly wild populations in Zhejiang and Guizhou/Chongqing, China; planted worldwide",
+  "regions": [
+   "East Asia"
+  ],
+  "biomes": [
+   "Temperate broadleaf forest",
+   "Temples and city streets"
+  ],
+  "abilities": [
+   "Has motile, swimming sperm with thousands of flagella, discovered in 1896 by Sakugoro Hirase",
+   "Tolerates air pollution, compacted soil and road salt, making it a favourite street tree",
+   "Has very few insect pests or diseases",
+   "Lives for well over 1,000 years; some temple trees in China are estimated at 3,000+ years"
+  ],
+  "edibility": "edible-with-care",
+  "edibleParts": [
+   "cooked seed kernels (bái guǒ / ginnan)"
+  ],
+  "edibilityNote": "Only the cooked kernel is eaten, and only a few at a time. Kernels contain ginkgotoxin (4′-O-methylpyridoxine), which can cause vomiting and seizures, especially in children who eat many; raw kernels are riskier. The smelly fleshy seed coat holds ginkgolic acids that cause poison-ivy-like dermatitis, so wear gloves.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Traditional Chinese medicine",
+     "use": "Seeds for cough, asthma and urinary frequency"
+    },
+    {
+     "tradition": "Modern European phytomedicine",
+     "use": "Standardised leaf extract (e.g. EGb 761) studied for dementia, memory and circulation"
+    }
+   ],
+   "compounds": [
+    "ginkgolides",
+    "bilobalide",
+    "flavonol glycosides",
+    "ginkgotoxin (seed)",
+    "ginkgolic acids (seed coat)"
+   ],
+   "evidence": "moderate",
+   "cautions": "Leaf extract may raise bleeding risk with anticoagulants or antiplatelet drugs and before surgery. Seeds can cause poisoning and seizures; the seed coat causes contact dermatitis."
+  },
+  "fruit": {
+   "type": "Fleshy seed (not a true fruit)",
+   "season": "Autumn",
+   "description": "Apricot-like seeds on female trees with a yellow outer coat that smells of rancid butter (butyric acid)."
+  },
+  "seed": {
+   "description": "Hard, cream-coloured inner shell around a green kernel, inside a fleshy outer coat",
+   "size": "~2–3 cm",
+   "dispersal": "Falls; probably once carried by animals that are now extinct",
+   "germination": "Clean the flesh off with gloves, cold-stratify 1–3 months, sow 2–3 cm deep"
+  },
+  "grow": {
+   "zones": "USDA 3–9",
+   "climates": [
+    "Temperate",
+    "Continental",
+    "Subtropical"
+   ],
+   "sun": "Full sun",
+   "water": "Moderate",
+   "soil": "Adaptable; well-drained",
+   "propagation": "Seed, cuttings, grafting (male clones for streets)",
+   "timeToHarvest": "Female trees bear seed after 20–35 years",
+   "steps": [
+    "Clean the seed with gloves and stratify it in damp sand in the fridge",
+    "Sow in deep pots, since it makes a long taproot",
+    "Grow in full sun; growth is slow for the first few years",
+    "Plant grafted male clones if you don't want the smelly seeds"
+   ]
+  },
+  "iucn": "EN",
+  "lore": "Monks kept ginkgo alive for centuries in temple gardens in China, Korea and Japan; Engelbert Kaempfer described it for Europe after visiting Japan in the 1690s. Goethe sent a pressed leaf with his 1815 poem 'Ginkgo biloba', using its split leaf as an image of one being that is also two.",
+  "historicalNames": [
+   "Ginkgo",
+   "Gingko",
+   "Ya jiao (duck's foot)"
+  ],
+  "funFact": "The odd spelling 'Ginkgo' was long blamed on a misprint by Engelbert Kaempfer; later research suggests it reflects how his Nagasaki interpreter pronounced 'ginkyō'."
+ },
+ {
+  "slug": "welwitschia-mirabilis",
+  "scientific": "Welwitschia mirabilis",
+  "common": "Welwitschia",
+  "otherNames": [
+   "Tweeblaarkanniedood (Afrikaans: 'two leaves can't die')",
+   "Onyanga (Herero)",
+   "Tumboa (Angolan Portuguese)",
+   "百岁兰 bǎisuìlán (Chinese)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Other",
+  "family": "Welwitschiaceae",
+  "shelves": [
+   "ancient",
+   "marvel",
+   "sacred"
+  ],
+  "summary": "A plant that grows just two leaves in its whole life, which can be more than a thousand years. The leaves keep growing from the base like conveyor belts while the tips fray in the Namib wind. It is the only species in its family, a gymnosperm lineage that branched off over 100 million years ago.",
+  "nativeRange": "Namib Desert of western Namibia and south-western Angola",
+  "regions": [
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Coastal fog desert"
+  ],
+  "abilities": [
+   "Grows only two strap-shaped leaves, which lengthen continuously from a basal meristem for its whole life",
+   "Large plants are estimated by radiocarbon at 1,000–2,000 years old",
+   "Survives where rain may not fall for years, drawing on fog and a deep taproot",
+   "Its genome carries signs of an ancient duplication and stress-tolerance adaptations linked to its longevity"
+  ],
+  "edibility": "not-edible",
+  "edibleParts": [],
+  "edibilityNote": "The core was reportedly eaten raw or roasted in hard times by local peoples, but it is protected and should not be harvested.",
+  "fruit": {
+   "type": "Cones (male and female on separate plants)",
+   "season": "Mostly spring and summer after rare rain",
+   "description": "Female plants bear blue-green to salmon cones; male cones are smaller and salmon-coloured."
+  },
+  "seed": {
+   "description": "Papery-winged seeds",
+   "size": "~2–3 cm with wing",
+   "dispersal": "Wind; establishment only after unusual rains",
+   "germination": "Sow fresh on sandy mix at 25–30 °C; fungal rot is the main killer"
+  },
+  "grow": {
+   "zones": "USDA 10–11 (or glasshouse)",
+   "climates": [
+    "Arid"
+   ],
+   "sun": "Full sun",
+   "water": "Low but regular in deep pots",
+   "soil": "Very deep, pure sandy-gritty mix",
+   "propagation": "Seed only",
+   "timeToHarvest": "Ornamental; cones after several years",
+   "steps": [
+    "Dust fresh seed with fungicide and sow in a very deep pot of sterile sand",
+    "Keep at 25–30 °C and lightly moist until germination (1–3 weeks)",
+    "Never transplant: the taproot hates disturbance",
+    "Give strong sun and water deeply but infrequently"
+   ]
+  },
+  "iucn": "LC",
+  "lore": "Austrian botanist Friedrich Welwitsch found it in southern Angola in 1859 and reportedly knelt and stared, afraid it would vanish if he touched it; Joseph Hooker described it in 1863. It appears on Namibia's national coat of arms.",
+  "historicalNames": [
+   "Tumboa bainesii",
+   "Welwitschia bainesii"
+  ],
+  "funFact": "Each plant has only two true leaves; the many 'leaves' you see are those two, split lengthwise by wind into ribbons."
+ },
+ {
+  "slug": "dracaena-cinnabari",
+  "scientific": "Dracaena cinnabari",
+  "common": "Socotra dragon tree",
+  "otherNames": [
+   "Dam al-akhawayn ('blood of the two brothers', Arabic)",
+   "Arhiyeb (Soqotri)",
+   "Dragon's blood tree (English)",
+   "Árbol de sangre de dragón (Spanish)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Tree",
+  "family": "Asparagaceae",
+  "shelves": [
+   "tree",
+   "endangered",
+   "medicinal",
+   "dye-fibre",
+   "marvel"
+  ],
+  "summary": "An umbrella-shaped tree found only on the island of Socotra, whose bark bleeds a deep red resin, the 'dragon's blood' traded across the ancient world. Its dense, upturned crown catches mist and shades its own roots in a harsh, dry climate.",
+  "nativeRange": "Endemic to the Socotra archipelago, Yemen",
+  "regions": [
+   "West Asia"
+  ],
+  "biomes": [
+   "Arid montane woodland",
+   "Limestone plateaus"
+  ],
+  "abilities": [
+   "Its umbrella crown condenses mist and funnels water down the branches while shading the soil",
+   "Exudes a red resin (dragon's blood) when the bark is cut",
+   "Survives on fog and monsoon moisture on dry limestone plateaus",
+   "Shades seedlings of other species, creating micro-habitats on bare ground"
+  ],
+  "edibility": "not-edible",
+  "edibleParts": [],
+  "edibilityNote": "Not a food; resin is used medicinally and as a dye. Livestock graze seedlings.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Socotri folk medicine",
+     "use": "Resin applied to wounds and burns and taken for diarrhoea and fevers"
+    },
+    {
+     "tradition": "Greco-Roman medicine (Dioscorides, as 'kinnabari')",
+     "use": "Resin as an astringent for wounds and eye problems"
+    }
+   ],
+   "compounds": [
+    "flavonoids",
+    "homoisoflavonoids",
+    "dracorhodin-type pigments"
+   ],
+   "evidence": "traditional",
+   "cautions": "Commercial 'dragon's blood' often comes from other species (Daemonorops, Croton); identity varies."
+  },
+  "fruit": {
+   "type": "Berry",
+   "season": "After flowering in early year",
+   "description": "Small orange-red berries eaten by birds."
+  },
+  "seed": {
+   "description": "Round seeds 1–3 per berry",
+   "size": "~5 mm",
+   "dispersal": "Birds",
+   "germination": "Sow fresh in warm, free-draining mix; germination slow"
+  },
+  "grow": {
+   "zones": "USDA 10–11",
+   "climates": [
+    "Arid",
+    "Subtropical"
+   ],
+   "sun": "Full sun",
+   "water": "Low",
+   "soil": "Very free-draining, mineral",
+   "propagation": "Seed",
+   "timeToHarvest": "Ornamental; extremely slow",
+   "steps": [
+    "Sow fresh seed in gritty mix at 25 °C",
+    "Grow on in bright light, letting it dry between waterings",
+    "Keep frost-free; overwatering causes rot",
+    "Be patient: it may take decades to branch"
+   ]
+  },
+  "iucn": "VU",
+  "lore": "Socotra's resin is thought to be the 'cinnabar' of Pliny and the Periplus of the Erythraean Sea. A Socotri legend says the trees first grew from the blood of two brothers who fought to the death.",
+  "historicalNames": [
+   "Cinnabaris",
+   "Sanguis draconis",
+   "Dragon's blood"
+  ],
+  "funFact": "It branches only when its growing tip stops, usually after flowering, so the forks of its umbrella crown record the tree's flowering history."
+ },
+ {
+  "slug": "rafflesia-arnoldii",
+  "scientific": "Rafflesia arnoldii",
+  "common": "Corpse lily (Rafflesia)",
+  "otherNames": [
+   "Padma raksasa (Indonesian)",
+   "Bunga bangkai ('corpse flower', Malay/Indonesian)",
+   "Puspa langka (Indonesian national 'rare flower')",
+   "Monster flower (English)",
+   "大王花 dàwánghuā (Chinese)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Other",
+  "family": "Rafflesiaceae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "One of the largest single flowers on Earth, up to about a metre across and weighing up to roughly 11 kg. Rafflesia has no leaves, stems or roots: it lives as threads inside a jungle vine and appears only when a cabbage-like bud bursts through the bark and opens into a flower that smells of rotting meat.",
+  "nativeRange": "Rainforests of Sumatra and Borneo",
+  "regions": [
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Tropical lowland and hill rainforest"
+  ],
+  "abilities": [
+   "Is a holoparasite with no leaves, stem, roots or chlorophyll, living as cell strands inside Tetrastigma vines",
+   "Produces flowers up to about 1 m across, the largest single flowers known",
+   "Mimics a carcass in colour, texture and smell to attract carrion flies as pollinators",
+   "Has lost its chloroplast genome, and has taken up many genes from its host by horizontal gene transfer"
+  ],
+  "edibility": "not-edible",
+  "edibleParts": [],
+  "edibilityNote": "Not eaten as food. Buds are harvested in some areas for traditional medicine, which threatens wild populations.",
+  "fruit": {
+   "type": "Fleshy berry-like fruit",
+   "season": "Months after pollination",
+   "description": "Round, rough fruit with oily pulp and thousands of tiny seeds."
+  },
+  "seed": {
+   "description": "Minute seeds with oily pulp",
+   "size": "<1 mm",
+   "dispersal": "Probably small mammals such as tree shrews, and ants",
+   "germination": "Only on Tetrastigma host vines; how infection happens is poorly understood"
+  },
+  "iucn": "NE",
+  "lore": "A guide working for Joseph Arnold and Stamford Raffles found it in Sumatra in 1818; Arnold died shortly afterward and the plant was named after both men. It is one of Indonesia's three national flowers.",
+  "historicalNames": [
+   "Rafflesia titan",
+   "Ambun-ambun"
+  ],
+  "funFact": "Each flower lasts only about five to seven days, after a bud that took roughly nine months to a year to develop."
+ },
+ {
+  "slug": "amorphophallus-titanum",
+  "scientific": "Amorphophallus titanum",
+  "common": "Titan arum (Corpse flower)",
+  "otherNames": [
+   "Bunga bangkai (Indonesian: 'corpse flower')",
+   "Suweg raksasa (Indonesian)",
+   "Kibut (Indonesian/Sundanese)",
+   "巨魔芋 jùmóyù (Chinese)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Herb",
+  "family": "Araceae",
+  "shelves": [
+   "marvel",
+   "endangered"
+  ],
+  "summary": "The largest unbranched inflorescence in the plant world, rising up to about 3 m from a corm that can weigh more than 150 kg. When it blooms it heats its central spike and pumps out a stench of rotting flesh to draw carrion beetles and flies through the Sumatran forest.",
+  "nativeRange": "Equatorial rainforest of western Sumatra, Indonesia",
+  "regions": [
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Tropical rainforest (hillsides and clearings)"
+  ],
+  "abilities": [
+   "Heats its spadix (thermogenesis) to near human body temperature, helping the scent spread",
+   "Releases sulfur compounds such as dimethyl trisulfide that smell like a carcass",
+   "Stores energy in a giant corm; a record corm at Edinburgh weighed 153.9 kg in 2010",
+   "Between blooms it grows a single huge leaf that can reach about 6 m, like a small tree"
+  ],
+  "edibility": "not-edible",
+  "edibleParts": [],
+  "edibilityNote": "Not eaten. Like many aroids its tissues contain calcium oxalate crystals, which burn the mouth if eaten raw.",
+  "fruit": {
+   "type": "Berries on the spadix base",
+   "season": "Months after pollination",
+   "description": "Hundreds of olive-sized berries ripen from yellow to red."
+  },
+  "seed": {
+   "description": "One or two seeds per berry",
+   "size": "~1–2 cm",
+   "dispersal": "Birds such as hornbills eat the berries",
+   "germination": "Sow fresh (seeds don't store) in warm, humid mix"
+  },
+  "grow": {
+   "zones": "Tropical only (USDA 11–12) or heated glasshouse",
+   "climates": [
+    "Tropical"
+   ],
+   "sun": "Bright filtered light",
+   "water": "High while in leaf; reduce during dormancy",
+   "soil": "Rich, very well-drained aroid mix",
+   "propagation": "Fresh seed, or leaf cuttings in specialist collections",
+   "timeToHarvest": "First flowering usually after 7–10 years",
+   "steps": [
+    "Sow fresh seed immediately in warm, humid conditions",
+    "Pot the corm into progressively larger containers as it grows",
+    "Keep humid and warm (24–30 °C) year-round",
+    "Let the leaf die back naturally and rest the corm before regrowth"
+   ]
+  },
+  "iucn": "EN",
+  "lore": "Italian botanist Odoardo Beccari sent seeds to Europe after finding it in 1878, and it first bloomed in cultivation at Kew in 1889. David Attenborough coined 'titan arum' for his BBC series The Private Life of Plants, finding the Latin name too rude for television.",
+  "historicalNames": [
+   "Conophallus titanum"
+  ],
+  "funFact": "The Latin name means 'giant misshapen phallus'."
+ },
+ {
+  "slug": "dionaea-muscipula",
+  "scientific": "Dionaea muscipula",
+  "common": "Venus flytrap",
+  "otherNames": [
+   "Tippitiwitchet (historic Carolina name)",
+   "Dionée attrape-mouche (French)",
+   "Venusfliegenfalle (German)",
+   "Atrapamoscas (Spanish)",
+   "捕蝇草 bǔyíngcǎo (Chinese)",
+   "Hae-torigusa ハエトリグサ (Japanese)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Herb",
+  "family": "Droseraceae",
+  "shelves": [
+   "carnivorous",
+   "marvel",
+   "endangered"
+  ],
+  "summary": "A plant that counts. Its hinged leaf-traps snap shut in about a tenth of a second, but only after two touches of the trigger hairs within about 20 seconds, and it starts making digestive enzymes only after more touches. In the wild it grows only in a small area of the Carolinas.",
+  "nativeRange": "Coastal plain wetlands within roughly 120 km of Wilmington, North and South Carolina",
+  "regions": [
+   "North America"
+  ],
+  "biomes": [
+   "Longleaf pine savanna",
+   "Pocosin wetland edges"
+  ],
+  "abilities": [
+   "Snaps its trap in about 100 milliseconds using stored elastic energy that flips the leaf's curvature",
+   "Counts trigger-hair touches: two to close, five or so to start full digestion",
+   "Sends electrical action potentials through the leaf, much like a nerve",
+   "Gets nitrogen and phosphorus from prey, which lets it grow in very poor, boggy soils",
+   "Depends on regular fire to keep competing plants from shading it"
+  ],
+  "edibility": "not-edible",
+  "edibleParts": [],
+  "edibilityNote": "Not eaten. Not significantly toxic.",
+  "fruit": {
+   "type": "Capsule",
+   "season": "Early summer",
+   "description": "Small capsules on a tall stalk, held well above the traps so pollinators are not caught."
+  },
+  "seed": {
+   "description": "Shiny black pear-shaped seeds",
+   "size": "~1 mm",
+   "dispersal": "Drop near the parent",
+   "germination": "Surface-sow on damp peat-sand; 2–4 weeks in light and warmth"
+  },
+  "grow": {
+   "zones": "USDA 7–10 outdoors (needs winter dormancy)",
+   "climates": [
+    "Subtropical",
+    "Temperate"
+   ],
+   "sun": "Full sun",
+   "water": "Constantly moist with rainwater or distilled water only",
+   "soil": "Unfertilised sphagnum peat with sand or perlite",
+   "propagation": "Seed, leaf pullings, rhizome division",
+   "timeToHarvest": "Mature in 3–5 years from seed",
+   "steps": [
+    "Pot in pure peat and perlite (no fertiliser, no potting compost)",
+    "Stand the pot in a tray of rainwater in full sun",
+    "Never use tap water with dissolved minerals and never fertilise the soil",
+    "Give a cool winter dormancy (around 0–10 °C) for 3–4 months"
+   ]
+  },
+  "iucn": "VU",
+  "lore": "Governor Arthur Dobbs of North Carolina described it in 1759, and Charles Darwin called it 'one of the most wonderful plants in the world' in Insectivorous Plants (1875). Since 2014, poaching wild flytraps in North Carolina has been a felony.",
+  "historicalNames": [
+   "Tipitiwitchet",
+   "Fly-trap sensitive",
+   "Muscipula Dionaea"
+  ],
+  "funFact": "Small insects that can wriggle out between the 'teeth' are released on purpose; the trap does not seal for prey too small to be worth digesting."
+ },
+ {
+  "slug": "nepenthes-rajah",
+  "scientific": "Nepenthes rajah",
+  "common": "Giant Malaysian pitcher plant",
+  "otherNames": [
+   "Rajah pitcher plant (English)",
+   "Periuk kera ('monkey cup', Malay)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Vine",
+  "family": "Nepenthaceae",
+  "shelves": [
+   "carnivorous",
+   "marvel",
+   "endangered"
+  ],
+  "summary": "Maker of the largest pitchers of any carnivorous plant, up to about 40 cm tall and holding litres of fluid. It catches insects, but also gets nitrogen from tree shrews that sit on the rim to lick nectar from the lid and leave their droppings in the pitcher.",
+  "nativeRange": "Endemic to Mount Kinabalu and Mount Tambuyukon, Sabah, Malaysian Borneo, about 1,500–2,650 m",
+  "regions": [
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Montane ultramafic grassland and forest edges"
+  ],
+  "abilities": [
+   "Forms urn-shaped pitchers big enough to hold several litres of fluid",
+   "Feeds mountain tree shrews (Tupaia montana) with lid nectar, and the pitcher fits a tree shrew's body exactly",
+   "Its slippery rim (peristome) sends insects into digestive fluid",
+   "Grows on serpentine (ultramafic) soils rich in metals and poor in nutrients",
+   "Occasionally traps frogs, lizards or rats"
+  ],
+  "edibility": "not-edible",
+  "edibleParts": [],
+  "edibilityNote": "Not eaten. Protected species.",
+  "fruit": {
+   "type": "Capsule",
+   "season": "Year-round",
+   "description": "Narrow capsules on a tall raceme, plants are male or female."
+  },
+  "seed": {
+   "description": "Thread-like winged seeds",
+   "size": "~5 mm",
+   "dispersal": "Wind",
+   "germination": "Surface-sow fresh on milled sphagnum, high humidity, cool nights"
+  },
+  "grow": {
+   "zones": "Glasshouse/terrarium only (highland conditions)",
+   "climates": [
+    "Tropical montane"
+   ],
+   "sun": "Bright, filtered light",
+   "water": "High humidity; pure water",
+   "soil": "Open mix of sphagnum, bark, perlite and pumice",
+   "propagation": "Tissue culture or seed (wild collection is illegal)",
+   "timeToHarvest": "Large pitchers after 5–10 years",
+   "steps": [
+    "Buy legal tissue-cultured plants (it is on CITES Appendix I)",
+    "Keep days around 20–25 °C and nights about 10–15 °C",
+    "Give 70–90% humidity and rainwater only",
+    "Don't fertilise the medium; an occasional insect in a pitcher is enough"
+   ]
+  },
+  "iucn": "EN",
+  "lore": "Hugh Low collected it on Kinabalu in 1858 and Joseph Hooker named it in 1859 for James Brooke, the 'White Rajah' of Sarawak. Victorian nurseries such as Veitch sent collectors to Borneo for these plants.",
+  "historicalNames": [
+   "Nepenthes rajah Hook.f."
+  ],
+  "funFact": "The opening of the pitcher matches a tree shrew's body length, so the animal sits where its droppings fall straight into it."
+ },
+ {
+  "slug": "drosera-rotundifolia",
+  "scientific": "Drosera rotundifolia",
+  "common": "Round-leaved sundew",
+  "otherNames": [
+   "Rosée du soleil (French)",
+   "Rosolio (Italian)",
+   "Rundblättriger Sonnentau (German)",
+   "Rocío del sol (Spanish)",
+   "Mōsen-goke モウセンゴケ (Japanese)",
+   "圆叶茅膏菜 (Chinese)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Herb",
+  "family": "Droseraceae",
+  "shelves": [
+   "carnivorous",
+   "medicinal",
+   "marvel"
+  ],
+  "summary": "A small bog plant whose leaves are covered in red tentacles, each tipped with a drop of sticky 'dew'. Insects that land get stuck, the tentacles slowly bend over them, and the leaf digests them. Darwin spent years experimenting on it.",
+  "nativeRange": "Circumboreal: Europe, northern Asia, North America, Greenland",
+  "regions": [
+   "Europe",
+   "North America",
+   "Central Asia",
+   "East Asia",
+   "Arctic"
+  ],
+  "biomes": [
+   "Peat bog",
+   "Fen",
+   "Wet heath"
+  ],
+  "abilities": [
+   "Its glandular tentacles secrete sticky mucilage that traps insects",
+   "Bends tentacles, and sometimes the whole leaf, around struggling prey over minutes to hours",
+   "Secretes digestive enzymes and absorbs nitrogen from prey",
+   "Survives harsh winters as a tight bud (hibernaculum)"
+  ],
+  "edibility": "not-edible",
+  "edibleParts": [],
+  "edibilityNote": "Not a food. Historically used to flavour liqueur and curdle milk.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "European folk medicine",
+     "use": "Herb tea or tincture for dry and spasmodic coughs and whooping cough"
+    },
+    {
+     "tradition": "Homeopathy (Drosera)",
+     "use": "Remedy for coughs (homeopathic preparations contain essentially no plant material)"
+    }
+   ],
+   "compounds": [
+    "naphthoquinones (7-methyljuglone, plumbagin)",
+    "flavonoids (quercetin, hyperoside)"
+   ],
+   "evidence": "traditional",
+   "cautions": "Wild collection is restricted in many countries; most commercial Drosera is other species. Naphthoquinones irritate skin."
+  },
+  "fruit": {
+   "type": "Capsule",
+   "season": "Summer",
+   "description": "Tiny capsules on a slender stalk well above the leaves."
+  },
+  "seed": {
+   "description": "Minute spindle-shaped seeds",
+   "size": "~1–1.5 mm",
+   "dispersal": "Wind and water",
+   "germination": "Cold-stratify 4–8 weeks; surface-sow on damp peat in light"
+  },
+  "grow": {
+   "zones": "USDA 3–8",
+   "climates": [
+    "Temperate",
+    "Boreal",
+    "Oceanic"
+   ],
+   "sun": "Full sun",
+   "water": "Constantly wet; rainwater only",
+   "soil": "Live sphagnum or peat-sand",
+   "propagation": "Seed, leaf cuttings, gemmae",
+   "timeToHarvest": "Mature in 1–2 years",
+   "steps": [
+    "Sow stratified seed on damp peat or live sphagnum",
+    "Keep in a tray of rainwater in full sun",
+    "Give a cold winter rest outdoors or in a fridge",
+    "Don't fertilise; let it catch its own insects"
+   ]
+  },
+  "iucn": "LC",
+  "lore": "Darwin wrote in 1860 that he cared more for Drosera than for the origin of all the species in the world, and his Insectivorous Plants (1875) begins with it. Italian rosolio liqueur gets its name from the sundew (ros solis, 'dew of the sun').",
+  "historicalNames": [
+   "Ros solis",
+   "Rorella",
+   "Sundew",
+   "Youthwort"
+  ],
+  "funFact": "A sundew leaf can tell a real insect from a raindrop or grain of sand and responds far more strongly to nitrogen-containing objects."
+ },
+ {
+  "slug": "wollemia-nobilis",
+  "scientific": "Wollemia nobilis",
+  "common": "Wollemi pine",
+  "otherNames": [
+   "Dinosaur tree (English)",
+   "瓦勒迈杉 wǎlèmàishān (Chinese)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Tree",
+  "family": "Araucariaceae",
+  "shelves": [
+   "tree",
+   "ancient",
+   "endangered",
+   "marvel"
+  ],
+  "summary": "A tree known only from fossils until 1994, when ranger David Noble abseiled into a gorge in Wollemi National Park near Sydney and found a living grove. Fewer than 100 mature trees survive in the wild, in a location kept secret.",
+  "nativeRange": "A few sandstone gorges in Wollemi National Park, New South Wales, Australia",
+  "regions": [
+   "Australia"
+  ],
+  "biomes": [
+   "Warm-temperate rainforest gorges"
+  ],
+  "abilities": [
+   "Belongs to an ancient lineage of the Araucariaceae; pollen like it (Dilwynites) goes back about 90 million years",
+   "Grows multiple trunks from its base (coppicing), helping it survive rockfall and fire",
+   "Sheds whole branches rather than individual leaves",
+   "Has bubbly, chocolate-brown bark often compared to the cereal Coco Pops"
+  ],
+  "edibility": "not-edible",
+  "edibleParts": [],
+  "edibilityNote": "Not eaten.",
+  "fruit": {
+   "type": "Seed cone",
+   "season": "Matures in about 18 months",
+   "description": "Green spherical female cones at branch tips; male cones lower down."
+  },
+  "seed": {
+   "description": "Small, papery-winged seeds",
+   "size": "~1 cm with wing",
+   "dispersal": "Wind and gravity",
+   "germination": "Sow fresh at 18–25 °C; germination can be patchy"
+  },
+  "grow": {
+   "zones": "USDA 7–10",
+   "climates": [
+    "Temperate",
+    "Subtropical",
+    "Oceanic"
+   ],
+   "sun": "Partial shade to full sun",
+   "water": "Moderate",
+   "soil": "Well-drained, slightly acidic",
+   "propagation": "Cuttings (most plants sold are clones from the 2005 release program)",
+   "timeToHarvest": "Ornamental",
+   "steps": [
+    "Buy a nursery-raised plant",
+    "Plant in sheltered, well-drained soil or a large pot",
+    "Water regularly while young and avoid waterlogging",
+    "Never visit the wild site: footsteps carry the deadly Phytophthora cinnamomi root rot"
+   ]
+  },
+  "iucn": "CR",
+  "lore": "Its 1994 discovery was compared to finding a living dinosaur. In January 2020, during the Black Summer fires, firefighters were winched in by helicopter and set up irrigation and water drops that saved the wild grove.",
+  "historicalNames": [],
+  "funFact": "Nursery plants were sold worldwide from 2005, partly to remove the incentive for collectors to raid the secret wild grove."
+ },
+ {
+  "slug": "cedrus-libani",
+  "scientific": "Cedrus libani",
+  "common": "Cedar of Lebanon",
+  "otherNames": [
+   "Arz (Arabic)",
+   "Erez (Hebrew)",
+   "Lübnan sediri (Turkish)",
+   "Sedr (Persian)",
+   "Cèdre du Liban (French)",
+   "Cedro del Líbano (Spanish)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Tree",
+  "family": "Pinaceae",
+  "shelves": [
+   "tree",
+   "sacred",
+   "dye-fibre",
+   "endangered",
+   "medicinal"
+  ],
+  "summary": "A tree that built empires. Its fragrant, rot-resistant wood went into Phoenician ships, Egyptian tombs and, the Bible says, Solomon's Temple. Ancient demand stripped the Lebanon mountains, so only scattered groves now survive, and the tree stands on the Lebanese flag.",
+  "nativeRange": "Mountains of Lebanon, western Syria and southern Turkey (Taurus), 1,300–3,000 m",
+  "regions": [
+   "West Asia"
+  ],
+  "biomes": [
+   "Mediterranean montane forest"
+  ],
+  "abilities": [
+   "Grows broad, tiered horizontal branches in old age",
+   "Produces aromatic wood rich in sesquiterpenes that resists insects and decay",
+   "Lives for well over 1,000 years in favourable sites",
+   "Withstands cold, snowy mountain winters and dry Mediterranean summers"
+  ],
+  "edibility": "not-edible",
+  "edibleParts": [],
+  "edibilityNote": "Not eaten. Essential oil is not for internal use.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Ancient Egyptian practice",
+     "use": "Cedar oil and resin used in embalming (the botanical source of some 'cedar' oils is debated)"
+    },
+    {
+     "tradition": "Levantine folk medicine",
+     "use": "Resin and oil applied to skin infections and as an insect repellent"
+    }
+   ],
+   "compounds": [
+    "himachalenes",
+    "atlantones",
+    "cedrol-type sesquiterpenes"
+   ],
+   "evidence": "traditional",
+   "cautions": "Essential oils can irritate skin and are toxic if swallowed in quantity."
+  },
+  "fruit": {
+   "type": "Upright woody cone",
+   "season": "Matures over 2 years",
+   "description": "Barrel-shaped cones 8–12 cm that break apart on the tree to release seeds."
+  },
+  "seed": {
+   "description": "Resinous seeds with a large wing",
+   "size": "~1 cm (wing ~2.5 cm)",
+   "dispersal": "Wind",
+   "germination": "Short cold stratification (2–4 weeks); sow in spring"
+  },
+  "grow": {
+   "zones": "USDA 5–9",
+   "climates": [
+    "Mediterranean",
+    "Temperate"
+   ],
+   "sun": "Full sun",
+   "water": "Low–moderate once established",
+   "soil": "Well-drained; tolerates lime",
+   "propagation": "Seed",
+   "timeToHarvest": "Cones after 25–40 years",
+   "steps": [
+    "Soak seed overnight and stratify briefly",
+    "Sow in deep pots in spring",
+    "Plant out young (it dislikes root disturbance) in a spacious, sunny spot",
+    "Water through the first summers; after that it is drought-tolerant"
+   ]
+  },
+  "iucn": "VU",
+  "lore": "In the Epic of Gilgamesh the hero kills Humbaba, guardian of the Cedar Forest, to take its trees. The Cedars of God grove at Bsharri, Lebanon, was inscribed by UNESCO in 1998 with the Qadisha Valley.",
+  "historicalNames": [
+   "Cedrus",
+   "Arbor vitae Libani",
+   "Cedre"
+  ],
+  "funFact": "The Palermo Stone records pharaoh Sneferu (c. 2600 BCE) bringing 40 ships filled with cedar wood, usually read as a shipment from Byblos on the Lebanese coast."
+ },
+ {
+  "slug": "quercus-robur",
+  "scientific": "Quercus robur",
+  "common": "English oak (Pedunculate oak)",
+  "otherNames": [
+   "Stieleiche (German)",
+   "Chêne pédonculé (French)",
+   "Roble común (Spanish)",
+   "Dąb szypułkowy (Polish)",
+   "Dub (Russian)",
+   "Dair (Irish)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Tree",
+  "family": "Fagaceae",
+  "shelves": [
+   "tree",
+   "keystone",
+   "sacred",
+   "dye-fibre",
+   "medicinal",
+   "edible",
+   "toxic",
+   "ancient"
+  ],
+  "summary": "A living city. A 2019 study found that English oak supports more than 2,300 species in Britain, including hundreds that live on nothing else. Individual trees can live for more than 1,000 years, and oak has been a sacred tree in Europe since before history.",
+  "nativeRange": "Most of Europe to the Caucasus and northern Turkey",
+  "regions": [
+   "Europe",
+   "West Asia"
+  ],
+  "biomes": [
+   "Temperate broadleaf forest",
+   "Wood pasture",
+   "Hedgerows"
+  ],
+  "abilities": [
+   "Supports more invertebrates, lichens and fungi than any other native British tree",
+   "Masts: produces huge acorn crops in some years and few in others, which outpaces seed-eaters",
+   "Relies on jays to plant acorns, sometimes kilometres away",
+   "Lives for more than 1,000 years, often hollowing out in old age and surviving as a shell",
+   "Reacts to gall wasps by growing galls rich in tannin, used for iron-gall ink"
+  ],
+  "edibility": "edible-with-care",
+  "edibleParts": [
+   "acorns (after leaching)"
+  ],
+  "edibilityNote": "Raw acorns are bitter with tannins and cause stomach upset; they must be leached repeatedly in water before being ground into flour. Acorns and leaves poison cattle and horses in quantity.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "European herbal medicine",
+     "use": "Bark decoction as an astringent for diarrhoea, sore throats and skin inflammation"
+    },
+    {
+     "tradition": "German Commission E",
+     "use": "Oak bark approved for external use on inflamed skin and for acute diarrhoea"
+    }
+   ],
+   "compounds": [
+    "ellagitannins",
+    "gallic acid",
+    "catechins"
+   ],
+   "evidence": "traditional",
+   "cautions": "High-tannin preparations can irritate the stomach and reduce absorption of other medicines; avoid on large damaged skin areas."
+  },
+  "fruit": {
+   "type": "Nut (acorn)",
+   "season": "Autumn",
+   "description": "Acorns held in scaly cups on long stalks (peduncles)."
+  },
+  "seed": {
+   "description": "Acorn; seed must not dry out",
+   "size": "~2–3 cm",
+   "dispersal": "Jays, squirrels and mice that bury and forget acorns",
+   "germination": "Sow fresh in autumn; root emerges the same winter, shoot in spring"
+  },
+  "grow": {
+   "zones": "USDA 4–8",
+   "climates": [
+    "Temperate",
+    "Oceanic",
+    "Continental"
+   ],
+   "sun": "Full sun",
+   "water": "Moderate",
+   "soil": "Deep, fertile; tolerates clay",
+   "propagation": "Fresh acorns",
+   "timeToHarvest": "Acorns after 40–50 years",
+   "steps": [
+    "Collect acorns as they fall and float-test them (discard floaters)",
+    "Sow at once in deep pots or straight into the ground",
+    "Protect from mice and squirrels with mesh",
+    "Plant out within 1–2 years before the taproot gets long"
+   ]
+  },
+  "iucn": "LC",
+  "lore": "Pliny the Elder described Gaulish druids cutting mistletoe from oaks with a golden sickle, and Charles II hid in the 'Royal Oak' at Boscobel in 1651. Oak was the timber of the Royal Navy and of Europe's cathedrals.",
+  "historicalNames": [
+   "Quercus",
+   "Robur",
+   "Ake",
+   "Chesne"
+  ],
+  "funFact": "Magna Carta, Leonardo's notebooks and Bach's manuscripts were written in iron-gall ink, made from tannin-rich oak galls and iron salts."
+ },
+ {
+  "slug": "fagus-sylvatica",
+  "scientific": "Fagus sylvatica",
+  "common": "European beech",
+  "otherNames": [
+   "Rotbuche (German)",
+   "Hêtre (French)",
+   "Haya (Spanish)",
+   "Faggio (Italian)",
+   "Buk (Polish/Czech)",
+   "Fagus (Latin)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Tree",
+  "family": "Fagaceae",
+  "shelves": [
+   "tree",
+   "keystone",
+   "edible",
+   "toxic",
+   "dye-fibre"
+  ],
+  "summary": "The tree that shades out nearly everything else. Beech casts such deep shade that it came to dominate huge areas of Europe after the last Ice Age, forming cathedral-like forests with almost no undergrowth. The word 'book' comes from it.",
+  "nativeRange": "Western, central and southern Europe, from southern Scandinavia to Sicily and the Balkans",
+  "regions": [
+   "Europe"
+  ],
+  "biomes": [
+   "Temperate broadleaf forest"
+  ],
+  "abilities": [
+   "Casts some of the deepest shade of any European tree, suppressing competitors",
+   "Its seedlings tolerate deep shade for decades, waiting for a gap to open",
+   "Masts heavily every few years, flooding the forest with beechnuts",
+   "Forms extensive root networks with ectomycorrhizal fungi such as chanterelles and ceps"
+  ],
+  "edibility": "edible-with-care",
+  "edibleParts": [
+   "beechnuts (roasted)",
+   "young spring leaves"
+  ],
+  "edibilityNote": "Beechnuts are edible in small amounts and better roasted; eating many raw causes stomach upset, from mildly toxic compounds (historically called \"fagin\"). Beechnuts are toxic to horses.",
+  "fruit": {
+   "type": "Nut in a spiny cupule",
+   "season": "Autumn",
+   "description": "Bristly husks that split into four to release two triangular nuts."
+  },
+  "seed": {
+   "description": "Three-sided brown nut (beech mast)",
+   "size": "~1.5 cm",
+   "dispersal": "Gravity, plus jays, rodents and formerly pigs",
+   "germination": "Cold-stratify 8–12 weeks; sow in spring"
+  },
+  "grow": {
+   "zones": "USDA 4–7",
+   "climates": [
+    "Temperate",
+    "Oceanic"
+   ],
+   "sun": "Full sun to deep shade",
+   "water": "Moderate; dislikes waterlogging and drought",
+   "soil": "Well-drained, chalk to acid",
+   "propagation": "Seed",
+   "timeToHarvest": "Nuts after 40–60 years",
+   "steps": [
+    "Collect nuts as they fall and stratify over winter",
+    "Sow in spring in pots or a seedbed",
+    "Keep young plants lightly shaded and moist",
+    "Plant as a tree or keep clipped as a hedge, which holds brown leaves all winter"
+   ]
+  },
+  "iucn": "LC",
+  "lore": "Germanic peoples carved runes on beech tablets, and the Old English 'bōc' and German 'Buche/Buch' link beech and book. The 'Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe' became a UNESCO World Heritage Site in 2007 and later grew to cover 18 countries.",
+  "historicalNames": [
+   "Fagus",
+   "Boc",
+   "Bucke",
+   "Fau"
+  ],
+  "funFact": "Beech holds dead leaves through winter when kept as a young tree or hedge (marcescence), which is why beech hedges stay brown and dense in winter."
+ },
+ {
+  "slug": "betula-pendula",
+  "scientific": "Betula pendula",
+  "common": "Silver birch",
+  "otherNames": [
+   "Beryoza берёза (Russian)",
+   "Koivu (Finnish)",
+   "Hängebirke (German)",
+   "Bouleau verruqueux (French)",
+   "Abedul (Spanish)",
+   "Beith (Gaelic)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Tree",
+  "family": "Betulaceae",
+  "shelves": [
+   "tree",
+   "edible",
+   "medicinal",
+   "dye-fibre",
+   "keystone",
+   "sacred"
+  ],
+  "summary": "The pioneer of the north. Silver birch is among the first trees to recolonise burned, cleared or glacier-scoured ground, and its white bark, rich in betulin, reflects sunlight. People have tapped its sap, written on its bark and built canoes and boxes from it for thousands of years.",
+  "nativeRange": "Most of Europe to Siberia and northern Kazakhstan, south to Turkey and Iran",
+  "regions": [
+   "Europe",
+   "Central Asia",
+   "West Asia"
+  ],
+  "biomes": [
+   "Boreal forest",
+   "Temperate broadleaf forest",
+   "Heathland"
+  ],
+  "abilities": [
+   "Disperses millions of light winged seeds, so it is quick to colonise open ground",
+   "Its bark is rich in betulin, a white triterpene that reflects light and repels water",
+   "Pushes large volumes of sugary sap up in spring before leafing out",
+   "Prepares soil for later trees by cycling nutrients through fast-rotting leaves"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "spring sap (fresh or fermented)",
+   "young leaves (tea)",
+   "inner bark (famine flour)"
+  ],
+  "edibilityNote": "Sap is drunk fresh in spring across Eastern Europe and Scandinavia. Birch pollen is a major cause of hay fever, and people with birch allergy often react to raw apples, hazelnuts and cherries.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "European herbal medicine",
+     "use": "Leaf tea as a diuretic for urinary tract irrigation (approved by German Commission E)"
+    },
+    {
+     "tradition": "Russian folk medicine",
+     "use": "Birch tar (dyogot) applied to skin conditions; birch twigs used in the banya"
+    }
+   ],
+   "compounds": [
+    "betulin",
+    "betulinic acid",
+    "flavonoids (hyperoside)"
+   ],
+   "evidence": "traditional",
+   "cautions": "Not for people with oedema from heart or kidney failure. Birch tar contains irritants. Birch pollen allergy is common."
+  },
+  "fruit": {
+   "type": "Winged nutlet in a catkin",
+   "season": "Late summer",
+   "description": "Cylindrical catkins break up into tiny winged seeds and three-lobed scales."
+  },
+  "seed": {
+   "description": "Tiny two-winged nutlets",
+   "size": "~2 mm",
+   "dispersal": "Wind, often across snow",
+   "germination": "Surface-sow; needs light. Brief cold stratification improves germination."
+  },
+  "grow": {
+   "zones": "USDA 2–7",
+   "climates": [
+    "Boreal",
+    "Temperate",
+    "Continental"
+   ],
+   "sun": "Full sun",
+   "water": "Moderate",
+   "soil": "Light, acidic, well-drained",
+   "propagation": "Seed",
+   "timeToHarvest": "Sap from trees ~20 cm diameter, about 15–20 years",
+   "steps": [
+    "Surface-sow seed in late winter and keep moist and bright",
+    "Plant out small: birches transplant poorly when larger",
+    "To tap sap, drill a small hole in early spring before bud-break and collect for a few days only",
+    "Plug the tap hole afterwards to protect the tree"
+   ]
+  },
+  "iucn": "LC",
+  "lore": "Medieval citizens of Novgorod scratched letters onto birch bark; more than 1,000 such 'beresty' documents have been dug up since 1951. Ötzi the Iceman carried birch-bark containers and birch-tar adhesive. It is the national tree of Finland and Russia.",
+  "historicalNames": [
+   "Betula",
+   "Birk",
+   "Byrce",
+   "Beith"
+  ],
+  "funFact": "Birch tar is the oldest known synthetic material; Neanderthals were making it as a glue more than 200,000 years ago."
+ },
+ {
+  "slug": "acer-saccharum",
+  "scientific": "Acer saccharum",
+  "common": "Sugar maple",
+  "otherNames": [
+   "Ininaatig (Ojibwe)",
+   "Érable à sucre (French)",
+   "Arce azucarero (Spanish)",
+   "Zuckerahorn (German)",
+   "糖槭 tángqì (Chinese)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Tree",
+  "family": "Sapindaceae",
+  "shelves": [
+   "tree",
+   "edible",
+   "keystone",
+   "sacred"
+  ],
+  "summary": "The source of maple syrup and the blaze of New England autumns. On spring days after freezing nights, pressure changes inside the wood push sugary sap out of any wound, and about 40 litres of sap boil down to one litre of syrup.",
+  "nativeRange": "Eastern Canada and north-eastern and central United States",
+  "regions": [
+   "North America"
+  ],
+  "biomes": [
+   "Temperate broadleaf forest"
+  ],
+  "abilities": [
+   "Flows sap during freeze–thaw cycles, when gas pressure in the wood fibres pushes sap from wounds",
+   "Lifts water from deep soil at night and releases it into dry topsoil (hydraulic lift), which helps nearby plants",
+   "Turns brilliant red, orange and yellow in autumn as chlorophyll breaks down and anthocyanins form",
+   "Tolerates deep shade as a sapling, waiting decades for a canopy gap"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "sap (syrup, sugar)",
+   "seeds (cooked)"
+  ],
+  "edibilityNote": "Sap is boiled into syrup and sugar. Not toxic to people, but wilted leaves of the related red maple (Acer rubrum) poison horses.",
+  "fruit": {
+   "type": "Double samara",
+   "season": "Autumn",
+   "description": "Paired winged seeds ('helicopters') joined at a U-shaped angle."
+  },
+  "seed": {
+   "description": "Round seed at the base of a papery wing",
+   "size": "~2.5 cm with wing",
+   "dispersal": "Wind, spinning",
+   "germination": "Cold-stratify 60–90 days; sow in spring"
+  },
+  "grow": {
+   "zones": "USDA 3–8",
+   "climates": [
+    "Temperate",
+    "Continental"
+   ],
+   "sun": "Full sun to partial shade",
+   "water": "Moderate",
+   "soil": "Deep, fertile, well-drained; dislikes road salt",
+   "propagation": "Seed",
+   "timeToHarvest": "Tap for syrup at about 25 cm diameter (30–40 years)",
+   "steps": [
+    "Stratify seed over winter in moist sand",
+    "Sow in spring; protect seedlings from deer",
+    "Plant in deep, moist, well-drained soil away from salted roads",
+    "Tap in late winter when days are above freezing and nights below; boil the sap down to 66% sugar"
+   ]
+  },
+  "iucn": "LC",
+  "lore": "Anishinaabe, Haudenosaunee and other nations made maple sugar long before Europeans arrived, holding sugar camps each spring; the Haudenosaunee honour the sap run with a Maple Ceremony of thanksgiving. A stylised maple leaf has been on Canada's flag since 1965.",
+  "historicalNames": [
+   "Acer saccharinum (old usage)",
+   "Sugar tree"
+  ],
+  "funFact": "The 2012 'Great Canadian Maple Syrup Heist' saw about 3,000 tonnes of syrup, worth around C$18 million, stolen from a Quebec strategic reserve."
+ },
+ {
+  "slug": "tectona-grandis",
+  "scientific": "Tectona grandis",
+  "common": "Teak",
+  "otherNames": [
+   "Sagwan / Sagaun (Hindi/Urdu)",
+   "Shaka (Sanskrit)",
+   "Thekku (Malayalam/Tamil)",
+   "Kyun (Burmese)",
+   "Mai sak (Thai)",
+   "Jati (Indonesian/Malay)",
+   "柚木 yòumù (Chinese)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Tree",
+  "family": "Lamiaceae",
+  "shelves": [
+   "tree",
+   "dye-fibre",
+   "medicinal",
+   "endangered"
+  ],
+  "summary": "A tree in the mint family that became the world's most famous ship timber. Teak's oily, silica-rich wood shrugs off water, rot and termites, so it was used for warships, temples and deck planks for centuries. The great natural teak forests of Myanmar, Laos and Thailand are now largely gone.",
+  "nativeRange": "India, Myanmar, Laos and Thailand; long naturalised in Java; plantations across the tropics",
+  "regions": [
+   "South Asia",
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Tropical monsoon (deciduous) forest"
+  ],
+  "abilities": [
+   "Makes heartwood with natural oils and tectoquinone that repel termites and fungi",
+   "Its wood barely shrinks or swells with moisture, so it was ideal for ship decks",
+   "Drops its huge leaves in the dry season and survives fire",
+   "Its leaves are among the largest of any tree, up to about 50 cm long, and yield a red dye"
+  ],
+  "edibility": "not-edible",
+  "edibleParts": [],
+  "edibilityNote": "Not a food. Leaves are used to wrap food in parts of India and Java. Teak sawdust can cause dermatitis and asthma.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Ayurveda",
+     "use": "Bark and wood (shaka) as astringent; leaf preparations for skin disease and bleeding"
+    },
+    {
+     "tradition": "Javanese folk medicine",
+     "use": "Young leaves used as a red dye and for skin problems"
+    }
+   ],
+   "compounds": [
+    "tectoquinone (2-methylanthraquinone)",
+    "lapachol",
+    "naphthoquinones"
+   ],
+   "evidence": "traditional",
+   "cautions": "Teak dust is a skin and respiratory sensitiser for woodworkers."
+  },
+  "fruit": {
+   "type": "Drupe in an inflated calyx",
+   "season": "Dry season after monsoon flowering",
+   "description": "Hard, four-chambered stone inside a papery, balloon-like calyx."
+  },
+  "seed": {
+   "description": "Very hard, woody fruit stone with up to four seeds",
+   "size": "~1–1.5 cm",
+   "dispersal": "Wind (papery calyx), water and gravity",
+   "germination": "Alternately soak and sun-dry fruits for 1–2 weeks to break dormancy; germination is erratic"
+  },
+  "grow": {
+   "zones": "Tropical only (USDA 10–12)",
+   "climates": [
+    "Tropical",
+    "Monsoon"
+   ],
+   "sun": "Full sun",
+   "water": "Wet season and dry season",
+   "soil": "Deep, well-drained, calcium-rich",
+   "propagation": "Seed, stump cuttings, tissue culture",
+   "timeToHarvest": "Plantation timber in 20–60 years",
+   "steps": [
+    "Soak fruits overnight and sun-dry by day for 1–2 weeks",
+    "Sow in nursery beds; transplant 'stumps' (pruned seedlings) at the start of the rains",
+    "Weed well: teak is intolerant of competition",
+    "Thin plantings over time to produce straight trunks"
+   ]
+  },
+  "iucn": "EN",
+  "lore": "Britain's Royal Navy and the East India Company built ships from Malabar and Burmese teak, and the timber trade shaped colonial forestry in British India.",
+  "historicalNames": [
+   "Tekka (Malayalam, source of 'teak')",
+   "Theka",
+   "Jatus"
+  ],
+  "funFact": "Teak is in the mint family, Lamiaceae, the same family as basil and lavender."
+ },
+ {
+  "slug": "swietenia-macrophylla",
+  "scientific": "Swietenia macrophylla",
+  "common": "Big-leaf mahogany",
+  "otherNames": [
+   "Caoba (Spanish)",
+   "Mogno (Brazilian Portuguese)",
+   "Aguano (Peru)",
+   "Sky fruit / Buah tunjuk langit (Malay)",
+   "Mahoni (Indonesian)",
+   "大叶桃花心木 (Chinese)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Tree",
+  "family": "Meliaceae",
+  "shelves": [
+   "tree",
+   "dye-fibre",
+   "medicinal",
+   "endangered"
+  ],
+  "summary": "The 'true' mahogany of fine furniture, whose deep-red, stable wood made it one of the most valuable timbers of the Americas. Heavy logging ran ahead of the law, and it was listed on CITES Appendix II in 2003. Its fruit capsules point skyward and split open to release winged seeds.",
+  "nativeRange": "Southern Mexico through Central America to the Amazon basin (Bolivia, Brazil, Peru)",
+  "regions": [
+   "Central America",
+   "South America"
+  ],
+  "biomes": [
+   "Tropical moist forest",
+   "Tropical dry forest"
+  ],
+  "abilities": [
+   "Produces dense, stable, rot-resistant red-brown heartwood",
+   "Its upright capsules split into five valves and release winged seeds that spin away on the wind",
+   "Grows into a forest giant over 40 m tall with buttressed trunks",
+   "Regenerates best after large disturbances such as floods, fires or hurricanes"
+  ],
+  "edibility": "not-edible",
+  "edibleParts": [],
+  "edibilityNote": "Not a food. Seeds are very bitter and used only medicinally; high doses have been linked to liver injury.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Malaysian/Indonesian folk medicine",
+     "use": "Seeds taken for diabetes and high blood pressure"
+    },
+    {
+     "tradition": "Amazonian folk medicine",
+     "use": "Bark decoctions for fever and diarrhoea"
+    }
+   ],
+   "compounds": [
+    "limonoids (swietenine, swietenolide)",
+    "tannins"
+   ],
+   "evidence": "traditional",
+   "cautions": "Seed preparations have caused liver toxicity in case reports; they may add to the effect of diabetes drugs."
+  },
+  "fruit": {
+   "type": "Woody capsule",
+   "season": "Dry season",
+   "description": "Upright, pear-shaped brown capsules 12–20 cm long that split from the base."
+  },
+  "seed": {
+   "description": "Flat seeds with a long brown wing",
+   "size": "~7–10 cm with wing",
+   "dispersal": "Wind",
+   "germination": "Sow fresh (short viability); 2–4 weeks in warmth"
+  },
+  "grow": {
+   "zones": "Tropical only (USDA 10–12)",
+   "climates": [
+    "Tropical"
+   ],
+   "sun": "Full sun",
+   "water": "Moderate–high",
+   "soil": "Deep, well-drained",
+   "propagation": "Seed",
+   "timeToHarvest": "Timber after 25–40 years in plantations",
+   "steps": [
+    "Sow fresh seed with the wing pointing up, barely covered",
+    "Keep in partial shade in the nursery",
+    "Plant out in mixed stands: monocultures are attacked by the mahogany shoot borer (Hypsipyla)",
+    "Prune to a single leader"
+   ]
+  },
+  "iucn": "EN",
+  "lore": "Mahogany furniture became a status symbol in 18th-century Britain, and Chippendale's designs relied on Caribbean and Central American mahogany cut and shipped largely by enslaved and forced labour. Illegal logging of mogno in the Brazilian Amazon was a major conservation scandal of the 1990s.",
+  "historicalNames": [
+   "Mahogani",
+   "Cedrela mahagoni (confused)"
+  ],
+  "funFact": "In Malaysia the seed is called 'sky fruit' because its capsules point straight up at the sky."
+ },
+ {
+  "slug": "rhizophora-mangle",
+  "scientific": "Rhizophora mangle",
+  "common": "Red mangrove",
+  "otherNames": [
+   "Mangle rojo (Spanish)",
+   "Mangue-vermelho (Brazilian Portuguese)",
+   "Palétuvier rouge (French)",
+   "Mangle (Taíno origin)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Tree",
+  "family": "Rhizophoraceae",
+  "shelves": [
+   "tree",
+   "keystone",
+   "ocean",
+   "marvel",
+   "dye-fibre",
+   "medicinal"
+  ],
+  "summary": "A tree that walks into the sea on stilts. Red mangroves arch prop roots into salty mud, keep most of the salt out at the root surface, and drop seedlings that have already germinated on the tree and can float for months. Their roots shelter young fish and buffer coasts from storms.",
+  "nativeRange": "Tropical Atlantic and eastern Pacific coasts: Florida, Caribbean, Gulf of Mexico, Central and South America, West Africa; introduced to Hawaii",
+  "regions": [
+   "North America",
+   "Central America",
+   "Caribbean",
+   "South America",
+   "Sub-Saharan Africa",
+   "Atlantic Ocean",
+   "Pacific Ocean"
+  ],
+  "biomes": [
+   "Mangrove",
+   "Intertidal estuary"
+  ],
+  "abilities": [
+   "Is viviparous: seeds germinate on the tree and drop as pencil-like propagules up to about 30 cm long",
+   "Its propagules float and stay viable for months, colonising new coasts",
+   "Its roots filter out most salt from seawater",
+   "Breathes through lenticels on prop roots that stand above the anoxic mud",
+   "Builds coastlines by trapping sediment and buffers storm surge"
+  ],
+  "edibility": "not-edible",
+  "edibleParts": [],
+  "edibilityNote": "Propagules have been eaten as famine food after processing, but they are astringent and bitter; generally not eaten.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Caribbean and Latin American folk medicine",
+     "use": "Bark decoction as an astringent for diarrhoea, sore throat and wounds"
+    }
+   ],
+   "compounds": [
+    "tannins",
+    "polyphenols"
+   ],
+   "evidence": "traditional",
+   "cautions": "High-tannin preparations can irritate the gut."
+  },
+  "fruit": {
+   "type": "Berry with viviparous seedling",
+   "season": "Much of the year, peaking in summer",
+   "description": "Brown leathery fruit from which a long green propagule grows while still on the tree."
+  },
+  "seed": {
+   "description": "Germinates on the tree into a long, cigar-shaped propagule",
+   "size": "~15–30 cm propagule",
+   "dispersal": "Ocean currents",
+   "germination": "Already germinated; plant the propagule upright in tidal mud"
+  },
+  "iucn": "LC",
+  "lore": "The word 'mangle' came into Spanish from the Taíno of the Caribbean. Tannin from red mangrove bark was used across the tropics to tan leather and preserve fishing nets and sails, giving them a red-brown colour.",
+  "historicalNames": [
+   "Mangle",
+   "Mangrove",
+   "Rhizophora americana"
+  ],
+  "funFact": "Mangrove propagules can drift for months and still root, which is how Rhizophora reached both sides of the Atlantic."
+ },
+ {
+  "slug": "sphagnum-palustre",
+  "scientific": "Sphagnum palustre",
+  "common": "Blunt-leaved bog moss (Peat moss)",
+  "otherNames": [
+   "Torfmoos (German)",
+   "Sphaigne (French)",
+   "Musgo de turbera (Spanish)",
+   "Mizugoke ミズゴケ (Japanese)",
+   "泥炭藓 nítànxiǎn (Chinese)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Moss",
+  "family": "Sphagnaceae",
+  "shelves": [
+   "keystone",
+   "marvel",
+   "medicinal",
+   "dye-fibre"
+  ],
+  "summary": "A moss that builds landscapes and stores carbon. Sphagnum holds many times its own weight in water in dead, empty cells, acidifies its surroundings, and decays so slowly that its remains pile up as peat. Peatlands cover about 3% of Earth's land but store more carbon than all the world's forests combined.",
+  "nativeRange": "Widespread in temperate and boreal regions of the Northern Hemisphere, with records from other continents",
+  "regions": [
+   "Europe",
+   "North America",
+   "East Asia",
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Peat bog",
+   "Fen",
+   "Wet woodland"
+  ],
+  "abilities": [
+   "Holds up to around 20 times its dry weight in water in large, dead hyaline cells",
+   "Acidifies its environment by exchanging hydrogen ions for mineral cations",
+   "Builds peat that preserves organic matter for thousands of years, including bog bodies such as Tollund Man",
+   "Fires its spores out of a pressurised capsule, forming a tiny vortex ring that carries them upward"
+  ],
+  "edibility": "not-edible",
+  "edibleParts": [],
+  "edibilityNote": "Not eaten.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Wartime field medicine (WWI)",
+     "use": "Dried sphagnum used as absorbent, mildly antiseptic wound dressings by the million"
+    },
+    {
+     "tradition": "Northern Indigenous and European folk practice",
+     "use": "Used as nappy lining and menstrual padding"
+    }
+   ],
+   "compounds": [
+    "sphagnan (pectin-like polysaccharide)",
+    "phenolics (sphagnum acid)"
+   ],
+   "evidence": "traditional",
+   "cautions": "Sphagnum can carry the fungus Sporothrix, which causes 'rose gardener's disease' through skin cuts; wear gloves."
+  },
+  "seed": {
+   "description": "Spores in a round capsule on a short stalk",
+   "size": "Spores ~20–40 µm",
+   "dispersal": "Explosive capsule launch, then wind",
+   "germination": "Mostly spreads from fragments; place live strands on wet peat"
+  },
+  "grow": {
+   "zones": "USDA 3–8 (outdoors)",
+   "climates": [
+    "Temperate",
+    "Boreal",
+    "Oceanic"
+   ],
+   "sun": "Full sun to light shade",
+   "water": "Constantly wet; rainwater only",
+   "soil": "Wet, acidic peat or none",
+   "propagation": "Fragments",
+   "timeToHarvest": "Covers a tray in a few months",
+   "steps": [
+    "Spread chopped live strands on wet peat in a tray",
+    "Keep wet with rainwater and humid",
+    "Give bright light to keep it compact and colourful",
+    "Use it as a living top-dressing for carnivorous plants"
+   ]
+  },
+  "lore": "Bog acids and sphagnan in Sphagnum peat preserved Iron Age bodies such as Tollund Man (found in Denmark in 1950) in astonishing detail. Peat cut from sphagnum bogs fuelled homes in Ireland, Scotland and the Netherlands for centuries.",
+  "historicalNames": [
+   "Muscus palustris",
+   "Bog moss",
+   "Moss crops"
+  ],
+  "funFact": "High-speed video shows Sphagnum capsules launching spores at about 3.6 m/s, with the spores lifted 10–20 cm by a self-made vortex ring."
+ },
+ {
+  "slug": "macrocystis-pyrifera",
+  "scientific": "Macrocystis pyrifera",
+  "common": "Giant kelp",
+  "otherNames": [
+   "Huiro (Chilean Spanish, from Mapudungun)",
+   "Sargazo gigante (Spanish)",
+   "Bladder kelp (English)",
+   "Rimurimu (Māori, for seaweeds)",
+   "巨藻 jùzǎo (Chinese)"
+  ],
+  "kingdom": "Chromista",
+  "form": "Alga",
+  "family": "Laminariaceae",
+  "shelves": [
+   "ocean",
+   "keystone",
+   "marvel",
+   "edible"
+  ],
+  "summary": "One of the fastest-growing organisms on Earth, adding up to about half a metre a day and reaching lengths of 45 m or more. Giant kelp is a brown alga, not a plant, and forms underwater forests that shelter fish, sea otters and countless invertebrates.",
+  "nativeRange": "Cool coastal waters of the eastern Pacific (Alaska to Baja California; Peru and Chile), the southern Atlantic and sub-Antarctic coasts, southern Australia and New Zealand",
+  "regions": [
+   "Pacific Ocean",
+   "Southern Ocean",
+   "Atlantic Ocean",
+   "North America",
+   "South America",
+   "Australia",
+   "Oceania"
+  ],
+  "biomes": [
+   "Kelp forest",
+   "Rocky subtidal reef"
+  ],
+  "abilities": [
+   "Grows up to about 50 cm a day in good conditions",
+   "Floats its fronds to the surface with gas-filled bladders (pneumatocysts) at each blade",
+   "Grips rock with a root-like holdfast that is not used for feeding",
+   "Builds forest habitats that support hundreds of species, kept in balance by sea otters that eat kelp-grazing urchins"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "fronds and blades (dried, as kelp)"
+  ],
+  "edibilityNote": "Edible, but very high in iodine; frequent large servings can upset thyroid function. Can concentrate heavy metals such as arsenic from polluted water.",
+  "seed": {
+   "description": "Reproduces by microscopic zoospores released from special blades (sporophylls) near the base",
+   "size": "Spores ~5–10 µm",
+   "dispersal": "Water currents, mostly over short distances",
+   "germination": "Spores grow into tiny male and female gametophytes whose offspring become new kelp"
+  },
+  "iucn": "NE",
+  "lore": "The 'kelp highway' hypothesis proposes that early people followed productive kelp-forest coasts around the Pacific Rim into the Americas. Darwin, on the Beagle, compared southern kelp forests to land forests and said their loss would destroy many animals.",
+  "historicalNames": [
+   "Fucus pyriferus",
+   "Sea-oak"
+  ],
+  "funFact": "For much of the 20th century, giant kelp harvested off California was a major source of alginate, the thickener in ice cream, toothpaste and wound dressings."
+ },
+ {
+  "slug": "phyllostachys-edulis",
+  "scientific": "Phyllostachys edulis",
+  "common": "Moso bamboo",
+  "otherNames": [
+   "Máozhú 毛竹 (Chinese)",
+   "Mōsōchiku 孟宗竹 (Japanese)",
+   "Maengjongjuk 맹종죽 (Korean)",
+   "Bambú moso (Spanish)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Grass",
+  "family": "Poaceae",
+  "shelves": [
+   "edible",
+   "toxic",
+   "dye-fibre",
+   "marvel"
+  ],
+  "summary": "A grass that grows into a forest. Moso shoots can push up close to a metre a day and reach full height of 20 m or more in a couple of months. It is China's most important timber bamboo, used for scaffolding, flooring, textiles and the spring shoots of East Asian cooking.",
+  "nativeRange": "Central and southern China and Taiwan; long cultivated in Japan",
+  "regions": [
+   "East Asia"
+  ],
+  "biomes": [
+   "Subtropical forest",
+   "Hill plantations"
+  ],
+  "abilities": [
+   "New culms can grow close to 1 m in a day at peak growth",
+   "A culm reaches full height in one season and then hardens for several years",
+   "Spreads by vigorous running rhizomes, forming huge connected groves",
+   "Flowers only at long intervals; a Japanese stand flowered 67 years after sowing, then died"
+  ],
+  "edibility": "edible-with-care",
+  "edibleParts": [
+   "young shoots (boiled)"
+  ],
+  "edibilityNote": "Shoots must be peeled and boiled before eating: raw shoots contain cyanogenic glycosides (taxiphyllin) that release cyanide.",
+  "fruit": {
+   "type": "Caryopsis (grain)",
+   "season": "Rare mass flowering",
+   "description": "Grass-like grains produced only in rare flowering events."
+  },
+  "seed": {
+   "description": "Grain-like caryopsis",
+   "size": "~1–2 cm",
+   "dispersal": "Gravity; seed is rarely available",
+   "germination": "Sow fresh at 20–25 °C; viability drops within months"
+  },
+  "grow": {
+   "zones": "USDA 7–10",
+   "climates": [
+    "Subtropical",
+    "Temperate",
+    "Monsoon"
+   ],
+   "sun": "Full sun to partial shade",
+   "water": "Moderate–high",
+   "soil": "Deep, moist, well-drained, acidic",
+   "propagation": "Rhizome division; seed when available",
+   "timeToHarvest": "Shoots in spring after 3–5 years; timber culms at 4–6 years",
+   "steps": [
+    "Plant a rhizome division in spring in deep, rich soil",
+    "Install a rhizome barrier at least 60 cm deep, since running bamboo invades",
+    "Water and mulch heavily",
+    "Harvest shoots as they emerge in spring and boil them before eating"
+   ]
+  },
+  "iucn": "NE",
+  "lore": "Chinese literati such as Su Shi praised bamboo, and moso is part of the story of Meng Zong, one of the Twenty-Four Filial Exemplars, who wept in a winter grove until bamboo shoots sprang up for his sick mother; the Japanese name 'mōsōchiku' honours him.",
+  "historicalNames": [
+   "Phyllostachys pubescens",
+   "Phyllostachys heterocycla f. pubescens",
+   "Mao zhu"
+  ],
+  "funFact": "A moso grove is often a single connected plant, with every culm linked by an underground rhizome network."
+ },
+ {
+  "slug": "nelumbo-nucifera",
+  "scientific": "Nelumbo nucifera",
+  "common": "Sacred lotus",
+  "otherNames": [
+   "Kamal / Padma (Hindi/Sanskrit)",
+   "Lián 莲 / Ǒu 藕 (Chinese)",
+   "Hasu ハス / Renkon (Japanese)",
+   "Bua luang (Thai)",
+   "Sen (Vietnamese)",
+   "Thamarai (Tamil)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Herb",
+  "family": "Nelumbonaceae",
+  "shelves": [
+   "sacred",
+   "edible",
+   "medicinal",
+   "marvel",
+   "pollinator-plant"
+  ],
+  "summary": "The flower that rises clean from the mud, central to Hinduism and Buddhism. Its leaves are so water-repellent that droplets roll off carrying dirt with them (the 'lotus effect'), its flowers warm themselves, and a seed about 1,300 years old has been sprouted.",
+  "nativeRange": "South and East Asia to northern Australia; ancient introductions elsewhere",
+  "regions": [
+   "South Asia",
+   "Southeast Asia",
+   "East Asia",
+   "Australia",
+   "Central Asia"
+  ],
+  "biomes": [
+   "Freshwater wetlands",
+   "Shallow ponds and lakes"
+  ],
+  "abilities": [
+   "Its leaf surface is covered in wax nano-bumps that make it superhydrophobic and self-cleaning",
+   "Warms its flowers to around 30–35 °C for days, even on cool nights",
+   "Produces seeds that can stay alive for centuries; one from a dry lakebed in north-east China germinated after about 1,300 years",
+   "Pipes air down to its rhizomes through hollow channels in its stalks"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "rhizome (lotus root)",
+   "seeds",
+   "young leaves",
+   "stamens (tea)",
+   "leaves (for wrapping food)"
+  ],
+  "edibilityNote": "All main parts are eaten. Cook the rhizome before eating, since raw aquatic plants can carry parasites such as Fasciolopsis; remove the bitter green embryo of seeds if desired.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Traditional Chinese medicine",
+     "use": "Seeds (lian zi) to calm the heart; leaves (he ye) for summer heat; the seed embryo (lian zi xin) as a cooling bitter"
+    },
+    {
+     "tradition": "Ayurveda",
+     "use": "Flowers and rhizome (kamala) for bleeding, diarrhoea and skin conditions"
+    }
+   ],
+   "compounds": [
+    "nuciferine",
+    "neferine",
+    "liensinine",
+    "flavonoids"
+   ],
+   "evidence": "traditional",
+   "cautions": "Leaf and embryo preparations may lower blood pressure and blood sugar; caution with medication."
+  },
+  "fruit": {
+   "type": "Nutlets in an enlarged receptacle",
+   "season": "Late summer",
+   "description": "A flat-topped, shower-head seed pod with each nut set in its own hole."
+  },
+  "seed": {
+   "description": "Hard, acorn-like nut",
+   "size": "~1.5 cm",
+   "dispersal": "Water, after the pod tips over",
+   "germination": "File through the hard coat at the non-pointed end and soak in warm water; sprouts in days"
+  },
+  "grow": {
+   "zones": "USDA 4–11 (rhizome must not freeze)",
+   "climates": [
+    "Tropical",
+    "Subtropical",
+    "Temperate"
+   ],
+   "sun": "Full sun",
+   "water": "Aquatic: 10–60 cm of still water",
+   "soil": "Heavy loam or clay at the pond bottom",
+   "propagation": "Scarified seed or rhizome tubers",
+   "timeToHarvest": "Flowers in 1–2 years from seed; rhizomes after one season",
+   "steps": [
+    "Nick the seed coat and soak in warm water, changing it daily",
+    "Pot the sprouted seed into heavy loam in a wide, hole-free container",
+    "Submerge in still, sunny water and raise depth as leaves grow",
+    "Give at least 6 hours of sun and warm water to flower"
+   ]
+  },
+  "iucn": "DD",
+  "lore": "In Hindu iconography Lakshmi and Brahma sit on lotuses, and Buddhist art shows the Buddha on a lotus throne; 'Om mani padme hum' means 'the jewel in the lotus'. Zhou Dunyi's 11th-century essay 'On the Love of the Lotus' praised it for rising unstained from mud.",
+  "historicalNames": [
+   "Nymphaea nelumbo",
+   "Faba aegyptia",
+   "Egyptian bean"
+  ],
+  "funFact": "Self-cleaning paints and fabrics are modelled on the lotus leaf's microstructure; 'lotus effect' is a registered trademark."
+ },
+ {
+  "slug": "victoria-amazonica",
+  "scientific": "Victoria amazonica",
+  "common": "Giant Amazon water lily",
+  "otherNames": [
+   "Vitória-régia (Brazilian Portuguese)",
+   "Irupé (Guaraní, also for V. cruziana)",
+   "Royal water lily (English)",
+   "王莲 wánglián (Chinese)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Herb",
+  "family": "Nymphaeaceae",
+  "shelves": [
+   "marvel",
+   "edible",
+   "pollinator-plant"
+  ],
+  "summary": "A water lily whose leaves reach up to about 3 m across, ribbed underneath like the girders of a bridge. Its flowers open white and fragrant on the first night, shut beetles inside, and reopen pink the next night to release them covered in pollen.",
+  "nativeRange": "Amazon basin: Brazil, Peru, Colombia, Bolivia, Guyana",
+  "regions": [
+   "South America"
+  ],
+  "biomes": [
+   "Floodplain lakes",
+   "Slow backwaters"
+  ],
+  "abilities": [
+   "Grows floating leaves up to about 3 m across with upturned rims",
+   "Its spiny underside ribs trap air and spread load, so a leaf can bear a small child if weight is spread",
+   "Heats its first-night flower and releases a pineapple-like scent to attract Cyclocephala scarab beetles",
+   "Changes sex in two nights: female and white on night one, male and pink on night two"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "seeds (roasted or ground)",
+   "rhizome (cooked)"
+  ],
+  "edibilityNote": "Starchy seeds are roasted or ground into flour locally. Stalks and leaf undersides are covered in sharp spines.",
+  "fruit": {
+   "type": "Spiny berry",
+   "season": "After flowering",
+   "description": "Prickly fruit that develops underwater and releases pea-sized seeds."
+  },
+  "seed": {
+   "description": "Round, hard seeds",
+   "size": "~1 cm",
+   "dispersal": "Water",
+   "germination": "Store in water (they die if dried); germinate at about 30 °C"
+  },
+  "grow": {
+   "zones": "Tropical only (USDA 11–12) or heated glasshouse pool",
+   "climates": [
+    "Tropical"
+   ],
+   "sun": "Full sun",
+   "water": "Warm still water, 28–32 °C",
+   "soil": "Rich, heavy loam in a large container",
+   "propagation": "Seed (usually grown as an annual)",
+   "timeToHarvest": "Flowers 4–6 months from seed",
+   "steps": [
+    "Keep seed in water until sowing",
+    "Germinate in shallow water at about 30 °C",
+    "Move to a large, very fertile container in a big warm pool",
+    "Fertilise heavily: a single plant needs a lot of feeding"
+   ]
+  },
+  "lore": "John Lindley named the genus after the young Queen Victoria in 1837 from specimens Robert Schomburgk sent from British Guiana; Joseph Paxton at Chatsworth first brought it to flower in November 1849. Paxton said the ribbed leaf inspired the iron-and-glass structure of the Crystal Palace for the Great Exhibition of 1851.",
+  "historicalNames": [
+   "Victoria regia",
+   "Euryale amazonica"
+  ],
+  "funFact": "Paxton had his daughter Annie stand on a leaf (on a tray to spread her weight), an image that made the plant famous."
+ },
+ {
+  "slug": "carnegiea-gigantea",
+  "scientific": "Carnegiea gigantea",
+  "common": "Saguaro",
+  "otherNames": [
+   "Haashañ (Tohono O'odham)",
+   "Sahuaro (Mexican Spanish)",
+   "Giant cactus (English)",
+   "巨人柱 jùrénzhù (Chinese)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Succulent",
+  "family": "Cactaceae",
+  "shelves": [
+   "keystone",
+   "fruit",
+   "edible",
+   "sacred",
+   "pollinator-plant",
+   "marvel"
+  ],
+  "summary": "The giant cactus of the Sonoran Desert, which can grow taller than 12 m, live for around 150–200 years and weigh several tonnes when full of water. It may take 50–100 years to grow its first arm. Its pleats swell like an accordion after rain.",
+  "nativeRange": "Sonoran Desert of Arizona, south-eastern California and Sonora, Mexico",
+  "regions": [
+   "North America"
+  ],
+  "biomes": [
+   "Hot desert"
+  ],
+  "abilities": [
+   "Expands its pleated stem to store hundreds of litres of water after rain",
+   "Opens night-blooming flowers pollinated by lesser long-nosed bats, then birds and bees by day",
+   "Its hollows, carved by Gila woodpeckers and gilded flickers, house owls, martins and other birds",
+   "Feeds desert animals in early summer, when its fruit ripens and little else is available"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "fruit pulp",
+   "seeds"
+  ],
+  "edibilityNote": "Ripe fruit is eaten fresh, dried, or boiled into syrup and jam. Harvesting from wild plants on protected land requires permission.",
+  "fruit": {
+   "type": "Berry",
+   "season": "June–July",
+   "description": "Green fruits split to reveal red pulp packed with tiny black seeds."
+  },
+  "seed": {
+   "description": "Tiny glossy black seeds",
+   "size": "~1.5 mm",
+   "dispersal": "Birds, bats and mammals",
+   "germination": "Surface-sow on gritty mix, warm and humid; seedlings need shade"
+  },
+  "grow": {
+   "zones": "USDA 9–11",
+   "climates": [
+    "Arid"
+   ],
+   "sun": "Full sun (shade for seedlings)",
+   "water": "Very low",
+   "soil": "Gritty, rocky, perfectly drained",
+   "propagation": "Seed",
+   "timeToHarvest": "Flowers at around 35–70 years",
+   "steps": [
+    "Surface-sow seed under a clear cover and keep warm and lightly moist",
+    "Shade seedlings, as wild ones grow under 'nurse' trees like palo verde",
+    "Water sparingly; protect from frost",
+    "Buy only nursery-grown plants: removing wild saguaros is illegal in Arizona"
+   ]
+  },
+  "iucn": "LC",
+  "lore": "For the Tohono O'odham the saguaro harvest (bahidaj) in early summer begins the new year, and fermented saguaro wine is used in a rain ceremony to call the monsoon. The saguaro blossom is Arizona's state flower.",
+  "historicalNames": [
+   "Cereus giganteus",
+   "Pitahaya"
+  ],
+  "funFact": "Saguaro seedlings may grow only a few centimetres in their first decade."
+ },
+ {
+  "slug": "yucca-brevifolia",
+  "scientific": "Yucca brevifolia",
+  "common": "Joshua tree",
+  "otherNames": [
+   "Izote de desierto (Spanish)",
+   "Palma del desierto (Spanish)",
+   "Yucca palm (English)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Tree",
+  "family": "Asparagaceae",
+  "shelves": [
+   "tree",
+   "keystone",
+   "marvel",
+   "toxic",
+   "edible"
+  ],
+  "summary": "The shaggy, twisted tree-yucca of the Mojave Desert, which depends completely on one moth. The yucca moth deliberately packs pollen into the flower and lays its eggs there, and its larvae eat some, but not all, of the seeds. Climate warming is shrinking the areas where it can live.",
+  "nativeRange": "Western Mojave Desert, California and Nevada (eastern populations often treated as Yucca jaegeriana)",
+  "regions": [
+   "North America"
+  ],
+  "biomes": [
+   "Hot desert",
+   "Desert woodland"
+  ],
+  "abilities": [
+   "Is pollinated only by the yucca moth Tegeticula synthetica, which gathers pollen and stuffs it into the flower on purpose",
+   "Sprouts clones from roots and rhizomes, especially after damage",
+   "Branches only after flowering or when the growing tip is damaged",
+   "Provides nest sites and food for desert birds, lizards and woodrats"
+  ],
+  "edibility": "edible-with-care",
+  "edibleParts": [
+   "flower buds (roasted)",
+   "seeds"
+  ],
+  "edibilityNote": "Indigenous peoples of the Mojave roasted the buds and ate the seeds. Like other yuccas it contains saponins, which are bitter and can upset the stomach.",
+  "fruit": {
+   "type": "Capsule",
+   "season": "Late spring",
+   "description": "Green, egg-shaped capsules that dry and release flat black seeds."
+  },
+  "seed": {
+   "description": "Flat, black seeds",
+   "size": "~1 cm",
+   "dispersal": "Rodents that cache seeds",
+   "germination": "Sow fresh, warm, in sandy mix; germination is quick but seedlings are slow"
+  },
+  "grow": {
+   "zones": "USDA 6–10",
+   "climates": [
+    "Arid"
+   ],
+   "sun": "Full sun",
+   "water": "Very low",
+   "soil": "Sandy, gravelly, sharply drained",
+   "propagation": "Seed, offsets",
+   "timeToHarvest": "Flowers after 30–60 years",
+   "steps": [
+    "Sow seed in deep pots of sandy mix",
+    "Keep warm and barely moist",
+    "Plant out young in full sun on free-draining ground",
+    "Do not move wild plants: Joshua trees are protected in California"
+   ]
+  },
+  "iucn": "LC",
+  "lore": "Mormon settlers crossing the Mojave in the 1850s are said to have named it after the biblical Joshua, raising his hands to heaven. The Cahuilla used its leaf fibres for baskets and sandals and its roots for red dye.",
+  "historicalNames": [
+   "Yucca arborescens",
+   "Clistoyucca brevifolia"
+  ],
+  "funFact": "Studies predict that under high-warming scenarios Joshua Tree National Park could lose most of its suitable Joshua tree habitat by 2100."
+ },
+ {
+  "slug": "populus-tremuloides",
+  "scientific": "Populus tremuloides",
+  "common": "Quaking aspen",
+  "otherNames": [
+   "Azaadi (Ojibwe)",
+   "Álamo temblón (Spanish)",
+   "Peuplier faux-tremble (French)",
+   "Amerikanische Zitterpappel (German)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Tree",
+  "family": "Salicaceae",
+  "shelves": [
+   "tree",
+   "ancient",
+   "marvel",
+   "keystone",
+   "medicinal",
+   "toxic",
+   "edible"
+  ],
+  "summary": "One aspen grove in Utah, called Pando, is a single male clone with about 47,000 trunks on one root system, covering some 43 hectares and weighing around 6,000 tonnes. It is often called the heaviest known organism. Aspen leaves flutter in the faintest breeze on flattened stalks.",
+  "nativeRange": "Across Canada and Alaska, south through the Rocky Mountains to northern Mexico",
+  "regions": [
+   "North America"
+  ],
+  "biomes": [
+   "Boreal forest",
+   "Montane forest",
+   "Parkland"
+  ],
+  "abilities": [
+   "Spreads by root suckers into vast clones; Pando is one genetic individual of about 47,000 stems",
+   "Its flattened leaf stalks make leaves tremble in the slightest wind",
+   "Photosynthesises through its pale green-white bark, even in winter",
+   "Re-sprouts quickly after fire, acting as a natural firebreak and pioneer",
+   "Is the most widely distributed tree in North America"
+  ],
+  "edibility": "edible-with-care",
+  "edibleParts": [
+   "inner bark (spring, famine food)",
+   "catkins"
+  ],
+  "edibilityNote": "Inner bark was eaten in spring by Indigenous peoples and in hard times. Bark contains salicin and related compounds, so people with aspirin allergy should avoid it.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Indigenous North American medicine (e.g. Cree)",
+     "use": "Bark tea for fever, pain and coughs; the bark's white powder used as sunscreen"
+    }
+   ],
+   "compounds": [
+    "salicin",
+    "populin",
+    "tremuloidin"
+   ],
+   "evidence": "traditional",
+   "cautions": "Salicylates: avoid with aspirin allergy, anticoagulants, and in children with viral illness."
+  },
+  "fruit": {
+   "type": "Capsule",
+   "season": "Late spring",
+   "description": "Catkins of small capsules that release cottony seeds."
+  },
+  "seed": {
+   "description": "Minute seeds with cottony hairs",
+   "size": "<1 mm",
+   "dispersal": "Wind",
+   "germination": "Sow immediately on moist soil; viability lasts only days to weeks"
+  },
+  "grow": {
+   "zones": "USDA 1–7",
+   "climates": [
+    "Boreal",
+    "Continental",
+    "Montane"
+   ],
+   "sun": "Full sun",
+   "water": "Moderate",
+   "soil": "Adaptable; moist, well-drained",
+   "propagation": "Root cuttings or suckers; fresh seed",
+   "timeToHarvest": "Ornamental; individual stems live about 100–150 years",
+   "steps": [
+    "Take root cuttings or dig a sucker in early spring",
+    "Plant in full sun with space to spread",
+    "Expect suckers; mow or cut them where unwanted",
+    "Protect young stems from deer and elk browsing"
+   ]
+  },
+  "iucn": "LC",
+  "lore": "Pando was identified as one clone in the 1970s, and genetic testing in 2008 confirmed it. A 2024 genetic study estimated Pando may be between about 16,000 and 80,000 years old, though this is uncertain.",
+  "historicalNames": [
+   "Populus tremula var. americana",
+   "Quiver-leaf"
+  ],
+  "funFact": "Pando is not regenerating well, because mule deer and elk eat nearly all young shoots; fenced areas are being used to help it."
+ },
+ {
+  "slug": "mimosa-pudica",
+  "scientific": "Mimosa pudica",
+  "common": "Sensitive plant (Touch-me-not)",
+  "otherNames": [
+   "Lajwanti / Chhui-mui (Hindi/Urdu)",
+   "Lajjalu (Sanskrit)",
+   "Hánxiūcǎo 含羞草 (Chinese, 'shy grass')",
+   "Makahiya (Tagalog: 'shy')",
+   "Dormilona (Spanish)",
+   "Mori-vivi (Puerto Rican Spanish)",
+   "Malu-malu (Malay)",
+   "Thottavadi (Tamil/Malayalam)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Herb",
+  "family": "Fabaceae",
+  "shelves": [
+   "marvel",
+   "medicinal",
+   "pollinator-plant",
+   "toxic"
+  ],
+  "summary": "A plant that folds its leaves within seconds when touched. Electrical signals travel through the stem, and motor cells in swellings at the leaf bases suddenly lose water and collapse. Experiments suggest it can 'learn' to ignore harmless repeated disturbances.",
+  "nativeRange": "Tropical Central and South America; now a pantropical weed",
+  "regions": [
+   "Central America",
+   "South America",
+   "Caribbean",
+   "South Asia",
+   "Southeast Asia",
+   "Sub-Saharan Africa",
+   "Oceania"
+  ],
+  "biomes": [
+   "Tropical grassland",
+   "Disturbed ground",
+   "Roadsides"
+  ],
+  "abilities": [
+   "Folds leaflets within seconds of touch, heat or shaking (seismonasty) using pulvinus motor cells",
+   "Sends electrical action potentials along its stem to coordinate leaf collapse",
+   "Folds its leaves at night on an internal circadian clock",
+   "In a 2014 experiment, stopped folding in response to repeated harmless drops and kept this 'memory' for weeks",
+   "Fixes nitrogen through root nodules"
+  ],
+  "edibility": "not-edible",
+  "edibleParts": [],
+  "edibilityNote": "Not eaten. Contains the amino acid mimosine, toxic to livestock in quantity (hair loss, poor growth). Stems carry small prickles.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Ayurveda / Siddha",
+     "use": "Roots and leaves (lajjalu) for bleeding piles, diarrhoea and wound healing"
+    },
+    {
+     "tradition": "Traditional medicine in the Philippines and Africa",
+     "use": "Leaf poultices for wounds and swellings"
+    }
+   ],
+   "compounds": [
+    "mimosine",
+    "tannins",
+    "flavonoids"
+   ],
+   "evidence": "traditional",
+   "cautions": "Mimosine is toxic in large amounts; avoid in pregnancy. Invasive weed in many countries."
+  },
+  "fruit": {
+   "type": "Legume (pod)",
+   "season": "Most of the year in the tropics",
+   "description": "Clusters of small, bristly pods that break into one-seeded segments."
+  },
+  "seed": {
+   "description": "Flat, hard, brown seeds",
+   "size": "~2.5 mm",
+   "dispersal": "Pod segments stick to fur and clothing",
+   "germination": "Soak in hot water overnight; sow at 20–30 °C, 1–3 weeks"
+  },
+  "grow": {
+   "zones": "USDA 9–11 (houseplant elsewhere)",
+   "climates": [
+    "Tropical",
+    "Subtropical"
+   ],
+   "sun": "Full sun to bright light",
+   "water": "Moderate",
+   "soil": "Well-drained potting mix",
+   "propagation": "Seed",
+   "timeToHarvest": "Responsive leaves in a few weeks",
+   "steps": [
+    "Pour hot water over seeds and soak overnight",
+    "Sow shallowly in warm, bright conditions",
+    "Keep evenly moist and above 15 °C",
+    "Grow in a pot where it is invasive outdoors"
+   ]
+  },
+  "lore": "In 1729 French astronomer Jean-Jacques d'Ortous de Mairan kept a sensitive plant in total darkness and found its leaves still opened and closed daily, the first experiment showing an internal biological clock.",
+  "historicalNames": [
+   "Herba sensitiva",
+   "Noli me tangere",
+   "Mimosa"
+  ],
+  "funFact": "Monica Gagliano's 2014 experiment found habituated plants still 'remembered' to ignore harmless drops up to 28 days later."
+ },
+ {
+  "slug": "lithops-lesliei",
+  "scientific": "Lithops lesliei",
+  "common": "Leslie's living stone",
+  "otherNames": [
+   "Beeskloutjie ('cattle hoof', Afrikaans)",
+   "Klipblom ('stone flower', Afrikaans)",
+   "Living stone (English)",
+   "Pebble plant (English)",
+   "生石花 shēngshíhuā (Chinese)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Succulent",
+  "family": "Aizoaceae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "A plant disguised as a pebble. Each Lithops is just a pair of fat, fused leaves sunk in the ground, with only patterned 'windows' at the top showing. Light enters through these windows and lights up the inside of the leaf, letting it photosynthesise while staying mostly buried.",
+  "nativeRange": "Grasslands and rocky outcrops of northern South Africa (Gauteng, North West, Free State, Limpopo, Northern Cape) and edges of Botswana",
+  "regions": [
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Highveld grassland",
+   "Rocky outcrops"
+  ],
+  "abilities": [
+   "Camouflages as stones, with colours that match the local rock",
+   "Lets light into the leaf through translucent 'windows' on top while the rest of the body stays below ground",
+   "Each year grows a new pair of leaves inside the old, which then shrivels and is absorbed",
+   "Its seed capsules open only when wet, so raindrops splash seeds out"
+  ],
+  "edibility": "not-edible",
+  "edibleParts": [],
+  "edibilityNote": "Not eaten.",
+  "fruit": {
+   "type": "Hygrochastic capsule",
+   "season": "After autumn flowering",
+   "description": "Small capsules that open when wet and close as they dry."
+  },
+  "seed": {
+   "description": "Dust-like brown seeds",
+   "size": "~0.5 mm",
+   "dispersal": "Raindrop splash",
+   "germination": "Surface-sow on gritty mix, keep humid at 15–25 °C; 1–3 weeks"
+  },
+  "grow": {
+   "zones": "USDA 10–11 (or sunny windowsill)",
+   "climates": [
+    "Arid",
+    "Semi-arid"
+   ],
+   "sun": "Full sun to very bright light",
+   "water": "Very low; water in summer and autumn growth, none while old leaves are being absorbed",
+   "soil": "Mostly mineral grit (pumice, sand) with a little compost",
+   "propagation": "Seed, rarely division",
+   "timeToHarvest": "Flowers (yellow daisies) after 3–4 years",
+   "steps": [
+    "Surface-sow seed on fine grit and cover to hold humidity",
+    "Gradually reduce humidity as seedlings grow",
+    "Water during summer–autumn growth; stop while new leaves are emerging",
+    "Overwatering is the main cause of death: the old leaves split and rot"
+   ]
+  },
+  "lore": "Named after Thomas Leslie, an amateur botanist who collected it near Pietersburg (now Polokwane) in 1912. Afrikaans farmers called Lithops 'beeskloutjies' because their split shape looks like a cow's hoof print.",
+  "historicalNames": [
+   "Mesembryanthemum lesliei"
+  ],
+  "funFact": "Lithops are so well hidden that many species were found only when the plants were flowering."
+ },
+ {
+  "slug": "selaginella-lepidophylla",
+  "scientific": "Selaginella lepidophylla",
+  "common": "Resurrection plant (False rose of Jericho)",
+  "otherNames": [
+   "Doradilla (Mexican Spanish)",
+   "Flor de piedra ('stone flower', Spanish)",
+   "Siempreviva (Spanish)",
+   "Rosa de Jericó (Spanish, misapplied)",
+   "Dinosaur plant (English)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Lycophyte (spikemoss)",
+  "family": "Selaginellaceae",
+  "shelves": [
+   "marvel",
+   "ancient",
+   "medicinal"
+  ],
+  "summary": "A desert spikemoss that can dry out until it looks dead, curl into a tight brown ball, and turn green again within hours of being watered. It can lose about 95% of its water and survive for years like this. It belongs to the lycophytes, a lineage more than 400 million years old.",
+  "nativeRange": "Chihuahuan Desert of northern Mexico and south-western United States (Texas, New Mexico, Arizona)",
+  "regions": [
+   "North America",
+   "Central America"
+  ],
+  "biomes": [
+   "Hot desert",
+   "Rocky limestone slopes"
+  ],
+  "abilities": [
+   "Survives losing about 95% of its water content (desiccation tolerance)",
+   "Curls its stems inward as it dries, protecting the living centre from sun",
+   "Accumulates trehalose and other sugars that protect its cells while dry",
+   "Uncurls and resumes photosynthesis within hours of rehydrating"
+  ],
+  "edibility": "not-edible",
+  "edibleParts": [],
+  "edibilityNote": "Not a food; used only as a tea in folk medicine.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Mexican folk medicine",
+     "use": "Tea (doradilla) for kidney stones, urinary complaints and as a diuretic"
+    }
+   ],
+   "compounds": [
+    "biflavonoids (amentoflavone)",
+    "trehalose"
+   ],
+   "evidence": "traditional",
+   "cautions": "Little safety data; avoid in pregnancy."
+  },
+  "seed": {
+   "description": "Reproduces by spores (no seeds): large megaspores and tiny microspores",
+   "size": "Spores microscopic to ~0.3 mm",
+   "dispersal": "Wind and water; also tumbles when uprooted",
+   "germination": "Usually grown from divisions rather than spores"
+  },
+  "grow": {
+   "zones": "USDA 8–11",
+   "climates": [
+    "Arid",
+    "Semi-arid"
+   ],
+   "sun": "Bright light to partial shade",
+   "water": "Low; allow to dry out",
+   "soil": "Gritty, free-draining",
+   "propagation": "Division",
+   "timeToHarvest": "Revives in 3–4 hours after watering",
+   "steps": [
+    "Set the dry ball on a dish of gravel with a little water",
+    "Let it open and green up, then move it onto gritty soil",
+    "Allow it to dry out between waterings; constant wet causes rot",
+    "It can be dried and revived repeatedly, but each cycle stresses it"
+   ]
+  },
+  "lore": "Sold in Mexican and US markets for luck and prosperity, often under the name 'rose of Jericho', a name that belongs to the Middle Eastern Anastatica hierochuntica. In Mexican tradition it is placed in water on Fridays to bring good fortune.",
+  "historicalNames": [
+   "Lycopodium lepidophyllum",
+   "Rose of Jericho (misapplied)"
+  ],
+  "funFact": "It is not a moss and not a fern, but a lycophyte, related to the giant club-mosses whose remains formed much of the world's coal."
+ },
+ {
+  "slug": "hura-crepitans",
+  "scientific": "Hura crepitans",
+  "common": "Sandbox tree (Dynamite tree)",
+  "otherNames": [
+   "Jabillo (Spanish)",
+   "Assacu (Brazilian Portuguese, from Tupi)",
+   "Sablier (French Caribbean)",
+   "Monkey no-climb (Caribbean English)",
+   "Possumwood (English)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Tree",
+  "family": "Euphorbiaceae",
+  "shelves": [
+   "tree",
+   "toxic",
+   "marvel"
+  ],
+  "summary": "A tree armoured with dark conical spikes whose pumpkin-shaped seed capsules explode with a sound like a gunshot. Recorded seed speeds reach about 70 m/s, throwing seeds tens of metres. Its milky sap is caustic and has been used as fish poison and arrow poison.",
+  "nativeRange": "Tropical Americas, from Central America and the Caribbean to the Amazon; invasive in parts of tropical Africa",
+  "regions": [
+   "Central America",
+   "Caribbean",
+   "South America"
+  ],
+  "biomes": [
+   "Tropical moist forest",
+   "Floodplain forest"
+  ],
+  "abilities": [
+   "Its drying capsules build tension and burst apart, launching seeds at around 60–70 m/s",
+   "Throws seeds up to about 45 m from the tree",
+   "Protects its trunk with dense, sharp conical spines",
+   "Grows fast into a canopy tree up to 40–60 m"
+  ],
+  "edibility": "toxic",
+  "edibleParts": [],
+  "edibilityNote": "All parts are toxic. The milky sap (latex) causes blistering skin burns and can cause serious eye damage. Seeds cause violent vomiting, abdominal cramps and diarrhoea if eaten; they contain the toxic protein hurin. Children are sometimes poisoned after eating the seeds, which resemble small nuts.",
+  "fruit": {
+   "type": "Explosive capsule (regma)",
+   "season": "Dry season",
+   "description": "Segmented capsules like small pumpkins, up to 8 cm across, that dry and explode."
+  },
+  "seed": {
+   "description": "Flat, round, coin-like seeds",
+   "size": "~2 cm",
+   "dispersal": "Explosive ejection, then water",
+   "germination": "Sow fresh in warm soil; handle with gloves"
+  },
+  "lore": "Before blotting paper, the unripe capsules were cut and filled with fine sand used to blot ink, the origin of the name 'sandbox'. Carib peoples reportedly used the sap to poison arrows and stun fish.",
+  "historicalNames": [
+   "Hura",
+   "Sand-box tree",
+   "Arbor crepitans"
+  ],
+  "funFact": "The species name crepitans means 'crackling' in Latin, for the gunshot crack of its exploding capsules."
+ },
+ {
+  "slug": "cannabis-sativa",
+  "scientific": "Cannabis sativa",
+  "common": "Hemp (Cannabis)",
+  "otherNames": [
+   "Bhang / Ganja (Hindi/Sanskrit)",
+   "Charas (Urdu/Persian, resin)",
+   "Hashish (Arabic)",
+   "Dà má 大麻 (Chinese)",
+   "Taima 大麻 / Asa 麻 (Japanese)",
+   "Dagga (Southern Africa)",
+   "Marihuana (Mexican Spanish)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Herb",
+  "family": "Cannabaceae",
+  "shelves": [
+   "medicinal",
+   "psychoactive",
+   "dye-fibre",
+   "edible",
+   "sacred",
+   "toxic"
+  ],
+  "summary": "One of humanity's oldest crops, grown for rope and cloth, edible seeds, oil, medicine and its mind-altering resin. The flowers' resin glands make THC and CBD, compounds that act on the body's own endocannabinoid system.",
+  "nativeRange": "Central and South Asia (possibly East Asia); cultivated worldwide",
+  "regions": [
+   "Central Asia",
+   "South Asia",
+   "East Asia",
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Temperate grassland",
+   "Disturbed ground",
+   "Cultivation"
+  ],
+  "abilities": [
+   "Produces long, strong bast fibres used for rope, sails, paper and cloth",
+   "Makes resin in glandular trichomes rich in cannabinoids (THC, CBD) and terpenes",
+   "Many varieties switch to flowering when nights lengthen",
+   "Grows extremely fast, reaching 2–5 m in one season"
+  ],
+  "edibility": "edible-with-care",
+  "edibleParts": [
+   "seeds (hemp hearts)",
+   "seed oil",
+   "young leaves (in some cuisines)"
+  ],
+  "edibilityNote": "Hemp seeds and oil contain little or no THC and are widely eaten. Flowers and resin are psychoactive; edibles can cause severe intoxication, especially in children and pets (dogs are very sensitive). Legal status varies by country.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Ayurveda",
+     "use": "Purified bhang (vijaya) for pain, digestion and sleep"
+    },
+    {
+     "tradition": "Traditional Chinese medicine",
+     "use": "Seeds (huo ma ren) as a laxative"
+    },
+    {
+     "tradition": "Modern medicine",
+     "use": "Purified CBD (Epidiolex) approved for certain epilepsies; THC drugs (dronabinol, nabilone) for chemotherapy nausea and appetite loss"
+    }
+   ],
+   "compounds": [
+    "Δ9-tetrahydrocannabinol (THC)",
+    "cannabidiol (CBD)",
+    "cannabigerol",
+    "β-caryophyllene",
+    "myrcene"
+   ],
+   "evidence": "strong",
+   "cautions": "THC can cause anxiety, psychosis in vulnerable people, impaired driving and dependence; heavy use is linked to cannabinoid hyperemesis syndrome. CBD interacts with drugs such as clobazam and blood thinners. Avoid in pregnancy."
+  },
+  "fruit": {
+   "type": "Achene",
+   "season": "Autumn",
+   "description": "Small, smooth, grey-brown seeds enclosed in a bract."
+  },
+  "seed": {
+   "description": "Hard, oval, mottled achenes",
+   "size": "~3–5 mm",
+   "dispersal": "Birds and people",
+   "germination": "Sow 1 cm deep at 20–25 °C; 3–7 days"
+  },
+  "grow": {
+   "zones": "Annual; any frost-free season",
+   "climates": [
+    "Temperate",
+    "Subtropical",
+    "Tropical"
+   ],
+   "sun": "Full sun",
+   "water": "Moderate",
+   "soil": "Fertile, well-drained loam",
+   "propagation": "Seed, cuttings",
+   "timeToHarvest": "Fibre 70–90 days; seed 100–120 days",
+   "steps": [
+    "Check local laws: growing is restricted or licensed in many places",
+    "Sow after the last frost in fertile soil",
+    "For fibre, sow densely; for seed, sow widely spaced",
+    "Harvest fibre stems at early flowering; harvest seed when most seeds are brown"
+   ]
+  },
+  "lore": "Hemp cloth and cord are known from Neolithic China, and Herodotus (5th century BCE) described Scythians throwing hemp seeds on hot stones and howling with joy in the vapour. Braziers from a ~2,500-year-old cemetery at Jirzankal in the Pamirs contain residues of high-THC cannabis.",
+  "historicalNames": [
+   "Cannabis",
+   "Hemp",
+   "Hanf",
+   "Kannabis"
+  ],
+  "funFact": "The English word 'canvas' comes from cannabis, via Old French and Latin."
+ },
+ {
+  "slug": "erythroxylum-coca",
+  "scientific": "Erythroxylum coca",
+  "common": "Coca",
+  "otherNames": [
+   "Kuka (Quechua)",
+   "Mama Coca (Andean)",
+   "Hayu / Ipadú (Amazonian, for Amazonian coca)",
+   "Coca (Spanish)",
+   "古柯 gǔkē (Chinese)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Shrub",
+  "family": "Erythroxylaceae",
+  "shelves": [
+   "medicinal",
+   "psychoactive",
+   "sacred",
+   "toxic",
+   "edible"
+  ],
+  "summary": "The sacred leaf of the Andes, chewed for thousands of years to ease hunger, fatigue and altitude. Its leaves contain about 0.5–1% cocaine, which in the leaf form is mild, but became a powerful drug of addiction once it was extracted in 1860.",
+  "nativeRange": "Eastern slopes of the Andes in Peru and Bolivia; cultivated in Colombia and elsewhere",
+  "regions": [
+   "South America"
+  ],
+  "biomes": [
+   "Montane cloud forest edges (yungas)",
+   "Cultivation"
+  ],
+  "abilities": [
+   "Makes cocaine and related alkaloids in its leaves, which deter insect herbivores",
+   "Grows on steep, terraced Andean slopes and can be harvested several times a year",
+   "Its leaf is nutritious, with significant calcium and iron"
+  ],
+  "edibility": "edible-with-care",
+  "edibleParts": [
+   "leaves (chewed or brewed as tea)"
+  ],
+  "edibilityNote": "Leaves are chewed with an alkaline ash (llipta) or brewed as mate de coca, legal in Peru and Bolivia but illegal in many countries. Extracted cocaine is highly addictive and can cause heart attack, stroke and death. Leaf use causes positive drug tests.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Andean traditional medicine",
+     "use": "Leaves chewed or drunk as tea for altitude sickness, hunger, fatigue and stomach pain"
+    },
+    {
+     "tradition": "Modern medicine",
+     "use": "Cocaine hydrochloride used as a topical anaesthetic and vasoconstrictor in nose and throat procedures"
+    }
+   ],
+   "compounds": [
+    "cocaine",
+    "cinnamoylcocaine",
+    "hygrine",
+    "tropacocaine"
+   ],
+   "evidence": "strong",
+   "cautions": "Cocaine is addictive and cardiotoxic. Leaf products are controlled in most countries outside the Andes."
+  },
+  "fruit": {
+   "type": "Drupe",
+   "season": "Year-round",
+   "description": "Small red drupes about 1 cm long."
+  },
+  "seed": {
+   "description": "Single seed per drupe",
+   "size": "~5–8 mm",
+   "dispersal": "Birds",
+   "germination": "Sow fresh; germinates in a few weeks"
+  },
+  "lore": "Coca appears in Moche ceramics showing chewers with bulging cheeks, and under the Inca its use was reserved largely for nobility and ritual. Albert Niemann isolated cocaine in 1860, and in 1884 Carl Koller showed it could numb the eye for surgery, the first local anaesthetic.",
+  "historicalNames": [
+   "Erythroxylon coca",
+   "Hayo",
+   "Cuca"
+  ],
+  "funFact": "Coca-Cola originally contained coca extract; the company still uses de-cocainised coca leaf flavouring, processed by a single licensed US facility."
+ },
+ {
+  "slug": "lophophora-williamsii",
+  "scientific": "Lophophora williamsii",
+  "common": "Peyote",
+  "otherNames": [
+   "Peyotl (Nahuatl)",
+   "Hikuri / Híkuli (Wixárika and Rarámuri)",
+   "Mescal button (English)",
+   "Botón de mezcal (Spanish)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Succulent",
+  "family": "Cactaceae",
+  "shelves": [
+   "psychoactive",
+   "sacred",
+   "medicinal",
+   "endangered",
+   "toxic"
+  ],
+  "summary": "A small spineless cactus of the Chihuahuan Desert that produces mescaline, used in ceremony by Indigenous peoples for at least 5,700 years. It grows very slowly, taking years to reach harvest size, and overharvesting and land clearing have made it vulnerable.",
+  "nativeRange": "Chihuahuan Desert and Tamaulipan thornscrub of southern Texas and north-central Mexico",
+  "regions": [
+   "North America"
+  ],
+  "biomes": [
+   "Hot desert",
+   "Thornscrub"
+  ],
+  "abilities": [
+   "Synthesises mescaline and dozens of related phenethylamine and isoquinoline alkaloids",
+   "Has no spines; relies on bitter alkaloids and camouflage under shrubs",
+   "Regrows new 'buttons' from its carrot-like root after the crown is cut, if cut correctly",
+   "Grows extremely slowly, often 10+ years to flowering size in the wild"
+  ],
+  "edibility": "toxic",
+  "edibleParts": [],
+  "edibilityNote": "Not a food. The crown is intensely bitter and typically causes nausea and vomiting, along with powerful hallucinations from mescaline, raised heart rate and blood pressure. Dangerous for people with heart conditions or psychosis; illegal in most places except for protected religious use.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Indigenous Mexican and Native American medicine",
+     "use": "Used for pain, fever, wounds and in healing ceremonies"
+    },
+    {
+     "tradition": "Native American Church",
+     "use": "Sacramental use in all-night prayer meetings"
+    }
+   ],
+   "compounds": [
+    "mescaline",
+    "pellotine",
+    "anhalonidine",
+    "hordenine"
+   ],
+   "evidence": "traditional",
+   "cautions": "Hallucinogenic; can trigger psychosis and dangerous behaviour; interacts with MAOIs and other drugs."
+  },
+  "fruit": {
+   "type": "Berry",
+   "season": "Summer",
+   "description": "Small, pink, club-shaped fruit with black seeds."
+  },
+  "seed": {
+   "description": "Small black seeds",
+   "size": "~1–1.5 mm",
+   "dispersal": "Animals and rain",
+   "germination": "Surface-sow on gritty mix under cover; very slow growth"
+  },
+  "iucn": "VU",
+  "lore": "Peyote buttons found in Shumla Caves, Texas, have been radiocarbon-dated to about 5,700 years ago. The Wixárika (Huichol) make an annual pilgrimage to Wirikuta in San Luis Potosí to gather hikuri, and US federal law (AIRFA amendments, 1994) protects its sacramental use by Native American Church members.",
+  "historicalNames": [
+   "Anhalonium lewinii",
+   "Echinocactus williamsii",
+   "Peyotl"
+  ],
+  "funFact": "Mescaline, isolated from peyote by Arthur Heffter in 1897, was the first psychedelic compound ever isolated."
+ },
+ {
+  "slug": "banisteriopsis-caapi",
+  "scientific": "Banisteriopsis caapi",
+  "common": "Ayahuasca vine",
+  "otherNames": [
+   "Ayahuasca (Quechua: 'vine of the souls')",
+   "Yagé (Colombian, Tukanoan)",
+   "Caapi (Tupi)",
+   "Natem (Shuar)",
+   "Nixi pae (Kaxinawá/Huni Kuin)",
+   "Mariri / Hoasca (Brazilian Portuguese)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Vine",
+  "family": "Malpighiaceae",
+  "shelves": [
+   "psychoactive",
+   "sacred",
+   "medicinal",
+   "toxic"
+  ],
+  "summary": "A woody Amazonian liana at the heart of ayahuasca, the visionary brew of many Amazonian peoples. Its harmala alkaloids block the enzyme monoamine oxidase, which lets DMT from leaves such as chacruna (Psychotria viridis) act when drunk.",
+  "nativeRange": "Amazon basin and adjacent tropical South America (Brazil, Colombia, Ecuador, Peru, Bolivia)",
+  "regions": [
+   "South America"
+  ],
+  "biomes": [
+   "Tropical rainforest"
+  ],
+  "abilities": [
+   "Makes β-carboline alkaloids (harmine, harmaline, tetrahydroharmine) that inhibit monoamine oxidase A",
+   "Climbs high into the rainforest canopy as a thick, twisting liana",
+   "Its MAO inhibition allows DMT to be orally active, a combination Indigenous peoples discovered without any chemistry"
+  ],
+  "edibility": "toxic",
+  "edibleParts": [],
+  "edibilityNote": "Not a food. The brew causes vomiting and diarrhoea (regarded as 'purging' in ritual) and intense visions. Dangerous with SSRIs, other antidepressants, stimulants and certain foods because MAO inhibition can cause serotonin syndrome or hypertensive crisis; deaths have occurred, often with mixed brews or drug interactions.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Amazonian Indigenous and mestizo vegetalismo",
+     "use": "Healing, divination and spiritual guidance in ceremonies led by curanderos"
+    },
+    {
+     "tradition": "Brazilian ayahuasca religions (Santo Daime, União do Vegetal)",
+     "use": "Sacramental use"
+    },
+    {
+     "tradition": "Clinical research",
+     "use": "Small trials of ayahuasca for treatment-resistant depression"
+    }
+   ],
+   "compounds": [
+    "harmine",
+    "harmaline",
+    "tetrahydroharmine"
+   ],
+   "evidence": "traditional",
+   "cautions": "MAO inhibitor: serious interactions with antidepressants, stimulants and tyramine-rich foods; not for people with psychosis, heart disease or in pregnancy."
+  },
+  "fruit": {
+   "type": "Samara",
+   "season": "Variable",
+   "description": "Winged fruits typical of the Malpighia family."
+  },
+  "seed": {
+   "description": "Winged samara",
+   "size": "~2–3 cm with wing",
+   "dispersal": "Wind",
+   "germination": "Usually propagated by stem cuttings rather than seed"
+  },
+  "lore": "English botanist Richard Spruce collected the vine among the Tukanoan peoples of the Rio Negro in 1851. In 2006 the US Supreme Court (Gonzales v. O Centro Espírita Beneficente União do Vegetal) upheld a church's right to use hoasca tea.",
+  "historicalNames": [
+   "Banisteria caapi"
+  ],
+  "funFact": "Harmine was once called 'telepathine' in the 1920s because of the visions reported by those who drank ayahuasca."
+ },
+ {
+  "slug": "nerium-oleander",
+  "scientific": "Nerium oleander",
+  "common": "Oleander",
+  "otherNames": [
+   "Kaner (Hindi/Urdu)",
+   "Karavira (Sanskrit)",
+   "Difla (Arabic)",
+   "Kharzahreh ('donkey-poison', Persian)",
+   "Jiāzhútáo 夹竹桃 (Chinese)",
+   "Laurier-rose (French)",
+   "Adelfa (Spanish)",
+   "Harduf (Hebrew)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Shrub",
+  "family": "Apocynaceae",
+  "shelves": [
+   "toxic",
+   "deadly",
+   "medicinal"
+  ],
+  "summary": "A beautiful, tough flowering shrub planted on highways and in gardens throughout warm climates, and one of the most poisonous common garden plants. Every part contains cardiac glycosides that disrupt the heart's rhythm. It was the first plant to bloom in Hiroshima after the 1945 bombing.",
+  "nativeRange": "Mediterranean region and North Africa through the Middle East to South Asia and southern China",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "South Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Mediterranean scrub",
+   "Riverbeds and wadis"
+  ],
+  "abilities": [
+   "Tolerates drought, salt spray, heat, poor soil and city pollution",
+   "Makes potent cardiac glycosides (oleandrin) in all its tissues",
+   "Grows along seasonal riverbeds, surviving floods and long dry seasons",
+   "Its flowers offer no nectar; it is pollinated by insects that it 'deceives'"
+  ],
+  "edibility": "deadly",
+  "edibleParts": [],
+  "edibilityNote": "All parts are poisonous: leaves, flowers, stems, seeds, roots and sap, fresh or dried. The cardiac glycosides oleandrin and neriine cause nausea, vomiting, abdominal pain, slow or irregular heartbeat, high blood potassium and can cause fatal cardiac arrest. Smoke from burning it, using stems as skewers, and honey from oleander-rich areas have all caused poisoning. Deadly to dogs, cats, horses and livestock. Treatment may include digoxin-specific antibody fragments. Not to be confused with yellow oleander (Cascabela thevetia), also deadly.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Ayurveda",
+     "use": "Root and leaf (karavira), after purification, applied externally for skin diseases"
+    },
+    {
+     "tradition": "Unani",
+     "use": "Leaf preparations used externally for ringworm and swelling"
+    }
+   ],
+   "compounds": [
+    "oleandrin",
+    "neriine",
+    "digitoxigenin glycosides"
+   ],
+   "evidence": "traditional",
+   "cautions": "Potentially fatal if taken internally; 'oleandrin' supplements and extracts are dangerous and unproven."
+  },
+  "fruit": {
+   "type": "Follicle",
+   "season": "Late summer–autumn",
+   "description": "Long, narrow paired pods that split to release silky-haired seeds."
+  },
+  "seed": {
+   "description": "Brown seeds with a tuft of hairs",
+   "size": "~5 mm",
+   "dispersal": "Wind",
+   "germination": "Usually propagated by cuttings; seed germinates readily in warmth"
+  },
+  "grow": {
+   "zones": "USDA 8–11",
+   "climates": [
+    "Mediterranean",
+    "Subtropical",
+    "Arid"
+   ],
+   "sun": "Full sun",
+   "water": "Low once established",
+   "soil": "Any well-drained soil",
+   "propagation": "Semi-ripe cuttings",
+   "timeToHarvest": "Flowers in 1–2 years",
+   "steps": [
+    "Wear gloves when pruning; the sap irritates skin",
+    "Root cuttings in water or moist sand in summer",
+    "Plant in full sun away from where children and pets play",
+    "Never burn the prunings or use stems as skewers"
+   ]
+  },
+  "lore": "Oleander is painted in the garden frescoes of Pompeii, and Pliny the Elder warned that it was poisonous to animals. Oleander is the official flower of Hiroshima because it was the first to bloom after the atomic bombing.",
+  "historicalNames": [
+   "Nerion",
+   "Rhododaphne",
+   "Rose-bay",
+   "Laurus rosea"
+  ],
+  "funFact": "Despite its poison, oleander is the main food of the oleander caterpillar (larva of the polka-dot wasp moth, Syntomeida epilais), which stores the plant's toxins for its own defence."
+ },
+ {
+  "slug": "ricinus-communis",
+  "scientific": "Ricinus communis",
+  "common": "Castor oil plant",
+  "otherNames": [
+   "Arandi / Erand (Hindi/Urdu)",
+   "Eranda (Sanskrit)",
+   "Kharwa (Arabic)",
+   "Bīmá 蓖麻 (Chinese)",
+   "Mamona (Brazilian Portuguese)",
+   "Higuerilla (Spanish)",
+   "Kiki (Ancient Egyptian/Greek)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Shrub",
+  "family": "Euphorbiaceae",
+  "shelves": [
+   "toxic",
+   "deadly",
+   "medicinal",
+   "dye-fibre"
+  ],
+  "summary": "A fast-growing, dramatic plant whose mottled seeds hold both castor oil and ricin, one of the most toxic natural proteins. Pressing separates them: the oil is a safe, ancient laxative and industrial lubricant, while ricin stays in the seed cake.",
+  "nativeRange": "Probably north-eastern Africa (Ethiopia) and the Middle East; naturalised throughout the tropics and warm temperate regions",
+  "regions": [
+   "Sub-Saharan Africa",
+   "North Africa",
+   "West Asia",
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Disturbed ground",
+   "Riverbanks",
+   "Cultivation"
+  ],
+  "abilities": [
+   "Produces ricin, a protein that disables ribosomes and stops cells making proteins",
+   "Stores up to ~50% oil in its seeds, mostly ricinoleic acid, an unusual hydroxy fatty acid",
+   "Launches seeds from explosive capsules, then ants carry them off by their fatty caruncle",
+   "Grows several metres in a single season"
+  ],
+  "edibility": "deadly",
+  "edibleParts": [],
+  "edibilityNote": "Seeds are deadly if chewed or crushed: ricin causes symptoms after a delay of several hours, including severe vomiting, bloody diarrhoea, dehydration, low blood pressure and failure of the liver, kidneys and spleen; a few well-chewed seeds can kill a child. Swallowed whole seeds may pass through intact. Commercial castor oil is ricin-free. Seeds are used in jewellery and are attractive to children; also highly toxic to dogs.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Ancient Egyptian medicine (Ebers Papyrus)",
+     "use": "Castor oil as a laxative and in ointments"
+    },
+    {
+     "tradition": "Ayurveda",
+     "use": "Castor oil (eranda taila) as a purgative and for joint pain (vata disorders)"
+    },
+    {
+     "tradition": "Modern medicine",
+     "use": "Castor oil is an approved stimulant laxative; ricinoleic acid also used in drug formulations"
+    }
+   ],
+   "compounds": [
+    "ricin",
+    "ricinine",
+    "ricinoleic acid"
+   ],
+   "evidence": "strong",
+   "cautions": "Castor oil can cause cramps and diarrhoea and can trigger uterine contractions; avoid in pregnancy unless medically supervised. Never ingest seeds."
+  },
+  "fruit": {
+   "type": "Spiny capsule",
+   "season": "Summer–autumn",
+   "description": "Three-lobed, spiny green-to-red capsules that split explosively."
+  },
+  "seed": {
+   "description": "Glossy seeds mottled brown, black and white, with a pale caruncle",
+   "size": "~1–1.5 cm",
+   "dispersal": "Explosive capsules, then ants",
+   "germination": "Soak overnight and sow in warmth (with gloves); 1–3 weeks"
+  },
+  "grow": {
+   "zones": "USDA 9–11 perennial; annual elsewhere",
+   "climates": [
+    "Tropical",
+    "Subtropical",
+    "Mediterranean",
+    "Temperate (annual)"
+   ],
+   "sun": "Full sun",
+   "water": "Moderate",
+   "soil": "Rich, well-drained",
+   "propagation": "Seed",
+   "timeToHarvest": "Seeds in 4–5 months",
+   "steps": [
+    "Wear gloves and keep seeds away from children and pets",
+    "Soak seed overnight and sow indoors in warmth",
+    "Plant out after frost in rich soil",
+    "Remove flower spikes before seeds form if children or animals visit"
+   ]
+  },
+  "lore": "Castor seeds have been found in Egyptian tombs from about 4000 BCE, and Herodotus described Egyptians using 'kiki' oil in lamps. In 1978 Bulgarian dissident Georgi Markov was killed in London by a tiny ricin pellet fired, it is believed, from a modified umbrella.",
+  "historicalNames": [
+   "Ricinus",
+   "Palma Christi",
+   "Kiki",
+   "Cataputia major"
+  ],
+  "funFact": "'Ricinus' is Latin for 'tick', because the seeds look like a swollen tick."
+ },
+ {
+  "slug": "conium-maculatum",
+  "scientific": "Conium maculatum",
+  "common": "Poison hemlock",
+  "otherNames": [
+   "Koneion (Ancient Greek)",
+   "Cicuta (Latin, classical)",
+   "Ciguë (French)",
+   "Gefleckter Schierling (German)",
+   "Cicuta mayor (Spanish)",
+   "Shawkaran (Arabic/Persian)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Herb",
+  "family": "Apiaceae",
+  "shelves": [
+   "toxic",
+   "deadly",
+   "medicinal"
+  ],
+  "summary": "The poison that killed Socrates. Poison hemlock looks like a tall, lacy wild carrot or parsley, but every part contains coniine and related alkaloids that paralyse muscles from the legs upward, ending in respiratory failure while the mind stays clear.",
+  "nativeRange": "Europe, North Africa and western Asia; invasive in the Americas, Australia and New Zealand",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "North America",
+   "South America",
+   "Australia",
+   "Oceania"
+  ],
+  "biomes": [
+   "Disturbed ground",
+   "Riverbanks",
+   "Field edges and roadsides"
+  ],
+  "abilities": [
+   "Makes piperidine alkaloids (coniine, γ-coniceine) that block nicotinic receptors at the nerve–muscle junction",
+   "Grows as a biennial to 2–3 m tall, forming dense stands along ditches",
+   "Gives off a musty, mouse-like smell when crushed, from its alkaloids",
+   "Coniine was the first alkaloid ever synthesised in a lab (by Albert Ladenburg, 1886)"
+  ],
+  "edibility": "deadly",
+  "edibleParts": [],
+  "edibilityNote": "All parts are deadly, especially seeds and roots; leaves are most toxic in spring before flowering. Symptoms begin 30 minutes to a few hours after eating: burning mouth, salivation, dilated pupils, tremors, then ascending muscle paralysis, slowing heart and death from respiratory failure. Lookalikes: wild carrot/Queen Anne's lace (hairy stem, no purple blotches, carrot smell), parsley, chervil, fennel, cow parsley and wild parsnip. Key signs of hemlock: smooth hollow stem with purple-red blotches and a mousy smell. Even handling can irritate; wash after contact.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Greco-Roman and medieval European medicine",
+     "use": "Applied externally for tumours and swellings and as a sedative; used in Athens as a method of execution"
+    }
+   ],
+   "compounds": [
+    "coniine",
+    "γ-coniceine",
+    "N-methylconiine",
+    "conhydrine"
+   ],
+   "evidence": "traditional",
+   "cautions": "Deadly; no safe home use."
+  },
+  "fruit": {
+   "type": "Schizocarp",
+   "season": "Summer–autumn",
+   "description": "Small, grey-brown ribbed fruits with wavy ridges, in umbels."
+  },
+  "seed": {
+   "description": "Ridged mericarps, ~2–3 mm",
+   "size": "~2–3 mm",
+   "dispersal": "Wind, water, animals and machinery",
+   "germination": "Not for cultivation; controlled as a noxious weed in many places"
+  },
+  "lore": "Plato's Phaedo describes Socrates' death in 399 BCE after drinking hemlock, the numbness creeping upward from his feet. Hemlock was named among the ingredients of the witches' brew in Macbeth: 'Root of hemlock digg'd i' the dark'.",
+  "historicalNames": [
+   "Cicuta",
+   "Koneion",
+   "Hemlock",
+   "Hemlic"
+  ],
+  "funFact": "Migrating quail that eat hemlock seeds have reportedly poisoned people who ate the birds, a syndrome called coturnism."
+ },
+ {
+  "slug": "cicuta-maculata",
+  "scientific": "Cicuta maculata",
+  "common": "Spotted water hemlock",
+  "otherNames": [
+   "Cowbane (English)",
+   "Beaver poison (English)",
+   "Musquash root (English)",
+   "Cicuta (Spanish)",
+   "Cicutaire maculée (French)",
+   "Carotte à Moreau (Quebec French)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Herb",
+  "family": "Apiaceae",
+  "shelves": [
+   "toxic",
+   "deadly"
+  ],
+  "summary": "Often called the most toxic plant in North America. Water hemlock's thick, chambered roots contain cicutoxin, which triggers violent seizures within as little as 15 minutes. A piece of root the size of a walnut can kill a 550 kg cow, and people have died after eating only small amounts.",
+  "nativeRange": "Most of North America, from Canada to Mexico",
+  "regions": [
+   "North America",
+   "Central America"
+  ],
+  "biomes": [
+   "Wet meadows",
+   "Marshes",
+   "Stream and ditch banks"
+  ],
+  "abilities": [
+   "Makes cicutoxin, which blocks GABA-A receptors in the brain and causes uncontrolled seizures",
+   "Stores most toxin in thickened, chambered roots that ooze yellowish oily liquid when cut",
+   "Grows in wet ground where it can be confused with edible wetland plants",
+   "Is toxic enough to kill cattle that eat a few roots exposed by ploughing or flooding"
+  ],
+  "edibility": "deadly",
+  "edibleParts": [],
+  "edibilityNote": "All parts are deadly, most of all the roots and stem base, especially in spring. Symptoms within 15–60 minutes: nausea, vomiting, abdominal pain, frothing at the mouth, then violent seizures, irregular heartbeat and death from respiratory failure; survivors may have lasting muscle and memory problems. Lookalikes: water parsnip (Sium suave), wild parsnip, wild carrot, angelica, cow parsnip and edible wetland roots. Key sign: chambered (hollow with cross-walls) root crown and leaf veins ending in the notches between teeth rather than at the tips.",
+  "fruit": {
+   "type": "Schizocarp",
+   "season": "Late summer",
+   "description": "Small round ribbed fruits in loose umbels."
+  },
+  "seed": {
+   "description": "Small corky-ribbed mericarps",
+   "size": "~2–4 mm",
+   "dispersal": "Water",
+   "germination": "Not for cultivation"
+  },
+  "lore": "Colonial writers and Indigenous traditions alike recorded water hemlock as a deadly poison, and it was a long-feared killer of cattle on the American frontier, where roots exposed by spring floods or ploughing were eaten by stock.",
+  "historicalNames": [
+   "Cicuta americana",
+   "Sium maculatum",
+   "Cowbane"
+  ],
+  "funFact": "Children have been poisoned by using the hollow stems as peashooters or whistles."
+ },
+ {
+  "slug": "aconitum-napellus",
+  "scientific": "Aconitum napellus",
+  "common": "Monkshood (Aconite, Wolfsbane)",
+  "otherNames": [
+   "Bachnag / Vatsanabha (Hindi/Sanskrit, for Indian aconites)",
+   "Bish (Urdu, aconite)",
+   "Fùzǐ 附子 / Wūtóu 乌头 (Chinese, for related species)",
+   "Eisenhut (German)",
+   "Aconit napel (French)",
+   "Acónito (Spanish)",
+   "Queen of poisons (English)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Herb",
+  "family": "Ranunculaceae",
+  "shelves": [
+   "toxic",
+   "deadly",
+   "medicinal",
+   "pollinator-plant"
+  ],
+  "summary": "A stately garden perennial with hooded blue-violet flowers, and one of the most poisonous plants in Europe. Aconitine can enter through the skin and causes tingling and numbness, vomiting, and deadly heart rhythms. Greek myth said it grew from the saliva of Cerberus.",
+  "nativeRange": "Mountains of western and central Europe",
+  "regions": [
+   "Europe"
+  ],
+  "biomes": [
+   "Mountain meadows",
+   "Stream banks",
+   "Damp woodland edges"
+  ],
+  "abilities": [
+   "Makes aconitine, which locks sodium channels open in nerves and heart muscle",
+   "Its hooded flowers can be opened only by long-tongued bumblebees",
+   "Stores toxin-rich tuberous roots that replace themselves each year",
+   "Alkaloids can be absorbed through broken skin when handled"
+  ],
+  "edibility": "deadly",
+  "edibleParts": [],
+  "edibilityNote": "All parts are deadly, especially roots and seeds. Within minutes to an hour: tingling and numbness of the mouth and face spreading to limbs, nausea, vomiting, sweating, weakness, then dangerous ventricular arrhythmias and death. Roots have been mistaken for horseradish or other roots, and leaves for wild greens. Wear gloves when handling; gardeners have been poisoned through the skin. No antidote; treatment is supportive.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "18th–19th-century European medicine",
+     "use": "Tincture of aconite as a pain reliever and fever remedy (now abandoned)"
+    },
+    {
+     "tradition": "Traditional Chinese medicine (related species)",
+     "use": "Processed roots of Aconitum carmichaelii (fuzi) used for 'cold' conditions; processing reduces toxicity"
+    }
+   ],
+   "compounds": [
+    "aconitine",
+    "mesaconitine",
+    "hypaconitine"
+   ],
+   "evidence": "traditional",
+   "cautions": "Potentially fatal, even in herbal products; poisoning from improperly processed aconite herbs is still reported in Asia."
+  },
+  "fruit": {
+   "type": "Follicles",
+   "season": "Late summer–autumn",
+   "description": "Clusters of three to five dry pods that split along one side."
+  },
+  "seed": {
+   "description": "Small, wrinkled, dark seeds",
+   "size": "~3–4 mm",
+   "dispersal": "Shaken from pods by wind",
+   "germination": "Needs cold stratification; slow"
+  },
+  "grow": {
+   "zones": "USDA 3–8",
+   "climates": [
+    "Temperate",
+    "Montane",
+    "Continental"
+   ],
+   "sun": "Partial shade to full sun",
+   "water": "Moist",
+   "soil": "Fertile, moisture-retentive",
+   "propagation": "Division of tubers; seed",
+   "timeToHarvest": "Ornamental; flowers in 2–3 years from seed",
+   "steps": [
+    "Always wear gloves when planting, dividing or cutting",
+    "Plant tubers in moist, rich soil in partial shade",
+    "Keep away from vegetable beds and places children or pets play",
+    "Label clearly; never plant near horseradish or other edible roots"
+   ]
+  },
+  "lore": "Ovid's Metamorphoses tells how aconite sprang from the foam of Cerberus when Hercules dragged him from the underworld. The name 'wolfsbane' comes from its use in baits and arrow poisons for wolves.",
+  "historicalNames": [
+   "Aconitum",
+   "Napellus",
+   "Wolfesbane",
+   "Thora"
+  ],
+  "funFact": "The 'monk's hood' is a sepal, not a petal; the true petals are reduced to two hidden, nectar-holding spurs inside it."
+ },
+ {
+  "slug": "hippomane-mancinella",
+  "scientific": "Hippomane mancinella",
+  "common": "Manchineel",
+  "otherNames": [
+   "Manzanilla de la muerte ('little apple of death', Spanish)",
+   "Mancenillier (French Caribbean)",
+   "Beach apple (English)",
+   "Poison guava (English)",
+   "Manzanillo (Spanish)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Tree",
+  "family": "Euphorbiaceae",
+  "shelves": [
+   "tree",
+   "toxic",
+   "keystone"
+  ],
+  "summary": "Often called the most dangerous tree in the world. Its small green apple-like fruits burn the mouth and throat, its milky sap blisters skin, and sheltering under it during rain can cause burns as sap is washed off the leaves. It still does important work holding Caribbean beaches together.",
+  "nativeRange": "Southern Florida, the Caribbean, the Bahamas, Central America and northern South America",
+  "regions": [
+   "North America",
+   "Caribbean",
+   "Central America",
+   "South America"
+  ],
+  "biomes": [
+   "Coastal strand",
+   "Mangrove edges",
+   "Beaches"
+  ],
+  "abilities": [
+   "Its latex contains phorbol esters that cause severe blistering of skin and eyes",
+   "Stabilises sandy beaches and dunes with dense roots and windbreak crowns",
+   "Tolerates salt spray, storms and nutrient-poor sand",
+   "Fruits float, spreading the tree along coasts by sea"
+  ],
+  "edibility": "toxic",
+  "edibleParts": [],
+  "edibilityNote": "All parts are toxic. Eating the sweet-smelling fruit causes intense burning, blistering and swelling of the mouth and throat, vomiting and bloody diarrhoea; historical accounts describe deaths, though modern documented fatalities are rare. Sap causes blistering dermatitis and can cause temporary blindness; rain dripping from the leaves and smoke from burning wood are also harmful. Lookalike: crab apples or guava. Trees are often marked with red bands or warning signs.",
+  "fruit": {
+   "type": "Drupe",
+   "season": "Much of the year",
+   "description": "Small green to yellowish fruits like crab apples, with a pleasant smell."
+  },
+  "seed": {
+   "description": "Hard stone with several seeds",
+   "size": "~1.5 cm",
+   "dispersal": "Sea currents; land crabs",
+   "germination": "Not for cultivation"
+  },
+  "lore": "The Spanish called it 'manzanilla de la muerte', and Caribbean peoples reportedly used its sap on arrows; legend says Juan Ponce de León died in 1521 after being wounded by such an arrow in Florida.",
+  "historicalNames": [
+   "Mancinella",
+   "Manchineel",
+   "Arbor venenata"
+  ],
+  "funFact": "Some animals are unaffected: the black spiny-tailed iguana (Ctenosaura similis) eats the fruit and even lives among the branches."
+ },
+ {
+  "slug": "abrus-precatorius",
+  "scientific": "Abrus precatorius",
+  "common": "Rosary pea (Jequirity)",
+  "otherNames": [
+   "Gunja / Ratti (Hindi/Sanskrit)",
+   "Kundumani (Tamil)",
+   "Crab's eye (English)",
+   "Jumbie bead (Caribbean English)",
+   "Xiāngsīzǐ 相思子 ('lovesick seed', Chinese)",
+   "Pronoha (Indonesian)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Vine",
+  "family": "Fabaceae",
+  "shelves": [
+   "toxic",
+   "deadly",
+   "medicinal"
+  ],
+  "summary": "A climbing legume whose glossy scarlet seeds with black eyes are strung into rosaries, necklaces and toys, and contain abrin, a toxin even more potent than ricin. The hard coat usually protects a swallowed whole seed, but a single chewed or crushed seed can be fatal.",
+  "nativeRange": "Tropical Asia and probably tropical Africa and Australia; naturalised widely, invasive in Florida and the Caribbean",
+  "regions": [
+   "South Asia",
+   "Southeast Asia",
+   "Sub-Saharan Africa",
+   "Australia",
+   "Caribbean",
+   "North America"
+  ],
+  "biomes": [
+   "Tropical dry forest",
+   "Scrub and thickets",
+   "Disturbed ground"
+  ],
+  "abilities": [
+   "Makes abrin, a protein that disables ribosomes, as ricin does",
+   "Its hard, waterproof seed coat lets seeds survive for years",
+   "Its leaves contain glycyrrhizin and are sweet, like liquorice",
+   "Fixes nitrogen and climbs over other vegetation"
+  ],
+  "edibility": "deadly",
+  "edibleParts": [],
+  "edibilityNote": "Seeds are deadly if chewed, crushed or broken (drilling seeds for jewellery has poisoned craftspeople). After a delay of hours to days: severe vomiting, bloody diarrhoea, dehydration, seizures and failure of liver, kidneys and other organs. Whole seeds swallowed intact often pass harmlessly. Leaves are chewed as a sweetener in India, but the plant should not be eaten; keep seed jewellery away from children.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Ayurveda / Siddha",
+     "use": "Seeds used only after 'purification' (shodhana) by boiling in milk, and roots and leaves for coughs and sore throats"
+    },
+    {
+     "tradition": "Traditional African and Caribbean medicine",
+     "use": "Leaf tea for coughs and colds"
+    }
+   ],
+   "compounds": [
+    "abrin",
+    "glycyrrhizin (leaves)",
+    "abrine",
+    "precatorine"
+   ],
+   "evidence": "traditional",
+   "cautions": "Seeds can be fatal; traditional detoxification is not reliable for home use."
+  },
+  "fruit": {
+   "type": "Legume (pod)",
+   "season": "Dry season",
+   "description": "Short pods that curl open to show red-and-black seeds."
+  },
+  "seed": {
+   "description": "Glossy scarlet seed with a black spot at the hilum",
+   "size": "~5–7 mm",
+   "dispersal": "Birds attracted by the bright seeds (which offer no food reward)",
+   "germination": "Not recommended: invasive and toxic"
+  },
+  "lore": "In India the seeds served goldsmiths as a unit of weight, the ratti (about 0.12 g), and the Sanskrit name gunja appears in Ayurvedic texts that prescribe elaborate purification before any use.",
+  "historicalNames": [
+   "Abrus",
+   "Glycine abrus",
+   "Phaseolus indicus",
+   "Jequirity"
+  ],
+  "funFact": "In 2012 the Eden Project in Cornwall withdrew bracelets from its shop after it emerged they were strung with rosary pea seeds."
+ },
+ {
+  "slug": "taxus-baccata",
+  "scientific": "Taxus baccata",
+  "common": "English yew (European yew)",
+  "otherNames": [
+   "Eibe (German)",
+   "If (French)",
+   "Tejo (Spanish)",
+   "Iubhar (Irish/Gaelic)",
+   "Ywen (Welsh)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Tree",
+  "family": "Taxaceae",
+  "shelves": [
+   "tree",
+   "ancient",
+   "toxic",
+   "deadly",
+   "medicinal",
+   "sacred",
+   "dye-fibre"
+  ],
+  "summary": "Europe's ancient churchyard tree, some individuals possibly 2,000 years old or more, and one of its most poisonous. Its needles and seeds contain taxine alkaloids that can stop the heart, yet its needles are also the starting material for the cancer drug docetaxel.",
+  "nativeRange": "Europe, North Africa (Atlas Mountains), western Asia to northern Iran",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia"
+  ],
+  "biomes": [
+   "Temperate broadleaf and mixed forest",
+   "Limestone cliffs",
+   "Churchyards"
+  ],
+  "abilities": [
+   "Lives for many centuries; the Fortingall Yew in Scotland is estimated at 2,000–3,000 years",
+   "Regrows from old wood and can send down internal roots inside its hollow trunk",
+   "Tolerates deep shade and heavy pruning, which makes it ideal for hedges and topiary",
+   "Its elastic heartwood and springy sapwood made the best longbows"
+  ],
+  "edibility": "deadly",
+  "edibleParts": [],
+  "edibilityNote": "Everything except the red fleshy aril is deadly; the seed inside the aril is toxic if chewed, so arils should not be eaten. Needles (fresh or dried) contain taxine B, causing dizziness, dry mouth, dilated pupils, vomiting, slow or irregular heartbeat and sudden cardiac arrest, sometimes within hours. Clippings are deadly to horses and cattle. Lookalikes: other dark conifers; children may eat the sweet red berries.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Modern medicine",
+     "use": "10-deacetylbaccatin III from yew needles is used to semi-synthesise docetaxel and paclitaxel, chemotherapy drugs for breast, lung and prostate cancers"
+    },
+    {
+     "tradition": "Unani (Himalayan yew, zarnab)",
+     "use": "Leaves used for respiratory complaints"
+    }
+   ],
+   "compounds": [
+    "taxine B",
+    "10-deacetylbaccatin III",
+    "taxanes"
+   ],
+   "evidence": "strong",
+   "cautions": "Raw plant material is deadly; taxane drugs are given only under specialist care."
+  },
+  "fruit": {
+   "type": "Aril (fleshy cup around seed)",
+   "season": "Autumn",
+   "description": "Bright red, juicy cups with a single dark seed visible at the opening."
+  },
+  "seed": {
+   "description": "Hard, dark seed in a red aril",
+   "size": "~6–7 mm",
+   "dispersal": "Thrushes and other birds eat the arils and pass the seed",
+   "germination": "Needs warm then cold stratification; often takes two years"
+  },
+  "grow": {
+   "zones": "USDA 6–8",
+   "climates": [
+    "Temperate",
+    "Oceanic"
+   ],
+   "sun": "Full sun to deep shade",
+   "water": "Moderate; dislikes waterlogging",
+   "soil": "Any well-drained soil, including chalk",
+   "propagation": "Cuttings, seed",
+   "timeToHarvest": "Hedge in 5–10 years",
+   "steps": [
+    "Take semi-ripe cuttings in late summer",
+    "Plant in well-drained soil; yew dies in waterlogged ground",
+    "Clip annually for hedges or topiary",
+    "Never let livestock or horses near clippings"
+   ]
+  },
+  "lore": "The Clacton spear, about 400,000 years old and among the oldest known wooden artefacts, is made of yew, and Ötzi the Iceman carried a yew longbow. In Britain yews were planted in churchyards, and Shakespeare's Macbeth includes 'slips of yew' in the witches' cauldron.",
+  "historicalNames": [
+   "Taxus",
+   "Iw",
+   "Ewe",
+   "Smilax (Greek, some sources)"
+  ],
+  "funFact": "Paclitaxel (Taxol) was first found in the bark of the Pacific yew in the 1960s; making it from European yew needles meant trees no longer had to be stripped of bark."
+ },
+ {
+  "slug": "datura-stramonium",
+  "scientific": "Datura stramonium",
+  "common": "Jimsonweed (Thorn apple)",
+  "otherNames": [
+   "Dhatura (Hindi/Sanskrit)",
+   "Toloache (Nahuatl/Mexican Spanish)",
+   "Mān tuóluó 曼陀罗 (Chinese)",
+   "Stramoine (French)",
+   "Devil's trumpet (English)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Herb",
+  "family": "Solanaceae",
+  "shelves": [
+   "toxic",
+   "deadly",
+   "psychoactive",
+   "medicinal"
+  ],
+  "summary": "A rank, weedy nightshade with large white trumpet flowers and spiny seed pods, packed with tropane alkaloids that cause terrifying delirium. It takes its English name from Jamestown, where soldiers who ate it in 1676 reportedly behaved like fools for eleven days.",
+  "nativeRange": "Probably North and Central America; now a cosmopolitan weed",
+  "regions": [
+   "North America",
+   "Central America",
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Disturbed ground",
+   "Farmland",
+   "Waste places"
+  ],
+  "abilities": [
+   "Makes scopolamine, hyoscyamine and atropine, which block acetylcholine receptors",
+   "Opens fragrant flowers at dusk for hawkmoth pollinators",
+   "Produces seed that stays alive in soil for decades",
+   "Thrives in disturbed, fertile ground and contaminates grain and vegetable crops"
+  ],
+  "edibility": "deadly",
+  "edibleParts": [],
+  "edibilityNote": "All parts are toxic, especially seeds. The anticholinergic syndrome ('blind as a bat, mad as a hatter, red as a beet, hot as a hare, dry as a bone') includes dilated pupils, blurred vision, flushed hot dry skin, fast heart, urinary retention, hallucinations and delirium, seizures and sometimes death. Poisoning has happened through seeds contaminating buckwheat, soy or millet, leaves mistaken for other greens, and deliberate use as a hallucinogen. Physostigmine is used as an antidote under medical care.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Ayurveda",
+     "use": "Purified dhatura used for asthma, pain and skin disease"
+    },
+    {
+     "tradition": "19th–20th-century European and American medicine",
+     "use": "Leaves smoked in 'asthma cigarettes' for bronchospasm"
+    }
+   ],
+   "compounds": [
+    "scopolamine (hyoscine)",
+    "hyoscyamine",
+    "atropine"
+   ],
+   "evidence": "traditional",
+   "cautions": "Potentially fatal; dose varies hugely between plants. Purified atropine and scopolamine are approved drugs, but the plant itself is not safe to use."
+  },
+  "fruit": {
+   "type": "Spiny capsule",
+   "season": "Late summer–autumn",
+   "description": "Walnut-sized green capsules covered in spines that split into four to release many seeds."
+  },
+  "seed": {
+   "description": "Kidney-shaped dark seeds",
+   "size": "~3 mm",
+   "dispersal": "Falls from the capsule; carried in contaminated grain",
+   "germination": "Not recommended for cultivation"
+  },
+  "lore": "Robert Beverley's History and Present State of Virginia (1705) describes soldiers at Jamestown who ate the plant in salad and spent days in a foolish delirium. In Hindu tradition dhatura flowers and fruits are offered to Shiva.",
+  "historicalNames": [
+   "Stramonium",
+   "Solanum maniacum",
+   "Pomum spinosum",
+   "Thorn-apple"
+  ],
+  "funFact": "Seeds of Datura can lie in the soil for over 30 years, waiting for the ground to be disturbed."
+ },
+ {
+  "slug": "ageratina-altissima",
+  "scientific": "Ageratina altissima",
+  "common": "White snakeroot",
+  "otherNames": [
+   "Richweed (English)",
+   "Tall boneset (English)",
+   "Eupatoire rugueuse (French)",
+   "Snakeroot (Appalachian English)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Herb",
+  "family": "Asteraceae",
+  "shelves": [
+   "toxic",
+   "deadly",
+   "pollinator-plant",
+   "medicinal"
+  ],
+  "summary": "A pretty woodland wildflower that killed thousands of American settlers indirectly. Cattle grazing it pass its toxin, tremetol, into their milk, and people who drank the milk developed 'milk sickness', which killed Abraham Lincoln's mother, Nancy Hanks Lincoln, in 1818.",
+  "nativeRange": "Eastern and central North America",
+  "regions": [
+   "North America"
+  ],
+  "biomes": [
+   "Deciduous woodland",
+   "Woodland edges",
+   "Shaded thickets"
+  ],
+  "abilities": [
+   "Makes tremetol (a mixture including tremetone), a toxin that builds up in the milk and meat of grazing animals",
+   "Flowers in late summer and autumn, feeding bees, butterflies and moths when few flowers remain",
+   "Grows well in shade where most toxic forage plants do not",
+   "Spreads by seed and short rhizomes into woodland colonies"
+  ],
+  "edibility": "deadly",
+  "edibleParts": [],
+  "edibilityNote": "Leaves and stems are toxic to livestock (horses, cattle, sheep, goats), causing 'trembles'. People are poisoned indirectly by drinking milk or eating meat from poisoned animals: weakness, vomiting, tremors, severe constipation, acetone-smelling breath, and in serious cases death. Modern milk pooled from many farms is not a risk. Lookalikes: boneset (Eupatorium perfoliatum) and other white-flowered Eupatorium species.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Cherokee and other Indigenous medicine",
+     "use": "Root tea used for diarrhoea, kidney stones and fevers, and the root as a snakebite poultice (as the name suggests)"
+    }
+   ],
+   "compounds": [
+    "tremetone",
+    "dehydrotremetone",
+    "hydroxytremetone"
+   ],
+   "evidence": "traditional",
+   "cautions": "Toxic; not for internal use."
+  },
+  "fruit": {
+   "type": "Cypsela (achene) with pappus",
+   "season": "Autumn",
+   "description": "Tiny black achenes with white hairs."
+  },
+  "seed": {
+   "description": "Small black achene with a white pappus",
+   "size": "~2 mm",
+   "dispersal": "Wind",
+   "germination": "Cold-stratify; self-sows freely"
+  },
+  "grow": {
+   "zones": "USDA 3–8",
+   "climates": [
+    "Temperate",
+    "Continental"
+   ],
+   "sun": "Partial to full shade",
+   "water": "Moderate",
+   "soil": "Moist, humus-rich",
+   "propagation": "Seed, division",
+   "timeToHarvest": "Ornamental; flowers late summer–autumn",
+   "steps": [
+    "Sow in autumn or cold-stratify seed",
+    "Plant in shade where it can naturalise",
+    "Keep out of any pasture used by livestock",
+    "Deadhead to limit self-seeding"
+   ]
+  },
+  "lore": "Milk sickness devastated frontier settlements in Ohio, Indiana and Illinois in the early 1800s; Dr. Anna Pierce Hobbs Bixby of Illinois is credited, in local tradition, with identifying the plant in the 1830s with help from a Shawnee woman. The cause wasn't accepted by science until the 1920s.",
+  "historicalNames": [
+   "Eupatorium rugosum",
+   "Eupatorium ageratoides",
+   "Eupatorium urticifolium"
+  ],
+  "funFact": "Milk sickness cases have mostly vanished since farms began pooling milk from many herds."
+ },
+ {
+  "slug": "toxicodendron-radicans",
+  "scientific": "Toxicodendron radicans",
+  "common": "Poison ivy",
+  "otherNames": [
+   "Hiedra venenosa (Spanish)",
+   "Herbe à la puce (Quebec French)",
+   "Sumac grimpant (French)",
+   "Giftefeu (German)",
+   "Tsuta-urushi ツタウルシ (Japanese, for East Asian forms)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Vine",
+  "family": "Anacardiaceae",
+  "shelves": [
+   "toxic",
+   "keystone"
+  ],
+  "summary": "A vine, shrub or ground cover whose oily resin, urushiol, causes an itchy, blistering rash in most people. Urushiol stays active on clothes, tools and pet fur for a long time. To wildlife it is a valuable plant: dozens of bird species eat its pale berries in winter.",
+  "nativeRange": "Eastern and central North America, Mexico, Central America and the Caribbean; related forms in East Asia",
+  "regions": [
+   "North America",
+   "Central America",
+   "Caribbean",
+   "East Asia"
+  ],
+  "biomes": [
+   "Woodland edges",
+   "Disturbed ground",
+   "Riverbanks",
+   "Dunes"
+  ],
+  "abilities": [
+   "Produces urushiol, which triggers allergic contact dermatitis in most people",
+   "Grows as a ground cover, shrub or high-climbing vine with hairy aerial roots",
+   "Feeds songbirds, woodpeckers and wild turkeys with fat-rich winter berries",
+   "Grows faster and makes more potent urushiol under higher CO₂, experiments show"
+  ],
+  "edibility": "toxic",
+  "edibleParts": [],
+  "edibilityNote": "All parts contain urushiol: leaves, stems, roots and berries, in all seasons, even dead plants. Touching causes an itchy red rash with blisters 12–72 hours later. Burning it releases urushiol in smoke, which can cause severe lung and eye inflammation. Eating any part is dangerous. Lookalikes: Virginia creeper (five leaflets), boxelder seedlings, fragrant sumac and young raspberry or blackberry; 'leaves of three, let it be' is a good guide. Wash skin with soap and cool water soon after contact.",
+  "fruit": {
+   "type": "Drupe",
+   "season": "Late summer–winter",
+   "description": "Clusters of small, waxy, greyish-white berries."
+  },
+  "seed": {
+   "description": "Ribbed stone inside the berry",
+   "size": "~4–5 mm",
+   "dispersal": "Birds",
+   "germination": "Not for cultivation"
+  },
+  "lore": "Captain John Smith described it at Jamestown in 1609, comparing it to English ivy and recording that it caused 'redness, itchiness, and lastly blisters'. Urushiol is named after urushi, the lacquer from the related Asian lacquer tree.",
+  "historicalNames": [
+   "Rhus radicans",
+   "Rhus toxicodendron",
+   "Poison oak (old usage)"
+  ],
+  "funFact": "In a Duke University experiment, poison ivy grown at elevated CO₂ grew bigger and made a more allergenic form of urushiol."
+ },
+ {
+  "slug": "heracleum-mantegazzianum",
+  "scientific": "Heracleum mantegazzianum",
+  "common": "Giant hogweed",
+  "otherNames": [
+   "Riesen-Bärenklau (German)",
+   "Berce du Caucase (French)",
+   "Barshchevik (Russian, for hogweeds)",
+   "Kaukasisk jättefloka (Swedish)",
+   "Panace di Mantegazza (Italian)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Herb",
+  "family": "Apiaceae",
+  "shelves": [
+   "toxic"
+  ],
+  "summary": "A monster of a plant up to about 5 m tall, with umbrella flower heads up to a metre across, introduced to Europe and North America as a Victorian ornamental. Its sap makes skin dangerously sensitive to sunlight, causing burns and blisters that can scar for years.",
+  "nativeRange": "Western Greater Caucasus; invasive across Europe, Canada and the northern United States",
+  "regions": [
+   "West Asia",
+   "Europe",
+   "North America"
+  ],
+  "biomes": [
+   "Riverbanks",
+   "Disturbed ground",
+   "Roadsides"
+  ],
+  "abilities": [
+   "Its sap contains furanocoumarins that bind DNA when struck by UV light, causing phytophotodermatitis",
+   "Grows to about 5 m tall with umbels up to a metre across",
+   "Produces thousands of seeds per plant (often around 20,000), which spread along rivers",
+   "Lives several years as a leafy rosette, then flowers once and dies"
+  ],
+  "edibility": "toxic",
+  "edibleParts": [],
+  "edibilityNote": "The sap in all parts, especially stems and leaves, contains furanocoumarins (e.g. bergapten, psoralens). On skin followed by sunlight, it causes burns and blisters within 24–48 hours, leaving dark patches and sensitivity for months or years; sap in eyes can cause temporary or lasting blindness. Do not eat any part. Lookalikes: native cow parsnip (Heracleum maximum or H. sphondylium), angelica, wild parsnip and poison hemlock. If exposed, wash immediately and keep out of sunlight for 48 hours.",
+  "fruit": {
+   "type": "Schizocarp",
+   "season": "Late summer",
+   "description": "Flat, oval, ribbed fruits with brown oil channels."
+  },
+  "seed": {
+   "description": "Flat oval mericarps",
+   "size": "~1 cm",
+   "dispersal": "Wind and water, often along rivers",
+   "germination": "Do not plant: it is a legally controlled invasive species in many countries"
+  },
+  "lore": "Seeds from the Caucasus were listed at Kew Gardens in 1817 and it was planted in Victorian gardens as a spectacle. Genesis recorded 'The Return of the Giant Hogweed' (1971), a mock-epic about the plant taking revenge on Britain.",
+  "historicalNames": [
+   "Heracleum giganteum",
+   "Cartwheel flower"
+  ],
+  "funFact": "It is named after Paolo Mantegazza, a 19th-century Italian physician, physiologist and anthropologist."
+ },
+ {
+  "slug": "dendrocnide-moroides",
+  "scientific": "Dendrocnide moroides",
+  "common": "Gympie-gympie (Stinging bush)",
+  "otherNames": [
+   "Moonlighter (Australian English)",
+   "Mulberry-leaved stinger (English)",
+   "Gympie stinger (English)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Shrub",
+  "family": "Urticaceae",
+  "shelves": [
+   "toxic",
+   "marvel"
+  ],
+  "summary": "Australia's most painful plant, a nettle relative whose heart-shaped leaves are covered in hollow, silica-tipped hairs. A sting can cause excruciating pain that flares for days or weeks, and in some cases months. In 2020 researchers found the cause: tiny peptide toxins they named gympietides.",
+  "nativeRange": "Rainforests of north-eastern Queensland, Australia; also eastern Indonesia (Moluccas) and Papua New Guinea",
+  "regions": [
+   "Australia",
+   "Southeast Asia",
+   "Oceania"
+  ],
+  "biomes": [
+   "Tropical rainforest gaps and edges"
+  ],
+  "abilities": [
+   "Covers its leaves, stems and fruit with silica-tipped hollow hairs that inject toxin like hypodermic needles",
+   "Makes gympietides, peptide toxins that act on pain-sensing sodium channels, similar to spider and cone snail toxins",
+   "Is a pioneer that quickly fills rainforest gaps after storms or clearing",
+   "Its hairs stay able to sting in dried herbarium specimens for decades"
+  ],
+  "edibility": "toxic",
+  "edibleParts": [],
+  "edibilityNote": "Every surface of the plant stings. Contact causes intense burning pain, swelling and redness, with flare-ups from touch, cold or water for weeks; severe stings have caused collapse. The pink-purple fruits are eaten by animals but stinging hairs make them dangerous for people. Remove hairs with wax strips or adhesive tape, not by rubbing; seek medical help for large stings.",
+  "fruit": {
+   "type": "Fleshy cluster of achenes",
+   "season": "Variable",
+   "description": "Mulberry-like clusters of pink to purple fruits, also covered in hairs."
+  },
+  "seed": {
+   "description": "Small achenes on fleshy stalks",
+   "size": "~2 mm",
+   "dispersal": "Birds",
+   "germination": "Not for cultivation"
+  },
+  "lore": "The name gympie-gympie comes from the language of the Gubbi Gubbi (Kabi Kabi) people of south-eastern Queensland, and early settler accounts reportedly tell of horses driven mad by the stinger. Australian ecologist Marina Hurley, who studied the plant, described being stung as like being 'burnt with hot acid and electrocuted at the same time'.",
+  "historicalNames": [
+   "Laportea moroides",
+   "Urtica moroides"
+  ],
+  "funFact": "Despite its stings, Dendrocnide leaves are eaten by red-legged pademelons and certain beetles, which seem unaffected."
+ },
+ {
+  "slug": "brugmansia-suaveolens",
+  "scientific": "Brugmansia suaveolens",
+  "common": "Angel's trumpet (Brazil's white angel's trumpet)",
+  "otherNames": [
+   "Trombeteira (Brazilian Portuguese)",
+   "Floripondio (Spanish)",
+   "Borrachero ('intoxicator', Colombian Spanish)",
+   "Toé (Peruvian Amazon, for Brugmansia)",
+   "Dama da noite (Portuguese)",
+   "大花曼陀罗 (Chinese)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Shrub",
+  "family": "Solanaceae",
+  "shelves": [
+   "toxic",
+   "deadly",
+   "psychoactive"
+  ],
+  "summary": "A shrub with huge, nodding white trumpets that perfume the night air, popular in gardens worldwide. It is no longer known in the wild: every Brugmansia species is listed as Extinct in the Wild, possibly because the animal that spread its seeds vanished. All parts carry scopolamine and related alkaloids.",
+  "nativeRange": "Atlantic Forest of south-eastern Brazil (now known only in cultivation and as escapes)",
+  "regions": [
+   "South America"
+  ],
+  "biomes": [
+   "Atlantic forest edges (historically)",
+   "Gardens"
+  ],
+  "abilities": [
+   "Produces scopolamine, hyoscyamine and atropine in all tissues",
+   "Releases strong evening scent to attract night-flying moths",
+   "Grows flowers up to about 30 cm long",
+   "Survives today only through human cultivation"
+  ],
+  "edibility": "deadly",
+  "edibleParts": [],
+  "edibilityNote": "All parts are poisonous, especially seeds and leaves. Eating any part, or tea from flowers, causes an anticholinergic delirium: dilated pupils, blurred vision, fast heart, hot dry skin, confusion, terrifying hallucinations, amnesia and sometimes death. Rubbing an eye after handling flowers can cause one dilated pupil for hours to days. Teenagers using it as a 'legal high' are often hospitalised. Similar-looking Datura is equally toxic.",
+  "fruit": {
+   "type": "Berry-like capsule",
+   "season": "Variable",
+   "description": "Smooth, spindle-shaped green fruits, rarely produced in cultivation."
+  },
+  "seed": {
+   "description": "Corky, angular brown seeds",
+   "size": "~1 cm",
+   "dispersal": "Unknown in the wild; possibly extinct animal dispersers",
+   "germination": "Usually grown from cuttings"
+  },
+  "grow": {
+   "zones": "USDA 9–11 (container plant elsewhere)",
+   "climates": [
+    "Subtropical",
+    "Tropical",
+    "Mediterranean"
+   ],
+   "sun": "Full sun to partial shade",
+   "water": "High in summer",
+   "soil": "Rich, moist, well-drained",
+   "propagation": "Cuttings",
+   "timeToHarvest": "Flowers in the first or second year",
+   "steps": [
+    "Wear gloves and wash hands after handling",
+    "Root cuttings in water or moist mix in warmth",
+    "Feed and water heavily while growing",
+    "Keep away from children and pets; bring indoors before frost"
+   ]
+  },
+  "iucn": "EW",
+  "lore": "Brugmansia species have long been used by Andean and Amazonian shamans as powerful and dangerous visionary plants. Long classified in Datura, angel's trumpets were split out by Christiaan Persoon in 1805 as Brugmansia, named after Dutch naturalist Sebald Justinus Brugmans.",
+  "historicalNames": [
+   "Datura suaveolens",
+   "Datura gardneri"
+  ],
+  "funFact": "Brugmansia flowers hang down, whereas Datura flowers point up; this is the easiest way to tell them apart."
+ },
+ {
+  "slug": "strychnos-nux-vomica",
+  "scientific": "Strychnos nux-vomica",
+  "common": "Strychnine tree",
+  "otherNames": [
+   "Kuchla (Hindi/Urdu)",
+   "Kupilu / Vishamushti (Sanskrit)",
+   "Azaraqi (Unani/Arabic)",
+   "Mǎqiánzǐ 马钱子 (Chinese)",
+   "Etti (Tamil)",
+   "Kanjiram (Malayalam)",
+   "Poison nut (English)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Tree",
+  "family": "Loganiaceae",
+  "shelves": [
+   "tree",
+   "toxic",
+   "deadly",
+   "medicinal"
+  ],
+  "summary": "A tree whose disc-shaped seeds contain strychnine, one of the most notorious poisons in history. Strychnine blocks inhibitory glycine receptors in the spinal cord, so muscles convulse uncontrollably while the victim stays fully conscious.",
+  "nativeRange": "India, Sri Lanka and Southeast Asia",
+  "regions": [
+   "South Asia",
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Tropical dry forest",
+   "Tropical moist forest"
+  ],
+  "abilities": [
+   "Makes strychnine and brucine, mostly in its seeds (about 1–1.5% strychnine)",
+   "Produces orange, apple-sized fruits whose pulp birds such as hornbills eat while discarding the seeds",
+   "Its alkaloids are so bitter that strychnine can be tasted at extremely low dilutions",
+   "Grows in dry and moist forests across the Indian subcontinent"
+  ],
+  "edibility": "deadly",
+  "edibleParts": [],
+  "edibilityNote": "Seeds are deadly; bark, leaves and root also contain strychnine and brucine. Within 15–60 minutes: anxiety, muscle twitching, then violent convulsions triggered by any noise or touch, arching of the back (opisthotonus), a fixed grin (risus sardonicus) and death from respiratory failure or exhaustion, while the person stays conscious. The fruit pulp is sometimes described as edible but is risky and not recommended.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Ayurveda",
+     "use": "Seeds (kupilu) used only after purification in cow's urine, milk or ghee, in tiny doses for nerve and digestive disorders"
+    },
+    {
+     "tradition": "Traditional Chinese medicine",
+     "use": "Processed seeds (ma qian zi) for pain and paralysis"
+    },
+    {
+     "tradition": "19th-century Western medicine",
+     "use": "Strychnine used as a 'tonic' and stimulant"
+    }
+   ],
+   "compounds": [
+    "strychnine",
+    "brucine",
+    "loganin"
+   ],
+   "evidence": "traditional",
+   "cautions": "Deadly; poisonings from traditional preparations are still reported. No safe home use."
+  },
+  "fruit": {
+   "type": "Berry",
+   "season": "Winter",
+   "description": "Smooth, hard-shelled orange fruit with white jelly-like pulp and several seeds."
+  },
+  "seed": {
+   "description": "Flat, grey, velvety discs",
+   "size": "~2–2.5 cm",
+   "dispersal": "Birds and monkeys eating the pulp",
+   "germination": "Not for cultivation"
+  },
+  "lore": "Pierre Joseph Pelletier and Joseph Bienaimé Caventou isolated strychnine in 1818. At the 1904 St Louis Olympics, marathon winner Thomas Hicks was given strychnine and brandy by his trainers during the race and nearly collapsed.",
+  "historicalNames": [
+   "Nux vomica",
+   "Nux metella",
+   "Koochla",
+   "Vomic nut"
+  ],
+  "funFact": "Strychnine's complex structure took until 1946 to work out (Robert Robinson), and R. B. Woodward first synthesised it in 1954."
+ },
+ {
+  "slug": "gossypium-hirsutum",
+  "scientific": "Gossypium hirsutum",
+  "common": "Upland cotton",
+  "otherNames": [
+   "Kapas / Rui (Hindi/Urdu)",
+   "Qutn (Arabic, source of 'cotton')",
+   "Algodón (Spanish, from Arabic)",
+   "Ichcatl (Nahuatl)",
+   "Mián 棉 (Chinese)",
+   "Pamuk (Turkish)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Shrub",
+  "family": "Malvaceae",
+  "shelves": [
+   "dye-fibre",
+   "toxic",
+   "pollinator-plant",
+   "medicinal",
+   "edible"
+  ],
+  "summary": "The source of about 90% of the world's cotton. Each fibre is a single seed-coat cell that can grow to about 3 cm long. Domesticated in Mesoamerica thousands of years ago, it became the crop at the centre of the Industrial Revolution and the transatlantic slave economy.",
+  "nativeRange": "Mexico, Central America and the Caribbean (wild forms on coasts); cultivated worldwide",
+  "regions": [
+   "Central America",
+   "Caribbean",
+   "North America",
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Tropical dry coasts (wild)",
+   "Farmland"
+  ],
+  "abilities": [
+   "Grows single-celled seed hairs up to about 3 cm long, the cotton fibre",
+   "Is an allotetraploid that combines two ancient genomes, one from Africa/Asia and one from the Americas, which merged 1–2 million years ago",
+   "Defends itself with gossypol-filled glands visible as black dots on leaves and seeds",
+   "Feeds ants and other insects with extrafloral nectaries on leaves and bracts"
+  ],
+  "edibility": "edible-with-care",
+  "edibleParts": [
+   "refined cottonseed oil",
+   "processed seed meal (animal feed)"
+  ],
+  "edibilityNote": "Refined cottonseed oil is widely eaten. Raw seeds contain gossypol, which is toxic, can damage the liver and reduce fertility, and is especially harmful to pigs, poultry and young animals. A low-gossypol cotton variety (TAM 66274) was cleared by US regulators in 2018–2019 for food use.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Traditional medicine in the American South",
+     "use": "Root bark used to bring on menstruation or abortion, including by enslaved women"
+    },
+    {
+     "tradition": "Chinese clinical research (1970s)",
+     "use": "Gossypol tested in thousands of men as a male contraceptive; abandoned due to permanent infertility and low potassium"
+    }
+   ],
+   "compounds": [
+    "gossypol",
+    "flavonoids"
+   ],
+   "evidence": "traditional",
+   "cautions": "Gossypol is toxic; root bark preparations may cause miscarriage."
+  },
+  "fruit": {
+   "type": "Capsule (boll)",
+   "season": "Late summer–autumn",
+   "description": "Green bolls that split into three to five sections to release fluffy white lint around seeds."
+  },
+  "seed": {
+   "description": "Dark seeds covered in long lint and short fuzz",
+   "size": "~8–12 mm",
+   "dispersal": "Wind and water for wild forms; humans for crops",
+   "germination": "Sow 2–3 cm deep in soil above 18 °C; 1–2 weeks"
+  },
+  "grow": {
+   "zones": "Annual in USDA 7–11; perennial in frost-free areas",
+   "climates": [
+    "Subtropical",
+    "Tropical",
+    "Arid (irrigated)"
+   ],
+   "sun": "Full sun",
+   "water": "Moderate; water-hungry during flowering",
+   "soil": "Deep, fertile, well-drained",
+   "propagation": "Seed",
+   "timeToHarvest": "Bolls open 150–180 days after sowing",
+   "steps": [
+    "Sow after soil warms in late spring",
+    "Thin to 15–30 cm apart in full sun",
+    "Water through flowering and boll set",
+    "Pick lint from open bolls in dry weather"
+   ]
+  },
+  "lore": "Cotton textiles in Mexico's Tehuacán Valley date back thousands of years, and the Aztecs collected cotton cloth as tribute. Eli Whitney's 1793 cotton gin made upland cotton hugely profitable, fuelling the expansion of slavery in the American South.",
+  "historicalNames": [
+   "Gossypium",
+   "Xylon",
+   "Bombax (medieval usage)"
+  ],
+  "funFact": "A cotton seed sprouted on the far side of the Moon aboard China's Chang'e 4 lander in 2019, the first plant to grow there, though it died soon after."
+ },
+ {
+  "slug": "indigofera-tinctoria",
+  "scientific": "Indigofera tinctoria",
+  "common": "True indigo",
+  "otherNames": [
+   "Neel (Hindi/Urdu)",
+   "Nili (Sanskrit)",
+   "Nila (Tamil)",
+   "Nīl (Arabic/Persian)",
+   "Mùlán 木蓝 (Chinese)",
+   "Tarum (Malay/Indonesian)",
+   "Indigotier (French)",
+   "Anil (Portuguese, from Arabic an-nīl)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Shrub",
+  "family": "Fabaceae",
+  "shelves": [
+   "dye-fibre",
+   "medicinal"
+  ],
+  "summary": "The source of indigo, the dye of blue jeans and once one of the world's most valuable trade goods. The leaves are green; the blue appears only when they are fermented in water and the liquid is beaten with air, turning the colourless indican into insoluble blue indigotin.",
+  "nativeRange": "Uncertain due to ancient cultivation; probably tropical Asia or Africa; grown across the tropics",
+  "regions": [
+   "South Asia",
+   "Southeast Asia",
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Tropical dry grassland",
+   "Farmland"
+  ],
+  "abilities": [
+   "Stores indican, a colourless glycoside, which turns into blue indigo when fermented and exposed to air",
+   "Fixes nitrogen in root nodules, so it was used as a soil-improving crop",
+   "Regrows after cutting, allowing several leaf harvests a year"
+  ],
+  "edibility": "not-edible",
+  "edibleParts": [],
+  "edibilityNote": "Not eaten. Some Indigofera species (e.g. Indigofera spicata) are poisonous to livestock; I. tinctoria should not be eaten.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Ayurveda",
+     "use": "Leaves (nili) in hair oils for hair growth and greying, and for liver and skin complaints"
+    },
+    {
+     "tradition": "Traditional Chinese medicine",
+     "use": "Indigo pigment (qing dai, mostly from other plants) for skin and inflammatory conditions"
+    }
+   ],
+   "compounds": [
+    "indican",
+    "indigotin",
+    "indirubin"
+   ],
+   "evidence": "traditional",
+   "cautions": "Internal use is not well studied; avoid in pregnancy."
+  },
+  "fruit": {
+   "type": "Legume (pod)",
+   "season": "After flowering",
+   "description": "Thin, straight brown pods with small seeds."
+  },
+  "seed": {
+   "description": "Small, squarish seeds",
+   "size": "~2 mm",
+   "dispersal": "Pods shatter",
+   "germination": "Soak or scratch seed; sow in warmth, 1–2 weeks"
+  },
+  "grow": {
+   "zones": "Tropical (USDA 10–12); annual elsewhere",
+   "climates": [
+    "Tropical",
+    "Subtropical"
+   ],
+   "sun": "Full sun",
+   "water": "Moderate",
+   "soil": "Well-drained; tolerates poor soil",
+   "propagation": "Seed",
+   "timeToHarvest": "First leaf harvest at 3–4 months",
+   "steps": [
+    "Scarify and soak seed, then sow in warm soil",
+    "Grow in full sun with moderate water",
+    "Cut leafy stems just before flowering",
+    "Steep leaves in water for 12–24 hours, add lime, then beat in air until it turns blue"
+   ]
+  },
+  "lore": "The Greeks called the dye 'indikon', 'from India'. The Bengal Indigo Revolt of 1859 and the play Nil Darpan (1860) protested forced indigo growing, and Gandhi's first satyagraha in India, at Champaran in 1917, defended indigo farmers.",
+  "historicalNames": [
+   "Indicum",
+   "Anil",
+   "Indigo"
+  ],
+  "funFact": "Adolf von Baeyer worked out indigo's structure and synthesis by 1883, and BASF's synthetic indigo from 1897 destroyed the plant indigo trade within a few decades."
+ },
+ {
+  "slug": "linum-usitatissimum",
+  "scientific": "Linum usitatissimum",
+  "common": "Flax (Linseed)",
+  "otherNames": [
+   "Alsi (Hindi/Urdu)",
+   "Atasi / Uma (Sanskrit)",
+   "Kattan (Arabic)",
+   "Yàmá 亚麻 (Chinese)",
+   "Lino (Spanish/Italian)",
+   "Lin (French)",
+   "Talba (Amharic)"
+  ],
+  "kingdom": "Plantae",
+  "form": "Herb",
+  "family": "Linaceae",
+  "shelves": [
+   "dye-fibre",
+   "edible",
+   "medicinal"
+  ],
+  "summary": "One of humanity's first crops, giving both linen and linseed oil. Its bast fibres are among the strongest plant fibres, and dyed wild flax fibres from a cave in Georgia are about 30,000 years old. The seeds are rich in omega-3 fatty acids and fibre.",
+  "nativeRange": "Domesticated in the Fertile Crescent from wild Linum bienne; cultivated worldwide",
+  "regions": [
+   "West Asia",
+   "Europe",
+   "South Asia",
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Farmland",
+   "Temperate grassland"
+  ],
+  "abilities": [
+   "Produces long, strong bast fibres used for linen, rope and fine paper",
+   "Its seeds are rich in α-linolenic acid (an omega-3) and lignans",
+   "Its oil dries to a tough film, the basis of oil paints, putty and linoleum",
+   "Its seed coat makes mucilage when wet, which swells to many times its volume"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "seeds (whole, ground)",
+   "seed oil"
+  ],
+  "edibilityNote": "Seeds are widely eaten. They contain cyanogenic glycosides (linamarin); normal amounts are safe, but very large quantities of raw or unripe seed should be avoided. Drink plenty of water with ground seed, since it swells. Linseed oil sold for wood finishing is not food-grade.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "European herbal medicine (Commission E)",
+     "use": "Whole or cracked seed as a bulk laxative; poultices for skin inflammation"
+    },
+    {
+     "tradition": "Ayurveda",
+     "use": "Seeds (atasi) for cough, constipation and skin conditions"
+    },
+    {
+     "tradition": "Modern nutrition research",
+     "use": "Ground flaxseed studied for lowering blood pressure and cholesterol"
+    }
+   ],
+   "compounds": [
+    "α-linolenic acid",
+    "secoisolariciresinol diglucoside (lignan)",
+    "mucilage",
+    "linamarin"
+   ],
+   "evidence": "moderate",
+   "cautions": "Can block the gut if taken without enough water; may slow absorption of other medicines; caution with bowel obstruction."
+  },
+  "fruit": {
+   "type": "Capsule (boll)",
+   "season": "Late summer",
+   "description": "Round capsules with ten shiny seeds."
+  },
+  "seed": {
+   "description": "Flat, glossy brown or golden seeds",
+   "size": "~4–6 mm",
+   "dispersal": "Capsules mostly stay closed on modern cultivars; harvested by people",
+   "germination": "Sow 1–2 cm deep in cool spring soil; 5–10 days"
+  },
+  "grow": {
+   "zones": "Annual; USDA 4–10",
+   "climates": [
+    "Temperate",
+    "Continental",
+    "Mediterranean"
+   ],
+   "sun": "Full sun",
+   "water": "Low–moderate",
+   "soil": "Light, well-drained, not over-rich",
+   "propagation": "Seed",
+   "timeToHarvest": "Fibre at ~90 days; seed at ~100–120 days",
+   "steps": [
+    "Broadcast seed thickly in early spring",
+    "Keep weeded in the first weeks",
+    "For fibre, pull whole plants when lower stems yellow, and rett them in dew or water",
+    "For seed, harvest when capsules are brown and rattle"
+   ]
+  },
+  "lore": "Ancient Egyptians wrapped mummies in linen and called it 'woven moonlight'. Dzudzuana Cave in Georgia yielded dyed wild flax fibres around 30,000 years old, among the oldest known fibres used by people.",
+  "historicalNames": [
+   "Linum",
+   "Lin",
+   "Flex",
+   "Linseed"
+  ],
+  "funFact": "The species name usitatissimum means 'most useful' in Latin."
+ }
+]

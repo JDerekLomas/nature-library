@@ -1,0 +1,359 @@
+# Fact-check log — birds-2 (birds-asia.json, birds-palearctic.json)
+
+Checked 2026-10-18. 112 entries (57 Asia, 55 Palearctic). Format: species — field — wrong → now — source.
+
+Note: the session web-search quota ran out partway through; later Palearctic checks used direct fetches of Wikipedia, BTO, EURING, Wikidata and regional Wikipedias instead of searches. Claims that could not be independently confirmed but have no contrary evidence were left in place (listed under "Unchanged, not independently re-verified").
+
+## birds-asia.json
+
+### Changes
+
+- **Common myna** (`acridotheres-tristis`) — `animal.whereToSee` — Colombo listed under 'Pakistan and India' → added Sri Lanka  
+  - was: Every town and village in Pakistan and India, e.g. Lahore, Karachi, Delhi and Colombo parks  
+  - now: Every town and village in Pakistan, India and Sri Lanka, e.g. Lahore, Karachi, Delhi and Colombo parks  
+  - source: https://en.wikipedia.org/wiki/Common_myna
+- **House crow** (`corvus-splendens`) — `animal.lookalikes` — Hooded crow as winter visitor to NW Pakistan rests only on contested old (1972) records → removed  
+  - was: Large-billed (Jungle) crow is all glossy black with a much heavier arched bill and deeper call; Hooded crow (rare winter visitor to NW Pakistan) has a pale grey back and belly.  
+  - now: Large-billed (Jungle) crow is all glossy black with a much heavier arched bill and deeper call.  
+  - source: https://archive.org/download/biostor-148100/biostor-148100.pdf
+- **Purple sunbird** (`cinnyris-asiaticus`) — `lore` — unverifiable claim about children naming it → removed  
+  - was: Its Urdu and Hindi name shakar khora means 'sugar eater', and it is one of the few garden birds South Asian children can name for its jewel-like colour.  
+  - now: Its Urdu and Hindi name shakar khora means 'sugar eater'.  
+  - source: https://birdwatcher.delhigreens.com/purple-sunbird/
+- **Himalayan monal** (`lophophorus-impejanus`) — `animal.lookalikes` — Chinese monal 'lacks the long crest' wrong (it has a large drooping purple crest) → corrected  
+  - was: Sclater's monal (eastern Himalaya) has a curly crest and white-tipped tail; Chinese monal lacks the long crest; Koklass pheasant is streaked grey with a long dark ear-tuft.  
+  - now: Sclater's monal (eastern Himalaya) has a curly crest and white-tipped tail; Chinese monal (central China, outside its range) has a drooping purple crest rather than spatulate plumes; Koklass pheasant is streaked grey with a long dark ear-tuft.  
+  - source: https://en.wikipedia.org/wiki/Chinese_monal
+- **Western tragopan** (`tragopan-melanocephalus`) — `animal.size` — 68–73 cm unsupported; most sources give 55–60 cm, some 68–72 → widened range  
+  - was: Males about 68–73 cm long  
+  - now: Males about 55–72 cm long (published figures vary)  
+  - source: https://en.wikipedia.org/wiki/Western_tragopan
+- **Indian grey hornbill** (`ocyceros-birostris`) — `otherNames` — Chinese name 印度灰犀鸟 unconfirmed (no zh-wiki page; lists give 灰犀鸟/彎嘴灰犀鳥); species absent from China → removed  
+  - was: ["Dhanesh (Hindi/Urdu)", "Yìndù huī xīniǎo 印度灰犀鸟 (Chinese)"]  
+  - now: ["Dhanesh (Hindi/Urdu)"]  
+  - source: https://oiseaux.net/birds/indian.grey.hornbill.html
+- **Indian grey hornbill** (`ocyceros-birostris`) — `animal.whereToSee` — Islamabad parks unconfirmed (Pakistan range is the Lahore area/NE Punjab) → removed  
+  - was: Islamabad's sector parks and Lahore's Bagh-e-Jinnah; Delhi's ridge forests; Ranthambore and Keoladeo  
+  - now: Old park and avenue trees in Lahore (e.g. Bagh-e-Jinnah); Delhi's ridge forests; Ranthambore and Keoladeo  
+  - source: https://birdforum.net/opus/Indian_Gray_Hornbill
+- **Painted stork** (`mycteria-leucocephala`) — `otherNames` — Standard mainland Chinese name is 白头鹮鹳 (zh-wiki title); 彩鹳 kept as alternative  
+  - was: ["Janghil (Hindi)", "Cǎi guàn 彩鹳 (Chinese)"]  
+  - now: ["Janghil (Hindi)", "Báitóu huánguàn 白头鹮鹳 (Chinese)", "Cǎi guàn 彩鹳 (Chinese, alternative)"]  
+  - source: https://zh.wikipedia.org/wiki/白头鹮鹳
+- **Painted stork** (`mycteria-leucocephala`) — `animal.whereToSee` — Haleji Lake not documented as painted stork site (rare in Pakistan) → removed  
+  - was: Keoladeo National Park (Bharatpur), Kokkare Bellur village in Karnataka, Ranganathittu, and Haleji Lake in Sindh  
+  - now: Keoladeo National Park (Bharatpur), Kokkare Bellur village in Karnataka and Ranganathittu  
+  - source: https://en.wikipedia.org/wiki/Painted_stork
+- **Great Indian bustard** (`ardeotis-nigriceps`) — `summary` — 'around 150' was the 2018 estimate; 2025 assessment ~173 incl. ~45 captive  
+  - was: A tall, ostrich-like bustard, among the heaviest flying birds in the world, now reduced to only around 150 individuals, almost all in the Thar Desert of Rajasthan. Collision with overhead power lines is one of its biggest killers.  
+  - now: A tall, ostrich-like bustard, among the heaviest flying birds in the world, now reduced to fewer than 200 birds (including those in captivity), almost all in the Thar Desert of Rajasthan. Collision with overhead power lines is one of its biggest killers.  
+  - source: https://www.rarebirdalert.co.uk/v2/Content/Great_Indian_Bustard_Numbers_Edge_Up_as_Breeding_Programme_Shows_Early_Promise.aspx
+- **Jungle babbler** (`argya-striata`) — `animal.whereToSee` — Kathmandu valley unverified (species mainly lowland) → Koshi Tappu  
+  - was: Parks and wooded gardens across India, e.g. Delhi's Lodhi Garden and Keoladeo; also Kathmandu valley edges  
+  - now: Parks and wooded gardens across India, e.g. Delhi's Lodhi Garden and Keoladeo; also Koshi Tappu in lowland Nepal  
+  - source: https://en.wikipedia.org/wiki/Jungle_babbler
+- **Jungle babbler** (`argya-striata`) — `nativeRange` — added Pakistan (ssp. sindiana in Indus plains)  
+  - was: India, Nepal, Bhutan and Bangladesh  
+  - now: Pakistan (Indus plains), India, Nepal, Bhutan and Bangladesh  
+  - source: https://en.wikipedia.org/wiki/Jungle_babbler
+- **Jungle babbler** (`argya-striata`) — `otherNames` — Sat Bhai is Hindi-Urdu as well as Bengali  
+  - was: ["Saat bhai (Hindi/Bengali; 'seven brothers')", "Turdoides striata (former name)"]  
+  - now: ["Sat bhai (Hindi/Urdu/Bengali; 'seven brothers')", "Turdoides striata (former name)"]  
+  - source: https://en.wikipedia.org/wiki/Jungle_babbler
+- **Mandarin duck** (`aix-galericulata`) — `animal.whereToSee` — Kyoto Kamo river and Changdeokgung unverified → Changgyeonggung Chundangji (eBird/park records)  
+  - was: Ponds of Tokyo's Shinjuku Gyoen and Kyoto's Kamo river, Seoul's Changdeokgung Palace, Beijing's Summer Palace; feral in Virginia Water, England  
+  - now: Ponds of Tokyo's Shinjuku Gyoen in winter, Seoul's Changgyeonggung Palace (Chundangji pond), Beijing's Summer Palace; feral in Virginia Water, England  
+  - source: https://www.bepal.net/archives/608241
+- **Warbling white-eye** (`zosterops-japonicus`) — `otherNames` — 暗绿绣眼鸟 now refers to Swinhoe's white-eye Z. simplex → 日菲绣眼鸟 for Z. japonicus  
+  - was: ["Mejiro メジロ (Japanese)", "Ànlǜ xiùyǎn niǎo 暗绿绣眼鸟 (Chinese)", "Dongbaksae 동박새 (Korean)", "Japanese white-eye"]  
+  - now: ["Mejiro メジロ (Japanese)", "Rì fēi xiù yǎn niǎo 日菲绣眼鸟 (Chinese)", "Dongbaksae 동박새 (Korean)", "Japanese white-eye"]  
+  - source: https://zh.wikipedia.org/wiki/暗绿绣眼鸟
+- **Philippine eagle** (`pithecophaga-jefferyi`) — `otherNames` — Banog is regional (Bikol, Bagobo/Manobo etc.), not standard Filipino  
+  - was: ["Haribon (Filipino)", "Banog (Filipino)", "Monkey-eating eagle"]  
+  - now: ["Haribon (Filipino)", "Banog (Bikol and several Mindanao languages)", "Monkey-eating eagle"]  
+  - source: https://www.edgeofexistence.org/wp-content/uploads/2017/06/Survival_Blueprint_Pithecophaga_jefferyi.pdf
+- **Great argus** (`argusianus-argus`) — `animal.season` — 'calls more in the dry season' unsupported → removed  
+  - was: Resident year-round; calls more in the dry season  
+  - now: Resident year-round  
+  - source: https://en.wikipedia.org/wiki/Great_argus
+- **Great argus** (`argusianus-argus`) — `otherNames` — Malay name given as Kuang raya  
+  - was: ["Kuang (Malay)", "Kuau (Malay/Indonesian)", "Dà yǎn bān zhì 大眼斑雉 (Chinese)"]  
+  - now: ["Kuang raya (Malay)", "Kuau (Malay/Indonesian)", "Dà yǎn bān zhì 大眼斑雉 (Chinese)"]  
+  - source: https://en.wikipedia.org/wiki/Great_argus
+- **Rhinoceros hornbill** (`buceros-rhinoceros`) — `animal.whereToSee` — Bako not supported as a site for this species → removed  
+  - was: Taman Negara (Malaysia), Kinabatangan River and Danum Valley (Sabah), Bako and Lambir Hills (Sarawak), Khao Sok (Thailand)  
+  - now: Taman Negara (Malaysia), Kinabatangan River and Danum Valley (Sabah), Lambir Hills (Sarawak), Khao Sok (Thailand)  
+  - source: https://www.bird-lens.com/2023/11/13/rhinoceros-hornbill-on-the-kinabatangan-river/
+- **Rhinoceros hornbill** (`buceros-rhinoceros`) — `nativeRange` — 'extinct in Singapore' → softened; BSS accepted wild records 2025–26  
+  - was: Southern Thailand, Peninsular Malaysia, Sumatra, Java and Borneo; extinct in Singapore  
+  - now: Southern Thailand, Peninsular Malaysia, Sumatra, Java and Borneo; long extinct as a breeder in Singapore, with occasional wild wanderers recorded since 2025  
+  - source: https://records.singaporebirds.com/record/11362/
+- **Green peafowl** (`pavo-muticus`) — `otherNames` — 'Dragonbird' only on old Wikipedia mirrors, not in current use → removed  
+  - was: ["Lǜ kǒngquè 绿孔雀 (Chinese)", "Merak hijau (Indonesian/Malay)", "Daung (Burmese)", "Dragonbird"]  
+  - now: ["Lǜ kǒngquè 绿孔雀 (Chinese)", "Merak hijau (Indonesian/Malay)", "Daung (Burmese)"]  
+  - source: https://en.wikipedia.org/wiki/Green_peafowl
+- **Green peafowl** (`pavo-muticus`) — `funFact` — dated the estimate (2016 KIZ survey; later counts ~485–547)  
+  - was: Fewer than about 500 wild green peafowl are thought to survive in China, mostly in Yunnan.  
+  - now: A 2016 survey estimated fewer than 500 wild green peafowl left in China, all in Yunnan.  
+  - source: https://kiz.cas.cn/xwzx/news5/201804/t20180402_4988819.html
+- **Blue-throated barbet** (`psilopogon-asiaticus`) — `summary` — 'red crown bordered with black and yellow' → 'red crown crossed by a black band' (no yellow in crown pattern)  
+  - was: null  
+  - now: A bright green barbet with a sky-blue face and throat and a red crown crossed by a black band, whose loud rolling calls echo through Himalayan foothill forests. It is a fig specialist that carves its nest hole in dead wood.  
+  - source: https://en.wikipedia.org/wiki/Blue-throated_barbet
+- **Blue-throated barbet** (`psilopogon-asiaticus`) — `animal.size` — 22–23 cm → 19–23 cm  
+  - was: null  
+  - now: About 19–23 cm long  
+  - source: https://en.wikipedia.org/wiki/Blue-throated_barbet
+- **Blue-throated barbet** (`psilopogon-asiaticus`) — `animal.fieldMarks` — 'heavy pale bill' → pale-based bill with dark upper mandible/tip  
+  - was: null  
+  - now: ["Stocky bright green barbet with a heavy bill, pale at the base with a dark upper mandible and tip", "Sky-blue face, cheeks and throat", "Red forehead and crown with a black band across the crown", "Small red patch at the side of the throat"]  
+  - source: https://en.wikipedia.org/wiki/Blue-throated_barbet
+- **Black-naped oriole** (`oriolus-chinensis`) — `animal.whereToSee` — 'Western Ghats and Andamans in winter' → Andamans birds are a resident subspecies (andamanensis); peninsular India only a scarce winter visitor  
+  - was: null  
+  - now: Singapore and Kuala Lumpur parks year-round; Beijing and Seoul parks in summer; Andaman Islands year-round (resident race); scarce winter visitor to peninsular India  
+  - source: https://en.wikipedia.org/wiki/Black-naped_oriole
+- **Spoon-billed sandpiper** (`calidris-pygmaea`) — `summary` — 'breeding only in Chukotka' → Chukotka and northern Kamchatka; 'a few hundred pairs' → ~400–450 mature individuals (Green et al. 2024 estimate 443; ~210–228 pairs in 2014)  
+  - was: null  
+  - now: A sparrow-sized sandpiper with a unique spatula-shaped bill tip, breeding only on coastal tundra in Chukotka and northern Kamchatka and migrating around 8,000 km down the East Asian–Australasian Flyway to winter mainly in Bangladesh and Myanmar. Only around 400–450 adult birds survive.  
+  - source: https://www.bto.org/our-work/science/publications/papers/first-formal-estimate-world-population-critically ; https://en.wikipedia.org/wiki/Spoon-billed_sandpiper
+- **Helmeted hornbill** (`rhinoplax-vigil`) — `funFact` — tale clarified (axe on the house posts, man transformed into the bird) — previous wording garbled  
+  - was: null  
+  - now: Its Malay name 'tebang mentua' comes from a folk tale of a man who chopped down the posts of his mother-in-law's house while she was inside and was turned into the bird: the call's accelerating 'took' notes are his axe blows, and the final cackle is his laughter as the house falls.  
+  - source: https://en.wikipedia.org/wiki/Helmeted_hornbill
+
+### Unchanged entries (verified, no errors found)
+
+- Indian roller (`coracias-benghalensis`)
+- Asian koel (`eudynamys-scolopaceus`)
+- Red-vented bulbul (`pycnonotus-cafer`)
+- Rose-ringed parakeet (`psittacula-krameri`)
+- Black kite (`milvus-migrans`)
+- Shikra (`tachyspiza-badia`)
+- Cheer pheasant (`catreus-wallichii`)
+- Chukar partridge (`alectoris-chukar`)
+- Grey francolin (`ortygornis-pondicerianus`)
+- Black drongo (`dicrurus-macrocercus`)
+- Indian paradise flycatcher (`terpsiphone-paradisi`)
+- Oriental magpie-robin (`copsychus-saularis`)
+- Indian pitta (`pitta-brachyura`)
+- Coppersmith barbet (`psilopogon-haemacephalus`)
+- Sarus crane (`antigone-antigone`)
+- Siberian crane (`leucogeranus-leucogeranus`)
+- Indian vulture (`gyps-indicus`)
+- Black-necked stork (`ephippiorhynchus-asiaticus`)
+- Indian spot-billed duck (`anas-poecilorhyncha`)
+- Pheasant-tailed jacana (`hydrophasianus-chirurgus`)
+- Baya weaver (`ploceus-philippinus`)
+- Common tailorbird (`orthotomus-sutorius`)
+- Red-wattled lapwing (`vanellus-indicus`)
+- Greater coucal (`centropus-sinensis`)
+- Spotted owlet (`athene-brama`)
+- Oriental stork (`ciconia-boyciana`)
+- Crested ibis (`nipponia-nippon`)
+- Bali myna (`leucopsar-rothschildi`)
+- Japanese bush warbler (`horornis-diphone`)
+- White-throated kingfisher (`halcyon-smyrnensis`)
+- Golden pheasant (`chrysolophus-pictus`)
+- Indian skimmer (`rynchops-albicollis`)
+- Sri Lanka blue magpie (`urocissa-ornata`)
+- Bengal florican (`houbaropsis-bengalensis`)
+- Ibisbill (`ibidorhyncha-struthersii`)
+- Red-billed blue magpie (`urocissa-erythroryncha`)
+- Long-tailed shrike (`lanius-schach`)
+- Sri Lanka junglefowl (`gallus-lafayettii`)
+
+## birds-palearctic.json
+
+### Changes
+
+- **Eurasian blackbird** (`turdus-merula`) — `lore` — 'jotted in the margin' unsupported: poem survives in 14th-c. Book of Ballymote / Book of Uí Maine metrical tracts; date 'probably 9th c.' → softened  
+  - was: The ninth-century Irish poem 'The Blackbird of Belfast Lough', jotted in the margin of a manuscript, is among the oldest surviving Irish nature verse; the 'four and twenty blackbirds baked in a pie' of the nursery rhyme echo real Renaissance banquet tricks.  
+  - now: The Irish quatrain 'The Blackbird of Belfast Lough', probably composed in the ninth century and preserved in later metrical tracts, is among the best-loved early Irish nature verse; the 'four and twenty blackbirds baked in a pie' of the nursery rhyme echo real Renaissance banquet tricks.  
+  - source: https://codecs.vanhamel.nl/Int_%C3%A9n_bec
+- **Song thrush** (`turdus-philomelos`) — `otherNames` — 'Old English dialect' is a muddled label → 'English dialect'  
+  - was: ["Öter ardıç kuşu (Turkish)", "Singdrossel (German)", "Grive musicienne (French)", "Zorzal común (Spanish)", "Throstle (Old English dialect)"]  
+  - now: ["Öter ardıç kuşu (Turkish)", "Singdrossel (German)", "Grive musicienne (French)", "Zorzal común (Spanish)", "Throstle (English dialect)"]  
+  - source: https://en.wiktionary.org/wiki/throstle
+- **Common chaffinch** (`fringilla-coelebs`) — `animal.whereToSee` — 'Courish Spit' → standard name 'Curonian Spit'  
+  - was: Any European woodland, park or farmland; Falsterbo (Sweden) and the Courish Spit see vast autumn passage.  
+  - now: Any European woodland, park or farmland; Falsterbo (Sweden) and the Curonian Spit see vast autumn passage.  
+  - source: https://en.wikipedia.org/wiki/Curonian_Spit
+- **Common cuckoo** (`cuculus-canorus`) — `animal.lifespan` — 'some reach over 10' not supported: EURING record 9y5m, BTO UK record 6y11m  
+  - was: Typically 4–6 years; some reach over 10  
+  - now: Typically a few years; the European ringing record is about 9.5 years  
+  - source: https://euring.org/node/1946
+- **European bee-eater** (`merops-apiaster`) — `animal.lifespan` — 'Up to about 5–6 years' below EURING record of 7y0m  
+  - was: Up to about 5–6 years  
+  - now: Typically a few years; the European ringing record is 7 years  
+  - source: https://euring.org/node/1946
+- **European bee-eater** (`merops-apiaster`) — `otherNames` — Persian زنبورخوار is zanbur-khar (khvar), not 'khor'  
+  - was: ["Warwar (Arabic)", "Zanbur-khor (Persian)", "Arı kuşu (Turkish)", "Bienenfresser (German)", "Guêpier d'Europe (French)", "Abejaruco (Spanish)"]  
+  - now: ["Warwar (Arabic)", "Zanbur-khar (Persian)", "Arı kuşu (Turkish)", "Bienenfresser (German)", "Guêpier d'Europe (French)", "Abejaruco (Spanish)"]  
+  - source: https://fa.wikipedia.org/wiki/زنبورخوار_اروپایی
+- **Common kingfisher** (`alcedo-atthis`) — `funFact` — Not a sonic boom; problem was the tunnel boom pressure wave  
+  - was: Engineer Eiji Nakatsu, a birdwatcher, modelled the 500 Series Shinkansen's nose on the kingfisher's bill to reduce the sonic boom when trains left tunnels.  
+  - now: Engineer Eiji Nakatsu, a birdwatcher, modelled the 500 Series Shinkansen's nose on the kingfisher's bill to reduce the loud 'tunnel boom' (pressure-wave bang) when trains left tunnels.  
+  - source: https://en.wikipedia.org/wiki/500_Series_Shinkansen
+- **White stork** (`ciconia-ciconia`) — `lore` — Specific 'Morocco/Turkey mosque-protected hajji birds' claim unsourced → softened to documented reverence as pilgrims + Turkish 'hacı leylek'  
+  - was: In 1822 a stork shot in Klütz, Germany, carried a central African spear in its neck; this 'Pfeilstorch' helped prove that birds migrate rather than hibernate. In Morocco and Turkey storks nesting on mosques were traditionally protected as pious 'hajji' birds.  
+  - now: In 1822 a stork shot in Klütz, Germany, carried a central African spear in its neck; this 'Pfeilstorch' helped prove that birds migrate rather than hibernate. Across the Islamic world storks were revered as pilgrims that travelled towards Mecca each year, and in Turkey the bird is still affection…  
+  - source: https://en.wikipedia.org/wiki/White_stork
+- **Grey heron** (`ardea-cinerea`) — `otherNames` — Dutch species name is 'Blauwe reiger' ('reiger' = heron generally)  
+  - was: ["Balshoun (Arabic)", "Gri balıkçıl (Turkish)", "Graureiher (German)", "Héron cendré (French)", "Garza real (Spanish)", "Reiger (Dutch)"]  
+  - now: ["Balshoun (Arabic)", "Gri balıkçıl (Turkish)", "Graureiher (German)", "Héron cendré (French)", "Garza real (Spanish)", "Blauwe reiger (Dutch)"]  
+  - source: https://nl.wikipedia.org/wiki/Blauwe_reiger
+- **Eurasian eagle-owl** (`bubo-bubo`) — `otherNames` — 'Bumah' is the generic Arabic word for owl, not eagle-owl; removed  
+  - was: ["Shah-buf (Persian)", "Puhu (Turkish)", "Bumah (Arabic)", "Uhu (German)", "Grand-duc d'Europe (French)", "Búho real (Spanish)", "Filin (Russian)"]  
+  - now: ["Shah-buf (Persian)", "Puhu (Turkish)", "Uhu (German)", "Grand-duc d'Europe (French)", "Búho real (Spanish)", "Filin (Russian)"]  
+  - source: https://en.wikipedia.org/wiki/Eurasian_eagle-owl
+- **Eurasian eagle-owl** (`bubo-bubo`) — `animal.size` — weight/wingspan ranges updated to published ranges  
+  - was: 56–75 cm; wingspan 138–188 cm; males 1.5–2.8 kg, females 1.75–4.2 kg  
+  - now: 56–75 cm; wingspan 131–188 cm; males 1.2–3.2 kg, females 1.75–4.6 kg  
+  - source: https://en.wikipedia.org/wiki/Eurasian_eagle-owl
+- **Tawny owl** (`strix-aluco`) — `animal.size` — length/wingspan ranges too narrow  
+  - was: 37–43 cm; wingspan 81–96 cm; 330–800 g  
+  - now: 37–46 cm; wingspan 81–105 cm; 385–800 g  
+  - source: https://en.wikipedia.org/wiki/Tawny_owl
+- **Tawny owl** (`strix-aluco`) — `lore` — removed unverified location 'in Wales'  
+  - was: Bird photographer Eric Hosking lost his left eye to a tawny owl defending its nest in Wales in 1937 and titled his autobiography 'An Eye for a Bird'.  
+  - now: Bird photographer Eric Hosking lost his left eye to a tawny owl defending its nest in 1937 and titled his autobiography 'An Eye for a Bird'.  
+  - source: https://en.wikipedia.org/wiki/Eric_Hosking
+- **Common swift** (`apus-apus`) — `animal.lifespan` — longevity record ~18 yr (BTO 17y11m; Oxford bird ≥18), not ~20  
+  - was: Often 5–10 years; ringed birds have reached about 20  
+  - now: Often 5–10 years; ringed birds have reached about 18  
+  - source: https://www.bto.org/understanding-birds/birdfacts/swift
+- **Red kite** (`milvus-milvus`) — `otherNames` — 'glede' is Middle/dialect English (OE form was 'glida')  
+  - was: ["Kızıl çaylak (Turkish)", "Rotmilan (German)", "Milan royal (French)", "Milano real (Spanish)", "Barcud (Welsh)", "Glede (Old English)"]  
+  - now: ["Kızıl çaylak (Turkish)", "Rotmilan (German)", "Milan royal (French)", "Milano real (Spanish)", "Barcud (Welsh)", "Glede (archaic English)"]  
+  - source: https://en.wiktionary.org/wiki/glede
+- **Red kite** (`milvus-milvus`) — `animal.size` — wingspan 145–165 → 175–195 cm  
+  - was: 60–70 cm; wingspan 145–165 cm; 0.8–1.3 kg  
+  - now: 60–70 cm; wingspan 175–195 cm; 0.8–1.3 kg  
+  - source: https://en.wikipedia.org/wiki/Red_kite
+- **Red kite** (`milvus-milvus`) — `nativeRange` — No breeding population in Turkey; Morocco's last breeding pair 2004  
+  - was: Europe, chiefly Germany, France and Spain, plus Britain, Switzerland and Sweden; small populations in North Africa and Turkey  
+  - now: Europe, chiefly Germany, France and Spain, plus Britain, Switzerland and Sweden; now only a rare winter visitor to North Africa, where it formerly bred  
+  - source: https://en.wikipedia.org/wiki/Red_kite
+- **Red kite** (`milvus-milvus`) — `funFact` — 1989 Chilterns release was Swedish/Welsh birds; most later Chilterns birds came from Spain — softened  
+  - was: English reintroduction began in 1989 with birds from Spain released in the Chilterns; the region now holds thousands.  
+  - now: English reintroduction began in 1989 in the Chilterns, using birds mainly from Spain; the region now holds thousands.  
+  - source: https://en.wikipedia.org/wiki/Red_kite
+- **Eurasian sparrowhawk** (`accipiter-nisus`) — `animal.size` — females reach 41 cm length and 80 cm wingspan  
+  - was: 28–38 cm; wingspan 55–70 cm; males ~150 g, females ~260 g  
+  - now: 28–41 cm; wingspan 59–80 cm; males ~150 g, females ~260 g  
+  - source: https://en.wikipedia.org/wiki/Eurasian_sparrowhawk
+- **Common kestrel** (`falco-tinnunculus`) — `animal.lookalikes` — merlin 'never hovers' → 'rarely hovers'  
+  - was: Lesser kestrel (Mediterranean, steppes) males have an unspotted back and grey wing panel, and it is colonial. Merlin is smaller, darker and never hovers. Sparrowhawk has rounded wings.  
+  - now: Lesser kestrel (Mediterranean, steppes) males have an unspotted back and grey wing panel, and it is colonial. Merlin is smaller, darker and rarely hovers. Sparrowhawk has rounded wings.  
+  - source: https://www.rspb.org.uk/birds-and-wildlife/merlin
+- **Bearded vulture (Lammergeier)** (`gypaetus-barbatus`) — `abilities` — 'up to about 25 cm' unsourced; Wikipedia: up to the size of a lamb's femur  
+  - was: ["Bone makes up most of its diet; stomach acid with a pH near 1 dissolves bone", "Drops bones from height onto rock 'ossuaries' to split them", "Swallows bones up to about 25 cm long whole", "Stains its plumage orange with iron oxide-rich mud, a cosmetic behaviour"]  
+  - now: ["Bone makes up most of its diet; stomach acid with a pH near 1 dissolves bone", "Drops bones from height onto rock 'ossuaries' to split them", "Swallows bones as large as a lamb's femur whole", "Stains its plumage orange with iron oxide-rich mud, a cosmetic behaviour"]  
+  - source: https://en.wikipedia.org/wiki/Bearded_vulture
+- **Great bustard** (`otis-tarda`) — `animal.lifespan` — max known age is 28, not 10–15  
+  - was: Up to about 10–15 years in the wild  
+  - now: Typically about 10 years; some exceed 15, with a maximum recorded age of 28  
+  - source: https://en.wikipedia.org/wiki/Great_bustard
+- **Asian houbara (MacQueen's bustard)** (`chlamydotis-macqueenii`) — `animal.fieldMarks` — Asian houbara crest includes black feathers (African's is all white)  
+  - was: ["Sandy buff upperparts finely vermiculated with black", "Black stripe running down each side of the neck into a white ruff", "Short crest of white feathers", "Bold black-and-white wing pattern in flight"]  
+  - now: ["Sandy buff upperparts finely vermiculated with black", "Black stripe running down each side of the neck into a white ruff", "Short crest of white and black feathers", "Bold black-and-white wing pattern in flight"]  
+  - source: https://en.wikipedia.org/wiki/Asian_houbara
+- **Asian houbara (MacQueen's bustard)** (`chlamydotis-macqueenii`) — `animal.lookalikes` — African houbara crest is all white, not grey  
+  - was: African houbara (Chlamydotis undulata) of North Africa is darker with grey crest feathers; ranges barely overlap. Great bustard is much larger, grey-headed and lacks the black neck stripe.  
+  - now: African houbara (Chlamydotis undulata) of North Africa is very similar but has an all-white crest; ranges barely overlap. Great bustard is much larger, grey-headed and lacks the black neck stripe.  
+  - source: https://en.wikipedia.org/wiki/Asian_houbara
+- **Northern lapwing** (`vanellus-vanellus`) — `lore` — first egg goes to the King's Commissioner of Friesland, not the monarch  
+  - was: In Friesland the first lapwing egg of spring was traditionally presented to the Dutch monarch; egg collecting is now restricted to a 'search without taking' tradition.  
+  - now: In Friesland the first lapwing egg of spring is traditionally presented to the province's King's Commissioner; since collecting was banned, the hunt continues as a search without taking.  
+  - source: https://fy.wikipedia.org/wiki/Aaisykjen
+- **Eurasian curlew** (`numenius-arquata`) — `animal.size` — wingspan 80–100 → 89–106 cm; weight 575–1,100 → 410–1,360 g  
+  - was: 50–60 cm; wingspan 80–100 cm; 575–1,100 g  
+  - now: 50–60 cm; wingspan 89–106 cm; 410–1,360 g  
+  - source: https://en.wikipedia.org/wiki/Eurasian_curlew
+- **Common crane** (`grus-grus`) — `funFact` — birds arrived 1979 but first bred 1981  
+  - was: Cranes returned to breed in England's Norfolk Broads in 1979 after an absence of around 400 years.  
+  - now: Cranes returned to England's Norfolk Broads in 1979 and first bred there in 1981, around 400 years after they were lost as a breeding bird.  
+  - source: https://en.wikipedia.org/wiki/Common_crane
+- **Eurasian golden oriole** (`oriolus-oriolus`) — `animal.whereToSee` — UK breeding ended 2009; now only a rare migrant  
+  - was: Poplar plantations and riverine woods in Spain, France, the Danube Delta, Turkey and the Central Asian river valleys; occasionally East Anglia in England.  
+  - now: Poplar plantations and riverine woods in Spain, France, the Danube Delta, Turkey and the Central Asian river valleys; a rare spring migrant to eastern England, where it last bred in 2009.  
+  - source: https://en.wikipedia.org/wiki/Eurasian_golden_oriole
+- **Northern gannet** (`morus-bassanus`) — `lore` — 'largest colony' softened (Bass Rock down ~30% post-HPAI); 'still make annual' hunt wrong: suspended 2022-24, licensed 2025, refused 2026  
+  - was: Its scientific name honours Scotland's Bass Rock, the largest northern gannet colony in the world, and men from Ness on Lewis still make a licensed annual 'guga hunt' for young gannets on the rock of Sula Sgeir, a tradition dating back centuries.  
+  - now: Its scientific name honours Scotland's Bass Rock, one of the largest northern gannet colonies in the world, and men from Ness on Lewis have for centuries made a licensed 'guga hunt' for young gannets on the rock of Sula Sgeir, though it has been suspended or refused in several years since the 202…  
+  - source: https://www.birdguides.com/news/naturescot-advisers-recommend-refusing-2026-gannet-hunt/
+- **Northern gannet** (`morus-bassanus`) — `animal.lookalikes` — brown booby 'does not occur' in Europe → rare vagrant (several European records)  
+  - was: Great black-backed and other large gulls have rounded wings and lack the pointed tail. Cory's shearwater is brown above. Distant juveniles can suggest brown boobies, which do not occur in European waters.  
+  - now: Great black-backed and other large gulls have rounded wings and lack the pointed tail. Cory's shearwater is brown above. Distant juveniles can suggest brown boobies, which are only rare vagrants in European waters.  
+  - source: https://en.wikipedia.org/wiki/Brown_booby
+- **Saker falcon** (`falco-cherrug`) — `otherNames` — Persian 'Charkh' → 'Balaban' (بالابان); Urdu 'Charkh' → 'Charg' (source of epithet cherrug)  
+  - was: ["Saqr hurr (Arabic)", "Charkh (Persian)", "Ulu doğan (Turkish)", "Charkh (Urdu)", "Kerecsensólyom (Hungarian)", "Balaban (Russian)", "Würgfalke (German)"]  
+  - now: ["Saqr hurr (Arabic)", "Balaban (Persian)", "Ulu doğan (Turkish)", "Charg (Urdu)", "Kerecsensólyom (Hungarian)", "Balaban (Russian)", "Würgfalke (German)"]  
+  - source: https://en.wikipedia.org/wiki/Saker_falcon
+- **Demoiselle crane** (`grus-virgo`) — `animal.size` — '85–100 cm tall' → long (stands ~76 cm)  
+  - was: 85–100 cm tall; wingspan 155–180 cm; 2–3 kg  
+  - now: 85–100 cm long; wingspan 155–180 cm; 2–3 kg  
+  - source: https://en.wikipedia.org/wiki/Demoiselle_crane
+- **Demoiselle crane** (`grus-virgo`) — `animal.whereToSee` — removed 'passage over the Bosphorus' (not a regular route)  
+  - was: Kalmykian and Kazakh steppes in summer; Khichan village in Rajasthan and the Indus floodplains of Pakistan in winter; passage over the Bosphorus and Arabia.  
+  - now: Kalmykian and Kazakh steppes in summer; Khichan village in Rajasthan and the Indus floodplains of Pakistan in winter; passage through Pakistan and Arabia.  
+  - source: https://www.researcherslinks.com/current-issues/Hunting-Pressure-Migratory-Demoiselle-Cranes/20/3/4490/html
+- **Spanish imperial eagle** (`aquila-adalberti`) — `lore` — describer Alfred Brehm → Christian Ludwig Brehm (C. L. Brehm, 1861)  
+  - was: null  
+  - now: It was named in 1861 by the German ornithologist Christian Ludwig Brehm in honour of Prince Adalbert of Bavaria, and it became a symbol of Spanish conservation through the protection of Doñana.  
+  - source: https://en.wikipedia.org/wiki/Spanish_imperial_eagle
+- **Spanish imperial eagle** (`aquila-adalberti`) — `animal.size` — 78–82 cm / 180–210 cm / 2.5–3.5 kg → 72–85 cm / 177–220 cm / 2.5–4.8 kg  
+  - was: null  
+  - now: 72–85 cm; wingspan 177–220 cm; 2.5–4.8 kg  
+  - source: https://en.wikipedia.org/wiki/Spanish_imperial_eagle
+- **Long-tailed tit** (`aegithalos-caudatus`) — `lore` — 'Japanese white-headed race' → Hokkaido race (A. c. japonicus); mainland Japanese birds are not white-headed  
+  - was: null  
+  - now: Its bottle-shaped nest gave it old English names such as 'bottle tit' and 'feather poke', and the white-headed Hokkaido race, 'shima-enaga', has become a popular mascot in Japan.  
+  - source: https://en.wikipedia.org/wiki/Long-tailed_tit
+- **Eurasian bittern** (`botaurus-stellaris`) — `otherNames` — 'Waq (Arabic)' → full Arabic name 'al-wāq al-kabīr' (wāq alone is the generic bittern/night-heron term)  
+  - was: null  
+  - now: ["Al-wāq al-kabīr الواق الكبير (Arabic)", "Balaban (Turkish)", "Rohrdommel (German)", "Butor étoilé (French)", "Avetoro común (Spanish)", "Roerdomp (Dutch)"]  
+  - source: https://kuwaitbirds.org/node/454
+- **Eurasian bittern** (`botaurus-stellaris`) — `funFact` — 'more than 200 within two decades' (not reached until ~2020, 23 years) → 'more than 200 by the early 2020s and 283 in 2024'  
+  - was: null  
+  - now: Britain's booming males fell to just 11 in 1997; reedbed restoration raised them to more than 200 by the early 2020s and 283 in 2024.  
+  - source: https://www.rspb.org.uk/whats-happening/news/conservationists-celebrate-booming-brilliant-year-for-uks-loudest-bird ; https://www.countryfile.com/wildlife/birds/bittern-numbers-increase-uk-2024
+
+### Unchanged entries (verified, no errors found)
+
+- European robin (`erithacus-rubecula`)
+- Common nightingale (`luscinia-megarhynchos`)
+- Eurasian skylark (`alauda-arvensis`)
+- Great tit (`parus-major`)
+- Eurasian blue tit (`cyanistes-caeruleus`)
+- European goldfinch (`carduelis-carduelis`)
+- Eurasian wren (`troglodytes-troglodytes`)
+- Western capercaillie (`tetrao-urogallus`)
+- Black grouse (`lyrurus-tetrix`)
+- Wallcreeper (`tichodroma-muraria`)
+- Eurasian jay (`garrulus-glandarius`)
+- Eurasian magpie (`pica-pica`)
+- Eurasian spoonbill (`platalea-leucorodia`)
+- European turtle dove (`streptopelia-turtur`)
+- Egyptian vulture (`neophron-percnopterus`)
+- Northern bald ibis (`geronticus-eremita`)
+- Atlantic puffin (`fratercula-arctica`)
+- European roller (`coracias-garrulus`)
+- Black woodpecker (`dryocopus-martius`)
+- Little owl (`athene-noctua`)
+- Steppe eagle (`aquila-nipalensis`)
+- Sociable lapwing (`vanellus-gregarius`)
+- Grey hypocolius (`hypocolius-ampelinus`)
+- White-throated dipper (`cinclus-cinclus`)
+- Bearded reedling (`panurus-biarmicus`)
+- Ruff (`calidris-pugnax`)
+- Red-billed chough (`pyrrhocorax-pyrrhocorax`)
+- White-tailed eagle (`haliaeetus-albicilla`)
+
+## Unchanged, not independently re-verified (no contrary evidence found)
+
+- Red kite / bearded vulture / golden oriole: Book of St Albans and Pliny references
+- Asian houbara: Pakistan Supreme Court hunting case; bearded vulture Alpine reintroduction year (1986; Wikipedia describes successful releases from 1987)
+- Eagle-owl Hüttenjagd decoy hunting; Ted Hughes swift quote
+- Robin: 2015 David Lindo national-bird poll; Nightingale: Beatrice Harrison 1924 broadcast; Bee-eater: 2022 Trimingham colony; Cuckoo: Jenner 1788; Great tit: Fisher & Hinde 1949 milk bottles
+- Western tragopan size: Wikipedia gives males 55–60 cm, regional field guides ~68–73 cm; entry now gives a hedged range

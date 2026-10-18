@@ -1,0 +1,2287 @@
+[
+ {
+  "slug": "amanita-muscaria",
+  "scientific": "Amanita muscaria",
+  "common": "Fly agaric",
+  "otherNames": [
+   "Fliegenpilz (German)",
+   "Mukhomor (Russian)",
+   "Beni-tengu-take (Japanese)",
+   "Amanite tue-mouches (French)",
+   "Ovolo malefico (Italian)"
+  ],
+  "kingdom": "Fungi",
+  "form": "Mushroom",
+  "family": "Amanitaceae",
+  "shelves": [
+   "toxic",
+   "psychoactive",
+   "sacred"
+  ],
+  "summary": "The red-capped, white-spotted toadstool of fairy tales. It is a mycorrhizal partner of birch, pine and spruce, and it carries the psychoactive, poisonous compounds ibotenic acid and muscimol.",
+  "nativeRange": "Temperate and boreal Northern Hemisphere; introduced with pine plantations to Australia, New Zealand, South Africa and South America",
+  "regions": [
+   "North America",
+   "Europe",
+   "West Asia",
+   "Central Asia",
+   "East Asia",
+   "Arctic"
+  ],
+  "biomes": [
+   "Boreal forest",
+   "Temperate forest",
+   "Birch woodland",
+   "Conifer plantation"
+  ],
+  "abilities": [
+   "Forms ectomycorrhizal partnerships with birch, pine, spruce and fir, trading soil nutrients for tree sugars",
+   "Produces ibotenic acid, which converts to the more potent muscimol when dried",
+   "Its white 'warts' are fragments of the universal veil that wrapped the young button",
+   "Spread around the Southern Hemisphere on the roots of plantation pines"
+  ],
+  "edibility": "toxic",
+  "edibleParts": [],
+  "edibilityNote": "Poisonous. Ibotenic acid and muscimol cause vomiting, confusion, delirium, muscle twitching and deep sleep. Deaths are rare but have been recorded. Some regions eat it after prolonged parboiling, but this is risky and not recommended. Young white buttons can be confused with deadly Amanita species and with puffballs.",
+  "seed": {
+   "description": "Spores (not seeds): spore print white; spores broadly ellipsoid, smooth, inamyloid, about 9–13 × 6.5–9 µm",
+   "dispersal": "Wind-borne basidiospores shed from the free white gills"
+  },
+  "lore": "Siberian peoples such as the Koryak used it ritually. R. Gordon Wasson's 1968 book 'Soma: Divine Mushroom of Immortality' proposed it as the Soma of the Rig Veda. The name 'fly agaric' comes from the old European practice of crumbling it into milk to stupefy flies.",
+  "historicalNames": [
+   "Agaricus muscarius",
+   "Fungus muscarum",
+   "Fliegenschwamm"
+  ],
+  "funFact": "Muscimol passes into urine largely unchanged. Accounts from Siberia describe people drinking the urine of someone who had eaten the mushroom to get the effect a second time."
+ },
+ {
+  "slug": "amanita-phalloides",
+  "scientific": "Amanita phalloides",
+  "common": "Death cap",
+  "otherNames": [
+   "Grüner Knollenblätterpilz (German)",
+   "Amanite phalloïde (French)",
+   "Oronja verde (Spanish)",
+   "Tignosa verdognola (Italian)"
+  ],
+  "kingdom": "Fungi",
+  "form": "Mushroom",
+  "family": "Amanitaceae",
+  "shelves": [
+   "toxic",
+   "deadly"
+  ],
+  "summary": "The world's deadliest mushroom, responsible for most fatal mushroom poisonings. Half a cap can kill an adult. It has an olive-green cap, white gills, a skirt-like ring and a sac-like volva at the base, and is reported to taste pleasant.",
+  "nativeRange": "Europe; introduced to North America (notably California and the Pacific Northwest), Australia, southern Africa and South America",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "North America",
+   "Australia",
+   "South America",
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Temperate forest",
+   "Oak woodland",
+   "Urban parks"
+  ],
+  "abilities": [
+   "Produces amatoxins (chiefly α-amanitin), which block RNA polymerase II and destroy liver cells",
+   "Its toxins survive cooking, drying and freezing",
+   "Symptoms are delayed 6–12 hours and are followed by a deceptive 'honeymoon' remission before liver failure",
+   "Has spread to new continents as a mycorrhizal hitchhiker on imported oak and chestnut roots"
+  ],
+  "edibility": "deadly",
+  "edibleParts": [],
+  "edibilityNote": "Deadly. No part is safe, and cooking does not destroy the amatoxins. Victims have mistaken it for edible paddy-straw mushrooms (Volvariella volvacea), Asian Amanita species, field mushrooms (Agaricus), green Russula and young puffballs. Suspected ingestion is a medical emergency, even if the person feels well.",
+  "seed": {
+   "description": "Spore print white; spores globose to subglobose, smooth, amyloid, about 8–10.5 × 7–9 µm",
+   "dispersal": "Wind-borne basidiospores; also spread as mycorrhizae on transplanted tree roots"
+  },
+  "lore": "Ancient historians wrote that the Roman emperor Claudius died in 54 CE after Agrippina served him poisoned mushrooms. A death cap is often suggested as the culprit, though this is speculation. Voltaire wrote that a dish of mushrooms killed the Holy Roman Emperor Charles VI in 1740 and so changed the course of Europe.",
+  "historicalNames": [
+   "Agaricus phalloides",
+   "Fungus phalloides",
+   "Bulbous agaric"
+  ],
+  "funFact": "The deadly amanitin is so specific in blocking gene transcription that molecular biologists use it as a laboratory tool."
+ },
+ {
+  "slug": "amanita-ocreata",
+  "scientific": "Amanita ocreata",
+  "common": "Western destroying angel",
+  "otherNames": [
+   "Destroying angel (English)",
+   "Ángel destructor (Spanish)",
+   "Death angel (English)"
+  ],
+  "kingdom": "Fungi",
+  "form": "Mushroom",
+  "family": "Amanitaceae",
+  "shelves": [
+   "toxic",
+   "deadly"
+  ],
+  "summary": "A pure-white, deadly Amanita of the North American Pacific coast. It contains the same amatoxins as the death cap. It fruits in late winter and spring under coast live oak, when foragers are out looking for other white mushrooms.",
+  "nativeRange": "Pacific coast of North America, from Washington through California to Baja California",
+  "regions": [
+   "North America"
+  ],
+  "biomes": [
+   "Oak woodland",
+   "Mixed evergreen forest",
+   "Mediterranean scrub"
+  ],
+  "abilities": [
+   "Contains amatoxins and phallotoxins that cause delayed liver and kidney failure",
+   "Forms mycorrhizae mainly with coast live oak (Quercus agrifolia), and also with other oaks and pines",
+   "Fruits in the cool wet season (January–April), unusually early for an Amanita"
+  ],
+  "edibility": "deadly",
+  "edibleParts": [],
+  "edibilityNote": "Deadly. It is all white with a sac-like volva, and its buttons can be mistaken for edible puffballs, meadow mushrooms (Agaricus), young Amanita velosa (springtime amanita) and white Lepiota. Always dig up the whole base and cut buttons vertically. A seriously poisoned person may feel better for a while before organ failure begins.",
+  "seed": {
+   "description": "Spore print white; spores ellipsoid to subglobose, smooth, amyloid, about 9–14 × 7–10 µm",
+   "dispersal": "Wind-borne basidiospores"
+  },
+  "lore": "It was formally described by Charles Horton Peck in 1909 from California specimens. It has caused several serious poisonings in California.",
+  "historicalNames": [
+   "Amanita bivolvata"
+  ],
+  "funFact": "A drop of potassium hydroxide (KOH) stains its flesh yellow, a reaction it shares with other destroying angels."
+ },
+ {
+  "slug": "cantharellus-cibarius",
+  "scientific": "Cantharellus cibarius",
+  "common": "Golden chanterelle",
+  "otherNames": [
+   "Girolle (French)",
+   "Pfifferling (German)",
+   "Lisichka (Russian)",
+   "Kurka (Polish)",
+   "Kantarell (Swedish)",
+   "Ji you jun 鸡油菌 (Chinese)"
+  ],
+  "kingdom": "Fungi",
+  "form": "Mushroom",
+  "family": "Cantharellaceae",
+  "shelves": [
+   "edible"
+  ],
+  "summary": "An egg-yolk-yellow, apricot-scented woodland mushroom and one of the most prized wild edibles in Europe. Instead of true gills it has blunt, forking ridges that run down the stem, a key identification feature.",
+  "nativeRange": "Europe and northern Asia; North American 'cibarius' records mostly belong to related species (e.g. C. californicus, C. formosus, C. flavus)",
+  "regions": [
+   "Europe",
+   "West Asia",
+   "Central Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Temperate forest",
+   "Boreal forest",
+   "Beech and oak woodland",
+   "Pine heath"
+  ],
+  "abilities": [
+   "Ectomycorrhizal with beech, oak, birch, pine and spruce; it has never been reliably cultivated",
+   "Its false gills are blunt, forked ridges, not true blade-like gills",
+   "Highly resistant to insect larvae, so it rarely turns maggoty",
+   "Can keep fruiting from the same spot for decades"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "whole fruiting body (cooked)"
+  ],
+  "edibilityNote": "Excellent cooked. Dangerous lookalikes: the jack-o'-lantern (Omphalotus olearius in Europe, O. illudens in North America), which has true, sharp gills, grows in clusters on wood and causes severe vomiting; the false chanterelle (Hygrophoropsis aurantiaca), which has thin, true forked gills; and orange webcaps (Cortinarius species, including deadly C. orellanus and C. rubellus) with rusty spore prints. Check for blunt ridges, solid pale flesh and a pale spore print.",
+  "seed": {
+   "description": "Spore print pale yellow to pinkish-cream; spores ellipsoid, smooth, about 8–11 × 4.5–6 µm",
+   "dispersal": "Wind-borne basidiospores shed from the ridged underside"
+  },
+  "iucn": "LC",
+  "lore": "Pickled and dried chanterelles have long been a winter staple in Baltic and Slavic households. Lithuania and Poland still export them by the tonne, and a large share of Europe's girolles comes from Eastern European foragers.",
+  "historicalNames": [
+   "Agaricus cantharellus",
+   "Gallinaccio",
+   "Eierschwamm"
+  ],
+  "funFact": "DNA studies since 2011 have shown that North America's 'golden chanterelles' are several separate species; true Cantharellus cibarius is essentially a European mushroom."
+ },
+ {
+  "slug": "boletus-edulis",
+  "scientific": "Boletus edulis",
+  "common": "Porcini (penny bun, king bolete)",
+  "otherNames": [
+   "Porcino (Italian)",
+   "Cèpe de Bordeaux (French)",
+   "Steinpilz (German)",
+   "Belyi grib (Russian)",
+   "Prawdziwek (Polish)"
+  ],
+  "kingdom": "Fungi",
+  "form": "Mushroom",
+  "family": "Boletaceae",
+  "shelves": [
+   "edible"
+  ],
+  "summary": "A stout, bun-capped mushroom with a sponge of pores instead of gills and a fat, net-patterned stem. It is one of the most traded wild mushrooms in the world and gives Italian cooking its deep, nutty dried porcini flavour.",
+  "nativeRange": "Temperate and boreal Northern Hemisphere; introduced with pines and oaks to southern Africa, Australia and New Zealand",
+  "regions": [
+   "Europe",
+   "North America",
+   "West Asia",
+   "Central Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Temperate forest",
+   "Boreal forest",
+   "Conifer plantation"
+  ],
+  "abilities": [
+   "Ectomycorrhizal with pine, spruce, fir, oak, beech, chestnut and birch",
+   "Pores start white and turn yellow-olive as spores mature, without bruising blue",
+   "Can produce fruiting bodies weighing over 3 kg",
+   "Accumulates selenium and, in polluted areas, radiocaesium from the soil"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "whole fruiting body (cooked or dried)"
+  ],
+  "edibilityNote": "Choice edible. Lookalikes: the bitter bolete (Tylopilus felleus), with pinkish pores and a dark net, is not dangerous but ruins a dish; Satan's bolete (Rubroboletus satanas) and other red-pored, blue-staining boletes cause severe gastric poisoning. Rule of thumb: avoid boletes with red or orange pores or flesh that quickly turns blue. Never eat raw in quantity.",
+  "seed": {
+   "description": "Spore print olive-brown; spores spindle-shaped (fusiform), smooth, about 12–17 × 4–5.5 µm",
+   "dispersal": "Wind-borne basidiospores released from the pore tubes"
+  },
+  "iucn": "LC",
+  "lore": "Italians call it porcino ('piglet'). The Latin name 'edulis' (edible) was given by Pierre Bulliard in 1782. Dried porcini have been traded across the Alps for centuries.",
+  "historicalNames": [
+   "Suillus",
+   "Fungus porcinus",
+   "Boletus bulbosus",
+   "Herrenpilz"
+  ],
+  "funFact": "Despite intense effort, nobody has cultivated porcini commercially. Every porcino sold is wild-picked."
+ },
+ {
+  "slug": "morchella-esculenta",
+  "scientific": "Morchella esculenta",
+  "common": "Yellow morel",
+  "otherNames": [
+   "Morille (French)",
+   "Gucchi (Hindi/Kashmiri)",
+   "Yang du jun 羊肚菌 (Chinese)",
+   "Colmenilla (Spanish)",
+   "Speisemorchel (German)"
+  ],
+  "kingdom": "Fungi",
+  "form": "Mushroom",
+  "family": "Morchellaceae",
+  "shelves": [
+   "edible",
+   "toxic"
+  ],
+  "summary": "A honeycomb-capped spring mushroom, hollow from cap tip to stem base. It is so prized that wild gucchi from Kashmir and Himachal are among the most expensive foods in South Asia. It is an ascomycete, more closely related to truffles than to gilled mushrooms.",
+  "nativeRange": "Temperate Northern Hemisphere: Europe, Asia (incl. Himalaya) and North America (the latter partly as cryptic sister species)",
+  "regions": [
+   "Europe",
+   "North America",
+   "West Asia",
+   "Central Asia",
+   "South Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Temperate forest",
+   "Old orchards",
+   "Riparian woodland",
+   "Burned forest"
+  ],
+  "abilities": [
+   "Fruits in a short spring window, often after soil temperatures reach about 10–12 °C",
+   "Produces sclerotia, hardened stores of hyphae that help it survive and fruit",
+   "Some morels fruit in huge numbers on the ground the year after forest fires",
+   "Shoots ascospores from pits on the cap in visible puffs"
+  ],
+  "edibility": "edible-with-care",
+  "edibleParts": [
+   "whole fruiting body (thoroughly cooked)"
+  ],
+  "edibilityNote": "Choice edible, but always cook thoroughly. Raw or undercooked morels cause gastric upset, and some people react even to cooked ones, especially with alcohol. Deadly lookalike: the false morel (Gyromitra esculenta), which has a brain-like, lobed cap and a chambered or cottony interior and contains gyromitrin. Also beware Verpa bohemica, whose cap hangs free like a thimble over a cotton-stuffed stem. A true morel is hollow from tip to base, with the cap attached directly to the stem. Morels from old orchards may contain lead and arsenic from historic pesticides.",
+  "seed": {
+   "description": "Ascospores (not seeds), 8 per ascus, ellipsoid, smooth, about 20–24 × 12–14 µm; spore print cream to pale yellow-orange",
+   "dispersal": "Ascospores forcibly discharged from the pitted cap and carried by wind"
+  },
+  "grow": {
+   "climates": [
+    "Temperate"
+   ],
+   "sun": "Shade to dappled light",
+   "water": "Moist soil in spring",
+   "soil": "Loamy, calcareous or ash-enriched soil",
+   "propagation": "Spawn on grain; outdoor beds with nutrient bags (method developed commercially in China for M. importuna and related species)",
+   "timeToHarvest": "Sow spawn in late autumn; harvest the following spring",
+   "steps": [
+    "Prepare a shaded outdoor bed of loose loam, ideally with wood ash or lime mixed in",
+    "Broadcast morel grain spawn in autumn and cover lightly with soil",
+    "After the mycelium spreads, lay 'exogenous nutrient bags' of moist sterilised grain over the bed",
+    "Keep the soil damp through winter; fruiting starts when spring soil reaches about 8–15 °C",
+    "Results are unreliable outside specialised farms, so treat it as an experiment"
+   ]
+  },
+  "lore": "Gucchi gathered in the Himalayan foothills is dried on strings and sold at high prices, and gucchi pulao is a Kashmiri feast dish. In Europe, Carolus Clusius described morels in his 1601 account of the fungi of Pannonia (Hungary), the first book devoted to fungi.",
+  "historicalNames": [
+   "Boletus esculentus",
+   "Fungus spongiosus",
+   "Morchel",
+   "Spongiola"
+  ],
+  "funFact": "When a morel releases spores you can sometimes see the puff of 'smoke' rise from the cap."
+ },
+ {
+  "slug": "hericium-erinaceus",
+  "scientific": "Hericium erinaceus",
+  "common": "Lion's mane",
+  "otherNames": [
+   "Yamabushitake (Japanese)",
+   "Hou tou gu 猴头菇 (Chinese)",
+   "Igel-Stachelbart (German)",
+   "Bearded tooth fungus (English)",
+   "Hedgehog mushroom (English)"
+  ],
+  "kingdom": "Fungi",
+  "form": "Mushroom",
+  "family": "Hericiaceae",
+  "shelves": [
+   "edible",
+   "medicinal"
+  ],
+  "summary": "A snow-white cascade of soft icicle-like spines that grows from wounds in old hardwoods. It is a gourmet mushroom with crab-like texture and is studied for compounds that stimulate nerve growth factor in the lab.",
+  "nativeRange": "Temperate Northern Hemisphere: Europe, Asia and North America; rare and legally protected in parts of Europe (e.g. the UK)",
+  "regions": [
+   "Europe",
+   "North America",
+   "East Asia",
+   "Central Asia"
+  ],
+  "biomes": [
+   "Temperate forest",
+   "Old-growth broadleaf woodland"
+  ],
+  "abilities": [
+   "Decays the heartwood of living and dead beech, oak and other hardwoods (white rot)",
+   "Produces hericenones (fruiting body) and erinacines (mycelium), which promote nerve growth factor in cell and animal studies",
+   "Its spores form on the outer surfaces of the hanging spines, which can be 1–5 cm long"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "whole fruiting body (cooked, while still white)"
+  ],
+  "edibilityNote": "Good edible when young and white; it turns sour and yellow with age. It has no known dangerous lookalikes. Related species such as coral tooth (H. coralloides) and bear's head (H. americanum) are also edible. Wild specimens are rare in Europe and protected in Britain, so eat cultivated ones. Some people develop skin rashes or breathing allergies.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Traditional Chinese medicine",
+     "use": "Taken for stomach and digestive complaints and as a general tonic"
+    },
+    {
+     "tradition": "Modern Japanese research",
+     "use": "Small trials of the dried mushroom for mild cognitive impairment"
+    }
+   ],
+   "compounds": [
+    "hericenones",
+    "erinacines",
+    "β-glucans"
+   ],
+   "evidence": "moderate",
+   "cautions": "Clinical trials are few and small. Allergic reactions, including skin rash and breathing difficulty, have been reported. Possible effect on blood sugar and clotting; take care with anticoagulants or diabetes medicines."
+  },
+  "seed": {
+   "description": "Spore print white; spores subglobose, smooth to faintly roughened, amyloid, about 5–6.5 × 4–5.5 µm",
+   "dispersal": "Wind-borne basidiospores shed from the hanging spines"
+  },
+  "grow": {
+   "climates": [
+    "Temperate",
+    "Subtropical (indoors)"
+   ],
+   "sun": "Indirect light (indoors)",
+   "water": "High humidity, 85–95%",
+   "soil": "Supplemented hardwood sawdust (e.g. oak sawdust with 10–20% wheat bran) or hardwood logs",
+   "propagation": "Grain or sawdust spawn",
+   "timeToHarvest": "About 4–6 weeks from inoculating a sawdust block",
+   "steps": [
+    "Sterilise bags of moist hardwood sawdust with bran, then inoculate with spawn once cool",
+    "Incubate in darkness at 21–24 °C for 2–3 weeks until fully white",
+    "Cut a small X in the bag and move to fruiting conditions: 15–21 °C, 85–95% humidity, fresh air and indirect light",
+    "Harvest when the spines are about 0.5–1 cm long and still white, before they yellow"
+   ]
+  },
+  "lore": "In China, monkey-head mushroom (hou tou gu) has long been prized as a 'mountain delicacy' of banquet cuisine. The Japanese name 'yamabushitake' compares the shaggy mushroom to the pom-pom robes of yamabushi mountain ascetics.",
+  "historicalNames": [
+   "Hydnum erinaceus",
+   "Fungus erinaceus"
+  ],
+  "funFact": "Vegetarian chefs in China and Japan have long shredded lion's mane as a convincing stand-in for crab meat."
+ },
+ {
+  "slug": "ganoderma-lingzhi",
+  "scientific": "Ganoderma lingzhi",
+  "common": "Lingzhi (reishi)",
+  "otherNames": [
+   "Lingzhi 灵芝 (Chinese)",
+   "Reishi / Mannentake (Japanese)",
+   "Yeongji (Korean)",
+   "Linh chi (Vietnamese)",
+   "Mushroom of immortality (English)"
+  ],
+  "kingdom": "Fungi",
+  "form": "Bracket fungus",
+  "family": "Polyporaceae",
+  "shelves": [
+   "medicinal",
+   "sacred",
+   "toxic"
+  ],
+  "summary": "A glossy, lacquer-red bracket on a side stalk. For two thousand years it has stood in East Asian art for longevity and immortality. DNA studies show most commercial 'reishi' is this East Asian species, not the European Ganoderma lucidum whose name it long carried.",
+  "nativeRange": "East Asia (China, Korea, Japan, Taiwan); widely cultivated",
+  "regions": [
+   "East Asia",
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Temperate forest",
+   "Subtropical broadleaf forest"
+  ],
+  "abilities": [
+   "Causes white rot in hardwood stumps and roots",
+   "Produces more than 150 triterpenoids (ganoderic acids), which make it intensely bitter",
+   "Its varnished surface comes from a resinous crust that forms as the bracket grows",
+   "Grows into antler shapes instead of caps when kept in high carbon dioxide"
+  ],
+  "edibility": "edible-with-care",
+  "edibleParts": [
+   "sliced fruiting body (decoction or tea)",
+   "extracts"
+  ],
+  "edibilityNote": "Too woody to eat. It is simmered as a bitter tea or taken as an extract. There are case reports of liver toxicity linked to powdered reishi products. Many products contain other Ganoderma species, and some contain only mycelium grown on grain.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Traditional Chinese medicine",
+     "use": "A 'superior' tonic in the Shennong Bencao Jing, for calming the spirit, longevity and vitality"
+    },
+    {
+     "tradition": "Japanese and Korean folk medicine",
+     "use": "Tea for fatigue, sleep problems and general resilience"
+    },
+    {
+     "tradition": "Modern integrative oncology",
+     "use": "Studied as an adjunct to cancer treatment for immune markers and quality of life"
+    }
+   ],
+   "compounds": [
+    "ganoderic acids (triterpenoids)",
+    "β-D-glucans",
+    "ganodermanontriol"
+   ],
+   "evidence": "traditional",
+   "cautions": "A Cochrane review (2016) found insufficient evidence to support it as first-line cancer treatment. Case reports describe liver toxicity with powders. May increase bleeding risk with anticoagulants or antiplatelet drugs. May lower blood pressure and blood sugar. Avoid before surgery and in pregnancy."
+  },
+  "seed": {
+   "description": "Spore print brown; spores ovoid with a truncated tip, double-walled with an ornamented inner wall, about 9–12 × 6–8 µm",
+   "dispersal": "Wind; mature brackets dust nearby surfaces with cocoa-brown spores"
+  },
+  "grow": {
+   "climates": [
+    "Temperate",
+    "Subtropical"
+   ],
+   "sun": "Indirect light",
+   "water": "High humidity, 85–95%",
+   "soil": "Hardwood logs (oak, maple) or supplemented hardwood sawdust",
+   "propagation": "Sawdust or plug spawn",
+   "timeToHarvest": "2–4 months on sawdust; logs fruit in the first or second summer",
+   "steps": [
+    "Inoculate sterilised hardwood sawdust (or fresh-cut short logs) with spawn",
+    "Incubate at 24–29 °C until fully colonised",
+    "Fruit at 24–28 °C with high humidity; keep the air still and CO₂ high for antlers, or ventilate for caps",
+    "Harvest when the white growing edge turns red-brown and spores begin to drop; dry and slice for tea"
+   ]
+  },
+  "lore": "The Shennong Bencao Jing (c. 1st–2nd century CE) lists lingzhi among the highest grade of herbs. Han dynasty courts recorded its appearance as an auspicious omen. The cloud-shaped ruyi sceptre of Chinese art is modelled on its form.",
+  "historicalNames": [
+   "Lingzhi",
+   "Ruizhi",
+   "Zhi"
+  ],
+  "funFact": "The scientific name is a 2012 description; before that, East Asian reishi was misfiled for over a century under the name of a European mushroom."
+ },
+ {
+  "slug": "lentinula-edodes",
+  "scientific": "Lentinula edodes",
+  "common": "Shiitake",
+  "otherNames": [
+   "Xiang gu 香菇 (Chinese)",
+   "Dong gu 冬菇 (Cantonese)",
+   "Shiitake 椎茸 (Japanese)",
+   "Pyogo (Korean)",
+   "Nấm hương (Vietnamese)"
+  ],
+  "kingdom": "Fungi",
+  "form": "Mushroom",
+  "family": "Omphalotaceae",
+  "shelves": [
+   "edible",
+   "medicinal",
+   "toxic"
+  ],
+  "summary": "One of the world's most widely grown mushrooms, making up roughly a quarter of cultivated mushroom production. It has been cultivated on logs in China for about a thousand years. It is rich in the savoury compound guanylate and the sulphur-containing flavour precursor lentinic acid.",
+  "nativeRange": "East and Southeast Asia (China, Japan, Korea, Indochina); cultivated worldwide",
+  "regions": [
+   "East Asia",
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Temperate forest",
+   "Subtropical broadleaf forest"
+  ],
+  "abilities": [
+   "Decomposes the dead wood of shii, oak, chestnut and other hardwoods (white rot)",
+   "Produces lentinan, a β-glucan approved in Japan as an injectable adjunct for gastric cancer",
+   "Its sulphur flavour compound lenthionine forms when the mushroom is dried and rehydrated",
+   "Contains eritadenine, which lowers cholesterol in animal studies"
+  ],
+  "edibility": "edible-with-care",
+  "edibleParts": [
+   "cap and stem (cooked; stems are tough)"
+  ],
+  "edibilityNote": "Choice edible when cooked. Raw or undercooked shiitake can cause 'shiitake dermatitis', a whip-like itchy rash linked to lentinan that appears a day or two later. Wild collection on wood carries the risk of picking deadly Galerina marginata (funeral bell), a small brown wood-rotting mushroom with amatoxins and a rusty-brown spore print. Shiitake has a white spore print. Buy cultivated.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Traditional Chinese medicine",
+     "use": "Recorded by Wu Rui in the Ri Yong Ben Cao (Yuan dynasty) as a food that strengthens qi and the body"
+    },
+    {
+     "tradition": "Japanese oncology",
+     "use": "Purified lentinan given by injection alongside chemotherapy for gastric cancer"
+    }
+   ],
+   "compounds": [
+    "lentinan",
+    "eritadenine",
+    "lenthionine",
+    "ergosterol"
+   ],
+   "evidence": "moderate",
+   "cautions": "Shiitake dermatitis from raw or undercooked mushrooms. Allergic lung disease in growers who inhale spores. Medicinal lentinan is a prescribed drug, not equal to eating shiitake."
+  },
+  "seed": {
+   "description": "Spore print white; spores ellipsoid, smooth, about 5–6.5 × 3–3.5 µm",
+   "dispersal": "Wind-borne basidiospores from the gills"
+  },
+  "grow": {
+   "climates": [
+    "Temperate",
+    "Subtropical"
+   ],
+   "sun": "Full shade outdoors; indirect light indoors",
+   "water": "Keep logs moist; soak to trigger fruiting",
+   "soil": "Fresh-cut oak or other hardwood logs (10–15 cm diameter), or supplemented hardwood sawdust blocks",
+   "propagation": "Plug or sawdust spawn",
+   "timeToHarvest": "Logs: 6–18 months, then fruit for 3–6 years. Sawdust blocks: about 2–3 months",
+   "steps": [
+    "Cut healthy hardwood logs in late winter and inoculate within a few weeks",
+    "Drill holes about every 15 cm in a diamond pattern, tap in spawn plugs and seal with wax",
+    "Stack logs in full shade and keep damp while the mycelium colonises (6–18 months)",
+    "Force a flush by soaking a log in cold water for 12–24 hours; mushrooms appear in about a week at 10–25 °C",
+    "Pick when caps are 70–90% open; rest the log 6–8 weeks between soakings"
+   ]
+  },
+  "lore": "Chinese tradition credits Wu Sangong of Zhejiang (Song dynasty, around 1000 CE) with discovering that striking logs made them fruit. Longquan and Qingyuan still honour him at temples. The technique spread to Japan, where thick-capped, cool-season 'donko' became a prized grade.",
+  "historicalNames": [
+   "Xianggu",
+   "Agaricus edodes",
+   "Cortinellus shiitake"
+  ],
+  "funFact": "Drying shiitake in sunlight, gills up, sharply raises its vitamin D content."
+ },
+ {
+  "slug": "pleurotus-ostreatus",
+  "scientific": "Pleurotus ostreatus",
+  "common": "Oyster mushroom",
+  "otherNames": [
+   "Hiratake (Japanese)",
+   "Ping gu 平菇 (Chinese)",
+   "Dhingri (Hindi)",
+   "Austernseitling (German)",
+   "Pleurote en huître (French)",
+   "Gírgola (Catalan)"
+  ],
+  "kingdom": "Fungi",
+  "form": "Mushroom",
+  "family": "Pleurotaceae",
+  "shelves": [
+   "edible",
+   "carnivorous",
+   "marvel"
+  ],
+  "summary": "Shelf-like, oyster-shaped clusters on dead hardwood. It is one of the easiest mushrooms to grow and will fruit on straw, coffee grounds or cardboard. It is also a secret predator: its hyphae paralyse and digest nematode worms.",
+  "nativeRange": "Temperate and subtropical forests worldwide (Northern Hemisphere especially); cultivated globally",
+  "regions": [
+   "Europe",
+   "North America",
+   "East Asia",
+   "South Asia",
+   "West Asia",
+   "Central Asia"
+  ],
+  "biomes": [
+   "Temperate forest",
+   "Riparian woodland",
+   "Subtropical forest"
+  ],
+  "abilities": [
+   "Releases a volatile toxin (3-octanone) from tiny hyphal knobs that paralyses nematodes within minutes, then digests them for nitrogen",
+   "Breaks down lignin and cellulose, and can degrade some petroleum hydrocarbons and pesticides (mycoremediation)",
+   "Naturally contains lovastatin, a cholesterol-lowering statin drug",
+   "Grows on almost any lignocellulose waste, from straw to spent coffee grounds"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "caps and tender stems (cooked)"
+  ],
+  "edibilityNote": "Good edible when cooked. Dangerous lookalikes: angel's wings (Pleurocybella porrigens), a thin white conifer-wood species linked to fatal brain disease in Japan (2004), mainly in people with kidney disease; the jack-o'-lantern (Omphalotus species), which is orange and causes violent vomiting; and bitter Lentinellus species with saw-toothed gills. Oysters grow on hardwood, have white to lilac-grey spore prints and smell mild and anise-like. Growers indoors can develop spore allergy.",
+  "seed": {
+   "description": "Spore print white to lilac-grey; spores cylindrical, smooth, about 7–11 × 3–4 µm",
+   "dispersal": "Wind; dense clusters release clouds of spores"
+  },
+  "grow": {
+   "climates": [
+    "Temperate",
+    "Subtropical",
+    "Tropical (warm-weather strains)"
+   ],
+   "sun": "Indirect light, 8–12 hours daily",
+   "water": "Humidity 85–95%",
+   "soil": "Pasteurised wheat/rice straw, spent coffee grounds, hardwood sawdust or cardboard",
+   "propagation": "Grain spawn (typically 5–10% by wet weight)",
+   "timeToHarvest": "About 3–5 weeks from inoculation",
+   "steps": [
+    "Chop straw and pasteurise it in water at 65–80 °C for about an hour; drain and cool",
+    "Mix with grain spawn and pack into perforated bags or buckets",
+    "Incubate at 20–24 °C in the dark for 2–3 weeks until white throughout",
+    "Fruit at 15–21 °C with fresh air, indirect light and high humidity; mist the walls, not the mushrooms",
+    "Harvest whole clusters when cap edges are still slightly curled under"
+   ]
+  },
+  "lore": "Germany first cultivated oyster mushrooms experimentally on logs and stumps around World War I, as a food-security measure. Today India's dhingri farms and China's ping gu industry grow them on rice and wheat straw.",
+  "historicalNames": [
+   "Agaricus ostreatus",
+   "Fungus ostreatus"
+  ],
+  "funFact": "It is one of the few mushrooms known to hunt animals. Nematodes that touch its hyphae can be paralysed within minutes."
+ },
+ {
+  "slug": "cordyceps-militaris",
+  "scientific": "Cordyceps militaris",
+  "common": "Scarlet caterpillar club",
+  "otherNames": [
+   "Chong cao hua 虫草花 (Chinese, 'cordyceps flower')",
+   "Sanagitake (Japanese)",
+   "Bei chong cao 北冬虫夏草 (Chinese)",
+   "Puppen-Kernkeule (German)"
+  ],
+  "kingdom": "Fungi",
+  "form": "Mushroom",
+  "family": "Cordycipitaceae",
+  "shelves": [
+   "edible",
+   "medicinal",
+   "marvel"
+  ],
+  "summary": "Bright orange clubs that rise from moth and butterfly pupae buried in soil, which the fungus has killed and filled with mycelium. Unlike its Himalayan cousin it can be grown on grain, and it is sold in Asian markets as dried 'cordyceps flower' for soup.",
+  "nativeRange": "Temperate Northern Hemisphere: Europe, Asia and North America",
+  "regions": [
+   "Europe",
+   "North America",
+   "East Asia",
+   "Central Asia"
+  ],
+  "biomes": [
+   "Temperate forest",
+   "Grassland",
+   "Woodland edges"
+  ],
+  "abilities": [
+   "Infects lepidopteran larvae and pupae, replaces their tissues with mycelium and then fruits from the corpse",
+   "Produces cordycepin (3′-deoxyadenosine), an adenosine mimic studied as an anticancer and antiviral compound",
+   "Needs light to make its orange carotenoid pigments",
+   "Its thread-like ascospores break into many short part-spores"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "dried cultivated fruiting bodies (soups, tea)"
+  ],
+  "edibilityNote": "The cultivated orange fruiting bodies are eaten in Chinese and Korean soups and teas. Do not confuse with other insect fungi, or with orange club and coral fungi of unknown edibility, when foraging. Most people should buy cultivated product.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Traditional Chinese medicine",
+     "use": "A cheaper substitute for Ophiocordyceps sinensis (yartsa gunbu) as a lung and kidney tonic"
+    },
+    {
+     "tradition": "Korean folk medicine",
+     "use": "Tea for fatigue and stamina"
+    }
+   ],
+   "compounds": [
+    "cordycepin",
+    "adenosine",
+    "carotenoids",
+    "polysaccharides"
+   ],
+   "evidence": "traditional",
+   "cautions": "Human trial evidence is limited. Cordycepin affects purine metabolism. Avoid with immunosuppressants, anticoagulants or during pregnancy. Supplement quality varies widely."
+  },
+  "seed": {
+   "description": "Ascospores (not seeds) long and thread-like, multiseptate, breaking into short cylindrical part-spores about 3–6 × 1 µm; no conventional spore print",
+   "dispersal": "Ascospores ejected from flask-shaped perithecia in the club's orange head; asexual conidia also infect insects"
+  },
+  "grow": {
+   "climates": [
+    "Temperate (indoors)"
+   ],
+   "sun": "Bright indirect light, 12 hours daily (needed for orange colour)",
+   "water": "Humidity 80–90%",
+   "soil": "Brown rice or other grain with nutrient broth; commercially also silkworm pupae",
+   "propagation": "Liquid culture; strains degenerate quickly, so start from fresh culture",
+   "timeToHarvest": "About 6–8 weeks",
+   "steps": [
+    "Fill jars with brown rice and a nutrient broth (e.g. potato-dextrose with a little peptone) and sterilise",
+    "Inoculate with liquid culture and incubate in the dark at about 18–22 °C for 1–2 weeks",
+    "Once colonised and yellowing, give 12 hours of light daily and cool nights (about 16–20 °C)",
+    "Harvest the orange clubs at about 5–8 cm, then dry at low heat"
+   ]
+  },
+  "lore": "Since the 1980s, Chinese growers have mass-produced it as 'chong cao hua', a substitute for wild Himalayan caterpillar fungus, which costs more than its weight in gold. It gave the 'cordyceps' of popular culture an easy-to-grow stand-in.",
+  "historicalNames": [
+   "Clavaria militaris",
+   "Sphaeria militaris"
+  ],
+  "funFact": "Cordycepin was first isolated from Cordyceps militaris in 1950, one of the earliest nucleoside antibiotics discovered."
+ },
+ {
+  "slug": "inonotus-obliquus",
+  "scientific": "Inonotus obliquus",
+  "common": "Chaga",
+  "otherNames": [
+   "Chaga / Beryozovy grib (Russian)",
+   "Pakurikääpä (Finnish)",
+   "Kabanoanatake (Japanese)",
+   "Schiefer Schillerporling (German)",
+   "Cinder conk (English)"
+  ],
+  "kingdom": "Fungi",
+  "form": "Bracket fungus",
+  "family": "Hymenochaetaceae",
+  "shelves": [
+   "medicinal",
+   "toxic"
+  ],
+  "summary": "What looks like a lump of burnt charcoal on a birch trunk is actually a sterile mass of fungus and wood, the conk. Its golden-orange interior has been brewed as tea across Siberia and northern Europe for centuries.",
+  "nativeRange": "Boreal and cool-temperate Northern Hemisphere, mainly on birch: Russia, Scandinavia, Baltic, Korea, Japan, Canada, northern USA",
+  "regions": [
+   "Europe",
+   "Central Asia",
+   "East Asia",
+   "North America",
+   "Arctic"
+  ],
+  "biomes": [
+   "Boreal forest",
+   "Birch woodland"
+  ],
+  "abilities": [
+   "Infects living birch through wounds and decays its heartwood for decades (white rot)",
+   "The black crust is rich in melanin; the interior concentrates betulin and betulinic acid from birch bark",
+   "Fruits only once, as a thin pore layer under the bark after the host tree dies"
+  ],
+  "edibility": "edible-with-care",
+  "edibleParts": [
+   "sterile conk (ground, as decoction or tea)"
+  ],
+  "edibilityNote": "Not a food. The conk is simmered as tea. It is extremely high in oxalate, and heavy daily use has caused kidney failure (oxalate nephropathy). Don't confuse it with burnt wood or with black Phellinus brackets. Harvest only from birch.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Russian and Siberian folk medicine (incl. Khanty)",
+     "use": "Tea for stomach ailments, tuberculosis and as a general tonic"
+    },
+    {
+     "tradition": "Finnish and Baltic folk use",
+     "use": "Wartime coffee substitute and health drink"
+    },
+    {
+     "tradition": "Soviet medicine",
+     "use": "Befungin, a chaga extract, was approved in the USSR for gastritis"
+    }
+   ],
+   "compounds": [
+    "betulin",
+    "betulinic acid",
+    "inotodiol",
+    "melanin",
+    "polysaccharides"
+   ],
+   "evidence": "traditional",
+   "cautions": "Very high oxalate content; documented kidney damage with regular use. May increase bleeding risk with anticoagulants and lower blood sugar. No good human trials. Over-harvesting is depleting wild populations."
+  },
+  "seed": {
+   "description": "Spores are produced only by a short-lived pore layer under the bark of dead trees. Spore print white to pale yellowish; spores ellipsoid, smooth, hyaline, about 8–10 × 5–7.5 µm",
+   "dispersal": "Wind-borne basidiospores, which enter living birch through wounds"
+  },
+  "lore": "Aleksandr Solzhenitsyn's novel 'Cancer Ward' (1966) has a doctor who believes Russian peasants avoid cancer by drinking chaga. The book helped spread chaga's fame worldwide.",
+  "historicalNames": [
+   "Boletus obliquus",
+   "Polyporus obliquus",
+   "Chaga"
+  ],
+  "funFact": "The word 'chaga' comes into Russian from Komi (tšak), a Uralic language of the Kama basin, where it simply means mushroom."
+ },
+ {
+  "slug": "trametes-versicolor",
+  "scientific": "Trametes versicolor",
+  "common": "Turkey tail",
+  "otherNames": [
+   "Yun zhi 云芝 (Chinese)",
+   "Kawaratake (Japanese)",
+   "Schmetterlings-Tramete (German)",
+   "Tramète versicolore (French)"
+  ],
+  "kingdom": "Fungi",
+  "form": "Bracket fungus",
+  "family": "Polyporaceae",
+  "shelves": [
+   "medicinal"
+  ],
+  "summary": "Thin, velvety brackets banded in browns, blues and creams, fanned out like a turkey's tail across dead logs. It is one of the most common fungi on Earth. It is also the source of PSK (Krestin), a protein-bound polysaccharide used alongside cancer therapy in Japan since the 1970s.",
+  "nativeRange": "Cosmopolitan on dead hardwood in temperate and tropical forests",
+  "regions": [
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Temperate forest",
+   "Tropical forest",
+   "Woodland",
+   "Urban parks"
+  ],
+  "abilities": [
+   "A white-rot decomposer that breaks down lignin in dead hardwood",
+   "Its laccase enzymes can degrade dyes, PCBs and other pollutants (studied for bioremediation)",
+   "Has a pore surface underneath with 3–5 tiny pores per millimetre, which separates it from gill-less lookalikes",
+   "Velvety, concentrically banded caps vary greatly in colour, hence 'versicolor'"
+  ],
+  "edibility": "not-edible",
+  "edibleParts": [
+   "dried brackets (decoction or tea)"
+  ],
+  "edibilityNote": "Too leathery to eat; it is simmered as a tea or taken as an extract. Lookalikes such as false turkey tail (Stereum ostrea, smooth underside without pores) and Trichaptum species are not known to be dangerous but have no medicinal value.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Traditional Chinese medicine",
+     "use": "Yun zhi decoction to clear damp-heat and support the spleen and lungs"
+    },
+    {
+     "tradition": "Japanese oncology",
+     "use": "PSK (Krestin) given orally as an adjunct to chemotherapy for gastric and colorectal cancer"
+    },
+    {
+     "tradition": "Chinese oncology",
+     "use": "PSP (polysaccharopeptide) extracts used in cancer supportive care"
+    }
+   ],
+   "compounds": [
+    "polysaccharide-K (PSK, krestin)",
+    "polysaccharopeptide (PSP)",
+    "β-glucans"
+   ],
+   "evidence": "moderate",
+   "cautions": "PSK is an approved drug in Japan, and its trials used that standardised extract, not home tea. May cause digestive upset or darkened stools. Talk to an oncologist before combining it with chemotherapy."
+  },
+  "seed": {
+   "description": "Spore print white to pale cream; spores cylindrical to slightly curved (allantoid), smooth, about 5–6 × 1.5–2 µm",
+   "dispersal": "Wind-borne basidiospores from the pore surface"
+  },
+  "grow": {
+   "climates": [
+    "Temperate"
+   ],
+   "sun": "Shade",
+   "water": "Keep logs damp",
+   "soil": "Fresh-cut hardwood logs or stumps (oak, maple, birch)",
+   "propagation": "Plug spawn",
+   "timeToHarvest": "Usually 1–2 years on logs",
+   "steps": [
+    "Drill and plug fresh hardwood logs with turkey tail plug spawn, then seal with wax",
+    "Stack or partly bury logs in a shaded, damp spot",
+    "Keep moist; brackets appear along the bark after colonisation",
+    "Harvest firm, fresh brackets and dry them for tea"
+   ]
+  },
+  "lore": "Kureha Chemical's Japanese researchers isolated PSK in the 1960s after a chemical engineer reportedly noticed a neighbour treating his own cancer with kawaratake tea. Japan's health ministry approved Krestin in 1977.",
+  "historicalNames": [
+   "Boletus versicolor",
+   "Polyporus versicolor",
+   "Coriolus versicolor"
+  ],
+  "funFact": "One fallen log can carry hundreds of turkey tail brackets, each possibly a genetically different individual competing for the wood."
+ },
+ {
+  "slug": "tuber-melanosporum",
+  "scientific": "Tuber melanosporum",
+  "common": "Périgord black truffle",
+  "otherNames": [
+   "Truffe noire du Périgord (French)",
+   "Tartufo nero pregiato (Italian)",
+   "Trufa negra (Spanish)",
+   "Black diamond (English)"
+  ],
+  "kingdom": "Fungi",
+  "form": "Truffle",
+  "family": "Tuberaceae",
+  "shelves": [
+   "edible",
+   "spice"
+  ],
+  "summary": "An underground, warty black fruiting body of an oak and hazel partner fungus. Its marbled flesh has an intense aroma that can sell for well over €1,000 a kilo. Since its spores cannot travel on the wind, it relies on its smell to lure mammals that dig it up and spread them.",
+  "nativeRange": "Mediterranean Europe on calcareous soils: southern France, northern and central Spain, Italy; cultivated in Australia, New Zealand, Chile, USA",
+  "regions": [
+   "Europe"
+  ],
+  "biomes": [
+   "Mediterranean woodland",
+   "Oak and hazel orchards",
+   "Calcareous scrub"
+  ],
+  "abilities": [
+   "Forms ectomycorrhizae with oak (Quercus ilex, Q. pubescens) and hazel",
+   "Creates 'brûlés', bare patches around host trees where it suppresses competing plants",
+   "Releases volatile compounds including dimethyl sulphide that animals can smell through soil",
+   "Has two mating types and needs both to fruit, a finding (2011) now used in managing plantations"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "whole fruiting body (raw shaved or lightly heated)"
+  ],
+  "edibilityNote": "Prized edible. Lookalikes: earthballs (Scleroderma), toxic and hard, with dark purplish-black spore masses but no marbling; and underground Elaphomyces. Cheaper Chinese truffles (Tuber indicum) are sold fraudulently as Périgord truffles. Cut to check the fine white marbling and strong aroma.",
+  "seed": {
+   "description": "Spores (not seeds) dark brown, ellipsoid, densely spiny (echinulate), about 25–45 × 20–35 µm, held 1–6 in sac-like asci inside the marbled flesh; no spore print, since it fruits underground",
+   "dispersal": "Eaten and dispersed by wild boar, rodents and other mammals drawn by its scent"
+  },
+  "grow": {
+   "zones": "Roughly USDA 6–9 (mild winters, warm summers)",
+   "climates": [
+    "Mediterranean",
+    "Temperate"
+   ],
+   "sun": "Full sun on the orchard floor",
+   "water": "Summer irrigation in drought",
+   "soil": "Free-draining, calcareous, pH 7.5–8.3",
+   "propagation": "Oak or hazel seedlings inoculated with truffle in a nursery",
+   "timeToHarvest": "First truffles typically 5–10 years after planting",
+   "steps": [
+    "Lime the soil to pH 7.5–8.3 and ensure excellent drainage",
+    "Plant certified inoculated oak or hazel seedlings at about 4–6 m spacing",
+    "Keep the ground weed-free and irrigate during summer drought",
+    "From about year 5, hunt mature truffles in winter (December–March) with a trained dog"
+   ]
+  },
+  "lore": "Brillat-Savarin called the truffle 'the diamond of the kitchen' in 'Physiologie du goût' (1825). The first truffle plantations began in Vaucluse in the early 1800s, when Joseph Talon planted acorns from truffle-producing oaks.",
+  "historicalNames": [
+   "Tuber",
+   "Tuber cibarium",
+   "Truffe",
+   "Tartufo"
+  ],
+  "funFact": "Truffle pigs were traditionally used because truffle aroma includes androstenol, a pig sex pheromone. Dogs are now preferred because they don't eat the find."
+ },
+ {
+  "slug": "tricholoma-matsutake",
+  "scientific": "Tricholoma matsutake",
+  "common": "Matsutake",
+  "otherNames": [
+   "Matsutake 松茸 (Japanese)",
+   "Song rong 松茸 (Chinese)",
+   "Songi (Korean)",
+   "Pine mushroom (English)"
+  ],
+  "kingdom": "Fungi",
+  "form": "Mushroom",
+  "family": "Tricholomataceae",
+  "shelves": [
+   "edible",
+   "endangered",
+   "sacred"
+  ],
+  "summary": "A thick-stemmed, scaly brown mushroom that grows under red pine. It has a spicy, cinnamon-and-pine aroma that Japan treasures as the scent of autumn. Top grades sell for hundreds of dollars a kilo. It is listed as Vulnerable because its pine forests are declining.",
+  "nativeRange": "East Asia (Japan, Korea, China incl. Yunnan and Tibet), and northern Europe (Scandinavia, Baltic) and Siberia",
+  "regions": [
+   "East Asia",
+   "Europe",
+   "Central Asia"
+  ],
+  "biomes": [
+   "Pine forest",
+   "Boreal forest",
+   "Montane conifer forest"
+  ],
+  "abilities": [
+   "Ectomycorrhizal mainly with red pine (Pinus densiflora) and other pines; never cultivated",
+   "Forms a dense white mycelial mat called a 'shiro' that spreads outward in a ring",
+   "Its aroma comes mainly from 1-octen-3-ol and methyl cinnamate",
+   "Thrives on poor, disturbed mineral soils, which humans maintained in old Japanese satoyama woodland"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "whole fruiting body (cooked)"
+  ],
+  "edibilityNote": "Choice edible. Dangerous lookalikes: buttons of deadly white Amanitas (A. phalloides, destroying angels), which have a volva at the base and white, not spicy, odour; and, in North America, Amanita smithiana, which grows with the related T. murrillianum and causes delayed kidney failure. Check the base, the spicy smell and the absence of a volva.",
+  "seed": {
+   "description": "Spore print white; spores broadly ellipsoid to subglobose, smooth, about 6–7.5 × 4.5–6 µm",
+   "dispersal": "Wind-borne basidiospores from the gills"
+  },
+  "iucn": "VU",
+  "lore": "Matsutake appears in the 8th-century Man'yōshū poetry anthology, where its fragrance is praised. Anna Tsing's 'The Mushroom at the End of the World' (2015) follows the global trade in matsutake gathered by foragers in Oregon, Yunnan and Finland.",
+  "historicalNames": [
+   "Matsudake",
+   "Armillaria matsutake"
+  ],
+  "funFact": "Pine wilt nematode has killed vast areas of Japan's red pine, and Japan's matsutake harvest has fallen by over 90% since the 1940s."
+ },
+ {
+  "slug": "armillaria-ostoyae",
+  "scientific": "Armillaria ostoyae",
+  "common": "Dark honey fungus (humongous fungus)",
+  "otherNames": [
+   "Dunkler Hallimasch (German)",
+   "Opyonok (Russian)",
+   "Armillaire obscure (French)",
+   "Humongous fungus (English)"
+  ],
+  "kingdom": "Fungi",
+  "form": "Mushroom",
+  "family": "Physalacriaceae",
+  "shelves": [
+   "edible",
+   "toxic",
+   "ancient",
+   "marvel"
+  ],
+  "summary": "A single individual of this root-rotting fungus in Oregon's Blue Mountains spreads underground across about 965 hectares, making it one of the largest organisms on Earth. Its estimated age runs from about 2,400 to 8,650 years. Above ground it sends up clusters of brown, ring-stemmed honey mushrooms in autumn.",
+  "nativeRange": "Temperate Northern Hemisphere conifer forests: Europe, North America, Asia",
+  "regions": [
+   "North America",
+   "Europe",
+   "East Asia",
+   "Central Asia"
+  ],
+  "biomes": [
+   "Conifer forest",
+   "Temperate forest",
+   "Montane forest"
+  ],
+  "abilities": [
+   "Spreads through soil via black, bootlace-like rhizomorphs that can extend metres per year",
+   "Kills living conifers by colonising roots and the cambium beneath the bark",
+   "Its mycelium in rotting wood glows faintly green ('foxfire')",
+   "Feeds the Chinese medicinal orchid Gastrodia elata (tianma), which has no chlorophyll and digests Armillaria",
+   "Oregon's 'humongous fungus' (Malheur National Forest) is a single genetic individual covering about 965 ha"
+  ],
+  "edibility": "edible-with-care",
+  "edibleParts": [
+   "young caps (thoroughly cooked)"
+  ],
+  "edibilityNote": "Eaten widely in Eastern Europe, but only well cooked; raw or undercooked it causes stomach upset, and some people react even to cooked ones. Deadly lookalike: Galerina marginata (funeral bell), a smaller brown wood-rotting mushroom with amatoxins and a rusty-brown spore print, which can grow among honey fungus. Also confused with Pholiota and toxic Hypholoma fasciculare (sulphur tuft, greenish gills, purple-black spores). Honey fungus has a white spore print. Take a spore print of every cap in doubtful collections.",
+  "seed": {
+   "description": "Spore print white to cream; spores ellipsoid, smooth, about 8–11 × 5–7 µm",
+   "dispersal": "Wind-borne basidiospores; it mainly spreads vegetatively by rhizomorphs and root contact"
+  },
+  "lore": "Foxfire, the glow of fungus-infested wood (often Armillaria), was noted by Aristotle. It is said to have lit the depth gauge of David Bushnell's 1775 submarine 'Turtle'. Russians pickle 'opyata' honey mushrooms by the barrel.",
+  "historicalNames": [
+   "Agaricus obscurus",
+   "Armillaria solidipes",
+   "Hallimasch"
+  ],
+  "funFact": "Researchers mapped the Oregon giant by genetically matching fungal samples from hundreds of dying trees across the forest."
+ },
+ {
+  "slug": "psilocybe-cubensis",
+  "scientific": "Psilocybe cubensis",
+  "common": "Golden cap (magic mushroom)",
+  "otherNames": [
+   "Hongo de San Isidro (Mexican Spanish)",
+   "Cogumelo mágico (Portuguese)",
+   "Magic mushroom (English)"
+  ],
+  "kingdom": "Fungi",
+  "form": "Mushroom",
+  "family": "Hymenogastraceae",
+  "shelves": [
+   "psychoactive",
+   "medicinal",
+   "toxic"
+  ],
+  "summary": "A golden-capped, dung-loving mushroom that bruises blue. It is the world's most widely grown psilocybin mushroom. Psilocybin, the compound it carries, is in late-stage clinical trials for depression, and it is illegal to possess in most countries.",
+  "nativeRange": "Pantropical and subtropical; grows on cattle dung in the Americas, Southeast Asia, India and Australia",
+  "regions": [
+   "Central America",
+   "South America",
+   "Caribbean",
+   "North America",
+   "Southeast Asia",
+   "South Asia",
+   "Australia"
+  ],
+  "biomes": [
+   "Tropical pasture",
+   "Subtropical grassland"
+  ],
+  "abilities": [
+   "Produces psilocybin, which the body converts to psilocin, a serotonin 5-HT2A receptor agonist",
+   "Bruises blue-black from oxidised and polymerised psilocin",
+   "Grows on the dung of cattle and water buffalo, which spread its spores",
+   "Its spores survive passage through a cow's gut"
+  ],
+  "edibility": "toxic",
+  "edibleParts": [],
+  "edibilityNote": "Not a food. It causes strong hallucinations, anxiety and panic, raised heart rate and impaired judgement, which can lead to dangerous accidents. It is controlled by law in most countries. Foragers have died after mistaking deadly amatoxin-containing Galerina marginata or Pholiotina rugosa (P. filaris) for Psilocybe; non-psychoactive Panaeolus and Agrocybe also grow on dung.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Mazatec ceremony (Oaxaca, Mexico)",
+     "use": "Psilocybe mushrooms (traditionally other species, e.g. P. mexicana and P. caerulescens) used in velada healing rituals"
+    },
+    {
+     "tradition": "Modern clinical psychiatry",
+     "use": "Synthetic psilocybin with psychological support, trialled for treatment-resistant depression, end-of-life distress and addiction"
+    }
+   ],
+   "compounds": [
+    "psilocybin",
+    "psilocin",
+    "baeocystin",
+    "norbaeocystin"
+   ],
+   "evidence": "moderate",
+   "cautions": "Can trigger psychosis in people with a personal or family history of psychotic disorders. Dangerous with lithium (seizures reported) and with some other drugs. Clinical trials use measured synthetic psilocybin in supervised settings. Possession is illegal in most jurisdictions."
+  },
+  "seed": {
+   "description": "Spore print dark purple-brown to purple-black; spores ellipsoid to subellipsoid, thick-walled with a germ pore, about 11–17 × 7–12 µm",
+   "dispersal": "Wind; also passes through grazing animals and lands in dung"
+  },
+  "lore": "R. Gordon Wasson's 1957 Life magazine article 'Seeking the Magic Mushroom', about the Mazatec curandera María Sabina, introduced psilocybin mushrooms to the West. Albert Hofmann isolated psilocybin in 1958. P. cubensis itself was first described from Cuba in 1906, as Stropharia cubensis.",
+  "historicalNames": [
+   "Stropharia cubensis",
+   "Teonanácatl"
+  ],
+  "funFact": "'Teonanácatl', the Nahuatl name recorded by 16th-century Spanish friars, is often translated 'flesh of the gods'."
+ },
+ {
+  "slug": "claviceps-purpurea",
+  "scientific": "Claviceps purpurea",
+  "common": "Ergot",
+  "otherNames": [
+   "Mutterkorn (German)",
+   "Seigle ergoté (French)",
+   "Cornezuelo del centeno (Spanish)",
+   "Sporynya (Russian)",
+   "Sporysz (Polish)"
+  ],
+  "kingdom": "Fungi",
+  "form": "Sclerotium (grain parasite)",
+  "family": "Clavicipitaceae",
+  "shelves": [
+   "toxic",
+   "deadly",
+   "medicinal",
+   "psychoactive"
+  ],
+  "summary": "A parasite of rye and other grasses that replaces grain with a hard, purple-black, horn-like sclerotium full of alkaloids. Contaminated bread caused mass poisoning in medieval Europe. The same alkaloids gave medicine drugs for childbirth and migraine, and gave chemistry LSD.",
+  "nativeRange": "Worldwide in temperate grasses and cereals; especially rye in Europe",
+  "regions": [
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Grassland",
+   "Farmland"
+  ],
+  "abilities": [
+   "Infects grass flowers and replaces the ovary with a sclerotium (the 'ergot')",
+   "Exudes sticky, sugary 'honeydew' full of conidia that insects carry to new flowers",
+   "Produces ergot alkaloids (ergotamine, ergometrine, lysergic acid derivatives) that constrict blood vessels and act on serotonin and dopamine receptors",
+   "Sclerotia overwinter in soil and sprout tiny drumstick-like stromata in spring"
+  ],
+  "edibility": "deadly",
+  "edibleParts": [],
+  "edibilityNote": "Deadly. Ergotism takes two forms: gangrenous (burning limbs that blacken and drop off) and convulsive (seizures, hallucinations). Grain is screened to remove sclerotia, and modern regulations set limits for ergot in flour.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "European midwifery (16th–19th c.)",
+     "use": "'Pulvis parturiens' given to speed labour; later used against haemorrhage after birth"
+    },
+    {
+     "tradition": "Modern pharmacology",
+     "use": "Ergometrine/methylergometrine for postpartum haemorrhage; ergotamine and dihydroergotamine for migraine"
+    }
+   ],
+   "compounds": [
+    "ergotamine",
+    "ergometrine (ergonovine)",
+    "ergocristine",
+    "lysergic acid"
+   ],
+   "evidence": "strong",
+   "cautions": "Raw ergot is lethal; only standardised pharmaceutical drugs are safe. Ergot drugs are dangerous with HIV protease inhibitors, macrolide antibiotics and triptans, and in pregnancy outside obstetric use."
+  },
+  "seed": {
+   "description": "Ascospores (not seeds) thread-like (filiform), about 50–76 × 0.6–0.7 µm, from flask-shaped perithecia in purple stromata; asexual conidia in sugary honeydew",
+   "dispersal": "Ascospores shot into the air in spring; conidia spread by insects attracted to honeydew and by rain splash"
+  },
+  "lore": "Medieval Europe called ergotism 'St Anthony's Fire', and the Antonite monks ran hospitals for victims. Albert Hofmann first synthesised LSD from ergot's lysergic acid at Sandoz in 1938. In 1976, Linnda Caporael proposed (controversially) that ergotism lay behind the Salem witch trials.",
+  "historicalNames": [
+   "Secale cornutum",
+   "Ignis sacer",
+   "Mutterkorn",
+   "Spurred rye"
+  ],
+  "funFact": "One of the last major outbreaks was in Pont-Saint-Esprit, France, in 1951, though its cause is still debated."
+ },
+ {
+  "slug": "mycena-chlorophos",
+  "scientific": "Mycena chlorophos",
+  "common": "Glowing bonnet",
+  "otherNames": [
+   "Yakōtake 夜光茸 (Japanese)",
+   "Ghost mushroom (English, loosely)"
+  ],
+  "kingdom": "Fungi",
+  "form": "Mushroom",
+  "family": "Mycenaceae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "A tiny, pale bonnet mushroom of subtropical forests whose cap and gills glow eerie green in the dark. On Japan's Hachijō-jima it lights the forest floor after summer rain.",
+  "nativeRange": "Subtropical and tropical Asia (Japan, Taiwan, Indonesia, Malaysia), Pacific islands, Australia, and Brazil",
+  "regions": [
+   "East Asia",
+   "Southeast Asia",
+   "Oceania",
+   "Australia",
+   "South America"
+  ],
+  "biomes": [
+   "Subtropical forest",
+   "Tropical rainforest"
+  ],
+  "abilities": [
+   "Bioluminescent: the oxygen-dependent luciferin–luciferase reaction (fungal luciferin is 3-hydroxyhispidin) gives off green light near 520 nm",
+   "Glows most strongly at about 27 °C and stops glowing in cold or dry conditions",
+   "Decomposes fallen twigs, bark and palm debris",
+   "The caps are only about 1–3 cm across"
+  ],
+  "edibility": "not-edible",
+  "edibleParts": [],
+  "edibilityNote": "Not eaten; too small and its edibility is unknown. Many small Mycena species contain toxins.",
+  "seed": {
+   "description": "Spore print white; spores ellipsoid, smooth, amyloid, about 7–9 × 5–6 µm",
+   "dispersal": "Wind-borne basidiospores; glowing may attract insects that spread spores"
+  },
+  "lore": "Hachijō-jima, south of Tokyo, has made its glowing yakōtake a tourist attraction. Researchers there cultivate them to study the fungal light reaction.",
+  "historicalNames": [
+   "Agaricus chlorophos"
+  ],
+  "funFact": "The fungal luciferin pathway was mapped in 2018. Its genes have since been used to make plants that glow on their own."
+ },
+ {
+  "slug": "phallus-impudicus",
+  "scientific": "Phallus impudicus",
+  "common": "Common stinkhorn",
+  "otherNames": [
+   "Gemeine Stinkmorchel (German)",
+   "Satyre puant (French)",
+   "Witch's egg (English, egg stage)",
+   "Sromotnik bezwstydny (Polish)"
+  ],
+  "kingdom": "Fungi",
+  "form": "Mushroom",
+  "family": "Phallaceae",
+  "shelves": [
+   "edible",
+   "toxic",
+   "marvel"
+  ],
+  "summary": "It bursts from a jelly-filled 'witch's egg' into an unmistakably phallic white stalk capped with olive-green slime that smells of carrion. Flies carry off its spores, and the stalk can grow about 10–15 cm in a few hours.",
+  "nativeRange": "Europe and parts of Asia and North America; mainly in woodland and gardens",
+  "regions": [
+   "Europe",
+   "West Asia",
+   "North America"
+  ],
+  "biomes": [
+   "Temperate forest",
+   "Gardens",
+   "Woodland"
+  ],
+  "abilities": [
+   "Grows one of the fastest of any fungal structures, inflating its spongy stalk by water pressure",
+   "Its foul smell can be detected from many metres away and attracts flies",
+   "Flies eat the spore slime (gleba) and spread the spores in their droppings",
+   "Decomposes buried wood and leaf litter"
+  ],
+  "edibility": "edible-with-care",
+  "edibleParts": [
+   "inner layer of the 'egg' stage (raw or cooked)"
+  ],
+  "edibilityNote": "The immature 'egg' is eaten in parts of Europe (e.g. Germany and France), sliced raw or fried. Deadly lookalike: the egg-like buttons of Amanita species, including the death cap. Always cut eggs vertically: a stinkhorn shows jelly and a coiled white stalk, an Amanita shows gills and a cap outline. The mature stinkhorn is not eaten.",
+  "seed": {
+   "description": "Spores (not seeds) in a slimy olive-green gleba; spores ellipsoid, smooth, about 3–5 × 1.5–2 µm",
+   "dispersal": "Flies attracted by the carrion smell eat the slime and spread the spores"
+  },
+  "lore": "Gwen Raverat's memoir 'Period Piece' (1952) recalls her aunt Etty, Charles Darwin's daughter, hunting stinkhorns in the woods. She burned them in secret 'for the sake of the maids' morals'.",
+  "historicalNames": [
+   "Fungus phalloides",
+   "Phallus hadriani",
+   "Boletus phalloides"
+  ],
+  "funFact": "Its genus name Phallus and species name 'impudicus' ('shameless') were given by Linnaeus in 1753."
+ },
+ {
+  "slug": "calvatia-gigantea",
+  "scientific": "Calvatia gigantea",
+  "common": "Giant puffball",
+  "otherNames": [
+   "Riesenbovist (German)",
+   "Vesse-de-loup géante (French)",
+   "Pedo de lobo gigante (Spanish)"
+  ],
+  "kingdom": "Fungi",
+  "form": "Mushroom",
+  "family": "Lycoperdaceae",
+  "shelves": [
+   "edible",
+   "medicinal",
+   "marvel"
+  ],
+  "summary": "A white football (or larger) in a summer meadow, made of a brainless, gill-less sphere of spore-making tissue. One puffball can produce trillions of spores. Sliced while pure white inside, it fries like a mushroom steak.",
+  "nativeRange": "Temperate Northern Hemisphere: Europe and North America, also parts of Asia",
+  "regions": [
+   "Europe",
+   "North America",
+   "West Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Temperate grassland",
+   "Meadows",
+   "Woodland edges",
+   "Gardens"
+  ],
+  "abilities": [
+   "Can reach 20–80 cm across, and occasionally more",
+   "A single large fruiting body produces several trillion spores",
+   "Its outer skin cracks away when mature, letting wind and rain release the olive-brown spore powder",
+   "Grows in rich, nitrogen-heavy soil such as pasture and hedgerows"
+  ],
+  "edibility": "edible-with-care",
+  "edibleParts": [
+   "young fruiting body, pure white throughout (cooked)"
+  ],
+  "edibilityNote": "Edible only when young, with firm, pure-white interior like marshmallow, and cooked. Discard any with yellow, olive or brown flesh. Deadly lookalikes: the egg-stage buttons of Amanita species, including the death cap and destroying angels. Always slice top to bottom: any outline of a cap, gills or stem means it is not a puffball. Also avoid earthballs (Scleroderma), which have a thick rind and purple-black interior and are poisonous.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "European and North American Indigenous folk medicine",
+     "use": "Dried spore mass or slices placed on wounds and nosebleeds to stop bleeding"
+    }
+   ],
+   "compounds": [
+    "calvacin (an antitumour protein studied in the 1960s)"
+   ],
+   "evidence": "traditional",
+   "cautions": "Inhaling large amounts of spores can cause lycoperdonosis, a serious lung inflammation. Calvacin research stopped because of toxicity."
+  },
+  "seed": {
+   "description": "Spore mass olive-brown; spores globose, minutely warty, about 3.5–5.5 µm",
+   "dispersal": "Wind and rain as the outer skin cracks open"
+  },
+  "lore": "European herdsmen and North American Indigenous peoples used dried puffballs as tinder, as wound dressings and to stupefy bees when collecting honey.",
+  "historicalNames": [
+   "Lycoperdon giganteum",
+   "Bovista",
+   "Crepitus lupi",
+   "Fungus ovatus"
+  ],
+  "funFact": "Lycoperdon, the old genus name for puffballs, means 'wolf fart', after the dusty puff of spores."
+ },
+ {
+  "slug": "penicillium-rubens",
+  "scientific": "Penicillium rubens",
+  "common": "Fleming's penicillin mould",
+  "otherNames": [
+   "Pinselschimmel (German, genus)",
+   "Penicillin mould (English)",
+   "Qingmei 青霉 (Chinese, genus)"
+  ],
+  "kingdom": "Fungi",
+  "form": "Mould",
+  "family": "Aspergillaceae",
+  "shelves": [
+   "medicinal",
+   "marvel"
+  ],
+  "summary": "The blue-green mould whose accidental growth on a Staphylococcus plate at St Mary's Hospital, London, in 1928 led Alexander Fleming to penicillin. DNA work in 2011 showed both Fleming's isolate and the high-yield industrial strain belong to P. rubens, not P. notatum or P. chrysogenum as long thought.",
+  "nativeRange": "Cosmopolitan in soil, indoor air, damp buildings and decaying food",
+  "regions": [
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Soil",
+   "Indoor environments",
+   "Decaying organic matter"
+  ],
+  "abilities": [
+   "Secretes penicillin, a β-lactam that blocks bacterial cell-wall construction",
+   "Its brush-shaped conidiophores ('penicillus' = little paintbrush) release dry chains of airborne spores",
+   "A common indoor mould on damp walls, bread and fruit",
+   "Industrial strains descended from a 1943 isolate from a mouldy cantaloupe in Peoria, Illinois, produce thousands of times more penicillin than Fleming's original"
+  ],
+  "edibility": "not-edible",
+  "edibleParts": [],
+  "edibilityNote": "Not eaten. Mouldy food should be discarded. Related food moulds (P. roqueforti, P. camemberti) are used deliberately in cheese. Spores can trigger allergies and asthma.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Modern medicine",
+     "use": "Source of penicillin, the first widely used antibiotic, which transformed the treatment of bacterial infections"
+    }
+   ],
+   "compounds": [
+    "penicillin G (benzylpenicillin)",
+    "penicillin V"
+   ],
+   "evidence": "strong",
+   "cautions": "Penicillin allergy (rashes to anaphylaxis) affects a small percentage of people. Bacterial resistance results from overuse. The mould itself is an allergen, not a medicine."
+  },
+  "seed": {
+   "description": "Conidia (asexual spores) blue-green en masse, globose to subglobose, smooth, about 2.5–3.5 µm, in dry chains from brush-like conidiophores",
+   "dispersal": "Airborne conidia, abundant in indoor and outdoor air"
+  },
+  "lore": "Howard Florey and Ernst Chain turned Fleming's observation into a drug at Oxford in 1940–41, and the three shared the 1945 Nobel Prize. Mass production in the US in time for D-Day in 1944 saved many thousands of wounded soldiers.",
+  "historicalNames": [
+   "Penicillium notatum",
+   "Penicillium chrysogenum (in part)"
+  ],
+  "funFact": "Mary Hunt, a lab assistant nicknamed 'Mouldy Mary', found the super-producing strain on a rotting cantaloupe in a Peoria market."
+ },
+ {
+  "slug": "saccharomyces-cerevisiae",
+  "scientific": "Saccharomyces cerevisiae",
+  "common": "Baker's and brewer's yeast",
+  "otherNames": [
+   "Khamir (Hindi/Urdu)",
+   "Khamira (Arabic/Persian, 'leaven')",
+   "Jiaomu 酵母 (Chinese)",
+   "Hefe (German)",
+   "Levure (French)"
+  ],
+  "kingdom": "Fungi",
+  "form": "Yeast",
+  "family": "Saccharomycetaceae",
+  "shelves": [
+   "edible",
+   "medicinal",
+   "staple",
+   "marvel"
+  ],
+  "summary": "A single-celled fungus behind bread, beer and wine for at least 5,000 years. It was the first eukaryote to have its genome fully sequenced (1996), and it is still one of biology's most important model organisms.",
+  "nativeRange": "Wild ancestors in East Asia (oak bark and fruit); now cosmopolitan through domestication",
+  "regions": [
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Fruit surfaces",
+   "Tree bark",
+   "Human fermentation"
+  ],
+  "abilities": [
+   "Ferments sugars to ethanol and carbon dioxide even when oxygen is present (the Crabtree effect)",
+   "Reproduces by budding, about every 90 minutes in rich medium",
+   "Shares thousands of genes with humans; many human genes can replace their missing yeast counterparts",
+   "Under starvation, forms four hardy spores in an ascus (a tetrad)"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "whole cells (in bread, beer; inactivated as nutritional yeast)"
+  ],
+  "edibilityNote": "Safe and eaten worldwide. Live yeast can cause bloating. The probiotic variety S. cerevisiae var. boulardii has very rarely caused bloodstream infections in seriously ill patients with central lines.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Modern medicine",
+     "use": "S. cerevisiae var. boulardii (Saccharomyces boulardii) probiotic for antibiotic-associated and infectious diarrhoea"
+    },
+    {
+     "tradition": "Biotechnology",
+     "use": "Engineered strains produce insulin, hepatitis B vaccine antigen and artemisinic acid"
+    },
+    {
+     "tradition": "Folk nutrition",
+     "use": "Brewer's yeast taken as a B-vitamin and chromium supplement"
+    }
+   ],
+   "compounds": [
+    "B vitamins",
+    "β-glucans",
+    "glutathione"
+   ],
+   "evidence": "moderate",
+   "cautions": "Avoid probiotic yeast in immunocompromised people and patients with central venous catheters (risk of fungaemia). Brewer's yeast can interact with MAO inhibitors (tyramine)."
+  },
+  "seed": {
+   "description": "Ascospores, four per ascus (a tetrad), round, about 3–5 µm; cells ovoid, about 5–10 µm. No mushroom or spore print",
+   "dispersal": "Carried by insects (wasps and fruit flies) between fruits and trees, and by people through fermentation"
+  },
+  "grow": {
+   "climates": [
+    "Any (indoors)"
+   ],
+   "sun": "Not needed",
+   "water": "Moist dough or liquid",
+   "soil": "Flour-and-water or sugary liquid (wort, must)",
+   "propagation": "A pinch of dried yeast or a portion of active starter",
+   "timeToHarvest": "Hours (bread rise) to weeks (beer, wine)",
+   "steps": [
+    "Dissolve yeast in lukewarm water (about 30–35 °C; above about 50 °C kills it)",
+    "Mix into flour or sugary liquid; for wild leaven, keep a flour-and-water starter and feed it daily",
+    "Keep at about 24–30 °C for bread, or 15–22 °C for most ales and wines",
+    "Bubbles and rising show active fermentation; bake, or bottle when fermentation ends"
+   ]
+  },
+  "lore": "Residue in pottery from Jiahu, China (about 7000 BCE) shows fermented rice-honey-fruit drinks. Ancient Egyptian bakers and brewers worked side by side. Louis Pasteur proved in 1857–60 that living yeast cells cause fermentation.",
+  "historicalNames": [
+   "Fermentum",
+   "Barm",
+   "Leaven",
+   "Faex cerevisiae"
+  ],
+  "funFact": "Leland Hartwell's 'cell division cycle' (cdc) mutants in this yeast helped win the 2001 Nobel Prize for discovering how cells control division, a mechanism shared with human cells."
+ },
+ {
+  "slug": "ophiocordyceps-unilateralis",
+  "scientific": "Ophiocordyceps unilateralis",
+  "common": "Zombie-ant fungus",
+  "otherNames": [
+   "Zombie-ant fungus (English)"
+  ],
+  "kingdom": "Fungi",
+  "form": "Entomopathogenic fungus",
+  "family": "Ophiocordycipitaceae",
+  "shelves": [
+   "marvel",
+   "ancient"
+  ],
+  "summary": "A parasite of carpenter ants that takes over its host's behaviour. The infected ant leaves the colony, climbs a plant and bites into the underside of a leaf vein in a 'death grip'. A stalk then grows from the back of its head and rains spores onto the ant trail below.",
+  "nativeRange": "Tropical forests worldwide (a complex of many host-specific species), especially Thailand, Brazil, Ghana, Australia",
+  "regions": [
+   "Southeast Asia",
+   "South America",
+   "Central America",
+   "Sub-Saharan Africa",
+   "Australia"
+  ],
+  "biomes": [
+   "Tropical rainforest"
+  ],
+  "abilities": [
+   "Manipulates Camponotus ants to climb to about 25 cm above the forest floor, where humidity and temperature suit fungal growth",
+   "Infected ants bite leaf veins in a synchronised way, often around solar noon",
+   "Each cryptic species in the complex specialises on one ant species",
+   "Bite-mark scars on 48-million-year-old fossil leaves from Messel, Germany, suggest the behaviour is ancient"
+  ],
+  "edibility": "not-edible",
+  "edibleParts": [],
+  "edibilityNote": "Not eaten.",
+  "seed": {
+   "description": "Ascospores (not seeds) long and multiseptate, produced in perithecia on a cushion partway up the stalk; they can germinate into secondary 'capilliconidia' on hair-like stalks that stick to passing ants",
+   "dispersal": "Spores shot or dropped from the dead ant onto the forest floor, where foraging ants pick them up"
+  },
+  "lore": "The Tulasne brothers described it in 1865 as Torrubia unilateralis. The fungus inspired the infection in the video game and TV series 'The Last of Us'.",
+  "historicalNames": [
+   "Torrubia unilateralis",
+   "Cordyceps unilateralis"
+  ],
+  "funFact": "A 2017 study found that fungal cells form a connected network through the ant's body and jaw muscles but leave its brain largely untouched. The fungus works the body like a puppet."
+ },
+ {
+  "slug": "flammulina-velutipes",
+  "scientific": "Flammulina velutipes",
+  "common": "Velvet shank (enoki)",
+  "otherNames": [
+   "Enokitake (Japanese)",
+   "Jin zhen gu 金针菇 (Chinese)",
+   "Paengi beoseot (Korean)",
+   "Samtfußrübling (German)",
+   "Collybie à pied velouté (French)"
+  ],
+  "kingdom": "Fungi",
+  "form": "Mushroom",
+  "family": "Physalacriaceae",
+  "shelves": [
+   "edible",
+   "toxic"
+  ],
+  "summary": "In the wild, this winter mushroom has sticky orange-brown caps on velvety dark stems and survives being frozen solid. Grown in the dark under high CO₂, the same fungus becomes enoki: long, pale noodle-like stems sold in Asian markets.",
+  "nativeRange": "Temperate Northern Hemisphere: Europe, Asia and North America; cultivated mainly in East Asia",
+  "regions": [
+   "Europe",
+   "North America",
+   "East Asia",
+   "Central Asia"
+  ],
+  "biomes": [
+   "Temperate forest",
+   "Riparian woodland",
+   "Hedgerows"
+  ],
+  "abilities": [
+   "Fruits through winter and resumes growth after being frozen and thawed",
+   "A white-rot decomposer of dead and dying hardwood (elm, willow, ash, gorse)",
+   "Cultivated forms have long white stems because darkness and high CO₂ stretch the stalk",
+   "Contains flammutoxin, a pore-forming protein that is destroyed by cooking"
+  ],
+  "edibility": "edible-with-care",
+  "edibleParts": [
+   "caps and stems (thoroughly cooked)"
+  ],
+  "edibilityNote": "Edible but always cook enoki well. It contains heat-sensitive flammutoxin, and packaged enoki has caused deadly Listeria outbreaks (e.g. US 2016–2020) when eaten raw. Deadly wild lookalike: Galerina marginata (funeral bell), a brown wood-rotting mushroom with amatoxins that grows in the same habitats in autumn and early winter. Galerina has a rusty-brown spore print and often a ring; velvet shank has a white spore print, a velvety dark stem base and no ring. Sulphur tuft (Hypholoma fasciculare) is also confused with it.",
+  "seed": {
+   "description": "Spore print white; spores ellipsoid to cylindrical, smooth, about 6.5–9 × 3–4 µm",
+   "dispersal": "Wind-borne basidiospores"
+  },
+  "grow": {
+   "climates": [
+    "Cool temperate (indoors)"
+   ],
+   "sun": "Darkness (for white enoki) or low light",
+   "water": "Humidity 80–90%",
+   "soil": "Supplemented hardwood sawdust or corncob with rice bran, in bottles",
+   "propagation": "Grain or liquid spawn",
+   "timeToHarvest": "About 6–8 weeks",
+   "steps": [
+    "Pack sterilised sawdust-bran mix into wide-mouthed bottles and inoculate with spawn",
+    "Incubate at 18–22 °C for 3–4 weeks until fully colonised",
+    "Scrape the surface and chill to 10–14 °C to induce pinning",
+    "Wrap a paper or plastic collar around the bottle neck and keep in darkness with high CO₂ so stems grow long and pale",
+    "Harvest the bundle when stems are 12–15 cm and cook before eating"
+   ]
+  },
+  "lore": "Enokitake is named after the enoki tree (Celtis sinensis) on whose stumps it grows wild in Japan. Bottle cultivation of white enoki began in Nagano Prefecture, still Japan's main producer.",
+  "historicalNames": [
+   "Agaricus velutipes",
+   "Collybia velutipes"
+  ],
+  "funFact": "The Chinese name jin zhen gu means 'golden needle mushroom', after its thin stems."
+ },
+ {
+  "slug": "grifola-frondosa",
+  "scientific": "Grifola frondosa",
+  "common": "Maitake (hen-of-the-woods)",
+  "otherNames": [
+   "Maitake 舞茸 (Japanese, 'dancing mushroom')",
+   "Hui shu hua 灰树花 (Chinese)",
+   "Klapperschwamm (German)",
+   "Hen of the woods (English)",
+   "Ram's head (English)"
+  ],
+  "kingdom": "Fungi",
+  "form": "Mushroom",
+  "family": "Grifolaceae",
+  "shelves": [
+   "edible",
+   "medicinal"
+  ],
+  "summary": "A frilly grey-brown rosette of overlapping fronds at the base of old oaks, sometimes weighing over 20 kg. In Japan it was said to be so valuable that finders danced for joy, hence 'maitake', the dancing mushroom.",
+  "nativeRange": "Temperate Northern Hemisphere: Japan, China, Europe and eastern North America",
+  "regions": [
+   "East Asia",
+   "Europe",
+   "North America"
+  ],
+  "biomes": [
+   "Temperate forest",
+   "Oak woodland"
+  ],
+  "abilities": [
+   "A parasite and decomposer of oak roots and heartwood (white rot), returning to the same tree for years",
+   "Grows from an underground tuber-like sclerotium",
+   "Rich in β-glucans, including the 'D-fraction' studied for immune effects"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "fronds (cooked)"
+  ],
+  "edibilityNote": "Choice edible when cooked. Lookalikes are not deadly: black-staining polypore (Meripilus sumstinei/giganteus, edible but tougher and bruises black) and Berkeley's polypore (Bondarzewia berkeleyi, edible but bitter). Beginners should check that the underside has pores, not gills. Some people react to large servings, and it may lower blood sugar.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Japanese and Chinese folk medicine",
+     "use": "Eaten as a tonic and to support digestion"
+    },
+    {
+     "tradition": "Modern integrative oncology",
+     "use": "Maitake D-fraction extracts trialled for immune modulation in cancer patients"
+    }
+   ],
+   "compounds": [
+    "β-glucans (D-fraction, MD-fraction)",
+    "ergosterol"
+   ],
+   "evidence": "traditional",
+   "cautions": "May lower blood sugar and blood pressure; take care with diabetes or blood-pressure medicines and with warfarin. Human trials are small and early-phase."
+  },
+  "seed": {
+   "description": "Spore print white; spores broadly ellipsoid to ovoid, smooth, about 5–7 × 3.5–5 µm",
+   "dispersal": "Wind-borne basidiospores from tiny pores beneath the fronds"
+  },
+  "grow": {
+   "climates": [
+    "Temperate"
+   ],
+   "sun": "Indirect light",
+   "water": "Humidity 85–95%",
+   "soil": "Supplemented oak sawdust, or short oak logs buried in shaded soil",
+   "propagation": "Sawdust spawn",
+   "timeToHarvest": "Indoor blocks 3–4 months; buried logs fruit from the second autumn",
+   "steps": [
+    "Inoculate sterilised oak sawdust with bran, or short pasteurised oak logs",
+    "Incubate at about 20–24 °C for 6–10 weeks until a firm, browning skin forms",
+    "Chill to about 10–15 °C with high humidity and fresh air to trigger primordia",
+    "Harvest the rosette when the edges of the fronds are still soft"
+   ]
+  },
+  "lore": "Japanese mountain foragers in Tōhoku traditionally kept their maitake spots secret, even from family, until death. Commercial cultivation in Japan began in the 1980s.",
+  "historicalNames": [
+   "Boletus frondosus",
+   "Polyporus frondosus"
+  ],
+  "funFact": "A single maitake can return to the same oak each autumn for decades."
+ },
+ {
+  "slug": "laetiporus-sulphureus",
+  "scientific": "Laetiporus sulphureus",
+  "common": "Chicken of the woods",
+  "otherNames": [
+   "Schwefelporling (German)",
+   "Polypore soufré (French)",
+   "Sulphur shelf (English)",
+   "Żółciak siarkowy (Polish)"
+  ],
+  "kingdom": "Fungi",
+  "form": "Bracket fungus",
+  "family": "Fomitopsidaceae",
+  "shelves": [
+   "edible",
+   "toxic"
+  ],
+  "summary": "Overlapping shelves of brilliant sulphur-yellow and orange on oak, willow and cherry, visible from far across a wood. When young it has a texture so like chicken breast that it is a common meat substitute.",
+  "nativeRange": "Europe and eastern North America in the strict sense; related species replace it in western North America and elsewhere",
+  "regions": [
+   "Europe",
+   "North America",
+   "West Asia"
+  ],
+  "biomes": [
+   "Temperate forest",
+   "Parks and old trees",
+   "Riparian woodland"
+  ],
+  "abilities": [
+   "Causes brown cubical heart rot in living trees, digesting cellulose and leaving lignin",
+   "Can produce brackets totalling over 20 kg from a single tree",
+   "Has no gills; it releases spores from tiny pores on the sulphur-yellow underside"
+  ],
+  "edibility": "edible-with-care",
+  "edibleParts": [
+   "tender outer edges of young brackets (thoroughly cooked)"
+  ],
+  "edibilityNote": "Popular edible but must be well cooked. A minority of people get vomiting, dizziness or swollen lips, even from cooked mushrooms. Avoid specimens growing on yew (Taxus), eucalyptus, locust or conifers, which some foragers report as more likely to cause illness. There is no deadly bracket lookalike, but the toxic jack-o'-lantern (Omphalotus), which has gills and grows in clusters, is sometimes confused with it at a distance. Old brackets are tough and sour.",
+  "seed": {
+   "description": "Spore print white; spores ellipsoid to ovoid, smooth, about 5–7 × 3.5–5 µm",
+   "dispersal": "Wind-borne basidiospores; also spreads by thick-walled asexual chlamydospores"
+  },
+  "lore": "German foresters call it 'Schwefelporling' (sulphur polypore). It is feared in old orchards because its brown rot leaves trunks hollow and brittle.",
+  "historicalNames": [
+   "Boletus sulphureus",
+   "Polyporus sulphureus"
+  ],
+  "funFact": "Rotted heartwood left by this fungus breaks into neat cubes, the classic sign of brown rot."
+ },
+ {
+  "slug": "coprinus-comatus",
+  "scientific": "Coprinus comatus",
+  "common": "Shaggy ink cap (shaggy mane)",
+  "otherNames": [
+   "Ji tui gu 鸡腿菇 (Chinese, 'chicken-leg mushroom')",
+   "Schopf-Tintling (German)",
+   "Coprin chevelu (French)",
+   "Lawyer's wig (English)"
+  ],
+  "kingdom": "Fungi",
+  "form": "Mushroom",
+  "family": "Agaricaceae",
+  "shelves": [
+   "edible",
+   "carnivorous",
+   "marvel"
+  ],
+  "summary": "A tall, shaggy white cylinder that pushes up through lawns and roadsides, sometimes even through asphalt. Within hours of picking it digests itself from the bottom up into black ink. It has also been found to trap and digest nematode worms.",
+  "nativeRange": "Cosmopolitan in temperate regions; Europe, Asia, North America, and introduced elsewhere",
+  "regions": [
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Grassland",
+   "Lawns",
+   "Roadsides",
+   "Disturbed ground"
+  ],
+  "abilities": [
+   "Autodigests (deliquesces) its gills into black, spore-laden ink as the spores mature",
+   "Immobilises and digests nematodes using spiny cell structures and a toxin (first reported in 2004)",
+   "Can push through hard ground and thin tarmac by growth pressure",
+   "Accumulates heavy metals and arsenic from polluted soil"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "young white caps (cooked soon after picking)"
+  ],
+  "edibilityNote": "Good edible when young and white, cooked within a few hours of picking. Lookalikes: the common ink cap (Coprinopsis atramentaria), which contains coprine and causes a severe alcohol reaction (flushing, palpitations, vomiting) if alcohol is drunk with the meal or up to about three days afterwards; and white Amanita and Lepiota species, which have white gills, a volva or ring and white spore prints. Shaggy ink cap gills turn pink then black, and its spore print is black. Avoid collecting it on roadsides or polluted ground.",
+  "seed": {
+   "description": "Spore print black; spores ellipsoid, smooth, with a germ pore, about 10–15 × 6–8.5 µm",
+   "dispersal": "Wind-borne basidiospores shed as the gills liquefy from the cap edge upward"
+  },
+  "grow": {
+   "climates": [
+    "Temperate"
+   ],
+   "sun": "Partial shade",
+   "water": "Keep moist",
+   "soil": "Composted manure, straw-based compost or rich lawn soil",
+   "propagation": "Grain spawn mixed into compost",
+   "timeToHarvest": "About 4–8 weeks after casing",
+   "steps": [
+    "Mix spawn into pasteurised composted manure or straw compost in a tray or outdoor bed",
+    "Incubate at about 22–26 °C until colonised",
+    "Cover with a 2–3 cm 'casing' layer of moist soil",
+    "Fruit at 15–20 °C with high humidity; harvest while caps are tight and white"
+   ]
+  },
+  "lore": "Ink caps (this and the common ink cap) were once boiled down for writing and drawing ink, as their name suggests. Commercial cultivation as 'ji tui gu' in China expanded from the 1980s.",
+  "historicalNames": [
+   "Agaricus comatus",
+   "Agaricus cylindricus"
+  ],
+  "funFact": "Self-digestion is the point: the gills liquefy from the bottom edge up so that each newly exposed layer of spores can drop freely."
+ },
+ {
+  "slug": "auricularia-auricula-judae",
+  "scientific": "Auricularia auricula-judae",
+  "common": "Jelly ear (wood ear)",
+  "otherNames": [
+   "Mu'er 木耳 (Chinese, 'wood ear')",
+   "Kikurage (Japanese)",
+   "Judasohr (German)",
+   "Oreille de Judas (French)",
+   "Mộc nhĩ (Vietnamese)"
+  ],
+  "kingdom": "Fungi",
+  "form": "Jelly fungus",
+  "family": "Auriculariaceae",
+  "shelves": [
+   "edible",
+   "medicinal",
+   "toxic"
+  ],
+  "summary": "A rubbery, ear-shaped brown jelly fungus, mostly on elder in Europe. It dries hard and revives when soaked. The closely related Asian wood ears (A. heimuer, A. cornea) are among the most-eaten mushrooms on Earth.",
+  "nativeRange": "Europe, on elder (Sambucus) and other hardwoods; East Asian 'mu'er' is now treated as A. heimuer",
+  "regions": [
+   "Europe",
+   "West Asia"
+  ],
+  "biomes": [
+   "Temperate forest",
+   "Hedgerows",
+   "Scrub"
+  ],
+  "abilities": [
+   "Survives drying completely and revives within minutes of rain",
+   "Decays dead branches, especially of elder",
+   "Contains compounds that inhibit platelet clumping"
+  ],
+  "edibility": "edible-with-care",
+  "edibleParts": [
+   "whole fruiting body (rehydrated briefly, cooked)"
+  ],
+  "edibilityNote": "Edible and widely eaten cooked, but soak dried wood ear for only a few hours, in the fridge. Wood ear soaked for days at room temperature has caused fatal bongkrekic-acid poisoning from bacterial contamination (Burkholderia gladioli), with deaths reported in China. It thins the blood mildly. There are no deadly lookalikes; other jelly fungi such as witches' butter and Exidia are not dangerous.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Traditional Chinese medicine",
+     "use": "Mu'er taken to 'move blood' and nourish the lungs and stomach"
+    },
+    {
+     "tradition": "European folk medicine",
+     "use": "Boiled in milk for sore throats; used as eye poultices (recorded in early modern herbals)"
+    }
+   ],
+   "compounds": [
+    "polysaccharides (glucans)",
+    "adenosine-like antiplatelet compounds"
+   ],
+   "evidence": "traditional",
+   "cautions": "May increase bleeding with anticoagulants or antiplatelet drugs, and before surgery. Risk of bongkrekic acid poisoning from over-soaked mushrooms."
+  },
+  "seed": {
+   "description": "Spore print white; spores sausage-shaped (allantoid), smooth, about 15–23 × 4–8 µm",
+   "dispersal": "Wind-borne basidiospores from the smooth inner surface"
+  },
+  "grow": {
+   "climates": [
+    "Temperate",
+    "Subtropical"
+   ],
+   "sun": "Shade outdoors; indirect light indoors",
+   "water": "High humidity; tolerates drying between rains",
+   "soil": "Hardwood logs (elder, oak, beech) or supplemented sawdust bags",
+   "propagation": "Plug or sawdust spawn",
+   "timeToHarvest": "Sawdust bags about 2 months; logs 6–12 months",
+   "steps": [
+    "Inoculate fresh hardwood logs with plug spawn, or sterilised sawdust bags with spawn",
+    "Incubate at about 22–28 °C until colonised",
+    "Cut slits in bags (or water logs) and keep humidity high at about 18–28 °C",
+    "Pick ears when fully expanded, then dry them for storage"
+   ]
+  },
+  "lore": "Its name comes from the medieval legend that Judas Iscariot hanged himself from an elder tree, whose ears grew from it after. 'Judas's ear' was garbled to 'Jew's ear' in English. Chinese texts describe growing mu'er on logs from at least the Tang dynasty (7th century CE).",
+  "historicalNames": [
+   "Auricula Judae",
+   "Tremella auricula",
+   "Fungus sambucinus",
+   "Jew's ear"
+  ],
+  "funFact": "Dried wood ear can expand to several times its size within an hour of soaking."
+ },
+ {
+  "slug": "cortinarius-rubellus",
+  "scientific": "Cortinarius rubellus",
+  "common": "Deadly webcap",
+  "otherNames": [
+   "Spitzgebuckelter Raukopf (German)",
+   "Deadly webcap (English)"
+  ],
+  "kingdom": "Fungi",
+  "form": "Mushroom",
+  "family": "Cortinariaceae",
+  "shelves": [
+   "toxic",
+   "deadly"
+  ],
+  "summary": "A modest orange-brown mushroom of conifer bogs and mossy forest. It contains orellanine, which destroys the kidneys days or even weeks after a meal, by which time the cause may not be suspected.",
+  "nativeRange": "Northern Europe (especially Scandinavia and Scotland) and parts of North America and Asia, with conifers",
+  "regions": [
+   "Europe",
+   "North America",
+   "Central Asia"
+  ],
+  "biomes": [
+   "Boreal forest",
+   "Conifer forest",
+   "Sphagnum bog"
+  ],
+  "abilities": [
+   "Contains orellanine, a bipyridine toxin that accumulates in the kidneys and causes kidney failure",
+   "Orellanine glows blue-white under UV light, which helps forensic identification",
+   "Forms ectomycorrhizae with spruce and pine",
+   "Its cobweb-like veil (cortina) leaves rusty threads on the stem"
+  ],
+  "edibility": "deadly",
+  "edibleParts": [],
+  "edibilityNote": "Deadly. Symptoms begin 2–20 days after eating, starting with thirst, nausea and back pain, followed by kidney failure. Many survivors need lifelong dialysis or a kidney transplant. Cooking does not destroy orellanine. Victims have mistaken it for ceps (Boletus edulis, which has pores, not gills), chanterelles (Cantharellus, with blunt ridges and a pale spore print), and hallucinogenic Psilocybe. Webcaps have rusty-brown spore prints and true gills.",
+  "seed": {
+   "description": "Spore print rusty brown; spores broadly ellipsoid to subglobose, warty, about 9–12 × 6.5–8.5 µm",
+   "dispersal": "Wind-borne basidiospores"
+  },
+  "lore": "In 2008, Nicholas Evans, author of 'The Horse Whisperer', and three relatives were poisoned in Scotland after mistaking deadly webcaps for ceps. Three of them suffered kidney failure, and Evans received a kidney transplant from his daughter in 2011. The danger of orellanine came to light after a 1952 mass poisoning by the related Cortinarius orellanus in Konin, Poland, which affected 102 people and killed 11; Stanisław Grzymala isolated the toxin in 1962.",
+  "historicalNames": [
+   "Cortinarius speciosissimus",
+   "Cortinarius orellanoides"
+  ],
+  "funFact": "Orellanine's chemical structure was not worked out until 1979, almost three decades after the Konin poisoning revealed the danger."
+ },
+ {
+  "slug": "gyromitra-esculenta",
+  "scientific": "Gyromitra esculenta",
+  "common": "False morel",
+  "otherNames": [
+   "Korvasieni (Finnish)",
+   "Stenmurkla (Swedish)",
+   "Frühjahrs-Lorchel (German)",
+   "Gyromitre (French)",
+   "Brain mushroom (English)"
+  ],
+  "kingdom": "Fungi",
+  "form": "Mushroom",
+  "family": "Discinaceae",
+  "shelves": [
+   "toxic",
+   "deadly"
+  ],
+  "summary": "A brain-like, red-brown spring mushroom of sandy conifer woods. It contains gyromitrin, which the body converts to monomethylhydrazine, a component of rocket fuel. Despite this, Finland sells it with mandatory warnings and parboiling instructions as a traditional delicacy.",
+  "nativeRange": "Europe and North America, mainly in conifer forest on sandy soil",
+  "regions": [
+   "Europe",
+   "North America",
+   "Central Asia"
+  ],
+  "biomes": [
+   "Boreal forest",
+   "Conifer forest",
+   "Clear-cuts and disturbed sandy ground"
+  ],
+  "abilities": [
+   "Contains gyromitrin, which breaks down to the toxin monomethylhydrazine (MMH)",
+   "Fumes from boiling can poison the cook",
+   "Fruits in early spring, at the same time as true morels",
+   "MMH is carcinogenic in animal studies, even in small repeated doses"
+  ],
+  "edibility": "deadly",
+  "edibleParts": [],
+  "edibilityNote": "Deadly when raw and dangerous even when prepared. Gyromitrin causes vomiting and diarrhoea, then liver damage, seizures and death. Finnish practice of boiling twice in fresh water with good ventilation reduces but does not reliably remove the toxin, and cumulative and carcinogenic risks remain. Do not eat. It is commonly mistaken for true morels (Morchella), which have a regular honeycomb of pits and are hollow throughout; the false morel has a brain-like, wrinkled cap and a chambered or cotton-filled interior.",
+  "seed": {
+   "description": "Ascospores (not seeds) ellipsoid, smooth, with two oil droplets, about 17–22 × 7–10 µm, 8 per ascus; spore print whitish",
+   "dispersal": "Ascospores forcibly discharged from the cap surface"
+  },
+  "lore": "In Finland, korvasieni is sold fresh with warning labels and instructions for parboiling. It has also been eaten in parts of Sweden, the Pyrenees and Michigan. Many other European countries ban its sale.",
+  "historicalNames": [
+   "Helvella esculenta",
+   "Lorchel"
+  ],
+  "funFact": "Monomethylhydrazine, its breakdown product, was used as rocket fuel in the Space Shuttle's manoeuvring thrusters."
+ },
+ {
+  "slug": "xanthoria-parietina",
+  "scientific": "Xanthoria parietina",
+  "common": "Common orange lichen",
+  "otherNames": [
+   "Gewöhnliche Gelbflechte (German)",
+   "Parmélie des murailles (French)",
+   "Yellow scale (English)",
+   "Maritime sunburst lichen (English)"
+  ],
+  "kingdom": "Fungi",
+  "form": "Lichen",
+  "family": "Teloschistaceae",
+  "shelves": [
+   "marvel",
+   "medicinal"
+  ],
+  "summary": "Bright yellow-orange rosettes on walls, roofs and tree bark from the sea to the city. It is a partnership of a fungus and a green alga (Trebouxia), coloured by the sunscreen pigment parietin. It thrives where nitrogen pollution kills more sensitive lichens.",
+  "nativeRange": "Europe, North Africa, West Asia; introduced or spreading in North America, Australia and New Zealand",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "North America",
+   "Australia",
+   "Oceania"
+  ],
+  "biomes": [
+   "Coastal rocks",
+   "Urban walls",
+   "Farmland trees",
+   "Temperate forest"
+  ],
+  "abilities": [
+   "A symbiosis of the fungus with the green alga Trebouxia",
+   "Makes parietin, an orange anthraquinone that shields its algae from UV light; in shade it turns greyish-green",
+   "Tolerates and even favours nitrogen-rich air (ammonia from farms and bird droppings), making it a pollution indicator",
+   "Can survive months of drought and revive within minutes of rain"
+  ],
+  "edibility": "not-edible",
+  "edibleParts": [],
+  "edibilityNote": "Not eaten.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Early modern European herbalism (doctrine of signatures)",
+     "use": "Its yellow colour led to its use against jaundice"
+    }
+   ],
+   "compounds": [
+    "parietin (physcion)"
+   ],
+   "evidence": "traditional",
+   "cautions": "No proven medicinal value. Lichens accumulate heavy metals from the air."
+  },
+  "seed": {
+   "description": "Ascospores (not seeds) colourless, two-celled with a thick central wall (polarilocular), about 12–16 × 6–9 µm, from orange cup-shaped apothecia",
+   "dispersal": "Ascospores shot from apothecia must meet a compatible alga to form a new lichen; fragments also spread it"
+  },
+  "lore": "Following the doctrine of signatures, 17th-century herbalists prescribed this yellow lichen for jaundice. Lichenologists since have used its spread on twigs to map farm ammonia pollution.",
+  "historicalNames": [
+   "Lichen parietinus",
+   "Parmelia parietina",
+   "Muscus parietinus"
+  ],
+  "funFact": "A drop of potassium hydroxide turns it deep crimson, a standard field test for lichens containing parietin."
+ },
+ {
+  "slug": "cladonia-rangiferina",
+  "scientific": "Cladonia rangiferina",
+  "common": "Reindeer lichen",
+  "otherNames": [
+   "Yagel (Russian)",
+   "Poronjäkälä (Finnish)",
+   "Renlav (Swedish)",
+   "Caribou moss (English)"
+  ],
+  "kingdom": "Fungi",
+  "form": "Lichen",
+  "family": "Cladoniaceae",
+  "shelves": [
+   "keystone",
+   "edible",
+   "medicinal",
+   "toxic"
+  ],
+  "summary": "A pale grey, finely branched lichen that carpets huge areas of tundra and boreal forest floor. It is the main winter food of reindeer and caribou, which smell it beneath the snow. It grows only a few millimetres a year, so overgrazed carpets take decades to recover.",
+  "nativeRange": "Circumpolar Arctic and boreal regions; also high mountains further south",
+  "regions": [
+   "Arctic",
+   "North America",
+   "Europe",
+   "Central Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Tundra",
+   "Boreal forest",
+   "Heath"
+  ],
+  "abilities": [
+   "Can make up most of the winter diet of reindeer and caribou",
+   "Grows only about 3–5 mm a year",
+   "Produces atranorin and fumarprotocetraric acid; its lichen acids make it hard for most animals to digest",
+   "Survives freezing and drying, reviving when moistened"
+  ],
+  "edibility": "edible-with-care",
+  "edibleParts": [
+   "whole thallus (after leaching and boiling)"
+  ],
+  "edibilityNote": "Famine food for people, eaten only after soaking in water or wood-ash lye and boiling to remove bitter lichen acids. Raw lichen causes stomach upset. Lichens accumulate radioactive fallout and heavy metals; reindeer herders in Scandinavia were affected by Chernobyl caesium in 1986 through lichen.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Indigenous Arctic and Subarctic peoples (e.g. Cree, Dene)",
+     "use": "Decoctions taken for colds, fevers and joint pain"
+    },
+    {
+     "tradition": "Scandinavian folk medicine",
+     "use": "Boiled for coughs and diarrhoea"
+    }
+   ],
+   "compounds": [
+    "atranorin",
+    "fumarprotocetraric acid"
+   ],
+   "evidence": "traditional",
+   "cautions": "Lichen acids irritate the gut when raw. Lichens concentrate heavy metals and radionuclides."
+  },
+  "seed": {
+   "description": "Mainly reproduces by fragments; rarely produces brown apothecia with colourless, one-celled ascospores",
+   "dispersal": "Fragments broken off by trampling animals, wind and water"
+  },
+  "lore": "Sámi reindeer herding has followed the lichen pastures for centuries. Indigenous Arctic peoples ate the half-digested lichen from caribou stomachs. After Chernobyl in 1986, radioactive caesium in lichen-fed reindeer forced Sweden and Norway to cull herds.",
+  "historicalNames": [
+   "Lichen rangiferinus",
+   "Muscus rangiferinus",
+   "Cladina rangiferina"
+  ],
+  "funFact": "Despite the name 'reindeer moss', it is not a moss but a fungus partnered with green algae."
+ },
+ {
+  "slug": "physarum-polycephalum",
+  "scientific": "Physarum polycephalum",
+  "common": "Many-headed slime mould",
+  "otherNames": [
+   "Le blob (French)",
+   "Many-headed slime (English)",
+   "Nenkin 粘菌 (Japanese, slime mould)"
+  ],
+  "kingdom": "Protista",
+  "form": "Slime mould",
+  "family": "Physaraceae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "A brilliant yellow, brainless single cell that can spread across a square metre with millions of nuclei. It finds the shortest path through a maze, and in a 2010 experiment it rebuilt something close to Tokyo's rail network. It is an amoebozoan, not a fungus.",
+  "nativeRange": "Cosmopolitan in cool, moist temperate forests",
+  "regions": [
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Temperate forest",
+   "Decaying wood",
+   "Leaf litter"
+  ],
+  "abilities": [
+   "Solves mazes, finding the shortest route between two food sources (Nakagaki et al., Nature 2000)",
+   "Built transport networks linking oat flakes placed like Tokyo-area cities that matched the real rail system in efficiency (Tero et al., Science 2010)",
+   "Learns to cross bitter substances it once avoided, and can pass this habituation to another cell by fusing",
+   "Its giant single cell (plasmodium) pumps cytoplasm back and forth about every 1–2 minutes",
+   "Has over 700 mating types"
+  ],
+  "edibility": "not-edible",
+  "edibleParts": [],
+  "edibilityNote": "Not eaten.",
+  "seed": {
+   "description": "Spores (not seeds) black-brown, globose, spiny, about 9–11 µm, from stalked sporangia that form when food runs out",
+   "dispersal": "Wind-borne spores; it can also survive drought as a dry, hard sclerotium"
+  },
+  "grow": {
+   "climates": [
+    "Any (indoors)"
+   ],
+   "sun": "Darkness (light triggers sporulation)",
+   "water": "Moist, not wet",
+   "soil": "Damp paper towel or agar in a Petri dish",
+   "propagation": "A piece of dried sclerotium or living plasmodium",
+   "timeToHarvest": "Spreads visibly within a day",
+   "steps": [
+    "Place a dried sclerotium on damp paper towel or 2% agar in a covered dish",
+    "Keep in the dark at about 20–25 °C",
+    "Feed a few rolled oat flakes every day or two; remove mouldy oats",
+    "To make a maze, place oats at the ends and watch it find the route"
+   ]
+  },
+  "lore": "Japanese emperor Hirohito was an amateur slime-mould researcher, like the naturalist Minakata Kumagusu. Paris Zoological Park put 'le blob' on show in 2019, and French astronaut Thomas Pesquet took it to the International Space Station in 2021.",
+  "funFact": "Researchers at Hokkaido University won an Ig Nobel Prize in 2008 and again in 2010 for showing that slime moulds can solve puzzles."
+ }
+]

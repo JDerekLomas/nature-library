@@ -1,0 +1,3266 @@
+[
+ {
+  "slug": "apis-mellifera",
+  "scientific": "Apis mellifera",
+  "common": "Western honey bee",
+  "otherNames": [
+   "Shahad ki makkhi (Urdu/Hindi)",
+   "Nahl (Arabic)",
+   "Abeja melífera (Spanish)",
+   "Mìfēng (Chinese)",
+   "Nyuki (Swahili)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Apidae",
+  "shelves": [
+   "pollinator",
+   "medicinal",
+   "edible",
+   "keystone",
+   "marvel",
+   "sacred"
+  ],
+  "summary": "A social bee living in colonies of tens of thousands, run by a single egg-laying queen and sterile worker daughters. Its foragers tell nestmates where food lies through a coded dance, and its stored nectar became honey, one of humanity's oldest sweeteners.",
+  "nativeRange": "Africa, Europe and Western Asia; introduced worldwide by beekeepers",
+  "regions": [
+   "Europe",
+   "Sub-Saharan Africa",
+   "North Africa",
+   "West Asia",
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Temperate grassland",
+   "Savanna",
+   "Woodland",
+   "Farmland"
+  ],
+  "abilities": [
+   "Waggle dance encodes the direction and distance of food relative to the sun",
+   "Workers fan wings and evaporate water to turn nectar into honey of about 18% moisture",
+   "Colonies hold brood near 35 °C by shivering flight muscles in winter and evaporative cooling in summer",
+   "Swarms choose a new home through a quorum-based scout 'debate'",
+   "Can perceive polarised and ultraviolet light to navigate under cloud",
+   "Produces honey, beeswax, propolis and royal jelly"
+  ],
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Modern wound care",
+     "use": "Medical-grade honey (e.g. Leptospermum/manuka honey dressings) used on burns and wounds"
+    },
+    {
+     "tradition": "Ancient Egyptian medicine",
+     "use": "Honey listed as a wound salve in the Edwin Smith and Ebers papyri"
+    },
+    {
+     "tradition": "Prophetic medicine (Islamic)",
+     "use": "Honey described as 'healing for people' in the Qur'an (Surah An-Nahl 16:69)"
+    },
+    {
+     "tradition": "Folk & apitherapy",
+     "use": "Propolis as an antiseptic resin; bee venom therapy for joint pain"
+    }
+   ],
+   "compounds": [
+    "hydrogen peroxide (glucose oxidase)",
+    "methylglyoxal",
+    "bee defensin-1",
+    "melittin (venom)",
+    "caffeic acid phenethyl ester (propolis)"
+   ],
+   "evidence": "moderate",
+   "cautions": "Never give honey to infants under 12 months (infant botulism). Stings and bee products can cause severe allergic reactions including anaphylaxis; bee venom therapy has caused deaths."
+  },
+  "animal": {
+   "diet": "Nectar and pollen; larvae fed brood food and royal jelly",
+   "habitat": "Tree cavities, rock crevices and managed hives near flowering vegetation",
+   "lifespan": "Workers 5–7 weeks in summer, up to 5 months in winter; queens 2–5 years",
+   "size": "Workers ~12–15 mm; queens ~18–20 mm",
+   "behaviour": "A forager returning from a rich patch performs a figure-eight dance on the vertical comb; the angle of its waggle run from vertical equals the angle of the food from the sun.",
+   "fieldMarks": [
+    "Slim, hairy worker about 12–15 mm, amber-brown to dark with paler abdominal bands",
+    "Two pairs of wings; hind legs carry flattened pollen baskets, often loaded with coloured pollen",
+    "Elbowed antennae; flies straight between flowers and hive",
+    "Workers from one colony visit one flower type per trip"
+   ],
+   "voice": "A steady hum from the wingbeats; a disturbed colony rises to a higher, sharper buzz",
+   "lookalikes": "Hoverflies mimic bees but have only one pair of wings, very short antennae, large eyes and hover in place. Wasps (Vespula) are glossy, nearly hairless and bright yellow-and-black. Bumblebees are larger, rounder and much furrier.",
+   "whereToSee": "Flowering orchards, gardens and meadows almost anywhere people keep bees; colonies also nest wild in tree hollows",
+   "season": "Temperate regions: foraging from early spring to autumn on warm days, clustered in the hive over winter; active all year in the tropics",
+   "order": "Hymenoptera"
+  },
+  "iucn": "DD",
+  "lore": "Honey hunting is painted on Mesolithic rock at the Cuevas de la Araña in Spain (~8,000 years ago), and Egyptian pharaohs used the bee as the hieroglyph for Lower Egypt. Karl von Frisch shared the 1973 Nobel Prize for decoding its dance.",
+  "historicalNames": [
+   "Apis",
+   "Bee",
+   "Honig-Bien",
+   "Abeille"
+  ],
+  "funFact": "To make one kilogram of honey, foragers collectively fly roughly the distance of several trips around the Earth and visit millions of flowers."
+ },
+ {
+  "slug": "danaus-plexippus",
+  "scientific": "Danaus plexippus",
+  "common": "Monarch butterfly",
+  "otherNames": [
+   "Mariposa monarca (Spanish)",
+   "Papillon monarque (French)",
+   "Jiāngbān dié (Chinese)",
+   "Kahuli (Hawaiian, for introduced monarchs)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Nymphalidae",
+  "shelves": [
+   "migrant",
+   "pollinator",
+   "toxic",
+   "marvel"
+  ],
+  "summary": "An orange-and-black butterfly whose eastern North American population flies up to about 4,800 km to winter in a few mountain fir forests in central Mexico. No individual makes the round trip: the journey north is completed over several generations by its descendants.",
+  "nativeRange": "North, Central and South America; established in Australia, New Zealand, Pacific islands, Iberia and the Canaries",
+  "regions": [
+   "North America",
+   "Central America",
+   "South America",
+   "Caribbean",
+   "Oceania",
+   "Australia"
+  ],
+  "biomes": [
+   "Temperate grassland",
+   "Meadow",
+   "Oyamel fir forest (winter)",
+   "Farmland edges"
+  ],
+  "abilities": [
+   "Navigates with a time-compensated sun compass housed in its antennae and brain",
+   "Can sense Earth's magnetic field as a backup compass",
+   "Caterpillars sequester toxic cardenolides from milkweed, making adults distasteful to birds",
+   "The autumn 'super generation' lives up to ~8 months, versus 2–6 weeks for summer generations",
+   "Clusters by the millions on single trees in Mexico's oyamel forests"
+  ],
+  "animal": {
+   "diet": "Larvae eat milkweeds (Asclepias); adults drink nectar",
+   "habitat": "Open fields and meadows with milkweed; overwinters in high-altitude fir forest or coastal Californian groves",
+   "lifespan": "2–6 weeks for summer adults; up to 8 months for migrants",
+   "size": "Wingspan 8.9–10.2 cm",
+   "behaviour": "Migrants enter reproductive diapause, travel south on thermals and tailwinds, and roost in dense clusters that keep them cool but above freezing all winter.",
+   "fieldMarks": [
+    "Large orange butterfly with heavy black veins",
+    "Black wing borders with two rows of white spots",
+    "Males have a small black scent spot on a vein of each hindwing",
+    "Caterpillar banded yellow, black and white, on milkweed"
+   ],
+   "lookalikes": "Viceroy (Limenitis archippus) is smaller and has a black line crossing the hindwing veins. Queen (Danaus gilippus) is darker chestnut with white spots scattered on the forewing and much thinner black veins.",
+   "whereToSee": "Monarch Butterfly Biosphere Reserve in Michoacán, Mexico (El Rosario, Sierra Chincua); Pacific Grove and Pismo Beach groves in California; Point Pelee and Cape May during the autumn migration",
+   "season": "Mexico roosts Nov–Mar; California groves Nov–Feb; breeding across the US and Canada in summer; southward migration Aug–Oct",
+   "order": "Lepidoptera"
+  },
+  "iucn": "LC",
+  "lore": "The Purépecha and Mazahua people of Michoacán long linked the butterflies' arrival in early November with the Day of the Dead and the returning souls of ancestors. Scientists only located the Mexican wintering grounds in 1975, with help from local residents.",
+  "historicalNames": [
+   "Papilio plexippus",
+   "Wanderer",
+   "Milkweed butterfly"
+  ],
+  "funFact": "The migratory North American subspecies was listed as Endangered by the IUCN in 2022, then reassessed as Vulnerable in 2023; the species as a whole is Least Concern."
+ },
+ {
+  "slug": "bombus-terrestris",
+  "scientific": "Bombus terrestris",
+  "common": "Buff-tailed bumblebee",
+  "otherNames": [
+   "Erdhummel (German)",
+   "Bourdon terrestre (French)",
+   "Abejorro (Spanish)",
+   "Xióngfēng (Chinese, bumblebee)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Apidae",
+  "shelves": [
+   "pollinator",
+   "marvel"
+  ],
+  "summary": "A large, furry social bee that can fly in cold weather and is reared commercially to pollinate greenhouse tomatoes. It buzzes flowers at a precise frequency to shake out pollen honey bees cannot reach.",
+  "nativeRange": "Europe, North Africa and Western Asia; introduced to Chile, Argentina, Tasmania, New Zealand and Japan",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "South America",
+   "Oceania",
+   "Australia"
+  ],
+  "biomes": [
+   "Temperate grassland",
+   "Woodland edge",
+   "Gardens",
+   "Farmland"
+  ],
+  "abilities": [
+   "Sonication ('buzz pollination'): vibrates flight muscles to shake pollen from tomato and blueberry flowers",
+   "Warms its thorax above 30 °C by shivering, allowing flight near freezing",
+   "Detects the weak electric field of flowers to tell recently visited blooms",
+   "Learned to pull strings and roll balls for rewards in laboratory experiments",
+   "Leaves scent marks so nestmates skip emptied flowers"
+  ],
+  "animal": {
+   "diet": "Nectar and pollen from a wide range of flowers",
+   "habitat": "Grassland, heath, gardens and farmland; nests underground in old rodent burrows",
+   "lifespan": "Workers a few weeks; queens about a year, including hibernation",
+   "size": "Workers 11–17 mm; queens 20–27 mm",
+   "behaviour": "Queens emerge from hibernation in early spring and found a colony alone, incubating their first brood on a wax pot like a bird on eggs.",
+   "fieldMarks": [
+    "Large, furry bumblebee, black with two dark-yellow bands (one on the collar, one on the abdomen)",
+    "Queens have a buff to off-white tail",
+    "Workers have a white tail, often with a faint buff line where it meets the black",
+    "Collar band is darker, more orange-tinged yellow than in similar species"
+   ],
+   "voice": "A deep, loud buzz; buzz-pollinates some flowers (e.g. tomatoes) with a higher-pitched vibration",
+   "lookalikes": "White-tailed bumblebee (Bombus lucorum) has a cleaner, lemon-yellow collar and bright white tail; workers of the two are hard to separate reliably in the field. Garden bumblebee (B. hortorum) has an extra yellow band at the rear of the thorax and a very long face.",
+   "whereToSee": "Gardens, parks and farmland across Europe; common on lavender, comfrey and winter-flowering shrubs",
+   "season": "Queens emerge Feb–Mar; colonies peak in summer; in southern Britain some colonies stay active through winter on garden flowers",
+   "order": "Hymenoptera"
+  },
+  "iucn": "LC",
+  "lore": "Since the late 1980s Belgian and Dutch breeders have shipped colonies worldwide for greenhouse pollination, replacing hand-vibration of tomato flowers. Its introductions to South America have harmed the native giant bumblebee Bombus dahlbomii.",
+  "historicalNames": [
+   "Humble-bee",
+   "Dumbledore",
+   "Apis terrestris"
+  ],
+  "funFact": "The old myth that 'science says bumblebees can't fly' came from applying fixed-wing aerodynamics; their flapping wings generate lift from unsteady vortices."
+ },
+ {
+  "slug": "attacus-atlas",
+  "scientific": "Attacus atlas",
+  "common": "Atlas moth",
+  "otherNames": [
+   "Kupu-kupu gajah (Malay/Indonesian)",
+   "Shéwěi é (Chinese, 'snake-head moth')",
+   "Ngaa yak (Thai)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Saturniidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "One of the largest moths on Earth, with a wing area of up to about 400 cm². The adult has no working mouth and lives only on fat stored as a caterpillar, dying within one to two weeks.",
+  "nativeRange": "South and Southeast Asia, from India to southern China and Indonesia",
+  "regions": [
+   "South Asia",
+   "Southeast Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Tropical rainforest",
+   "Secondary forest"
+  ],
+  "abilities": [
+   "Forewing tips resemble a cobra's head, possibly deterring predators when the moth drops and flaps",
+   "Males detect female pheromone with large feathery antennae from far away",
+   "Adults survive entirely on larval fat reserves, with vestigial mouthparts",
+   "Caterpillars spray a pungent defensive fluid",
+   "Cocoons are spun from a coarse brown silk"
+  ],
+  "animal": {
+   "diet": "Larvae eat leaves of citrus, cinnamon, guava, soursop and other trees; adults do not feed",
+   "habitat": "Lowland tropical and secondary forests",
+   "lifespan": "Adults 1–2 weeks",
+   "size": "Wingspan up to ~25 cm; females larger",
+   "behaviour": "When disturbed, the moth falls to the ground and slowly flaps, displaying its snake-head wingtips.",
+   "fieldMarks": [
+    "Huge moth with reddish-brown wings banded in white, pink and purple",
+    "A triangular, scale-less translucent 'window' in each wing",
+    "Forewing tips hooked and patterned like a snake's head",
+    "Males have broad feathery antennae; females are larger with thinner antennae"
+   ],
+   "lookalikes": "Attacus taprobanis of southern India and Sri Lanka is very similar and was once treated as a subspecies; other Attacus species are also called 'Atlas moths'. The New World Rothschildia moths look alike but live only in the Americas.",
+   "season": "Adults can appear all year but are most numerous Nov–Jan; each adult lives only one to two weeks",
+   "order": "Lepidoptera"
+  },
+  "iucn": "NE",
+  "lore": "In Taiwan the empty cocoons have been used as small purses, and its coarse silk has been spun experimentally. Its name may refer to the Titan Atlas or to the map-like patterns on its wings.",
+  "historicalNames": [
+   "Phalaena atlas",
+   "Atlas"
+  ],
+  "funFact": "Its Cantonese name means 'snake's head moth', after the wingtip pattern."
+ },
+ {
+  "slug": "photinus-pyralis",
+  "scientific": "Photinus pyralis",
+  "common": "Common eastern firefly",
+  "otherNames": [
+   "Big dipper firefly (English)",
+   "Luciérnaga (Spanish)",
+   "Yínghuǒchóng (Chinese, firefly)",
+   "Lightning bug (American English)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Lampyridae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "North America's most familiar firefly, a beetle that courts with flashes of cold yellow-green light. Males trace a J-shaped 'swoop' as they flash, and females answer from the grass.",
+  "nativeRange": "Eastern and central North America, south to northern South America",
+  "regions": [
+   "North America",
+   "Central America"
+  ],
+  "biomes": [
+   "Meadow",
+   "Lawns",
+   "Woodland edge",
+   "Wetland edge"
+  ],
+  "abilities": [
+   "Produces light through the luciferin–luciferase reaction with very little heat",
+   "Males flash a species-specific timed pattern; females reply after a set delay",
+   "Larvae glow too and hunt snails, slugs and worms",
+   "Contains defensive lucibufagins that make it distasteful to predators"
+  ],
+  "animal": {
+   "diet": "Larvae eat soft-bodied invertebrates; adults eat little or nothing",
+   "habitat": "Open fields, lawns, forest edges and moist ground",
+   "lifespan": "About 1–2 years, mostly as a larva; adults a few weeks",
+   "size": "11–14 mm",
+   "behaviour": "At dusk a male rises while flashing, drawing a J in the air; a receptive female answers with a single flash after about two seconds.",
+   "fieldMarks": [
+    "Flat, soft-bodied beetle 1–1.4 cm long, dark wing covers edged yellow",
+    "Head shield (pronotum) yellow with a black central spot ringed pink or red",
+    "Males have lanterns on the last three abdominal segments; females a small lantern on one segment",
+    "Males fly low in a J-shaped swoop, flashing on the upswing"
+   ],
+   "voice": "Silent; signals with light. The male's yellow flash comes every 5–7 seconds and the female answers from the grass 1–2 seconds later",
+   "lookalikes": "Photuris fireflies are longer and leggier, flash later into the night with different patterns, and females mimic Photinus replies to eat the males. Many other Photinus species differ chiefly in flash rhythm.",
+   "whereToSee": "Lawns, meadows and woodland edges across the eastern and central United States, including suburban yards",
+   "season": "Late spring and summer (mainly Jun–Jul), flashing from dusk for about an hour",
+   "order": "Coleoptera"
+  },
+  "iucn": "LC",
+  "lore": "The firefly luciferase gene, cloned from this species in 1985, became a standard tool in molecular biology for reporting gene activity and detecting ATP. Predatory Photuris 'femme fatale' fireflies mimic its female's reply to lure and eat males.",
+  "historicalNames": [
+   "Lampyris pyralis",
+   "Lightning bug",
+   "Glow-worm"
+  ],
+  "funFact": "Its light reaction gives off almost no heat, and about 40% of reactions produce a photon (Ando et al. 2008) — far lower than the once-quoted ~90%, but still among the most efficient light-producing reactions in nature."
+ },
+ {
+  "slug": "scarabaeus-satyrus",
+  "scientific": "Scarabaeus satyrus",
+  "common": "Dung beetle (South African ball-roller)",
+  "otherNames": [
+   "Miskruier (Afrikaans)",
+   "Kheper (Ancient Egyptian, for scarabs)",
+   "Scarabée (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Scarabaeidae",
+  "shelves": [
+   "marvel",
+   "keystone"
+  ],
+  "summary": "A nocturnal African dung beetle that shapes dung into a ball and rolls it away in a straight line. It is the first animal known to orient by the band of the Milky Way.",
+  "nativeRange": "Southern Africa",
+  "regions": [
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Savanna",
+   "Grassland"
+  ],
+  "abilities": [
+   "Holds a straight course using the light gradient of the Milky Way on moonless nights",
+   "Climbs onto its ball and 'dances' to take a celestial snapshot before rolling",
+   "Buries dung, recycling nutrients and aerating soil",
+   "Reduces fly breeding and parasite loads in grazing land"
+  ],
+  "animal": {
+   "diet": "Dung of herbivores",
+   "habitat": "Open savanna and grassland with large grazing mammals",
+   "size": "About 2–3 cm",
+   "behaviour": "Each beetle races away from the competitive dung pile in a straight line, the quickest way to escape ball thieves.",
+   "fieldMarks": [
+    "Matte black beetle about 2–3 cm long",
+    "Broad, shovel-like head edged with teeth",
+    "Front legs flattened and toothed for digging and shaping dung",
+    "Rolls a dung ball backwards with its hind legs"
+   ],
+   "lookalikes": "Southern Africa has many similar ball-rolling Scarabaeus species; telling them apart needs close examination of the head, legs and body sculpture.",
+   "season": "Active in the southern summer and rainy season, when fresh dung is plentiful",
+   "order": "Coleoptera"
+  },
+  "iucn": "NE",
+  "lore": "Ancient Egyptians saw the ball-rolling scarab as Khepri pushing the sun across the sky, and carved scarab amulets by the thousands. In 2013 Marie Dacke and colleagues showed this species navigates by the Milky Way, testing it in the Johannesburg planetarium.",
+  "historicalNames": [
+   "Scarabaeus",
+   "Kheper",
+   "Pillulary beetle"
+  ],
+  "funFact": "Researchers fitted beetles with tiny cardboard caps to block their view of the sky; capped beetles wandered in circles."
+ },
+ {
+  "slug": "atta-cephalotes",
+  "scientific": "Atta cephalotes",
+  "common": "Leafcutter ant",
+  "otherNames": [
+   "Zompopo (Central American Spanish)",
+   "Saúva (Brazilian Portuguese)",
+   "Bachaco (Venezuelan Spanish)",
+   "Wee-wee ant (Belizean Kriol)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Formicidae",
+  "shelves": [
+   "keystone",
+   "marvel"
+  ],
+  "summary": "A neotropical ant that cuts fresh leaves not to eat but to feed an underground fungus garden it farms. A mature colony can hold millions of workers, among the most complex animal societies outside humans.",
+  "nativeRange": "Mexico through Central America to northern South America and Trinidad",
+  "regions": [
+   "Central America",
+   "South America",
+   "Caribbean"
+  ],
+  "biomes": [
+   "Tropical rainforest",
+   "Tropical dry forest",
+   "Plantations"
+  ],
+  "abilities": [
+   "Cultivates the fungus Leucoagaricus gongylophorus, part of an ant agriculture tens of millions of years old",
+   "Secretes antimicrobial compounds and weeds out parasitic fungi such as Escovopsis to protect its gardens",
+   "Workers come in sizes from tiny gardeners to large soldiers, each with its own task",
+   "Moves enormous volumes of soil, building nests several metres deep",
+   "Clears trails across the forest floor for thousands of foragers"
+  ],
+  "animal": {
+   "diet": "Fungus grown on cut leaves and flowers",
+   "habitat": "Tropical forest and clearings; nests underground",
+   "lifespan": "Queens 10–20 years; workers months",
+   "size": "Workers 2–14 mm; queen ~2.5 cm",
+   "behaviour": "Tiny 'minim' workers often ride on cut leaves, guarding carriers from parasitic flies that try to lay eggs on them.",
+   "fieldMarks": [
+    "Reddish-brown spiny ants in long, cleared trails, carrying leaf pieces held above their heads",
+    "Workers in a single column range from tiny to large, big-headed soldiers",
+    "Three pairs of spines on the thorax",
+    "Huge nest mounds of bare, excavated soil with many entrances"
+   ],
+   "lookalikes": "Acromyrmex leafcutters also carry leaves but have four pairs of spines on the thorax and lack Atta's giant-headed soldiers. Soldiers bite hard; watch trails without handling the ants.",
+   "whereToSee": "Rainforests and clearings of Central America, e.g. La Selva and Corcovado in Costa Rica, Tikal in Guatemala and Barro Colorado Island in Panama",
+   "season": "Resident; trails busiest at night and in the early morning; winged queens fly at the start of the rainy season",
+   "order": "Hymenoptera"
+  },
+  "iucn": "NE",
+  "lore": "Leafcutters are a long-standing farm pest in Latin America, and their winged queens are roasted and eaten in Colombia as 'hormigas culonas'. Darwin's contemporaries were amazed by their trails, and Thomas Belt in 1874 first argued they farmed fungus.",
+  "historicalNames": [
+   "Formica cephalotes",
+   "Parasol ant",
+   "Saúba"
+  ],
+  "funFact": "Neither ant nor fungus can live without the other: the fungus no longer grows in the wild apart from its farmers."
+ },
+ {
+  "slug": "macrotermes-michaelseni",
+  "scientific": "Macrotermes michaelseni",
+  "common": "Mound-building termite",
+  "otherNames": [
+   "Termite mound builder (English)",
+   "Rysmier (Afrikaans, termite)",
+   "Omutundu (Otjiherero, termite mound)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Termitidae",
+  "shelves": [
+   "keystone",
+   "marvel"
+  ],
+  "summary": "A southern African termite whose colonies raise mounds several metres high above an underground nest. The mound acts like a lung, exchanging gases with the outside air while the colony farms fungus inside.",
+  "nativeRange": "Southern and East Africa, including Namibia, Botswana and Kenya",
+  "regions": [
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Savanna",
+   "Semi-arid grassland"
+  ],
+  "abilities": [
+   "Builds tall mounds with tunnel networks that use daily temperature swings to drive airflow",
+   "Farms Termitomyces fungus to digest wood and grass",
+   "Creates nutrient-rich islands that support distinct plants and animals",
+   "Workers sense and repair breaches in the mound wall within hours"
+  ],
+  "animal": {
+   "diet": "Dead grass, wood and leaf litter, digested via fungus gardens",
+   "habitat": "Savanna and dry grassland",
+   "lifespan": "Colonies can persist for decades",
+   "size": "Workers ~5 mm; queen several cm when swollen",
+   "behaviour": "The queen can lay many thousands of eggs a day, attended by workers in a sealed royal chamber.",
+   "fieldMarks": [
+    "Tall earthen mounds with a central chimney, often several metres high",
+    "Small pale workers and larger soldiers with dark heads and strong jaws",
+    "Mounds built of reddish or pale soil matching the local ground"
+   ],
+   "whereToSee": "Savanna of northern and central Namibia, where the mounds have been studied near Otjiwarongo",
+   "season": "Mounds visible all year; winged reproductives swarm after the first heavy summer rains",
+   "order": "Blattodea"
+  },
+  "iucn": "NE",
+  "lore": "J. Scott Turner's studies of this species' mounds in Namibia reshaped ideas of how termite mounds ventilate, and inspired 'biomimetic' building designs. Termitomyces mushrooms that sprout from mounds are a prized food across Africa.",
+  "historicalNames": [
+   "Termes",
+   "White ant"
+  ],
+  "funFact": "The mound itself is not where termites live; it is an air-conditioning structure over the nest below."
+ },
+ {
+  "slug": "anax-junius",
+  "scientific": "Anax junius",
+  "common": "Common green darner",
+  "otherNames": [
+   "Darner (English)",
+   "Libélula verde (Spanish)",
+   "Aeschne précoce (French)",
+   "Mosquito hawk (American folk)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Aeshnidae",
+  "shelves": [
+   "migrant",
+   "marvel"
+  ],
+  "summary": "A large dragonfly of North America whose populations make a multigenerational migration, revealed in 2018 by chemical markers in its wings. Adults hunt other insects in the air with very high success.",
+  "nativeRange": "North America from Canada to Central America and the Caribbean; also Hawaii and parts of East Asia",
+  "regions": [
+   "North America",
+   "Central America",
+   "Caribbean",
+   "East Asia"
+  ],
+  "biomes": [
+   "Ponds",
+   "Marshes",
+   "Meadows"
+  ],
+  "abilities": [
+   "Migrates south each autumn and north each spring over three generations",
+   "Captures flying prey with a high success rate, intercepting rather than chasing",
+   "Has nearly 360° vision from compound eyes",
+   "Aquatic nymphs hunt with a hinged, extendable lower lip"
+  ],
+  "animal": {
+   "diet": "Flying insects; nymphs eat aquatic insects, tadpoles and small fish",
+   "habitat": "Ponds, lakes and slow streams",
+   "lifespan": "Up to about a year, mostly as a nymph",
+   "size": "Length ~7–8 cm; wingspan up to 10 cm",
+   "behaviour": "Pairs often fly in tandem while the female lays eggs into plant stems underwater.",
+   "fieldMarks": [
+    "Large darner with a bright green thorax",
+    "Males have a blue abdomen; females and young males greenish to purplish-brown",
+    "A dark 'bullseye' spot on top of the face in front of the eyes",
+    "Patrols ponds on long, steady beats"
+   ],
+   "lookalikes": "Comet darner (Anax longipes) has a bright red abdomen in males and no bullseye. Giant darner (A. walsinghami) is larger and longer-bodied. Other darners (Aeshna) have striped thoraxes.",
+   "whereToSee": "Ponds and lakes across North America; spectacular autumn migration along coasts, e.g. Cape May Point, New Jersey",
+   "season": "Resident broods breed in summer; migrants arrive in the north in spring and fly south Aug–Oct",
+   "order": "Odonata"
+  },
+  "iucn": "LC",
+  "lore": "It is the state insect of Washington. Hydrogen isotopes in its wings, studied in 2018, revealed a three-generation annual cycle from Canada to Mexico and back.",
+  "historicalNames": [
+   "Libellula junia",
+   "Devil's darning needle"
+  ],
+  "funFact": "Some were fitted with tiny radio transmitters and followed by small aircraft as they migrated."
+ },
+ {
+  "slug": "coccinella-septempunctata",
+  "scientific": "Coccinella septempunctata",
+  "common": "Seven-spot ladybird",
+  "otherNames": [
+   "Mariquita (Spanish)",
+   "Marienkäfer (German)",
+   "Qīxīng piáochóng (Chinese)",
+   "Coccinelle (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Coccinellidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "The classic red ladybird with seven black spots, a voracious predator of aphids. Gardeners welcome it as one of the oldest natural pest controls.",
+  "nativeRange": "Europe, Asia and North Africa; introduced to North America",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "Central Asia",
+   "South Asia",
+   "East Asia",
+   "North America"
+  ],
+  "biomes": [
+   "Meadow",
+   "Farmland",
+   "Gardens",
+   "Woodland edge"
+  ],
+  "abilities": [
+   "A single larva can eat hundreds of aphids before pupating",
+   "Reflex-bleeds bitter, alkaloid-laden yellow fluid from its leg joints when attacked",
+   "Bright warning colours advertise its bad taste",
+   "Overwinters in large aggregations"
+  ],
+  "animal": {
+   "diet": "Aphids and other soft-bodied insects; some pollen",
+   "habitat": "Grassland, crops, gardens and hedgerows",
+   "lifespan": "About one year",
+   "size": "7–8 mm",
+   "behaviour": "Adults cluster in leaf litter or tussocks to hibernate through winter.",
+   "fieldMarks": [
+    "Red domed wing cases with seven black spots (three on each side and one shared at the front)",
+    "Black head shield with a whitish patch in each front corner",
+    "Black legs",
+    "About 7–8 mm long"
+   ],
+   "lookalikes": "Harlequin ladybird (Harmonia axyridis) is larger and very variable, often with an M- or W-shaped mark on a white head shield and brown or orange legs. Two-spot ladybird is smaller with only two spots.",
+   "whereToSee": "Gardens, grassland, crops and hedgerows wherever aphids are plentiful",
+   "season": "Active Mar–Oct; overwinters as an adult in leaf litter and dense vegetation",
+   "order": "Coleoptera"
+  },
+  "iucn": "NE",
+  "lore": "Its English and German names honour the Virgin Mary ('Our Lady's bird', Marienkäfer), whose red cloak and seven sorrows the colours and spots were said to recall. It was released in the USA repeatedly to control aphids, and wild populations were established there by the 1970s.",
+  "historicalNames": [
+   "Our Lady's bird",
+   "Lady-cow",
+   "Coccinella"
+  ],
+  "funFact": "Its seven spots are fixed for life; they do not indicate age, despite the folk belief."
+ },
+ {
+  "slug": "bombyx-mori",
+  "scientific": "Bombyx mori",
+  "common": "Domestic silkmoth",
+  "otherNames": [
+   "Cán (Chinese, 蚕)",
+   "Resham ka keeda (Hindi/Urdu)",
+   "Kaiko (Japanese)",
+   "Dūd al-qazz (Arabic)",
+   "Gusano de seda (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Bombycidae",
+  "shelves": [
+   "dye-fibre",
+   "medicinal",
+   "marvel",
+   "sacred"
+  ],
+  "summary": "A moth so thoroughly domesticated over about 5,000 years that it can no longer survive in the wild: adults cannot fly and caterpillars barely search for food. Each cocoon is spun from a single continuous silk thread up to about 900 m long.",
+  "nativeRange": "Domesticated in China from the wild Bombyx mandarina; now reared in sericulture worldwide",
+  "regions": [
+   "East Asia",
+   "South Asia",
+   "Central Asia",
+   "Southeast Asia",
+   "Europe"
+  ],
+  "biomes": [
+   "Domestic (sericulture houses)"
+  ],
+  "abilities": [
+   "Spins a cocoon from a single filament of fibroin bound by sericin, up to ~900 m long",
+   "Silk is among the strongest natural fibres for its weight",
+   "Adults are flightless and do not feed",
+   "Male detects the pheromone bombykol, the first insect pheromone ever identified (1959)",
+   "Genome engineered to produce spider-silk and medical proteins"
+  ],
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Modern surgery",
+     "use": "Braided silk sutures, used for centuries and still common in surgery"
+    },
+    {
+     "tradition": "Traditional Chinese medicine",
+     "use": "Jiāngcán (僵蚕), larvae killed by the fungus Beauveria bassiana, used for convulsions and sore throat"
+    },
+    {
+     "tradition": "Biomedical research",
+     "use": "Silk fibroin scaffolds for tissue engineering and drug delivery"
+    }
+   ],
+   "compounds": [
+    "fibroin",
+    "sericin",
+    "bombykol"
+   ],
+   "evidence": "strong",
+   "cautions": "Strong evidence applies to silk sutures as a surgical material only; traditional jiangcan use has little clinical evidence. Silkworm pupae and sericin can cause allergies."
+  },
+  "animal": {
+   "diet": "Larvae eat mulberry leaves (Morus); adults do not feed",
+   "habitat": "Exists only in human care",
+   "lifespan": "About 6–8 weeks, including ~4 weeks as a caterpillar",
+   "size": "Caterpillar to ~7.5 cm; adult wingspan ~4–5 cm",
+   "behaviour": "A caterpillar spins its cocoon in a figure-eight motion for two to three days, swinging its head hundreds of thousands of times.",
+   "fieldMarks": [
+    "Creamy-white, furry moth with stubby wings, unable to fly",
+    "Feathery antennae",
+    "Pale caterpillar with a small horn at the tail, feeding on mulberry leaves",
+    "Spins a cocoon of a single continuous silk thread"
+   ],
+   "lookalikes": "Its wild ancestor Bombyx mandarina is brown and can fly; the domestic silkmoth exists only in captivity.",
+   "order": "Lepidoptera"
+  },
+  "iucn": "NE",
+  "lore": "Chinese legend credits Leizu, wife of the Yellow Emperor, with discovering silk when a cocoon fell into her tea. China guarded the secret for centuries until, by Procopius's account, monks smuggled eggs to Byzantium in hollow canes around 552 CE.",
+  "historicalNames": [
+   "Bombyx",
+   "Seric worm",
+   "Silk-worm",
+   "Phalaena mori"
+  ],
+  "funFact": "The Silk Road takes its name from this insect's thread, coined by Ferdinand von Richthofen in 1877."
+ },
+ {
+  "slug": "morpho-menelaus",
+  "scientific": "Morpho menelaus",
+  "common": "Menelaus blue morpho",
+  "otherNames": [
+   "Morfo azul (Spanish)",
+   "Borboleta-azul (Portuguese)",
+   "Lán dié (Chinese, blue butterfly)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Nymphalidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "A large rainforest butterfly whose electric blue contains no blue pigment at all. The colour comes from nanoscale ridges on its wing scales that interfere with light.",
+  "nativeRange": "Central America and northern South America, including the Amazon basin",
+  "regions": [
+   "Central America",
+   "South America"
+  ],
+  "biomes": [
+   "Tropical rainforest"
+  ],
+  "abilities": [
+   "Structural colour: Christmas-tree-shaped nanostructures reflect blue light through interference",
+   "The underside is brown with eyespots, so it flashes and vanishes as it flaps",
+   "Scales repel water and are studied for anti-counterfeiting inks and sensors",
+   "Adults ferment-feed on rotting fruit"
+  ],
+  "animal": {
+   "diet": "Larvae eat legumes; adults drink juices of rotting fruit, sap and fungi",
+   "habitat": "Tropical rainforest, especially along streams and clearings",
+   "lifespan": "Adults about 2–3 weeks",
+   "size": "Wingspan 12–15 cm",
+   "behaviour": "Males patrol sunlit river corridors, their flashing wings visible from far away, even from low-flying aircraft.",
+   "fieldMarks": [
+    "Very large butterfly, upperside brilliant iridescent blue edged with black",
+    "Underside brown with rows of eyespots, giving a blue flicker in flight",
+    "Females duller above",
+    "Rises and dips in a slow, flapping flight along streams"
+   ],
+   "season": "Seen all year in the tropics; mostly active in mid-morning sun",
+   "order": "Lepidoptera"
+  },
+  "iucn": "NE",
+  "lore": "Morpho wings were used in 19th- and early-20th-century European jewellery and trays. The genus name recalls Morpho, an epithet of Aphrodite.",
+  "historicalNames": [
+   "Papilio menelaus"
+  ],
+  "funFact": "Drop alcohol on a morpho wing and it turns green until the liquid evaporates, because the gaps in the nanostructure fill with a different medium."
+ },
+ {
+  "slug": "hymenopus-coronatus",
+  "scientific": "Hymenopus coronatus",
+  "common": "Orchid mantis",
+  "otherNames": [
+   "Belalang sembah orkid (Malay)",
+   "Lánhuā tángláng (Chinese)",
+   "Walking flower mantis (English)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Hymenopodidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "A pink-and-white mantis with petal-shaped legs that looks like a flower. It does not hide on orchids but sits in the open and lures pollinating insects to itself.",
+  "nativeRange": "Malaysia, Indonesia, Thailand and nearby Southeast Asia",
+  "regions": [
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Tropical rainforest"
+  ],
+  "abilities": [
+   "Aggressive mimicry of a generic flower that attracts pollinators",
+   "Lured more pollinators than real flowers in field experiments (O'Hanlon et al. 2014)",
+   "To bee and fly eyes its colour is hard to distinguish from real flowers",
+   "Can shift colour slightly between pink and white"
+  ],
+  "animal": {
+   "diet": "Bees, flies, butterflies and other flower-visiting insects",
+   "habitat": "Shrubs and flowers in rainforest",
+   "lifespan": "About 6–8 months",
+   "size": "Females ~6–7 cm; males ~2.5 cm",
+   "behaviour": "Females are more than twice the size of males; tiny males avoid being eaten by approaching cautiously.",
+   "fieldMarks": [
+    "White to pink mantis shaped like an orchid petal",
+    "Walking legs with broad, petal-like lobes",
+    "Females much larger than males",
+    "Sits motionless on or near flowers"
+   ],
+   "order": "Mantodea"
+  },
+  "iucn": "NE",
+  "lore": "An 1879 account by the traveller James Hingston described a mantis from Java catching butterflies while posing as an orchid, fuelling Victorian fascination with mimicry.",
+  "historicalNames": [
+   "Mantis coronata",
+   "Flower-mantis"
+  ],
+  "funFact": "Young nymphs are red and black, mimicking a foul-tasting assassin bug before they turn pink."
+ },
+ {
+  "slug": "pantala-flavescens",
+  "scientific": "Pantala flavescens",
+  "common": "Globe skimmer",
+  "otherNames": [
+   "Wandering glider (English)",
+   "Huáng qīngtíng (Chinese)",
+   "Usubaki tonbo (Japanese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Libellulidae",
+  "shelves": [
+   "migrant",
+   "marvel"
+  ],
+  "summary": "A golden dragonfly found on every continent except Antarctica, holding the record for the longest insect migration. Generations cross the Indian Ocean between India and East Africa, riding monsoon winds.",
+  "nativeRange": "Tropics and warm temperate zones worldwide",
+  "regions": [
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Rain pools",
+   "Grassland",
+   "Coastal plains",
+   "Open ocean (in transit)"
+  ],
+  "abilities": [
+   "Multigenerational migration estimated at 14,000–18,000 km round trip across the Indian Ocean",
+   "Flies for days with little effort, gliding on broad hindwings",
+   "Breeds in temporary rain pools, with larvae developing in ~5 weeks",
+   "Genetic studies show near-global gene flow between continents"
+  ],
+  "animal": {
+   "diet": "Small flying insects; aquatic larvae eat mosquito larvae and other invertebrates",
+   "habitat": "Open areas near temporary freshwater pools",
+   "lifespan": "Several months",
+   "size": "About 4.5–5 cm long; wingspan ~8 cm",
+   "behaviour": "Swarms gather ahead of rain fronts, following winds to new rains where pools will form.",
+   "fieldMarks": [
+    "Golden-yellow to orange skimmer about 4.5 cm long",
+    "Wings clear and very broad at the hindwing base",
+    "Large reddish eyes take up most of the head",
+    "Flies for hours on end, gliding high over open ground"
+   ],
+   "lookalikes": "Spot-winged glider (Pantala hymenaea) has an obvious brown spot at the base of each hindwing and is slightly darker; saddlebags (Tramea) have a dark band at the hindwing base.",
+   "whereToSee": "Open ground and paddy fields across the tropics; notable on the Maldives during its ocean crossing between India and East Africa",
+   "season": "Follows the rains; in India swarms arrive with the monsoons, and the return from Africa reaches India's west coast from May",
+   "order": "Odonata"
+  },
+  "iucn": "LC",
+  "lore": "Biologist Charles Anderson noticed swarms arriving in the Maldives every October with no fresh water for breeding, and in 2009 proposed the transoceanic migration. In Japan it is associated with the Obon festival as 'spirit dragonfly'.",
+  "historicalNames": [
+   "Libellula flavescens"
+  ],
+  "funFact": "It is the highest-flying dragonfly recorded, seen at about 6,200 m in the Himalaya."
+ },
+ {
+  "slug": "schistocerca-gregaria",
+  "scientific": "Schistocerca gregaria",
+  "common": "Desert locust",
+  "otherNames": [
+   "Jarād (Arabic)",
+   "Tiddi (Hindi/Urdu)",
+   "Malakh (Persian)",
+   "Nzige (Swahili)",
+   "Arbeh (Hebrew)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Acrididae",
+  "shelves": [
+   "migrant",
+   "edible",
+   "marvel",
+   "sacred"
+  ],
+  "summary": "A grasshopper that transforms when crowded: it changes colour, behaviour and body shape, and forms swarms that can cover hundreds of square kilometres. A swarm can eat as much in a day as millions of people.",
+  "nativeRange": "Deserts from West Africa through the Arabian Peninsula to India",
+  "regions": [
+   "North Africa",
+   "Sub-Saharan Africa",
+   "West Asia",
+   "South Asia"
+  ],
+  "biomes": [
+   "Desert",
+   "Semi-arid grassland"
+  ],
+  "abilities": [
+   "Phase change: crowding triggers serotonin release that switches it from solitary to gregarious form",
+   "Swarms travel up to ~150 km a day on winds",
+   "Crossed the Atlantic from West Africa to the Caribbean in 1988",
+   "A locust eats about its own weight in fresh food daily"
+  ],
+  "animal": {
+   "diet": "Almost any green vegetation, including crops",
+   "habitat": "Desert and semi-desert, swarming far beyond into farmland",
+   "lifespan": "About 3–5 months",
+   "size": "Adults 6–8 cm",
+   "behaviour": "Solitary green nymphs avoid each other; once crowded they turn yellow and black, march in bands and seek company.",
+   "fieldMarks": [
+    "Large grasshopper, 6–8 cm, with long wings reaching past the abdomen tip",
+    "Solitary phase sandy, grey or greenish",
+    "Gregarious phase: immature adults pink, mature males bright yellow; hoppers yellow-and-black",
+    "Forewings with large irregular dark spots"
+   ],
+   "season": "Breeds after rains; swarms are unpredictable and follow unusual rainfall",
+   "order": "Orthoptera"
+  },
+  "iucn": "NE",
+  "lore": "The eighth plague of Egypt in Exodus is locusts, and John the Baptist ate 'locusts and wild honey'. Locusts are one of the few insects declared kosher in Leviticus, and are still eaten in parts of Yemen and Morocco.",
+  "historicalNames": [
+   "Locusta",
+   "Gryllus gregarius",
+   "Arbeh"
+  ],
+  "funFact": "Solitary and swarming forms looked so different that they were long classified as separate species, until Boris Uvarov showed in 1921 they were phases of one."
+ },
+ {
+  "slug": "deilephila-elpenor",
+  "scientific": "Deilephila elpenor",
+  "common": "Elephant hawk-moth",
+  "otherNames": [
+   "Mittlerer Weinschwärmer (German)",
+   "Grand sphinx de la vigne (French)",
+   "Esfinge (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Sphingidae",
+  "shelves": [
+   "pollinator",
+   "marvel"
+  ],
+  "summary": "A pink-and-olive hawk-moth that hovers at flowers at dusk. It was the first animal shown to see colour in dim starlight, when humans see only grey.",
+  "nativeRange": "Europe and temperate Asia to Japan",
+  "regions": [
+   "Europe",
+   "West Asia",
+   "Central Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Gardens",
+   "Woodland edge",
+   "Wasteland",
+   "Wetland edge"
+  ],
+  "abilities": [
+   "Colour vision under starlight using highly sensitive superposition eyes (Kelber et al. 2002)",
+   "Hovers while drinking nectar through a long proboscis",
+   "Caterpillar inflates its eyespots to mimic a small snake"
+  ],
+  "animal": {
+   "diet": "Larvae eat willowherb (Chamaenerion) and bedstraw (Galium); adults drink nectar from honeysuckle and similar flowers",
+   "habitat": "Gardens, rough ground, heaths and woodland edges",
+   "lifespan": "Adults a few weeks",
+   "size": "Wingspan 45–60 mm",
+   "behaviour": "When disturbed, the caterpillar pulls its head in and swells its front segments, flashing four eyespots like a snake.",
+   "fieldMarks": [
+    "Olive-green and pink moth with a streamlined body",
+    "Pink bands across the olive forewing and a pink body",
+    "Caterpillar grey-brown with two pairs of eyespots behind a trunk-like head",
+    "Visits flowers at dusk"
+   ],
+   "lookalikes": "Small elephant hawk-moth (Deilephila porcellus) is smaller and mainly pink and yellowish-brown, without the olive-green bands.",
+   "whereToSee": "Gardens with honeysuckle, rough ground with rosebay willowherb, heaths and woodland edges across Europe",
+   "season": "Adults May–Jul; caterpillars Jul–Sep on willowherbs, bedstraws and fuchsia",
+   "order": "Lepidoptera"
+  },
+  "iucn": "NE",
+  "lore": "The common name refers to the trunk-like caterpillar. Linnaeus named it after Elpenor, Odysseus's companion who fell from Circe's roof.",
+  "historicalNames": [
+   "Sphinx elpenor",
+   "Elephant hawk"
+  ],
+  "funFact": "It is a common garden visitor in Britain, yet its night colour vision was only discovered in 2002."
+ },
+ {
+  "slug": "xylocopa-violacea",
+  "scientific": "Xylocopa violacea",
+  "common": "Violet carpenter bee",
+  "otherNames": [
+   "Abeille charpentière (French)",
+   "Holzbiene (German)",
+   "Abejorro carpintero (Spanish)",
+   "Bhanwra (Hindi, for carpenter bees)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Apidae",
+  "shelves": [
+   "pollinator"
+  ],
+  "summary": "Europe's largest bee, glossy black with violet-tinted wings. Females carve nest tunnels into dead wood with their jaws.",
+  "nativeRange": "Southern and Central Europe, North Africa, West and Central Asia",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "Central Asia"
+  ],
+  "biomes": [
+   "Mediterranean scrub",
+   "Gardens",
+   "Woodland edge"
+  ],
+  "abilities": [
+   "Excavates nest tunnels in dead wood using strong mandibles",
+   "Buzz-pollinates some flowers",
+   "Robs nectar by slitting holes at the base of long flowers",
+   "Adults overwinter and can live about a year"
+  ],
+  "animal": {
+   "diet": "Nectar and pollen from many plants, e.g. wisteria, lavender and legumes",
+   "habitat": "Warm, open areas with dead wood",
+   "lifespan": "About one year",
+   "size": "2–3 cm",
+   "behaviour": "A solitary female builds a row of cells in her tunnel, each sealed with chewed wood pulp and stocked with pollen.",
+   "fieldMarks": [
+    "Large, stout bee, 2–3 cm, glossy black with a blue-violet sheen",
+    "Dark wings with a strong violet iridescence",
+    "Loud, heavy flight between flowers",
+    "Bores round holes in dead wood"
+   ],
+   "voice": "A deep, loud drone",
+   "lookalikes": "Other European carpenter bees (X. valga, X. iris) look similar and need close study to separate. Bumblebees are furrier with coloured bands.",
+   "whereToSee": "Warm gardens, vineyards and old wooden structures in southern and central Europe",
+   "season": "Adults overwinter and emerge in spring (usually Apr–May); new adults appear in late summer",
+   "order": "Hymenoptera"
+  },
+  "iucn": "LC",
+  "lore": "In recent decades it has spread north into Britain and the Netherlands with warming climate.",
+  "historicalNames": [
+   "Apis violacea",
+   "Carpenter bee"
+  ],
+  "funFact": "Despite its size and loud buzz, it is docile, and males have no sting."
+ },
+ {
+  "slug": "archilochus-colubris",
+  "scientific": "Archilochus colubris",
+  "common": "Ruby-throated hummingbird",
+  "otherNames": [
+   "Colibrí garganta de rubí (Spanish)",
+   "Colibri à gorge rubis (French)",
+   "Huitzilin (Nahuatl, hummingbird)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Trochilidae",
+  "shelves": [
+   "pollinator",
+   "migrant",
+   "marvel"
+  ],
+  "summary": "The only hummingbird that breeds widely in eastern North America. Weighing about 3 g, many cross the Gulf of Mexico nonstop, roughly 800 km, each spring and autumn.",
+  "nativeRange": "Breeds in eastern North America; winters in Mexico and Central America",
+  "regions": [
+   "North America",
+   "Central America",
+   "Caribbean"
+  ],
+  "biomes": [
+   "Deciduous forest",
+   "Woodland edge",
+   "Gardens"
+  ],
+  "abilities": [
+   "Flies nonstop across the Gulf of Mexico, nearly doubling its weight in fat beforehand",
+   "Beats wings around 50–80 times per second and can hover and fly backwards",
+   "Enters nightly torpor, dropping body temperature to save energy",
+   "Pollinates tubular red flowers such as trumpet creeper and cardinal flower"
+  ],
+  "animal": {
+   "diet": "Nectar, plus small insects and spiders",
+   "habitat": "Open woodland, forest edges, gardens",
+   "lifespan": "Typically 3–5 years; record over 9 years",
+   "size": "7–9 cm; ~3 g",
+   "behaviour": "Males perform U-shaped pendulum display dives in front of perched females.",
+   "fieldMarks": [
+    "Tiny hummingbird with bright emerald back",
+    "Male has a glowing ruby-red throat that can look black in poor light",
+    "Female has a white throat and white-tipped tail feathers",
+    "Forked dark tail in males"
+   ],
+   "voice": "Soft, rapid 'chew' chips and squeaky chatter; male wings make a high hum",
+   "lookalikes": "Black-chinned hummingbird (mainly western) male has a black chin with a narrow violet band; females of the two are very hard to separate. Rufous hummingbird is orange.",
+   "whereToSee": "Garden feeders across eastern North America; spring migrants on the Texas coast, e.g. High Island",
+   "season": "Summer visitor Apr–Sep in the east; winters in Mexico and Central America",
+   "order": "Apodiformes"
+  },
+  "iucn": "LC",
+  "lore": "To the Aztecs, hummingbirds were linked with Huitzilopochtli, whose name means 'hummingbird of the south', and fallen warriors were thought to return as hummingbirds.",
+  "historicalNames": [
+   "Trochilus colubris",
+   "Humming-bird",
+   "Mellivora avis"
+  ],
+  "funFact": "Its heart can beat over 1,200 times a minute in flight."
+ },
+ {
+  "slug": "selasphorus-rufus",
+  "scientific": "Selasphorus rufus",
+  "common": "Rufous hummingbird",
+  "otherNames": [
+   "Zumbador rufo (Spanish)",
+   "Colibri roux (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Trochilidae",
+  "shelves": [
+   "pollinator",
+   "migrant",
+   "marvel"
+  ],
+  "summary": "A fiery orange hummingbird that makes one of the longest migrations of any bird relative to body size, travelling about 6,000 km between Alaska and Mexico. It is famously aggressive at flowers and feeders.",
+  "nativeRange": "Breeds from Oregon to southern Alaska; winters mainly in Mexico, increasingly along the US Gulf Coast",
+  "regions": [
+   "North America",
+   "Central America"
+  ],
+  "biomes": [
+   "Coniferous forest",
+   "Mountain meadow",
+   "Gardens"
+  ],
+  "abilities": [
+   "Migrates about 6,000 km one way, roughly 78 million body lengths",
+   "Takes a clockwise loop route, north along the Pacific coast and south along the Rockies to follow flowering",
+   "Breeds farther north than any other hummingbird",
+   "Remembers individual flowers and when it last emptied them"
+  ],
+  "animal": {
+   "diet": "Nectar and small insects",
+   "habitat": "Open coniferous forest, meadows and gardens",
+   "lifespan": "Up to about 8 years",
+   "size": "7–9 cm; ~3–4 g",
+   "behaviour": "Males defend flower patches fiercely, chasing off much larger birds and other hummingbirds.",
+   "fieldMarks": [
+    "Small, bright orange-rufous hummingbird",
+    "Male has an iridescent orange-red throat and rufous back",
+    "Female green above with rufous flanks and tail base",
+    "Aggressive at flowers and feeders"
+   ],
+   "voice": "Hard 'chewp' chips; adult male wings make a metallic trill",
+   "lookalikes": "Allen's hummingbird is nearly identical; males usually have a green back, but some rufous males show green too, so many females and young can only be identified by tail-feather shape in the hand.",
+   "whereToSee": "Pacific Northwest and Alaskan forests and gardens; mountain meadows of the Rockies on autumn passage",
+   "season": "Breeds Mar–Aug in the Northwest; moves south through the Rockies Jul–Sep",
+   "order": "Apodiformes"
+  },
+  "iucn": "NT",
+  "lore": "It was described from Nootka Sound, Vancouver Island, during the voyages of James Cook in 1778.",
+  "historicalNames": [
+   "Trochilus rufus",
+   "Nootka humming-bird"
+  ],
+  "funFact": "Its population has fallen by more than half since 1970, and IUCN moved it to Near Threatened in 2018."
+ },
+ {
+  "slug": "calypte-anna",
+  "scientific": "Calypte anna",
+  "common": "Anna's hummingbird",
+  "otherNames": [
+   "Colibrí de Anna (Spanish)",
+   "Colibri d'Anna (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Trochilidae",
+  "shelves": [
+   "pollinator",
+   "marvel"
+  ],
+  "summary": "A rose-headed hummingbird of the Pacific coast whose courtship dive is, relative to body length, among the fastest known movements of any vertebrate. At the bottom of the dive its tail feathers sing.",
+  "nativeRange": "Western North America from British Columbia to Baja California and Arizona",
+  "regions": [
+   "North America"
+  ],
+  "biomes": [
+   "Chaparral",
+   "Gardens",
+   "Coastal scrub",
+   "Oak woodland"
+  ],
+  "abilities": [
+   "Display dive reaches ~385 body lengths per second (Clark 2009)",
+   "Outer tail feathers flutter to make a loud chirp at the bottom of the dive",
+   "Withstands around 9 g of acceleration pulling out of the dive",
+   "Stays through winter in the north, aided by garden feeders and exotic plants"
+  ],
+  "animal": {
+   "diet": "Nectar, insects and tree sap from sapsucker wells",
+   "habitat": "Gardens, parks, chaparral and open woodland",
+   "lifespan": "Up to about 8 years",
+   "size": "10 cm; ~4–5 g",
+   "behaviour": "A male climbs up to 40 m and plunges in a J-shaped dive past a female, ending in a sharp tail-feather chirp.",
+   "fieldMarks": [
+    "Medium-sized hummingbird, green above, greyish below",
+    "Male has an iridescent rose-pink crown and throat",
+    "Female often shows a small central patch of pink on the throat",
+    "Short straight bill"
+   ],
+   "voice": "Male gives a scratchy, buzzy song from a perch; display dive ends in a loud chirp made by the tail feathers",
+   "lookalikes": "Costa's hummingbird is smaller with a purple crown and a throat patch that flares down the sides. Rufous and Allen's are orange.",
+   "whereToSee": "Gardens, parks and chaparral along the Pacific Coast from Vancouver to Baja California",
+   "season": "Resident; breeds in winter and spring",
+   "order": "Apodiformes"
+  },
+  "iucn": "LC",
+  "lore": "It is named after Anna Masséna, Duchess of Rivoli, a 19th-century French collector of hummingbird specimens.",
+  "historicalNames": [
+   "Ornismya anna"
+  ],
+  "funFact": "Its range has expanded northward to Vancouver and beyond since the mid-20th century."
+ },
+ {
+  "slug": "mellisuga-helenae",
+  "scientific": "Mellisuga helenae",
+  "common": "Bee hummingbird",
+  "otherNames": [
+   "Zunzuncito (Cuban Spanish)",
+   "Pájaro mosca (Spanish)",
+   "Colibri d'Elena (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Trochilidae",
+  "shelves": [
+   "pollinator",
+   "marvel"
+  ],
+  "summary": "The smallest bird in the world, about 5–6 cm long and under 2 g, found only in Cuba. Its eggs are the size of coffee beans.",
+  "nativeRange": "Endemic to Cuba and the Isla de la Juventud",
+  "regions": [
+   "Caribbean"
+  ],
+  "biomes": [
+   "Tropical forest",
+   "Forest edge",
+   "Coastal scrub"
+  ],
+  "abilities": [
+   "World's smallest bird, weighing about 1.6–2 g",
+   "Has one of the highest metabolic rates of any warm-blooded animal",
+   "Visits up to 1,500 flowers in a day"
+  ],
+  "animal": {
+   "diet": "Nectar and small insects",
+   "habitat": "Forest, woodland edges and gardens with flowering plants",
+   "lifespan": "About 7 years",
+   "size": "5–6 cm; 1.6–2 g",
+   "behaviour": "Females build a cup nest about 2.5 cm across, woven from cobwebs, lichen and bark.",
+   "fieldMarks": [
+    "World's smallest bird, about 5–6 cm",
+    "Breeding male has an iridescent fiery red-pink head and throat with long lateral plumes",
+    "Upperparts bluish; female green above, pale below with white-tipped tail",
+    "Very short tail and tiny body"
+   ],
+   "voice": "A high-pitched, jumbled twitter, often sung from a treetop",
+   "lookalikes": "Cuban emerald is much larger, all green with a forked tail.",
+   "whereToSee": "Zapata Swamp, Cuba (e.g. around Bermejas and Playa Larga); also Alejandro de Humboldt National Park",
+   "season": "Resident; breeds mainly Mar–Jun",
+   "order": "Apodiformes"
+  },
+  "iucn": "NT",
+  "lore": "It was described in the 1840s from Cuba and appears on Cuban postage stamps; Cubans call it zunzuncito after its buzzing.",
+  "historicalNames": [
+   "Orthorhyncus helenae",
+   "Calypte helenae"
+  ],
+  "funFact": "It is smaller than some of the moths that share its flowers."
+ },
+ {
+  "slug": "falco-peregrinus",
+  "scientific": "Falco peregrinus",
+  "common": "Peregrine falcon",
+  "otherNames": [
+   "Shaheen (Urdu/Persian)",
+   "Shahin (Arabic, for related falcons)",
+   "Halcón peregrino (Spanish)",
+   "Yóu sǔn (Chinese)",
+   "Hayabusa (Japanese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Falconidae",
+  "shelves": [
+   "marvel",
+   "migrant"
+  ],
+  "summary": "The fastest animal on Earth, reaching more than 320 km/h when stooping on prey. Wiped out from much of its range by DDT in the 1960s, it has recovered and now nests on city skyscrapers.",
+  "nativeRange": "Every continent except Antarctica",
+  "regions": [
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Cliffs",
+   "Coasts",
+   "Tundra",
+   "Cities"
+  ],
+  "abilities": [
+   "Stoops at speeds recorded up to about 389 km/h",
+   "Bony tubercles in its nostrils deflect air so it can breathe in high-speed dives",
+   "Arctic-breeding populations migrate up to ~25,000 km a year",
+   "Has a third eyelid to protect its eyes in dives"
+  ],
+  "animal": {
+   "diet": "Mainly birds caught in flight, such as pigeons, ducks and shorebirds",
+   "habitat": "Cliffs, coasts, open country, and tall buildings in cities",
+   "lifespan": "Up to about 15–20 years",
+   "size": "34–58 cm; wingspan 74–120 cm",
+   "behaviour": "It climbs high above prey, folds its wings and drops in a steep stoop, striking with clenched talons.",
+   "fieldMarks": [
+    "Powerful falcon with long pointed wings and a medium tail",
+    "Adult blue-grey above with a dark 'helmet' and broad moustache stripe",
+    "Pale underparts finely barred",
+    "Young birds brown above with streaked underparts"
+   ],
+   "voice": "A harsh, rasping 'kak-kak-kak' near the nest",
+   "lookalikes": "Prairie falcon is pale brown with dark 'armpits'. Lanner falcon has a rufous crown and thinner moustache. Gyrfalcon is bulkier with broader wings. Hobby is smaller with rufous 'trousers'.",
+   "whereToSee": "Sea cliffs and city buildings; many urban nests carry public webcams (e.g. Derby Cathedral, UK); migrants at Cape May and Falsterbo",
+   "season": "Resident in much of its range; Arctic breeders migrate long distances",
+   "order": "Falconiformes"
+  },
+  "iucn": "LC",
+  "lore": "Prized in falconry from Mongolia to the Arab world; the 15th-century Boke of St Albans assigned it to earls. Its crash from DDT-thinned eggshells helped drive the US ban of DDT in 1972.",
+  "historicalNames": [
+   "Falco peregrinus",
+   "Faucon pèlerin",
+   "Duck hawk",
+   "Haggard"
+  ],
+  "funFact": "Its name means 'wanderer', because falconers caught young birds on migration rather than taking them from nests."
+ },
+ {
+  "slug": "haliaeetus-leucocephalus",
+  "scientific": "Haliaeetus leucocephalus",
+  "common": "Bald eagle",
+  "otherNames": [
+   "Migizi (Ojibwe)",
+   "Águila calva (Spanish)",
+   "Pygargue à tête blanche (French)",
+   "Hvidhovedet havørn (Danish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Accipitridae",
+  "shelves": [
+   "sacred"
+  ],
+  "summary": "A sea eagle of North America, the national bird of the United States. It builds the largest nests of any North American bird, used and added to for decades.",
+  "nativeRange": "Most of North America, from Alaska and Canada to northern Mexico",
+  "regions": [
+   "North America"
+  ],
+  "biomes": [
+   "Lakes",
+   "Rivers",
+   "Coasts",
+   "Forest"
+  ],
+  "abilities": [
+   "Builds nests up to ~3 m wide and weighing over a tonne",
+   "Snatches fish from the water surface with its talons",
+   "Steals prey from ospreys and other birds (kleptoparasitism)",
+   "Gathers by the thousands along salmon rivers in winter"
+  ],
+  "animal": {
+   "diet": "Mainly fish; also waterbirds and carrion",
+   "habitat": "Near large water bodies with tall trees",
+   "lifespan": "Around 20 years in the wild; record about 38",
+   "size": "70–102 cm; wingspan 1.8–2.3 m",
+   "behaviour": "Pairs perform cartwheel courtship flights, locking talons and spinning downward together.",
+   "fieldMarks": [
+    "Adult has a white head and tail and dark brown body",
+    "Massive yellow hooked bill",
+    "Young birds mottled brown and white for 4–5 years",
+    "Flat, plank-like wings when soaring"
+   ],
+   "voice": "A weak, high-pitched twittering chatter, surprising for its size",
+   "lookalikes": "Golden eagle (vs young bald eagle) has a golden nape, smaller head and bill, and legs feathered to the toes; young goldens show neat white wing patches and a white tail base, not blotchy mottling.",
+   "whereToSee": "Chilkat Bald Eagle Preserve near Haines, Alaska; Conowingo Dam, Maryland; locks and dams along the Mississippi River in winter",
+   "season": "Resident in many areas; large winter gatherings Nov–Feb at open water and salmon runs",
+   "order": "Accipitriformes"
+  },
+  "iucn": "LC",
+  "lore": "Sacred to many Native American nations, its feathers are central to ceremony and regulated under US law for tribal use. It became the national emblem in 1782, and its recovery from DDT led to removal from the Endangered Species list in 2007.",
+  "historicalNames": [
+   "Falco leucocephalus",
+   "White-headed eagle",
+   "Bald-headed eagle"
+  ],
+  "funFact": "'Bald' comes from an old meaning of 'piebald' or white-headed, not hairless."
+ },
+ {
+  "slug": "aquila-chrysaetos",
+  "scientific": "Aquila chrysaetos",
+  "common": "Golden eagle",
+  "otherNames": [
+   "Berkut (Kazakh/Russian)",
+   "ʿUqāb (Arabic)",
+   "Águila real (Spanish)",
+   "Jīndiāo (Chinese)",
+   "Steinadler (German)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Accipitridae",
+  "shelves": [
+   "sacred"
+  ],
+  "summary": "The most widespread eagle in the world, ranging across the Northern Hemisphere. Kazakh hunters in Mongolia still fly trained females to catch foxes.",
+  "nativeRange": "North America, Europe, North Africa and Asia",
+  "regions": [
+   "North America",
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "Central Asia",
+   "East Asia",
+   "South Asia"
+  ],
+  "biomes": [
+   "Mountains",
+   "Steppe",
+   "Tundra",
+   "Open moorland"
+  ],
+  "abilities": [
+   "Takes prey as large as young deer and foxes",
+   "Can dive at around 240 km/h",
+   "Eyesight several times sharper than humans'",
+   "Territories can span over 100 km²"
+  ],
+  "animal": {
+   "diet": "Hares, rabbits, marmots, ground squirrels, birds; carrion in winter",
+   "habitat": "Open mountains, steppe and moorland",
+   "lifespan": "Around 20–30 years in the wild",
+   "size": "66–102 cm; wingspan 1.8–2.3 m",
+   "behaviour": "Pairs perform undulating 'sky-dance' flights, rising and plunging over their territory.",
+   "fieldMarks": [
+    "Very large dark brown eagle with a golden-buff nape",
+    "Legs feathered to the toes",
+    "Juveniles have white patches in the wings and a white tail base with dark tip",
+    "Soars with wings in a shallow V"
+   ],
+   "voice": "Usually silent; occasional yelping or mewing calls",
+   "lookalikes": "Young bald eagles have bigger heads and bills, bare lower legs and blotchy white mottling. White-tailed eagle has a huge bill, short wedge-shaped tail and broad 'barn-door' wings.",
+   "whereToSee": "Scottish Highlands and islands (e.g. Mull, Cairngorms), the Alps, Denali and the mountain West of North America",
+   "season": "Resident in most of its range; northern birds move south in winter",
+   "order": "Accipitriformes"
+  },
+  "iucn": "LC",
+  "lore": "Kazakh berkutchi have hunted with golden eagles for centuries, celebrated at the annual Golden Eagle Festival in Bayan-Ölgii. It is the national bird of Mexico, Germany, Albania and Kazakhstan.",
+  "historicalNames": [
+   "Aquila",
+   "Chrysaetos",
+   "Erne",
+   "Royal eagle"
+  ],
+  "funFact": "Kazakh eagle hunters have used trained golden eagles to take wolves."
+ },
+ {
+  "slug": "aptenodytes-forsteri",
+  "scientific": "Aptenodytes forsteri",
+  "common": "Emperor penguin",
+  "otherNames": [
+   "Pingüino emperador (Spanish)",
+   "Manchot empereur (French)",
+   "Dì qǐ'é (Chinese)",
+   "Kaiserpinguin (German)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Spheniscidae",
+  "shelves": [
+   "marvel",
+   "ocean"
+  ],
+  "summary": "The largest penguin, and the only animal that breeds on Antarctic sea ice through the polar winter. Males incubate a single egg on their feet for about two months without eating.",
+  "nativeRange": "Coast and sea ice of Antarctica",
+  "regions": [
+   "Antarctica",
+   "Southern Ocean"
+  ],
+  "biomes": [
+   "Sea ice",
+   "Southern Ocean"
+  ],
+  "abilities": [
+   "Dives to over 500 m (record 564 m) and holds its breath over 27 minutes",
+   "Males fast for up to ~115 days during courtship and incubation",
+   "Huddles of thousands rotate so each bird takes turns in the warm centre",
+   "Survives temperatures below −40 °C and winds over 140 km/h"
+  ],
+  "animal": {
+   "diet": "Fish, krill and squid",
+   "habitat": "Fast sea ice around Antarctica; forages in open water",
+   "lifespan": "Around 20 years",
+   "size": "Up to 1.2–1.3 m; 22–45 kg",
+   "behaviour": "In the dark of winter, males huddle in tight masses, shuffling so that no bird stays on the cold edge for long.",
+   "fieldMarks": [
+    "Largest penguin, up to about 1.2 m tall",
+    "Black head and back, white belly",
+    "Pale yellow ear patches fading into a whitish upper breast",
+    "Pinkish-orange stripe on the lower bill"
+   ],
+   "voice": "Loud, trumpeting contact calls; each bird's call is individually recognisable",
+   "lookalikes": "King penguin is smaller and slimmer with bright orange, comma-shaped ear patches that are enclosed in black.",
+   "whereToSee": "Snow Hill Island colony in the Weddell Sea (by icebreaker and helicopter) and Atka Bay; rarely reached by tourists",
+   "season": "Breeds through the Antarctic winter; chicks visible Oct–Dec",
+   "order": "Sphenisciformes"
+  },
+  "iucn": "NT",
+  "lore": "In 1911 Edward Wilson, Apsley Cherry-Garrard and Henry Bowers made 'the worst journey in the world' in Antarctic winter to collect emperor eggs at Cape Crozier.",
+  "historicalNames": [
+   "Aptenodytes forsteri"
+  ],
+  "funFact": "Satellite images of the brown guano stains on ice have revealed previously unknown colonies."
+ },
+ {
+  "slug": "apteryx-mantelli",
+  "scientific": "Apteryx mantelli",
+  "common": "North Island brown kiwi",
+  "otherNames": [
+   "Kiwi-nui (Māori)",
+   "Kiwi (Māori)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Apterygidae",
+  "shelves": [
+   "endangered",
+   "marvel",
+   "sacred"
+  ],
+  "summary": "A flightless, nocturnal bird of New Zealand that hunts with nostrils at the tip of its long bill. Females lay an egg about a fifth of their own body weight, one of the largest relative to body size of any bird.",
+  "nativeRange": "North Island of New Zealand",
+  "regions": [
+   "Oceania"
+  ],
+  "biomes": [
+   "Temperate rainforest",
+   "Scrubland",
+   "Plantation forest"
+  ],
+  "abilities": [
+   "Only bird with nostrils at the tip of its bill, smelling prey underground",
+   "Bill-tip sensory pits detect vibrations of invertebrates",
+   "Egg weighs about 15–20% of the mother's weight",
+   "Has a body temperature lower than most birds, around 38 °C",
+   "Hair-like feathers and tiny vestigial wings"
+  ],
+  "animal": {
+   "diet": "Earthworms, beetle larvae, cicadas, spiders and fallen fruit",
+   "habitat": "Native and exotic forest, scrub and farmland edges",
+   "lifespan": "Around 30–40 years or more",
+   "size": "About 40 cm; 2–3.5 kg",
+   "behaviour": "Pairs defend territories with shrill calls at night, and the male incubates the egg for about three months.",
+   "fieldMarks": [
+    "Pear-shaped, flightless bird with no visible wings or tail",
+    "Shaggy, streaky reddish-brown feathers",
+    "Long, pale, slightly curved bill with nostrils at the tip",
+    "Nocturnal, probing the ground"
+   ],
+   "voice": "Male gives a shrill, rising whistle repeated many times; female a lower, hoarse cry",
+   "lookalikes": "It is the only wild kiwi over most of the North Island; little spotted kiwi (on a few island and fenced sanctuaries) is smaller and pale grey with fine mottling.",
+   "whereToSee": "Trounson Kauri Park night walks (Northland); nocturnal kiwi houses such as Otorohanga Kiwi House",
+   "season": "Resident",
+   "order": "Apterygiformes"
+  },
+  "iucn": "VU",
+  "lore": "Kiwi are a taonga (treasure) to Māori, and cloaks of kiwi feathers (kahu kiwi) were worn by high-ranking people. The bird gave New Zealanders their nickname.",
+  "historicalNames": [
+   "Apteryx australis mantelli"
+  ],
+  "funFact": "Without predator control, around 95% of kiwi chicks die before breeding age, mostly to stoats and cats."
+ },
+ {
+  "slug": "struthio-camelus",
+  "scientific": "Struthio camelus",
+  "common": "Common ostrich",
+  "otherNames": [
+   "Naʿāma (Arabic)",
+   "Shutur murgh (Urdu/Persian, 'camel bird')",
+   "Mbuni (Swahili)",
+   "Volstruis (Afrikaans)",
+   "Avestruz (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Struthionidae",
+  "shelves": [
+   "marvel",
+   "dye-fibre"
+  ],
+  "summary": "The largest living bird, up to about 2.7 m tall, and the fastest runner on two legs. It lays the largest eggs of any living bird.",
+  "nativeRange": "Sub-Saharan Africa; formerly North Africa and the Middle East",
+  "regions": [
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Savanna",
+   "Semi-desert",
+   "Grassland"
+  ],
+  "abilities": [
+   "Runs at about 70 km/h, with strides up to 5 m",
+   "Lays eggs about 15 cm long and 1.4 kg",
+   "Has the largest eyes of any land vertebrate, around 5 cm across",
+   "Has only two toes, an adaptation for running",
+   "A forward kick can kill a lion"
+  ],
+  "animal": {
+   "diet": "Plants, seeds and roots; also insects and small animals",
+   "habitat": "Open savanna, semi-desert and grassland",
+   "lifespan": "30–40 years in the wild",
+   "size": "Up to 2.7 m tall; 63–145 kg",
+   "behaviour": "Several females lay in one shared nest; the dominant female and the male take turns incubating, he at night, she by day.",
+   "fieldMarks": [
+    "Tallest bird, flightless, with long bare neck and legs",
+    "Males black with white wings and tail; females greyish-brown",
+    "Male's neck and legs pinkish, turning red on the shins when breeding",
+    "Two toes on each foot"
+   ],
+   "voice": "Breeding males give a deep, booming roar",
+   "lookalikes": "Somali ostrich (a separate species in the Horn of Africa) has blue-grey neck and thigh skin. Ostriches kick hard; watch from a vehicle or at a distance.",
+   "whereToSee": "Etosha (Namibia), Maasai Mara and Serengeti, and the Cape of Good Hope section of Table Mountain National Park",
+   "season": "Resident",
+   "order": "Struthioniformes"
+  },
+  "iucn": "LC",
+  "lore": "Ostrich eggshells were engraved by people at Diepkloof Rock Shelter in South Africa about 60,000 years ago, and used as water flasks and beads by San peoples. Ostrich plumes were a fashion craze in Edwardian Europe.",
+  "historicalNames": [
+   "Struthio",
+   "Struthiocamelus",
+   "Estridge",
+   "Ostrige"
+  ],
+  "funFact": "The story that ostriches bury their heads in sand is a myth, perhaps from seeing them turn eggs in ground nests."
+ },
+ {
+  "slug": "diomedea-exulans",
+  "scientific": "Diomedea exulans",
+  "common": "Wandering albatross",
+  "otherNames": [
+   "Toroa (Māori, albatross)",
+   "Albatros viajero (Spanish)",
+   "Grand albatros (French)",
+   "Xìntiānwēng (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Diomedeidae",
+  "shelves": [
+   "endangered",
+   "ocean",
+   "migrant",
+   "marvel"
+  ],
+  "summary": "The bird with the longest wingspan alive, up to about 3.5 m. It can circle the Southern Ocean and travel thousands of kilometres with barely a wingbeat.",
+  "nativeRange": "Southern Ocean; breeds on South Georgia, Crozet, Kerguelen, Prince Edward and Macquarie islands",
+  "regions": [
+   "Southern Ocean",
+   "Atlantic Ocean",
+   "Indian Ocean",
+   "Pacific Ocean"
+  ],
+  "biomes": [
+   "Open ocean",
+   "Subantarctic islands"
+  ],
+  "abilities": [
+   "Wingspan up to ~3.5 m, the largest of any living bird",
+   "Dynamic soaring: harvests energy from wind gradients over waves",
+   "A shoulder lock holds wings outstretched with little muscle effort",
+   "Can cover over 10,000 km in a single foraging trip",
+   "Smells prey and oily slicks from far away with tube nostrils"
+  ],
+  "animal": {
+   "diet": "Squid, fish and carrion taken at the surface",
+   "habitat": "Open ocean; nests on grassy subantarctic islands",
+   "lifespan": "Over 50 years",
+   "size": "1.07–1.35 m long; 6–12 kg",
+   "behaviour": "Pairs bond for life after years of elaborate dancing with wing-spreading and bill-clapping, and raise one chick every two years.",
+   "fieldMarks": [
+    "Enormous wingspan, often 2.5–3.5 m",
+    "Adult males the whitest of the great albatrosses, with black only at the wingtips and trailing edge",
+    "Large pink bill",
+    "Juveniles chocolate brown with a white face, whitening over many years"
+   ],
+   "voice": "At the nest: braying, screams, whistles and loud bill-clapping during courtship dances",
+   "lookalikes": "Royal albatrosses have a black cutting edge to the upper bill; on adult royals the upperwing whitens from the leading edge back, not from the centre. Several other 'wandering-type' albatrosses (Tristan, Antipodean, Amsterdam) are browner.",
+   "whereToSee": "Prion Island, South Georgia (boardwalk, cruise landings); at sea in the Drake Passage and Southern Ocean",
+   "season": "Lays Dec–early Jan; chicks remain at the nest through the austral winter. Prion Island is closed 20 Nov–7 Jan",
+   "order": "Procellariiformes"
+  },
+  "iucn": "VU",
+  "lore": "In Coleridge's 'Rime of the Ancient Mariner' (1798), killing an albatross brings a curse on a ship. Sailors long believed albatrosses carried the souls of drowned seamen.",
+  "historicalNames": [
+   "Diomedea",
+   "Man-of-war bird",
+   "Gooney"
+  ],
+  "funFact": "Tens of thousands of albatrosses have drowned on longline fishing hooks, the main threat to the species."
+ },
+ {
+  "slug": "sterna-paradisaea",
+  "scientific": "Sterna paradisaea",
+  "common": "Arctic tern",
+  "otherNames": [
+   "Imitqutailaq (Inuktitut)",
+   "Kría (Icelandic)",
+   "Charrán ártico (Spanish)",
+   "Küstenseeschwalbe (German)",
+   "Sterne arctique (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Laridae",
+  "shelves": [
+   "migrant",
+   "marvel",
+   "ocean"
+  ],
+  "summary": "The bird with the longest known migration, flying from Arctic breeding grounds to the Antarctic and back each year. It probably sees more daylight than any other animal.",
+  "nativeRange": "Breeds around the Arctic and subarctic; winters in Antarctic waters",
+  "regions": [
+   "Arctic",
+   "Antarctica",
+   "Atlantic Ocean",
+   "Pacific Ocean",
+   "Southern Ocean",
+   "Europe",
+   "North America"
+  ],
+  "biomes": [
+   "Tundra",
+   "Coasts",
+   "Open ocean",
+   "Pack ice"
+  ],
+  "abilities": [
+   "Round-trip migration averaging ~70,000 km a year, up to ~96,000 km",
+   "Lifetime travel can equal roughly three trips to the Moon and back",
+   "Takes S-shaped routes to ride prevailing winds across oceans",
+   "Plunge-dives to catch small fish",
+   "Fiercely mobs intruders, including humans, at nests"
+  ],
+  "animal": {
+   "diet": "Small fish and crustaceans",
+   "habitat": "Coastal tundra, islands and open ocean",
+   "lifespan": "Over 30 years",
+   "size": "33–36 cm; wingspan 76–85 cm",
+   "behaviour": "Experiences two summers each year, following the sun from pole to pole.",
+   "fieldMarks": [
+    "Slender grey-and-white tern with a black cap",
+    "All-red bill without a dark tip",
+    "Very short red legs",
+    "Long tail streamers and translucent flight feathers when seen from below"
+   ],
+   "voice": "A harsh, high 'kee-arr' and rattling alarm calls; dive-bombs intruders at colonies",
+   "lookalikes": "Common tern has a black-tipped orange-red bill, longer legs, a darker wedge on the outer wing and shorter tail streamers.",
+   "whereToSee": "Farne Islands, Northumberland (wear a hat — the birds strike heads), Iceland and Shetland",
+   "season": "Northern colonies May–Aug; winters in Antarctic waters",
+   "order": "Charadriiformes"
+  },
+  "iucn": "LC",
+  "lore": "Tracking by Carsten Egevang and colleagues in 2010 with geolocators weighing 1.4 g first mapped its full migration. In Iceland and Greenland its eggs were traditionally gathered.",
+  "historicalNames": [
+   "Sterna macrura",
+   "Sea-swallow"
+  ],
+  "funFact": "A tern ringed as a chick in Britain was found in Australia, over 22,000 km away, within months."
+ },
+ {
+  "slug": "bubo-scandiacus",
+  "scientific": "Bubo scandiacus",
+  "common": "Snowy owl",
+  "otherNames": [
+   "Ukpik (Inuktitut)",
+   "Harfang des neiges (French)",
+   "Snøugle (Norwegian)",
+   "Xuěxiāo (Chinese)",
+   "Belaya sova (Russian)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Strigidae",
+  "shelves": [
+   "endangered",
+   "marvel",
+   "migrant"
+  ],
+  "summary": "A large white owl of the Arctic tundra that hunts by day in the continuous light of polar summer. Its numbers and breeding rise and fall with lemming cycles.",
+  "nativeRange": "Circumpolar Arctic; winters south into Canada, the northern USA, Europe and Asia",
+  "regions": [
+   "Arctic",
+   "North America",
+   "Europe",
+   "Central Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Tundra",
+   "Open grassland",
+   "Coasts"
+  ],
+  "abilities": [
+   "Hunts in 24-hour daylight, unlike most owls",
+   "Thick feathering, including on the toes, insulates against −50 °C",
+   "Nomadic: travels widely to breed where lemmings are abundant",
+   "Clutch size varies from 0 to over 10 eggs depending on prey",
+   "Periodically 'irrupts' far south in winter"
+  ],
+  "animal": {
+   "diet": "Lemmings and voles; also hares, birds and fish",
+   "habitat": "Open tundra; winters on prairies, coasts and airfields",
+   "lifespan": "About 10 years in the wild",
+   "size": "52–71 cm; wingspan 1.25–1.5 m",
+   "behaviour": "An adult can eat over 1,600 lemmings a year.",
+   "fieldMarks": [
+    "Large white owl with yellow eyes",
+    "Adult males nearly pure white",
+    "Females and young heavily barred with black",
+    "Round head with no visible ear tufts"
+   ],
+   "voice": "Males give a deep, booming hoot on the breeding grounds; usually silent in winter",
+   "lookalikes": "Barn owl is smaller, with a heart-shaped face, dark eyes and golden-buff upperparts.",
+   "whereToSee": "Boundary Bay, British Columbia and Amherst Island, Ontario in winter; tundra near Utqiaġvik, Alaska in summer",
+   "season": "Tundra breeder; winter visitor further south Nov–Mar, with large irruptions in some years",
+   "order": "Strigiformes"
+  },
+  "iucn": "VU",
+  "lore": "Its image appears in Paleolithic art at the Trois-Frères cave in France, and it is the official bird of Quebec. Hedwig in the Harry Potter stories made it world-famous.",
+  "historicalNames": [
+   "Strix scandiaca",
+   "Nyctea scandiaca",
+   "Snowy owl",
+   "Harfang"
+  ],
+  "funFact": "Adult males grow whiter with age, and some old males are almost pure white."
+ },
+ {
+  "slug": "strigops-habroptila",
+  "scientific": "Strigops habroptila",
+  "common": "Kākāpō",
+  "otherNames": [
+   "Kākāpō (Māori, 'night parrot')",
+   "Owl parrot (English)",
+   "Perroquet-hibou (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Strigopidae",
+  "shelves": [
+   "endangered",
+   "marvel",
+   "ancient",
+   "sacred"
+  ],
+  "summary": "The world's only flightless parrot and the heaviest parrot, a nocturnal, moss-green bird from New Zealand. Every surviving individual has a name and is closely monitored.",
+  "nativeRange": "New Zealand; now survives only on predator-free islands such as Whenua Hou and Anchor Island",
+  "regions": [
+   "Oceania"
+  ],
+  "biomes": [
+   "Temperate rainforest",
+   "Scrubland"
+  ],
+  "abilities": [
+   "Heaviest parrot, up to ~4 kg",
+   "Males 'boom' with a call that can carry several kilometres",
+   "Breeds only in years when rimu trees fruit heavily",
+   "Can live 60–90 years, among the longest-lived birds",
+   "Climbs trees and parachutes down on short wings"
+  ],
+  "animal": {
+   "diet": "Leaves, shoots, seeds, fruit and pollen; rimu fruit in breeding years",
+   "habitat": "Native forest and scrub on predator-free islands",
+   "lifespan": "Estimated 60–90 years",
+   "size": "58–64 cm; males 2–4 kg",
+   "behaviour": "Males gather at leks and dig bowl-shaped hollows from which they boom nightly for months to attract females.",
+   "fieldMarks": [
+    "Large, flightless, moss-green parrot finely barred with black and yellow",
+    "Owl-like facial disc of whiskery feathers",
+    "Heavy grey bill",
+    "Nocturnal; climbs trees and walks"
+   ],
+   "voice": "Males 'boom' with a deep, resonant sound that carries kilometres, followed by a metallic 'ching'",
+   "lookalikes": "Kea and kākā are flying parrots; kea is olive-green with orange underwings and lives in the mountains.",
+   "whereToSee": "Its predator-free breeding islands are closed to the public",
+   "season": "Breeds only in years when rimu trees fruit heavily; males boom in summer (about Dec–Mar) of those years",
+   "order": "Psittaciformes"
+  },
+  "iucn": "CR",
+  "lore": "Māori hunted kākāpō for food and made feather cloaks (kahu kākāpō). By 1995 only 51 birds remained; a national recovery programme has since more than quadrupled the population.",
+  "historicalNames": [
+   "Strigops habroptilus",
+   "Owl-parrot"
+  ],
+  "funFact": "A male named Sirocco became famous for trying to mate with a zoologist's head on television in 2009."
+ },
+ {
+  "slug": "menura-novaehollandiae",
+  "scientific": "Menura novaehollandiae",
+  "common": "Superb lyrebird",
+  "otherNames": [
+   "Buln buln (Woiwurrung)",
+   "Lyrebird (English)",
+   "Ménure superbe (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Menuridae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "A pheasant-sized songbird of south-eastern Australia and one of the greatest vocal mimics on Earth. Males copy the calls of dozens of other species, and occasionally human-made sounds.",
+  "nativeRange": "South-eastern Australia; introduced to Tasmania",
+  "regions": [
+   "Australia"
+  ],
+  "biomes": [
+   "Temperate rainforest",
+   "Eucalyptus forest"
+  ],
+  "abilities": [
+   "Mimics the calls of many other birds with near-perfect accuracy",
+   "Has been recorded imitating camera shutters, chainsaws and car alarms",
+   "Males choreograph songs to specific dance movements",
+   "Rakes enormous volumes of forest litter, an important ecosystem engineer"
+  ],
+  "animal": {
+   "diet": "Earthworms, insects, spiders and other invertebrates from the forest floor",
+   "habitat": "Wet forests and gullies",
+   "lifespan": "Up to about 30 years",
+   "size": "Males up to ~1 m including tail",
+   "behaviour": "Males sing on cleared mounds, spreading the lyre-shaped tail over their heads in a shimmering display.",
+   "fieldMarks": [
+    "Pheasant-sized brown ground bird",
+    "Males have a long tail of 16 feathers, including two lyre-shaped outer feathers",
+    "Females have a long, plainer tail",
+    "Strong legs; scratches leaf litter"
+   ],
+   "voice": "Loud, powerful song full of near-perfect imitations of other birds and sometimes mechanical sounds, mixed with its own ringing calls",
+   "lookalikes": "Albert's lyrebird of the NSW–Queensland border rainforests is more rufous and males lack the lyre-shaped outer tail feathers.",
+   "whereToSee": "Sherbrooke Forest (Dandenong Ranges) near Melbourne, the Blue Mountains and Royal National Park near Sydney",
+   "season": "Resident; most song and display in winter (Jun–Aug)",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "It appears on the reverse of the Australian 10-cent coin. A lyrebird population in New England National Park is said to sing a flute tune taught to captive birds in the 1930s.",
+  "historicalNames": [
+   "Menura superba",
+   "Native pheasant"
+  ],
+  "funFact": "A single lyrebird can move around 155 tonnes of soil and litter per hectare per year."
+ },
+ {
+  "slug": "pharomachrus-mocinno",
+  "scientific": "Pharomachrus mocinno",
+  "common": "Resplendent quetzal",
+  "otherNames": [
+   "Quetzalli (Nahuatl)",
+   "Kʼukʼ (Kʼicheʼ Maya)",
+   "Quetzal (Spanish)",
+   "Pájaro serpiente (folk Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Trogonidae",
+  "shelves": [
+   "sacred",
+   "marvel"
+  ],
+  "summary": "An iridescent green trogon of Central American cloud forests whose breeding males grow tail-covert streamers up to about 65 cm long, making the bird about 1 m long. It was sacred to the Maya and Aztecs and is Guatemala's national bird.",
+  "nativeRange": "Cloud forests from southern Mexico to western Panama",
+  "regions": [
+   "Central America"
+  ],
+  "biomes": [
+   "Montane cloud forest"
+  ],
+  "abilities": [
+   "Males grow streaming tail coverts longer than their body",
+   "Swallows wild avocados whole and regurgitates the pits, dispersing laurel tree seeds",
+   "Its green is structural colour, shifting from gold to blue",
+   "Migrates up and down mountains following fruiting trees"
+  ],
+  "animal": {
+   "diet": "Fruit, especially wild avocados (Lauraceae); also insects and small frogs",
+   "habitat": "Humid montane cloud forest",
+   "size": "36–40 cm, plus male tail streamers up to ~65 cm",
+   "behaviour": "Pairs nest in holes in rotting trees; the male's tail often pokes out of the entrance while he incubates.",
+   "fieldMarks": [
+    "Male shimmering emerald-green with a crimson belly",
+    "Male's long green tail streamers up to about 65 cm",
+    "Helmet-like crest and yellow bill",
+    "Female duller green with grey breast and no streamers"
+   ],
+   "voice": "A repeated, mellow 'kyow' and whistled 'kee-oo'",
+   "lookalikes": "Golden-headed quetzal lives only in South America. Trogons in the same forests are smaller, with no streamers.",
+   "whereToSee": "Monteverde and San Gerardo de Dota (Costa Rica), and cloud forests of Guatemala's Verapaz",
+   "season": "Resident; easiest during breeding Mar–Jun, often near wild avocado (Lauraceae) trees",
+   "order": "Trogoniformes"
+  },
+  "iucn": "NT",
+  "lore": "Its feathers were reserved for Maya and Aztec nobility and priests, and the god Quetzalcoatl was the 'feathered serpent'. Guatemala's currency is the quetzal.",
+  "historicalNames": [
+   "Trogon resplendens",
+   "Quetzaltototl"
+  ],
+  "funFact": "Legend says the quetzal's red breast was stained by the blood of the Kʼicheʼ hero Tecún Umán."
+ },
+ {
+  "slug": "ara-macao",
+  "scientific": "Ara macao",
+  "common": "Scarlet macaw",
+  "otherNames": [
+   "Guacamaya roja (Spanish)",
+   "Arara-vermelha (Portuguese)",
+   "Mo' (Yucatec Maya)",
+   "Alo (Nahuatl, macaw)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Psittacidae",
+  "shelves": [
+   "sacred",
+   "dye-fibre"
+  ],
+  "summary": "A large red, yellow and blue parrot of tropical American forests. It gathers on riverbank clay licks in the Amazon to eat soil.",
+  "nativeRange": "Southern Mexico through Central America to the Amazon basin",
+  "regions": [
+   "Central America",
+   "South America"
+  ],
+  "biomes": [
+   "Tropical rainforest",
+   "Gallery forest",
+   "Savanna woodland"
+  ],
+  "abilities": [
+   "Beak cracks extremely hard nuts and seeds",
+   "Eats clay from riverbanks, possibly for sodium and to neutralise plant toxins",
+   "Flies at around 55 km/h",
+   "Can live for over 40 years and forms lifelong pair bonds"
+  ],
+  "animal": {
+   "diet": "Seeds, nuts, fruit, flowers and nectar",
+   "habitat": "Humid lowland forest, especially near rivers",
+   "lifespan": "40–50 years; longer in captivity",
+   "size": "81–96 cm including tail; ~1 kg",
+   "behaviour": "Pairs fly wingtip to wingtip and gather in noisy flocks at dawn at clay licks.",
+   "fieldMarks": [
+    "Large scarlet parrot with a very long pointed tail",
+    "Yellow band across the upperwing, blue flight feathers",
+    "Bare white facial skin",
+    "Pale upper bill"
+   ],
+   "voice": "Loud, harsh, far-carrying screeches, often given in flight",
+   "lookalikes": "Red-and-green macaw has green wing coverts instead of yellow and lines of tiny red feathers on its white face.",
+   "whereToSee": "Clay licks of Tambopata, Peru; Carara National Park and the Osa Peninsula, Costa Rica",
+   "season": "Resident",
+   "order": "Psittaciformes"
+  },
+  "iucn": "LC",
+  "lore": "Live scarlet macaws were traded north from Mexico to the ancestral Puebloans of Chaco Canyon around 900–1150 CE for their feathers. It is the national bird of Honduras.",
+  "historicalNames": [
+   "Psittacus macao",
+   "Macaw",
+   "Red and blue macaw"
+  ],
+  "funFact": "Macaw skeletons at Pueblo Bonito suggest the birds were kept far from their native range a thousand years ago."
+ },
+ {
+  "slug": "corvus-corax",
+  "scientific": "Corvus corax",
+  "common": "Common raven",
+  "otherNames": [
+   "Ghurāb (Arabic)",
+   "Dom kauwa (Hindi)",
+   "Hrafn (Old Norse)",
+   "Xuya (Haida)",
+   "Dùyā (Chinese, 渡鸦)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Corvidae",
+  "shelves": [
+   "marvel",
+   "sacred"
+  ],
+  "summary": "The largest songbird, an all-black corvid with problem-solving skills that rival great apes. It lives across the Northern Hemisphere from deserts to the high Arctic.",
+  "nativeRange": "Northern Hemisphere: North America, Europe, Asia and North Africa",
+  "regions": [
+   "North America",
+   "Central America",
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "Central Asia",
+   "South Asia",
+   "East Asia",
+   "Arctic"
+  ],
+  "biomes": [
+   "Mountains",
+   "Tundra",
+   "Desert",
+   "Forest",
+   "Coasts"
+  ],
+  "abilities": [
+   "Plans ahead and saves tools for later use (Kabadayi & Osvath 2017)",
+   "Caches food and re-hides it when watched by rivals",
+   "Mimics human speech and other sounds",
+   "Associates with wolves and human hunters to scavenge their kills",
+   "Plays, including sliding down snowy roofs"
+  ],
+  "animal": {
+   "diet": "Omnivore: carrion, small animals, eggs, grain, refuse",
+   "habitat": "Almost any open or wooded habitat",
+   "lifespan": "10–15 years in the wild; over 40 in captivity",
+   "size": "54–67 cm; wingspan up to 1.5 m",
+   "behaviour": "Young ravens gather in winter roosts and share information about food sources.",
+   "fieldMarks": [
+    "All-black, glossy, crow-like bird, much larger than crows",
+    "Heavy, deep bill",
+    "Shaggy throat feathers",
+    "Wedge-shaped tail in flight; often soars and tumbles"
+   ],
+   "voice": "A deep, resonant croak 'prruk', plus a wide range of knocks and gurgles",
+   "lookalikes": "Carrion and American crows are smaller with thinner bills, square tails and cawing calls; they rarely soar.",
+   "whereToSee": "Mountain and coastal cliffs (e.g. Snowdonia, Wales); Yellowstone; a captive group at the Tower of London",
+   "season": "Resident",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "Odin's ravens Huginn and Muninn ('thought' and 'memory') flew over the world bringing him news, and Raven is the trickster-creator who released the sun in Haida and Tlingit stories. Legend holds that Britain will fall if the Tower of London's ravens leave.",
+  "historicalNames": [
+   "Corvus",
+   "Corbie",
+   "Hræfn"
+  ],
+  "funFact": "In Genesis, Noah sends out a raven before the dove."
+ },
+ {
+  "slug": "phoenicopterus-roseus",
+  "scientific": "Phoenicopterus roseus",
+  "common": "Greater flamingo",
+  "otherNames": [
+   "Nuḥām (Arabic)",
+   "Hanj (Gujarati)",
+   "Flamenco común (Spanish)",
+   "Huǒliè niǎo (Chinese)",
+   "Heroe (Swahili)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Phoenicopteridae",
+  "shelves": [
+   "marvel",
+   "migrant"
+  ],
+  "summary": "The largest and most widespread flamingo, gathering in tens of thousands on salt lakes and lagoons. Its pink comes from carotenoid pigments in the algae and crustaceans it eats.",
+  "nativeRange": "Africa, the Mediterranean, the Middle East and South Asia",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "Sub-Saharan Africa",
+   "West Asia",
+   "South Asia"
+  ],
+  "biomes": [
+   "Salt lakes",
+   "Lagoons",
+   "Mudflats",
+   "Salt pans"
+  ],
+  "abilities": [
+   "Filter-feeds with its head upside down, pumping water through bill lamellae",
+   "Tolerates highly saline and alkaline lakes",
+   "Turns pink from dietary carotenoids such as canthaxanthin",
+   "Rubs pigment from preen-gland oil onto feathers as 'make-up' in breeding season",
+   "Both parents feed chicks a crop milk"
+  ],
+  "animal": {
+   "diet": "Brine shrimp, small molluscs, insect larvae and algae",
+   "habitat": "Shallow saline and alkaline wetlands",
+   "lifespan": "Over 30 years in the wild; over 80 in captivity",
+   "size": "110–150 cm; 2–4 kg",
+   "behaviour": "Groups perform synchronised 'marching' displays, heads raised and turning, before breeding.",
+   "fieldMarks": [
+    "Very tall, pale pink wading bird with long neck and legs",
+    "Pink bill with a black tip, bent sharply downward",
+    "Bright red and black wings in flight",
+    "Feeds with head upside down"
+   ],
+   "voice": "Goose-like honking and grunting in flocks",
+   "lookalikes": "Lesser flamingo is smaller and deeper pink with a dark carmine bill that looks all-dark at a distance.",
+   "whereToSee": "Camargue (Pont de Gau), France; Rann of Kutch, India; Walvis Bay, Namibia",
+   "season": "Present all year at many wetlands; breeding colonies and numbers shift with water levels",
+   "order": "Phoenicopteriformes"
+  },
+  "iucn": "LC",
+  "lore": "Pliny the Elder recorded that the Roman gourmet Apicius prized flamingo tongue as a delicacy. The Great Rann of Kutch in India hosts one of the largest breeding colonies, called 'Flamingo City'.",
+  "historicalNames": [
+   "Phoenicopterus",
+   "Phenicopter",
+   "Flammant"
+  ],
+  "funFact": "A captive greater flamingo at Adelaide Zoo lived to at least 83 years."
+ },
+ {
+  "slug": "balaeniceps-rex",
+  "scientific": "Balaeniceps rex",
+  "common": "Shoebill",
+  "otherNames": [
+   "Abu markub (Arabic, 'father of the shoe')",
+   "Bec-en-sabot (French)",
+   "Whale-headed stork (English)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Balaenicipitidae",
+  "shelves": [
+   "endangered",
+   "marvel"
+  ],
+  "summary": "A tall, grey bird of African swamps with a huge clog-shaped bill. It stands motionless for long periods before lunging to seize lungfish.",
+  "nativeRange": "Swamps of East and Central Africa, from South Sudan to Zambia",
+  "regions": [
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Papyrus swamp",
+   "Freshwater marsh"
+  ],
+  "abilities": [
+   "Bill up to ~24 cm long and ~10 cm wide, with a sharp hooked tip",
+   "Stands still for very long periods to ambush prey",
+   "Collapses forward in a lunge to grab lungfish and catfish",
+   "Bill-clatters loudly as a greeting",
+   "Pours bills of water over eggs to cool them"
+  ],
+  "animal": {
+   "diet": "Lungfish, catfish, tilapia, frogs, water snakes and young crocodiles",
+   "habitat": "Extensive papyrus and reed swamps",
+   "lifespan": "Up to ~35 years",
+   "size": "110–140 cm tall; wingspan ~2.5 m",
+   "behaviour": "Usually two eggs hatch, but typically only one chick survives, the older outcompeting the younger.",
+   "fieldMarks": [
+    "Very tall, grey stork-like bird",
+    "Huge, shoe-shaped bill with a hooked tip",
+    "Pale yellow eyes",
+    "Stands motionless for long periods"
+   ],
+   "voice": "Mostly silent; adults clatter their bills at the nest",
+   "lookalikes": "Unmistakable at close range; at a distance Goliath heron is slimmer with a long thin bill and rufous neck.",
+   "whereToSee": "Mabamba Swamp near Entebbe and Murchison Falls Delta (Uganda); Bangweulu Swamps (Zambia)",
+   "season": "Resident",
+   "order": "Pelecaniformes"
+  },
+  "iucn": "VU",
+  "lore": "Ancient Egyptian art may depict shoebill-like birds. It was described scientifically in 1850 by John Gould from specimens from the White Nile.",
+  "historicalNames": [
+   "Balaeniceps rex",
+   "Whale-head"
+  ],
+  "funFact": "Despite its stork-like look, its closest relatives are pelicans."
+ },
+ {
+  "slug": "opisthocomus-hoazin",
+  "scientific": "Opisthocomus hoazin",
+  "common": "Hoatzin",
+  "otherNames": [
+   "Hoactzin (Nahuatl, origin of name)",
+   "Shansho (Peruvian Spanish)",
+   "Cigana (Brazilian Portuguese)",
+   "Stinkbird (English)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Opisthocomidae",
+  "shelves": [
+   "marvel",
+   "ancient"
+  ],
+  "summary": "A crested Amazonian bird that digests leaves by fermenting them in its crop, like a cow. Its chicks have claws on their wings and can climb back to the nest after escaping into water.",
+  "nativeRange": "Amazon and Orinoco basins of South America",
+  "regions": [
+   "South America"
+  ],
+  "biomes": [
+   "Flooded forest",
+   "Mangroves",
+   "Riverbanks"
+  ],
+  "abilities": [
+   "Foregut fermentation of leaves by bacteria in an enlarged crop",
+   "Chicks use two wing claws to climb branches",
+   "Chicks drop into water to escape predators and swim back",
+   "Smells strongly of manure from its fermenting crop",
+   "Sole living member of an ancient lineage"
+  ],
+  "animal": {
+   "diet": "Leaves, buds and flowers of marsh plants",
+   "habitat": "Swamps, riverbanks and oxbow lakes",
+   "size": "About 65 cm; ~800 g",
+   "behaviour": "Groups nest communally in branches overhanging water, with helpers from previous broods aiding parents.",
+   "fieldMarks": [
+    "Pheasant-sized bird with a spiky, ragged crest",
+    "Bare blue facial skin and red eyes",
+    "Brown above, buff breast, chestnut belly and wings",
+    "Clumsy flight over water"
+   ],
+   "voice": "Hoarse hisses, grunts and wheezes",
+   "lookalikes": "No close lookalike; its odd shape and blue face are distinctive.",
+   "whereToSee": "Oxbow lakes and rivers of the Amazon, e.g. Lake Sandoval (Tambopata, Peru) and Cuyabeno (Ecuador)",
+   "season": "Resident",
+   "order": "Opisthocomiformes"
+  },
+  "iucn": "LC",
+  "lore": "It is the national bird of Guyana. Its wing-clawed chicks were once compared to Archaeopteryx, though the claws evolved independently.",
+  "historicalNames": [
+   "Phasianus hoazin",
+   "Stinking pheasant"
+  ],
+  "funFact": "It is rarely hunted, because its meat is said to taste and smell foul."
+ },
+ {
+  "slug": "limosa-lapponica",
+  "scientific": "Limosa lapponica",
+  "common": "Bar-tailed godwit",
+  "otherNames": [
+   "Kuaka (Māori)",
+   "Aguja colipinta (Spanish)",
+   "Pfuhlschnepfe (German)",
+   "Bānwěi chéngyù (Chinese, 斑尾塍鹬)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Scolopacidae",
+  "shelves": [
+   "migrant",
+   "marvel",
+   "ocean"
+  ],
+  "summary": "A long-billed shorebird holding the record for the longest nonstop flight of any bird. Godwits fly from Alaska to New Zealand and Australia across the Pacific without feeding, drinking or resting.",
+  "nativeRange": "Breeds in Arctic Eurasia and Alaska; winters on coasts of Europe, Africa, Asia, Australia and New Zealand",
+  "regions": [
+   "Arctic",
+   "Europe",
+   "Sub-Saharan Africa",
+   "South Asia",
+   "East Asia",
+   "Southeast Asia",
+   "Australia",
+   "Oceania",
+   "Pacific Ocean"
+  ],
+  "biomes": [
+   "Tundra",
+   "Mudflats",
+   "Estuaries"
+  ],
+  "abilities": [
+   "Recorded nonstop flight of 13,560 km in about 11 days (Alaska to Tasmania, 2022)",
+   "Shrinks digestive organs before migration to carry more fat",
+   "Fat can make up over half its body weight at departure",
+   "Times departure to ride favourable winds from storm systems",
+   "Probes deep into mud for worms with a sensitive bill"
+  ],
+  "animal": {
+   "diet": "Marine worms, molluscs and crustaceans; insects on breeding grounds",
+   "habitat": "Arctic tundra in summer; tidal mudflats in winter",
+   "lifespan": "Over 20 years",
+   "size": "37–41 cm; females with longer bills",
+   "behaviour": "Flocks leave Alaska in autumn on north winds and fly over the open Pacific for over a week.",
+   "fieldMarks": [
+    "Large wader with a long, slightly upturned bill",
+    "Breeding male brick-red below",
+    "Winter birds grey-brown, streaked",
+    "Barred tail and no wing bar in flight"
+   ],
+   "voice": "A nasal 'kirruk' or 'kew-kew'",
+   "lookalikes": "Black-tailed godwit has a straighter bill, longer legs, a bold white wing bar and a black tail band.",
+   "whereToSee": "Miranda (Firth of Thames) and Farewell Spit, New Zealand; the Wash and Morecambe Bay, England",
+   "season": "Breeds in the Arctic Jun–Jul; New Zealand Sep–Mar; Europe mainly in winter",
+   "order": "Charadriiformes"
+  },
+  "iucn": "NT",
+  "lore": "Māori knew kuaka as birds that flew to Hawaiki and beyond, and their departure marked seasons. Their epic flights were proven by satellite tags in 2007, when a female called E7 flew 11,680 km nonstop.",
+  "historicalNames": [
+   "Scolopax lapponica",
+   "Yarwhelp",
+   "Godwit"
+  ],
+  "funFact": "The record bird, tagged '234684', was only five months old when it made its flight."
+ },
+ {
+  "slug": "upupa-epops",
+  "scientific": "Upupa epops",
+  "common": "Eurasian hoopoe",
+  "otherNames": [
+   "Hudhud (Arabic/Urdu/Persian)",
+   "Dàishèng (Chinese, 戴胜)",
+   "Abubilla (Spanish)",
+   "Dukhifat (Hebrew)",
+   "Huppe (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Upupidae",
+  "shelves": [
+   "sacred",
+   "marvel",
+   "migrant"
+  ],
+  "summary": "A cinnamon bird with a fan-shaped crest and zebra-striped wings, named for its soft 'oop-oop-oop' call. Nesting females and chicks defend themselves with a foul-smelling secretion produced with help from symbiotic bacteria.",
+  "nativeRange": "Europe, Asia and Africa; European birds winter in sub-Saharan Africa",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "Sub-Saharan Africa",
+   "West Asia",
+   "Central Asia",
+   "South Asia",
+   "East Asia",
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Open woodland",
+   "Orchards",
+   "Savanna",
+   "Farmland"
+  ],
+  "abilities": [
+   "Preen-gland secretion hosts Enterococcus bacteria that produce antimicrobials, protecting eggs",
+   "Nestlings squirt faeces and hiss like snakes at intruders",
+   "Probes soil with a long curved bill for larvae and mole crickets",
+   "Raises and fans its crest in alarm and on landing"
+  ],
+  "animal": {
+   "diet": "Insects and larvae, especially beetle grubs and crickets; small reptiles",
+   "habitat": "Open ground with scattered trees, orchards and vineyards",
+   "lifespan": "Around 10 years",
+   "size": "25–32 cm; wingspan 44–48 cm",
+   "behaviour": "Nests in tree holes or walls, where the female's oily secretion gives the nest a strong stench.",
+   "fieldMarks": [
+    "Pinkish-cinnamon bird with a fan-shaped, black-tipped crest",
+    "Black and white barred wings and tail",
+    "Long, thin, down-curved bill",
+    "Floppy, butterfly-like flight"
+   ],
+   "voice": "A soft, hollow 'oop-oop-oop'",
+   "lookalikes": "Distinctive; no similar bird in its range.",
+   "whereToSee": "Extremadura (Spain), the Algarve (Portugal) and orchards and villages across southern Europe and South Asia",
+   "season": "Europe: summer visitor Mar–Sep; resident in southern parts of its range",
+   "order": "Bucerotiformes"
+  },
+  "iucn": "LC",
+  "lore": "In the Qur'an (Surah An-Naml) the hoopoe brings King Solomon news of the Queen of Sheba, and in Attar's 'Conference of the Birds' (12th c.) it leads the birds on their spiritual journey. It was named Israel's national bird in 2008.",
+  "historicalNames": [
+   "Upupa",
+   "Hoop",
+   "Dukipath",
+   "Houpe"
+  ],
+  "funFact": "Both Leviticus and Deuteronomy list the hoopoe among birds not to be eaten, yet it became Israel's national bird."
+ },
+ {
+  "slug": "pavo-cristatus",
+  "scientific": "Pavo cristatus",
+  "common": "Indian peafowl",
+  "otherNames": [
+   "Mor (Hindi/Urdu)",
+   "Mayil (Tamil)",
+   "Ṭāwūs (Arabic/Persian)",
+   "Kǒngquè (Chinese, peafowl)",
+   "Pavo real (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Phasianidae",
+  "shelves": [
+   "sacred",
+   "marvel"
+  ],
+  "summary": "A large pheasant of South Asia whose males raise and shiver a train of about 200 eye-spotted feathers. It is the national bird of India and has been carried as a royal ornament across the world for three thousand years.",
+  "nativeRange": "India, Sri Lanka, Nepal, Pakistan and Bangladesh; introduced widely",
+  "regions": [
+   "South Asia"
+  ],
+  "biomes": [
+   "Dry deciduous forest",
+   "Farmland",
+   "Village edges"
+  ],
+  "abilities": [
+   "Train of elongated upper-tail coverts with iridescent structural-colour eyespots",
+   "Males rattle the train to produce low-frequency infrasound during displays",
+   "Kills and eats young cobras and other snakes",
+   "Loud alarm calls warn other animals of tigers and leopards"
+  ],
+  "animal": {
+   "diet": "Seeds, grain, insects, small reptiles and snakes",
+   "habitat": "Forest edges, farmland and villages near water",
+   "lifespan": "Around 15–20 years",
+   "size": "Males up to ~2.25 m including train; females ~1 m",
+   "behaviour": "Peahens choose mates partly on the vigour of the train-rattling display.",
+   "fieldMarks": [
+    "Male: iridescent blue neck and breast, long green train with eyespots",
+    "Fan-shaped crest of spatula-tipped feathers",
+    "Female brown with a green neck and white belly",
+    "Large, often seen on the ground"
+   ],
+   "voice": "A loud, wailing 'may-awe', often at dusk and before rain",
+   "lookalikes": "Green peafowl (Southeast Asia) has a green, scaly neck and a tufted upright crest.",
+   "whereToSee": "Ranthambore and Keoladeo (Bharatpur), India; Yala, Sri Lanka",
+   "season": "Resident; males display most during the pre-monsoon and monsoon breeding season and shed the train afterwards",
+   "order": "Galliformes"
+  },
+  "iucn": "LC",
+  "lore": "The peacock is Kartikeya's mount in Hindu tradition and Melek Taus, the Peacock Angel, in Yazidi faith; Mughal emperors sat on the Peacock Throne. Greeks said Hera set the hundred eyes of Argus on its tail.",
+  "historicalNames": [
+   "Pavo",
+   "Pa-cock",
+   "Pawe",
+   "Taus"
+  ],
+  "funFact": "Darwin wrote that 'the sight of a feather in a peacock's tail, whenever I gaze at it, makes me sick', because natural selection alone could not explain it."
+ },
+ {
+  "slug": "hirundo-rustica",
+  "scientific": "Hirundo rustica",
+  "common": "Barn swallow",
+  "otherNames": [
+   "Abābīl (Urdu)",
+   "Parastu (Persian)",
+   "Yànzi (Chinese, 燕子)",
+   "Golondrina (Spanish)",
+   "Tsubame (Japanese)",
+   "Sunūnū (Arabic)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Hirundinidae",
+  "shelves": [
+   "migrant",
+   "sacred"
+  ],
+  "summary": "The most widespread swallow in the world, breeding across the Northern Hemisphere and wintering in the south. Its arrival has marked spring for farmers since antiquity.",
+  "nativeRange": "Breeds across North America, Europe, North Africa and Asia; winters in South America, Africa, South Asia and Australasia",
+  "regions": [
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Farmland",
+   "Grassland",
+   "Wetlands",
+   "Villages"
+  ],
+  "abilities": [
+   "Migrates up to ~10,000 km, e.g. from Britain to South Africa",
+   "Catches insects in fast, low, agile flight",
+   "Builds cup nests from hundreds of mud pellets carried in its bill",
+   "Females prefer males with longer, more symmetrical tail streamers"
+  ],
+  "animal": {
+   "diet": "Flying insects",
+   "habitat": "Open country near water, nesting in barns and under eaves",
+   "lifespan": "Typically about 4 years; record over 11",
+   "size": "17–19 cm including tail streamers",
+   "behaviour": "Pairs often return to the same barn each year, and earlier-brood young help feed later broods.",
+   "fieldMarks": [
+    "Glossy steel-blue upperparts and breast band",
+    "Red forehead and throat",
+    "Long, deeply forked tail streamers",
+    "Swift, low, twisting flight"
+   ],
+   "voice": "A cheerful twittering song with a grating trill; call a sharp 'vit'",
+   "lookalikes": "House martin has a white rump and short forked tail. Sand martin is brown. Red-rumped swallow has a pale rufous rump.",
+   "whereToSee": "Farmyards, stables and open country near water",
+   "season": "Europe and North America: summer visitor Apr–Sep",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "Aristotle wrote that 'one swallow does not make a spring', and Gilbert White in the 18th century still wondered if swallows hibernated in mud. Sailors' swallow tattoos traditionally marked 5,000 nautical miles travelled.",
+  "historicalNames": [
+   "Hirundo",
+   "Chimney swallow",
+   "Swalwe"
+  ],
+  "funFact": "It is the national bird of Austria and Estonia."
+ },
+ {
+  "slug": "cacatua-galerita",
+  "scientific": "Cacatua galerita",
+  "common": "Sulphur-crested cockatoo",
+  "otherNames": [
+   "Cacatúa galerita (Spanish)",
+   "Kakatua jambul kuning (Indonesian)",
+   "Cacatoès à huppe jaune (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Cacatuidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "A large white cockatoo of Australia and New Guinea with a bright yellow crest. In Sydney, cockatoos have learned to open wheelie-bin lids, a skill that spread from suburb to suburb through social learning.",
+  "nativeRange": "Eastern and northern Australia, Tasmania, New Guinea and nearby islands; introduced to New Zealand",
+  "regions": [
+   "Australia",
+   "Oceania"
+  ],
+  "biomes": [
+   "Woodland",
+   "Farmland",
+   "Cities"
+  ],
+  "abilities": [
+   "Learned bin-opening that spread socially, with local 'styles' (Klump et al. 2021)",
+   "A captive bird named Snowball (Cacatua galerita eleonora) dances in time to music, showing beat synchronisation",
+   "Flocks post sentinels that screech alarms",
+   "Can live 70 years or more in captivity"
+  ],
+  "animal": {
+   "diet": "Seeds, roots, nuts, bulbs, berries and insect larvae",
+   "habitat": "Wooded country, farmland and city parks",
+   "lifespan": "20–40 years in the wild; 70+ in captivity",
+   "size": "45–55 cm",
+   "behaviour": "Large, raucous flocks forage on the ground while some birds stand guard in trees.",
+   "fieldMarks": [
+    "Large white cockatoo",
+    "Long, forward-curving yellow crest",
+    "Pale yellow wash under wings and tail",
+    "Dark grey bill"
+   ],
+   "voice": "Very loud, harsh screeches",
+   "lookalikes": "Little corella and long-billed corella have no yellow crest and show bare bluish skin around the eye.",
+   "whereToSee": "Royal Botanic Garden Sydney and parks of eastern Australian cities",
+   "season": "Resident",
+   "order": "Psittaciformes"
+  },
+  "iucn": "LC",
+  "lore": "A cockatoo appears in a 13th-century manuscript of Emperor Frederick II's falconry treatise, having been gifted to him from the Sultan of Babylon, among the oldest European records of an Australasian bird.",
+  "historicalNames": [
+   "Psittacus galeritus",
+   "Crested cockatoo"
+  ],
+  "funFact": "Some Sydney cockatoos have also learned to turn on drinking-fountain taps."
+ },
+ {
+  "slug": "sturnus-vulgaris",
+  "scientific": "Sturnus vulgaris",
+  "common": "Common starling",
+  "otherNames": [
+   "Zarzur (Arabic)",
+   "Tilyar (Hindi/Urdu)",
+   "Sār (Persian)",
+   "Estornino pinto (Spanish)",
+   "Star (German)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Sturnidae",
+  "shelves": [
+   "marvel",
+   "migrant"
+  ],
+  "summary": "A glossy, speckled songbird whose winter flocks wheel at dusk in murmurations of hundreds of thousands. Introduced to North America in 1890, it now numbers in the tens of millions there.",
+  "nativeRange": "Europe, Western Asia and North Africa; introduced to North America, Australia, New Zealand and South Africa",
+  "regions": [
+   "Europe",
+   "West Asia",
+   "North Africa",
+   "North America",
+   "Australia",
+   "Oceania",
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Farmland",
+   "Grassland",
+   "Cities"
+  ],
+  "abilities": [
+   "Murmurations: each bird tracks about seven neighbours, letting waves pass across the flock",
+   "Skilled mimic of other birds, phones and human speech",
+   "Navigates using a sun compass and magnetic sense",
+   "Opens its bill inside the soil to pry prey ('open-bill probing')"
+  ],
+  "animal": {
+   "diet": "Insects, larvae, fruit and seeds",
+   "habitat": "Open fields, farmland, towns and cities",
+   "lifespan": "About 2–3 years on average; record over 22",
+   "size": "19–23 cm",
+   "behaviour": "Males decorate nests with aromatic green herbs, which may deter parasites.",
+   "fieldMarks": [
+    "Short-tailed, glossy black bird with purple-green sheen",
+    "Pale-spotted in fresh winter plumage",
+    "Yellow bill in breeding season",
+    "Pointed, triangular wings in flight"
+   ],
+   "voice": "Varied song of whistles, clicks, rattles and accurate mimicry",
+   "lookalikes": "Common blackbird has a longer tail, no gloss or spots, and hops rather than walks. Spotless starling (Iberia) is unspotted in summer.",
+   "whereToSee": "Winter murmurations at Brighton Palace Pier and RSPB Ham Wall (Somerset Levels), England",
+   "season": "Resident in much of Europe; murmurations Nov–Feb",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "Mozart bought a pet starling in 1784 that could sing a theme from his Piano Concerto K.453, and buried it with a poem. Eugene Schieffelin released about 100 in New York's Central Park in 1890–91.",
+  "historicalNames": [
+   "Sturnus",
+   "Stare",
+   "Sterlyng"
+  ],
+  "funFact": "In Shakespeare's Henry IV, Part 1, Hotspur plans to teach a starling to say 'Mortimer' to annoy the king."
+ },
+ {
+  "slug": "columba-livia",
+  "scientific": "Columba livia",
+  "common": "Rock dove (feral pigeon)",
+  "otherNames": [
+   "Kabūtar (Hindi/Urdu/Persian)",
+   "Ḥamām (Arabic)",
+   "Gēzi (Chinese, 鸽子)",
+   "Paloma bravía (Spanish)",
+   "Njiwa (Swahili)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Columbidae",
+  "shelves": [
+   "marvel",
+   "edible",
+   "sacred"
+  ],
+  "summary": "The wild ancestor of the domestic and city pigeon, probably the first bird tamed by humans. Homing pigeons can find their way back from hundreds of kilometres away, and carried messages for armies for millennia.",
+  "nativeRange": "Europe, North Africa and Western and South Asia; feral populations worldwide",
+  "regions": [
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Sea cliffs",
+   "Cities",
+   "Farmland"
+  ],
+  "abilities": [
+   "Homes over 1,000 km using sun compass, magnetic sense and landmarks",
+   "Possibly uses low-frequency infrasound for navigation",
+   "Both parents feed chicks 'crop milk'",
+   "Trained to tell paintings by Monet from Picasso (Watanabe et al. 1995)",
+   "Can recognise individual human faces"
+  ],
+  "animal": {
+   "diet": "Seeds and grain; food scraps in cities",
+   "habitat": "Cliffs and ledges; buildings and bridges",
+   "lifespan": "3–5 years in cities; up to 15+ in captivity",
+   "size": "29–37 cm",
+   "behaviour": "Pairs raise up to six broods a year, breeding in almost any season.",
+   "fieldMarks": [
+    "Blue-grey pigeon with an iridescent green-purple neck",
+    "Two broad black bars on each wing",
+    "White rump (wild type)",
+    "Feral birds come in many colours"
+   ],
+   "voice": "Soft, cooing 'oo-roo-coo'",
+   "lookalikes": "Stock dove has no white rump and only short black wing bars. Woodpigeon is larger with a white neck patch and white wing bands.",
+   "whereToSee": "Wild-type birds on sea cliffs of western Scotland and Ireland; feral flocks in almost every city",
+   "season": "Resident",
+   "order": "Columbiformes"
+  },
+  "iucn": "LC",
+  "lore": "Pigeon posts relayed news for the Persians, Romans and Mughals, and a pigeon named Cher Ami saved nearly 200 American soldiers in 1918. Darwin bred fancy pigeons to illustrate artificial selection in 'On the Origin of Species'.",
+  "historicalNames": [
+   "Columba",
+   "Rock dove",
+   "Culver",
+   "Dowve"
+  ],
+  "funFact": "Reuters began in 1850 using pigeons to carry stock prices between Aachen and Brussels."
+ },
+ {
+  "slug": "gallus-gallus",
+  "scientific": "Gallus gallus",
+  "common": "Red junglefowl (and domestic chicken)",
+  "otherNames": [
+   "Murgh / Murgi (Hindi/Urdu)",
+   "Dajāj (Arabic)",
+   "Jī (Chinese, 鸡)",
+   "Kuku (Swahili)",
+   "Gallo (Spanish)",
+   "Ban murgi (Hindi, junglefowl)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Phasianidae",
+  "shelves": [
+   "edible",
+   "staple",
+   "sacred"
+  ],
+  "summary": "A wild forest pheasant of South and Southeast Asia and the ancestor of the domestic chicken. With over 20 billion alive at any time, chickens are the most numerous bird on Earth.",
+  "nativeRange": "Wild form from northern India to southern China and Indonesia; domestic chickens worldwide",
+  "regions": [
+   "South Asia",
+   "Southeast Asia",
+   "East Asia",
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Tropical forest edge",
+   "Bamboo thickets",
+   "Farmland"
+  ],
+  "abilities": [
+   "Produces over a dozen distinct alarm and food calls, some referential (aerial vs ground predator)",
+   "Domestic hens can lay over 300 eggs a year",
+   "Roosters perform 'tidbitting', calling hens to food",
+   "Can run, roost in trees, and make short bursts of flight"
+  ],
+  "animal": {
+   "diet": "Seeds, insects, fallen fruit and small animals",
+   "habitat": "Forest edges, scrub and clearings",
+   "lifespan": "Wild 3–5 years; domestic up to ~10",
+   "size": "Males ~70 cm; females ~45 cm",
+   "behaviour": "A rooster gives different alarm calls for hawks overhead and for ground predators, and hens respond appropriately.",
+   "fieldMarks": [
+    "Male: orange-gold hackles, red comb and wattles, long dark green arching tail",
+    "Female brown with a small comb",
+    "Wild males have slate-grey legs",
+    "Wild males moult into a dull eclipse plumage after breeding"
+   ],
+   "voice": "Crow is like a domestic rooster's but shorter, ending abruptly",
+   "lookalikes": "Feral and domestic chickens interbreed with it; mixed birds often have yellow or pale legs and lack the eclipse moult. Grey junglefowl of peninsular India has grey, spotted hackles.",
+   "whereToSee": "Jim Corbett National Park (India), Khao Yai and Kaeng Krachan (Thailand)",
+   "season": "Resident",
+   "order": "Galliformes"
+  },
+  "iucn": "LC",
+  "lore": "Domesticated in Southeast Asia around 3,500 years ago, chickens were first kept for cockfighting and ritual before food. Roman generals consulted sacred chickens before battle, and Socrates' last words asked that a rooster be offered to Asclepius.",
+  "historicalNames": [
+   "Gallus",
+   "Cock",
+   "Hen",
+   "Gallina"
+  ],
+  "funFact": "Most of the world's influenza vaccines are still grown in fertilised chicken eggs."
+ },
+ {
+  "slug": "ptilonorhynchus-violaceus",
+  "scientific": "Ptilonorhynchus violaceus",
+  "common": "Satin bowerbird",
+  "otherNames": [
+   "Jardinero satinado (Spanish)",
+   "Satinvogel (German)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Ptilonorhynchidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "An Australian bird whose males build a two-walled stick avenue and decorate it with blue objects to court females. The female chooses a mate by inspecting his bower and display.",
+  "nativeRange": "Eastern and south-eastern Australia",
+  "regions": [
+   "Australia"
+  ],
+  "biomes": [
+   "Rainforest edge",
+   "Eucalyptus forest",
+   "Suburban gardens"
+  ],
+  "abilities": [
+   "Builds an avenue bower of hundreds of sticks",
+   "Collects blue items such as feathers, flowers, bottle caps and straws",
+   "Paints the bower walls with chewed plant juice, sometimes using a wad of bark as a tool",
+   "Mimics other birds' calls during display"
+  ],
+  "animal": {
+   "diet": "Fruit, leaves and insects",
+   "habitat": "Moist forest and adjacent woodland and gardens",
+   "lifespan": "Around 20 years",
+   "size": "27–33 cm",
+   "behaviour": "Males take seven years to gain their glossy blue-black plumage, and young males build practice bowers while still green.",
+   "fieldMarks": [
+    "Adult male glossy blue-black with violet-blue eyes",
+    "Female and young males olive-green with scalloped underparts",
+    "Pale yellowish bill",
+    "Males build an avenue bower of sticks decorated with blue objects"
+   ],
+   "voice": "Loud whistles, buzzing and mechanical sounds, and mimicry at the bower",
+   "lookalikes": "Young males look like females for several years. Regent bowerbird male is black and gold.",
+   "whereToSee": "Lamington National Park (O'Reilly's), Queensland; Blue Mountains, NSW; Canberra's Australian National Botanic Gardens",
+   "season": "Resident; bowers most active in spring and early summer",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "Nineteenth-century naturalists such as John Gould puzzled over bowers as 'playing-places', and Darwin discussed them in 'The Descent of Man' (1871) as evidence of aesthetic choice in sexual selection.",
+  "historicalNames": [
+   "Pyrrhocorax violaceus",
+   "Satin bird"
+  ],
+  "funFact": "Males steal blue decorations from rivals' bowers and sometimes wreck them."
+ },
+ {
+  "slug": "paradisaea-raggiana",
+  "scientific": "Paradisaea raggiana",
+  "common": "Raggiana bird-of-paradise",
+  "otherNames": [
+   "Kumul (Tok Pisin)",
+   "Ave del paraíso (Spanish)",
+   "Burung cenderawasih (Indonesian/Malay)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Paradisaeidae",
+  "shelves": [
+   "sacred",
+   "marvel",
+   "dye-fibre"
+  ],
+  "summary": "The national bird of Papua New Guinea, shown on its flag. Males gather at forest leks, clapping their wings and shaking their heads as they raise cascades of orange-red flank plumes to court females.",
+  "nativeRange": "Southern and north-eastern New Guinea",
+  "regions": [
+   "Oceania"
+  ],
+  "biomes": [
+   "Lowland and hill rainforest"
+  ],
+  "abilities": [
+   "Males display communally at leks, raising and shaking plumes",
+   "Raises plumes into an erect fan while calling loudly",
+   "Disperses seeds of many rainforest trees",
+   "Hybridises with other Paradisaea species where ranges meet"
+  ],
+  "animal": {
+   "diet": "Fruit, especially figs; also arthropods",
+   "habitat": "Rainforest and forest edge",
+   "size": "About 34 cm, plus male tail wires",
+   "behaviour": "A dozen or more males display in the same tree, and females visit to choose among them.",
+   "fieldMarks": [
+    "Male: maroon-brown body, yellow crown and collar, dark emerald throat",
+    "Long red to orange flank plumes",
+    "Two long black tail wires",
+    "Female drab maroon-brown with no plumes or wires"
+   ],
+   "lookalikes": "Lesser bird-of-paradise has yellow plumes; the two hybridise where they meet. Plume colour varies among Raggiana subspecies from deep red to apricot.",
+   "whereToSee": "Varirata National Park near Port Moresby, Papua New Guinea",
+   "season": "Resident; display at morning leks",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "Plumes have been worn for centuries in New Guinea headdresses, and traded to Asia; in the 16th century legless skins reached Europe, giving rise to the myth that birds-of-paradise never landed. PNG adopted it as its flag emblem in 1971.",
+  "historicalNames": [
+   "Paradisaea",
+   "Manucodiata",
+   "Bird of Paradise"
+  ],
+  "funFact": "Named after Francesco Raggi, an Italian marquis from Genoa."
+ },
+ {
+  "slug": "buceros-bicornis",
+  "scientific": "Buceros bicornis",
+  "common": "Great hornbill",
+  "otherNames": [
+   "Homrai (Nepali)",
+   "Malamuzhakki vezhambal (Malayalam)",
+   "Dhanesh (Hindi)",
+   "Nok kok (Thai)",
+   "Burung enggang (Malay)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Bucerotidae",
+  "shelves": [
+   "endangered",
+   "keystone",
+   "sacred"
+  ],
+  "summary": "A huge hornbill of South and Southeast Asian forests, with a yellow casque atop its bill. During nesting, the female seals herself inside a tree cavity and depends on the male to feed her through a slit.",
+  "nativeRange": "India, Nepal, Bhutan, Southeast Asia to Sumatra",
+  "regions": [
+   "South Asia",
+   "Southeast Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Tropical evergreen forest",
+   "Moist deciduous forest"
+  ],
+  "abilities": [
+   "Female walls herself into the nest with mud and droppings for months",
+   "Male delivers fruit regurgitated one at a time through the slit",
+   "Major disperser of large-seeded rainforest trees, especially figs",
+   "Its loud wingbeats can be heard from far away"
+  ],
+  "animal": {
+   "diet": "Mainly figs and other fruit; also small animals",
+   "habitat": "Tall old-growth forest",
+   "lifespan": "Up to about 50 years in captivity",
+   "size": "95–130 cm; wingspan ~1.5 m",
+   "behaviour": "Birds rub preen-gland secretions onto the casque and wings, giving them their yellow colour.",
+   "fieldMarks": [
+    "Very large black-and-white hornbill",
+    "Huge yellow bill with a broad, concave casque",
+    "White tail with a black band",
+    "Loud whooshing wingbeats"
+   ],
+   "voice": "Pairs duet with a rapid mix of loud roars and barks, starting from a steady 'kok'",
+   "lookalikes": "Rhinoceros hornbill (Sunda region) has an upturned red-and-orange casque. Wreathed hornbill has no casque and a white tail without a band.",
+   "whereToSee": "Pakke Tiger Reserve (Arunachal Pradesh) and Valparai in the Anamalai Hills, India; Khao Yai, Thailand",
+   "season": "Resident; breeds Jan–Apr, when pairs are most vocal",
+   "order": "Bucerotiformes"
+  },
+  "iucn": "VU",
+  "lore": "It is the state bird of Kerala and Arunachal Pradesh, and Naga peoples traditionally used its feathers and casques in headdresses; Nagaland's Hornbill Festival is named for it.",
+  "historicalNames": [
+   "Buceros",
+   "Homrai",
+   "Concave-casqued hornbill"
+  ],
+  "funFact": "Its casque is mostly hollow and light, unlike the solid ivory-like casque of its relative the helmeted hornbill."
+ },
+ {
+  "slug": "gyps-fulvus",
+  "scientific": "Gyps fulvus",
+  "common": "Griffon vulture",
+  "otherNames": [
+   "Nesher (Hebrew)",
+   "Nasr (Arabic)",
+   "Gidh (Hindi)",
+   "Buitre leonado (Spanish)",
+   "Wùjiù (Chinese, 兀鹫)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Accipitridae",
+  "shelves": [
+   "keystone",
+   "sacred"
+  ],
+  "summary": "A huge, pale-brown vulture that soars on thermals over mountains, finding carcasses by watching other vultures. Colonies clean up dead livestock and wildlife, reducing disease.",
+  "nativeRange": "Southern Europe, North Africa, Middle East and Central Asia to India",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "Central Asia",
+   "South Asia"
+  ],
+  "biomes": [
+   "Mountains",
+   "Steppe",
+   "Mediterranean scrub"
+  ],
+  "abilities": [
+   "Soars for hours on thermals with barely a wingbeat",
+   "A group can strip a carcass in under an hour",
+   "Extremely acidic stomach kills many pathogens in rotting meat",
+   "Spots feeding vultures from kilometres away and follows them"
+  ],
+  "animal": {
+   "diet": "Carrion of large mammals",
+   "habitat": "Open mountainous country with cliffs for nesting",
+   "lifespan": "Up to ~40 years",
+   "size": "93–122 cm; wingspan 2.3–2.8 m",
+   "behaviour": "Nests in cliff colonies, laying a single egg each year.",
+   "fieldMarks": [
+    "Huge vulture with pale sandy-brown body",
+    "White fluffy neck ruff and pale head",
+    "Dark flight feathers contrasting with paler wing coverts",
+    "Soars on long, broad, 'fingered' wings"
+   ],
+   "voice": "Hisses, grunts and cackles at carcasses",
+   "lookalikes": "Cinereous vulture is darker all over. Rüppell's vulture (Africa) has scaly, pale-edged feathers. Egyptian vulture is smaller and white with black flight feathers.",
+   "whereToSee": "Monfragüe National Park (Spain), Gorges du Verdon (France), and the Strait of Gibraltar on migration",
+   "season": "Resident; young birds cross the Strait of Gibraltar in autumn",
+   "order": "Accipitriformes"
+  },
+  "iucn": "LC",
+  "lore": "The 'eagle' (nesher) of the Hebrew Bible is likely the griffon vulture, and Tibetan and Zoroastrian sky burials relied on vultures. It was reintroduced to France's Grands Causses in the 1980s.",
+  "historicalNames": [
+   "Vultur fulvus",
+   "Gyps",
+   "Geier"
+  ],
+  "funFact": "The veterinary drug diclofenac, deadly to Gyps vultures, wiped out over 95% of India's related vultures in the 1990s."
+ },
+ {
+  "slug": "cygnus-olor",
+  "scientific": "Cygnus olor",
+  "common": "Mute swan",
+  "otherNames": [
+   "Hamsa (Sanskrit, swan)",
+   "Hans (Hindi, swan)",
+   "Yóubí tiān'é (Chinese, 疣鼻天鹅)",
+   "Höckerschwan (German)",
+   "Cisne vulgar (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Anatidae",
+  "shelves": [
+   "sacred"
+  ],
+  "summary": "A large white swan with an orange bill and a black knob. One of the heaviest flying birds, it is less vocal than other swans but hisses fiercely in defence.",
+  "nativeRange": "Europe and Asia; introduced in North America, South Africa, Australia and New Zealand",
+  "regions": [
+   "Europe",
+   "West Asia",
+   "Central Asia",
+   "East Asia",
+   "North America"
+  ],
+  "biomes": [
+   "Lakes",
+   "Rivers",
+   "Estuaries"
+  ],
+  "abilities": [
+   "Among the heaviest flying birds, up to about 15 kg",
+   "Wingbeats make a loud throbbing sound audible far away",
+   "Upends to graze aquatic plants up to a metre deep",
+   "Defends nest aggressively with wing displays ('busking')"
+  ],
+  "animal": {
+   "diet": "Aquatic plants; some invertebrates",
+   "habitat": "Lakes, rivers, estuaries and park ponds",
+   "lifespan": "Typically 10–20 years",
+   "size": "125–170 cm; wingspan 2–2.4 m",
+   "behaviour": "Pairs often stay together for many years, and cygnets ride on their parents' backs.",
+   "fieldMarks": [
+    "Very large white swan",
+    "Orange bill with a black knob at the base",
+    "Neck held in an S-curve",
+    "Wings often raised in an arch when threatened"
+   ],
+   "voice": "Mostly quiet; hisses and snorts; wings make a loud throbbing sound in flight",
+   "lookalikes": "Whooper swan has a yellow-and-black bill and straight neck. Trumpeter and tundra swans in North America have black bills.",
+   "whereToSee": "Abbotsbury Swannery, Dorset; park lakes and rivers across Europe",
+   "season": "Resident; cygnets May–Jun",
+   "order": "Anseriformes"
+  },
+  "iucn": "LC",
+  "lore": "The British monarch claims ownership of unmarked mute swans in open water, and an annual 'Swan Upping' on the Thames counts them. Zeus approached Leda as a swan in Greek myth.",
+  "historicalNames": [
+   "Cygnus",
+   "Swan",
+   "Cigne"
+  ],
+  "funFact": "The 'swan song' legend, that it sings only at death, dates back to the ancient Greeks."
+ },
+ {
+  "slug": "grus-japonensis",
+  "scientific": "Grus japonensis",
+  "common": "Red-crowned crane",
+  "otherNames": [
+   "Tanchō (Japanese)",
+   "Dāndǐng hè (Chinese, 丹顶鹤)",
+   "Durumi (Korean)",
+   "Japanese crane (English)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Gruidae",
+  "shelves": [
+   "endangered",
+   "sacred",
+   "migrant"
+  ],
+  "summary": "One of the rarest cranes, famous for its paired courtship dances in the snow. It symbolises longevity and fidelity in East Asia.",
+  "nativeRange": "Breeds in south-east Russia and north-east China; winters in Korea and eastern China; resident in Hokkaido, Japan",
+  "regions": [
+   "East Asia"
+  ],
+  "biomes": [
+   "Marsh",
+   "Reed beds",
+   "Wetland"
+  ],
+  "abilities": [
+   "Pairs perform synchronised duets and leaping dances",
+   "Migrates between Siberian marshes and Korean and Chinese wetlands",
+   "Hokkaido population is non-migratory",
+   "Can live 30+ years"
+  ],
+  "animal": {
+   "diet": "Fish, crabs, insects, amphibians and rice",
+   "habitat": "Wetlands with tall reeds and shallow water",
+   "lifespan": "30–40 years",
+   "size": "~1.5 m tall; wingspan up to 2.5 m",
+   "behaviour": "Couples bond for life and greet each other with bowing, leaping and loud unison calls.",
+   "fieldMarks": [
+    "Tall white crane with a red crown patch",
+    "Black neck and face",
+    "Black secondary flight feathers, looking like a black tail when standing",
+    "Pure white primary feathers"
+   ],
+   "voice": "Loud, trumpeting unison calls given by pairs",
+   "lookalikes": "Siberian crane has a red face and black primaries. White-naped crane is grey-bodied.",
+   "whereToSee": "Tsurui-Ito Tancho Crane Sanctuary and Akan International Crane Center, Hokkaido; Zhalong Nature Reserve, China",
+   "season": "Hokkaido cranes are resident, with winter feeding gatherings Nov–Mar",
+   "order": "Gruiformes"
+  },
+  "iucn": "VU",
+  "lore": "In Japan folding 1,000 paper cranes (senbazuru) grants a wish, made famous by Sadako Sasaki after Hiroshima; it appears on Japan Airlines' logo. In China it is linked with immortals and longevity.",
+  "historicalNames": [
+   "Ardea japonensis",
+   "Manchurian crane"
+  ],
+  "funFact": "Hokkaido's population fell to about 20 birds in the 1920s; winter feeding by local farmers helped it recover to over 1,800."
+ }
+]

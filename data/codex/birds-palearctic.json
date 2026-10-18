@@ -1,0 +1,3611 @@
+[
+ {
+  "slug": "erithacus-rubecula",
+  "scientific": "Erithacus rubecula",
+  "common": "European robin",
+  "otherNames": [
+   "Abu al-Hinna (Arabic)",
+   "Sineh-sorkh (Persian)",
+   "Kızılgerdan (Turkish)",
+   "Rotkehlchen (German)",
+   "Rouge-gorge (French)",
+   "Petirrojo (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Muscicapidae",
+  "shelves": [
+   "songbird"
+  ],
+  "summary": "A small, round, orange-breasted chat. Both sexes sing and defend territories through the winter, so it is one of the few European birds singing in December. In Britain it is famously tame around gardeners, but on the Continent it is a shy woodland bird.",
+  "nativeRange": "Europe east to western Siberia, North Africa, Turkey, the Caucasus and northern Iran; northern birds winter around the Mediterranean and Middle East",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia"
+  ],
+  "biomes": [
+   "Temperate forest",
+   "Woodland",
+   "Gardens and parks"
+  ],
+  "abilities": [
+   "Both males and females hold separate winter territories and sing to defend them",
+   "Sings at night under street lighting in towns",
+   "Follows large animals, and gardeners, to snatch invertebrates turned up from the soil",
+   "Migrants navigate partly with a light-dependent magnetic compass in the eye, a key study system for avian magnetoreception"
+  ],
+  "animal": {
+   "diet": "Insects, worms, spiders; berries and seeds in winter",
+   "habitat": "Woodland with undergrowth, hedgerows, parks and gardens",
+   "lifespan": "Usually 1–2 years in the wild; a few live past 10",
+   "size": "12.5–14 cm; 16–22 g",
+   "behaviour": "Territorial to the point of violence: robins attack rivals and even a tuft of red feathers placed in their territory, as David Lack showed in his 1940s experiments.",
+   "fieldMarks": [
+    "Orange-red face and breast bordered with blue-grey",
+    "Plain olive-brown upperparts and whitish belly",
+    "Plump, upright stance on thin legs; large dark eye",
+    "Juveniles are speckled brown with no red breast"
+   ],
+   "voice": "Song a wistful, liquid warble of short phrases with pauses, thinner and more melancholy in autumn; call a hard, repeated 'tic' and a thin 'tsiih'.",
+   "lookalikes": "Common redstart males also show orange underparts but have a black face and a constantly quivering orange tail. Juvenile robins resemble young redstarts and nightingales but lack a rufous tail.",
+   "whereToSee": "Almost any wooded garden, park or hedgerow in Europe; abundant wintering birds in Mediterranean olive groves and Levantine scrub.",
+   "season": "Resident in western Europe; summer visitor in the north and east (Apr–Sep); winter visitor to North Africa and the Middle East (Oct–Mar)",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "A medieval legend holds that the robin's breast was scorched or bloodied while helping Christ on the cross, and Victorian postmen in red tunics were nicknamed 'robins', which is why the bird appears on so many British Christmas cards.",
+  "historicalNames": [
+   "Rubecula",
+   "Ruddock",
+   "Robin Redbreast",
+   "Erithacus"
+  ],
+  "funFact": "In 2015 a public poll organised by ornithologist David Lindo chose the robin as Britain's national bird."
+ },
+ {
+  "slug": "luscinia-megarhynchos",
+  "scientific": "Luscinia megarhynchos",
+  "common": "Common nightingale",
+  "otherNames": [
+   "Bolbol (Persian)",
+   "Bülbül (Turkish)",
+   "Andalib (Arabic)",
+   "Bulbul (Urdu poetry)",
+   "Nachtigall (German)",
+   "Ruiseñor (Spanish)",
+   "Aidoni (Greek)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Muscicapidae",
+  "shelves": [
+   "songbird",
+   "migrant"
+  ],
+  "summary": "A plain brown skulker with one of the most celebrated voices on Earth. Males sing by day and, before they find a mate, through the night, from deep inside thickets. It winters in sub-Saharan Africa.",
+  "nativeRange": "Breeds in southern and central Europe, North Africa, Turkey and the Middle East east to Central Asia (Kazakhstan, Afghanistan); winters in tropical Africa",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "Central Asia",
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Woodland",
+   "Scrub",
+   "Riparian thicket"
+  ],
+  "abilities": [
+   "Males command repertoires of roughly 180–260 different song types",
+   "Unpaired males sing through the night to attract migrating females; nocturnal song largely stops once they pair",
+   "Raises the volume of its song in noisy places (the Lombard effect), shown in Berlin",
+   "Migrates by night between Europe and Africa, crossing the Sahara"
+  ],
+  "animal": {
+   "diet": "Ground invertebrates, especially beetles and ants; berries in late summer",
+   "habitat": "Dense deciduous thickets, coppice, scrub along rivers and woodland edges",
+   "lifespan": "Typically 1–3 years",
+   "size": "15–16.5 cm; 17–30 g",
+   "behaviour": "Feeds on the ground in deep shade, hopping and pausing with its rufous tail cocked, and is far more often heard than seen.",
+   "fieldMarks": [
+    "Uniform warm brown upperparts with a brighter rufous tail",
+    "Pale buffy-grey underparts with no streaks",
+    "Large dark eye with a thin pale eye-ring",
+    "Rather long-legged, robin-like posture"
+   ],
+   "voice": "Rich, loud and varied: deep 'chook-chook' notes, liquid whistles, harsh rattles and a famous slow crescendo of pure 'piu piu piu' notes; call a soft 'hweet' and a croaking 'karrr'.",
+   "lookalikes": "Thrush nightingale (eastern Europe) is darker, greyer-brown with faint mottling on the breast and a less rufous tail, and its song has dry clicking phrases. Garden warbler is smaller with a short bill and no rufous tail.",
+   "whereToSee": "Mediterranean river valleys and scrub in Spain, Portugal, southern France and Italy; Kent and Sussex coppice in England; Turkey and the Levant in spring.",
+   "season": "Summer visitor Apr–Aug; most vocal late April to early June",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "The bulbul's love for the rose (gol o bolbol) is a central image of Persian poetry from Hafez and Rumi onward, and in Greek myth the nightingale is Philomela or Procne transformed; Keats wrote his 'Ode to a Nightingale' in Hampstead in 1819.",
+  "historicalNames": [
+   "Luscinia",
+   "Philomela",
+   "Nihtegale",
+   "Rossignol"
+  ],
+  "funFact": "In 1924 cellist Beatrice Harrison played in her Surrey garden while wild nightingales sang along, a performance broadcast live by the BBC as one of the first outside broadcasts."
+ },
+ {
+  "slug": "turdus-merula",
+  "scientific": "Turdus merula",
+  "common": "Eurasian blackbird",
+  "otherNames": [
+   "Shahrur (Arabic)",
+   "Karatavuk (Turkish)",
+   "Toka-ye siyah (Persian)",
+   "Amsel (German)",
+   "Merle noir (French)",
+   "Mirlo (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Turdidae",
+  "shelves": [
+   "songbird"
+  ],
+  "summary": "A thrush whose males are jet black with a golden-orange bill and eye-ring. Its unhurried, fluty song is one of the defining sounds of European towns at dusk. It moved from forest into cities in the 19th century, and was later introduced to Australia and New Zealand.",
+  "nativeRange": "Europe, North Africa, Turkey, the Caucasus, Iran and Central Asia; introduced to Australia and New Zealand",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "Central Asia"
+  ],
+  "biomes": [
+   "Temperate forest",
+   "Woodland",
+   "Gardens and parks"
+  ],
+  "abilities": [
+   "Urban populations sing at higher pitch, start earlier in the day and are more sedentary than forest birds",
+   "Locates earthworms by sight, cocking its head before stabbing into lawns",
+   "Spreads seeds of hawthorn, ivy, yew and other berry-bearing plants",
+   "Gives distinct alarm calls for ground predators and for hawks"
+  ],
+  "animal": {
+   "diet": "Earthworms, insects, snails; fruit and berries in autumn and winter",
+   "habitat": "Woodland, hedges, parks, gardens and towns",
+   "lifespan": "Typically 2–4 years",
+   "size": "23.5–29 cm; 80–125 g",
+   "behaviour": "Turns over leaf litter by flicking it aside with its bill, and at dusk 'chinks' loudly while going to roost.",
+   "fieldMarks": [
+    "Adult male all-black with a bright orange-yellow bill and eye-ring",
+    "Female dark brown with a faintly mottled throat and breast",
+    "Long tail, often raised on landing",
+    "First-year males have a dark bill and brownish wings"
+   ],
+   "voice": "Song a slow, mellow, fluting warble in relaxed phrases that often trail off into squeaky twitters; alarm a frantic, rattling 'chink-chink-chink' and a thin 'tsee' for aerial predators.",
+   "lookalikes": "Ring ouzel males have a white crescent on the breast and pale wing panels. Common starling is smaller, short-tailed, glossy and spotted, and walks rather than hops. Females can suggest song thrushes but are much darker and not boldly spotted.",
+   "whereToSee": "Any European park, garden or woodland; common in Moroccan and Turkish towns and Central Asian orchards.",
+   "season": "Resident in most of Europe; northern and eastern birds move south and west in winter",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "The Irish quatrain 'The Blackbird of Belfast Lough', probably composed in the ninth century and preserved in later metrical tracts, is among the best-loved early Irish nature verse; the 'four and twenty blackbirds baked in a pie' of the nursery rhyme echo real Renaissance banquet tricks.",
+  "historicalNames": [
+   "Merula",
+   "Ouzel",
+   "Ousel",
+   "Merle"
+  ],
+  "funFact": "Blackbirds introduced to Australia in the 1850s–60s became an agricultural pest and help spread invasive blackberry by eating its fruit."
+ },
+ {
+  "slug": "turdus-philomelos",
+  "scientific": "Turdus philomelos",
+  "common": "Song thrush",
+  "otherNames": [
+   "Öter ardıç kuşu (Turkish)",
+   "Singdrossel (German)",
+   "Grive musicienne (French)",
+   "Zorzal común (Spanish)",
+   "Throstle (English dialect)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Turdidae",
+  "shelves": [
+   "songbird"
+  ],
+  "summary": "A brown thrush with neat arrow-shaped spots, famous for singing each phrase two to four times over. It breaks snail shells on a favourite stone, leaving a scatter of broken shells around these 'anvils'.",
+  "nativeRange": "Europe east to central Siberia, Turkey, the Caucasus and northern Iran; winters around the Mediterranean, North Africa and the Middle East; introduced to New Zealand and Australia",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia"
+  ],
+  "biomes": [
+   "Temperate forest",
+   "Woodland",
+   "Gardens and parks"
+  ],
+  "abilities": [
+   "Smashes snail shells on stone anvils, an unusual tool-like behaviour in a songbird",
+   "Repeats song phrases deliberately, building repertoires of over 100 phrases",
+   "Sometimes mimics other birds and man-made sounds within its song",
+   "Northern and eastern birds migrate at night to wintering grounds as far as Arabia and North Africa"
+  ],
+  "animal": {
+   "diet": "Earthworms, snails, insects; berries and fallen fruit",
+   "habitat": "Woodland with undergrowth, hedgerows, parks and gardens; winters in olive groves and scrub",
+   "lifespan": "Typically 2–3 years",
+   "size": "20–23.5 cm; 50–107 g",
+   "behaviour": "Grips a snail by the lip of its shell and beats it against a stone until it shatters.",
+   "fieldMarks": [
+    "Warm brown upperparts with no markings",
+    "Buff-washed breast with neat dark arrowhead spots",
+    "Orange-buff underwing visible in flight",
+    "Smaller and shorter-tailed than mistle thrush"
+   ],
+   "voice": "Loud, clear and inventive song in which each phrase is repeated 2–4 times ('cherry-dew, cherry-dew, cherry-dew'); call a short, thin 'tsip'.",
+   "lookalikes": "Mistle thrush is larger and greyer with round spots, white tail corners and white underwings, and gives a dry rattle. Redwing has a bold cream eyebrow and red flanks.",
+   "whereToSee": "Gardens and woods throughout Europe; huge numbers winter in Spanish and Moroccan olive groves.",
+   "season": "Resident in western Europe; summer visitor in the north and east; winter visitor to the Mediterranean and Middle East Oct–Mar",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "Robert Browning wrote in 'Home-Thoughts, from Abroad' (1845): 'That's the wise thrush; he sings each song twice over', and Thomas Hardy's 'The Darkling Thrush' (1900) uses a winter thrush as a symbol of hope.",
+  "historicalNames": [
+   "Turdus",
+   "Throstle",
+   "Mavis",
+   "Grive"
+  ],
+  "funFact": "Thrushes are still trapped and eaten illegally in parts of the Mediterranean; the bird was a prized food in ancient Rome, where Varro described aviaries fattening thousands of them."
+ },
+ {
+  "slug": "alauda-arvensis",
+  "scientific": "Alauda arvensis",
+  "common": "Eurasian skylark",
+  "otherNames": [
+   "Chakavak (Persian)",
+   "Qubbara (Arabic)",
+   "Tarla kuşu (Turkish)",
+   "Feldlerche (German)",
+   "Alouette des champs (French)",
+   "Alondra común (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Alaudidae",
+  "shelves": [
+   "songbird"
+  ],
+  "summary": "A streaky brown bird of open fields that rises almost vertically into the sky, hanging there for minutes on end while pouring out an unbroken torrent of song. It has declined sharply in intensively farmed parts of Europe.",
+  "nativeRange": "Europe, North Africa, Turkey and the Middle East across Central Asia and Siberia to the Pacific; introduced to New Zealand, Australia and Vancouver Island",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "Central Asia"
+  ],
+  "biomes": [
+   "Temperate grassland",
+   "Farmland",
+   "Steppe",
+   "Moorland"
+  ],
+  "abilities": [
+   "Sings continuously in hovering flight, sometimes for over 10 minutes, at heights that make it hard to see",
+   "Nests on the open ground, needing short, sparse vegetation",
+   "Song contains hundreds of syllables and varies between local neighbourhoods",
+   "Northern populations migrate in large daytime flocks in autumn"
+  ],
+  "animal": {
+   "diet": "Seeds and leaves in winter; insects and spiders in the breeding season",
+   "habitat": "Arable fields, grassland, steppe, dunes, moorland",
+   "lifespan": "Typically 2–5 years",
+   "size": "18–19 cm; 33–45 g",
+   "behaviour": "Climbs on fluttering wings while singing, hangs high in the sky, then parachutes down in steps before dropping silently to the ground.",
+   "fieldMarks": [
+    "Streaked brown upperparts and a streaked breast band",
+    "Short crest that can be raised",
+    "White outer tail feathers and a narrow white trailing edge to the wing",
+    "Stout bill and long hind claw"
+   ],
+   "voice": "Song a long, high, rapid and unbroken warbling delivered in flight; call a liquid, rolling 'chirrup'.",
+   "lookalikes": "Woodlark is shorter-tailed with a bold pale eyebrow meeting on the nape and no white trailing edge, and sings a slow, descending 'lu-lu-lu'. Crested lark has a long spiky crest and no white on the tail sides. Meadow pipit is slimmer with a thinner bill.",
+   "whereToSee": "Arable land, downs and coastal grassland across Europe; steppes of Kazakhstan; winter fields in North Africa and the Middle East.",
+   "season": "Resident in western Europe; summer visitor in the north and east; song Feb–Jul",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "Shelley's 'To a Skylark' (1820) and George Meredith's poem that inspired Vaughan Williams's 'The Lark Ascending' (1914) made it the voice of the English countryside, and 'Chakavak' is the name of a melodic section (gusheh) in the Homayun mode of Persian classical music.",
+  "historicalNames": [
+   "Alauda",
+   "Laverock",
+   "Lark",
+   "Alouette"
+  ],
+  "funFact": "Shakespeare's Juliet argues with Romeo over whether they hear the nightingale or the lark, the bird that signals dawn and his departure."
+ },
+ {
+  "slug": "parus-major",
+  "scientific": "Parus major",
+  "common": "Great tit",
+  "otherNames": [
+   "Büyük baştankara (Turkish)",
+   "Charkh-risak-e bozorg (Persian)",
+   "Kohlmeise (German)",
+   "Mésange charbonnière (French)",
+   "Carbonero común (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Paridae",
+  "shelves": [
+   "songbird",
+   "marvel"
+  ],
+  "summary": "The largest European tit, green and yellow with a glossy black head and a black stripe down the belly. It is one of the most studied wild birds in the world, thanks to long-running nest-box projects such as Wytham Woods near Oxford since 1947.",
+  "nativeRange": "Europe, North Africa, the Middle East and Central Asia east to the Amur; eastern Asian populations are now treated as separate species",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "Central Asia"
+  ],
+  "biomes": [
+   "Temperate forest",
+   "Woodland",
+   "Gardens and parks"
+  ],
+  "abilities": [
+   "Times egg-laying to the spring peak of winter-moth caterpillars, a classic climate-change study",
+   "Learns new foraging tricks socially; traditions spread through populations in experiments",
+   "In a Hungarian cave, great tits were recorded hunting and eating hibernating pipistrelle bats",
+   "Has dozens of song variants and a large vocabulary of calls"
+  ],
+  "animal": {
+   "diet": "Caterpillars and other insects; seeds and nuts, especially beechmast, in winter",
+   "habitat": "Deciduous and mixed woodland, parks, gardens, orchards",
+   "lifespan": "Typically 1–3 years",
+   "size": "12.5–14 cm; 16–21 g",
+   "behaviour": "A bold visitor to feeders that forms mixed flocks with other tits in winter and nests readily in boxes.",
+   "fieldMarks": [
+    "Glossy black head with bright white cheeks",
+    "Yellow underparts split by a black central stripe, broader in males",
+    "Greenish back, blue-grey wings with a white wing bar",
+    "Larger than blue tit"
+   ],
+   "voice": "Extremely varied; the classic song is a ringing two-note 'teacher-teacher' or 'tee-cha'; also a scolding 'churr' and a ringing 'pink'.",
+   "lookalikes": "Coal tit is much smaller with a white nape patch and no yellow. Blue tit has a blue crown and lacks the black breast stripe. Sombre tit (Balkans, Turkey) has a dusky cap and no yellow.",
+   "whereToSee": "Gardens, parks and woods throughout Europe and western Asia; Wytham Woods, Oxford, is its research home.",
+   "season": "Resident year-round; song from late winter",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "Its two-note song was called the 'saw-sharpener' in English country lore, and the Wytham Woods population, studied since 1947 by the Edward Grey Institute, has shaped modern ideas about natural selection in the wild.",
+  "historicalNames": [
+   "Parus major",
+   "Ox-eye",
+   "Titmouse",
+   "Charbonnière"
+  ],
+  "funFact": "Great tit eggs have been laid progressively earlier in the Netherlands and Britain as springs have warmed, one of the best documented biological responses to climate change."
+ },
+ {
+  "slug": "cyanistes-caeruleus",
+  "scientific": "Cyanistes caeruleus",
+  "common": "Eurasian blue tit",
+  "otherNames": [
+   "Mavi baştankara (Turkish)",
+   "Blaumeise (German)",
+   "Mésange bleue (French)",
+   "Herrerillo común (Spanish)",
+   "Pimpelmees (Dutch)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Paridae",
+  "shelves": [],
+  "summary": "A tiny acrobatic tit with an azure cap, yellow underparts and a white face crossed by a dark eye-stripe. It is a dominant garden and woodland bird across Europe, raising some of the largest broods of any songbird.",
+  "nativeRange": "Europe, Turkey, the Caucasus, northern Iran and the Middle East; the African blue tit of North Africa and the Canaries is now a separate species",
+  "regions": [
+   "Europe",
+   "West Asia"
+  ],
+  "biomes": [
+   "Temperate forest",
+   "Woodland",
+   "Gardens and parks"
+  ],
+  "abilities": [
+   "Lays clutches of up to around 12 or more eggs, among the largest of any European songbird",
+   "Crown feathers reflect ultraviolet light; females favour males with brighter UV crowns",
+   "Hangs upside down to glean aphids and caterpillars from the tips of twigs",
+   "Learned to open milk-bottle tops in 20th-century Britain, a classic case of spreading animal innovation"
+  ],
+  "animal": {
+   "diet": "Caterpillars, aphids, spiders; seeds, nuts and nectar in winter",
+   "habitat": "Deciduous woodland, especially oak, parks, gardens, reedbeds in winter",
+   "lifespan": "Typically 1–3 years",
+   "size": "10.5–12 cm; 9–12 g",
+   "behaviour": "Raises a single large brood timed to the oak-caterpillar peak, with parents delivering hundreds of caterpillars a day.",
+   "fieldMarks": [
+    "Bright blue crown, wings and tail",
+    "White cheeks with a dark line through the eye and dark collar",
+    "Yellow underparts with a small dark belly smudge",
+    "Small, short-billed and very active"
+   ],
+   "voice": "Song a high 'tsee-tsee-tsirrrr' ending in a trill; scolds with a rapid 'chur-r-r-r'.",
+   "lookalikes": "Great tit is larger with a black head and a black breast stripe. Azure tit (Russia, Central Asia) is whiter below with a white crown. African blue tit of North Africa has a dark-blue cap and slate back.",
+   "whereToSee": "Gardens and woods across Europe, Turkey and the Caucasus; common at feeders in winter.",
+   "season": "Resident year-round",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "The milk-bottle raids reported by James Fisher and Robert Hinde in 1949 became a textbook example of cultural transmission in animals; the habit faded as doorstep milk deliveries declined.",
+  "historicalNames": [
+   "Parus caeruleus",
+   "Tom-tit",
+   "Blue titmouse",
+   "Billy-biter"
+  ],
+  "funFact": "Blue tits see in ultraviolet, so males and females that look identical to us are clearly different to each other."
+ },
+ {
+  "slug": "carduelis-carduelis",
+  "scientific": "Carduelis carduelis",
+  "common": "European goldfinch",
+  "otherNames": [
+   "Hassoun (Arabic)",
+   "Saka (Turkish)",
+   "Stieglitz (German)",
+   "Chardonneret (French)",
+   "Jilguero (Spanish)",
+   "Cardellino (Italian)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Fringillidae",
+  "shelves": [
+   "songbird"
+  ],
+  "summary": "A brilliantly patterned finch with a red face, black-and-white head and broad gold wing bars, often seen in tinkling flocks on thistles. Its beauty and song made it one of the most trapped cage birds of the Mediterranean and Middle East.",
+  "nativeRange": "Europe, North Africa, the Middle East and Central Asia to western Siberia and the western Himalaya; introduced to Australia, New Zealand and South America",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "Central Asia"
+  ],
+  "biomes": [
+   "Woodland",
+   "Farmland",
+   "Disturbed ground",
+   "Gardens and parks"
+  ],
+  "abilities": [
+   "Fine, pointed bill extracts seeds from thistles and teasels that other finches cannot reach",
+   "Males' slightly longer bills let them feed more easily on teasel heads",
+   "Light enough to cling to swaying seedheads",
+   "Some populations migrate to the Mediterranean for winter"
+  ],
+  "animal": {
+   "diet": "Seeds of thistles, teasel, dandelion, groundsel and other plants; insects for young",
+   "habitat": "Open country with scattered trees, orchards, wasteland, gardens",
+   "lifespan": "Typically 2–3 years",
+   "size": "12–13 cm; 14–19 g",
+   "behaviour": "Flocks, known as a 'charm', move together from one weedy patch to the next, constantly calling.",
+   "fieldMarks": [
+    "Red face mask surrounded by white and black",
+    "Broad yellow band across black wings",
+    "Buff-brown back, white rump, black tail with white spots",
+    "Juveniles lack the red face but show the gold wing bar"
+   ],
+   "voice": "Song a fast, liquid, tinkling twitter; flight call a cheerful 'tickelitt'.",
+   "lookalikes": "No adult European bird has the same face pattern. Juveniles have a plain grey-brown head but the same golden wing bar, which separates them from young serins and siskins.",
+   "whereToSee": "Weedy field margins, orchards and gardens across Europe; abundant in Mediterranean and Anatolian farmland in winter.",
+   "season": "Resident in much of its range; partial migrant from the north",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "Renaissance painters such as Raphael ('Madonna of the Goldfinch', c. 1505) placed it in the Christ Child's hand as a symbol of the Passion, because it eats among thorns, and Carel Fabritius painted 'The Goldfinch' in 1654, the year he died.",
+  "historicalNames": [
+   "Carduelis",
+   "Acanthis",
+   "Goldspink",
+   "Thistle-finch"
+  ],
+  "funFact": "In North Africa the hassoun is a prized competition singer, and trapping for the cage-bird trade has depleted wild populations there."
+ },
+ {
+  "slug": "fringilla-coelebs",
+  "scientific": "Fringilla coelebs",
+  "common": "Common chaffinch",
+  "otherNames": [
+   "Shurshur (Arabic)",
+   "İspinoz (Turkish)",
+   "Buchfink (German)",
+   "Pinson des arbres (French)",
+   "Pinzón vulgar (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Fringillidae",
+  "shelves": [
+   "songbird"
+  ],
+  "summary": "One of Europe's most abundant birds: a pink-breasted, blue-capped finch with bold white wing bars. Its short song has regional dialects learned by young birds, making it a classic species for studies of how birds learn to sing.",
+  "nativeRange": "Europe, western Siberia, Turkey, the Caucasus, northern Iran and western Central Asia; North African birds are now often treated as a separate species",
+  "regions": [
+   "Europe",
+   "West Asia",
+   "Central Asia"
+  ],
+  "biomes": [
+   "Temperate forest",
+   "Woodland",
+   "Farmland",
+   "Gardens and parks"
+  ],
+  "abilities": [
+   "Young males learn their songs in a sensitive period and refine them the next spring, as shown by W. H. Thorpe in the 1950s",
+   "Song shows local dialects that differ between valleys and woods",
+   "Females and young migrate further south than adult males, so northern winter flocks are largely male",
+   "Huge visible migrations pass coastal headlands in autumn"
+  ],
+  "animal": {
+   "diet": "Seeds from the ground in winter; caterpillars and other insects in summer",
+   "habitat": "All kinds of woodland, hedgerows, parks, gardens and farmland",
+   "lifespan": "Typically 2–3 years",
+   "size": "14.5–16 cm; 18–29 g",
+   "behaviour": "Feeds on the ground with a shuffling walk, often in mixed winter flocks with bramblings.",
+   "fieldMarks": [
+    "Male: blue-grey crown and nape, pinkish-orange face and breast, chestnut back",
+    "Two bold white wing bars and white outer tail feathers in both sexes",
+    "Female olive-brown with the same wing pattern",
+    "Greenish rump"
+   ],
+   "voice": "Song an accelerating descending rattle ending in a flourish, 'chip-chip-chip-tell-tell-cherry-erry-tissi-cheweeo'; call a sharp 'pink' and a rising 'hweet' rain call.",
+   "lookalikes": "Brambling has an orange breast and shoulder, and a white rump. Female house sparrow lacks the bold white wing bars. Common rosefinch males are red rather than pink-and-blue.",
+   "whereToSee": "Any European woodland, park or farmland; Falsterbo (Sweden) and the Curonian Spit see vast autumn passage.",
+   "season": "Resident in the west; summer visitor in the north and east; winter visitor to the Mediterranean and Middle East",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "Linnaeus named it 'coelebs', meaning bachelor, because in Sweden only males stay through the winter. Belgian 'vinkenzetting' contests, in which caged males are scored on how many songs they sing in an hour, go back centuries.",
+  "historicalNames": [
+   "Fringilla",
+   "Spink",
+   "Pink",
+   "Chaffinch"
+  ],
+  "funFact": "Hand-reared chaffinches that never hear an adult sing develop only a simple, abnormal song, which showed that birdsong is partly learned."
+ },
+ {
+  "slug": "troglodytes-troglodytes",
+  "scientific": "Troglodytes troglodytes",
+  "common": "Eurasian wren",
+  "otherNames": [
+   "Çit kuşu (Turkish)",
+   "Zaunkönig (German)",
+   "Troglodyte mignon (French)",
+   "Dryw (Welsh)",
+   "Dreoilín (Irish)",
+   "Chochín (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Troglodytidae",
+  "shelves": [
+   "songbird",
+   "marvel"
+  ],
+  "summary": "A tiny, round, cocked-tailed mouse of a bird with a voice out of all proportion to its size. It is one of the most widespread birds in Europe, from city gardens to remote sea cliffs.",
+  "nativeRange": "Europe, North Africa, Turkey, the Middle East, Central Asia and the Himalaya to East Asia; American winter wrens are now separate species",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "Central Asia"
+  ],
+  "biomes": [
+   "Temperate forest",
+   "Woodland",
+   "Gardens and parks",
+   "Coastal cliffs"
+  ],
+  "abilities": [
+   "Song is very loud for a bird weighing about 10 g",
+   "Males build several domed nests from moss and leaves, and the female chooses one to line",
+   "In hard winters dozens may pack into a single nest box or cavity to keep warm",
+   "Isolated island subspecies have evolved on St Kilda, Fair Isle and Shetland"
+  ],
+  "animal": {
+   "diet": "Spiders and small insects gleaned from low vegetation",
+   "habitat": "Dense undergrowth, hedges, gardens, reedbeds, rocky coasts and moorland",
+   "lifespan": "Typically about 2 years",
+   "size": "9–10.5 cm; 7–12 g",
+   "behaviour": "Creeps mouse-like through undergrowth and log piles, then bursts out to sing from a low perch with its tail cocked.",
+   "fieldMarks": [
+    "Tiny, round, warm-brown body with fine dark barring",
+    "Short tail held cocked upright",
+    "Pale eyebrow and thin, slightly curved bill",
+    "Whirring, direct flight low across gaps"
+   ],
+   "voice": "Song an explosive, rapid outpouring of clear notes and trills lasting about five seconds; calls a hard 'tek-tek' and a dry, rattling churr.",
+   "lookalikes": "Dunnock is larger with a grey head and does not cock its tail. Treecreeper climbs trunks and is white below. Goldcrest is greener with a striped crown.",
+   "whereToSee": "Gardens, woods and hedgerows anywhere in Europe; the distinct St Kilda wren on the cliffs of Hirta.",
+   "season": "Resident in most of Europe; northern and eastern birds move south in winter",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "Aesop's fable tells how the wren became 'king of the birds' by riding on the eagle's back and flying highest, and on St Stephen's Day (26 December) Irish 'wrenboys' traditionally paraded a wren from door to door.",
+  "historicalNames": [
+   "Regulus",
+   "Trochilus",
+   "Jenny Wren",
+   "Kitty Wren"
+  ],
+  "funFact": "The wren appeared on the reverse of the British farthing from 1937 until the coin was withdrawn in 1960."
+ },
+ {
+  "slug": "cuculus-canorus",
+  "scientific": "Cuculus canorus",
+  "common": "Common cuckoo",
+  "otherNames": [
+   "Waqwaq (Arabic)",
+   "Kuku (Persian)",
+   "Guguk kuşu (Turkish)",
+   "Kuckuck (German)",
+   "Coucou gris (French)",
+   "Kukushka (Russian)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Cuculidae",
+  "shelves": [
+   "songbird",
+   "migrant",
+   "marvel"
+  ],
+  "summary": "A slim, hawk-like grey bird whose two-note call announces spring across Eurasia. It never raises its own young: each female lays her eggs in the nests of a particular host species, often with eggs matched to the host's own.",
+  "nativeRange": "Breeds across Europe, North Africa, Turkey, the Middle East and Asia to Japan; winters in sub-Saharan Africa and South Asia",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "Central Asia",
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Woodland",
+   "Reedbed",
+   "Moorland",
+   "Steppe"
+  ],
+  "abilities": [
+   "Female lineages (gentes) specialise on hosts such as reed warblers, meadow pipits or dunnocks, often laying mimetic eggs",
+   "A female can lay an egg in a host nest within about 10 seconds",
+   "The newly hatched chick heaves host eggs and chicks out of the nest on its back",
+   "Satellite-tagged British cuckoos fly to the Congo rainforest and cross the Sahara on non-stop flights"
+  ],
+  "animal": {
+   "diet": "Large hairy caterpillars avoided by most birds, plus beetles and other insects",
+   "habitat": "Woodland edge, reedbeds, moorland, farmland with hedges, steppe",
+   "lifespan": "Typically a few years; the European ringing record is about 9.5 years",
+   "size": "32–34 cm; wingspan 54–60 cm; 110–130 g",
+   "behaviour": "Females watch host nests from a perch and slip in to lay while the owners are away, often removing one host egg.",
+   "fieldMarks": [
+    "Slate-grey head, back and breast; barred white belly",
+    "Long, graduated tail with white spots; pointed wings",
+    "Yellow eye-ring and feet",
+    "Rare 'hepatic' females are rufous with black bars"
+   ],
+   "voice": "Male gives the famous far-carrying 'cuck-oo', the second note lower; the female makes a bubbling, chuckling trill.",
+   "lookalikes": "Eurasian sparrowhawk has broad, rounded wings and yellow eyes, and flaps and glides rather than flying with shallow, below-the-body wingbeats. Oriental cuckoo (eastern Russia) gives a hoopoe-like 'poo-poo'.",
+   "whereToSee": "Reedbeds, heaths and moorland across Europe in May; Wicken Fen and the Norfolk Broads in England; Turkish and Central Asian river valleys.",
+   "season": "Summer visitor Apr–Aug; adults leave as early as July",
+   "order": "Cuculiformes"
+  },
+  "iucn": "LC",
+  "lore": "Edward Jenner, later famous for vaccination, published in 1788 the first account of the cuckoo chick ejecting its foster siblings, an observation long doubted until photographs confirmed it in the 20th century.",
+  "historicalNames": [
+   "Cuculus",
+   "Cuckow",
+   "Gowk",
+   "Coccyx"
+  ],
+  "funFact": "The medieval English round 'Sumer is icumen in' (c. 1260), one of the oldest surviving songs in English, begins with 'Lhude sing cuccu!'"
+ },
+ {
+  "slug": "merops-apiaster",
+  "scientific": "Merops apiaster",
+  "common": "European bee-eater",
+  "otherNames": [
+   "Warwar (Arabic)",
+   "Zanbur-khar (Persian)",
+   "Arı kuşu (Turkish)",
+   "Bienenfresser (German)",
+   "Guêpier d'Europe (French)",
+   "Abejaruco (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Meropidae",
+  "shelves": [
+   "migrant"
+  ],
+  "summary": "A gloriously coloured aerial hunter in chestnut, gold and turquoise that catches bees and wasps on the wing. It nests colonially in tunnels dug into sandy banks and winters in Africa.",
+  "nativeRange": "Breeds in southern Europe, North Africa, Turkey, the Middle East and Central Asia; winters in sub-Saharan Africa, with a small resident population in southern Africa",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "Central Asia",
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Mediterranean scrub",
+   "Farmland",
+   "Riparian",
+   "Steppe"
+  ],
+  "abilities": [
+   "Removes the sting of a bee by beating and rubbing it against a perch before swallowing",
+   "Digs nest tunnels up to a metre or more long in sandbanks with its bill",
+   "Helpers, often previous offspring, assist some pairs in feeding chicks",
+   "Its range is moving north with warmer summers, with recent breeding in Germany and Britain"
+  ],
+  "animal": {
+   "diet": "Flying insects, chiefly bees, wasps and hornets, also dragonflies and beetles",
+   "habitat": "Open warm country with sandy or earthen banks, river cliffs, quarries",
+   "lifespan": "Typically a few years; the European ringing record is 7 years",
+   "size": "27–29 cm including tail streamers; 44–78 g",
+   "behaviour": "Sallies from wires and dead branches to snap up insects, then returns to bash them on the perch.",
+   "fieldMarks": [
+    "Chestnut crown and back, golden-yellow shoulders and throat",
+    "Black eye mask and black necklace",
+    "Turquoise-blue underparts",
+    "Long pointed central tail feathers and long, decurved black bill"
+   ],
+   "voice": "A liquid, rolling 'prruip' or 'krruup', given constantly by flocks overhead and often the first sign of their presence.",
+   "lookalikes": "Blue-cheeked bee-eater (North Africa, Middle East) is mostly green with a chestnut throat and longer streamers. European roller is stockier and blue with no long tail streamers.",
+   "whereToSee": "Extremadura and the Ebro valley in Spain, the Camargue, Greek and Turkish river valleys; huge passage flocks over Eilat and the Bosphorus.",
+   "season": "Summer visitor Apr/May–Sep; passage migrant across the Mediterranean and Middle East",
+   "order": "Coraciiformes"
+  },
+  "iucn": "LC",
+  "lore": "Aristotle wrote that beekeepers regarded the 'merops' as an enemy of their hives, and its Arabic name 'warwar' imitates its rolling call.",
+  "historicalNames": [
+   "Merops",
+   "Apiaster",
+   "Gnat-snapper"
+  ],
+  "funFact": "In 2022 a small colony bred in a quarry at Trimingham, Norfolk, and drew thousands of visitors."
+ },
+ {
+  "slug": "alcedo-atthis",
+  "scientific": "Alcedo atthis",
+  "common": "Common kingfisher",
+  "otherNames": [
+   "Sayyad al-samak (Arabic)",
+   "Mahi-khorak (Persian)",
+   "Yalıçapkını (Turkish)",
+   "Chhota kilkila (Urdu/Hindi)",
+   "Eisvogel (German)",
+   "Martin-pêcheur (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Alcedinidae",
+  "shelves": [
+   "freshwater"
+  ],
+  "summary": "A tiny flash of electric blue and orange along quiet rivers. It plunges headfirst for small fish and nests at the end of a tunnel in an earth bank.",
+  "nativeRange": "Europe, North Africa, the Middle East, Central Asia, South and East Asia to New Guinea and the Solomon Islands",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "Central Asia",
+   "South Asia",
+   "East Asia",
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Rivers",
+   "Lakes",
+   "Wetland",
+   "Estuaries"
+  ],
+  "abilities": [
+   "Its blue back is structural colour produced by the nanostructure of the feathers, not pigment",
+   "Dives with eyes covered by a protective membrane and corrects for refraction when aiming",
+   "Its bill entering water with little splash inspired the redesigned nose of the 500 Series Shinkansen",
+   "Pairs may raise two or three broods a year to offset heavy winter losses"
+  ],
+  "animal": {
+   "diet": "Small fish such as minnows and sticklebacks; aquatic insects, tadpoles",
+   "habitat": "Clear, slow rivers, streams, canals and lakes with earth banks; coasts in winter",
+   "lifespan": "Most live 1–2 years",
+   "size": "16–17 cm; wingspan 24–26 cm; 34–46 g",
+   "behaviour": "Perches still over water, then plunge-dives and beats the fish against a branch before swallowing it headfirst.",
+   "fieldMarks": [
+    "Brilliant cobalt-to-turquoise upperparts with a pale-blue back stripe",
+    "Orange underparts and cheek patch, white throat and neck patch",
+    "Long dagger bill; female has an orange base to the lower mandible",
+    "Stubby tail and tiny red feet"
+   ],
+   "voice": "A shrill, piercing whistle, 'tseee' or 'chee-kee', given in low, fast flight over water.",
+   "lookalikes": "No other small European bird is this colour. In the Middle East, white-throated kingfisher is much larger with a red bill, and pied kingfisher is black and white and hovers.",
+   "whereToSee": "Lowland rivers across Europe; the Danube Delta, the Camargue, Turkish and Iraqi marshes; wintering birds on Mediterranean coasts.",
+   "season": "Resident in western Europe; northern and eastern birds move south in winter",
+   "order": "Coraciiformes"
+  },
+  "iucn": "LC",
+  "lore": "Greek myth turned the grieving Alcyone into a kingfisher, and the calm 'halcyon days' around the winter solstice were believed to be granted by the gods so it could nest on the sea.",
+  "historicalNames": [
+   "Halcyon",
+   "Ispida",
+   "Alcedo",
+   "Kingfisher"
+  ],
+  "funFact": "Engineer Eiji Nakatsu, a birdwatcher, modelled the 500 Series Shinkansen's nose on the kingfisher's bill to reduce the loud 'tunnel boom' (pressure-wave bang) when trains left tunnels."
+ },
+ {
+  "slug": "ciconia-ciconia",
+  "scientific": "Ciconia ciconia",
+  "common": "White stork",
+  "otherNames": [
+   "Laqlaq (Arabic)",
+   "Laklak (Persian)",
+   "Leylek (Turkish)",
+   "Weißstorch (German)",
+   "Ooievaar (Dutch)",
+   "Bocian biały (Polish)",
+   "Cigüeña blanca (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Ciconiidae",
+  "shelves": [
+   "migrant",
+   "sacred"
+  ],
+  "summary": "A tall white wader with black flight feathers and a red bill, which nests on rooftops, church towers and pylons. Its soaring migrations funnel over Gibraltar, the Bosphorus and Israel in hundreds of thousands on the way to Africa.",
+  "nativeRange": "Breeds in Europe, North Africa, Turkey, the Middle East and Central Asia; winters in sub-Saharan Africa, with some in South Asia and increasingly in Iberia",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "Central Asia",
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Wetland",
+   "Farmland",
+   "Temperate grassland"
+  ],
+  "abilities": [
+   "Soars on thermals to save energy, avoiding long sea crossings",
+   "Communicates by bill-clattering, as it is almost voiceless",
+   "Reuses enormous stick nests for decades; some nests weigh hundreds of kilograms",
+   "Many Iberian storks now winter on rubbish tips instead of crossing to Africa"
+  ],
+  "animal": {
+   "diet": "Frogs, insects (especially locusts and grasshoppers), worms, small mammals, fish and reptiles",
+   "habitat": "Wet meadows, farmland, river valleys and marshes near villages",
+   "lifespan": "Often 8–10 years; may exceed 30",
+   "size": "100–115 cm long; wingspan 155–215 cm; 2.3–4.5 kg",
+   "behaviour": "Mates greet each other at the nest by throwing back their heads and clattering their bills like castanets.",
+   "fieldMarks": [
+    "White body with black flight feathers",
+    "Long red bill and red legs",
+    "Flies with neck outstretched and legs trailing",
+    "Juveniles have dull, dark-tipped bills"
+   ],
+   "voice": "Adults are nearly silent except for loud bill-clattering; chicks make hissing and mewing sounds.",
+   "lookalikes": "Black stork is glossy black above with a white belly. Common crane is grey with a black-and-white head. Great white egret is all white with a yellow or dark bill and flies with its neck folded.",
+   "whereToSee": "Rooftop colonies in Alsace, Extremadura, Poland (Żywkowo) and Morocco; mass migration at the Strait of Gibraltar, Istanbul's Bosphorus and the Hula Valley, Israel.",
+   "season": "Summer visitor Feb/Mar–Aug; migration peaks in late August and in March",
+   "order": "Ciconiiformes"
+  },
+  "iucn": "LC",
+  "lore": "In 1822 a stork shot in Klütz, Germany, carried a central African spear in its neck; this 'Pfeilstorch' helped prove that birds migrate rather than hibernate. Across the Islamic world storks were revered as pilgrims that travelled towards Mecca each year, and in Turkey the bird is still affectionately called 'hacı leylek', the pilgrim stork.",
+  "historicalNames": [
+   "Ciconia",
+   "Pelargos",
+   "Storke",
+   "Adebar"
+  ],
+  "funFact": "The European legend of storks delivering babies is linked to their return each spring and their faithful nesting on houses."
+ },
+ {
+  "slug": "ardea-cinerea",
+  "scientific": "Ardea cinerea",
+  "common": "Grey heron",
+  "otherNames": [
+   "Balshoun (Arabic)",
+   "Gri balıkçıl (Turkish)",
+   "Graureiher (German)",
+   "Héron cendré (French)",
+   "Garza real (Spanish)",
+   "Blauwe reiger (Dutch)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Ardeidae",
+  "shelves": [
+   "freshwater"
+  ],
+  "summary": "A tall, grey, dagger-billed hunter that stands motionless at the water's edge for long periods before striking. It nests in noisy treetop colonies called heronries, some occupied for centuries.",
+  "nativeRange": "Europe, North Africa, the Middle East, Central, South and East Asia, and sub-Saharan Africa and Madagascar",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "Central Asia",
+   "South Asia",
+   "East Asia",
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Wetland",
+   "Rivers",
+   "Lakes",
+   "Estuaries"
+  ],
+  "abilities": [
+   "Specialised neck vertebrae let it shoot its bill forward in a lightning strike",
+   "Swallows prey as large as eels, rats and ducklings whole",
+   "Hunts by day and night, standing still for long periods",
+   "Grows powder-down feathers that crumble into a dust used to clean slime from its plumage"
+  ],
+  "animal": {
+   "diet": "Fish, eels, frogs, small mammals, ducklings, large insects",
+   "habitat": "Rivers, lakes, marshes, estuaries, ditches and garden ponds",
+   "lifespan": "Typically about 5 years; ringed birds have exceeded 20",
+   "size": "84–102 cm long; wingspan 155–175 cm; 1–2 kg",
+   "behaviour": "Begins nesting in late winter, when heronries fill with bill-clattering and harsh croaks long before the leaves appear.",
+   "fieldMarks": [
+    "Grey back, whitish neck and underparts with black streaks down the front",
+    "White head with a black stripe ending in a wispy plume",
+    "Dagger-like yellow bill; bright orange in breeding adults",
+    "Flies with neck pulled in, on slow, bowed wings with black flight feathers"
+   ],
+   "voice": "A loud, harsh 'fraank' in flight; heronries are full of clattering, croaking and bill-snapping.",
+   "lookalikes": "Purple heron is darker and rufous with a thin snake-like neck. Common crane flies with neck outstretched. White stork is white with a red bill.",
+   "whereToSee": "Almost any European wetland; large heronries in the Netherlands, the Danube Delta and English parks such as Regent's Park, London.",
+   "season": "Resident in western Europe; northern and eastern birds winter south to Africa",
+   "order": "Pelecaniformes"
+  },
+  "iucn": "LC",
+  "lore": "The Egyptian Bennu bird, linked to the sun god and later to the Greek phoenix, is usually depicted as a grey heron, and herons were prized quarry of medieval falconers and served roast at royal feasts.",
+  "historicalNames": [
+   "Ardea",
+   "Hernshaw",
+   "Heronsew",
+   "Herodius"
+  ],
+  "funFact": "Hamlet's line 'I know a hawk from a handsaw' is often read as a corruption of 'hernshaw', an old word for heron."
+ },
+ {
+  "slug": "bubo-bubo",
+  "scientific": "Bubo bubo",
+  "common": "Eurasian eagle-owl",
+  "otherNames": [
+   "Shah-buf (Persian)",
+   "Puhu (Turkish)",
+   "Uhu (German)",
+   "Grand-duc d'Europe (French)",
+   "Búho real (Spanish)",
+   "Filin (Russian)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Strigidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "One of the largest owls in the world, with blazing orange eyes and tall ear tufts. A top predator of cliffs and forests, it hunts everything from voles to foxes, herons and other birds of prey.",
+  "nativeRange": "Europe, Turkey, the Middle East, Central Asia and northern Asia to the Pacific; North African birds are now treated as the separate Pharaoh eagle-owl",
+  "regions": [
+   "Europe",
+   "West Asia",
+   "Central Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Mountains",
+   "Temperate forest",
+   "Steppe",
+   "Desert edge"
+  ],
+  "abilities": [
+   "Can kill prey as large as young roe deer and foxes",
+   "Regularly kills other raptors and owls, including buzzards and peregrines",
+   "Its deep hoot can carry several kilometres on still nights",
+   "Has recolonised cities such as Helsinki and nests on buildings and quarries"
+  ],
+  "animal": {
+   "diet": "Mammals from voles to hares and hedgehogs, rats, birds up to heron and duck size, frogs",
+   "habitat": "Cliffs, rocky gorges, quarries, forests with crags, steppe ravines",
+   "lifespan": "Up to about 20 years in the wild; longer in captivity",
+   "size": "56–75 cm; wingspan 131–188 cm; males 1.2–3.2 kg, females 1.75–4.6 kg",
+   "behaviour": "Hunts from a perch at dusk, gliding silently down onto prey, and often caches surplus kills at the nest.",
+   "fieldMarks": [
+    "Huge, barrel-shaped tawny-brown owl",
+    "Large orange eyes and long, often raised ear tufts",
+    "Dark streaking on the breast; white throat shows when calling",
+    "Thickly feathered legs and feet"
+   ],
+   "voice": "A deep, resonant 'oo-hu' (hence German 'Uhu'), repeated every 8–10 seconds; females higher-pitched.",
+   "lookalikes": "Long-eared owl is far smaller and slimmer. Pharaoh eagle-owl (North Africa, Arabia) is smaller and paler sandy-buff. Snowy owl has no ear tufts.",
+   "whereToSee": "Gorges and quarries of Spain, southern France, the Alps, Turkey and the Caucasus; the Sierra Morena and Monfragüe in Spain.",
+   "season": "Resident; most vocal in late autumn and late winter",
+   "order": "Strigiformes"
+  },
+  "iucn": "LC",
+  "lore": "Eagle-owls were used as live decoys in German 'Hüttenjagd' hunting, where crows and raptors were shot as they mobbed the tethered owl, and the Persian name 'shah-buf' means king of owls.",
+  "historicalNames": [
+   "Bubo",
+   "Grand-duc",
+   "Uhu",
+   "Horn-owl"
+  ],
+  "funFact": "A wild eagle-owl nicknamed Bubi, living at Helsinki's Olympic Stadium, briefly stopped a Euro 2008 qualifying match when it flew onto the pitch."
+ },
+ {
+  "slug": "strix-aluco",
+  "scientific": "Strix aluco",
+  "common": "Tawny owl",
+  "otherNames": [
+   "Alaca baykuş (Turkish)",
+   "Waldkauz (German)",
+   "Chouette hulotte (French)",
+   "Cárabo común (Spanish)",
+   "Bosuil (Dutch)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Strigidae",
+  "shelves": [],
+  "summary": "A round-headed, dark-eyed woodland owl whose hooting is the classic night sound of European parks and woods. It is strictly territorial, with pairs occupying the same patch for life.",
+  "nativeRange": "Europe, North Africa, Turkey, the Levant, northern Iran and western Central Asia; Himalayan birds are now treated as a separate species",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "Central Asia"
+  ],
+  "biomes": [
+   "Temperate forest",
+   "Woodland",
+   "Gardens and parks"
+  ],
+  "abilities": [
+   "Knows its territory so well it can hunt in near-total darkness",
+   "Hears prey moving under leaf litter and pinpoints it with asymmetrically placed ears",
+   "Fringed flight feathers make its flight almost silent",
+   "Defends its nest fiercely, striking intruders at the head"
+  ],
+  "animal": {
+   "diet": "Woodmice, voles and shrews; also birds, frogs and earthworms",
+   "habitat": "Deciduous and mixed woodland, parks, large gardens and churchyards",
+   "lifespan": "Typically about 4–5 years; record over 20",
+   "size": "37–46 cm; wingspan 81–105 cm; 385–800 g",
+   "behaviour": "Young owlets leave the nest before they can fly and clamber about branches as 'branchers', calling to be fed.",
+   "fieldMarks": [
+    "Rounded head with no ear tufts",
+    "Large dark eyes in a pale-edged facial disc",
+    "Mottled plumage in rufous-brown or grey morphs",
+    "Stocky, broad-winged and short-tailed"
+   ],
+   "voice": "Male gives a long, quavering 'hooo... hu-hu-hu-hooooo'; female and young give a sharp 'ke-wick'. The 'twit-twoo' of legend is a female 'ke-wick' answered by a male hoot.",
+   "lookalikes": "Ural owl (Scandinavia, eastern Europe) is larger and paler with a long tail and small dark eyes. Barn owl is white below with a heart-shaped face. Long-eared owl has ear tufts and orange eyes.",
+   "whereToSee": "Mature woods and city parks throughout Europe; often found by listening at dusk in autumn when young disperse.",
+   "season": "Resident; most vocal in autumn and late winter",
+   "order": "Strigiformes"
+  },
+  "iucn": "LC",
+  "lore": "Bird photographer Eric Hosking lost his left eye to a tawny owl defending its nest in 1937 and titled his autobiography 'An Eye for a Bird'.",
+  "historicalNames": [
+   "Ulula",
+   "Aluco",
+   "Brown owl",
+   "Wood owl"
+  ],
+  "funFact": "A tawny owl pair will often stay in one territory for life and rarely leave it, so many young starve if they fail to find a vacant patch."
+ },
+ {
+  "slug": "apus-apus",
+  "scientific": "Apus apus",
+  "common": "Common swift",
+  "otherNames": [
+   "Sumama (Arabic)",
+   "Badkhorak (Persian)",
+   "Ebabil (Turkish)",
+   "Mauersegler (German)",
+   "Martinet noir (French)",
+   "Vencejo común (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Apodidae",
+  "shelves": [
+   "migrant",
+   "marvel"
+  ],
+  "summary": "A sooty, sickle-winged bird that lives almost entirely in the air, feeding, drinking, mating and sleeping on the wing. Screaming parties race around old buildings on summer evenings before the birds return to Africa.",
+  "nativeRange": "Breeds across Europe, North Africa, the Middle East and Central Asia to China; winters in sub-Saharan Africa",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "Central Asia",
+   "East Asia",
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Open air",
+   "Urban",
+   "Temperate forest"
+  ],
+  "abilities": [
+   "Tracked birds remained airborne for up to 10 months without landing, outside the breeding season",
+   "Sleeps in brief glides at altitude during the night",
+   "Chicks can survive several days without food in cold weather by entering torpor",
+   "Feeds on aerial plankton, gathering balls of hundreds of insects to bring to chicks"
+  ],
+  "animal": {
+   "diet": "Flying insects and airborne spiders",
+   "habitat": "Open skies; nests in holes under roofs, in walls and in towers, and in old tree holes in northern forests",
+   "lifespan": "Often 5–10 years; ringed birds have reached about 18",
+   "size": "16–17 cm; wingspan 40–44 cm; 35–50 g",
+   "behaviour": "Gangs of screaming swifts chase low around rooftops in the evening, then climb high into the sky to roost on the wing.",
+   "fieldMarks": [
+    "Sooty brown-black all over with a small pale throat",
+    "Long, narrow, scythe-shaped wings",
+    "Short forked tail",
+    "Never perches on wires or the ground"
+   ],
+   "voice": "A shrill, drawn-out scream, 'sreeeee', usually from groups in fast flight.",
+   "lookalikes": "Barn swallows and house martins have white or rufous underparts and broader wings, and perch on wires. Pallid swift (Mediterranean) is paler brown with a larger pale throat and blunter wingtips. Alpine swift is larger with a white belly.",
+   "whereToSee": "Over old towns and cities across Europe and western Asia from May to July; Oxford University Museum tower hosts a colony studied since 1948.",
+   "season": "Summer visitor late Apr–Aug; among the last to arrive and first to leave",
+   "order": "Apodiformes"
+  },
+  "iucn": "LC",
+  "lore": "Ted Hughes wrote in 'Swifts' that 'they've made it again, which means the globe's still working', and David Lack's 'Swifts in a Tower' (1956) described the Oxford Museum colony.",
+  "historicalNames": [
+   "Apus",
+   "Hirundo apus",
+   "Devil bird",
+   "Screecher"
+  ],
+  "funFact": "Tagged by Swedish researchers in 2013–2014, some swifts stayed aloft for their entire ten-month non-breeding period."
+ },
+ {
+  "slug": "milvus-milvus",
+  "scientific": "Milvus milvus",
+  "common": "Red kite",
+  "otherNames": [
+   "Kızıl çaylak (Turkish)",
+   "Rotmilan (German)",
+   "Milan royal (French)",
+   "Milano real (Spanish)",
+   "Barcud (Welsh)",
+   "Glede (archaic English)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Accipitridae",
+  "shelves": [],
+  "summary": "An elegant rufous raptor with a deeply forked tail that twists constantly as it steers. Almost lost from Britain by the 20th century, it has become a celebrated reintroduction success over English and Scottish farmland.",
+  "nativeRange": "Europe, chiefly Germany, France and Spain, plus Britain, Switzerland and Sweden; now only a rare winter visitor to North Africa, where it formerly bred",
+  "regions": [
+   "Europe",
+   "North Africa"
+  ],
+  "biomes": [
+   "Farmland",
+   "Woodland",
+   "Temperate grassland"
+  ],
+  "abilities": [
+   "Can stay aloft for hours with little flapping, steering with its long, forked tail",
+   "A scavenger that cleaned medieval city streets of waste",
+   "Decorates its nest with rags, plastic and other debris",
+   "Gathers in communal winter roosts of hundreds of birds"
+  ],
+  "animal": {
+   "diet": "Carrion, small mammals, earthworms, birds, waste food",
+   "habitat": "Farmland and open hills with woodland for nesting",
+   "lifespan": "Often 10+ years; record over 25",
+   "size": "60–70 cm; wingspan 175–195 cm; 0.8–1.3 kg",
+   "behaviour": "Drifts low over fields and roads searching for carrion, often in loose groups around feeding stations.",
+   "fieldMarks": [
+    "Rufous body and long, deeply forked orange-red tail",
+    "Pale grey head",
+    "Long, angled wings with white patches at the base of black primaries",
+    "Constantly twisting tail in flight"
+   ],
+   "voice": "A high, wavering, buzzard-like whistle, 'weeoo-weeoo-weeoo'.",
+   "lookalikes": "Black kite is darker brown with a shallower fork that looks straight-edged when spread. Common buzzard has a short, rounded tail. Marsh harrier glides on raised wings and has no forked tail.",
+   "whereToSee": "The Chilterns of England, Gigrin Farm in mid-Wales, Argaty in Scotland; Germany, Spain and the Swiss lowlands.",
+   "season": "Resident in Britain and western Europe; central and northern European birds winter in Iberia",
+   "order": "Accipitriformes"
+  },
+  "iucn": "LC",
+  "lore": "Medieval London protected kites as street scavengers; in Shakespeare's 'The Winter's Tale' Autolycus warns 'when the kite builds, look to lesser linen', because kites stole washing for their nests.",
+  "historicalNames": [
+   "Milvus",
+   "Glede",
+   "Puttock",
+   "Kyte"
+  ],
+  "funFact": "English reintroduction began in 1989 in the Chilterns, using birds mainly from Spain; the region now holds thousands."
+ },
+ {
+  "slug": "accipiter-nisus",
+  "scientific": "Accipiter nisus",
+  "common": "Eurasian sparrowhawk",
+  "otherNames": [
+   "Bashiq (Arabic)",
+   "Qerqi (Persian)",
+   "Atmaca (Turkish)",
+   "Basha (Urdu)",
+   "Sperber (German)",
+   "Épervier d'Europe (French)",
+   "Gavilán (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Accipitridae",
+  "shelves": [],
+  "summary": "A short-winged, long-tailed hawk built for ambush, flashing along hedgerows to snatch small birds by surprise. Females are much larger than males, nearly twice their weight.",
+  "nativeRange": "Europe, North Africa, the Middle East and Central Asia across Siberia to Japan; northern birds winter south to Africa and South Asia",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "Central Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Woodland",
+   "Temperate forest",
+   "Farmland",
+   "Gardens and parks"
+  ],
+  "abilities": [
+   "Hunts by surprise, using hedges and buildings as cover to ambush songbirds",
+   "Females take prey up to woodpigeon size; males mostly hunt tits and finches",
+   "Long legs and toes snatch birds from the air or from inside bushes",
+   "Recovered across Europe after organochlorine pesticides such as DDT were banned"
+  ],
+  "animal": {
+   "diet": "Almost entirely small and medium birds",
+   "habitat": "Woodland, farmland with hedges, towns and gardens",
+   "lifespan": "Typically about 4 years",
+   "size": "28–41 cm; wingspan 59–80 cm; males ~150 g, females ~260 g",
+   "behaviour": "Often seen in a brief, dashing attack on a garden bird feeder before vanishing over a hedge.",
+   "fieldMarks": [
+    "Short, rounded wings and long, square-ended barred tail",
+    "Male slate-blue above with orange-barred underparts and cheeks",
+    "Female grey-brown above, finely barred grey below, with a white eyebrow",
+    "Yellow eyes and thin, long yellow legs"
+   ],
+   "voice": "Mostly silent; a rapid, chattering 'kew-kew-kew' near the nest.",
+   "lookalikes": "Northern goshawk is much larger with a bulging rear body and bold white eyebrow. Common kestrel has pointed wings and hovers. Levant sparrowhawk (southeast Europe, Middle East) has dark wingtips and is pale below.",
+   "whereToSee": "Widespread over European farmland and gardens; huge autumn passages over Falsterbo, the Bosphorus and Batumi (Georgia).",
+   "season": "Resident in much of Europe; passage migrant and winter visitor in the south",
+   "order": "Accipitriformes"
+  },
+  "iucn": "LC",
+  "lore": "In medieval falconry the sparrowhawk was the hawk assigned to priests in the 'Book of St Albans' (1486), and its small male was called a 'musket', a word later given to a firearm.",
+  "historicalNames": [
+   "Nisus",
+   "Musket",
+   "Sparhauk",
+   "Spar-hawk"
+  ],
+  "funFact": "Ian Newton's decades-long study in southern Scotland made the sparrowhawk one of the best-studied raptors in the world."
+ },
+ {
+  "slug": "falco-tinnunculus",
+  "scientific": "Falco tinnunculus",
+  "common": "Common kestrel",
+  "otherNames": [
+   "Awsaq (Arabic)",
+   "Kerkenez (Turkish)",
+   "Turmfalke (German)",
+   "Faucon crécerelle (French)",
+   "Cernícalo vulgar (Spanish)",
+   "Windhover (English dialect)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Falconidae",
+  "shelves": [],
+  "summary": "A small falcon famous for hovering motionless over roadside verges, head perfectly still while its wings and tail work against the wind. It is the most familiar bird of prey across much of Europe.",
+  "nativeRange": "Europe, Africa, the Middle East, Central Asia and Asia to China and Japan",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "Central Asia",
+   "Sub-Saharan Africa",
+   "South Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Farmland",
+   "Temperate grassland",
+   "Steppe",
+   "Urban"
+  ],
+  "abilities": [
+   "Hovers into the wind while keeping its head almost perfectly still",
+   "Sees ultraviolet light and can detect the UV-reflective urine trails of voles",
+   "Nests in cliffs, old crow nests, buildings and nest boxes",
+   "Populations rise and fall with vole cycles"
+  ],
+  "animal": {
+   "diet": "Voles and mice; also lizards, large insects and small birds",
+   "habitat": "Open country, farmland, moorland, roadsides, cities",
+   "lifespan": "Typically about 4 years; record over 15",
+   "size": "32–39 cm; wingspan 65–82 cm; 136–314 g",
+   "behaviour": "Hangs in the air, then drops in stages before a final plunge onto prey in the grass.",
+   "fieldMarks": [
+    "Male: blue-grey head and tail with a black tail band, spotted chestnut back",
+    "Female: brown above with barring, barred tail",
+    "Long, pointed wings; long tail",
+    "Black moustache mark"
+   ],
+   "voice": "A shrill, rapid 'kee-kee-kee' near the nest.",
+   "lookalikes": "Lesser kestrel (Mediterranean, steppes) males have an unspotted back and grey wing panel, and it is colonial. Merlin is smaller, darker and rarely hovers. Sparrowhawk has rounded wings.",
+   "whereToSee": "Motorway verges and farmland across Europe; city buildings from Madrid to Istanbul.",
+   "season": "Resident in western and southern Europe; northern and eastern birds migrate south",
+   "order": "Falconiformes"
+  },
+  "iucn": "LC",
+  "lore": "Gerard Manley Hopkins's 1877 sonnet 'The Windhover' celebrated its hovering, and Barry Hines's 1968 novel 'A Kestrel for a Knave', filmed as 'Kes', took its title from the hawk assigned to the lowest rank in medieval falconry.",
+  "historicalNames": [
+   "Tinnunculus",
+   "Windhover",
+   "Stannel",
+   "Castrel"
+  ],
+  "funFact": "Experiments in Finland in 1995 showed kestrels can see vole scent marks because urine and faeces reflect ultraviolet light."
+ },
+ {
+  "slug": "gypaetus-barbatus",
+  "scientific": "Gypaetus barbatus",
+  "common": "Bearded vulture (Lammergeier)",
+  "otherNames": [
+   "Homa (Persian)",
+   "Sakallı akbaba (Turkish)",
+   "Bartgeier (German)",
+   "Gypaète barbu (French)",
+   "Quebrantahuesos (Spanish)",
+   "Huma (Urdu)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Accipitridae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "A huge mountain vulture that lives mostly on bone. It drops large bones from height onto rock slabs to shatter them, and paints its own white plumage rust-orange by bathing in iron-rich mud.",
+  "nativeRange": "Mountains of southern Europe (Pyrenees, Alps, Corsica, Crete), North Africa, Turkey, the Caucasus, the Middle East, Central Asia, the Himalaya and Tibetan Plateau, and East and southern Africa",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "Central Asia",
+   "South Asia",
+   "East Asia",
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Mountains",
+   "Alpine grassland",
+   "Cliffs"
+  ],
+  "abilities": [
+   "Bone makes up most of its diet; stomach acid with a pH near 1 dissolves bone",
+   "Drops bones from height onto rock 'ossuaries' to split them",
+   "Swallows bones as large as a lamb's femur whole",
+   "Stains its plumage orange with iron oxide-rich mud, a cosmetic behaviour"
+  ],
+  "animal": {
+   "diet": "Bones and marrow from carcasses; occasionally tortoises and live prey",
+   "habitat": "High mountains with cliffs, alpine pastures and gorges",
+   "lifespan": "20–30 years in the wild; over 40 in captivity",
+   "size": "94–125 cm; wingspan 2.3–2.8 m; 4.5–7.8 kg",
+   "behaviour": "Patrols ridges on long, narrow wings and may make repeated drops of the same bone until it breaks.",
+   "fieldMarks": [
+    "Very long, narrow, pointed wings and long, diamond-shaped tail",
+    "Dark slate upperparts; head and underparts creamy to rusty orange",
+    "Black mask and bristly black 'beard' below the bill",
+    "Red ring around a pale eye; juveniles all dark"
+   ],
+   "voice": "Usually silent; occasional high whistles and shrill calls during display.",
+   "lookalikes": "Griffon vulture is broad-winged and short-tailed with a pale ruff. Golden eagle has a shorter, squared tail and broader wings. Juveniles can be confused with Egyptian vulture juveniles, which are much smaller.",
+   "whereToSee": "Ordesa and the Pyrenees, the Swiss and French Alps (reintroduced), Crete, the Caucasus, Ethiopia's Simien Mountains and the Himalaya.",
+   "season": "Resident; nests in midwinter",
+   "order": "Accipitriformes"
+  },
+  "iucn": "NT",
+  "lore": "The Persian Homa (Huma), a bird whose shadow bestowed kingship, has long been associated with the bearded vulture, and Pliny repeats the legend that the playwright Aeschylus was killed by a tortoise dropped by an eagle onto his bald head.",
+  "historicalNames": [
+   "Ossifraga",
+   "Phene",
+   "Lämmergeier",
+   "Huma"
+  ],
+  "funFact": "It was exterminated from the Alps by the early 20th century; reintroduction since 1986 has re-established a wild breeding population there."
+ },
+ {
+  "slug": "otis-tarda",
+  "scientific": "Otis tarda",
+  "common": "Great bustard",
+  "otherNames": [
+   "Toy (Turkish)",
+   "Mish-morgh (Persian)",
+   "Avutarda (Spanish)",
+   "Großtrappe (German)",
+   "Outarde barbue (French)",
+   "Túzok (Hungarian)",
+   "Drofa (Russian)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Otididae",
+  "shelves": [
+   "endangered",
+   "marvel"
+  ],
+  "summary": "One of the heaviest flying birds on Earth. Males transform themselves in spring into billowing white 'foam baths' of feathers to impress females on open steppe and farmland. Most of the world population now lives in Spain.",
+  "nativeRange": "Iberia, central Europe (Hungary, Austria, Germany), Morocco, Turkey, Russia, Kazakhstan, Central Asia and Mongolia to China; reintroduced to England",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "Central Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Steppe",
+   "Temperate grassland",
+   "Farmland"
+  ],
+  "abilities": [
+   "Males weigh up to about 16 kg, contesting the title of heaviest flying animal",
+   "Displaying males turn wings and tail inside out to become a mass of white plumes",
+   "Males grow long white whisker feathers in the breeding season",
+   "Lek-like display grounds are used for generations"
+  ],
+  "animal": {
+   "diet": "Plant shoots, leaves, seeds, legumes; insects such as beetles and grasshoppers, especially for chicks",
+   "habitat": "Open steppe, extensive cereal farmland and pasture",
+   "lifespan": "Typically about 10 years; some exceed 15, with a maximum recorded age of 28",
+   "size": "Males 90–105 cm, 5.8–16 kg; females 75–85 cm, 3.3–5.3 kg; wingspan 1.9–2.6 m",
+   "behaviour": "Males gather on traditional display grounds in spring, where females visit to choose a mate.",
+   "fieldMarks": [
+    "Very large, stately, goose-sized ground bird with long neck and legs",
+    "Upperparts golden-buff barred with black",
+    "Grey head and neck; males with chestnut breast band and white whiskers",
+    "Huge white wing panels in flight"
+   ],
+   "voice": "Generally silent; a low barking or grunting at close quarters.",
+   "lookalikes": "Little bustard is much smaller (pheasant-sized) with a black-and-white neck in males. Asian houbara is sandy with a black neck plume. Female great bustard is far smaller than the male and can be mistaken for a goose at distance.",
+   "whereToSee": "Villafáfila and Extremadura in Spain, Castro Verde in Portugal, Hungary's Dévaványa, Salisbury Plain in England (reintroduced).",
+   "season": "Resident in Iberia; partially migratory in Russia and Central Asia; display Mar–Apr",
+   "order": "Otidiformes"
+  },
+  "iucn": "EN",
+  "lore": "Bustards were exterminated in Britain by the 1830s; the bird still appears on Wiltshire's county emblem, and a reintroduction using chicks from Russia and Spain began on Salisbury Plain in 2004.",
+  "historicalNames": [
+   "Otis",
+   "Avis tarda",
+   "Bistarda",
+   "Trappe"
+  ],
+  "funFact": "Its Latin name 'tarda' means 'slow', but despite its weight it is a strong flier."
+ },
+ {
+  "slug": "chlamydotis-macqueenii",
+  "scientific": "Chlamydotis macqueenii",
+  "common": "Asian houbara (MacQueen's bustard)",
+  "otherNames": [
+   "Hubara (Arabic)",
+   "Hubareh (Persian)",
+   "Tilor (Urdu)",
+   "Yakalı toy (Turkish)",
+   "Dzhek (Russian)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Otididae",
+  "shelves": [
+   "endangered",
+   "migrant"
+  ],
+  "summary": "A sandy, cryptic bustard of deserts and semi-deserts that is the classic quarry of Arab falconry. Hunting and trapping along its migration routes have driven it into decline despite large captive-breeding programmes.",
+  "nativeRange": "Breeds from Sinai, the Middle East and Iran across Central Asia to Mongolia and China; winters in the Arabian Peninsula, Iran, Pakistan and northwestern India",
+  "regions": [
+   "West Asia",
+   "Central Asia",
+   "South Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Desert",
+   "Semi-desert",
+   "Steppe"
+  ],
+  "abilities": [
+   "Plumage blends almost perfectly with sand and gravel desert",
+   "Can obtain water largely from food in arid habitats",
+   "Migrates thousands of kilometres between Central Asian breeding grounds and South Asian or Arabian wintering grounds",
+   "Squirts a jet of faeces at attacking falcons as a defence"
+  ],
+  "animal": {
+   "diet": "Shoots, seeds and fruits of desert plants; beetles, locusts and small reptiles",
+   "habitat": "Flat or rolling semi-desert with sparse shrubs",
+   "size": "55–75 cm; wingspan 135–170 cm; 1.2–3.2 kg",
+   "behaviour": "Displaying males raise their white neck plumes over their heads and run in zigzags, a display visible from far across the desert.",
+   "fieldMarks": [
+    "Sandy buff upperparts finely vermiculated with black",
+    "Black stripe running down each side of the neck into a white ruff",
+    "Short crest of white and black feathers",
+    "Bold black-and-white wing pattern in flight"
+   ],
+   "voice": "Mostly silent; a low booming during display.",
+   "lookalikes": "African houbara (Chlamydotis undulata) of North Africa is very similar but has an all-white crest; ranges barely overlap. Great bustard is much larger, grey-headed and lacks the black neck stripe.",
+   "whereToSee": "Kyzylkum Desert in Uzbekistan and Kazakhstan in spring; Cholistan and Balochistan (Pakistan) and the UAE in winter.",
+   "season": "Summer visitor to Central Asia Mar–Oct; winter visitor to Arabia and South Asia",
+   "order": "Otidiformes"
+  },
+  "iucn": "VU",
+  "lore": "Hunting houbara with sakers and peregrines is a centuries-old Bedouin tradition, and special permits for Gulf rulers to hunt it in Pakistan have been the subject of court challenges in Pakistan's Supreme Court.",
+  "historicalNames": [
+   "Otis houbara",
+   "Hubara",
+   "Ruffed bustard"
+  ],
+  "funFact": "Captive-breeding centres in the UAE, Saudi Arabia and Morocco release large numbers of captive-bred houbara to support wild populations and falconry."
+ },
+ {
+  "slug": "vanellus-vanellus",
+  "scientific": "Vanellus vanellus",
+  "common": "Northern lapwing",
+  "otherNames": [
+   "Kızkuşu (Turkish)",
+   "Kiebitz (German)",
+   "Vanneau huppé (French)",
+   "Avefría (Spanish)",
+   "Kievit (Dutch)",
+   "Peewit (English dialect)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Charadriidae",
+  "shelves": [
+   "migrant"
+  ],
+  "summary": "A crested, iridescent plover of fields and wet meadows, named for the 'lapping' sound of its floppy, rounded wings in its tumbling display flight. Breeding numbers have fallen sharply with farming changes across Europe.",
+  "nativeRange": "Breeds across temperate Europe and Asia from Ireland to the Pacific; winters in western Europe, North Africa, the Middle East, South Asia and China",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "Central Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Wetland",
+   "Farmland",
+   "Temperate grassland"
+  ],
+  "abilities": [
+   "Tumbling display flight with wing-throbbing sound and wild calls",
+   "Parents mob crows and foxes and perform distraction displays to lure predators away",
+   "Chicks feed themselves within hours of hatching",
+   "Cold-weather movements can shift huge flocks hundreds of kilometres in a day"
+  ],
+  "animal": {
+   "diet": "Earthworms, beetles, leatherjackets and other soil invertebrates",
+   "habitat": "Wet grassland, spring-sown fields, marshes; mudflats and pastures in winter",
+   "lifespan": "Typically 4–5 years; record over 20",
+   "size": "28–31 cm; wingspan 82–87 cm; 130–330 g",
+   "behaviour": "Feeds with a 'stop-run-tilt' action and patters its feet on the ground to bring worms up.",
+   "fieldMarks": [
+    "Long, wispy black crest",
+    "Dark green upperparts with purple and bronze gloss",
+    "Black breast band, white belly, orange undertail",
+    "Broad, rounded black-and-white wings in flight"
+   ],
+   "voice": "A plaintive, wheezy 'pee-wit' and wild, twisting display song 'pee-wit wit-wit eeze'.",
+   "lookalikes": "No other European bird has the long crest. Sociable lapwing is sandy with a dark cap and white eyebrow. Golden plover, often in mixed winter flocks, has pointed wings and spangled golden upperparts.",
+   "whereToSee": "Wet meadows of the Netherlands, Somerset Levels and RSPB reserves in England; huge winter flocks across western Europe and the Nile Delta.",
+   "season": "Resident or partial migrant in western Europe; summer visitor further east; winter visitor to the Mediterranean and Middle East",
+   "order": "Charadriiformes"
+  },
+  "iucn": "NT",
+  "lore": "In Friesland the first lapwing egg of spring is traditionally presented to the province's King's Commissioner; since collecting was banned, the hunt continues as a search without taking.",
+  "historicalNames": [
+   "Vanellus",
+   "Lapwinke",
+   "Peewit",
+   "Green plover"
+  ],
+  "funFact": "Its English name comes from Old English 'hleapewince', referring to its leaping, wavering flight."
+ },
+ {
+  "slug": "numenius-arquata",
+  "scientific": "Numenius arquata",
+  "common": "Eurasian curlew",
+  "otherNames": [
+   "Büyük kervançulluğu (Turkish)",
+   "Großer Brachvogel (German)",
+   "Courlis cendré (French)",
+   "Zarapito real (Spanish)",
+   "Gylfinir (Welsh)",
+   "Whaup (Scots)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Scolopacidae",
+  "shelves": [
+   "migrant"
+  ],
+  "summary": "Europe's largest wader, with a very long, down-curved bill and a bubbling, haunting call that carries over moors and estuaries. It has declined steeply in Britain and Ireland, which hold a large share of the world's breeding birds.",
+  "nativeRange": "Breeds from Britain and Ireland across northern and central Europe and Central Asia to Siberia; winters on coasts of western Europe, Africa, the Middle East and South Asia",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "Central Asia",
+   "Sub-Saharan Africa",
+   "South Asia"
+  ],
+  "biomes": [
+   "Moorland",
+   "Wetland",
+   "Estuaries",
+   "Temperate grassland"
+  ],
+  "abilities": [
+   "Probes deep into mud for lugworms and ragworms with a bill up to about 15 cm long in females",
+   "The bill tip is flexible and sensitive, letting it feel for prey underground",
+   "Females have longer bills than males, so the sexes feed differently",
+   "Gathers in large flocks at estuary high-tide roosts"
+  ],
+  "animal": {
+   "diet": "Worms, crabs, molluscs and insects; leatherjackets and earthworms inland",
+   "habitat": "Moorland, rough pasture and wet meadows for breeding; estuaries and mudflats in winter",
+   "lifespan": "Often 5–10 years; record over 30",
+   "size": "50–60 cm; wingspan 89–106 cm; 410–1,360 g",
+   "behaviour": "On breeding grounds it rises on fluttering wings and glides down giving its bubbling song.",
+   "fieldMarks": [
+    "Very long, down-curved bill",
+    "Grey-brown streaked plumage",
+    "White wedge up the rump and back in flight",
+    "Large size; long, blue-grey legs"
+   ],
+   "voice": "A rising, mournful 'cur-lee' and a long, accelerating bubbling trill in display.",
+   "lookalikes": "Whimbrel is smaller with a shorter bill, a striped crown and a rapid seven-note 'tititititi' call. Bar-tailed godwit has a slightly upturned bill.",
+   "whereToSee": "Pennine and Scottish moors in spring; the Wash, Morecambe Bay, the Wadden Sea and Banc d'Arguin (Mauritania) in winter.",
+   "season": "Present on coasts all year; on moorland breeding grounds Mar–Jul",
+   "order": "Charadriiformes"
+  },
+  "iucn": "NT",
+  "lore": "W. B. Yeats used its cry as an image of grief in 'He Reproves the Curlew' (1899), and Benjamin Britten's church parable 'Curlew River' (1964) takes its title from the bird.",
+  "historicalNames": [
+   "Arquata",
+   "Numenius",
+   "Courlis",
+   "Whaup"
+  ],
+  "funFact": "Its smaller relative the slender-billed curlew was last confirmed in Morocco in 1995, and a 2024 study concluded it is very likely extinct."
+ },
+ {
+  "slug": "grus-grus",
+  "scientific": "Grus grus",
+  "common": "Common crane",
+  "otherNames": [
+   "Kurki (Arabic)",
+   "Dorna (Persian)",
+   "Turna (Turkish)",
+   "Kulang (Urdu)",
+   "Kranich (German)",
+   "Grue cendrée (French)",
+   "Grulla común (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Gruidae",
+  "shelves": [
+   "migrant"
+  ],
+  "summary": "A tall, grey crane with a black-and-white head and a bushy tail-bustle, whose trumpeting flocks pass over Europe in spring and autumn. Paired birds perform elaborate leaping, bowing dances.",
+  "nativeRange": "Breeds from Scandinavia and Germany across northern Europe and Asia to eastern Siberia; winters in Iberia, France, North Africa, the Middle East, India and China",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "Central Asia",
+   "South Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Wetland",
+   "Bog",
+   "Farmland",
+   "Temperate forest"
+  ],
+  "abilities": [
+   "A long, coiled windpipe within the breastbone amplifies its far-carrying trumpet calls",
+   "Pairs duet in synchronised 'unison calls'",
+   "Migrates in V-formations, with major stopovers used by tens of thousands",
+   "Stains its plumage brown with mud when nesting, for camouflage"
+  ],
+  "animal": {
+   "diet": "Grain, roots, acorns, shoots; insects, frogs and small animals in summer",
+   "habitat": "Bogs, forest swamps and marshes for breeding; open farmland and wetlands in winter",
+   "lifespan": "Often 20+ years; over 40 in captivity",
+   "size": "100–130 cm tall; wingspan 180–240 cm; 4.5–6 kg",
+   "behaviour": "Dancing cranes bow, leap into the air with wings spread and toss sticks, at any time of year.",
+   "fieldMarks": [
+    "Tall and grey with long black legs",
+    "Black head and neck with a white stripe behind the eye; red crown patch",
+    "Drooping tail-bustle of curved inner wing feathers",
+    "Flies with neck outstretched"
+   ],
+   "voice": "A loud, rolling, bugling 'krroo-krroo', audible from kilometres away.",
+   "lookalikes": "Grey heron flies with neck folded and lacks the black head. Demoiselle crane is smaller with black breast plumes and white ear tufts. White stork is white with a red bill.",
+   "whereToSee": "Lake Hornborgasjön (Sweden) in April, Rügen-Bock (Germany) and Lac du Der (France) in autumn, Gallocanta (Spain), Hula Valley (Israel) in winter; the Norfolk Broads and Somerset Levels in England.",
+   "season": "Summer visitor to northern Europe Mar–Oct; passage migrant; winter visitor to the Mediterranean and Middle East",
+   "order": "Gruiformes"
+  },
+  "iucn": "LC",
+  "lore": "In Greek legend the cranes of Ibycus witnessed the poet's murder and revealed his killers, and Persian poetry uses the call of the 'kulang' and 'dorna' as an image of exile and longing.",
+  "historicalNames": [
+   "Grus",
+   "Geranos",
+   "Cran",
+   "Grue"
+  ],
+  "funFact": "Cranes returned to England's Norfolk Broads in 1979 and first bred there in 1981, around 400 years after they were lost as a breeding bird."
+ },
+ {
+  "slug": "oriolus-oriolus",
+  "scientific": "Oriolus oriolus",
+  "common": "Eurasian golden oriole",
+  "otherNames": [
+   "Sarıasma (Turkish)",
+   "Pirol (German)",
+   "Loriot d'Europe (French)",
+   "Oropéndola europea (Spanish)",
+   "Wielewaal (Dutch)",
+   "Ivolga (Russian)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Oriolidae",
+  "shelves": [
+   "songbird",
+   "migrant"
+  ],
+  "summary": "A brilliant yellow-and-black bird that is surprisingly hard to see, hidden in the leafy canopy of poplars and oaks. Its loud, fluting whistle betrays it long before a glimpse of gold.",
+  "nativeRange": "Breeds across Europe, northwest Africa, Turkey, the Middle East and Central Asia to western Siberia; winters in sub-Saharan Africa",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "Central Asia",
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Temperate forest",
+   "Riparian woodland",
+   "Orchards"
+  ],
+  "abilities": [
+   "Builds a hammock-like nest slung between the forks of a high branch",
+   "Its bright yellow plumage is remarkably well hidden among sunlit leaves",
+   "Migrates by night to wintering grounds in tropical Africa",
+   "Can handle hairy caterpillars that many birds avoid"
+  ],
+  "animal": {
+   "diet": "Insects and caterpillars; fruit, cherries and berries in late summer",
+   "habitat": "Tall deciduous woods, riverine poplar groves, orchards and parks",
+   "lifespan": "Typically up to about 8 years",
+   "size": "22–25 cm; wingspan 44–47 cm; 50–79 g",
+   "behaviour": "Moves through the canopy in swooping, undulating flights between trees, rarely coming low.",
+   "fieldMarks": [
+    "Male bright golden-yellow with black wings and black centre to the tail",
+    "Pink-red bill and black lores",
+    "Female and young greenish-yellow with streaked whitish underparts",
+    "Thrush-sized with a woodpecker-like undulating flight"
+   ],
+   "voice": "A rich, fluting whistle often rendered 'weela-weeoo' or 'dee-dlee-o'; also a harsh, cat-like 'kweeaah'.",
+   "lookalikes": "Female resembles green woodpecker in flight, but lacks red on the head. Indian golden oriole (South Asia) has black extending behind the eye. Yellow wagtail and yellowhammer are smaller and ground-living.",
+   "whereToSee": "Poplar plantations and riverine woods in Spain, France, the Danube Delta, Turkey and the Central Asian river valleys; a rare spring migrant to eastern England, where it last bred in 2009.",
+   "season": "Summer visitor May–Aug",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "Pliny the Elder reported the belief that a jaundice sufferer who looked at the 'icterus', a yellow bird usually identified as the oriole, would be cured while the bird died.",
+  "historicalNames": [
+   "Galbula",
+   "Icterus",
+   "Oriolus",
+   "Golden thrush"
+  ],
+  "funFact": "The German name 'Pirol' and Dutch 'wielewaal' are both imitations of its whistled song."
+ },
+ {
+  "slug": "morus-bassanus",
+  "scientific": "Morus bassanus",
+  "common": "Northern gannet",
+  "otherNames": [
+   "Sùlaire (Scottish Gaelic)",
+   "Basstölpel (German)",
+   "Fou de Bassan (French)",
+   "Alcatraz atlántico (Spanish)",
+   "Havsule (Norwegian)",
+   "Súla (Icelandic)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Sulidae",
+  "shelves": [
+   "ocean",
+   "marvel"
+  ],
+  "summary": "The largest seabird of the North Atlantic, a dazzling white diver with black wingtips and a buttery head. It plunges from height into the sea for fish and breeds in vast, crowded colonies on cliffs and stacks.",
+  "nativeRange": "North Atlantic: breeds in Britain, Ireland, Iceland, Norway, France, Canada; winters south to West Africa and the Gulf of Mexico, and into the Mediterranean",
+  "regions": [
+   "Europe",
+   "North America",
+   "Atlantic Ocean",
+   "North Africa"
+  ],
+  "biomes": [
+   "Open ocean",
+   "Coastal cliffs"
+  ],
+  "abilities": [
+   "Plunge-dives from up to about 30 m, hitting the water at high speed",
+   "Air sacs under the skin of the face and chest cushion the impact",
+   "Has no external nostrils, which stops water entering on impact",
+   "Forward-facing eyes give binocular vision for judging the strike"
+  ],
+  "animal": {
+   "diet": "Shoaling fish such as mackerel, herring and sandeels",
+   "habitat": "Continental-shelf seas; breeds on islands and sea cliffs",
+   "lifespan": "Often 15–20 years; some exceed 30",
+   "size": "87–100 cm; wingspan 165–180 cm; 2.3–3.6 kg",
+   "behaviour": "Pairs greet each other at the nest by 'sky-pointing' and fencing with their bills, and defend a tiny nest site fiercely.",
+   "fieldMarks": [
+    "Large, cigar-shaped white seabird with long, narrow wings",
+    "Black wingtips",
+    "Yellow-buff head and nape in adults",
+    "Dagger bill; juveniles dark brown with white speckles, whitening over four or five years"
+   ],
+   "voice": "Silent at sea; colonies resound with harsh, grating 'urrah' calls.",
+   "lookalikes": "Great black-backed and other large gulls have rounded wings and lack the pointed tail. Cory's shearwater is brown above. Distant juveniles can suggest brown boobies, which are only rare vagrants in European waters.",
+   "whereToSee": "Bass Rock (Scotland), Bempton Cliffs (England), Grassholm (Wales), St Kilda, Little Skellig (Ireland), Bonaventure Island (Quebec); offshore passage along Atlantic coasts.",
+   "season": "At colonies Jan–Oct; offshore passage in autumn; winter at sea",
+   "order": "Suliformes"
+  },
+  "iucn": "LC",
+  "lore": "Its scientific name honours Scotland's Bass Rock, one of the largest northern gannet colonies in the world, and men from Ness on Lewis have for centuries made a licensed 'guga hunt' for young gannets on the rock of Sula Sgeir, though it has been suspended or refused in several years since the 2022 bird-flu outbreak.",
+  "historicalNames": [
+   "Anser bassanus",
+   "Solan goose",
+   "Gant",
+   "Sula"
+  ],
+  "funFact": "After the 2022 avian influenza outbreak, many surviving gannets on Bass Rock had irises turned from pale blue to black."
+ },
+ {
+  "slug": "tetrao-urogallus",
+  "scientific": "Tetrao urogallus",
+  "common": "Western capercaillie",
+  "otherNames": [
+   "Capall-coille (Scottish Gaelic)",
+   "Auerhuhn (German)",
+   "Grand tétras (French)",
+   "Urogallo (Spanish)",
+   "Glukhar (Russian)",
+   "Metso (Finnish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Phasianidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "The world's largest grouse, a turkey-sized black cock of old pine forests that fans its tail and clicks, pops and gurgles at dawn displays. It survives a whole winter largely on pine needles.",
+  "nativeRange": "Boreal and mountain conifer forests from Scotland, Scandinavia, the Alps, Pyrenees and Cantabrians across Russia to central Siberia",
+  "regions": [
+   "Europe",
+   "Central Asia"
+  ],
+  "biomes": [
+   "Boreal forest",
+   "Temperate coniferous forest",
+   "Mountains"
+  ],
+  "abilities": [
+   "Survives winter mainly on pine needles, digested with the help of long caeca",
+   "Males are roughly twice the size of females",
+   "Displaying males are so absorbed in their song that they briefly cannot hear, giving the Russian name 'glukhar' (deaf one)",
+   "Aggressive males in display sometimes attack people and vehicles"
+  ],
+  "animal": {
+   "diet": "Pine needles in winter; bilberry leaves and berries, buds, shoots, seeds; insects for chicks",
+   "habitat": "Old, open conifer forests with a rich bilberry understorey",
+   "lifespan": "Typically up to about 9–12 years",
+   "size": "Males 74–90 cm, around 4 kg; females 54–63 cm, around 1.8 kg",
+   "behaviour": "Males gather at traditional leks at dawn in spring, strutting with fanned tails and raised beards.",
+   "fieldMarks": [
+    "Male huge and dark slate-grey with a glossy green breast",
+    "Fanned, rounded black tail and shaggy throat 'beard'",
+    "Ivory bill and red wattle above the eye",
+    "Female much smaller, barred brown with a rufous breast patch"
+   ],
+   "voice": "Male display song is a sequence of accelerating clicks ending in a 'pop' like a cork and a wheezing, scraping phrase.",
+   "lookalikes": "Black grouse is smaller with a lyre-shaped tail and white undertail. Female capercaillie can be confused with female black grouse but is larger with a plain orange-rufous breast and rounded tail.",
+   "whereToSee": "Abernethy Forest and Strathspey (Scotland), Finnish and Swedish taiga, the Bavarian Forest, the Alps and the Pyrenees; leks must be watched only on guided visits.",
+   "season": "Resident; leks Apr–May",
+   "order": "Galliformes"
+  },
+  "iucn": "LC",
+  "lore": "Hunted out of Scotland by about 1785, it was reintroduced from Sweden to Taymouth Castle in Perthshire in 1837; the Gaelic name means 'horse of the woods'.",
+  "historicalNames": [
+   "Tetrao",
+   "Urogallus",
+   "Cock of the wood",
+   "Auerhahn"
+  ],
+  "funFact": "The Scottish population has fallen to a few hundred birds and is now largely confined to Strathspey."
+ },
+ {
+  "slug": "lyrurus-tetrix",
+  "scientific": "Lyrurus tetrix",
+  "common": "Black grouse",
+  "otherNames": [
+   "Kayın tavuğu (Turkish)",
+   "Birkhuhn (German)",
+   "Tétras lyre (French)",
+   "Gallo lira (Spanish)",
+   "Teterev (Russian)",
+   "Blackcock (English)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Phasianidae",
+  "shelves": [],
+  "summary": "A glossy blue-black grouse with a lyre-shaped tail, white undertail puff and red eyebrows. Males gather at dawn leks to bubble and hiss in one of Europe's great wildlife spectacles.",
+  "nativeRange": "Britain, Scandinavia, the Alps, eastern Europe, Russia and Siberia to northern Mongolia and northeastern China",
+  "regions": [
+   "Europe",
+   "Central Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Moorland",
+   "Boreal forest",
+   "Forest edge"
+  ],
+  "abilities": [
+   "Males display communally at leks, with dominant central males getting most matings",
+   "Burrows into snow to roost during cold nights",
+   "Feeds on birch buds and catkins through hard winters",
+   "Chicks depend heavily on insects, especially sawfly larvae"
+  ],
+  "animal": {
+   "diet": "Birch buds and catkins, heather, bilberry, conifer needles; insects for chicks",
+   "habitat": "Moorland edge, open woodland, forest clearings and bogs",
+   "lifespan": "Typically 3–5 years",
+   "size": "Males 49–58 cm, ~1.2 kg; females 40–45 cm, ~0.9 kg",
+   "behaviour": "At the lek, males crouch with fanned white undertail and spread wings, rushing at rivals and jumping into the air.",
+   "fieldMarks": [
+    "Male glossy blue-black with a lyre-shaped forked tail",
+    "White wing bar and white undertail fluffed in display",
+    "Red wattles above the eyes",
+    "Female ('greyhen') grey-brown, barred, with a slightly forked tail and thin white wing bar"
+   ],
+   "voice": "Male makes a dove-like bubbling 'rookooing' and an explosive sneezing 'tchu-shweee'.",
+   "lookalikes": "Capercaillie is much larger with a rounded tail. Female resembles female red grouse but is larger and greyer with a forked tail. Caucasian grouse (Caucasus) has a longer, more deeply forked tail without white undertail.",
+   "whereToSee": "Leks in Scottish Highland glens and the Pennines, Finnish and Swedish bogs, the Alps above the treeline.",
+   "season": "Resident; leks Mar–May at dawn",
+   "order": "Galliformes"
+  },
+  "iucn": "LC",
+  "lore": "The curved tail feather of the black cock (Spielhahnfeder) is the traditional hat ornament of Alpine hunters in Bavaria and Tyrol.",
+  "historicalNames": [
+   "Tetrao tetrix",
+   "Blackcock",
+   "Greyhen",
+   "Heath cock"
+  ],
+  "funFact": "Black grouse occasionally hybridise with capercaillie, producing a bird that German hunters call the 'Rackelhahn'."
+ },
+ {
+  "slug": "tichodroma-muraria",
+  "scientific": "Tichodroma muraria",
+  "common": "Wallcreeper",
+  "otherNames": [
+   "Duvar tırmaşıkkuşu (Turkish)",
+   "Mauerläufer (German)",
+   "Tichodrome échelette (French)",
+   "Treparriscos (Spanish)",
+   "Picchio muraiolo (Italian)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Tichodromidae",
+  "shelves": [],
+  "summary": "A small grey cliff-dweller that flicks open its wings to flash crimson patches like a butterfly while it creeps up sheer rock faces. It is the only member of its family and one of the most sought-after birds in Europe.",
+  "nativeRange": "High mountains from the Cantabrians, Pyrenees and Alps through the Balkans, Turkey, the Caucasus and Iran to Central Asia, the Himalaya and western China",
+  "regions": [
+   "Europe",
+   "West Asia",
+   "Central Asia",
+   "South Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Mountains",
+   "Cliffs",
+   "Gorges"
+  ],
+  "abilities": [
+   "Climbs vertical rock faces using long claws and constant wing-flicking",
+   "Probes cracks for spiders and insects with a long, fine, down-curved bill",
+   "Descends to lower cliffs, quarries and even old buildings in winter",
+   "Sole living species of the family Tichodromidae"
+  ],
+  "animal": {
+   "diet": "Spiders, insects and their larvae from rock crevices",
+   "habitat": "Damp cliffs and gorges, often near waterfalls, from about 1,000 m to over 3,000 m",
+   "size": "15.5–17 cm; 15–19 g",
+   "behaviour": "Moves up a cliff in jerky hops with wings half-open, then drops back down in fluttering flight to start again.",
+   "fieldMarks": [
+    "Ash-grey body and short black tail",
+    "Broad, rounded wings with large crimson patches and white spots",
+    "Long, thin, down-curved black bill",
+    "Breeding male has a black throat; white in winter"
+   ],
+   "voice": "Song a series of thin, rising whistles, 'tu-tu-tueee'; mostly silent otherwise.",
+   "lookalikes": "No other bird looks the same. In flight at distance it can suggest a large butterfly or a hoopoe, but the hoopoe is much larger and has a crest.",
+   "whereToSee": "Gorges in the Pyrenees (Ordesa), Swiss and Italian Alps, Picos de Europa, the Taurus Mountains and the Caucasus; winter at castles and quarries in southern Europe.",
+   "season": "Resident at altitude; moves lower in winter (Oct–Mar)",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "Its scientific name, coined by Johann Illiger in 1811, combines Greek 'teichos' (wall) and 'dromos' (runner), and Linnaeus had placed it among the treecreepers as Certhia muraria.",
+  "historicalNames": [
+   "Picus murarius",
+   "Certhia muraria",
+   "Wall-woodpecker"
+  ],
+  "funFact": "Unlike treecreepers and nuthatches, it does not use its tail as a prop when climbing."
+ },
+ {
+  "slug": "garrulus-glandarius",
+  "scientific": "Garrulus glandarius",
+  "common": "Eurasian jay",
+  "otherNames": [
+   "Abu zurayq (Arabic)",
+   "Alakarga (Turkish)",
+   "Eichelhäher (German)",
+   "Geai des chênes (French)",
+   "Arrendajo (Spanish)",
+   "Gaai (Dutch)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Corvidae",
+  "shelves": [
+   "keystone"
+  ],
+  "summary": "A colourful, shy woodland crow, pinkish-brown with a white rump and a dazzling blue-barred wing patch. Each autumn it buries thousands of acorns, and the ones it forgets grow into new oak woods.",
+  "nativeRange": "Europe, North Africa, Turkey, the Middle East, the Caucasus and Central Asia, across Asia to Japan and Southeast Asia",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "Central Asia",
+   "East Asia",
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Temperate forest",
+   "Woodland",
+   "Gardens and parks"
+  ],
+  "abilities": [
+   "A single jay may cache several thousand acorns in an autumn",
+   "Remembers cache locations months later, even under snow",
+   "Its forgotten caches are a major means by which oaks spread uphill and into open land",
+   "Skilled mimic of other birds, especially buzzards and owls"
+  ],
+  "animal": {
+   "diet": "Acorns, beechmast and other seeds; insects, eggs and nestling birds in summer",
+   "habitat": "Oak and mixed woodland, parks, large gardens",
+   "lifespan": "Typically about 4–5 years",
+   "size": "34–35 cm; wingspan 52–58 cm; 140–190 g",
+   "behaviour": "Carries several acorns at once in its throat pouch and bill, pushing each into the ground and covering it with leaves.",
+   "fieldMarks": [
+    "Pinkish-buff body with a bright white rump contrasting with a black tail",
+    "Blue-and-black barred patch on the wing",
+    "Black moustache stripe and streaked crest",
+    "Floppy, rounded wings in flight"
+   ],
+   "voice": "A harsh, tearing screech, 'skaaak', the alarm call of the woods; also soft mewing and mimicry.",
+   "lookalikes": "No other European bird combines the white rump and blue wing patch. Hoopoe also shows a black-and-white pattern in flight but has a long, curved bill and fan crest. Middle Eastern races have a black crown.",
+   "whereToSee": "Oak woods throughout Europe, most visible in September–October when carrying acorns.",
+   "season": "Resident; occasional large irruptions in autumn when acorn crops fail",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "The specific name 'glandarius' means 'of acorns', and the blue wing feathers were sold to Victorian milliners and fly-tyers; jays were persecuted by gamekeepers as egg thieves.",
+  "historicalNames": [
+   "Pica glandaria",
+   "Garrulus",
+   "Jay-pie",
+   "Oak jackdaw"
+  ],
+  "funFact": "Studies at Cambridge showed male jays choose food gifts for their mates based on what the female has recently been eating, suggesting they track another bird's desires."
+ },
+ {
+  "slug": "pica-pica",
+  "scientific": "Pica pica",
+  "common": "Eurasian magpie",
+  "otherNames": [
+   "Aqaq (Arabic)",
+   "Saksağan (Turkish)",
+   "Elster (German)",
+   "Pie bavarde (French)",
+   "Urraca (Spanish)",
+   "Soroka (Russian)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Corvidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "A bold, long-tailed black-and-white crow with iridescent blue and green gloss. Clever and adaptable, it is a familiar bird of farmland and towns, surrounded by centuries of superstition.",
+  "nativeRange": "Europe, Turkey, the Middle East and Central Asia to Siberia; birds of North Africa, southwest Arabia and East Asia are now often treated as separate species",
+  "regions": [
+   "Europe",
+   "West Asia",
+   "Central Asia"
+  ],
+  "biomes": [
+   "Farmland",
+   "Woodland",
+   "Gardens and parks",
+   "Urban"
+  ],
+  "abilities": [
+   "In 2008 it became the first non-mammal shown to recognise itself in a mirror",
+   "Builds a large domed nest of sticks with a mud-lined cup",
+   "Caches food and recaches it if watched by other magpies",
+   "Thrives in cities and farmland across much of Eurasia"
+  ],
+  "animal": {
+   "diet": "Omnivorous: insects, grain, fruit, carrion, small animals, eggs and nestlings",
+   "habitat": "Open country with scattered trees and hedges, parks, suburbs",
+   "lifespan": "Typically 3–5 years",
+   "size": "40–51 cm including tail; wingspan 52–60 cm; 160–250 g",
+   "behaviour": "Gathers in noisy groups ('parliaments') in late winter and mobs cats, foxes and owls.",
+   "fieldMarks": [
+    "Black head, breast and back with white belly and shoulders",
+    "Very long, graduated tail glossed green and purple",
+    "Wings glossed blue with white primaries flashing in flight",
+    "Strong black bill and legs"
+   ],
+   "voice": "A loud, rapid, rattling chatter, 'chak-chak-chak-chak'.",
+   "lookalikes": "No other European bird has the same shape and pattern. Iberian (azure-winged) magpie is smaller with a black cap and pale-blue wings and tail. Maghreb magpie (North Africa) has bare blue skin behind the eye.",
+   "whereToSee": "Farmland, parks and suburbs across Europe, Turkey and Central Asia.",
+   "season": "Resident",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "The British counting rhyme 'One for sorrow, two for joy' is first recorded in the 18th century, and Rossini's opera 'La gazza ladra' (The Thieving Magpie, 1817) cemented its reputation as a thief.",
+  "historicalNames": [
+   "Pica",
+   "Pye",
+   "Maggot-pie",
+   "Haggister"
+  ],
+  "funFact": "A 2014 Exeter study found that wild magpies are actually wary of shiny objects, contradicting the thieving-magpie myth."
+ },
+ {
+  "slug": "falco-cherrug",
+  "scientific": "Falco cherrug",
+  "common": "Saker falcon",
+  "otherNames": [
+   "Saqr hurr (Arabic)",
+   "Balaban (Persian)",
+   "Ulu doğan (Turkish)",
+   "Charg (Urdu)",
+   "Kerecsensólyom (Hungarian)",
+   "Balaban (Russian)",
+   "Würgfalke (German)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Falconidae",
+  "shelves": [
+   "endangered",
+   "migrant",
+   "sacred"
+  ],
+  "summary": "A large, powerful falcon of steppe and semi-desert, prized for millennia by falconers from Arabia to Mongolia. Electrocution on power lines and capture for the falconry trade have pushed it to Endangered.",
+  "nativeRange": "Breeds from central Europe (Hungary, Slovakia, Austria) through Ukraine, Turkey, Russia, Kazakhstan and Central Asia to Mongolia and China; winters south to the Middle East, northeast Africa and South Asia",
+  "regions": [
+   "Europe",
+   "West Asia",
+   "Central Asia",
+   "East Asia",
+   "North Africa",
+   "South Asia"
+  ],
+  "biomes": [
+   "Steppe",
+   "Semi-desert",
+   "Farmland",
+   "Mountains"
+  ],
+  "abilities": [
+   "Hunts ground squirrels (sousliks) close to the ground with fast, low pursuit flights",
+   "Can take prey as large as houbara bustards when trained",
+   "Uses nests built by other birds, including on power pylons",
+   "Readily breeds in artificial nest boxes on pylons, a key conservation tool in Hungary and Mongolia"
+  ],
+  "animal": {
+   "diet": "Ground squirrels, voles, pikas, hamsters; birds such as pigeons and partridges",
+   "habitat": "Open steppe, wooded steppe, semi-desert, farmland with pylons",
+   "lifespan": "Typically under 10 years in the wild; 20+ in captivity",
+   "size": "47–57 cm; wingspan 97–126 cm; males 730–990 g, females 970–1,300 g",
+   "behaviour": "Hunts by fast, contour-hugging flight, surprising mammals before they can reach their burrows.",
+   "fieldMarks": [
+    "Large, brown falcon with a pale, often whitish, streaked head",
+    "Thin, faint moustache stripe",
+    "Brown upperparts with rufous edges; heavily streaked underparts",
+    "Long tail and broad-based wings; dark underwing coverts contrast with paler flight feathers"
+   ],
+   "voice": "A harsh, scolding 'kyak-kyak-kyak' near the nest.",
+   "lookalikes": "Peregrine is darker slate above with a bold moustache and barred underparts. Lanner falcon (Mediterranean, Africa) is smaller with a rufous crown. Gyrfalcon (Arctic) is heavier and barred above.",
+   "whereToSee": "Hortobágy and Kiskunság plains (Hungary), Kazakh steppe, Mongolian steppe; on migration at Batumi and in the Middle East.",
+   "season": "Resident in central Europe; migratory from northern and eastern populations, wintering Oct–Mar",
+   "order": "Falconiformes"
+  },
+  "iucn": "EN",
+  "lore": "Mongolia declared the saker its national bird in 2012, and in Hungary it is widely identified with the Turul, the mythical bird of the founding legend of the Magyars.",
+  "historicalNames": [
+   "Sacer",
+   "Sacre",
+   "Falco lanarius"
+  ],
+  "funFact": "A Mongolian project installing thousands of artificial nests on the open steppe created a large new breeding population of sakers."
+ },
+ {
+  "slug": "grus-virgo",
+  "scientific": "Grus virgo",
+  "common": "Demoiselle crane",
+  "otherNames": [
+   "Koonj (Urdu/Punjabi)",
+   "Telli turna (Turkish)",
+   "Krasavka (Russian)",
+   "Jungfernkranich (German)",
+   "Grue demoiselle (French)",
+   "Kurja (Rajasthani)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Gruidae",
+  "shelves": [
+   "migrant",
+   "marvel",
+   "sacred"
+  ],
+  "summary": "The smallest of the cranes, elegant and grey with a black breast and white plumes trailing behind the eyes. Steppe populations migrate across the Himalaya and the deserts of the Middle East to winter in India and Africa.",
+  "nativeRange": "Breeds on steppes from Ukraine and southern Russia through Kazakhstan and Central Asia to Mongolia and China; a few in Turkey; formerly bred in the Atlas of Morocco; winters in South Asia and sub-Saharan Africa",
+  "regions": [
+   "Europe",
+   "West Asia",
+   "Central Asia",
+   "East Asia",
+   "South Asia",
+   "North Africa",
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Steppe",
+   "Semi-desert",
+   "Wetland"
+  ],
+  "abilities": [
+   "Flies over the Himalaya at great altitude on migration to India",
+   "Nests on dry steppe, often far from water, unlike most cranes",
+   "Gathers in wintering flocks of thousands",
+   "Pairs dance with leaps and bows like larger cranes"
+  ],
+  "animal": {
+   "diet": "Seeds, grain, plant shoots; insects, lizards and worms",
+   "habitat": "Grassy and shrubby steppe and semi-desert near streams; farmland in winter",
+   "size": "85–100 cm long; wingspan 155–180 cm; 2–3 kg",
+   "behaviour": "Pairs perform graceful dances, and winter flocks descend on fields with loud bugling.",
+   "fieldMarks": [
+    "Small, slim blue-grey crane",
+    "Black head, neck and long, drooping breast plumes",
+    "White tufts of plumes behind the eye",
+    "Short bill; grey tail without a bushy bustle"
+   ],
+   "voice": "A higher-pitched, more wooden trumpeting than the common crane, 'krrro-krrro'.",
+   "lookalikes": "Common crane is larger, with a white neck stripe, red crown and bushy tail-bustle. Grey heron flies with neck folded.",
+   "whereToSee": "Kalmykian and Kazakh steppes in summer; Khichan village in Rajasthan and the Indus floodplains of Pakistan in winter; passage through Pakistan and Arabia.",
+   "season": "Summer visitor to breeding steppes Apr–Sep; winter visitor to South Asia and Africa Oct–Mar",
+   "order": "Gruiformes"
+  },
+  "iucn": "LC",
+  "lore": "In Punjabi, Sindhi and Rajasthani folk songs the 'koonj' is a messenger and a metaphor for a woman far from home, and the villagers of Khichan, Rajasthan, have fed wintering flocks grain for generations.",
+  "historicalNames": [
+   "Ardea virgo",
+   "Anthropoides virgo",
+   "Numidian crane",
+   "Demoiselle"
+  ],
+  "funFact": "Unlike most cranes it often nests on dry ground far from water, laying its eggs among a few pebbles with almost no nest."
+ },
+ {
+  "slug": "platalea-leucorodia",
+  "scientific": "Platalea leucorodia",
+  "common": "Eurasian spoonbill",
+  "otherNames": [
+   "Abu mil'aqa (Arabic)",
+   "Kafcheh-nok (Persian)",
+   "Kaşıkçı (Turkish)",
+   "Lepelaar (Dutch)",
+   "Löffler (German)",
+   "Spatule blanche (French)",
+   "Espátula (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Threskiornithidae",
+  "shelves": [
+   "freshwater",
+   "migrant"
+  ],
+  "summary": "A white wader with a long, flat bill that widens into a spoon at the tip. It feeds by sweeping the bill from side to side through shallow water, snapping it shut on anything it touches.",
+  "nativeRange": "Breeds patchily from the Netherlands, Spain and the Danube across the Middle East and Central Asia to China and India; also on the Banc d'Arguin and Red Sea; winters in West Africa, the Mediterranean, Middle East and South Asia",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "Central Asia",
+   "South Asia",
+   "East Asia",
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Wetland",
+   "Estuaries",
+   "Lakes"
+  ],
+  "abilities": [
+   "Detects prey by touch with sensory receptors in its spatulate bill",
+   "Feeds day and night by sweeping through water and mud",
+   "Chicks hatch with straight, short bills that develop the spoon as they grow",
+   "Has recolonised Britain, breeding at Holkham, Norfolk, since 2010"
+  ],
+  "animal": {
+   "diet": "Small fish, shrimps, aquatic insects, tadpoles and molluscs",
+   "habitat": "Shallow marshes, lagoons, reedbeds and estuaries",
+   "lifespan": "Often 10+ years",
+   "size": "80–93 cm; wingspan 115–135 cm; 1.1–2 kg",
+   "behaviour": "Feeding birds wade in lines, swinging their heads side to side in a sweeping arc.",
+   "fieldMarks": [
+    "All-white plumage",
+    "Long black bill with a yellow spoon-shaped tip",
+    "Breeding adults have a bushy crest and yellow-ochre breast patch",
+    "Flies with neck outstretched, unlike egrets"
+   ],
+   "voice": "Mostly silent; low grunting at colonies.",
+   "lookalikes": "Little egret and great white egret have pointed bills and fly with necks folded. African spoonbill (Africa) has a red face and red legs.",
+   "whereToSee": "Texel and the Wadden Sea (Netherlands), Doñana (Spain), the Danube Delta, Lake Kerkini (Greece), Banc d'Arguin (Mauritania), Holkham (England).",
+   "season": "Summer visitor in northern Europe; resident or winter visitor in the south and Middle East",
+   "order": "Pelecaniformes"
+  },
+  "iucn": "LC",
+  "lore": "Spoonbills bred in England until the 17th century and are recorded in medieval accounts as 'shovelars' served at feasts; their return in the 21st century followed recovery in the Netherlands.",
+  "historicalNames": [
+   "Platea",
+   "Shovelar",
+   "Popeler",
+   "Lepelaar"
+  ],
+  "funFact": "The Dutch population fell to roughly 150 pairs in the late 1960s and has since grown to several thousand pairs."
+ },
+ {
+  "slug": "streptopelia-turtur",
+  "scientific": "Streptopelia turtur",
+  "common": "European turtle dove",
+  "otherNames": [
+   "Qumri (Arabic)",
+   "Qomri (Persian)",
+   "Üveyik (Turkish)",
+   "Fakhta (Urdu)",
+   "Tor (Hebrew)",
+   "Turteltaube (German)",
+   "Tórtola europea (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Columbidae",
+  "shelves": [
+   "migrant",
+   "endangered",
+   "sacred"
+  ],
+  "summary": "A small, delicately patterned dove whose soft purring song was once a defining sound of European summer. It winters in the Sahel and has declined severely due to habitat loss and hunting on migration.",
+  "nativeRange": "Breeds in Europe, North Africa, Turkey, the Middle East and Central Asia to western China; winters in sub-Saharan Africa south of the Sahara",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "Central Asia",
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Farmland",
+   "Woodland edge",
+   "Scrub"
+  ],
+  "abilities": [
+   "One of the few European doves to make a long-distance migration across the Sahara",
+   "Lives largely on small seeds of arable weeds such as fumitory",
+   "Produces a soft, purring song rather than cooing",
+   "Satellite tracking shows western birds wintering in the Sahel from Senegal to Mali"
+  ],
+  "animal": {
+   "diet": "Seeds of weeds and cereals",
+   "habitat": "Farmland with tall hedges, scrub, woodland edge and orchards",
+   "lifespan": "Typically 2–3 years",
+   "size": "26–28 cm; wingspan 47–53 cm; 100–180 g",
+   "behaviour": "Feeds quietly on the ground and flies off fast and low with a flicking wing action.",
+   "fieldMarks": [
+    "Rufous-orange back with black-centred scalloped feathers",
+    "Black-and-white striped patch on each side of the neck",
+    "Pinkish breast and blue-grey head",
+    "Dark tail with a white border, obvious in flight"
+   ],
+   "voice": "A soft, purring, rolling 'turrr-turrr', repeated drowsily.",
+   "lookalikes": "Eurasian collared dove is larger and plain sandy-grey with a single black half-collar. Oriental turtle dove (Siberia, Central Asia) is larger and darker. Laughing dove (Middle East) is smaller and has a speckled breast band.",
+   "whereToSee": "Mediterranean farmland in Spain, Morocco and Turkey; Suffolk and Essex hedgerows in England; heavy passage over Malta and Cyprus.",
+   "season": "Summer visitor Apr–Sep",
+   "order": "Columbiformes"
+  },
+  "iucn": "VU",
+  "lore": "The Song of Songs (2:12) proclaims 'the voice of the turtle is heard in our land', and in Persian and Urdu poetry the qomri or fakhta sings for the cypress tree; 'turtle' comes from Latin 'turtur', an imitation of its purr.",
+  "historicalNames": [
+   "Turtur",
+   "Turtle",
+   "Tortora",
+   "Columba turtur"
+  ],
+  "funFact": "The UK population has fallen by over 90% since 1970, and it was listed globally as Vulnerable in 2015."
+ },
+ {
+  "slug": "neophron-percnopterus",
+  "scientific": "Neophron percnopterus",
+  "common": "Egyptian vulture",
+  "otherNames": [
+   "Rakham (Arabic)",
+   "Küçük akbaba (Turkish)",
+   "Safed giddh (Urdu/Hindi)",
+   "Alimoche (Spanish)",
+   "Schmutzgeier (German)",
+   "Percnoptère d'Égypte (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Accipitridae",
+  "shelves": [
+   "endangered",
+   "migrant",
+   "marvel",
+   "sacred"
+  ],
+  "summary": "A small, white vulture with a bare yellow face and a shaggy mane. It is one of the few birds that use tools, throwing stones to crack open ostrich eggs, and it migrates between Europe and Africa.",
+  "nativeRange": "Southern Europe, North Africa, the Middle East, Central Asia, the Indian subcontinent and sub-Saharan Africa; European and Central Asian birds winter in Africa and Arabia",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "Central Asia",
+   "South Asia",
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Mountains",
+   "Semi-desert",
+   "Savanna",
+   "Farmland"
+  ],
+  "abilities": [
+   "Throws stones at ostrich eggs to break them, a famous case of bird tool use",
+   "Uses twigs to roll up wool for nest lining",
+   "Eats the faeces of livestock, possibly for carotenoids that colour its face",
+   "Migrants cross the Mediterranean at narrow points such as Gibraltar and the Bosphorus"
+  ],
+  "animal": {
+   "diet": "Carrion, scraps, eggs, small animals, insects and dung",
+   "habitat": "Mountains and cliffs near open country, villages and rubbish dumps",
+   "size": "55–65 cm; wingspan 155–170 cm; 1.6–2.4 kg",
+   "behaviour": "Picks over scraps at carcasses and dumps, waiting its turn after larger vultures.",
+   "fieldMarks": [
+    "Adult dirty-white with black flight feathers",
+    "Bare yellow-orange face and thin, hooked bill",
+    "Wedge-shaped white tail",
+    "Juveniles dark brown, whitening over about five years"
+   ],
+   "voice": "Usually silent; occasional mewing and hissing.",
+   "lookalikes": "White stork is longer-legged with a red bill. Griffon vulture is much larger and brown. Booted eagle pale morph has a square tail and feathered head.",
+   "whereToSee": "Spanish sierras (Monfragüe, Picos de Europa), the Balkans, Socotra (Yemen) and Oman; migration at Gibraltar, Belen (Turkey) and Eilat.",
+   "season": "Summer visitor in Europe Mar–Sep; resident in Africa, Arabia and South Asia",
+   "order": "Accipitriformes"
+  },
+  "iucn": "EN",
+  "lore": "The hieroglyph for the sound 'aleph' (Gardiner G1) depicts this vulture, and the bird's habit of following people gave it the nickname 'Pharaoh's chicken'.",
+  "historicalNames": [
+   "Percnopterus",
+   "Neophron",
+   "Pharaoh's chicken",
+   "Gyps aegyptius"
+  ],
+  "funFact": "Jane Goodall and Hugo van Lawick first described its stone-throwing in Tanzania in 1966."
+ },
+ {
+  "slug": "geronticus-eremita",
+  "scientific": "Geronticus eremita",
+  "common": "Northern bald ibis",
+  "otherNames": [
+   "Kelaynak (Turkish)",
+   "Waldrapp (German)",
+   "Ibis chauve (French)",
+   "Ibis eremita (Spanish)",
+   "Abu minjal (Arabic)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Threskiornithidae",
+  "shelves": [
+   "endangered",
+   "migrant",
+   "sacred"
+  ],
+  "summary": "A glossy black ibis with a bare red face, a ragged ruff and a curved red bill. Once widespread in Europe, the Middle East and North Africa, it survives in the wild mainly on Morocco's Atlantic coast, with reintroduced populations in Europe.",
+  "nativeRange": "Wild colonies in Souss-Massa (Morocco); semi-wild colony at Birecik (Turkey); reintroduced in Austria, Germany, Italy and Spain; formerly Syria, central Europe and North Africa",
+  "regions": [
+   "North Africa",
+   "West Asia",
+   "Europe"
+  ],
+  "biomes": [
+   "Coastal cliffs",
+   "Semi-desert",
+   "Steppe",
+   "Farmland"
+  ],
+  "abilities": [
+   "Nests on cliff ledges in colonies",
+   "Probes soil for insects and small reptiles in dry grassland",
+   "Reintroduced European birds have learned a migration route by following ultralight aircraft",
+   "Formation flying saves energy, as studied in this species"
+  ],
+  "animal": {
+   "diet": "Beetles, larvae, worms, lizards and other small animals",
+   "habitat": "Rocky coasts, cliffs and semi-arid steppe and farmland",
+   "size": "70–80 cm; wingspan 125–135 cm; 1–1.5 kg",
+   "behaviour": "Feeds in loose flocks, probing the ground with its curved bill while walking.",
+   "fieldMarks": [
+    "Black plumage glossed with green and purple",
+    "Bare red face and head",
+    "Long, curved red bill",
+    "Shaggy ruff of feathers on the nape"
+   ],
+   "voice": "A guttural 'hyoh' or 'chrup' and various croaks at the colony.",
+   "lookalikes": "Glossy ibis is slimmer with a feathered head and darker bill. Cormorants fly with straight bills. Southern bald ibis lives only in southern Africa.",
+   "whereToSee": "Souss-Massa National Park and Tamri (Morocco), Birecik (Turkey), and reintroduced birds in Austria and Tuscany.",
+   "season": "Resident in Morocco; reintroduced European birds migrate to Tuscany for winter",
+   "order": "Pelecaniformes"
+  },
+  "iucn": "EN",
+  "lore": "The ancient Egyptian hieroglyph 'akh', meaning spirit or shining one, depicts this ibis, and in Birecik it was traditionally believed to guide pilgrims to Mecca.",
+  "historicalNames": [
+   "Corvus sylvaticus",
+   "Waldrapp",
+   "Hermit ibis"
+  ],
+  "funFact": "Conrad Gessner described it in Switzerland in 1555, but after it vanished from Europe it was dismissed as a mythical bird until it was rediscovered in the Middle East."
+ },
+ {
+  "slug": "fratercula-arctica",
+  "scientific": "Fratercula arctica",
+  "common": "Atlantic puffin",
+  "otherNames": [
+   "Lundi (Icelandic)",
+   "Lunde (Norwegian)",
+   "Pâl (Welsh)",
+   "Buthaid (Scottish Gaelic)",
+   "Papageitaucher (German)",
+   "Macareux moine (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Alcidae",
+  "shelves": [
+   "ocean",
+   "endangered"
+  ],
+  "summary": "A small auk with a huge, colourful bill, nesting in burrows on grassy sea cliffs. It 'flies' underwater to catch small fish and brings them back crosswise in its bill.",
+  "nativeRange": "North Atlantic: breeds from Brittany, Britain and Ireland to Iceland, Norway, the Faroes and Svalbard, and from Maine to Greenland; winters at sea, south to the Canaries and western Mediterranean",
+  "regions": [
+   "Europe",
+   "North America",
+   "Arctic",
+   "Atlantic Ocean"
+  ],
+  "biomes": [
+   "Open ocean",
+   "Coastal cliffs",
+   "Islands"
+  ],
+  "abilities": [
+   "Carries a dozen or more fish at once, held against spines on its tongue and palate",
+   "Dives to depths of several tens of metres, propelled by its wings",
+   "Digs burrows with bill and feet in cliff-top turf",
+   "Its bill sheath fluoresces under ultraviolet light"
+  ],
+  "animal": {
+   "diet": "Sandeels, sprats, capelin and other small fish",
+   "habitat": "Open sea; breeds on islands and cliffs with soft turf",
+   "lifespan": "Often 20+ years",
+   "size": "26–29 cm; wingspan 47–63 cm; 320–550 g",
+   "behaviour": "Pairs reunite at the same burrow each year and greet each other by tapping bills ('billing').",
+   "fieldMarks": [
+    "Black upperparts and collar, white face and underparts",
+    "Large, triangular bill striped red, yellow and blue-grey in summer",
+    "Orange legs and feet",
+    "Fast, whirring flight low over the sea"
+   ],
+   "voice": "A low, growling 'arr-arr' from inside burrows; silent at sea.",
+   "lookalikes": "Razorbill and guillemots are larger with thinner bills and no coloured beak. Little auk is tiny with a stubby black bill. In winter the puffin's bill and face are duller.",
+   "whereToSee": "Skomer (Wales), Farne Islands and Isle of May (Britain), Látrabjarg and Westman Islands (Iceland), Runde (Norway), Machias Seal Island (Canada/USA).",
+   "season": "At colonies late Mar–early Aug; at sea in winter",
+   "order": "Charadriiformes"
+  },
+  "iucn": "VU",
+  "lore": "Lundy Island in the Bristol Channel takes its name from the Norse word 'lundi', puffin, and in medieval England the bird's fishy flesh was sometimes accepted as Lenten food.",
+  "historicalNames": [
+   "Alca arctica",
+   "Coulterneb",
+   "Tammie norie"
+  ],
+  "funFact": "The colourful outer bill plates are shed after the breeding season, leaving a smaller, duller bill in winter."
+ },
+ {
+  "slug": "coracias-garrulus",
+  "scientific": "Coracias garrulus",
+  "common": "European roller",
+  "otherNames": [
+   "Shiqirraq (Arabic)",
+   "Sabzqaba (Persian)",
+   "Gökkuzgun (Turkish)",
+   "Blauracke (German)",
+   "Rollier d'Europe (French)",
+   "Carraca europea (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Coraciidae",
+  "shelves": [
+   "migrant"
+  ],
+  "summary": "A jay-sized bird of shining turquoise and chestnut that watches for insects from wires and dead trees. It is named for its tumbling, rolling display flight, and it migrates to southern Africa for the winter.",
+  "nativeRange": "Breeds in southern and eastern Europe, North Africa, Turkey, the Middle East and Central Asia to western China and Kashmir; winters in eastern and southern Africa",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "Central Asia",
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Steppe",
+   "Farmland",
+   "Mediterranean woodland",
+   "Savanna"
+  ],
+  "abilities": [
+   "Performs a tumbling, rolling display dive in spring",
+   "Nestlings vomit a foul-smelling orange fluid to deter predators",
+   "Nests in tree holes, banks and nest boxes, often old woodpecker holes",
+   "Migrates in loops across East Africa and Arabia"
+  ],
+  "animal": {
+   "diet": "Large insects such as beetles and grasshoppers; lizards and small rodents",
+   "habitat": "Open country with old trees, steppe, farmland with scattered trees",
+   "size": "29–32 cm; wingspan 52–58 cm; 127–160 g",
+   "behaviour": "Sits upright on a high perch and drops to the ground to seize prey.",
+   "fieldMarks": [
+    "Bright turquoise head and underparts",
+    "Chestnut back",
+    "Deep violet-blue and black flight feathers flash in flight",
+    "Stout black bill"
+   ],
+   "voice": "A harsh, crow-like 'rack-kack' and rattling 'krak-krak-krak' in display.",
+   "lookalikes": "Indian roller (Middle East, South Asia) has a rufous-pink breast and purple throat. Blue-cheeked bee-eater is green and slimmer. European bee-eater has a long, curved bill and tail streamers.",
+   "whereToSee": "Extremadura and the Ebro valley (Spain), the Crau and Camargue (France), Hungary, the Balkans, Turkey, Central Asian steppes; passage in East Africa.",
+   "season": "Summer visitor Apr/May–Aug",
+   "order": "Coraciiformes"
+  },
+  "iucn": "LC",
+  "lore": "Its Persian name 'sabzqaba' means 'green robe', and Linnaeus's 'garrulus' (chattering) refers to its harsh calls.",
+  "historicalNames": [
+   "Coracias",
+   "Roller"
+  ],
+  "funFact": "Studies in Spain showed roller chicks' orange vomit discourages predators and may warn parents of danger."
+ },
+ {
+  "slug": "dryocopus-martius",
+  "scientific": "Dryocopus martius",
+  "common": "Black woodpecker",
+  "otherNames": [
+   "Kara ağaçkakan (Turkish)",
+   "Schwarzspecht (German)",
+   "Pic noir (French)",
+   "Picamaderos negro (Spanish)",
+   "Zhelna (Russian)",
+   "Palokärki (Finnish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Picidae",
+  "shelves": [
+   "keystone"
+  ],
+  "summary": "Europe's largest woodpecker, crow-sized and all black with a red crown. The large oval holes it carves in old trees become homes for owls, stock doves, bats and pine martens.",
+  "nativeRange": "Forests from Spain and France across Europe, Turkey and the Caucasus, through Russia and Siberia to Japan and northern China",
+  "regions": [
+   "Europe",
+   "West Asia",
+   "Central Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Temperate forest",
+   "Boreal forest",
+   "Mountains"
+  ],
+  "abilities": [
+   "Excavates large, oval nest holes that many other species later use",
+   "Rips into rotten stumps and trunks to reach carpenter ants",
+   "Drums loudly on resonant trunks to advertise territory",
+   "Its old holes are key nest sites for Tengmalm's owl, stock dove and goldeneye"
+  ],
+  "animal": {
+   "diet": "Carpenter ants and wood-boring beetle larvae; some berries",
+   "habitat": "Mature conifer, beech and mixed forests with large old trees",
+   "size": "40–46 cm; wingspan 67–73 cm; 250–370 g",
+   "behaviour": "Leaves large rectangular excavations at the base of ant-infested trees and stumps.",
+   "fieldMarks": [
+    "All-black plumage, crow-sized",
+    "Male has a red crown from bill to nape; female only a red rear crown",
+    "Pale ivory bill and pale eye",
+    "Flies with a straight, flappy flight, not deeply undulating"
+   ],
+   "voice": "A loud, whistling 'kree-kree-kree' in flight, a plaintive 'kleee-a' when perched; long, powerful drumming.",
+   "lookalikes": "Carrion crow and jackdaw lack the red crown and pale bill and do not climb trunks. Green woodpecker is green with a red cap. Grey-headed woodpecker is much smaller and green.",
+   "whereToSee": "Białowieża Forest (Poland/Belarus), the Bavarian Forest, Pyrenees, Alpine forests, Finnish taiga.",
+   "season": "Resident; drumming and calling most frequent Feb–Apr",
+   "order": "Piciformes"
+  },
+  "iucn": "LC",
+  "lore": "The species name 'martius' links it to Mars, the Roman god whose sacred bird was the woodpecker, and early naturalists called it the 'great black woodpecker'.",
+  "historicalNames": [
+   "Picus martius",
+   "Picus niger",
+   "Great black woodpecker"
+  ],
+  "funFact": "A single black woodpecker nest hole can be reused by other cavity-nesting animals for decades after the woodpecker leaves."
+ },
+ {
+  "slug": "athene-noctua",
+  "scientific": "Athene noctua",
+  "common": "Little owl",
+  "otherNames": [
+   "Kukumav (Turkish)",
+   "Koukouvagia (Greek)",
+   "Steinkauz (German)",
+   "Chevêche d'Athéna (French)",
+   "Mochuelo europeo (Spanish)",
+   "Civetta (Italian)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Strigidae",
+  "shelves": [
+   "sacred"
+  ],
+  "summary": "A small, flat-headed owl with fierce yellow eyes and white 'eyebrows' that is often active by day, bobbing on fence posts and walls. It was the sacred owl of Athena and the emblem of ancient Athens.",
+  "nativeRange": "Europe, North Africa, the Middle East and Central Asia to Mongolia and China; introduced to Britain in the 19th century and to New Zealand",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "Central Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Farmland",
+   "Steppe",
+   "Semi-desert",
+   "Mediterranean scrub"
+  ],
+  "abilities": [
+   "Hunts by day as well as night, running after prey on the ground",
+   "Bobs its head and body when alarmed",
+   "Nests in tree holes, walls, rabbit burrows and nest boxes",
+   "Tolerates heat and arid conditions in desert edges"
+  ],
+  "animal": {
+   "diet": "Beetles, earthworms, voles, mice, small birds and lizards",
+   "habitat": "Open farmland with old trees, orchards, stone walls, ruins, rocky semi-desert",
+   "lifespan": "Typically 3–5 years",
+   "size": "21–23 cm; wingspan 54–58 cm; 160–250 g",
+   "behaviour": "Perches in the open on posts and rooftops in daylight, bobbing up and down when disturbed.",
+   "fieldMarks": [
+    "Small, plump, round-winged owl with a flat head",
+    "Brown plumage spotted with white",
+    "Yellow eyes with white eyebrows giving a frowning look",
+    "Bounding, woodpecker-like flight"
+   ],
+   "voice": "A plaintive, rising 'kiew' or 'goo-ek', and a sharp 'kip-kip' alarm.",
+   "lookalikes": "Scops owl is smaller, greyer and has ear tufts. Boreal (Tengmalm's) owl has a pale facial disc with dark border and lives in forest. Tawny owl is much larger with dark eyes.",
+   "whereToSee": "Olive groves and farmland in Spain, Italy and Greece; Dutch and Belgian pollard willows; farmland in central England; ruins in the Middle East.",
+   "season": "Resident",
+   "order": "Strigiformes"
+  },
+  "iucn": "LC",
+  "lore": "The owl on Athenian silver tetradrachms from the 5th century BC is a little owl, giving rise to the proverb 'bringing owls to Athens', and a modern Greek one-euro coin still carries the design.",
+  "historicalNames": [
+   "Noctua",
+   "Glaux",
+   "Civetta",
+   "Strix noctua"
+  ],
+  "funFact": "Little owls were introduced to England from the Netherlands by Victorian landowners such as Lord Lilford in the late 19th century."
+ },
+ {
+  "slug": "aquila-adalberti",
+  "scientific": "Aquila adalberti",
+  "common": "Spanish imperial eagle",
+  "otherNames": [
+   "Águila imperial ibérica (Spanish)",
+   "Águia-imperial-ibérica (Portuguese)",
+   "Spanischer Kaiseradler (German)",
+   "Aigle ibérique (French)",
+   "Adalbert's eagle (English)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Accipitridae",
+  "shelves": [
+   "endangered"
+  ],
+  "summary": "A dark, powerful eagle with brilliant white shoulder patches, found only in the Iberian Peninsula. Rescued from near-extinction in the 1970s, it has become one of Europe's great conservation recoveries, though it remains Vulnerable.",
+  "nativeRange": "Endemic to the Iberian Peninsula (central and southwestern Spain, southern Portugal); has occasionally bred in Morocco",
+  "regions": [
+   "Europe",
+   "North Africa"
+  ],
+  "biomes": [
+   "Mediterranean woodland",
+   "Dehesa",
+   "Wetland edge"
+  ],
+  "abilities": [
+   "Specialises on rabbits, and its breeding success tracks rabbit numbers",
+   "Builds large stick nests in cork oaks and pines",
+   "Adults hold territories year-round",
+   "Young birds wander widely across Iberia before settling"
+  ],
+  "animal": {
+   "diet": "Mainly European rabbits; also hares, partridges, pigeons, ducks and carrion",
+   "habitat": "Open oak woodland (dehesa), Mediterranean scrub, pine forest near marshes",
+   "size": "72–85 cm; wingspan 177–220 cm; 2.5–4.8 kg",
+   "behaviour": "Pairs soar together over their territory with undulating display flights in late winter.",
+   "fieldMarks": [
+    "Very dark brown body with a pale golden-buff crown and nape",
+    "Bold white patches on the shoulders and the leading edge of the wing",
+    "Grey tail with a broad dark terminal band",
+    "Juveniles pale tawny-buff with dark flight feathers"
+   ],
+   "voice": "A deep, barking 'owk-owk-owk'.",
+   "lookalikes": "Eastern imperial eagle (eastern Europe, Central Asia) has smaller white shoulder patches and no white leading edge. Golden eagle has a longer tail and lacks white shoulders. Juveniles resemble young eastern imperial eagles but are unstreaked.",
+   "whereToSee": "Doñana National Park, Monfragüe, Sierra de Andújar and Montes de Toledo in Spain; Alentejo in Portugal.",
+   "season": "Resident",
+   "order": "Accipitriformes"
+  },
+  "iucn": "VU",
+  "lore": "It was named in 1861 by the German ornithologist Christian Ludwig Brehm in honour of Prince Adalbert of Bavaria, and it became a symbol of Spanish conservation through the protection of Doñana.",
+  "historicalNames": [
+   "Aquila heliaca adalberti",
+   "Águila imperial",
+   "Adalbert's eagle"
+  ],
+  "funFact": "Electrocution on power lines and illegal poison baits were its main killers; retrofitting dangerous pylons has been central to its recovery from a few dozen pairs."
+ },
+ {
+  "slug": "aquila-nipalensis",
+  "scientific": "Aquila nipalensis",
+  "common": "Steppe eagle",
+  "otherNames": [
+   "Bozkır kartalı (Turkish)",
+   "Oqab-e dashti (Persian)",
+   "Stepnoy oryol (Russian)",
+   "Steppenadler (German)",
+   "Aigle des steppes (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Accipitridae",
+  "shelves": [
+   "endangered",
+   "migrant"
+  ],
+  "summary": "A large, dark eagle that nests on the ground or on low bushes across the open steppes of Russia, Kazakhstan and Mongolia. Once common, it has crashed due to electrocution on power lines, poisoning and habitat loss.",
+  "nativeRange": "Breeds from southern Russia and Kazakhstan across Central Asia to Mongolia and China; winters in East Africa, Arabia, the Middle East and South Asia",
+  "regions": [
+   "Europe",
+   "West Asia",
+   "Central Asia",
+   "East Asia",
+   "South Asia",
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Steppe",
+   "Semi-desert",
+   "Savanna"
+  ],
+  "abilities": [
+   "Nests on the open ground, low shrubs or pylons where no trees exist",
+   "Preys heavily on ground squirrels (sousliks)",
+   "Migrates thousands of kilometres around the Caspian and through the Middle East to Africa",
+   "Gathers in large numbers at rubbish dumps and locust swarms in winter"
+  ],
+  "animal": {
+   "diet": "Ground squirrels, marmots, pikas, hares; carrion; termites and locusts in winter",
+   "habitat": "Dry steppe and semi-desert; savanna and farmland in winter",
+   "size": "62–81 cm; wingspan 165–214 cm; 2.3–4.9 kg",
+   "behaviour": "Thousands funnel through narrow migration bottlenecks, including Eilat in Israel and Bab-el-Mandeb between Yemen and Djibouti.",
+   "fieldMarks": [
+    "Large, uniformly dark brown eagle",
+    "Long gape line reaching back below the eye",
+    "Juveniles show a broad white band across the underwing and pale trailing edge",
+    "Fingered wingtips; adults often have a rufous nape patch"
+   ],
+   "voice": "Generally silent; a barking call near the nest.",
+   "lookalikes": "Greater spotted eagle is darker with a shorter gape and a more compact shape. Tawny eagle (Africa, India) is paler with a shorter gape. Golden eagle has a longer tail and golden nape.",
+   "whereToSee": "Kalmykia and Kazakh steppe in summer; spring passage at Eilat (Israel); winter in Oman's Raysut dump and East African savanna.",
+   "season": "Summer visitor to breeding steppes Apr–Sep; passage Feb–Apr and Sep–Nov",
+   "order": "Accipitriformes"
+  },
+  "iucn": "EN",
+  "lore": "Its scientific name records the first specimen described from Nepal by Brian Houghton Hodgson in 1833, and for decades it was lumped with the tawny eagle of Africa and India.",
+  "historicalNames": [
+   "Aquila orientalis",
+   "Nepal eagle",
+   "Aquila rapax nipalensis"
+  ],
+  "funFact": "It was uplisted from Least Concern to Endangered in 2015 after evidence of rapid declines across its breeding range."
+ },
+ {
+  "slug": "vanellus-gregarius",
+  "scientific": "Vanellus gregarius",
+  "common": "Sociable lapwing",
+  "otherNames": [
+   "Kretchetka (Russian)",
+   "Sürmeli kızkuşu (Turkish)",
+   "Steppenkiebitz (German)",
+   "Vanneau sociable (French)",
+   "Avefría sociable (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Charadriidae",
+  "shelves": [
+   "endangered",
+   "migrant"
+  ],
+  "summary": "A Critically Endangered steppe plover that breeds in Kazakhstan and southern Russia and winters in Sudan, Arabia and the Indian subcontinent. Satellite tagging revealed migration routes through Syria and Iraq where hunting kills many.",
+  "nativeRange": "Breeds in the steppes of Kazakhstan and adjacent Russia; winters in Sudan, Eritrea, Saudi Arabia, Oman, Pakistan and northwestern India",
+  "regions": [
+   "Central Asia",
+   "Europe",
+   "West Asia",
+   "South Asia",
+   "North Africa",
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Steppe",
+   "Semi-desert",
+   "Farmland"
+  ],
+  "abilities": [
+   "Breeds in loose colonies on heavily grazed steppe, often near villages",
+   "Travels in flocks along a long overland migration route",
+   "Relies on grazing livestock to keep steppe vegetation short",
+   "Uses fallow fields and short grassland on migration"
+  ],
+  "animal": {
+   "diet": "Beetles, grasshoppers and other insects; some seeds",
+   "habitat": "Dry steppe with short, grazed vegetation; arable land and semi-desert in winter",
+   "size": "27–30 cm; wingspan 70–76 cm; 150–260 g",
+   "behaviour": "Gathers in flocks at stopover sites in autumn, feeding on fallow and stubble fields.",
+   "fieldMarks": [
+    "Black crown and eye-stripe with a bold white eyebrow",
+    "Sandy-grey body; breeding adults have a black-and-chestnut belly",
+    "Black primaries, white secondaries and black tail band in flight",
+    "Long dark legs"
+   ],
+   "voice": "A harsh, grating 'kretch-kretch-kretch', the basis of its Russian name.",
+   "lookalikes": "White-tailed lapwing has a plain head and an all-white tail. Northern lapwing has a long crest and dark green back. Cream-coloured courser is smaller and runs fast with a curved bill.",
+   "whereToSee": "Breeding colonies in the Korgalzhyn region of Kazakhstan; wintering birds in Oman, Pakistan and Gujarat/Rajasthan; passage in southeastern Turkey.",
+   "season": "Summer visitor to Kazakhstan Apr–Aug; winter visitor Oct–Mar",
+   "order": "Charadriiformes"
+  },
+  "iucn": "CR",
+  "lore": "Pallas described it from the Russian steppe in 1771, and its sharp call gave it the Russian name 'kretchetka'.",
+  "historicalNames": [
+   "Charadrius gregarius",
+   "Chettusia gregaria",
+   "Kretchetka"
+  ],
+  "funFact": "In 2007 satellite-tracked birds led researchers to a flock of about 3,200 sociable lapwings in southeastern Turkey, far more than anyone thought survived."
+ },
+ {
+  "slug": "hypocolius-ampelinus",
+  "scientific": "Hypocolius ampelinus",
+  "common": "Grey hypocolius",
+  "otherNames": [
+   "Hypocolius gris (French)",
+   "Seidenwürger (German)",
+   "Hipocolio (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Hypocoliidae",
+  "shelves": [
+   "migrant"
+  ],
+  "summary": "A sleek, waxwing-like grey bird with a black mask, the only member of its family. It breeds in the river valleys and deserts of Iraq, Iran and Central Asia and winters in date palm oases around the Persian Gulf.",
+  "nativeRange": "Breeds in Iraq, Iran, Turkmenistan and Afghanistan; winters in eastern Arabia, Bahrain, Kuwait, the UAE, southern Iran and Pakistan, with strays to western India",
+  "regions": [
+   "West Asia",
+   "Central Asia",
+   "South Asia"
+  ],
+  "biomes": [
+   "Desert oasis",
+   "Riparian scrub",
+   "Semi-desert"
+  ],
+  "abilities": [
+   "Sole living member of the family Hypocoliidae",
+   "Feeds largely on dates and berries in winter roosts",
+   "Gathers in communal winter roosts in dense palm groves",
+   "Breeds in tamarisk and date palm scrub in hot lowland deserts"
+  ],
+  "animal": {
+   "diet": "Fruits including dates, mulberries and berries; some insects",
+   "habitat": "Date palm groves, gardens and scrub along rivers in arid lands",
+   "size": "19–21 cm; 50–60 g",
+   "behaviour": "Small parties move together between fruiting trees, often perching hidden in dense foliage and flying out to roosts at dawn.",
+   "fieldMarks": [
+    "Smooth, pale grey plumage with a long tail",
+    "Male has a black mask that joins around the nape",
+    "Black tips to the primaries and a black tail tip",
+    "Female plainer brownish-grey with no mask"
+   ],
+   "voice": "A soft, mewing 'whee-oo' and low chattering in flocks.",
+   "lookalikes": "Great grey and southern grey shrikes have hooked bills and black-and-white wings. Bohemian waxwing has a crest and yellow tail tip and does not occur in the Gulf.",
+   "whereToSee": "Winter roosts in Bahrain, the Al-Ahsa oasis in Saudi Arabia, Kuwait and the UAE.",
+   "season": "Winter visitor to Arabia Nov–Mar; summer visitor to breeding grounds",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "Charles Lucien Bonaparte described it in 1850, and its relationships puzzled ornithologists for over a century until DNA studies placed it near the silky-flycatchers and waxwings.",
+  "historicalNames": [
+   "Hypocolius ampelinus",
+   "Grey shrike-waxwing"
+  ],
+  "funFact": "It is one of the few bird families found only in the Middle East and southwest Asia."
+ },
+ {
+  "slug": "cinclus-cinclus",
+  "scientific": "Cinclus cinclus",
+  "common": "White-throated dipper",
+  "otherNames": [
+   "Dere kuşu (Turkish)",
+   "Wasseramsel (German)",
+   "Cincle plongeur (French)",
+   "Mirlo acuático (Spanish)",
+   "Fossekall (Norwegian)",
+   "Bronwen y dŵr (Welsh)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Cinclidae",
+  "shelves": [
+   "freshwater",
+   "marvel"
+  ],
+  "summary": "The only European songbird that swims and walks underwater. This chunky, white-bibbed bird bobs on boulders in fast mountain streams before plunging in to hunt insect larvae on the riverbed.",
+  "nativeRange": "Fast rivers of Europe, northwest Africa (Atlas), Turkey, the Caucasus, Iran and Central Asia to the Himalaya and western China",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "Central Asia",
+   "South Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Rivers",
+   "Mountains"
+  ],
+  "abilities": [
+   "Walks along the stream bed against the current, using its wings to stay down",
+   "Has dense plumage and a large preen gland for waterproofing",
+   "Can close its nostrils with flaps of skin when submerged",
+   "Sings through the winter, even beside frozen torrents"
+  ],
+  "animal": {
+   "diet": "Caddisfly, mayfly and stonefly larvae, freshwater shrimps, small fish",
+   "habitat": "Clear, fast-flowing upland streams and rivers",
+   "lifespan": "Typically 2–3 years",
+   "size": "17–20 cm; 50–76 g",
+   "behaviour": "Bobs constantly on a stone in midstream, blinking its white eyelids, before diving in.",
+   "fieldMarks": [
+    "Plump, short-tailed, wren-like shape",
+    "Bright white throat and breast",
+    "Dark chocolate-brown head and blackish body; some races have a chestnut belly band",
+    "Whirring, low flight over water"
+   ],
+   "voice": "A sharp, metallic 'zit' in flight; song a sweet, rambling warble heard even in winter.",
+   "lookalikes": "Ring ouzel has a white breast crescent but is a thrush of moorland, not water. Brown dipper (Central Asia, Himalaya) is entirely brown with no white bib.",
+   "whereToSee": "Upland streams in Wales, northern England and Scotland, the Alps, Pyrenees, Norwegian rivers and Atlas Mountains.",
+   "season": "Resident; northern birds move to ice-free water in winter",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "Norway made the dipper (fossekall, 'waterfall man') its national bird in 1963, and the Welsh name 'bronwen y dŵr' means 'white breast of the water'.",
+  "historicalNames": [
+   "Cinclus",
+   "Merula aquatica",
+   "Water ouzel",
+   "Water crow"
+  ],
+  "funFact": "Studies in Wales found dipper numbers fell on acidified streams, making it an indicator of river health."
+ },
+ {
+  "slug": "panurus-biarmicus",
+  "scientific": "Panurus biarmicus",
+  "common": "Bearded reedling",
+  "otherNames": [
+   "Bıyıklı baştankara (Turkish)",
+   "Bartmeise (German)",
+   "Panure à moustaches (French)",
+   "Bigotudo (Spanish)",
+   "Baardman (Dutch)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Panuridae",
+  "shelves": [
+   "freshwater"
+  ],
+  "summary": "A tawny, long-tailed bird of reedbeds whose males sport a black drooping 'moustache'. Despite its old name 'bearded tit', it is the only member of its own family.",
+  "nativeRange": "Reedbeds patchily from Britain and Spain across Europe, Turkey and the Middle East to Central Asia, Mongolia and northeastern China",
+  "regions": [
+   "Europe",
+   "West Asia",
+   "Central Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Reedbed",
+   "Wetland"
+  ],
+  "abilities": [
+   "Switches diet from insects in summer to reed seeds in winter",
+   "Changes its gizzard structure seasonally and swallows grit to grind seeds",
+   "Clings to reed stems with legs straddled between two stalks",
+   "Sole member of the family Panuridae"
+  ],
+  "animal": {
+   "diet": "Insects and spiders in summer; reed seeds in autumn and winter",
+   "habitat": "Extensive reedbeds by lakes, rivers and estuaries",
+   "lifespan": "Typically 2–3 years",
+   "size": "14.5–17 cm including tail; 12–18 g",
+   "behaviour": "Flocks erupt from reedbeds in autumn, flying high and calling before moving to new marshes.",
+   "fieldMarks": [
+    "Tawny-orange body and very long, graduated tail",
+    "Male: blue-grey head and broad black moustache",
+    "Yellow-orange bill and eye",
+    "Whirring flight just above the reed tops"
+   ],
+   "voice": "A ringing, metallic 'ping' or 'tching', often the first clue to its presence.",
+   "lookalikes": "Long-tailed tit is smaller with a pink, black and white pattern and lives in woodland. Reed warblers are brown with short tails.",
+   "whereToSee": "Minsmere and the Norfolk Broads (England), Oostvaardersplassen (Netherlands), the Danube Delta, Lake Neusiedl (Austria/Hungary).",
+   "season": "Resident; mass movements Sep–Nov",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "The species name 'biarmicus' refers to Biarmia, an old name for the region around the White Sea, although the bird does not live there.",
+  "historicalNames": [
+   "Parus biarmicus",
+   "Bearded tit",
+   "Reed pheasant"
+  ],
+  "funFact": "Severe winters can wipe out local populations, which then recover in a few years thanks to multiple broods."
+ },
+ {
+  "slug": "aegithalos-caudatus",
+  "scientific": "Aegithalos caudatus",
+  "common": "Long-tailed tit",
+  "otherNames": [
+   "Uzun kuyruklu baştankara (Turkish)",
+   "Schwanzmeise (German)",
+   "Mésange à longue queue (French)",
+   "Mito (Spanish)",
+   "Staartmees (Dutch)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Aegithalidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "A tiny ball of fluff with a tail longer than its body, travelling through woodland in chattering family flocks. Its domed nest of moss, lichen and spider silk is one of the finest bird constructions in Europe.",
+  "nativeRange": "Europe, Turkey, the Caucasus and northern Iran across Siberia and Central Asia to Japan and Korea",
+  "regions": [
+   "Europe",
+   "West Asia",
+   "Central Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Woodland",
+   "Temperate forest",
+   "Scrub",
+   "Gardens and parks"
+  ],
+  "abilities": [
+   "Builds a stretchy, domed nest bound with spider silk and lined with up to about 2,000 feathers",
+   "Birds whose own nest fails often help feed the chicks of relatives",
+   "Huddles in tight rows at night to survive cold",
+   "Recognises relatives by their calls"
+  ],
+  "animal": {
+   "diet": "Small insects, spiders and their eggs; occasionally seeds",
+   "habitat": "Deciduous woodland, scrub, hedges and gardens",
+   "lifespan": "Typically 2–3 years",
+   "size": "13–15 cm including a 7–9 cm tail; 7–9 g",
+   "behaviour": "Family flocks of 10–20 birds roam through trees in winter, one following another across gaps.",
+   "fieldMarks": [
+    "Tiny round body with a very long black tail edged in white",
+    "Pinkish shoulders and flanks",
+    "White crown with broad black stripes in western birds; pure white head in northern caudatus",
+    "Short, stubby bill"
+   ],
+   "voice": "A thin, high 'tsee-tsee-tsee', a dry rolling 'tsirrup' and a short 'tup' contact call.",
+   "lookalikes": "Bearded reedling is tawny and lives in reedbeds. Pied wagtail is larger, walks on the ground and wags its tail.",
+   "whereToSee": "Woodland edges, hedgerows and garden feeders throughout Europe; white-headed birds in Scandinavia and Russia.",
+   "season": "Resident",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "Its bottle-shaped nest gave it old English names such as 'bottle tit' and 'feather poke', and the white-headed Hokkaido race, 'shima-enaga', has become a popular mascot in Japan.",
+  "historicalNames": [
+   "Parus caudatus",
+   "Bottle tit",
+   "Feather poke",
+   "Mumruffin"
+  ],
+  "funFact": "A nest can take two to three weeks to build and expands as the chicks grow, thanks to its stretchy silk and moss construction."
+ },
+ {
+  "slug": "botaurus-stellaris",
+  "scientific": "Botaurus stellaris",
+  "common": "Eurasian bittern",
+  "otherNames": [
+   "Al-wāq al-kabīr الواق الكبير (Arabic)",
+   "Balaban (Turkish)",
+   "Rohrdommel (German)",
+   "Butor étoilé (French)",
+   "Avetoro común (Spanish)",
+   "Roerdomp (Dutch)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Ardeidae",
+  "shelves": [
+   "freshwater"
+  ],
+  "summary": "A secretive, streaky-brown heron of dense reedbeds, almost invisible when it freezes with its bill pointed skyward. In spring the male's booming call carries across the marshes like a distant foghorn.",
+  "nativeRange": "Europe, North Africa, Turkey, the Middle East, Central Asia to Japan; southern African population; northern birds winter south to Africa and South Asia",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "Central Asia",
+   "East Asia",
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Reedbed",
+   "Wetland"
+  ],
+  "abilities": [
+   "Booming call can be heard up to several kilometres away",
+   "Freezes with neck stretched and bill up, swaying with the reeds as camouflage",
+   "Its eyes are positioned to see forward even when the bill points straight up",
+   "Booming is produced by inflating the oesophagus"
+  ],
+  "animal": {
+   "diet": "Fish (especially eels), frogs, insects and small mammals",
+   "habitat": "Extensive wet reedbeds with open water",
+   "size": "69–81 cm; wingspan 100–130 cm; 0.9–1.9 kg",
+   "behaviour": "Stalks slowly through the reeds, hunting in channels and pools.",
+   "fieldMarks": [
+    "Golden-brown plumage boldly streaked and barred with black",
+    "Black crown and moustache stripe",
+    "Stocky heron with thick neck and greenish-yellow legs",
+    "Broad, rounded, owl-like wings in flight"
+   ],
+   "voice": "Male's booming 'oo-pumb', given in series at dusk and dawn in spring; flight call a harsh 'kau'.",
+   "lookalikes": "Juvenile night heron is smaller and spotted white. Purple heron is slimmer with a long thin neck. Little bittern is much smaller with pale wing panels.",
+   "whereToSee": "Minsmere, Ham Wall and Lakenheath Fen (England), Biebrza Marshes (Poland), the Danube Delta, Lake Neusiedl.",
+   "season": "Resident in western Europe; summer visitor further east; booms Mar–Jun",
+   "order": "Pelecaniformes"
+  },
+  "iucn": "LC",
+  "lore": "Chaucer's Wife of Bath compares a sound to the bittern ('as a bitore bombleth in the myre'), and its booming gave rise to folk names such as 'butterbump' and 'bog bumper'.",
+  "historicalNames": [
+   "Ardea stellaris",
+   "Bitore",
+   "Butterbump",
+   "Mire-drum"
+  ],
+  "funFact": "Britain's booming males fell to just 11 in 1997; reedbed restoration raised them to more than 200 by the early 2020s and 283 in 2024."
+ },
+ {
+  "slug": "calidris-pugnax",
+  "scientific": "Calidris pugnax",
+  "common": "Ruff",
+  "otherNames": [
+   "Döğüşkenkuş (Turkish)",
+   "Kampfläufer (German)",
+   "Combattant varié (French)",
+   "Combatiente (Spanish)",
+   "Kemphaan (Dutch)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Scolopacidae",
+  "shelves": [
+   "migrant",
+   "marvel"
+  ],
+  "summary": "A wader whose breeding males grow huge, colourful ruffs and ear tufts and battle at leks. Males come in three genetically fixed types, including a rare female-mimic that sneaks matings.",
+  "nativeRange": "Breeds across northern Europe and Siberia; winters in Africa, the Mediterranean, the Middle East and South Asia",
+  "regions": [
+   "Europe",
+   "Arctic",
+   "North Africa",
+   "West Asia",
+   "Central Asia",
+   "Sub-Saharan Africa",
+   "South Asia"
+  ],
+  "biomes": [
+   "Wetland",
+   "Tundra",
+   "Wet grassland"
+  ],
+  "abilities": [
+   "Three male types: territorial 'independents', satellite males with white ruffs, and 'faeders' that look like females",
+   "The male types are controlled by a supergene formed by a chromosome inversion about 3.8 million years ago",
+   "Males are much larger than females",
+   "Huge winter flocks gather in the inland delta of the Niger and other African wetlands"
+  ],
+  "animal": {
+   "diet": "Insects and larvae, worms; seeds and rice in winter",
+   "habitat": "Wet meadows, marshes and tundra; flooded fields and lake shores in winter",
+   "size": "Males 29–32 cm, ~180 g; females 22–26 cm, ~110 g",
+   "behaviour": "On the lek, males posture with ruffs spread, jumping and sparring while females (reeves) choose.",
+   "fieldMarks": [
+    "Breeding males have a variable ruff and ear tufts in black, chestnut, white or mixed",
+    "Scaly upperparts with pale feather fringes outside breeding",
+    "Small head, medium bill and long orange or greenish legs",
+    "White oval patches at the sides of the tail in flight"
+   ],
+   "voice": "Largely silent; occasional low grunts.",
+   "lookalikes": "Redshank has red legs and a white trailing edge to the wing. Common greenshank is grey with a long upturned bill. Juveniles can suggest buff-breasted sandpiper (a rare vagrant from America).",
+   "whereToSee": "Breeding in Dutch, Swedish and Norwegian meadows; passage at the Wadden Sea; winter flocks in the Senegal and Niger deltas and Indian wetlands.",
+   "season": "Summer visitor to the north Apr–Jul; passage migrant; winter visitor to Africa and Asia",
+   "order": "Charadriiformes"
+  },
+  "iucn": "LC",
+  "lore": "Ruffs were netted and fattened for the table in 17th–18th-century England, and the bird's name echoes the starched lace ruffs of Elizabethan dress.",
+  "historicalNames": [
+   "Tringa pugnax",
+   "Philomachus pugnax",
+   "Reeve",
+   "Combatant"
+  ],
+  "funFact": "The faeder males, about 1% of males, were only identified in 2006."
+ },
+ {
+  "slug": "pyrrhocorax-pyrrhocorax",
+  "scientific": "Pyrrhocorax pyrrhocorax",
+  "common": "Red-billed chough",
+  "otherNames": [
+   "Kırmızı gagalı dağ kargası (Turkish)",
+   "Palores (Cornish)",
+   "Brân goesgoch (Welsh)",
+   "Alpenkrähe (German)",
+   "Crave à bec rouge (French)",
+   "Chova piquirroja (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Corvidae",
+  "shelves": [],
+  "summary": "A glossy black crow with a curved scarlet bill and red legs, tumbling acrobatically along sea cliffs and mountain gorges. It is an emblem of Cornwall, where it returned naturally in 2001.",
+  "nativeRange": "Atlantic coasts of Britain, Ireland and Brittany; mountains of Iberia, the Alps, Atlas, Turkey, the Caucasus, Central Asia, the Himalaya and China; also Ethiopia",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "Central Asia",
+   "South Asia",
+   "East Asia",
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Coastal cliffs",
+   "Mountains",
+   "Alpine grassland"
+  ],
+  "abilities": [
+   "Probes short turf and dung with its curved bill for soil invertebrates",
+   "Performs acrobatic dives and rolls in updrafts along cliffs",
+   "Lives at very high altitudes in the Himalaya and Tibetan Plateau",
+   "Relies on short, grazed grassland maintained by livestock"
+  ],
+  "animal": {
+   "diet": "Ants, beetles, leatherjackets, dung invertebrates; some grain",
+   "habitat": "Sea cliffs with grazed turf, mountain cliffs and gorges",
+   "lifespan": "Typically about 7 years",
+   "size": "37–41 cm; wingspan 68–80 cm; 260–380 g",
+   "behaviour": "Pairs and flocks play in the wind along cliffs, calling as they swoop and roll.",
+   "fieldMarks": [
+    "Glossy blue-black plumage",
+    "Long, decurved red bill",
+    "Red legs",
+    "Deeply fingered, broad wings in flight"
+   ],
+   "voice": "A loud, ringing 'chee-ow' or 'kyaa', more musical than other crows.",
+   "lookalikes": "Alpine chough has a short yellow bill and longer tail. Jackdaw has a grey nape and a short black bill. Carrion crow is larger with a black bill and legs.",
+   "whereToSee": "The Lizard (Cornwall), Pembrokeshire and Anglesey (Wales), Islay (Scotland), the Picos de Europa, Atlas Mountains and Himalaya.",
+   "season": "Resident",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "Cornish legend says King Arthur's soul passed into a chough, and the bird appears on Cornwall's coat of arms; its name comes from the old jackdaw-like call 'chow'.",
+  "historicalNames": [
+   "Pyrrhocorax",
+   "Cornish chough",
+   "Upupa pyrrhocorax",
+   "Chough"
+  ],
+  "funFact": "After choughs died out in Cornwall in 1973, a wild pair arrived on the Lizard in 2001 and bred there the following year."
+ },
+ {
+  "slug": "haliaeetus-albicilla",
+  "scientific": "Haliaeetus albicilla",
+  "common": "White-tailed eagle",
+  "otherNames": [
+   "Ak kuyruklu kartal (Turkish)",
+   "Iolaire sùil na grèine (Scottish Gaelic)",
+   "Seeadler (German)",
+   "Pygargue à queue blanche (French)",
+   "Havørn (Norwegian)",
+   "Erne (Old English)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Accipitridae",
+  "shelves": [
+   "freshwater"
+  ],
+  "summary": "Europe's largest eagle, with broad, plank-like wings, a massive yellow bill and a short white tail. Persecution wiped it out across much of western Europe; reintroductions have returned it to Scotland, Ireland and England.",
+  "nativeRange": "Coasts and large wetlands of Norway, the Baltic, Iceland, Scotland and eastern Europe, east through Russia, Kazakhstan and Siberia to Japan; also western Greenland; winters south to Turkey, the Middle East and China",
+  "regions": [
+   "Europe",
+   "Arctic",
+   "West Asia",
+   "Central Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Coast",
+   "Wetland",
+   "Lakes",
+   "Boreal forest"
+  ],
+  "abilities": [
+   "Wingspan up to about 2.5 m, the broadest of any European eagle",
+   "Snatches fish from the surface and robs otters, ospreys and gulls of food",
+   "Builds huge nests used for decades",
+   "Recovered across the Baltic after DDT and PCBs were banned"
+  ],
+  "animal": {
+   "diet": "Fish, waterbirds, carrion and occasionally mammals",
+   "habitat": "Rocky coasts, large lakes, rivers and estuaries",
+   "lifespan": "Often 20+ years; can exceed 25 in the wild",
+   "size": "70–90 cm; wingspan 1.9–2.5 m; 3–7 kg",
+   "behaviour": "Often sits for hours on a shoreline perch, then glides out low over the water to snatch fish.",
+   "fieldMarks": [
+    "Huge, broad, rectangular wings with deeply fingered tips",
+    "Short, wedge-shaped white tail in adults",
+    "Massive yellow bill and pale head in adults",
+    "Juveniles dark with dark bill and tail"
+   ],
+   "voice": "A yelping 'kli-kli-kli' or 'krick-krick', often given in duet by pairs.",
+   "lookalikes": "Golden eagle has a longer tail, narrower wings held in a shallow V and a golden nape. Osprey is white below with long, angled wings. Pallas's fish eagle (Central Asia) has a dark tail with a white band.",
+   "whereToSee": "Isle of Mull and Skye (Scotland), the Isle of Wight (England), Lofoten (Norway), Danube Delta, Polish lakes, Hokkaido in winter.",
+   "season": "Resident in the west; northern and eastern birds move south in winter",
+   "order": "Accipitriformes"
+  },
+  "iucn": "LC",
+  "lore": "Neolithic people placed white-tailed eagle bones with human remains in the 'Tomb of the Eagles' on South Ronaldsay, Orkney, around 5,000 years ago, and the eagle's Old English name 'erne' survives in place names.",
+  "historicalNames": [
+   "Haliaetus",
+   "Erne",
+   "Sea eagle",
+   "Ossifraga"
+  ],
+  "funFact": "The last native British bird was shot in Shetland in 1918; reintroduction began on the Isle of Rùm in 1975 with birds from Norway."
+ }
+]

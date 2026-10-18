@@ -1,0 +1,16 @@
+node_modules
+.next
+.vercel
+*.tsbuildinfo
+.DS_Store
+# secrets
+.env*.local
+.env
+# build-time tool downloads and caches (regenerate with the scripts in tools/ and scripts/)
+tools/identify/models
+tools/identify/node_modules
+tools/identify/*.log
+tools/identify/labels-*.json
+data/raw/*
+!data/raw/gerard
+data/raw/gerard/pages.json

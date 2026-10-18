@@ -1,0 +1,4 @@
+tools
+data/raw
+*.log
+.env.local

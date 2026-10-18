@@ -1,0 +1,3096 @@
+[
+ {
+  "slug": "cardinalis-cardinalis",
+  "scientific": "Cardinalis cardinalis",
+  "common": "Northern cardinal",
+  "otherNames": [
+   "Cardenal norteño (Spanish)",
+   "Cardinal rouge (French)",
+   "Redbird (American English)",
+   "Virginia nightingale (archaic English)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Cardinalidae",
+  "shelves": [
+   "songbird"
+  ],
+  "summary": "A crested, thick-billed songbird whose scarlet males are the most familiar red bird of eastern North America. Unusually among North American songbirds, females sing too, sometimes from the nest itself, and pairs stay together year-round.",
+  "nativeRange": "Eastern and central North America from southern Canada through the eastern US to Mexico, Belize and northern Guatemala; introduced to Hawaii",
+  "regions": [
+   "North America",
+   "Central America"
+  ],
+  "biomes": [
+   "Woodland edge",
+   "Shrubland",
+   "Gardens",
+   "Desert scrub"
+  ],
+  "abilities": [
+   "Both sexes sing; female song often signals the male to bring food to the nest",
+   "Heavy conical bill cracks hard seeds such as sunflower and safflower",
+   "Has expanded its range far northward over the past century, helped by bird feeders and suburban shrubbery",
+   "Red plumage comes from carotenoid pigments in its diet"
+  ],
+  "animal": {
+   "diet": "Seeds, fruit and insects; nestlings fed mostly insects",
+   "habitat": "Thickets, woodland edges, hedgerows, suburban gardens and desert washes",
+   "lifespan": "Usually under 3 years in the wild; banding record about 15 years",
+   "size": "21–23 cm; 42–48 g",
+   "behaviour": "Territorial males (and sometimes females) attack their own reflections in windows and car mirrors in spring, sometimes for hours.",
+   "fieldMarks": [
+    "Male entirely red with a black face mask around a thick red-orange bill",
+    "Prominent pointed crest in both sexes",
+    "Female warm buff-brown with reddish tinges on crest, wings and tail",
+    "Long tail; juveniles have a dark bill"
+   ],
+   "voice": "Loud, clear, slurred whistles repeated in series, often rendered 'cheer-cheer-cheer' or 'birdie-birdie-birdie'; call a sharp metallic 'chip'.",
+   "lookalikes": "Pyrrhuloxia (south-western US and Mexico) is grey with a red crest and a stubby yellow bill. Summer Tanager males are all red but lack the crest and black face. Scarlet Tanager has black wings.",
+   "whereToSee": "Almost any eastern US backyard feeder, park or thicket; common through the south-east and Mississippi Valley.",
+   "season": "Resident year-round",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "Named after the red robes of Roman Catholic cardinals, it is the official state bird of seven US states — Illinois, Indiana, Kentucky, North Carolina, Ohio, Virginia and West Virginia — more than any other species.",
+  "historicalNames": [
+   "Red-Bird",
+   "Virginia nightingale",
+   "Coccothraustes rubra"
+  ],
+  "funFact": "Linnaeus first named it Loxia cardinalis in 1758, putting it in the same genus as crossbills."
+ },
+ {
+  "slug": "turdus-migratorius",
+  "scientific": "Turdus migratorius",
+  "common": "American robin",
+  "otherNames": [
+   "Zorzal petirrojo (Spanish)",
+   "Merle d'Amérique (French)",
+   "Opichi (Ojibwe)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Turdidae",
+  "shelves": [
+   "songbird",
+   "migrant"
+  ],
+  "summary": "North America's most widespread thrush, a red-breasted lawn hunter whose caroling is often the first song heard before dawn. English colonists named it after the unrelated European robin because of its orange breast.",
+  "nativeRange": "Breeds from Alaska and Canada to southern Mexico; northern birds winter south to the Gulf coast, Mexico and Guatemala",
+  "regions": [
+   "North America",
+   "Central America"
+  ],
+  "biomes": [
+   "Woodland",
+   "Gardens",
+   "Farmland",
+   "Boreal forest",
+   "Tundra edge"
+  ],
+  "abilities": [
+   "Hunts earthworms by running, stopping and cocking its head, locating prey largely by sight",
+   "Shifts from a mainly worm and insect diet in summer to fruit and berries in winter",
+   "Builds a cup nest with a mud lining, shaped by the female pressing with her breast",
+   "Lays the sky-blue eggs that gave the name 'robin's egg blue'"
+  ],
+  "animal": {
+   "diet": "Earthworms, insect larvae, and fruit such as holly, juniper and crabapple",
+   "habitat": "Lawns, parks, open woodland, farmland and forest to the tree line",
+   "lifespan": "About 2 years on average; banding record nearly 14 years",
+   "size": "23–28 cm; 77–85 g",
+   "behaviour": "In winter many robins form large nomadic flocks that follow fruit crops and roost communally, often unnoticed because they stop singing on lawns.",
+   "fieldMarks": [
+    "Brick-orange breast and belly contrasting with grey-brown back",
+    "Blackish head with broken white eye-ring",
+    "Yellow bill; white lower belly and undertail",
+    "Juveniles have heavily spotted breasts, showing the thrush family resemblance"
+   ],
+   "voice": "A rich, caroling series of whistled phrases, often rendered 'cheerily, cheer-up, cheerio'; calls include a sharp 'tut-tut' and a high thin 'seee' alarm for hawks.",
+   "lookalikes": "Varied Thrush (west) has an orange eyebrow, orange wing bars and a black breast band. Eastern Towhee has rufous only on the flanks with a white belly. Spotted juveniles may suggest other thrushes but already show some orange.",
+   "whereToSee": "Lawns, parks and gardens throughout the US and Canada; winter flocks in fruiting trees across the southern states.",
+   "season": "Resident across much of the US; summer visitor in Canada and Alaska, Mar–Oct",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "It is the state bird of Connecticut, Michigan and Wisconsin, and its spring return has long been treated across North America as a sign that winter is ending.",
+  "historicalNames": [
+   "Fieldfare of Carolina",
+   "Turdus pilaris migratorius"
+  ],
+  "funFact": "Many American robins never leave the northern states in winter; they simply switch to fruit and become quiet, so their 'first of spring' sightings are often birds that were there all along."
+ },
+ {
+  "slug": "cyanocitta-cristata",
+  "scientific": "Cyanocitta cristata",
+  "common": "Blue jay",
+  "otherNames": [
+   "Chara azul (Spanish)",
+   "Geai bleu (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Corvidae",
+  "shelves": [
+   "keystone"
+  ],
+  "summary": "A loud, crested corvid of eastern North America, brilliant blue above and white below. It caches thousands of acorns each autumn, and the ones it forgets are credited with helping oak forests spread north after the Ice Age.",
+  "nativeRange": "Southern Canada and the eastern and central United States, west to the Rockies' foothills",
+  "regions": [
+   "North America"
+  ],
+  "biomes": [
+   "Deciduous forest",
+   "Mixed forest",
+   "Gardens",
+   "Woodland edge"
+  ],
+  "abilities": [
+   "Carries several acorns at once in an expandable throat pouch and buries them far from the parent tree",
+   "Mimics the screams of Red-shouldered and Red-tailed Hawks",
+   "Blue colour is structural — feathers scatter light; there is no blue pigment",
+   "Mobs owls and hawks in noisy groups"
+  ],
+  "animal": {
+   "diet": "Acorns, beechnuts, seeds, insects; occasionally eggs and nestlings",
+   "habitat": "Oak and beech forest, mixed woodland, suburbs and parks",
+   "lifespan": "Typically about 7 years; banding record over 26 years",
+   "size": "25–30 cm; 70–100 g",
+   "behaviour": "Some populations migrate in loose daytime flocks along lakeshores and coasts in autumn, but which individuals migrate varies from year to year and is not well understood.",
+   "fieldMarks": [
+    "Bright blue crest, back, wings and tail",
+    "Black necklace across whitish throat and face",
+    "Bold white wing bars and white tail corners, black barring on wings and tail",
+    "Crest raised when excited, flattened when calm"
+   ],
+   "voice": "A harsh, screaming 'jay! jay!'; also a musical, squeaky 'queedle-queedle' (the 'pump-handle' call), soft clicks, and convincing hawk imitations.",
+   "lookalikes": "Steller's Jay (west) has a black front half and no white in the wings or tail. Florida Scrub-Jay lacks a crest and white spots. Belted Kingfisher is blue-grey with a huge bill and a ragged crest.",
+   "whereToSee": "Oak woods, parks and feeders offering peanuts across the eastern US; migrating flocks along the Great Lakes shores (e.g. Whitefish Point, Michigan) in September.",
+   "season": "Resident; some northern birds migrate Sep–Oct and Apr–May",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "Mark Catesby illustrated it as 'The Blew Jay' in his Natural History of Carolina, Florida and the Bahama Islands (1731–43); it is now the emblem of Toronto's Major League Baseball team.",
+  "historicalNames": [
+   "Blew Jay",
+   "Pica glandaria cærulea cristata",
+   "Corvus cristatus"
+  ],
+  "funFact": "A single blue jay may cache an estimated 3,000–5,000 acorns in one autumn."
+ },
+ {
+  "slug": "icterus-galbula",
+  "scientific": "Icterus galbula",
+  "common": "Baltimore oriole",
+  "otherNames": [
+   "Bolsero de Baltimore (Spanish)",
+   "Turpial de Baltimore (Spanish, South America)",
+   "Oriole de Baltimore (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Icteridae",
+  "shelves": [
+   "songbird",
+   "migrant",
+   "pollinator"
+  ],
+  "summary": "A flame-orange and black blackbird relative that weaves a hanging, sock-like nest high in the outer branches of elms and maples. It winters in the tropics, where it sips nectar and eats fruit.",
+  "nativeRange": "Breeds in eastern and central North America; winters from southern Mexico to Colombia and Venezuela, with some in Florida and the Caribbean",
+  "regions": [
+   "North America",
+   "Central America",
+   "South America",
+   "Caribbean"
+  ],
+  "biomes": [
+   "Deciduous forest edge",
+   "Riparian woodland",
+   "Parks and gardens"
+  ],
+  "abilities": [
+   "Weaves a pendant pouch nest from plant fibres, hair and string, hung from slender twig tips",
+   "Uses 'gaping' — stabbing the closed bill into fruit and prying it open — to drink juice",
+   "Visits flowers for nectar on the wintering grounds, carrying pollen between blooms",
+   "Migrates by night between the US and northern South America"
+  ],
+  "animal": {
+   "diet": "Caterpillars and other insects, ripe fruit, nectar",
+   "habitat": "Open deciduous woodland, riversides, parks with tall shade trees",
+   "lifespan": "Banding record about 11 years",
+   "size": "17–22 cm; 22–42 g",
+   "behaviour": "Readily comes to feeders offering orange halves and grape jelly during spring migration.",
+   "fieldMarks": [
+    "Adult male: fiery orange underparts, rump and tail sides; entirely black head and back",
+    "Black wings with a single white wing bar",
+    "Female and first-year male: yellow-orange below, olive-brown above, two white wing bars",
+    "Sharply pointed, straight grey bill"
+   ],
+   "voice": "Rich, flute-like whistled phrases, varying from bird to bird; call a dry, chattering rattle.",
+   "lookalikes": "Bullock's Oriole (west) has an orange face with a black eye-line and a large white wing patch; the two hybridise on the Great Plains. Orchard Oriole males are deep chestnut, not orange. American Redstart is a tiny warbler with orange tail patches.",
+   "whereToSee": "Shade trees along rivers and in older parks across the eastern US and southern Canada; migration hotspots such as Magee Marsh (Ohio) and Point Pelee (Ontario) in May.",
+   "season": "Summer visitor, late Apr–Sep",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "Its orange and black recalled the heraldic colours of the Calverts, the Lords Baltimore who founded colonial Maryland; it is now Maryland's state bird and the namesake of Baltimore's baseball team.",
+  "historicalNames": [
+   "Baltimore-Bird",
+   "Hang-nest",
+   "Icterus ex aureo nigroque varius"
+  ],
+  "funFact": "Before Dutch elm disease, the American elm was its classic nesting tree; orioles have since shifted to maples, cottonwoods and sycamores."
+ },
+ {
+  "slug": "hylocichla-mustelina",
+  "scientific": "Hylocichla mustelina",
+  "common": "Wood thrush",
+  "otherNames": [
+   "Zorzal moteado (Spanish)",
+   "Grive des bois (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Turdidae",
+  "shelves": [
+   "songbird",
+   "migrant"
+  ],
+  "summary": "A plump, cinnamon-backed thrush of eastern forests with bold black spots on a white breast. Its flute-like song is one of the most celebrated sounds in North American nature, produced partly by singing two notes at once.",
+  "nativeRange": "Breeds in eastern North America; winters from southern Mexico to Panama",
+  "regions": [
+   "North America",
+   "Central America"
+  ],
+  "biomes": [
+   "Deciduous forest",
+   "Mixed forest",
+   "Tropical lowland forest (winter)"
+  ],
+  "abilities": [
+   "Its two-sided syrinx lets it sound two independent notes simultaneously, harmonising with itself",
+   "Migrates at night across or around the Gulf of Mexico",
+   "Forages by flicking through leaf litter for invertebrates",
+   "Relies on calcium-rich prey such as snails when laying eggs"
+  ],
+  "animal": {
+   "diet": "Leaf-litter insects, spiders, snails and earthworms; fruit before migration",
+   "habitat": "Moist, mature deciduous and mixed forest with a shrubby understorey",
+   "lifespan": "Banding record about 9 years",
+   "size": "18–21 cm; 40–50 g",
+   "behaviour": "It often adds white material — paper, plastic or birch bark — to the base of its nest.",
+   "fieldMarks": [
+    "Bright cinnamon-rufous upperparts, brightest on the crown and nape",
+    "White underparts with large, round black spots",
+    "Bold white eye-ring",
+    "Plump, short-tailed thrush shape"
+   ],
+   "voice": "A three-part song: soft introductory notes, a liquid flute-like 'ee-oh-lay', then a trilled, buzzy flourish that may contain two notes at once; call a rapid 'pit-pit-pit'.",
+   "lookalikes": "Hermit Thrush has a rufous tail contrasting with a browner back and smaller spots. Veery has only faint spotting. Brown Thrasher has a long tail, yellow eyes, wing bars and streaks rather than round spots.",
+   "whereToSee": "Shady deciduous forest across the eastern US — e.g. Great Smoky Mountains, Shenandoah, Rock Creek Park in Washington DC; dusk is the best time to hear it.",
+   "season": "Summer visitor, late Apr–Sep",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "Henry David Thoreau praised its song repeatedly in his journals as the finest of any bird, and it has been the official bird of the District of Columbia since 1938.",
+  "historicalNames": [
+   "Wood Thrush",
+   "Turdus mustelinus"
+  ],
+  "funFact": "Breeding Bird Survey counts show the wood thrush has declined by roughly half since the 1960s, largely through forest fragmentation and wintering-habitat loss."
+ },
+ {
+  "slug": "poecile-atricapillus",
+  "scientific": "Poecile atricapillus",
+  "common": "Black-capped chickadee",
+  "otherNames": [
+   "Carbonero cabecinegro (Spanish)",
+   "Mésange à tête noire (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Paridae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "A tiny, fearless black-capped tit that survives northern winters in a body weighing about 11 g. Its namesake call works as a code: the more 'dee' notes, the more dangerous the predator.",
+  "nativeRange": "Alaska, Canada and the northern half of the United States",
+  "regions": [
+   "North America"
+  ],
+  "biomes": [
+   "Deciduous forest",
+   "Mixed forest",
+   "Boreal forest edge",
+   "Gardens"
+  ],
+  "abilities": [
+   "Adds extra 'dee' notes to its alarm call for smaller, more dangerous predators such as pygmy-owls",
+   "Caches thousands of seeds each autumn and remembers their locations",
+   "Its hippocampus — the brain region for spatial memory — gains new neurons in autumn, when caching peaks",
+   "Lowers its body temperature by about 10 °C on cold nights to save energy (regulated hypothermia)"
+  ],
+  "animal": {
+   "diet": "Insects, spiders and eggs in summer; seeds and berries in winter",
+   "habitat": "Deciduous and mixed woodland, willow thickets, parks and gardens",
+   "lifespan": "Usually 2–3 years; banding record about 11 years",
+   "size": "12–15 cm; 9–14 g",
+   "behaviour": "In winter it forms the core of mixed-species flocks that nuthatches, kinglets and woodpeckers join for safety.",
+   "fieldMarks": [
+    "Black cap and black bib separated by bright white cheeks",
+    "Grey back; buffy flanks",
+    "White edges to wing coverts and secondaries form a pale wing panel",
+    "Tiny bill; large-headed, round-bodied shape"
+   ],
+   "voice": "The familiar 'chick-a-dee-dee-dee'; song a clear, two-note whistle 'fee-bee', the second note lower.",
+   "lookalikes": "Carolina Chickadee (south-east) is smaller, shows less white in the wing and sings a four-note 'fee-bee-fee-bay'; the two hybridise where ranges meet. Mountain Chickadee has a white eyebrow; Boreal Chickadee has a brown cap.",
+   "whereToSee": "Any feeder or woodland in the northern US and Canada; very tame birds take seed from the hand at many nature centres.",
+   "season": "Resident year-round",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "It is the state bird of Maine and Massachusetts and the provincial bird of New Brunswick.",
+  "historicalNames": [
+   "Parus atricapillus"
+  ],
+  "funFact": "Chickadees of other species and even nuthatches respond to black-capped chickadee alarm calls, effectively eavesdropping on its predator warnings."
+ },
+ {
+  "slug": "bombycilla-cedrorum",
+  "scientific": "Bombycilla cedrorum",
+  "common": "Cedar waxwing",
+  "otherNames": [
+   "Ampelis americano (Spanish)",
+   "Chinito (Spanish, Mexico)",
+   "Jaseur d'Amérique (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Bombycillidae",
+  "shelves": [],
+  "summary": "A sleek, crested fruit-eater with a black mask and red wax-like droplets on its wing tips. It roams in tight, whistling flocks wherever berries ripen, and can live on fruit alone for months.",
+  "nativeRange": "Breeds across southern Canada and the northern US; winters throughout most of the US south to Central America and the Caribbean",
+  "regions": [
+   "North America",
+   "Central America",
+   "Caribbean"
+  ],
+  "biomes": [
+   "Woodland edge",
+   "Orchards",
+   "Riparian woodland",
+   "Gardens"
+  ],
+  "abilities": [
+   "Can survive on fruit alone for months, digesting it rapidly",
+   "Disperses seeds of cedar, juniper, serviceberry and many other fruiting plants",
+   "Flocks pass berries from bird to bird along a branch",
+   "Sallies out over rivers in summer to catch flying insects"
+  ],
+  "animal": {
+   "diet": "Berries and small fruits; flying insects in summer",
+   "habitat": "Open woodland, forest edges, orchards and suburbs with fruiting trees",
+   "lifespan": "Banding record about 8 years",
+   "size": "14–17 cm; about 32 g",
+   "behaviour": "It nests late in summer, timed to fruit ripening, and can become intoxicated or die from eating fermented berries.",
+   "fieldMarks": [
+    "Silky, warm brown-grey plumage with a pointed crest",
+    "Narrow black mask edged with white",
+    "Yellow belly and yellow-tipped tail",
+    "Red waxy tips on the secondary feathers"
+   ],
+   "voice": "No true song; very high, thin, buzzy whistles 'sreee' given constantly by flocks.",
+   "lookalikes": "Bohemian Waxwing is larger and greyer, with rufous undertail coverts and yellow and white marks on the wings. Northern Cardinal females share the crest but have a thick red bill.",
+   "whereToSee": "Fruiting trees anywhere in North America, especially junipers, crabapples and mountain-ash in winter; along rivers catching insects in summer.",
+   "season": "Present year-round in much of the north-central US; nomadic, with numbers changing with fruit crops",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "Mark Catesby painted it in the 1730s as 'The Chatterer', and its sociable habits earned it the old American names 'cedar-bird' and 'cherry-bird'.",
+  "historicalNames": [
+   "Chatterer",
+   "Cedar-bird",
+   "Cherry-bird"
+  ],
+  "funFact": "Since the 1960s, some cedar waxwings have orange instead of yellow tail tips — the result of eating berries of introduced Morrow's honeysuckle while their feathers grow."
+ },
+ {
+  "slug": "mimus-polyglottos",
+  "scientific": "Mimus polyglottos",
+  "common": "Northern mockingbird",
+  "otherNames": [
+   "Cenzontle (Spanish, from Nahuatl)",
+   "Sinsonte (Spanish, Cuba)",
+   "Centzontlatole (Nahuatl, 'four hundred voices')",
+   "Moqueur polyglotte (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Mimidae",
+  "shelves": [
+   "songbird"
+  ],
+  "summary": "A slim grey bird with a big voice, famous for copying the songs of other birds, frogs and even car alarms. Males may learn around 200 different songs, repeating each phrase several times before switching.",
+  "nativeRange": "Southern Canada and the US south to southern Mexico, the Bahamas and the Greater Antilles; introduced to Hawaii and Bermuda",
+  "regions": [
+   "North America",
+   "Central America",
+   "Caribbean"
+  ],
+  "biomes": [
+   "Shrubland",
+   "Gardens",
+   "Farmland",
+   "Desert scrub"
+  ],
+  "abilities": [
+   "Learns new song types throughout life, adding mimicry of birds, frogs, insects and mechanical sounds",
+   "Unmated males sing through the night, especially under bright moonlight or streetlights",
+   "Recognises individual humans who have approached its nest and scolds them on sight",
+   "Flashes white wing patches while foraging, possibly to startle insects"
+  ],
+  "animal": {
+   "diet": "Insects in summer; fruit and berries in autumn and winter",
+   "habitat": "Open ground with shrubs and trees — suburbs, hedgerows, parks, desert edges",
+   "lifespan": "Banding record about 14 years",
+   "size": "21–26 cm; 45–58 g",
+   "behaviour": "It aggressively defends nests and winter fruit trees, diving at cats, hawks and people.",
+   "fieldMarks": [
+    "Grey above, paler grey-white below",
+    "Large white patches on dark wings, obvious in flight",
+    "Long dark tail with white outer feathers",
+    "Thin, slightly decurved dark bill; yellow eye in adults"
+   ],
+   "voice": "Long, varied runs of phrases, each repeated three or more times in a row, mixing its own song with mimicry; call a harsh 'chack'.",
+   "lookalikes": "Loggerhead Shrike has a black mask and a hooked bill and flies with fast, low wingbeats. Gray Catbird is dark slate with a black cap and rusty undertail. Townsend's Solitaire (west) has an eye-ring and buffy wing patches.",
+   "whereToSee": "Lawns, parking-lot shrubs and fence posts throughout the southern US; abundant in Texas and Florida.",
+   "season": "Resident; northernmost birds partly withdraw in winter",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "Thomas Jefferson kept a pet mockingbird named Dick at the President's House, and the species gave Harper Lee the title of To Kill a Mockingbird (1960); it is the state bird of Arkansas, Florida, Mississippi, Tennessee and Texas.",
+  "historicalNames": [
+   "Mock-Bird",
+   "Turdus polyglottos",
+   "Turdus minor cinereo-albus non maculatus"
+  ],
+  "funFact": "Its scientific name means 'many-tongued mimic', and its Nahuatl-derived Spanish name cenzontle means 'four hundred voices'."
+ },
+ {
+  "slug": "passerina-ciris",
+  "scientific": "Passerina ciris",
+  "common": "Painted bunting",
+  "otherNames": [
+   "Colorín sietecolores (Spanish, Mexico)",
+   "Mariposa (Spanish, Cuba)",
+   "Nonpareil (Louisiana French / English)",
+   "Passerin nonpareil (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Cardinalidae",
+  "shelves": [
+   "migrant"
+  ],
+  "summary": "The male is perhaps the most colourful songbird in North America — blue head, red underparts and a lime-green back. Females are the only bright green finch-like bird in their range, and the species was long trapped as a cage bird.",
+  "nativeRange": "Breeds in two separate populations — the south-eastern Atlantic coast (North Carolina to Florida) and the south-central US and northern Mexico; winters in Florida, the Bahamas, Cuba, Mexico and Central America to Panama",
+  "regions": [
+   "North America",
+   "Central America",
+   "Caribbean"
+  ],
+  "biomes": [
+   "Shrubland",
+   "Woodland edge",
+   "Coastal scrub"
+  ],
+  "abilities": [
+   "Western birds pause in the south-western US and north-western Mexico to moult before finishing migration — an unusual 'moult migration'",
+   "Males do not reach full colour until their second autumn; first-year males look like females",
+   "Males fight fiercely over territories, sometimes drawing blood"
+  ],
+  "animal": {
+   "diet": "Grass and weed seeds; insects in the breeding season",
+   "habitat": "Brushy thickets, woodland edges, maritime scrub and overgrown fields",
+   "lifespan": "Banding record about 12 years",
+   "size": "12–14 cm; 13–19 g",
+   "behaviour": "Despite the male's colours, it is secretive and sings from within cover more often than from open perches.",
+   "fieldMarks": [
+    "Adult male: deep blue head, red eye-ring, red underparts and rump, yellow-green back",
+    "Female and immature: bright, uniform yellowish-green with a pale eye-ring",
+    "Short conical bill typical of buntings",
+    "Small, compact size"
+   ],
+   "voice": "A sweet, high, run-on warble of musical notes; call a soft 'chip'.",
+   "lookalikes": "Female Indigo Bunting is brown, not green. Varied Bunting males are dark purple with a red nape. Green female could suggest a vireo or warbler, but the stubby conical bill identifies it.",
+   "whereToSee": "Coastal thickets of South Carolina, Georgia and north-east Florida; Texas Hill Country; feeders in south Florida in winter.",
+   "season": "Summer visitor in the US, Apr–Sep; winters in Florida and the tropics",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "Mark Catesby painted it as 'The Painted Finch' in the 1730s, and it was exported to Europe as a cage bird; in the Caribbean and Mexico trapping for the pet trade continues to threaten it.",
+  "historicalNames": [
+   "Painted Finch",
+   "Nonpareil",
+   "Fringilla tricolor"
+  ],
+  "funFact": "Its French name nonpareil means 'without equal'."
+ },
+ {
+  "slug": "piranga-olivacea",
+  "scientific": "Piranga olivacea",
+  "common": "Scarlet tanager",
+  "otherNames": [
+   "Piranga escarlata (Spanish)",
+   "Tangara écarlate (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Cardinalidae",
+  "shelves": [
+   "migrant"
+  ],
+  "summary": "A blazing red bird with jet-black wings that sings unseen high in the canopy of eastern forests. After breeding the male turns yellow-green, keeping only his black wings, before flying to the Andes for the winter.",
+  "nativeRange": "Breeds in eastern North America; winters in north-western South America, mainly along the eastern Andean foothills from Colombia to Bolivia",
+  "regions": [
+   "North America",
+   "South America"
+  ],
+  "biomes": [
+   "Deciduous forest",
+   "Mixed forest",
+   "Montane forest (winter)"
+  ],
+  "abilities": [
+   "Undergoes a complete colour change: scarlet in summer, olive-yellow in autumn and winter",
+   "Migrates thousands of kilometres between the US and South America",
+   "Gleans caterpillars from the high canopy, controlling forest insect pests"
+  ],
+  "animal": {
+   "diet": "Caterpillars, beetles and other canopy insects; fruit in autumn",
+   "habitat": "Large tracts of mature deciduous and oak–hickory forest",
+   "lifespan": "Banding record about 11 years",
+   "size": "16–17 cm; 23–38 g",
+   "behaviour": "It is sensitive to forest fragmentation and is scarce or absent in small woodlots.",
+   "fieldMarks": [
+    "Breeding male: brilliant scarlet body with solid black wings and tail",
+    "Female and winter male: olive-green above, yellow below, with dark wings",
+    "No wing bars",
+    "Stout, pale, rather blunt bill"
+   ],
+   "voice": "A hoarse, burry series of phrases, often described as 'a robin with a sore throat'; call a distinctive 'chick-burr'.",
+   "lookalikes": "Summer Tanager male is entirely rose-red including the wings. Northern Cardinal has a crest and a black face. Western Tanager has wing bars; female orioles have pointed bills and wing bars.",
+   "whereToSee": "Mature oak forests of the eastern US, e.g. the Appalachians; on migration at sites such as Magee Marsh (Ohio) and Central Park (New York) in May.",
+   "season": "Summer visitor, May–Sep",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "funFact": "Its species name olivacea ('olive-green') describes the plumage of females and young birds, not the scarlet breeding male.",
+  "historicalNames": [
+   "Tanagra olivacea"
+  ]
+ },
+ {
+  "slug": "sialia-sialis",
+  "scientific": "Sialia sialis",
+  "common": "Eastern bluebird",
+  "otherNames": [
+   "Azulejo garganta canela (Spanish, Mexico)",
+   "Merlebleu de l'Est (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Turdidae",
+  "shelves": [
+   "songbird"
+  ],
+  "summary": "A small thrush of open country, sky-blue above and rusty-orange below, that nests in tree holes and nest boxes. Its comeback after mid-20th-century declines is one of the great successes of backyard conservation.",
+  "nativeRange": "Eastern North America from southern Canada to the Gulf coast, with resident populations in the highlands of Mexico and Central America to Nicaragua",
+  "regions": [
+   "North America",
+   "Central America"
+  ],
+  "biomes": [
+   "Open woodland",
+   "Farmland",
+   "Grassland edge",
+   "Orchards"
+  ],
+  "abilities": [
+   "Spots insects in grass from a perch at up to tens of metres and drops onto them",
+   "Raises two or three broods a year, with earlier young sometimes helping feed later ones",
+   "Readily adopts nest boxes, which helped it recover after starlings and House Sparrows took natural cavities"
+  ],
+  "animal": {
+   "diet": "Ground insects such as grasshoppers, crickets and beetles; berries in winter",
+   "habitat": "Meadows, pastures, orchards, golf courses and open pine woods with scattered perches",
+   "lifespan": "Banding record over 10 years",
+   "size": "16–21 cm; 27–34 g",
+   "behaviour": "Bluebird 'trails' of nest boxes along roadsides and fences, promoted by the North American Bluebird Society (founded 1978), now support a large share of the population.",
+   "fieldMarks": [
+    "Male: vivid royal-blue upperparts, rusty-orange throat and breast, white belly",
+    "Female: greyish above with blue wings and tail, paler orange breast",
+    "Upright posture on wires and fence posts",
+    "Juveniles grey-brown with spotted breasts and blue in the wings"
+   ],
+   "voice": "A soft, low, gurgling warble, often rendered 'tur-a-lee, tur-a-lee'; call a gentle 'tu-a-wee'.",
+   "lookalikes": "Western Bluebird has a blue (not orange) throat and often a rusty back. Mountain Bluebird lacks orange. Indigo Bunting is blue all over with a conical bill.",
+   "whereToSee": "Nest-box trails, pastures and golf courses across the eastern US; easy in winter in the south-east.",
+   "season": "Resident in the southern US; summer visitor in the north, Mar–Oct",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "Henry David Thoreau wrote in his journal that 'the bluebird carries the sky on his back'; it is the state bird of Missouri and New York.",
+  "historicalNames": [
+   "Blew Bird",
+   "Motacilla sialis"
+  ],
+  "funFact": "Like the blue jay's, its blue is structural: tiny air pockets in the feathers scatter blue light, and a crushed feather looks brown."
+ },
+ {
+  "slug": "spinus-tristis",
+  "scientific": "Spinus tristis",
+  "common": "American goldfinch",
+  "otherNames": [
+   "Jilguero canario (Spanish, Mexico)",
+   "Chardonneret jaune (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Fringillidae",
+  "shelves": [],
+  "summary": "A small finch whose summer males glow lemon-yellow with a black cap. It is among the strictest vegetarians of North American songbirds and waits until late summer to nest, when thistles have gone to seed.",
+  "nativeRange": "Southern Canada and the United States; winters south to northern Mexico",
+  "regions": [
+   "North America"
+  ],
+  "biomes": [
+   "Weedy fields",
+   "Floodplains",
+   "Gardens",
+   "Woodland edge"
+  ],
+  "abilities": [
+   "Feeds its young almost entirely on regurgitated seeds",
+   "Lines nests with thistle down so tightly woven they can hold water",
+   "Moults its body feathers twice a year, switching between bright breeding and dull winter plumage",
+   "Brown-headed Cowbird chicks raised in goldfinch nests rarely survive on the seed diet"
+  ],
+  "animal": {
+   "diet": "Seeds of thistles, sunflowers, asters and other composites; nyjer and sunflower at feeders",
+   "habitat": "Weedy fields, roadsides, floodplains, orchards and gardens",
+   "lifespan": "Banding record about 10 years",
+   "size": "11–13 cm; 11–20 g",
+   "behaviour": "It flies in deep, bouncing undulations, calling on each rise.",
+   "fieldMarks": [
+    "Breeding male: bright yellow with black cap, black wings with white bars, white undertail",
+    "Female and winter birds: dull olive-buff with black wings and pale wing bars",
+    "Short, conical pink-orange bill in summer",
+    "Notched black-and-white tail"
+   ],
+   "voice": "A long, canary-like series of twitters and warbles; flight call 'po-ta-to-chip', 'per-chic-o-ree'.",
+   "lookalikes": "Lesser Goldfinch (west) has a greenish or black back and yellow undertail. Pine Siskin is streaky brown with yellow wing flashes. Yellow Warbler has a thin bill and no black.",
+   "whereToSee": "Thistle and nyjer feeders across the US; weedy fields with coneflowers and sunflowers in late summer.",
+   "season": "Resident across much of the US; northern birds move south in winter",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "It is the state bird of Iowa, New Jersey and Washington, chosen in Washington by a schoolchildren's vote.",
+  "historicalNames": [
+   "American Goldfinch",
+   "Carduelis americana",
+   "Fringilla tristis"
+  ],
+  "funFact": "It nests later than almost any other North American songbird, often starting in July."
+ },
+ {
+  "slug": "junco-hyemalis",
+  "scientific": "Junco hyemalis",
+  "common": "Dark-eyed junco",
+  "otherNames": [
+   "Junco ojo oscuro (Spanish)",
+   "Junco ardoisé (French)",
+   "Snowbird (American English)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Passerellidae",
+  "shelves": [],
+  "summary": "A neat, grey-hooded sparrow whose arrival at feeders signals winter across much of the US — hence the nickname 'snowbird'. Its many regional forms evolved strikingly different colours in only the last several thousand years.",
+  "nativeRange": "Breeds across Canada, Alaska and the mountains of the western and north-eastern US; winters throughout most of the US and northern Mexico",
+  "regions": [
+   "North America"
+  ],
+  "biomes": [
+   "Boreal forest",
+   "Montane coniferous forest",
+   "Woodland edge",
+   "Gardens"
+  ],
+  "abilities": [
+   "Flashes white outer tail feathers in flight, a signal used in both courtship and alarm",
+   "Has diversified into distinct forms — Slate-colored, Oregon, Pink-sided, White-winged, Gray-headed — since the last glaciation",
+   "Has colonised urban habitats; a population in San Diego evolved less white in the tail within a few decades"
+  ],
+  "animal": {
+   "diet": "Seeds of grasses and weeds; insects in summer",
+   "habitat": "Coniferous and mixed forest when breeding; open woods, fields and gardens in winter",
+   "lifespan": "Banding record about 11 years",
+   "size": "13–17 cm; 18–30 g",
+   "behaviour": "Wintering flocks keep a pecking order, and birds of different forms often mix at the same feeder.",
+   "fieldMarks": [
+    "Slate-grey or black hood with a pale pink bill",
+    "White belly sharply cut off from the dark breast",
+    "Bright white outer tail feathers flashed in flight",
+    "Western 'Oregon' form has a black hood and brown back"
+   ],
+   "voice": "A musical trill on one pitch, like a Chipping Sparrow but more ringing; calls a sharp 'tack' and twittering in flight.",
+   "lookalikes": "Yellow-eyed Junco (south-eastern Arizona and Mexico) has yellow eyes and a rufous back. Eastern Towhee is larger with rufous sides. Chipping Sparrow's trill is drier and faster.",
+   "whereToSee": "Winter feeders and woodland edges across the US; breeding in the Appalachians, Rockies, Sierra Nevada and boreal Canada.",
+   "season": "Winter visitor (Oct–Apr) in most of the US; resident in western and Appalachian mountains",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "historicalNames": [
+   "Snow-bird",
+   "Fringilla hyemalis"
+  ],
+  "funFact": "Its species name hyemalis means 'of winter'."
+ },
+ {
+  "slug": "melospiza-melodia",
+  "scientific": "Melospiza melodia",
+  "common": "Song sparrow",
+  "otherNames": [
+   "Gorrión cantor (Spanish)",
+   "Bruant chanteur (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Passerellidae",
+  "shelves": [
+   "songbird"
+  ],
+  "summary": "A streaky brown sparrow that sings from shrubs in almost every brushy habitat in North America. It varies so much across its range that dozens of subspecies are recognised, from small pale desert birds to large dark Aleutian ones.",
+  "nativeRange": "Alaska and Canada south through the US to central Mexico",
+  "regions": [
+   "North America"
+  ],
+  "biomes": [
+   "Shrubland",
+   "Marsh edge",
+   "Gardens",
+   "Coastal scrub"
+  ],
+  "abilities": [
+   "Each male sings a repertoire of roughly 5–13 song types, learned from neighbours",
+   "Neighbouring males 'match' each other's song types during territorial disputes",
+   "Varies dramatically in size and colour across its range in step with climate",
+   "Breeds from salt marshes and desert streams to subarctic islands"
+  ],
+  "animal": {
+   "diet": "Insects in summer; seeds and fruit in winter",
+   "habitat": "Brushy fields, streamsides, marsh edges, hedgerows and gardens",
+   "lifespan": "Banding record about 11 years",
+   "size": "12–17 cm; 12–53 g (Aleutian birds largest)",
+   "behaviour": "In flight it pumps its long, rounded tail up and down.",
+   "fieldMarks": [
+    "Brown upperparts and white underparts with heavy streaks merging into a central breast spot",
+    "Broad grey eyebrow and brown stripe behind the eye",
+    "Dark malar (moustache) stripe",
+    "Long, rounded tail pumped in flight"
+   ],
+   "voice": "Opens with two or three clear notes, then a buzzy trill and jumble — remembered as 'Maids, maids, maids, put on your tea-kettle-ettle-ettle'; call a nasal 'chimp'.",
+   "lookalikes": "Savannah Sparrow has a yellowish eyebrow, finer streaks and a short notched tail. Lincoln's Sparrow is finely streaked on a buffy breast. Fox Sparrow is larger with heavier triangular spots.",
+   "whereToSee": "Shrubby edges and wetlands across North America; one of the first songs of late winter in the eastern US.",
+   "season": "Resident in much of the US; northern birds migrate south for winter",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "Margaret Morse Nice's years of observation of individually banded song sparrows in her Columbus, Ohio, backyard, published as Studies in the Life History of the Song Sparrow (1937), became a landmark of bird behaviour science.",
+  "historicalNames": [
+   "Fringilla melodia"
+  ],
+  "funFact": "The Aleutian Island birds can weigh about four times as much as the smallest desert populations."
+ },
+ {
+  "slug": "agelaius-phoeniceus",
+  "scientific": "Agelaius phoeniceus",
+  "common": "Red-winged blackbird",
+  "otherNames": [
+   "Tordo sargento (Spanish)",
+   "Carouge à épaulettes (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Icteridae",
+  "shelves": [
+   "freshwater"
+  ],
+  "summary": "One of the most abundant birds in North America, whose glossy black males flare scarlet shoulder patches from every cattail marsh in spring. Males defend territories that may hold many nesting females.",
+  "nativeRange": "Alaska and Canada south through the US, Mexico and Central America to Costa Rica; also the Bahamas and Cuba",
+  "regions": [
+   "North America",
+   "Central America",
+   "Caribbean"
+  ],
+  "biomes": [
+   "Freshwater marsh",
+   "Wet meadows",
+   "Farmland"
+  ],
+  "abilities": [
+   "Highly polygynous: one male's territory can host up to about 15 nesting females",
+   "Males can cover their red epaulets to slip through rivals' territories unchallenged",
+   "Gathers in winter roosts that can number in the millions together with grackles, cowbirds and starlings",
+   "Mobs hawks, crows and people near its nests"
+  ],
+  "animal": {
+   "diet": "Insects in summer; seeds and grain in winter",
+   "habitat": "Cattail and bulrush marshes, ditches, wet fields, pastures",
+   "lifespan": "Banding record about 15 years",
+   "size": "17–23 cm; 32–77 g (males much larger)",
+   "behaviour": "Males return north weeks before females and sing from cattails even in snow.",
+   "fieldMarks": [
+    "Male: glossy black with red shoulder patch bordered by yellow",
+    "Female: heavily streaked dark brown, sparrow-like, often with a peachy face",
+    "Sharp, conical, pointed bill",
+    "Males puff and spread the epaulets while singing"
+   ],
+   "voice": "A gurgling 'conk-la-ree!' or 'oak-a-lee!' ending in a trill; calls a sharp 'check' and a whistled alarm.",
+   "lookalikes": "Tricolored Blackbird (California) has a darker red patch with a white border. Female could be mistaken for a large sparrow, but the long pointed bill differs. 'Bicolored' males in California lack the yellow border.",
+   "whereToSee": "Almost any marsh, roadside ditch or wet meadow in North America from March onwards.",
+   "season": "Resident in the south; summer visitor in the north, Mar–Oct",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "Mark Catesby painted it in the 1730s as 'The Red-wing'd Starling'.",
+  "historicalNames": [
+   "Red-wing'd Starling",
+   "Sturnus niger alis superne rubentibus",
+   "Oriolus phoeniceus"
+  ],
+  "funFact": "Its genus name Agelaius means 'belonging to a flock'."
+ },
+ {
+  "slug": "setophaga-kirtlandii",
+  "scientific": "Setophaga kirtlandii",
+  "common": "Kirtland's warbler",
+  "otherNames": [
+   "Chipe de Kirtland (Spanish)",
+   "Paruline de Kirtland (French)",
+   "Jack pine warbler (English)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Parulidae",
+  "shelves": [
+   "migrant",
+   "songbird"
+  ],
+  "summary": "A rare, tail-pumping warbler that nests only in young jack pine stands on sandy soils, mostly in northern Michigan, and winters in the Bahamas. It fell to fewer than 200 singing males in the 1970s and recovered through habitat management and cowbird control.",
+  "nativeRange": "Breeds mainly in northern Lower Michigan, with small numbers in Michigan's Upper Peninsula, Wisconsin and Ontario; winters in the Bahamas and Turks and Caicos",
+  "regions": [
+   "North America",
+   "Caribbean"
+  ],
+  "biomes": [
+   "Young jack pine forest",
+   "Caribbean coppice and scrub (winter)"
+  ],
+  "abilities": [
+   "Depends on jack pine stands roughly 5–20 years old, a habitat historically created by wildfire",
+   "Nests on the ground beneath the low living branches of young pines",
+   "Constantly bobs its tail while foraging",
+   "Migrates about 2,000 km between Michigan and the Bahamas"
+  ],
+  "animal": {
+   "diet": "Insects and larvae; fruit on the wintering grounds",
+   "habitat": "Dense young jack pine on sandy outwash plains; low scrub in the Bahamas",
+   "size": "14–15 cm; 12–16 g",
+   "behaviour": "Brown-headed Cowbird parasitism once affected most nests; trapping cowbirds from 1972 was key to recovery.",
+   "fieldMarks": [
+    "Blue-grey upperparts streaked with black",
+    "Bright yellow throat and breast, black streaks on the sides",
+    "Broken white eye-ring; males have black lores",
+    "Constant tail-pumping"
+   ],
+   "voice": "A loud, low-pitched, rich chatter rising at the end, e.g. 'chip-chip-che-way-o'.",
+   "lookalikes": "Magnolia Warbler has a white wing patch and a white tail band. Prairie Warbler also pumps its tail but is smaller with a yellow face and olive back. Canada Warbler has a necklace and no streaks above.",
+   "whereToSee": "Guided tours from Grayling (Michigan Audubon) and Mio (US Forest Service), Michigan, May–early July; Bahamian islands such as Eleuthera in winter.",
+   "season": "Breeds in Michigan May–Aug; winters in the Bahamas Oct–Apr",
+   "order": "Passeriformes"
+  },
+  "iucn": "NT",
+  "lore": "It is named for Jared Potter Kirtland, the Ohio naturalist on whose farm near Cleveland the first specimen was collected in 1851; it was removed from the US endangered species list in 2019 after decades of recovery work.",
+  "funFact": "Its nesting grounds were not discovered until 1903, when a nest was found in Oscoda County, Michigan."
+ },
+ {
+  "slug": "catharus-guttatus",
+  "scientific": "Catharus guttatus",
+  "common": "Hermit thrush",
+  "otherNames": [
+   "Zorzal colirrufo (Spanish)",
+   "Grive solitaire (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Turdidae",
+  "shelves": [
+   "songbird"
+  ],
+  "summary": "A shy brown thrush with a rusty tail whose ethereal, echoing song is often called the most beautiful in North America. It is the only spotted thrush that commonly winters in the United States.",
+  "nativeRange": "Breeds across Alaska, Canada, the north-eastern US and western mountains; winters in the southern US, Mexico and Central America to Guatemala",
+  "regions": [
+   "North America",
+   "Central America"
+  ],
+  "biomes": [
+   "Boreal forest",
+   "Montane coniferous forest",
+   "Mixed forest",
+   "Woodland (winter)"
+  ],
+  "abilities": [
+   "Each song begins with a long, clear note at a new pitch, followed by a cascade of flute-like phrases",
+   "Song intervals follow simple harmonic ratios similar to those of human musical scales, according to a 2014 study in PNAS",
+   "Switches from insects to fruit such as holly and dogwood in winter"
+  ],
+  "animal": {
+   "diet": "Ground insects, spiders and worms; berries in winter",
+   "habitat": "Conifer and mixed forests when breeding; woodland understorey in winter",
+   "lifespan": "Banding record about 10 years",
+   "size": "15–18 cm; 23–37 g",
+   "behaviour": "It habitually raises its tail and lowers it slowly while flicking its wings.",
+   "fieldMarks": [
+    "Warm reddish tail contrasting with olive-brown or greyish back",
+    "Spotted breast, spots smaller and smudgier than a Wood Thrush's",
+    "Thin, complete whitish eye-ring",
+    "Slow tail-raising habit"
+   ],
+   "voice": "A clear, sustained opening whistle followed by a spiralling cascade of flute-like notes, each song at a different pitch; call a low 'chuck'.",
+   "lookalikes": "Swainson's Thrush has buffy 'spectacles' and a uniform brown tail. Veery is tawny with faint spots. Wood Thrush is rufous on the head, with bold round spots. Fox Sparrow has a conical bill.",
+   "whereToSee": "Northern and mountain conifer forests in summer (e.g. Adirondacks, Green Mountains, Rockies); southern US woodlands in winter.",
+   "season": "Summer visitor in the north, Apr–Oct; winter visitor in the south, Oct–Apr",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "In Walt Whitman's elegy for Abraham Lincoln, 'When Lilacs Last in the Dooryard Bloom'd' (1865), a hermit thrush sings from the swamp; it is Vermont's state bird.",
+  "historicalNames": [
+   "Muscicapa guttata"
+  ],
+  "funFact": "Its genus name Catharus comes from Greek katharos, 'pure' or 'clean'."
+ },
+ {
+  "slug": "furnarius-rufus",
+  "scientific": "Furnarius rufus",
+  "common": "Rufous hornero",
+  "otherNames": [
+   "Hornero (Spanish)",
+   "João-de-barro (Portuguese, 'John of clay')"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Furnariidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "A plain, rufous ovenbird that builds a domed nest of mud and straw shaped like a traditional clay bread oven. Pairs stay together for years and duet loudly, and it is the national bird of Argentina.",
+  "nativeRange": "Eastern and central South America: Brazil, Bolivia, Paraguay, Uruguay and northern and central Argentina",
+  "regions": [
+   "South America"
+  ],
+  "biomes": [
+   "Savanna",
+   "Pampas grassland",
+   "Farmland",
+   "Towns and parks"
+  ],
+  "abilities": [
+   "Builds a heavy, oven-shaped nest of mud, dung and plant fibre with a curved inner wall separating the entrance from the egg chamber",
+   "Constructs a nest in a few weeks using thousands of beakfuls of wet mud, often after rain",
+   "Old nests are reused by other birds such as Saffron Finches, swallows and parakeets",
+   "Mated pairs sing synchronised, shrill duets"
+  ],
+  "animal": {
+   "diet": "Insects, worms and other invertebrates gleaned from the ground",
+   "habitat": "Open country with scattered trees, pastures, roadsides and city parks",
+   "size": "18–20 cm; 49–65 g",
+   "behaviour": "Nests are placed on posts, branches, utility poles and even street lamps, in full view.",
+   "fieldMarks": [
+    "Rufous-brown upperparts with a brighter rufous tail",
+    "Pale buffy underparts with a whitish throat",
+    "Slender, slightly decurved bill",
+    "Walks deliberately on the ground with a high-stepping gait"
+   ],
+   "voice": "Loud, shrill, accelerating series of notes, often given as a duet by the pair, which sing with wings drooped and quivering.",
+   "lookalikes": "Pale-legged Hornero (north and west) has pale legs and a whitish eyebrow. Crested Hornero has a small crest and is found in Paraguay and Argentina's Chaco. Thrushes have a different bill shape and do not walk.",
+   "whereToSee": "Parks and farmland around Buenos Aires, Montevideo and southern Brazil; abundant in the Pampas and Pantanal.",
+   "season": "Resident year-round",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "Argentina's national bird since 1928, it appears widely in gaucho folklore as a model of the hard-working household.",
+  "funFact": "Its mud nests can last several years and weigh several kilograms."
+ },
+ {
+  "slug": "rupicola-peruvianus",
+  "scientific": "Rupicola peruvianus",
+  "common": "Andean cock-of-the-rock",
+  "otherNames": [
+   "Gallito de las rocas (Spanish)",
+   "Tunki (Quechua)",
+   "Galo-da-serra-andino (Portuguese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Cotingidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "A blazing orange-red cotinga of Andean cloud forest ravines whose males gather at dawn leks, bowing, bobbing and squealing to attract drab females. It is Peru's national bird.",
+  "nativeRange": "Eastern and western slopes of the Andes from Venezuela and Colombia through Ecuador and Peru to Bolivia, mainly 500–2,400 m",
+  "regions": [
+   "South America"
+  ],
+  "biomes": [
+   "Montane cloud forest",
+   "Forested ravines"
+  ],
+  "abilities": [
+   "Males display at communal leks, each defending a small court and performing in front of visiting females",
+   "Females build mud-and-plant cup nests glued to rock faces in humid gorges",
+   "Important seed disperser for fruiting cloud-forest trees",
+   "Takes small vertebrates such as frogs and lizards as well as fruit"
+  ],
+  "animal": {
+   "diet": "Mainly fruit; insects, frogs and small lizards",
+   "habitat": "Humid montane forest near rocky streams and ravines",
+   "size": "30–32 cm; about 220–300 g",
+   "behaviour": "Females raise the young alone; males spend much of the breeding season at the lek.",
+   "fieldMarks": [
+    "Male: brilliant scarlet or orange body with a disc-shaped crest that hides the bill",
+    "Black wings and tail, with pale silvery-grey tertials",
+    "Female: dark brownish-orange with a smaller crest",
+    "Plump, pigeon-sized shape"
+   ],
+   "voice": "At leks, loud nasal squawks, grunts and pig-like squeals; otherwise mostly silent.",
+   "lookalikes": "Guianan Cock-of-the-rock (Guiana Shield east of the Andes) is orange with a fringed crest and white wing patches; their ranges do not overlap. No other Andean bird has the crest-covered bill.",
+   "whereToSee": "Lek sites along Peru's Manu Road (Cock-of-the-rock Lodge), near Mindo in Ecuador, and in Colombia's Río Claro and cloud forests.",
+   "season": "Resident year-round; leks most active at dawn and late afternoon",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "Known in Quechua as tunki, it was named Peru's national bird and features in Andean folk dances and textiles.",
+  "funFact": "The genus name Rupicola means 'rock-dweller', from the female's habit of nesting on cliff faces."
+ },
+ {
+  "slug": "procnias-albus",
+  "scientific": "Procnias albus",
+  "common": "White bellbird",
+  "otherNames": [
+   "Araponga-da-amazônia (Portuguese)",
+   "Campanero blanco (Spanish)",
+   "Cotinga blanc (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Cotingidae",
+  "shelves": [
+   "songbird",
+   "marvel"
+  ],
+  "summary": "A pure white cotinga with a long, fleshy black wattle dangling from its bill, it has the loudest bird call ever measured — about 125 decibels. Males aim the blast directly at females perched close by.",
+  "nativeRange": "Guiana Shield of Venezuela, Guyana, Suriname, French Guiana and northern Brazil, with an isolated population south of the Amazon in Pará",
+  "regions": [
+   "South America"
+  ],
+  "biomes": [
+   "Tropical montane forest",
+   "Lowland rainforest"
+  ],
+  "abilities": [
+   "Produces calls measured at about 125 dB at close range, louder than the Screaming Piha (Podos & Cohn-Haft, Current Biology, 2019)",
+   "Swings its head and wattle as it delivers the second note of its call toward a female",
+   "Swallows fruits whole and regurgitates seeds, dispersing forest trees"
+  ],
+  "animal": {
+   "diet": "Fruit, especially of trees in the laurel family",
+   "habitat": "Canopy of humid hill and montane forest",
+   "size": "27–29 cm",
+   "behaviour": "Males call from exposed perches high in the canopy for hours each day.",
+   "fieldMarks": [
+    "Male: entirely white, with a single long black fleshy wattle hanging from the forehead over the bill",
+    "Female: olive-green above with yellowish, olive-streaked underparts",
+    "Large dark eye and broad bill",
+    "Stocky, pigeon-like shape"
+   ],
+   "voice": "Ear-splitting, bell-like notes — a two-part 'kong-kay' or a single metallic 'boing' that can be heard over long distances.",
+   "lookalikes": "Bearded Bellbird has a brown head and many short wattles on the throat. Bare-throated Bellbird (Atlantic Forest) has a bare blue-green throat. Three-wattled Bellbird (Central America) is chestnut with a white head and neck and three wattles.",
+   "whereToSee": "Hill forests of the Guiana Shield, e.g. the tepui foothills of Venezuela, the Iwokrama and Kaieteur areas of Guyana, and Roraima in Brazil.",
+   "season": "Resident; calling peaks in the breeding season",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "funFact": "Researchers found the loudest calls are the shortest, suggesting a trade-off between volume and duration."
+ },
+ {
+  "slug": "tangara-chilensis",
+  "scientific": "Tangara chilensis",
+  "common": "Paradise tanager",
+  "otherNames": [
+   "Sete-cores-da-amazônia (Portuguese)",
+   "Tangara paraíso (Spanish)",
+   "Calliste septicolore (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Thraupidae",
+  "shelves": [],
+  "summary": "A small Amazonian canopy tanager painted in lime-green, black, scarlet, turquoise and violet. Despite its scientific name, it has never lived in Chile.",
+  "nativeRange": "Amazon Basin and eastern Andean foothills, from Colombia and Venezuela through Ecuador, Peru, Bolivia, the Guianas and Amazonian Brazil",
+  "regions": [
+   "South America"
+  ],
+  "biomes": [
+   "Tropical lowland rainforest",
+   "Foothill forest",
+   "Forest edge"
+  ],
+  "abilities": [
+   "Travels in noisy groups at the core of mixed-species canopy flocks",
+   "Searches undersides of leaves and twigs for insects while hanging acrobatically",
+   "Disperses small seeds of fruiting trees and epiphytes"
+  ],
+  "animal": {
+   "diet": "Small fruits and berries; insects and spiders",
+   "habitat": "Canopy and edges of humid lowland and foothill forest, up to about 1,600 m",
+   "size": "13.5–15 cm; about 18–20 g",
+   "behaviour": "Groups of 5–10 often lead the mixed flocks that sweep through the Amazon canopy each morning.",
+   "fieldMarks": [
+    "Shining apple-green head contrasting with velvety black back",
+    "Scarlet (or, in some populations, red-and-yellow) rump",
+    "Turquoise-blue underparts and violet-blue throat",
+    "Black wings and tail"
+   ],
+   "voice": "High, thin 'tsit' and 'zeet' notes given constantly by flocks; no well-developed song.",
+   "lookalikes": "Seven-colored Tanager (Atlantic Forest of Brazil) has a turquoise-green head, black throat and orange rump; ranges do not overlap. Green-and-gold Tanager is largely green-gold without the black back.",
+   "whereToSee": "Canopy towers and forest edges in Amazonian Ecuador (Sacha, Yasuní), Peru (Tambopata, Manu) and Brazil (Cristalino).",
+   "season": "Resident year-round",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "Nicholas Vigors named it chilensis in 1832, apparently because the specimens reached Europe from a dealer who mislabelled them as Chilean.",
+  "funFact": "Its Brazilian name sete-cores means 'seven colours'."
+ },
+ {
+  "slug": "machaeropterus-deliciosus",
+  "scientific": "Machaeropterus deliciosus",
+  "common": "Club-winged manakin",
+  "otherNames": [
+   "Saltarín alitorcido (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Pipridae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "A tiny Andean manakin whose males 'sing' with their wings. Specialised, club-shaped feathers rub together like a bow on a violin string, producing a sustained high note.",
+  "nativeRange": "Western slope of the Andes in Colombia and Ecuador (the Chocó region)",
+  "regions": [
+   "South America"
+  ],
+  "biomes": [
+   "Tropical montane forest",
+   "Foothill rainforest"
+  ],
+  "abilities": [
+   "Males produce a tonal note near 1,500 Hz by rubbing modified secondary feathers together over 100 times a second (Bostwick & Prum, Science, 2005)",
+   "One wing feather bears a row of ridges and another a stiff tip, like a comb and pick",
+   "Unlike almost all other birds, it has solid rather than hollow wing bones, which help support the vibrating feathers"
+  ],
+  "animal": {
+   "diet": "Small fruits and insects",
+   "habitat": "Understorey and mid-levels of humid foothill and subtropical forest",
+   "size": "About 9.5 cm",
+   "behaviour": "Males display on perches within earshot of each other, flicking their wings above the back to make the sound.",
+   "fieldMarks": [
+    "Male: rich chestnut body with a bright red crown",
+    "Black and white in the wings; white on the inner wing visible in display",
+    "Female: olive-green with a cinnamon-tinged face",
+    "Tiny, short-tailed manakin shape"
+   ],
+   "voice": "A mechanical 'tik-tik-ting': two sharp clicks followed by a ringing, violin-like whine made by the wings.",
+   "lookalikes": "Striped Manakin has a red crown but a red-streaked belly and no chestnut body. Other manakins in its range lack the chestnut-and-red male plumage.",
+   "whereToSee": "Mindo and Milpe Bird Sanctuary in north-western Ecuador; Chocó foothill reserves in Colombia.",
+   "season": "Resident year-round",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "funFact": "Its wing sound was first analysed with high-speed video, which showed the feathers vibrating faster than the bird can beat its wings."
+ },
+ {
+  "slug": "ensifera-ensifera",
+  "scientific": "Ensifera ensifera",
+  "common": "Sword-billed hummingbird",
+  "otherNames": [
+   "Colibrí pico espada (Spanish)",
+   "Picoespada (Spanish)",
+   "Colibri porte-épée (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Trochilidae",
+  "shelves": [
+   "pollinator",
+   "marvel"
+  ],
+  "summary": "The only bird whose bill is longer than its body, excluding the tail. It reaches nectar at the bottom of long-tubed Andean flowers that no other hummingbird can use.",
+  "nativeRange": "Andes from western Venezuela and Colombia through Ecuador and Peru to Bolivia, mostly 1,700–3,500 m",
+  "regions": [
+   "South America"
+  ],
+  "biomes": [
+   "Montane cloud forest",
+   "Páramo edge",
+   "Montane shrubland"
+  ],
+  "abilities": [
+   "Bill about 9–11 cm long, longer than the bird's head and body",
+   "Main pollinator of long-tubed flowers such as Passiflora mixta and angel's trumpets (Brugmansia)",
+   "Perches with its bill pointed steeply upward to balance the weight",
+   "Grooms with its feet because it cannot reach its feathers with its bill"
+  ],
+  "animal": {
+   "diet": "Nectar from long tubular flowers; small insects caught in flight",
+   "habitat": "Humid montane forest edge and shrubby clearings",
+   "size": "About 13–17 cm excluding bill; 12–15 g",
+   "behaviour": "It catches insects on the wing with its mouth open wide, keeping the long bill out of the way.",
+   "fieldMarks": [
+    "Extremely long, straight, slightly upturned bill",
+    "Bronze-green body; male with coppery head",
+    "Forked, greenish-bronze tail",
+    "Small white spot behind the eye"
+   ],
+   "voice": "A low, rattling 'trrr' and buzzy chips; no complex song.",
+   "lookalikes": "No other hummingbird has a bill nearly as long. Great Sapphirewing and incas share its habitat but have short or medium bills.",
+   "whereToSee": "Feeders and flowering edges at Yanacocha Reserve and Guango Lodge (Ecuador), Abra Málaga and Wayqecha (Peru).",
+   "season": "Resident year-round",
+   "order": "Apodiformes"
+  },
+  "iucn": "LC",
+  "funFact": "It co-evolved with Passiflora mixta, whose floral tube is long enough that only the sword-bill can reach its nectar."
+ },
+ {
+  "slug": "nyctibius-griseus",
+  "scientific": "Nyctibius griseus",
+  "common": "Common potoo",
+  "otherNames": [
+   "Urutau (Guaraní / Portuguese)",
+   "Mãe-da-lua (Portuguese, 'mother of the moon')",
+   "Nictibio común (Spanish)",
+   "Poor-me-one (Trinidad English)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Nyctibiidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "A nocturnal insect-eater that spends the day perched bolt upright on a broken branch, so perfectly camouflaged it looks like part of the tree. At night its mournful, falling song is one of the most haunting sounds of the Neotropics.",
+  "nativeRange": "Southern Central America (Nicaragua and Costa Rica) through South America to northern Argentina and Uruguay; Trinidad and Tobago",
+  "regions": [
+   "Central America",
+   "South America",
+   "Caribbean"
+  ],
+  "biomes": [
+   "Tropical forest edge",
+   "Savanna woodland",
+   "Mangrove"
+  ],
+  "abilities": [
+   "Freezes motionless on a stump with bill pointed skyward, mimicking a dead branch",
+   "Notches in its eyelids let it watch for predators with eyes apparently closed",
+   "Huge gape catches large flying insects in sallies from a perch",
+   "Lays a single egg in a shallow depression on top of a broken branch, with no nest"
+  ],
+  "animal": {
+   "diet": "Large flying insects — moths, beetles, katydids",
+   "habitat": "Open forest, edges, savanna, plantations and mangroves",
+   "size": "33–38 cm",
+   "behaviour": "It returns to the same daytime perch for weeks, which makes it findable once located.",
+   "fieldMarks": [
+    "Mottled grey-brown bark-like plumage",
+    "Large yellow eyes; tiny bill above an enormous mouth",
+    "Long tail; upright posture on stumps",
+    "Dark spots on the breast"
+   ],
+   "voice": "A series of 5–8 loud, melancholy whistles falling in pitch and volume, like 'poor-me-one, poor-me-one'.",
+   "lookalikes": "Northern Potoo (Mexico to Costa Rica, and Jamaica and Hispaniola) is nearly identical but gives a harsh, croaking call. Great Potoo is larger and paler with a growling roar. Nightjars perch lengthwise on branches or rest on the ground.",
+   "whereToSee": "Pantanal (Brazil), Llanos (Venezuela), Asa Wright Nature Centre (Trinidad) and Amazonian lodges where guides know day roosts.",
+   "season": "Resident; sings most on moonlit nights",
+   "order": "Nyctibiiformes"
+  },
+  "iucn": "LC",
+  "lore": "A widespread Guaraní legend tells of a young woman whose lover was killed and who was turned into the urutau, forever crying her grief through the night.",
+  "funFact": "Its Brazilian name 'mother of the moon' comes from its habit of calling on moonlit nights."
+ },
+ {
+  "slug": "steatornis-caripensis",
+  "scientific": "Steatornis caripensis",
+  "common": "Oilbird",
+  "otherNames": [
+   "Guácharo (Spanish)",
+   "Diablotín (Trinidad French Creole)",
+   "Tayo (Spanish, Ecuador)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Steatornithidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "The world's only nocturnal flying fruit-eating bird, it roosts and nests in pitch-dark caves and navigates by echolocation using audible clicks. Its fat-laden chicks were once boiled down for lamp and cooking oil.",
+  "nativeRange": "Northern and western South America — Venezuela, Colombia, Ecuador, Peru, Bolivia, Guyana — and Trinidad",
+  "regions": [
+   "South America",
+   "Caribbean"
+  ],
+  "biomes": [
+   "Caves",
+   "Montane forest",
+   "Lowland rainforest"
+  ],
+  "abilities": [
+   "Echolocates in total darkness with clicks around 2 kHz, audible to humans",
+   "Finds fruit at night partly by smell and with large, light-sensitive eyes",
+   "Disperses seeds of palms and laurels over long distances",
+   "Chicks grow much heavier than adults on a fatty fruit diet before slimming down to fledge"
+  ],
+  "animal": {
+   "diet": "Oily fruits of palms, laurels and incense trees, plucked in flight",
+   "habitat": "Caves and gorges near forest, from sea level to about 3,400 m",
+   "size": "40–49 cm; wingspan about 1 m",
+   "behaviour": "Colonies of thousands leave caves at dusk and may forage over 100 km away in a night.",
+   "fieldMarks": [
+    "Rich rufous-brown plumage with white spots on wings and head",
+    "Strongly hooked bill fringed with long rictal bristles",
+    "Long, broad wings and long tail",
+    "Large dark eyes"
+   ],
+   "voice": "Deafening screams, snarls and clicks inside roost caves; the screams inspired the Spanish name guácharo, 'one who wails'.",
+   "lookalikes": "Potoos and nightjars are greyer, have tiny bills, and do not roost in caves; no other cave-dwelling bird in its range is as large.",
+   "whereToSee": "Cueva del Guácharo National Park (Caripe, Venezuela), Dunston Cave at Asa Wright Nature Centre (Trinidad), and the Cueva de los Tayos region (Ecuador).",
+   "season": "Resident year-round",
+   "order": "Steatornithiformes"
+  },
+  "iucn": "LC",
+  "lore": "Alexander von Humboldt visited the Cueva del Guácharo near Caripe in 1799 and described how the local Chaima people harvested chicks for their fat; the species' name caripensis honours the site.",
+  "funFact": "Fat oilbird chicks can weigh about 50% more than their parents."
+ },
+ {
+  "slug": "dryocopus-pileatus",
+  "scientific": "Dryocopus pileatus",
+  "common": "Pileated woodpecker",
+  "otherNames": [
+   "Carpintero norteamericano (Spanish)",
+   "Grand Pic (French)",
+   "Hylatomus pileatus (BirdLife taxonomy)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Picidae",
+  "shelves": [
+   "keystone"
+  ],
+  "summary": "A crow-sized black woodpecker with a flaming red crest that chisels large rectangular holes into trees in search of carpenter ants. Its old cavities become homes for owls, ducks, bats and martens.",
+  "nativeRange": "Much of Canada, the eastern United States and the Pacific Northwest",
+  "regions": [
+   "North America"
+  ],
+  "biomes": [
+   "Mature deciduous forest",
+   "Coniferous forest",
+   "Swamp forest"
+  ],
+  "abilities": [
+   "Excavates rectangular holes up to tens of centimetres long to reach carpenter ant galleries",
+   "Its abandoned nest holes are used by Wood Ducks, owls, flying squirrels and bats",
+   "Uses a long, barbed tongue to extract ants",
+   "Drums slowly and loudly on resonant trunks to claim territory"
+  ],
+  "animal": {
+   "diet": "Carpenter ants, beetle larvae, other insects; fruit and nuts",
+   "habitat": "Mature forest with large trees and dead wood; increasingly suburban woodlots",
+   "lifespan": "Banding record about 13 years",
+   "size": "40–49 cm; 250–400 g",
+   "behaviour": "Pairs hold territories year-round and excavate a new nest cavity each spring.",
+   "fieldMarks": [
+    "Mostly black body with a bright red, pointed crest",
+    "Bold white stripes on the face and neck",
+    "Large white underwing linings flashing in flight",
+    "Male has a red moustache stripe; female's is black"
+   ],
+   "voice": "A loud, wild, ringing 'wuk-wuk-wuk-wuk', rising and falling; drumming deep and slow, trailing off.",
+   "lookalikes": "Ivory-billed Woodpecker, if it survives, has an ivory bill and white trailing edges to the upper wing. Red-headed Woodpecker is much smaller with an all-red head and white wing patches.",
+   "whereToSee": "Large tracts of mature forest across the eastern US and Pacific Northwest; listen for its call in places like the Great Smoky Mountains or Congaree National Park.",
+   "season": "Resident year-round",
+   "order": "Piciformes"
+  },
+  "iucn": "LC",
+  "lore": "Mark Catesby painted it in the 1730s as 'The larger red-crested Wood-pecker'; its rectangular excavations were used by early naturalists as a sign of its presence.",
+  "historicalNames": [
+   "Larger red-crested Wood-pecker",
+   "Picus pileatus",
+   "Log-cock"
+  ],
+  "funFact": "Woody Woodpecker's look is often linked to this species, though the cartoon's creator, Walter Lantz, was said to be inspired by an Acorn Woodpecker."
+ },
+ {
+  "slug": "colaptes-auratus",
+  "scientific": "Colaptes auratus",
+  "common": "Northern flicker",
+  "otherNames": [
+   "Carpintero de pechera (Spanish)",
+   "Pic flamboyant (French)",
+   "Yellowhammer (Southern US English)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Picidae",
+  "shelves": [],
+  "summary": "A large brown woodpecker that feeds mostly on the ground, licking up ants. In flight it flashes golden-yellow or salmon-red under its wings and a bold white rump.",
+  "nativeRange": "Alaska and Canada through the US and Mexico to Nicaragua; also Cuba and Grand Cayman",
+  "regions": [
+   "North America",
+   "Central America",
+   "Caribbean"
+  ],
+  "biomes": [
+   "Open woodland",
+   "Forest edge",
+   "Gardens",
+   "Grassland with trees"
+  ],
+  "abilities": [
+   "Ants and their larvae make up nearly half its diet, more than any other North American woodpecker",
+   "Has a long tongue coated in sticky saliva for collecting ants from the soil",
+   "Two forms — eastern Yellow-shafted and western Red-shafted — hybridise across a broad zone on the Great Plains"
+  ],
+  "animal": {
+   "diet": "Ants and beetles; fruit and seeds in winter",
+   "habitat": "Open woods, parks, edges and burned forest",
+   "lifespan": "Banding record about 9 years",
+   "size": "28–31 cm; 110–160 g",
+   "behaviour": "It often drums on metal chimney caps and gutters, which amplify the sound.",
+   "fieldMarks": [
+    "Brown, black-barred back; buff breast with black spots",
+    "Black crescent bib",
+    "White rump in flight",
+    "Yellow (east) or salmon-red (west) wing and tail shafts; males have a black or red moustache"
+   ],
+   "voice": "A long, loud 'wik-wik-wik-wik'; also a piercing 'kleer' and a soft 'wicka-wicka' in courtship.",
+   "lookalikes": "Gilded Flicker (Sonoran Desert) has yellow underwings with a cinnamon crown. Red-bellied Woodpecker has a barred back without a bib. In flight the white rump can recall Red-headed Woodpecker, which has white wing patches instead.",
+   "whereToSee": "Lawns, parks and open woods across North America; often seen feeding on the ground.",
+   "season": "Resident in much of the US; northern birds migrate south in autumn",
+   "order": "Piciformes"
+  },
+  "iucn": "LC",
+  "lore": "It is Alabama's state bird; Confederate soldiers from Alabama were nicknamed 'yellowhammers' after the yellow trim on their uniforms.",
+  "historicalNames": [
+   "Gold-winged Wood-pecker",
+   "Picus auratus"
+  ],
+  "funFact": "It is one of the few North American woodpeckers that regularly migrates."
+ },
+ {
+  "slug": "ramphastos-sulfuratus",
+  "scientific": "Ramphastos sulfuratus",
+  "common": "Keel-billed toucan",
+  "otherNames": [
+   "Tucán pico iris (Spanish)",
+   "Tucán piquiverde (Spanish)",
+   "Bill bird (Belizean English)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Ramphastidae",
+  "shelves": [],
+  "summary": "A toucan with a huge rainbow-coloured bill — green, blue, orange and red — and a sulphur-yellow bib. It is the national bird of Belize.",
+  "nativeRange": "Southern Mexico through Central America to northern Colombia and north-western Venezuela",
+  "regions": [
+   "Central America",
+   "South America"
+  ],
+  "biomes": [
+   "Tropical lowland rainforest",
+   "Forest edge",
+   "Secondary forest"
+  ],
+  "abilities": [
+   "Its bill is light — keratin over a honeycomb of bone and fibres — despite being about a third of the bird's length",
+   "Tosses fruit into the air and catches it in its throat",
+   "Disperses large seeds of rainforest trees",
+   "Groups sleep in tree holes with tails folded over their backs"
+  ],
+  "animal": {
+   "diet": "Mainly fruit; also insects, lizards, eggs and nestlings",
+   "habitat": "Canopy of lowland tropical forest and edges, up to about 1,900 m",
+   "size": "42–55 cm including bill; 380–500 g",
+   "behaviour": "Small flocks travel through the canopy in follow-the-leader flights of a few flaps and a glide.",
+   "fieldMarks": [
+    "Large, multicoloured bill: lime-green, with blue, orange and a red tip",
+    "Bright yellow face, throat and chest",
+    "Black body with red undertail coverts and white rump",
+    "Lime-green bare skin around the eye"
+   ],
+   "voice": "A dry, frog-like croaking 'krrrek-krrrek', repeated monotonously.",
+   "lookalikes": "Yellow-throated Toucan has a two-tone dark-and-yellow bill and a yelping call. Collared Aracari is smaller with a red-banded yellow belly.",
+   "whereToSee": "Tikal (Guatemala), Cockscomb Basin and Crooked Tree (Belize), Costa Rica's Caribbean lowlands such as Tortuguero.",
+   "season": "Resident year-round",
+   "order": "Piciformes"
+  },
+  "iucn": "NT",
+  "funFact": "It is the cartoon model for Toucan Sam, the Froot Loops mascot."
+ },
+ {
+  "slug": "ramphastos-toco",
+  "scientific": "Ramphastos toco",
+  "common": "Toco toucan",
+  "otherNames": [
+   "Tucanuçu (Portuguese, from Tupi)",
+   "Tucán toco (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Ramphastidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "The largest toucan, with an enormous orange bill tipped in black. Unlike most toucans it lives in open savanna and woodland, and uses its bill as a radiator to shed body heat.",
+  "nativeRange": "Guianas, Brazil (excluding most of the Amazon rainforest interior), eastern Bolivia, Paraguay and northern Argentina",
+  "regions": [
+   "South America"
+  ],
+  "biomes": [
+   "Savanna (Cerrado)",
+   "Wetland woodland (Pantanal)",
+   "Gallery forest"
+  ],
+  "abilities": [
+   "Regulates blood flow to its bill to dump heat; the bill can account for a large share of total heat loss (Tattersall et al., Science, 2009)",
+   "Bill about 19–23 cm long yet very light",
+   "Raids nests of other birds for eggs and nestlings",
+   "Disperses seeds of Cerrado and Pantanal trees"
+  ],
+  "animal": {
+   "diet": "Fruit, insects, eggs, nestlings and small reptiles",
+   "habitat": "Savanna, open woodland, palm groves, plantations and towns",
+   "size": "55–65 cm; 500–860 g",
+   "behaviour": "It tucks its bill under its back feathers while sleeping, which reduces heat loss on cool nights.",
+   "fieldMarks": [
+    "Huge, bright orange bill with a black tip and a black spot at the base",
+    "Black body with white throat and bib",
+    "Orange bare skin around the eye, with a blue eye-ring",
+    "White uppertail and red undertail coverts"
+   ],
+   "voice": "A deep, grunting, croaking 'grrr-grrr' or 'groonk', often in series.",
+   "lookalikes": "White-throated (Red-billed) Toucan has a dark reddish bill with a yellow ridge and lives in rainforest. Channel-billed Toucan has a black bill with a blue base.",
+   "whereToSee": "The Pantanal (Mato Grosso), Iguaçu Falls, Emas National Park and towns of the Brazilian Cerrado.",
+   "season": "Resident year-round",
+   "order": "Piciformes"
+  },
+  "iucn": "LC",
+  "lore": "The word 'toucan' comes through Portuguese from the Tupi name for the bird; early European naturalists in Brazil, including Georg Marcgrave in the 1640s, described and drew toucans.",
+  "historicalNames": [
+   "Tucana",
+   "Ramphastos",
+   "Pica brasiliensis"
+  ],
+  "funFact": "In the Pantanal it is both the main seed disperser of the manduvi tree — the Hyacinth Macaw's main nest tree — and a major predator of Hyacinth Macaw eggs."
+ },
+ {
+  "slug": "geococcyx-californianus",
+  "scientific": "Geococcyx californianus",
+  "common": "Greater roadrunner",
+  "otherNames": [
+   "Correcaminos norteño (Spanish)",
+   "Paisano (Spanish, Mexico)",
+   "Churea (Spanish, Mexico)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Cuculidae",
+  "shelves": [],
+  "summary": "A ground-dwelling cuckoo of the deserts and scrub of the south-western US and Mexico that runs down lizards, snakes and scorpions. It can sprint at about 30 km/h and kills rattlesnakes by beating them against rocks.",
+  "nativeRange": "South-western and south-central US (expanding into Missouri, Arkansas and Louisiana) and northern and central Mexico",
+  "regions": [
+   "North America"
+  ],
+  "biomes": [
+   "Desert scrub",
+   "Chaparral",
+   "Grassland",
+   "Open woodland"
+  ],
+  "abilities": [
+   "Runs at around 30 km/h, steering with its long tail",
+   "Eats venomous prey including rattlesnakes and scorpions",
+   "Sunbathes with back feathers raised to expose black skin, warming up after cold nights",
+   "Excretes excess salt through a gland near the eye, conserving water"
+  ],
+  "animal": {
+   "diet": "Lizards, snakes, insects, scorpions, rodents, small birds; some fruit",
+   "habitat": "Arid scrub, desert, chaparral, open grassland with cover",
+   "lifespan": "Up to about 7–8 years",
+   "size": "52–62 cm; 220–540 g",
+   "behaviour": "Courting males present food, such as a lizard, to the female before mating.",
+   "fieldMarks": [
+    "Long, white-tipped tail often cocked up",
+    "Shaggy dark crest and streaky brown-and-white plumage",
+    "Long, heavy bill; bare blue and orange skin behind the eye",
+    "Long legs with X-shaped zygodactyl footprints (two toes forward, two back)"
+   ],
+   "voice": "A series of slow, descending, dove-like coos 'coo-coo-coo-oo'; also loud bill-clattering.",
+   "lookalikes": "Lesser Roadrunner (Mexico and Central America) is smaller with a less streaked throat. Ring-necked Pheasant has a short bill and lacks streaks.",
+   "whereToSee": "Desert parks of Arizona, New Mexico and west Texas — e.g. Big Bend National Park, Sonoran Desert around Tucson, Bosque del Apache.",
+   "season": "Resident year-round",
+   "order": "Cuculiformes"
+  },
+  "iucn": "LC",
+  "lore": "Pueblo peoples used its X-shaped footprints as a protective symbol, since the tracks do not show which way the bird went; it is New Mexico's state bird.",
+  "funFact": "Real roadrunners top out around 30 km/h — fast for a bird on foot, but slower than a coyote."
+ },
+ {
+  "slug": "buteo-jamaicensis",
+  "scientific": "Buteo jamaicensis",
+  "common": "Red-tailed hawk",
+  "otherNames": [
+   "Aguililla cola roja (Spanish, Mexico)",
+   "Guaraguao (Spanish, Puerto Rico, from Taíno)",
+   "Buse à queue rousse (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Accipitridae",
+  "shelves": [],
+  "summary": "North America's most familiar large hawk, often seen perched on roadside poles or soaring over fields. Its hoarse scream is the sound film-makers dub in for almost any bird of prey, including Bald Eagles.",
+  "nativeRange": "Alaska and Canada through the US, Mexico and Central America to Panama; the West Indies",
+  "regions": [
+   "North America",
+   "Central America",
+   "Caribbean"
+  ],
+  "biomes": [
+   "Grassland",
+   "Farmland",
+   "Woodland edge",
+   "Desert",
+   "Cities"
+  ],
+  "abilities": [
+   "Hunts by watching from a high perch or 'kiting' motionless into the wind",
+   "Plumage varies from very pale to almost black across many regional forms and morphs",
+   "Has adapted to cities, nesting on building ledges",
+   "Pairs often stay together for years and reuse nests"
+  ],
+  "animal": {
+   "diet": "Rodents, rabbits, squirrels; also birds, snakes and carrion",
+   "habitat": "Open country with scattered perches, from deserts to farmland and city parks",
+   "lifespan": "Banding record about 30 years",
+   "size": "45–65 cm; wingspan 110–145 cm; 690–1,460 g (females larger)",
+   "behaviour": "Pairs perform high soaring courtship flights, with the male diving and climbing and sometimes dangling his legs.",
+   "fieldMarks": [
+    "Adult tail brick-red above, pale pinkish below",
+    "Dark band of streaks across the pale belly",
+    "Dark bar (patagial mark) on the leading edge of the underwing",
+    "Broad, rounded wings and short wide tail; dark and rufous morphs occur, especially in the West"
+   ],
+   "voice": "A hoarse, rasping, descending scream 'kee-eeee-arrr', 2–3 seconds long.",
+   "lookalikes": "Red-shouldered Hawk has a banded black-and-white tail and pale wing 'windows'. Rough-legged Hawk has black wrist patches and a white tail base. Swainson's Hawk has dark flight feathers below and a brown bib. Juvenile Red-tails have brown banded tails.",
+   "whereToSee": "Highway edges and fields almost anywhere in North America; hawk-watch sites such as Hawk Mountain (Pennsylvania) and Duluth's Hawk Ridge in autumn.",
+   "season": "Resident in most of the US; northern birds migrate Sep–Nov",
+   "order": "Accipitriformes"
+  },
+  "iucn": "LC",
+  "lore": "A red-tailed hawk nicknamed Pale Male nested on a Fifth Avenue apartment building in New York City from the early 1990s, becoming one of the most famous wild birds in the world.",
+  "historicalNames": [
+   "Falco jamaicensis"
+  ],
+  "funFact": "It was first scientifically described from a specimen collected in Jamaica, hence jamaicensis."
+ },
+ {
+  "slug": "harpia-harpyja",
+  "scientific": "Harpia harpyja",
+  "common": "Harpy eagle",
+  "otherNames": [
+   "Águila arpía (Spanish)",
+   "Gavião-real (Portuguese)",
+   "Uiraçu (Portuguese, from Tupi)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Accipitridae",
+  "shelves": [
+   "endangered",
+   "marvel"
+  ],
+  "summary": "The most powerful raptor of the Americas, a rainforest eagle that snatches sloths and monkeys from the canopy. Its hind talons are as long as a grizzly bear's claws, and a pair raises a single chick only every two to three years.",
+  "nativeRange": "Southern Mexico (now very rare) through Central America to eastern Bolivia, Brazil and north-eastern Argentina",
+  "regions": [
+   "Central America",
+   "South America"
+  ],
+  "biomes": [
+   "Tropical lowland rainforest"
+  ],
+  "abilities": [
+   "Hind talons can reach about 12–13 cm",
+   "Carries prey such as sloths weighing several kilograms",
+   "Manoeuvres through dense canopy on short, broad wings rather than soaring high",
+   "Nests in giant emergent trees such as kapok (Ceiba) and Brazil nut"
+  ],
+  "animal": {
+   "diet": "Mainly sloths and monkeys; also opossums, porcupines, macaws and iguanas",
+   "habitat": "Large tracts of undisturbed lowland tropical forest",
+   "size": "89–105 cm; wingspan 176–224 cm; females 6–9 kg, males 4–5 kg",
+   "behaviour": "The single chick depends on its parents for over a year after fledging.",
+   "fieldMarks": [
+    "Pale grey head with a split, double crest",
+    "Broad black band across the chest",
+    "White underparts with barred thighs and enormous yellow feet",
+    "Short, broad wings and long, banded tail"
+   ],
+   "voice": "A long, wailing scream 'wheeeee-oo', especially from young birds begging at the nest.",
+   "lookalikes": "Crested Eagle is smaller and slimmer with a single crest and lighter feet. Juvenile Harpies are whitish and can be confused with juvenile Crested Eagles; check size and leg thickness.",
+   "whereToSee": "Darién (Panama), Tambopata (Peru), Alta Floresta (Brazil) and Iwokrama (Guyana), usually at known nest trees with local guides.",
+   "season": "Resident year-round",
+   "order": "Accipitriformes"
+  },
+  "iucn": "VU",
+  "lore": "Named after the harpies, the bird-bodied spirits of Greek myth, it is Panama's national bird and appears on Panama's coat of arms.",
+  "funFact": "Its facial disc of feathers may help funnel sound to its ears, like an owl's."
+ },
+ {
+  "slug": "caracara-plancus",
+  "scientific": "Caracara plancus",
+  "common": "Crested caracara",
+  "otherNames": [
+   "Carancho (Spanish, Southern Cone)",
+   "Carcará (Portuguese, from Tupi)",
+   "Quebrantahuesos (Spanish, Mexico)",
+   "Mexican eagle (English, Texas)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Falconidae",
+  "shelves": [],
+  "summary": "A long-legged, eagle-like falcon with a bare red face that walks the ground scavenging and hunting. It is as likely to be found at a roadkill or behind a plough as on the wing.",
+  "nativeRange": "Florida, Texas and Arizona south through Mexico, Central America and South America to Tierra del Fuego",
+  "regions": [
+   "North America",
+   "Central America",
+   "South America",
+   "Caribbean"
+  ],
+  "biomes": [
+   "Grassland",
+   "Savanna",
+   "Ranchland",
+   "Desert scrub"
+  ],
+  "abilities": [
+   "Hunts on foot, turning over debris and dung for insects and small animals",
+   "Robs vultures and other birds of food",
+   "Follows tractors, fires and cattle to catch flushed prey",
+   "Throws its head back over its back while calling"
+  ],
+  "animal": {
+   "diet": "Carrion, insects, small mammals, reptiles, fish and eggs",
+   "habitat": "Open country — prairies, pastures, savanna, desert scrub",
+   "size": "49–64 cm; wingspan about 120 cm; 0.8–1.6 kg",
+   "behaviour": "Unlike most falcons, it builds its own stick nest, often in palms or cacti.",
+   "fieldMarks": [
+    "Black cap and shaggy crest above bare red-orange to yellow facial skin",
+    "Heavy, pale bluish hooked bill",
+    "White throat and neck; barred breast; black belly",
+    "In flight: white patches near the wingtips and white tail with a black terminal band; long yellow legs"
+   ],
+   "voice": "A dry, harsh rattle, given with the head thrown back; the name 'caracara' imitates it.",
+   "lookalikes": "Black Vulture has a bare grey head and lacks the white neck. Bald Eagle immature lacks the black cap and orange face.",
+   "whereToSee": "Ranchland of central Florida (Kissimmee Prairie), south Texas, the Pantanal and the Argentine Pampas.",
+   "season": "Resident year-round",
+   "order": "Falconiformes"
+  },
+  "iucn": "LC",
+  "lore": "Some historians argue that the bird in the Aztec founding legend of Tenochtitlan — an eagle on a cactus devouring a snake — was a caracara, though Mexico's coat of arms shows a Golden Eagle; in Brazil, João do Vale's 1964 song 'Carcará' made it a symbol of the drought-hardened north-east.",
+  "funFact": "The Florida population is federally listed as threatened in the US because of the loss of native prairie."
+ },
+ {
+  "slug": "vultur-gryphus",
+  "scientific": "Vultur gryphus",
+  "common": "Andean condor",
+  "otherNames": [
+   "Kuntur (Quechua)",
+   "Mallku (Aymara)",
+   "Cóndor andino (Spanish)",
+   "Condor-dos-andes (Portuguese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Cathartidae",
+  "shelves": [
+   "endangered",
+   "sacred",
+   "marvel"
+  ],
+  "summary": "One of the heaviest flying birds on Earth, with a wingspan of over 3 m, it soars over the Andes and Patagonian coast in search of carcasses. It is a national symbol of Bolivia, Chile, Colombia and Ecuador.",
+  "nativeRange": "Andes from Venezuela and Colombia to Tierra del Fuego, and adjacent Pacific coasts and Patagonian lowlands",
+  "regions": [
+   "South America"
+  ],
+  "biomes": [
+   "High Andean grassland (puna)",
+   "Mountain cliffs",
+   "Patagonian steppe",
+   "Desert coast"
+  ],
+  "abilities": [
+   "Wingspan up to about 3.3 m and weight up to about 15 kg",
+   "A tracking study found condors flapped only about 1% of their flight time, one bird flying over 170 km in five hours without flapping (Williams et al., PNAS, 2020)",
+   "Rides thermals and slope winds to cover over 200 km a day",
+   "Lays a single egg, usually every two years"
+  ],
+  "animal": {
+   "diet": "Carrion of large mammals — llamas, guanacos, cattle; marine mammal carcasses on the coast",
+   "habitat": "Open mountains, high plateaus and coasts with cliffs for roosting and nesting",
+   "lifespan": "Over 50 years; captive birds have exceeded 70",
+   "size": "100–130 cm; wingspan 2.7–3.3 m; 8–15 kg (males larger)",
+   "behaviour": "Males are larger than females, unusual among raptors, and carry a fleshy comb on the head.",
+   "fieldMarks": [
+    "Black plumage with a white neck ruff",
+    "Large white panels on the upper wing (secondaries)",
+    "Bare grey-red head; male with a dark fleshy comb (caruncle)",
+    "Long, broad wings with deeply 'fingered' primaries"
+   ],
+   "voice": "Almost silent; lacking a syrinx-driven song, it hisses and clucks at carcasses and roosts.",
+   "lookalikes": "California Condor (no range overlap) has white underwing linings rather than upper-wing panels and lacks the white ruff. Black Vulture and Turkey Vulture are far smaller.",
+   "whereToSee": "Cruz del Cóndor, Colca Canyon (Peru); Torres del Paine (Chile); Quebrada del Condorito (Argentina); the Antisana reserve (Ecuador).",
+   "season": "Resident year-round; Colca viewing best in the morning, Jun–Oct",
+   "order": "Cathartiformes"
+  },
+  "iucn": "VU",
+  "lore": "For the Inca, the kuntur was a messenger of the upper world (Hanan Pacha), and in the Peruvian Yawar Fiesta a condor was tied to a bull's back to symbolise the struggle of Andean and Spanish cultures.",
+  "historicalNames": [
+   "Cuntur",
+   "Condor",
+   "Gryphus"
+  ],
+  "funFact": "Its species name gryphus refers to the griffin of legend."
+ },
+ {
+  "slug": "gymnogyps-californianus",
+  "scientific": "Gymnogyps californianus",
+  "common": "California condor",
+  "otherNames": [
+   "Cóndor de California (Spanish)",
+   "Prey-go-neesh (Yurok)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Cathartidae",
+  "shelves": [
+   "endangered",
+   "sacred",
+   "marvel"
+  ],
+  "summary": "North America's largest flying land bird, with a wingspan near 3 m. It went extinct in the wild in 1987 when the last wild bird was captured, leaving 27 condors, all in captivity; captive breeding and releases have since rebuilt the population to several hundred.",
+  "nativeRange": "Formerly much of western North America (Pleistocene range continent-wide); reintroduced in California, Arizona–Utah, northern Baja California and, since 2022, the Pacific Northwest",
+  "regions": [
+   "North America"
+  ],
+  "biomes": [
+   "Mountain canyons",
+   "Coastal cliffs",
+   "Oak savanna",
+   "Desert plateau"
+  ],
+  "abilities": [
+   "Soars for hours on thermals and covers well over 200 km in a day",
+   "Wingspan up to about 2.9 m",
+   "Can live 60 years or more",
+   "Lays one egg every one to two years"
+  ],
+  "animal": {
+   "diet": "Carrion of large mammals — deer, cattle, marine mammals",
+   "habitat": "Rugged mountains, canyons and coastal ranges with open foraging country",
+   "lifespan": "Up to 60 years or more",
+   "size": "117–134 cm; wingspan up to about 2.9 m; 8–14 kg",
+   "behaviour": "Wild-released birds carry numbered wing tags and GPS transmitters so biologists can trap and test them for lead poisoning.",
+   "fieldMarks": [
+    "Very large, black, with white triangular linings on the underwing",
+    "Adults have a bare orange-pink head; juveniles a dusky grey head",
+    "Black ruff of feathers around the neck",
+    "Flat, steady soaring with long, fingered primaries; usually carries numbered wing tags"
+   ],
+   "voice": "No song; hisses and grunts at carcasses.",
+   "lookalikes": "Turkey Vulture is much smaller, rocks in flight and shows silvery flight feathers (not white linings). Golden Eagle has a feathered head and a longer tail with no white underwing triangle in adults.",
+   "whereToSee": "Vermilion Cliffs National Monument and the South Rim of the Grand Canyon (Arizona), Pinnacles National Park and Big Sur (California), Zion National Park (Utah).",
+   "season": "Resident year-round",
+   "order": "Cathartiformes"
+  },
+  "iucn": "CR",
+  "lore": "The Yurok people of northern California, who call it prey-go-neesh, regard it as a sacred bird; in 2022 the Yurok Tribe began releasing condors in Redwood National Park.",
+  "funFact": "By the end of 2025 the US Fish and Wildlife Service counted 607 California condors, 392 of them flying free; lead poisoning from ammunition fragments remains the main cause of death."
+ },
+ {
+  "slug": "sarcoramphus-papa",
+  "scientific": "Sarcoramphus papa",
+  "common": "King vulture",
+  "otherNames": [
+   "Zopilote rey (Spanish)",
+   "Urubu-rei (Portuguese)",
+   "Cozcacuauhtli (Nahuatl)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Cathartidae",
+  "shelves": [
+   "sacred"
+  ],
+  "summary": "A creamy-white vulture with a bare head painted orange, purple, red and yellow. Other vultures usually find carcasses first, but the king vulture's powerful bill opens tough hides that smaller species cannot.",
+  "nativeRange": "Southern Mexico through Central America to northern Argentina",
+  "regions": [
+   "Central America",
+   "South America"
+  ],
+  "biomes": [
+   "Tropical lowland rainforest",
+   "Savanna",
+   "Forest edge"
+  ],
+  "abilities": [
+   "Tears open large carcasses, giving other scavengers access",
+   "Follows smell-guided Turkey and Yellow-headed Vultures to food hidden under forest canopy",
+   "Soars for long periods on flat wings over rainforest"
+  ],
+  "animal": {
+   "diet": "Carrion; occasionally weak or newborn animals",
+   "habitat": "Lowland forest and adjacent savanna, mainly below 1,500 m",
+   "lifespan": "Over 30 years in captivity",
+   "size": "67–81 cm; wingspan 1.2–2 m; 2.7–4.5 kg",
+   "behaviour": "At carcasses it usually displaces Black and Turkey Vultures.",
+   "fieldMarks": [
+    "Creamy-white body with black flight feathers and tail",
+    "Bare, multicoloured head and neck with an orange fleshy caruncle on the bill",
+    "Thick grey ruff",
+    "White eye with red eye-ring; juveniles all dark"
+   ],
+   "voice": "Generally silent; low croaks and bill-snaps.",
+   "lookalikes": "Wood Stork has long legs and a long neck in flight. Immature king vultures are dark and resemble Black Vultures but are larger with some colour on the head.",
+   "whereToSee": "Over rainforest in Belize, Costa Rica (Osa Peninsula), Panama and the Amazon; at feeding stations in Brazil and Costa Rica.",
+   "season": "Resident year-round",
+   "order": "Cathartiformes"
+  },
+  "iucn": "LC",
+  "lore": "The Maya depicted the king vulture in their codices, and its Nahuatl name cozcacuauhtli also named the 16th day of the Aztec calendar.",
+  "funFact": "Spanish 'zopilote rey' reflects an old belief that it was the king the other vultures stood back for."
+ },
+ {
+  "slug": "bubo-virginianus",
+  "scientific": "Bubo virginianus",
+  "common": "Great horned owl",
+  "otherNames": [
+   "Búho cornudo (Spanish)",
+   "Tecolote (Spanish, from Nahuatl tecolotl)",
+   "Ñacurutú (Guaraní / Spanish, South America)",
+   "Grand-duc d'Amérique (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Strigidae",
+  "shelves": [],
+  "summary": "The tufted, yellow-eyed owl of children's books, found from Arctic tree line to tropical forests. It takes prey up to the size of skunks and geese and nests in the dead of winter.",
+  "nativeRange": "Alaska and Canada through the US, Mexico and Central America to South America; in the far south replaced by the Magellanic Horned Owl",
+  "regions": [
+   "North America",
+   "Central America",
+   "South America"
+  ],
+  "biomes": [
+   "Forest",
+   "Desert",
+   "Grassland edge",
+   "Cities",
+   "Swamp"
+  ],
+  "abilities": [
+   "Hunts one of the widest prey ranges of any bird — from insects to skunks, ospreys and other owls",
+   "Regularly kills skunks, possibly helped by a weak sense of smell",
+   "Silent flight from serrated, velvety flight feathers",
+   "Begins nesting in January or February, often in old hawk or crow nests"
+  ],
+  "animal": {
+   "diet": "Rabbits, rodents, skunks, birds including waterfowl and other raptors, reptiles",
+   "habitat": "Almost any habitat with trees, cliffs or structures to roost and nest",
+   "lifespan": "Banding record about 28 years",
+   "size": "46–63 cm; wingspan 100–145 cm; 0.9–2.5 kg",
+   "behaviour": "Mated pairs duet at dusk in winter, the female's hoots higher than the male's despite her larger size.",
+   "fieldMarks": [
+    "Large, bulky owl with widely spaced ear tufts",
+    "Yellow eyes in a rusty-orange facial disc rimmed with black",
+    "White throat bib",
+    "Fine horizontal barring on the underparts"
+   ],
+   "voice": "Deep, soft, stuttering hoots, e.g. 'hoo-h'HOO-hoo-hoo'; juveniles give a rasping hiss-scream.",
+   "lookalikes": "Long-eared Owl is slim with close-set tufts and vertical streaks below. Barred Owl has no tufts and dark eyes. Eastern and Western Screech-Owls have tufts but are tiny.",
+   "whereToSee": "Parks, woodlots and deserts throughout the Americas; often seen on winter evenings on nest platforms in cottonwoods or on saguaros.",
+   "season": "Resident year-round",
+   "order": "Strigiformes"
+  },
+  "iucn": "LC",
+  "lore": "In much of Mesoamerica the owl (Nahuatl tecolotl) was associated with Mictlantecuhtli, lord of the underworld, and its call with death — a belief still voiced in the Mexican saying 'cuando el tecolote canta, el indio muere'.",
+  "historicalNames": [
+   "Virginian Eared Owl",
+   "Strix virginiana",
+   "Great Horned Owl"
+  ],
+  "funFact": "Like other owls it cannot move its eyes in their sockets, so it turns its whole head — up to about 270 degrees."
+ },
+ {
+  "slug": "athene-cunicularia",
+  "scientific": "Athene cunicularia",
+  "common": "Burrowing owl",
+  "otherNames": [
+   "Lechucita vizcachera (Spanish, Argentina)",
+   "Tecolote llanero (Spanish, Mexico)",
+   "Coruja-buraqueira (Portuguese)",
+   "Chevêche des terriers (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Strigidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "A small, long-legged owl that lives underground in burrows dug by prairie dogs, ground squirrels or armadillos, and is often active by day. It bobs and stares from the burrow mouth, and decorates its entrance with dung to attract beetles.",
+  "nativeRange": "Western North America and Florida south through Mexico, the Caribbean and Central America to Tierra del Fuego",
+  "regions": [
+   "North America",
+   "Central America",
+   "Caribbean",
+   "South America"
+  ],
+  "biomes": [
+   "Grassland",
+   "Desert",
+   "Pampas",
+   "Farmland",
+   "Urban lots"
+  ],
+  "abilities": [
+   "Spreads mammal dung around its burrow, which attracts dung beetles it then eats (Levey et al., Nature, 2004)",
+   "Chicks in the burrow give a hiss that resembles a rattlesnake's rattle",
+   "Florida birds dig their own burrows; western birds usually take over mammal burrows",
+   "Hunts both day and night, hovering and running after insects"
+  ],
+  "animal": {
+   "diet": "Insects (beetles, grasshoppers), small rodents, lizards, frogs",
+   "habitat": "Open, short-grass country — prairies, deserts, pastures, airports, vacant lots",
+   "lifespan": "Up to about 9 years in the wild",
+   "size": "19–28 cm; 140–240 g",
+   "behaviour": "It bobs its head and body rapidly when alarmed, a characteristic gesture.",
+   "fieldMarks": [
+    "Small brown owl with white spots, standing on long, sparsely feathered legs",
+    "Round head with no ear tufts",
+    "Bright yellow eyes beneath bold white eyebrows",
+    "White chin stripe; usually seen on the ground or a low post"
+   ],
+   "voice": "A soft, two-note 'coo-coooo' at night; chattering and clucking alarm calls.",
+   "lookalikes": "Short-eared Owl is larger, longer-winged and flies low over grass. Screech-owls have ear tufts and live in trees.",
+   "whereToSee": "Cape Coral, Florida; prairie dog towns of the Great Plains; Salton Sea agricultural fields (California); the Pampas and Brazilian city lawns.",
+   "season": "Resident in Florida and southward; northern Great Plains birds are summer visitors, Apr–Oct",
+   "order": "Strigiformes"
+  },
+  "iucn": "LC",
+  "lore": "Its species name cunicularia, 'little miner' or 'burrower', was given by Juan Ignacio Molina in Chile in 1782.",
+  "funFact": "Though globally common, it is listed as Endangered in Canada after its prairie populations collapsed."
+ },
+ {
+  "slug": "strix-varia",
+  "scientific": "Strix varia",
+  "common": "Barred owl",
+  "otherNames": [
+   "Búho listado (Spanish)",
+   "Chouette rayée (French)",
+   "Hoot owl (American English)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Strigidae",
+  "shelves": [],
+  "summary": "A large, round-headed owl of eastern swamps and forests with soulful dark eyes and a call that asks 'Who cooks for you?'. In the last century it spread across Canada into the Pacific Northwest, where it now outcompetes the threatened Spotted Owl.",
+  "nativeRange": "Eastern North America and central Mexico; expanded across boreal Canada into British Columbia, Washington, Oregon and northern California during the 20th century",
+  "regions": [
+   "North America",
+   "Central America"
+  ],
+  "biomes": [
+   "Swamp forest",
+   "Mature deciduous forest",
+   "Mixed forest",
+   "Riparian woodland"
+  ],
+  "abilities": [
+   "Calls frequently by day as well as night",
+   "Takes a wide range of prey including crayfish, fish and frogs",
+   "Its westward range expansion is one of the largest documented for a North American bird"
+  ],
+  "animal": {
+   "diet": "Small mammals, birds, amphibians, crayfish, fish, insects",
+   "habitat": "Mature forest near water — swamps, river bottoms, old woodlots",
+   "lifespan": "Banding record about 24 years",
+   "size": "40–63 cm; 470–1,050 g",
+   "behaviour": "Pairs perform raucous 'caterwauling' duets of hoots, cackles and screams.",
+   "fieldMarks": [
+    "Large, round head without ear tufts",
+    "Dark brown eyes",
+    "Horizontal barring on upper breast, vertical streaks on the belly",
+    "Grey-brown plumage with a yellow bill"
+   ],
+   "voice": "A rhythmic hooting 'who cooks for you, who cooks for you-all', ending in a drawl; also monkey-like cackles.",
+   "lookalikes": "Spotted Owl (West) is darker with white spots instead of bars and streaks. Great Gray Owl is larger with yellow eyes. Great Horned Owl has ear tufts and yellow eyes.",
+   "whereToSee": "Southern swamps such as Corkscrew Swamp and the Okefenokee, river bottomlands across the east, and forests of the Pacific Northwest.",
+   "season": "Resident year-round",
+   "order": "Strigiformes"
+  },
+  "iucn": "LC",
+  "lore": "Its spread into the range of the Northern Spotted Owl led the US Fish and Wildlife Service to adopt a 2024 management plan that includes culling Barred Owls in parts of the Pacific Northwest.",
+  "funFact": "Barred Owls sometimes wade into shallow water to catch fish and crayfish."
+ },
+ {
+  "slug": "aix-sponsa",
+  "scientific": "Aix sponsa",
+  "common": "Wood duck",
+  "otherNames": [
+   "Pato joyuyo (Spanish)",
+   "Huyuyo (Spanish, Cuba)",
+   "Canard branchu (French)",
+   "Carolina duck (English)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Anatidae",
+  "shelves": [
+   "freshwater"
+  ],
+  "summary": "A gaudily patterned duck that nests in tree holes, sometimes many metres up. A day after hatching, the ducklings leap to the ground without opening their wings and walk to water.",
+  "nativeRange": "Eastern North America, the Pacific coast from British Columbia to California, and Cuba",
+  "regions": [
+   "North America",
+   "Caribbean"
+  ],
+  "biomes": [
+   "Swamp forest",
+   "Wooded ponds",
+   "Rivers",
+   "Beaver ponds"
+  ],
+  "abilities": [
+   "Nests in tree cavities and nest boxes, often in old Pileated Woodpecker holes",
+   "Ducklings jump from cavities up to about 15 m high without injury",
+   "Claws on its feet let it perch on branches",
+   "Females often lay eggs in each other's nests ('egg dumping')"
+  ],
+  "animal": {
+   "diet": "Acorns, seeds, aquatic plants, insects",
+   "habitat": "Wooded swamps, beaver ponds, slow rivers and marshes with trees",
+   "lifespan": "Banding record about 22 years",
+   "size": "47–54 cm; 450–880 g",
+   "behaviour": "It flies nimbly through flooded forest, often nodding its head in flight.",
+   "fieldMarks": [
+    "Male: iridescent green-and-purple crested head with white chin straps and red eye",
+    "Male: chestnut breast flecked white, buff sides, black-and-white bar on shoulder",
+    "Female: grey-brown with a white teardrop-shaped eye-ring and a short crest",
+    "Long, broad tail and short neck in flight"
+   ],
+   "voice": "Female gives a loud, squealing, rising 'oo-eek!' when flushed; male a thin, rising whistle 'jeeeb'.",
+   "lookalikes": "Mandarin Duck (escaped from collections) has orange 'sails' on the back and whiskery orange cheeks. Hooded Merganser has a thin bill and a fan-shaped white or brown crest.",
+   "whereToSee": "Wooded swamps and park ponds across the eastern US, e.g. the Great Swamp NWR (New Jersey) and Okefenokee; nest-box programmes on many refuges.",
+   "season": "Resident in the southern US; summer visitor in the north, Mar–Nov",
+   "order": "Anseriformes"
+  },
+  "iucn": "LC",
+  "lore": "Hunted almost to extinction by about 1900, it recovered after the 1918 Migratory Bird Treaty Act ended market hunting and nest-box programmes replaced lost tree cavities; Catesby painted it as 'The Summer Duck'.",
+  "historicalNames": [
+   "Summer Duck",
+   "Anas sponsa",
+   "Anas americanus cristatus elegans"
+  ],
+  "funFact": "Linnaeus named it sponsa, Latin for 'betrothed' or 'bride', for the male's 'wedding finery'."
+ },
+ {
+  "slug": "antigone-canadensis",
+  "scientific": "Antigone canadensis",
+  "common": "Sandhill crane",
+  "otherNames": [
+   "Grulla canadiense (Spanish)",
+   "Grulla gris (Spanish, Mexico)",
+   "Grue du Canada (French)",
+   "Ajijaak (Ojibwe)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Gruidae",
+  "shelves": [
+   "migrant",
+   "freshwater"
+  ],
+  "summary": "A tall grey crane with a red crown whose rolling, bugling calls carry for kilometres. Each spring hundreds of thousands gather on Nebraska's Platte River, one of North America's great wildlife spectacles.",
+  "nativeRange": "Breeds across Alaska, Canada, the northern US and north-eastern Siberia; resident populations in Florida, Mississippi and Cuba; winters in the southern US and northern Mexico",
+  "regions": [
+   "North America",
+   "Caribbean",
+   "East Asia",
+   "Arctic"
+  ],
+  "biomes": [
+   "Wetlands",
+   "Tundra",
+   "Prairie",
+   "Farmland"
+  ],
+  "abilities": [
+   "Its windpipe coils into the breastbone, producing calls audible several kilometres away",
+   "Pairs perform leaping, bowing courtship dances and 'unison calls'",
+   "Paints its grey feathers rusty-brown by preening with iron-rich mud",
+   "Migrates in high, circling flocks riding thermals"
+  ],
+  "animal": {
+   "diet": "Waste grain, tubers, seeds, insects, snails, small vertebrates",
+   "habitat": "Marshes, wet meadows, tundra and farm fields near shallow roosting water",
+   "lifespan": "Banding record over 36 years",
+   "size": "80–120 cm tall; wingspan 1.5–2.3 m; 2.7–6.7 kg",
+   "behaviour": "Families stay together through the first winter, with colts learning migration routes from their parents.",
+   "fieldMarks": [
+    "Tall grey crane with long neck and legs",
+    "Red bare forecrown and white cheeks",
+    "Bushy 'bustle' of tertial feathers over the tail",
+    "Flies with neck fully outstretched; often stained rusty brown"
+   ],
+   "voice": "A loud, rolling, trumpeting rattle 'garoo-oo-oo'; juveniles give high, whistling 'peeps'.",
+   "lookalikes": "Great Blue Heron flies with its neck folded and lacks the red crown. Whooping Crane is white with black wingtips. Common Crane (rare vagrant) has a black-and-white neck.",
+   "whereToSee": "Platte River near Kearney, Nebraska (Feb–Apr, Rowe Sanctuary); Bosque del Apache NWR (New Mexico) and Whitewater Draw (Arizona) in winter; Jasper-Pulaski (Indiana) in autumn.",
+   "season": "Migratory populations: on the Platte mid-Feb–early Apr; on wintering grounds Nov–Feb",
+   "order": "Gruiformes"
+  },
+  "iucn": "LC",
+  "lore": "Aldo Leopold's essay 'Marshland Elegy' in A Sand County Almanac (1949) made the sandhill crane a symbol of wildness and deep time; in Ojibwe tradition the crane (ajijaak) is a leading clan.",
+  "historicalNames": [
+   "Grus canadensis",
+   "Ardea canadensis",
+   "Brown Crane"
+  ],
+  "funFact": "Its rusty colour is not pigment at all but mud painted on during preening."
+ },
+ {
+  "slug": "grus-americana",
+  "scientific": "Grus americana",
+  "common": "Whooping crane",
+  "otherNames": [
+   "Grulla blanca (Spanish)",
+   "Grulla trompetera (Spanish)",
+   "Grue blanche (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Gruidae",
+  "shelves": [
+   "endangered",
+   "migrant",
+   "freshwater"
+  ],
+  "summary": "The tallest bird in North America, a white crane whose only migratory flock fell to about 15 birds in 1941. Protection of its only wild migratory flock, which nests in Canada's Wood Buffalo National Park and winters on the Texas coast, has brought it back to several hundred.",
+  "nativeRange": "Wild flock breeds in Wood Buffalo National Park (Alberta/Northwest Territories) and winters at Aransas, Texas; reintroduced non-migratory birds in Louisiana and an eastern migratory flock in Wisconsin",
+  "regions": [
+   "North America"
+  ],
+  "biomes": [
+   "Boreal wetlands",
+   "Coastal salt marsh",
+   "Prairie wetlands"
+  ],
+  "abilities": [
+   "Migrates about 4,000 km between Canada and the Gulf of Mexico",
+   "Windpipe up to about 1.5 m long, coiled in the breastbone, amplifying its bugle",
+   "Pairs bond for life and defend large winter territories in salt marsh",
+   "Captive-raised cranes have been taught migration routes by following ultralight aircraft (2001–2015)"
+  ],
+  "animal": {
+   "diet": "Blue crabs, clams, wolfberries and acorns in winter; insects, frogs, fish and plants in summer",
+   "habitat": "Remote boreal marshes for breeding; coastal salt marshes and bays in winter",
+   "lifespan": "About 22–30 years in the wild",
+   "size": "About 1.5 m tall; wingspan 2–2.3 m; 4.5–8.5 kg",
+   "behaviour": "Pairs usually lay two eggs but often raise only one chick.",
+   "fieldMarks": [
+    "Snow-white body and very tall stature",
+    "Black primary feathers visible as black wingtips in flight",
+    "Red crown and black 'moustache' on the face",
+    "Juveniles mottled cinnamon and white"
+   ],
+   "voice": "A loud, clear, trumpeting 'whoop-whoop' unison call that carries several kilometres.",
+   "lookalikes": "American White Pelican has black on the whole outer wing and a huge bill. Wood Stork has a dark bare head and black trailing wing edges. Great Egret flies with neck folded. Sandhill Crane is grey.",
+   "whereToSee": "Aransas National Wildlife Refuge and boat tours from Rockport–Fulton, Texas (Nov–Mar); Necedah NWR, Wisconsin (eastern flock).",
+   "season": "Winter at Aransas Nov–Mar; breeding in Wood Buffalo May–Sep",
+   "order": "Gruiformes"
+  },
+  "iucn": "EN",
+  "lore": "Its nesting grounds were not found until 1954, when a forest-fire crew spotted cranes in Wood Buffalo National Park; it was among the first species listed as endangered in the United States, in 1967.",
+  "historicalNames": [
+   "Ardea americana",
+   "White Crane"
+  ],
+  "funFact": "The US Fish and Wildlife Service estimated about 540 whooping cranes wintered in and around Aransas in 2025–26, up from roughly 15 in 1941."
+ },
+ {
+  "slug": "ardea-herodias",
+  "scientific": "Ardea herodias",
+  "common": "Great blue heron",
+  "otherNames": [
+   "Garza morena (Spanish)",
+   "Garzón cenizo (Spanish)",
+   "Grand Héron (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Ardeidae",
+  "shelves": [
+   "freshwater"
+  ],
+  "summary": "The largest heron in North America, a patient, statuesque hunter of marshes, lakes and coasts. It strikes fish with a lightning thrust of its dagger bill and swallows them whole.",
+  "nativeRange": "Alaska and southern Canada through the US and Mexico to Central America, the West Indies and northern South America; also the Galápagos",
+  "regions": [
+   "North America",
+   "Central America",
+   "Caribbean",
+   "South America"
+  ],
+  "biomes": [
+   "Freshwater marsh",
+   "Lakes and rivers",
+   "Salt marsh",
+   "Mangrove"
+  ],
+  "abilities": [
+   "Specialised neck vertebrae allow a sudden, spring-loaded strike",
+   "Hunts by day and night, aided by many rod cells in its eyes",
+   "Nests colonially in heronries that can hold hundreds of nests high in trees",
+   "Swallows prey up to large fish, rodents and even small birds"
+  ],
+  "animal": {
+   "diet": "Fish, frogs, crayfish, rodents, snakes, insects",
+   "habitat": "Almost any shallow fresh or salt water",
+   "lifespan": "Banding record about 24 years",
+   "size": "97–137 cm; wingspan 167–201 cm; 2.1–2.5 kg",
+   "behaviour": "An all-white form, the 'Great White Heron', lives in the Florida Keys and Caribbean.",
+   "fieldMarks": [
+    "Tall, blue-grey heron with a long neck and dagger-like yellow bill",
+    "White face with a black stripe extending into head plumes",
+    "Rufous thighs and edge of the wing",
+    "Flies with slow wingbeats, neck folded in an S, legs trailing"
+   ],
+   "voice": "A deep, harsh croak 'frahnk' when disturbed; bill-clattering at colonies.",
+   "lookalikes": "Sandhill Crane flies with neck outstretched and has a red crown. Grey Heron (Eurasia) lacks rufous thighs. Little Blue Heron is much smaller and darker. White form vs Great Egret: Great Egret has black legs and is slimmer.",
+   "whereToSee": "Wetlands throughout North America — e.g. the Everglades, Chesapeake Bay, San Francisco Bay, Pacific Northwest heronries.",
+   "season": "Resident in much of the US; northern birds migrate south in winter",
+   "order": "Pelecaniformes"
+  },
+  "iucn": "LC",
+  "historicalNames": [
+   "Ardea herodias",
+   "Blue Heron",
+   "Crane (colonial American usage)"
+  ],
+  "funFact": "Despite standing over a metre tall, it typically weighs only about 2–2.5 kg, thanks to hollow bones."
+ },
+ {
+  "slug": "platalea-ajaja",
+  "scientific": "Platalea ajaja",
+  "common": "Roseate spoonbill",
+  "otherNames": [
+   "Espátula rosada (Spanish)",
+   "Colhereiro (Portuguese)",
+   "Ajajá (Tupi / Guaraní)",
+   "Spatule rosée (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Threskiornithidae",
+  "shelves": [
+   "freshwater"
+  ],
+  "summary": "A bright pink wader with a flat, spoon-shaped bill that it sweeps side to side through shallow water to feel for prey. Its colour comes from carotenoid pigments in the crustaceans it eats.",
+  "nativeRange": "Gulf coasts of the US (Florida, Louisiana, Texas), the Caribbean, and Central and South America to Argentina",
+  "regions": [
+   "North America",
+   "Central America",
+   "Caribbean",
+   "South America"
+  ],
+  "biomes": [
+   "Mangrove",
+   "Coastal lagoons",
+   "Freshwater marsh",
+   "Tropical wetlands"
+  ],
+  "abilities": [
+   "Catches prey by touch: nerve endings in the bill snap it shut on contact",
+   "Turns pink from canthaxanthin and other carotenoids in shrimp and crabs",
+   "Nests colonially in mangroves and trees with herons and ibises"
+  ],
+  "animal": {
+   "diet": "Small fish, shrimp, crayfish, aquatic insects",
+   "habitat": "Shallow coastal and freshwater wetlands, mangroves and mudflats",
+   "size": "71–86 cm; wingspan 120–133 cm; 1.2–1.8 kg",
+   "behaviour": "Feeding groups wade in lines, sweeping their bills in unison.",
+   "fieldMarks": [
+    "Pink body, deeper red on the shoulders and rump",
+    "Long, flat bill widening into a spatulate 'spoon'",
+    "Bare greenish head in adults",
+    "Orange tail and red legs; flies with neck outstretched"
+   ],
+   "voice": "Mostly silent; low grunts and croaks at nesting colonies.",
+   "lookalikes": "American Flamingo has a very long neck and a bent, downturned bill. Scarlet Ibis is uniformly scarlet with a decurved bill.",
+   "whereToSee": "J. N. 'Ding' Darling NWR (Sanibel, Florida), the Everglades, the Texas coast, the Pantanal and the Venezuelan Llanos.",
+   "season": "Resident in Florida and the tropics; post-breeding wanderers move north in summer",
+   "order": "Pelecaniformes"
+  },
+  "iucn": "LC",
+  "lore": "In the 19th century spoonbill wings were sold in Florida as fans, and plume hunting nearly wiped out the US population before protections such as the 1918 Migratory Bird Treaty Act.",
+  "historicalNames": [
+   "Platalea",
+   "Spoon-bill"
+  ],
+  "funFact": "The name ajaja is from a Tupi–Guaraní name for the bird, recorded by early naturalists in Brazil."
+ },
+ {
+  "slug": "eudocimus-ruber",
+  "scientific": "Eudocimus ruber",
+  "common": "Scarlet ibis",
+  "otherNames": [
+   "Guará (Portuguese, from Tupi)",
+   "Corocoro rojo (Spanish, Venezuela)",
+   "Ibis rouge (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Threskiornithidae",
+  "shelves": [
+   "freshwater",
+   "sacred"
+  ],
+  "summary": "An intensely scarlet ibis of South American mangroves and mudflats whose colour comes from carotenoids in its crab and shrimp diet. At dusk, flocks returning to roost in Trinidad's Caroni Swamp turn the mangroves red.",
+  "nativeRange": "Northern coasts of South America from Colombia and Venezuela through the Guianas to north-eastern Brazil; Trinidad and Tobago",
+  "regions": [
+   "South America",
+   "Caribbean"
+  ],
+  "biomes": [
+   "Mangrove",
+   "Mudflats",
+   "Coastal lagoons",
+   "Llanos wetlands"
+  ],
+  "abilities": [
+   "Probes mud with a long decurved bill to find crabs and molluscs by touch",
+   "Gathers in roosts of thousands in mangrove islands",
+   "Hybridises with the American White Ibis where they meet in Venezuela"
+  ],
+  "animal": {
+   "diet": "Crabs, shrimp, molluscs, insects and small fish",
+   "habitat": "Mangroves, tidal mudflats, estuaries and flooded savanna",
+   "size": "55–63 cm; wingspan 90–100 cm",
+   "behaviour": "Young birds are grey-brown and white and gradually turn scarlet over their first two years.",
+   "fieldMarks": [
+    "Entirely scarlet plumage",
+    "Black tips to the outer primaries",
+    "Long, decurved, dark-reddish bill",
+    "Flies with neck outstretched in lines or V-formations"
+   ],
+   "voice": "Generally quiet; hoarse, nasal honks and grunts in flocks.",
+   "lookalikes": "Roseate Spoonbill is pink with a flat spoon bill. American Flamingo is far larger with a long neck. White Ibis is white with black wingtips.",
+   "whereToSee": "Caroni Swamp, Trinidad (dusk boat tours); the Venezuelan Llanos; coastal Amapá and Maranhão, Brazil.",
+   "season": "Resident year-round",
+   "order": "Pelecaniformes"
+  },
+  "iucn": "LC",
+  "lore": "The Tupinambá of coastal Brazil made ceremonial feather mantles from guará plumes; one held in Copenhagen's National Museum since the 17th century was returned to Brazil in 2024. It is the national bird of Trinidad and Tobago.",
+  "funFact": "Captive scarlet ibises fade to pink unless their food contains carotenoids."
+ },
+ {
+  "slug": "spheniscus-humboldti",
+  "scientific": "Spheniscus humboldti",
+  "common": "Humboldt penguin",
+  "otherNames": [
+   "Pingüino de Humboldt (Spanish)",
+   "Pájaro niño (Spanish, Peru & Chile)",
+   "Manchot de Humboldt (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Spheniscidae",
+  "shelves": [
+   "ocean",
+   "endangered"
+  ],
+  "summary": "A medium-sized penguin of the desert coasts of Peru and Chile, living on the cold, fish-rich Humboldt Current. It once nested in burrows dug into guano deposits metres deep, until 19th-century guano mining stripped them away.",
+  "nativeRange": "Pacific coasts and offshore islands of Peru and Chile",
+  "regions": [
+   "South America",
+   "Pacific Ocean"
+  ],
+  "biomes": [
+   "Rocky coast",
+   "Desert islands",
+   "Cold upwelling sea"
+  ],
+  "abilities": [
+   "Thrives on a hot desert coast thanks to bare facial skin that sheds heat",
+   "Dives repeatedly to catch anchovies and sardines in cold upwelling water",
+   "Nests in burrows, caves and crevices to protect eggs from sun"
+  ],
+  "animal": {
+   "diet": "Anchoveta, sardines, other small fish and squid",
+   "habitat": "Rocky coasts and islands near the Humboldt Current",
+   "lifespan": "About 15–20 years in the wild; over 30 in captivity",
+   "size": "56–70 cm; 3.6–5.9 kg",
+   "behaviour": "Breeding often fails in strong El Niño years, when warm water drives fish away.",
+   "fieldMarks": [
+    "Black back and white front with a single broad black band across the breast",
+    "White C-shaped band from the eye around the cheeks to the throat",
+    "Pink bare skin at the base of the black bill",
+    "Black spots scattered on the white belly"
+   ],
+   "voice": "Loud, donkey-like braying calls at colonies.",
+   "lookalikes": "Magellanic Penguin (overlaps in central Chile) has two black breast bands. Galápagos Penguin is smaller with a thinner face stripe and lives only on the Galápagos.",
+   "whereToSee": "Islas Ballestas (Paracas, Peru), Punta San Juan (Peru), and the Humboldt Penguin National Reserve with Isla Damas and Isla Choros (Chile).",
+   "season": "Resident year-round",
+   "order": "Sphenisciformes"
+  },
+  "iucn": "VU",
+  "lore": "It is named after Alexander von Humboldt, whose name also labels the cold ocean current on which it depends; the guano it nests in was exported as fertiliser in the Peruvian 'Guano Age' of the mid-1800s.",
+  "funFact": "Its Spanish nickname 'pájaro niño', 'child bird', comes from its upright, toddling walk."
+ },
+ {
+  "slug": "gavia-immer",
+  "scientific": "Gavia immer",
+  "common": "Common loon",
+  "otherNames": [
+   "Maang (Ojibwe)",
+   "Huard à collier (French)",
+   "Colimbo mayor (Spanish)",
+   "Great northern diver (British English)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Gaviidae",
+  "shelves": [
+   "freshwater",
+   "migrant",
+   "songbird"
+  ],
+  "summary": "A heavy, dagger-billed diving bird of northern lakes whose wailing and yodelling calls are the signature sound of the North Woods. Its legs are set so far back that it can barely walk on land.",
+  "nativeRange": "Breeds across Alaska, Canada, the northern US, Greenland and Iceland; winters on Atlantic and Pacific coasts of North America and western Europe",
+  "regions": [
+   "North America",
+   "Arctic",
+   "Europe",
+   "Atlantic Ocean",
+   "Pacific Ocean"
+  ],
+  "biomes": [
+   "Boreal lakes",
+   "Coastal seas (winter)"
+  ],
+  "abilities": [
+   "Dives to about 60 m and stays under for up to a minute or more",
+   "Has dense, mostly solid bones that reduce buoyancy",
+   "Needs a runway of 30 m to several hundred metres of water to take off",
+   "Each male has a distinctive yodel that changes if he moves to a new territory"
+  ],
+  "animal": {
+   "diet": "Fish such as perch and suckers; crayfish and other invertebrates",
+   "habitat": "Clear northern lakes with fish and islands for nesting; ocean bays in winter",
+   "lifespan": "Often 20–30 years",
+   "size": "66–91 cm; wingspan 104–131 cm; 2.2–7.6 kg",
+   "behaviour": "Chicks ride on their parents' backs for their first weeks.",
+   "fieldMarks": [
+    "Breeding: black head with green gloss, red eye and dagger-like black bill",
+    "Breeding: white-striped necklace and checkerboard black-and-white back",
+    "Winter: grey-brown above, white throat, pale bill",
+    "Sits low in the water; in flight shows hunched back and feet trailing past the tail"
+   ],
+   "voice": "A haunting wail, a quavering tremolo ('crazy laughter'), the male's rising yodel, and a soft hoot.",
+   "lookalikes": "Yellow-billed Loon has a pale, upturned bill. Pacific Loon is smaller with a grey nape and rounded head. Double-crested Cormorant has a hooked bill and swims with head tilted up.",
+   "whereToSee": "Lakes of Minnesota (Boundary Waters), Maine, the Adirondacks, Ontario's Algonquin Park; Atlantic and Pacific coasts in winter.",
+   "season": "On breeding lakes Apr–Oct; on coasts Nov–Apr",
+   "order": "Gaviiformes"
+  },
+  "iucn": "LC",
+  "lore": "Canada's one-dollar coin, introduced in 1987, carries a loon and is universally called the 'loonie'; in Ojibwe tradition the loon (maang) is a leadership clan, and it is Minnesota's state bird.",
+  "historicalNames": [
+   "Great Northern Diver",
+   "Colymbus immer",
+   "Loom"
+  ],
+  "funFact": "Loons have been shown to change their yodel when they move territories, apparently to sound unlike the previous owner."
+ },
+ {
+  "slug": "charadrius-melodus",
+  "scientific": "Charadrius melodus",
+  "common": "Piping plover",
+  "otherNames": [
+   "Chorlo chiflador (Spanish)",
+   "Pluvier siffleur (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Charadriidae",
+  "shelves": [
+   "migrant"
+  ],
+  "summary": "A small, sand-coloured plover that nests on open beaches and lakeshores, where its eggs are almost invisible. Beach development and disturbance made it a flagship of shorebird conservation, with nests now fenced and patrolled across its range.",
+  "nativeRange": "Breeds on the Atlantic coast from Newfoundland to North Carolina, around the Great Lakes, and on the northern Great Plains; winters on the south Atlantic and Gulf coasts, the Bahamas, the Caribbean and Mexico",
+  "regions": [
+   "North America",
+   "Caribbean",
+   "Central America"
+  ],
+  "biomes": [
+   "Sandy beaches",
+   "Lakeshores",
+   "Alkali wetlands",
+   "River sandbars"
+  ],
+  "abilities": [
+   "Eggs and chicks are camouflaged against pale sand",
+   "Adults perform broken-wing displays to lure predators from nests",
+   "Chicks feed themselves within hours of hatching",
+   "Foot-trembles on wet sand to startle invertebrates"
+  ],
+  "animal": {
+   "diet": "Marine worms, insects, small crustaceans and molluscs",
+   "habitat": "Open sandy beaches, sandbars and alkali flats with sparse vegetation",
+   "lifespan": "Up to about 11 years",
+   "size": "17–18 cm; 43–63 g",
+   "behaviour": "It runs in short bursts and stops abruptly, typical of plovers.",
+   "fieldMarks": [
+    "Pale, dry-sand upperparts — paler than any other North American ringed plover",
+    "Bright orange legs",
+    "Breeding: short orange bill with a black tip, single black breast band and black forehead bar",
+    "Winter: bill all dark, breast band faint or partial"
+   ],
+   "voice": "A soft, clear, whistled 'peep-lo' or 'peep', like a piped note.",
+   "lookalikes": "Semipalmated Plover has a dark mud-brown back. Snowy Plover has dark legs and a thin black bill. Wilson's Plover has a heavy black bill and pinkish legs.",
+   "whereToSee": "Cape Cod and Long Island beaches, Sleeping Bear Dunes (Michigan), Chicago's Montrose Beach, and Gulf coast beaches of Texas and Florida in winter.",
+   "season": "Breeding grounds Apr–Aug; winter coasts Aug–Apr",
+   "order": "Charadriiformes"
+  },
+  "iucn": "NT",
+  "lore": "Two Great Lakes piping plovers named Monty and Rose nested on Chicago's Montrose Beach from 2019, the first in the city in decades, and became local celebrities.",
+  "funFact": "The Great Lakes population fell to fewer than 20 pairs in the 1980s before intensive protection helped it grow again."
+ },
+ {
+  "slug": "phoenicopterus-ruber",
+  "scientific": "Phoenicopterus ruber",
+  "common": "American flamingo",
+  "otherNames": [
+   "Flamenco americano (Spanish)",
+   "Flamenco del Caribe (Spanish)",
+   "Flamant des Caraïbes (French)",
+   "Chogogo (Papiamento)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Phoenicopteridae",
+  "shelves": [
+   "freshwater",
+   "marvel"
+  ],
+  "summary": "The most vividly coloured flamingo, a deep coral-pink bird that filters shrimp and algae from salty lagoons with its head upside-down. It is the national bird of the Bahamas.",
+  "nativeRange": "The Caribbean (Bahamas, Cuba, Hispaniola, Bonaire), Yucatán Peninsula, northern coast of South America and the Galápagos; increasingly seen in Florida",
+  "regions": [
+   "Caribbean",
+   "North America",
+   "Central America",
+   "South America"
+  ],
+  "biomes": [
+   "Saline lagoons",
+   "Mangrove",
+   "Mudflats",
+   "Salt pans"
+  ],
+  "abilities": [
+   "Filter-feeds with a bent bill held upside-down, pumping water through comb-like lamellae with its tongue",
+   "Gets its colour from carotenoid pigments in brine shrimp and algae",
+   "Stands on one leg with little or no muscular effort, using passive locking of the joints",
+   "Builds mud-mound nests in dense colonies"
+  ],
+  "animal": {
+   "diet": "Brine shrimp, small molluscs, insect larvae, algae and seeds",
+   "habitat": "Shallow saline and brackish lagoons, salt pans and estuaries",
+   "lifespan": "Over 40 years",
+   "size": "120–145 cm; 2.2–2.8 kg",
+   "behaviour": "Flocks perform synchronised 'marching' displays — head-flagging and wing salutes — that stimulate breeding.",
+   "fieldMarks": [
+    "Deep pink-orange body, brighter than other flamingos",
+    "Pale pink bill with the outer third black, sharply bent downward",
+    "Very long pink legs and neck",
+    "In flight, black flight feathers contrast with pink-red wing coverts"
+   ],
+   "voice": "Goose-like honking, given constantly in flocks.",
+   "lookalikes": "Greater Flamingo (Old World) is paler pink with a pink bill with less black. Chilean Flamingo has grey legs with pink 'knees'. Roseate Spoonbill has a flat bill and short neck.",
+   "whereToSee": "Inagua National Park (Bahamas), Ría Celestún and Ría Lagartos (Yucatán), Bonaire's salt pans, Galápagos lagoons; Florida Bay and the Everglades.",
+   "season": "Resident year-round; Yucatán flocks largest Nov–Mar at Celestún",
+   "order": "Phoenicopteriformes"
+  },
+  "iucn": "LC",
+  "lore": "John James Audubon's life-size plate of the American Flamingo, bent to fit the page, is one of the best-known images in The Birds of America (1827–38); Mark Catesby painted it a century earlier in the Bahamas.",
+  "historicalNames": [
+   "Flamingo",
+   "Phoenicopterus",
+   "Phenicopterus"
+  ],
+  "funFact": "After Hurricane Idalia in 2023, dozens of American flamingos were blown north and seen across Florida and as far north as Ohio and Wisconsin."
+ },
+ {
+  "slug": "anodorhynchus-hyacinthinus",
+  "scientific": "Anodorhynchus hyacinthinus",
+  "common": "Hyacinth macaw",
+  "otherNames": [
+   "Arara-azul-grande (Portuguese)",
+   "Guacamayo jacinto (Spanish)",
+   "Ara hyacinthe (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Psittacidae",
+  "shelves": [
+   "endangered",
+   "marvel"
+  ],
+  "summary": "The largest flying parrot by length, about a metre from bill to tail, in deep cobalt blue. Its bill cracks palm nuts too hard for almost any other animal, and it was trapped heavily for the pet trade in the 1980s.",
+  "nativeRange": "Pantanal of Brazil, Bolivia and Paraguay; the Cerrado of interior Brazil; and parts of eastern Amazonia (Pará)",
+  "regions": [
+   "South America"
+  ],
+  "biomes": [
+   "Seasonally flooded savanna (Pantanal)",
+   "Cerrado",
+   "Palm groves",
+   "Gallery forest"
+  ],
+  "abilities": [
+   "Cracks extremely hard palm nuts, chiefly acuri (Attalea phalerata) and bocaiúva (Acrocomia aculeata)",
+   "Picks palm nuts out of cattle dung, after the cattle have digested the pulp",
+   "Uses a 'file' — ridges inside the upper bill — to grip nuts while cracking",
+   "Depends on large tree cavities, especially in the manduvi tree (Sterculia apetala), for nesting"
+  ],
+  "animal": {
+   "diet": "Palm nuts almost exclusively; some fruit",
+   "habitat": "Open palm savanna and wooded wetlands with large nesting trees",
+   "lifespan": "50 years or more in captivity",
+   "size": "95–100 cm; 1.2–1.7 kg",
+   "behaviour": "Nest boxes and protected nest trees in the Pantanal, through the Instituto Arara Azul led by Neiva Guedes since 1990, have helped the population recover.",
+   "fieldMarks": [
+    "Entirely cobalt-blue plumage",
+    "Bright yellow eye-ring and yellow crescent of bare skin at the base of the lower mandible",
+    "Huge, dark grey-black hooked bill",
+    "Very long, tapering tail"
+   ],
+   "voice": "Deep, rasping, guttural screeches 'graaa-aah', audible from far away.",
+   "lookalikes": "Lear's Macaw (north-eastern Bahia only) is smaller, with a greenish tinge and a larger, paler yellow facial patch. Glaucous Macaw, paler and greyer, is probably extinct.",
+   "whereToSee": "The Pantanal of Mato Grosso do Sul and Mato Grosso, e.g. Refúgio Ecológico Caiman and lodges along the Transpantaneira.",
+   "season": "Resident year-round",
+   "order": "Psittaciformes"
+  },
+  "iucn": "VU",
+  "lore": "In the 1980s an estimated 10,000 hyacinth macaws were taken from the wild for the pet trade; it is now listed on CITES Appendix I.",
+  "funFact": "In the Pantanal about 90% of its nests are in manduvi trees — and the Toco Toucan, which spreads manduvi seeds, is also one of its main egg predators."
+ },
+ {
+  "slug": "amazona-vittata",
+  "scientific": "Amazona vittata",
+  "common": "Puerto Rican amazon",
+  "otherNames": [
+   "Iguaca (Taíno)",
+   "Cotorra puertorriqueña (Spanish)",
+   "Puerto Rican parrot (English)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Psittacidae",
+  "shelves": [
+   "endangered"
+  ],
+  "summary": "Puerto Rico's only surviving native parrot, a green amazon with a red forehead that fell to just 13 wild birds in 1975. Captive breeding and releases have kept it alive, though hurricanes repeatedly set back the wild flocks.",
+  "nativeRange": "Endemic to Puerto Rico (formerly also Culebra and Vieques); wild populations now in El Yunque, Río Abajo and Maricao",
+  "regions": [
+   "Caribbean"
+  ],
+  "biomes": [
+   "Tropical montane rainforest",
+   "Karst forest"
+  ],
+  "abilities": [
+   "Nests in deep natural tree cavities, especially in old palo colorado trees",
+   "Gives loud flight calls that keep pairs and flocks in contact over forest",
+   "Feeds on more than 50 kinds of native fruits, seeds and flowers"
+  ],
+  "animal": {
+   "diet": "Fruits, seeds, flowers and leaves of native forest trees",
+   "habitat": "Humid upland forest and limestone karst forest",
+   "size": "About 30 cm; 250–300 g",
+   "behaviour": "Pairs stay together year-round and fly side by side, wings almost touching.",
+   "fieldMarks": [
+    "Bright green plumage with darker scaling",
+    "Narrow red band across the forehead",
+    "Broad white eye-ring",
+    "Vivid blue primaries visible in flight"
+   ],
+   "voice": "A loud, bugling squawk; its Taíno name iguaca imitates the call.",
+   "lookalikes": "Hispaniolan Amazon (introduced and established in Puerto Rico) is larger, with a white forehead and a maroon belly patch. Escaped pet parrots also occur in San Juan.",
+   "whereToSee": "Río Abajo State Forest near Arecibo and El Yunque National Forest; the Iguaca Aviary and Río Abajo aviary run breeding programmes.",
+   "season": "Resident year-round",
+   "order": "Psittaciformes"
+  },
+  "iucn": "CR",
+  "lore": "Columbus's expeditions found abundant parrots on Puerto Rico, where the Taíno called them iguaca; deforestation reduced a population once estimated at around a million to a handful by the 1970s.",
+  "funFact": "Hurricane Maria in 2017 wiped out most of the wild El Yunque flock, but birds in the Río Abajo population largely survived."
+ },
+ {
+  "slug": "priotelus-temnurus",
+  "scientific": "Priotelus temnurus",
+  "common": "Cuban trogon",
+  "otherNames": [
+   "Tocororo (Spanish, Cuba)",
+   "Guatini (Taíno)",
+   "Trogon de Cuba (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Trogonidae",
+  "shelves": [
+   "sacred"
+  ],
+  "summary": "Cuba's national bird, whose red belly, white chest and blue crown echo the colours of the Cuban flag. Its name tocororo imitates its repeated call.",
+  "nativeRange": "Endemic to Cuba, including Isla de la Juventud",
+  "regions": [
+   "Caribbean"
+  ],
+  "biomes": [
+   "Tropical dry forest",
+   "Montane forest",
+   "Pine forest"
+  ],
+  "abilities": [
+   "Sallies from a perch to pluck fruit and insects in hovering flight",
+   "Nests in old woodpecker holes and natural cavities",
+   "Unusual among trogons for its notched, ragged-edged tail feathers"
+  ],
+  "animal": {
+   "diet": "Flowers, fruit and insects",
+   "habitat": "Shady forest of all types, from lowlands to mountains",
+   "size": "25–28 cm",
+   "behaviour": "Like other trogons it sits motionless for long periods, making it easy to overlook until it calls.",
+   "fieldMarks": [
+    "Blue-violet crown and bright green back",
+    "White throat and breast; bright red belly",
+    "Long tail with uniquely notched, flared feather tips; white spotting beneath",
+    "Wings barred black and white"
+   ],
+   "voice": "A repeated, hollow 'to-co-ro, to-co-ro', and a low 'cucuu'.",
+   "lookalikes": "No other trogon occurs in Cuba; Hispaniolan Trogon lives only on Hispaniola.",
+   "whereToSee": "Zapata Swamp (Ciénaga de Zapata), Viñales, Topes de Collantes and the Sierra Maestra.",
+   "season": "Resident year-round",
+   "order": "Trogoniformes"
+  },
+  "iucn": "LC",
+  "lore": "Cuban tradition holds that the tocororo cannot survive in a cage — a symbol of a people's love of liberty, which helped make it the national bird.",
+  "funFact": "Its genus name Priotelus comes from Greek for 'saw' and 'end', for the jagged tips of its tail feathers."
+ },
+ {
+  "slug": "eumomota-superciliosa",
+  "scientific": "Eumomota superciliosa",
+  "common": "Turquoise-browed motmot",
+  "otherNames": [
+   "Torogoz (Spanish, El Salvador)",
+   "Guardabarranco (Spanish, Nicaragua)",
+   "Pájaro reloj (Spanish, Yucatán)",
+   "Motmot à sourcils bleus (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Momotidae",
+  "shelves": [
+   "sacred"
+  ],
+  "summary": "A colourful motmot with a long tail ending in two bare-shafted 'rackets' that it swings like a pendulum. It is the national bird of both El Salvador and Nicaragua.",
+  "nativeRange": "South-eastern Mexico (including the Yucatán Peninsula) through Guatemala, Belize, El Salvador, Honduras and Nicaragua to north-western Costa Rica",
+  "regions": [
+   "Central America",
+   "North America"
+  ],
+  "biomes": [
+   "Tropical dry forest",
+   "Forest edge",
+   "Scrub",
+   "Farmland"
+  ],
+  "abilities": [
+   "Its tail rackets form when weakly attached barbs near the tips fall off during preening and wear",
+   "Wags its tail in a pendulum display aimed at predators — a signal that it has seen them",
+   "Digs long nesting tunnels in earth banks, quarries, wells and Maya ruins"
+  ],
+  "animal": {
+   "diet": "Large insects, spiders, small lizards and frogs; some fruit",
+   "habitat": "Open dry forest, edges, gardens, riverbanks and cenotes",
+   "size": "About 34 cm including tail; 65 g",
+   "behaviour": "It often nests colonially in the walls of Yucatán cenotes and limestone sinkholes.",
+   "fieldMarks": [
+    "Long tail with bare shafts ending in blue-and-black rackets",
+    "Bright turquoise eyebrow stripe above a black mask",
+    "Black throat stripe edged with turquoise",
+    "Rufous back and belly; blue-green wings"
+   ],
+   "voice": "A low, hollow, croaking 'kwaa' or 'cowak', often at dawn.",
+   "lookalikes": "Lesson's Motmot has a blue crown ring around a black cap and a green body. Russet-crowned Motmot has a rufous crown.",
+   "whereToSee": "Cenotes and Maya sites of the Yucatán such as Ek Balam and Cobá, Guanacaste (Costa Rica), and dry forests of El Salvador and Nicaragua.",
+   "season": "Resident year-round",
+   "order": "Coraciiformes"
+  },
+  "iucn": "LC",
+  "lore": "El Salvador's torogoz and Nicaragua's guardabarranco ('ravine guardian') are both this species; its pendulum-like tail earned it the Yucatán name pájaro reloj, 'clock bird'.",
+  "funFact": "It is a 'pursuit-deterrent' signaller: tail-wagging tells predators they have been spotted and a chase is pointless."
+ },
+ {
+  "slug": "meleagris-gallopavo",
+  "scientific": "Meleagris gallopavo",
+  "common": "Wild turkey",
+  "otherNames": [
+   "Guajolote (Spanish, Mexico, from Nahuatl)",
+   "Huehxōlōtl (Nahuatl, male turkey)",
+   "Pavo (Spanish)",
+   "Dindon sauvage (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Phasianidae",
+  "shelves": [
+   "edible",
+   "sacred"
+  ],
+  "summary": "North America's largest gamebird and the wild ancestor of the domestic turkey, first domesticated in Mesoamerica over 2,000 years ago. Hunted to near-extinction by the early 1900s, it now numbers in the millions.",
+  "nativeRange": "Much of the United States, southern Canada and northern Mexico; introduced elsewhere, including Hawaii and New Zealand",
+  "regions": [
+   "North America"
+  ],
+  "biomes": [
+   "Deciduous forest",
+   "Open woodland",
+   "Farmland",
+   "Grassland edge"
+  ],
+  "abilities": [
+   "Domesticated independently in Mesoamerica and by Ancestral Puebloans in the American Southwest",
+   "Can burst into flight and roosts high in trees at night",
+   "Males gobble to attract females; calls carry over a kilometre",
+   "Bare head and neck change colour from red to white and blue with excitement"
+  ],
+  "animal": {
+   "diet": "Acorns, nuts, seeds, berries, insects and small reptiles",
+   "habitat": "Mixed forest with clearings, oak woods, farm edges, and increasingly suburbs",
+   "lifespan": "Usually 3–5 years in the wild; records over 13",
+   "size": "Males 100–125 cm and 5–11 kg; females much smaller",
+   "behaviour": "Males strut in spring with tails fanned, wings dragged and feathers puffed.",
+   "fieldMarks": [
+    "Very large, dark, iridescent bronze-green plumage",
+    "Bare blue-and-red head with a fleshy snood over the bill and wattles at the throat",
+    "Males carry a hair-like 'beard' on the breast and leg spurs",
+    "Tail tipped rusty or buff (varies by subspecies), fanned in display"
+   ],
+   "voice": "Males' rolling gobble; also yelps, clucks, purrs and a sharp 'putt' alarm.",
+   "lookalikes": "Ocellated Turkey (Yucatán) has a blue head with orange knobs and eyespots on the tail. Domestic turkeys are usually white or patchy and heavier.",
+   "whereToSee": "Open woods and field edges across the eastern US; often seen in suburbs and along rural roads.",
+   "season": "Resident year-round; gobbling peaks Mar–May",
+   "order": "Galliformes"
+  },
+  "iucn": "LC",
+  "lore": "In a 1784 letter to his daughter, Benjamin Franklin called the Bald Eagle 'a Bird of bad moral Character' and the turkey 'a much more respectable Bird'; for the Aztecs turkeys were important ritual and food animals, associated with the god Tezcatlipoca in the form Chalchiuhtotolin.",
+  "historicalNames": [
+   "Gallopavo",
+   "Indian fowl",
+   "Meleagris",
+   "Turkey-cock"
+  ],
+  "funFact": "Europeans called it 'turkey' because they confused it with guineafowl imported through Turkish lands."
+ },
+ {
+  "slug": "rhea-americana",
+  "scientific": "Rhea americana",
+  "common": "Greater rhea",
+  "otherNames": [
+   "Ñandú (Spanish, from Guaraní ñandu)",
+   "Ema (Portuguese)",
+   "Ñandu guasu (Guaraní)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Rheidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "The largest bird in the Americas, a flightless ratite of the pampas and savannas of South America. Males alone build the nest, incubate eggs laid by several females, and fiercely guard the chicks.",
+  "nativeRange": "Eastern and central South America: Brazil, Bolivia, Paraguay, Uruguay and Argentina; a feral population in northern Germany descends from escaped birds",
+  "regions": [
+   "South America"
+  ],
+  "biomes": [
+   "Pampas grassland",
+   "Savanna (Cerrado)",
+   "Chaco scrub",
+   "Farmland"
+  ],
+  "abilities": [
+   "Runs at up to about 60 km/h, using its wings like rudders to zigzag",
+   "One male's nest may hold dozens of eggs laid by several females",
+   "Males defend chicks aggressively, charging people and horses",
+   "Eats plants toxic or unpalatable to many grazers"
+  ],
+  "animal": {
+   "diet": "Broad-leaved plants, seeds, fruit, insects, small vertebrates",
+   "habitat": "Open grassland, savanna and farmland",
+   "lifespan": "Around 10–15 years in the wild; longer in captivity",
+   "size": "Up to about 1.5 m tall; 20–40 kg",
+   "behaviour": "Outside the breeding season rheas form flocks of 10–100, often alongside deer, guanacos or cattle.",
+   "fieldMarks": [
+    "Very large, flightless, grey-brown bird with a long neck",
+    "Black feathering at the base of the neck and upper back in males",
+    "Three forward-pointing toes",
+    "Shaggy, drooping wings covering the body"
+   ],
+   "voice": "Breeding males give a deep, booming 'nan-doo'.",
+   "lookalikes": "Lesser (Darwin's) Rhea of Patagonia and the high Andes is smaller and spotted white. There are no other large flightless birds in South America.",
+   "whereToSee": "The Pampas of Argentina and Uruguay, Emas National Park and the Pantanal (Brazil), the Chaco of Paraguay.",
+   "season": "Resident year-round",
+   "order": "Rheiformes"
+  },
+  "iucn": "NT",
+  "lore": "Guaraní and other Indigenous peoples of Brazil see a rhea constellation (Ema) in the sky near the Southern Cross; gauchos hunted it on horseback with boleadoras.",
+  "funFact": "Its genus name Rhea comes from the mother of the gods in Greek myth."
+ }
+]

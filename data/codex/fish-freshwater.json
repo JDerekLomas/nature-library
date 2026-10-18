@@ -1,0 +1,2853 @@
+[
+ {
+  "slug": "tenualosa-ilisha",
+  "scientific": "Tenualosa ilisha",
+  "common": "Hilsa shad",
+  "otherNames": [
+   "Ilish ইলিশ (Bengali)",
+   "Palla پلا (Urdu/Sindhi)",
+   "Hilsa हिल्सा (Hindi)",
+   "Ilishi (Odia)",
+   "Pulasa (Telugu, for river-run fish)",
+   "Sbour (Gulf Arabic)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Dorosomatidae",
+  "shelves": [
+   "freshwater",
+   "edible",
+   "migrant",
+   "ocean"
+  ],
+  "summary": "A silver shad of the Bay of Bengal and Arabian Sea that pushes up the Padma, Meghna, Hooghly, Godavari and Indus to spawn with the monsoon floods. Bengalis treat it as the finest fish there is, and it is Bangladesh's national fish.",
+  "nativeRange": "Northern Indian Ocean coasts from the Persian Gulf and Pakistan to Myanmar, and the large rivers that drain into them",
+  "regions": [
+   "South Asia",
+   "Southeast Asia",
+   "West Asia",
+   "Indian Ocean"
+  ],
+  "biomes": [
+   "Coastal waters",
+   "Estuaries",
+   "Large rivers"
+  ],
+  "abilities": [
+   "Anadromous: grows at sea and in estuaries, then migrates hundreds of kilometres upriver to spawn in fresh water",
+   "Filter-feeds on plankton with fine gill rakers",
+   "Spawns in huge numbers around the full and new moons of the monsoon season, releasing free-floating eggs that drift downstream",
+   "Fat content of the flesh rises with the upriver run, which is why river-caught hilsa is prized above sea-caught fish"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "flesh",
+   "roe"
+  ],
+  "edibilityNote": "Rich, oily and full of fine intramuscular bones, so eat it slowly. Always eaten cooked in South Asia (bhapa, shorshe ilish, smoked palla). Bangladesh bans hilsa fishing for about three weeks around the October spawning peak and bans catching juveniles (jatka) for months each year. Avoid buying jatka.",
+  "animal": {
+   "diet": "Plankton: diatoms, algae, copepods and other small crustaceans",
+   "habitat": "Coastal seas and estuaries; large turbid rivers during the spawning run",
+   "lifespan": "About 4–5 years",
+   "size": "Usually 30–45 cm; up to about 60 cm and 2.5 kg",
+   "behaviour": "Shoals move upriver on the monsoon floods and spawn in the main channels. The young (jatka) drift back down to the estuaries and sea to grow.",
+   "fieldMarks": [
+    "Deep, laterally compressed silver body with a bluish-green back",
+    "No visible lateral line, and a sharp saw-edged keel of scutes along the belly",
+    "A dark blotch just behind the gill cover, often followed by a row of fainter spots in young fish",
+    "A distinct notch in the middle of the upper jaw",
+    "Deeply forked tail"
+   ],
+   "lookalikes": "The Indian river shad (Gudusia chapra) is similar but rarely over 20 cm. The kelee shad (Hilsa kelee) is mostly marine and has a row of dark spots along the flank in adults as well as young. Large mature hilsa is unmistakable in South Asian markets.",
+   "whereToSee": "The Padma–Meghna confluence at Chandpur and the Meghna estuary (Bangladesh); fish markets of Kolkata and Dhaka during the monsoon; the lower Indus below Kotri Barrage near Hyderabad, Sindh",
+   "season": "Main upriver spawning run July–October, peaking at the full moon of Bengali Ashwin (usually October); a smaller run January–March",
+   "order": "Clupeiformes"
+  },
+  "iucn": "LC",
+  "lore": "In Sindh the palla is linked to the shrine of Khwaja Khizr on Bukkur island near Sukkur: folklore says the fish swim upriver to pay homage and turn back facing the shrine. Bengali Hindus offer a pair of hilsa at Saraswati Puja and in weddings, and the fish is a long-running theme of Bengali cooking and poetry.",
+  "funFact": "Bangladesh lands most of the world's hilsa catch. Its seasonal fishing bans, together with food aid for fishing families during the bans, are credited with more than doubling the national catch since the early 2000s."
+ },
+ {
+  "slug": "tor-putitora",
+  "scientific": "Tor putitora",
+  "common": "Golden mahseer",
+  "otherNames": [
+   "Mahasher مہاشیر (Urdu/Punjabi)",
+   "Mahseer महसीर (Hindi)",
+   "Sahar (Nepali)",
+   "Tor (Assamese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Cyprinidae",
+  "shelves": [
+   "freshwater",
+   "edible",
+   "migrant",
+   "endangered",
+   "sacred"
+  ],
+  "summary": "A huge, golden-scaled barb of fast Himalayan rivers, called the 'tiger of the water' by anglers. It is Pakistan's national fish, and dams and overfishing have pushed it to Endangered.",
+  "nativeRange": "Himalayan and sub-Himalayan rivers of Pakistan, India, Nepal, Bhutan, Bangladesh and northern Myanmar (Indus, Ganges and Brahmaputra basins)",
+  "regions": [
+   "South Asia",
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Mountain rivers",
+   "Rocky rapids",
+   "Foothill lakes"
+  ],
+  "abilities": [
+   "Migrates upstream into cool tributaries to spawn during the monsoon and drops back to lower, warmer reaches in winter",
+   "Holds station in powerful rapids with a thick, muscular body and large scales",
+   "Eats almost anything: algae, fruit that falls into the water, insects, crabs and smaller fish",
+   "Grows very large: historical fish reportedly reached over 2 m and about 50 kg"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "flesh"
+  ],
+  "edibilityNote": "Traditionally eaten across its range, but it is Endangered and protected or catch-and-release only in many waters. Eating wild mahseer is discouraged. Wild fish from below dams or polluted reaches may carry contaminants.",
+  "animal": {
+   "diet": "Omnivore: algae, plant matter, fallen fruit, insects, molluscs, crustaceans and fish",
+   "habitat": "Clear, fast, rocky rivers and pools in hills and foothills; also some lakes and reservoirs",
+   "lifespan": "Several decades in large fish (exact maximum not well established)",
+   "size": "Commonly 50–100 cm; historically over 2 m",
+   "behaviour": "Adults run up snow- and rain-fed tributaries to spawn on gravel during the monsoon. Large fish hunt and feed in the white water at the head of pools.",
+   "fieldMarks": [
+    "Thick, torpedo-shaped body with very large scales",
+    "Golden-bronze flanks shading to a dark back; fins often reddish-orange or golden",
+    "Two pairs of barbels and thick, fleshy, rubbery lips",
+    "Head long, with its length greater than the body depth"
+   ],
+   "lookalikes": "Other mahseers, especially the tor mahseer (Tor tor), have a deeper body, so the head is shorter than the body is deep, and they are more silvery. Indian carps such as rohu have much smaller scales and a fringed or small mouth without thick lips.",
+   "whereToSee": "Temple pools and ghats at Rishikesh and Haridwar on the Ganges; the Ramganga in Corbett National Park; the Poonch and Jhelum rivers (Pakistan/Kashmir); Manas River (Bhutan/Assam)",
+   "season": "Resident all year; spawning migrations upstream during the monsoon (roughly June–September), with some populations also breeding in spring",
+   "order": "Cypriniformes"
+  },
+  "iucn": "EN",
+  "lore": "Henry Sullivan Thomas's 'The Rod in India' (1873) made mahseer the legendary sport fish of British India. At Hindu temples and ghats, mahseer in sacred pools are fed by pilgrims and protected from fishing, which has kept some of the last large fish alive.",
+  "historicalNames": [
+   "Mahaseer",
+   "Mahasaul",
+   "Barbus putitora",
+   "Cyprinus putitora"
+  ],
+  "funFact": "One explanation for the name is Hindi 'maha-sher', meaning 'great tiger'; another traces it to 'maha-shalka', 'great-scaled'."
+ },
+ {
+  "slug": "labeo-rohita",
+  "scientific": "Labeo rohita",
+  "common": "Rohu",
+  "otherNames": [
+   "Rui রুই (Bengali)",
+   "Rohu रोहू (Hindi)",
+   "Rahu روہو (Urdu)",
+   "Dambhro (Sindhi)",
+   "Rohi (Odia)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Cyprinidae",
+  "shelves": [
+   "freshwater",
+   "edible",
+   "staple"
+  ],
+  "summary": "The best known of the 'Indian major carps' and one of the most eaten freshwater fish in South Asia. Rohu, catla and mrigal stocked together in one pond is the classic composite fish farm of India, Bangladesh and Pakistan.",
+  "nativeRange": "Rivers of northern and central India, Pakistan, Bangladesh, Nepal and Myanmar (Indus, Ganges, Brahmaputra and associated basins); widely introduced",
+  "regions": [
+   "South Asia",
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Large rivers",
+   "Floodplain lakes",
+   "Ponds and reservoirs"
+  ],
+  "abilities": [
+   "Feeds in the mid-water column, grazing algae and plant matter, so it shares ponds with surface-feeding catla and bottom-feeding mrigal",
+   "Breeds on monsoon floodplains, laying huge numbers of drifting eggs",
+   "Spawns in hatcheries after hormone injection, the method that turned Indian carps into a mass-farmed crop",
+   "Tolerates warm, turbid, low-oxygen pond water"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "flesh",
+   "head (muri ghonto)",
+   "roe"
+  ],
+  "edibilityNote": "Mild, firm flesh with many fine Y-shaped bones. Always eaten cooked. Market fish have sometimes been found treated with formalin. Buy from trusted sellers and prefer clear-eyed fish with red gills.",
+  "animal": {
+   "diet": "Herbivore: phytoplankton, algae and soft submerged plants",
+   "habitat": "Rivers, floodplain lakes, reservoirs and farm ponds",
+   "lifespan": "Up to about 10 years",
+   "size": "Commonly 45–60 cm; recorded up to about 2 m and 45 kg",
+   "behaviour": "Wild adults spawn in shallow, newly flooded margins after heavy monsoon rains, and the larvae grow up in floodplain waters.",
+   "fieldMarks": [
+    "Moderately deep, silvery body with a bluish back",
+    "Each scale with a reddish centre, so the flanks look finely red-chequered, especially in the breeding season",
+    "Fins often reddish or orange-tinged",
+    "Blunt snout with thick fringed (fimbriated) lips and one small pair of barbels",
+    "Mouth on the underside of the head"
+   ],
+   "lookalikes": "Catla has a much larger head, a wide upturned mouth and greyer colour. Mrigal is slimmer and silver with orange-tipped fins, and has thin unfringed lips. Kalbasu (Labeo calbasu) is dark grey to black.",
+   "whereToSee": "Fish markets of Kolkata, Dhaka, Lahore and Karachi; the Ganges and Padma; carp ponds across West Bengal, Andhra Pradesh and Punjab",
+   "season": "Resident year-round; spawning in the monsoon, roughly June–August",
+   "order": "Cypriniformes"
+  },
+  "iucn": "LC",
+  "lore": "In Bengali wedding custom, a large rohu decorated with turmeric and vermilion is sent to the bride's family as part of the tattwa gifts. In 1957 Hiralal Chaudhuri bred Indian carps in captivity for the first time by pituitary injection, founding the region's modern fish farming.",
+  "historicalNames": [
+   "Cyprinus rohita",
+   "Rohita"
+  ],
+  "funFact": "India celebrates National Fish Farmers' Day on 10 July, the anniversary of Hiralal Chaudhuri's first induced breeding of Indian carps."
+ },
+ {
+  "slug": "labeo-catla",
+  "scientific": "Labeo catla",
+  "common": "Catla",
+  "otherNames": [
+   "Katla কাতলা (Bengali)",
+   "Bhakur भाकुर (Hindi)",
+   "Thaila تھیلا (Urdu/Punjabi)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Cyprinidae",
+  "shelves": [
+   "freshwater",
+   "edible",
+   "staple"
+  ],
+  "summary": "The fastest-growing of the Indian major carps, a big-headed fish that feeds at the surface. It takes the top layer of South Asian polyculture ponds, while rohu feeds in mid-water and mrigal on the bottom.",
+  "nativeRange": "Rivers and lakes of northern India, Pakistan, Bangladesh, Nepal and Myanmar; introduced widely elsewhere in Asia",
+  "regions": [
+   "South Asia",
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Large rivers",
+   "Floodplain lakes",
+   "Ponds and reservoirs"
+  ],
+  "abilities": [
+   "Filters zooplankton and floating algae from surface waters with long, fine gill rakers",
+   "Can pass 1 kg in its first year in a fertilised pond",
+   "Spawns on monsoon floods; one large female carries hundreds of thousands to millions of eggs"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "flesh",
+   "head",
+   "roe"
+  ],
+  "edibilityNote": "Coarse, bony flesh, highly valued in Bengal, where the head goes into muri ghonto. Always cooked. The same formalin-adulteration caution as for rohu applies in some markets.",
+  "animal": {
+   "diet": "Mainly zooplankton, plus phytoplankton and floating plant matter",
+   "habitat": "Rivers, reservoirs, floodplain lakes and farm ponds; stays in the warm upper water",
+   "lifespan": "Around 10–12 years",
+   "size": "Commonly 50–80 cm; up to about 1.8 m and 39 kg",
+   "behaviour": "Cruises close to the surface sieving plankton, and wild fish spawn in shallow flooded river margins during the monsoon.",
+   "fieldMarks": [
+    "Very large, broad head, much bigger than in other carps",
+    "Wide, upturned mouth with a prominent lower jaw and no barbels",
+    "Deep, short body; greyish back and silvery-white flanks with large scales",
+    "Fins dusky grey"
+   ],
+   "lookalikes": "Rohu has a smaller head, a mouth on the underside with fringed lips, and reddish scale centres. Bighead carp (Hypophthalmichthys nobilis), introduced in South Asia, also has a huge head, but its eyes sit low on the head and its scales are tiny.",
+   "whereToSee": "Kolkata's wholesale fish markets; Bangladesh pond-fish markets; reservoirs of the Gangetic plain; the Indus near Sukkur",
+   "season": "Resident; breeds in the monsoon (June–August)",
+   "order": "Cypriniformes"
+  },
+  "iucn": "LC",
+  "lore": "Catla was described by Francis Buchanan-Hamilton in 'An Account of the Fishes Found in the River Ganges' (1822), the founding work of Indian ichthyology. In Bengal a catla head cooked with rice or moong dal (muri ghonto) is a classic dish for honoured guests.",
+  "historicalNames": [
+   "Cyprinus catla",
+   "Catla buchanani"
+  ],
+  "funFact": "Many references still call it Catla catla. Genetic studies showed it sits inside the genus Labeo, and the iNaturalist name follows them."
+ },
+ {
+  "slug": "cirrhinus-mrigala",
+  "scientific": "Cirrhinus mrigala",
+  "common": "Mrigal carp",
+  "otherNames": [
+   "Mrigel মৃগেল (Bengali)",
+   "Nain नैन (Hindi)",
+   "Mori موری (Punjabi/Urdu)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Cyprinidae",
+  "shelves": [
+   "freshwater",
+   "edible",
+   "staple"
+  ],
+  "summary": "The bottom-feeding member of the Indian major carp trio. It grazes the detritus and algae on the pond floor beneath rohu and catla.",
+  "nativeRange": "Rivers of northern India, Pakistan, Bangladesh and Nepal (Indus, Ganges and Brahmaputra basins); widely stocked in reservoirs and ponds",
+  "regions": [
+   "South Asia"
+  ],
+  "biomes": [
+   "Large rivers",
+   "Reservoirs",
+   "Ponds"
+  ],
+  "abilities": [
+   "Feeds on decaying organic matter and algae on the bottom, recycling nutrients that other farmed carps cannot use",
+   "Tolerates a wide range of temperatures and low water quality",
+   "Breeds readily in hatcheries after hormone injection"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "flesh"
+  ],
+  "edibilityNote": "Considered a little less tasty than rohu or catla and very bony. Always cooked. Fish from the bottom of polluted water bodies can accumulate contaminants.",
+  "animal": {
+   "diet": "Detritus, decaying plant matter, benthic algae and small invertebrates",
+   "habitat": "Lower layers of rivers, reservoirs and ponds",
+   "lifespan": "Up to about 12 years",
+   "size": "Commonly 40–60 cm; up to about 1 m and 12 kg",
+   "behaviour": "Moves in schools along the bottom sifting mud; wild fish spawn in flooded river margins during the monsoon.",
+   "fieldMarks": [
+    "Slender, streamlined silvery body with a dark grey back",
+    "Pectoral, pelvic and anal fins tipped orange-red, brighter in the breeding season",
+    "Blunt snout with thin, unfringed lips and one pair of short barbels",
+    "Eyes golden"
+   ],
+   "lookalikes": "Rohu has a deeper body, reddish scale centres and thick fringed lips. The white carp (Cirrhinus cirrhosus) of peninsular India is very similar and is told apart by details of scales and fins.",
+   "whereToSee": "Fish markets and ponds across West Bengal, Bangladesh and Punjab; reservoirs of the Gangetic plain",
+   "season": "Resident; spawns June–August with the monsoon floods",
+   "order": "Cypriniformes"
+  },
+  "iucn": "LC",
+  "lore": "Buchanan-Hamilton's 1822 account of Ganges fishes recorded mrigal under its local name. Rohu–catla–mrigal 'composite fish culture' was developed by Indian fisheries scientists from the 1960s and spread across South Asia.",
+  "historicalNames": [
+   "Cyprinus mrigala"
+  ],
+  "funFact": "Because each species feeds in a different layer, a pond stocked with catla, rohu and mrigal together gives a bigger harvest than the same pond stocked with only one of them."
+ },
+ {
+  "slug": "wallago-attu",
+  "scientific": "Wallago attu",
+  "common": "Wallago (boal)",
+  "otherNames": [
+   "Boal বোয়াল (Bengali)",
+   "Mulley ملی (Urdu/Punjabi)",
+   "Barari (Hindi)",
+   "Pla khao ปลาเค้า (Thai)",
+   "Valai (Tamil)",
+   "Tapah (Malay)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Siluridae",
+  "shelves": [
+   "freshwater",
+   "edible",
+   "endangered"
+  ],
+  "summary": "A long, fast-swimming freshwater 'shark' catfish with an enormous mouth, the top predator of South and Southeast Asian rivers. It is now Vulnerable after heavy fishing and river damage.",
+  "nativeRange": "Pakistan, India, Nepal, Bangladesh, Sri Lanka, Myanmar, Thailand, Indochina, Malaysia and Indonesia",
+  "regions": [
+   "South Asia",
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Large rivers",
+   "Lakes",
+   "Floodplain wetlands"
+  ],
+  "abilities": [
+   "Its mouth gape reaches well behind the eye, so it can swallow large fish whole",
+   "Hunts mostly at night using long barbels and a well-developed lateral-line sense",
+   "Swims fast in open water, chasing prey instead of only waiting in ambush",
+   "Grows to over 2 m"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "flesh"
+  ],
+  "edibilityNote": "Boneless, rich white flesh, popular in Bengali and Thai cooking. Always cooked. As a large, long-lived predator it can carry high mercury and other contaminants in polluted rivers. Avoid very large fish and eat it only in moderation.",
+  "animal": {
+   "diet": "Carnivore: fish, prawns, frogs and occasionally water birds",
+   "habitat": "Large rivers, lakes, reservoirs and floodplain beels",
+   "lifespan": "Not well documented; probably 10+ years",
+   "size": "Commonly 1 m; up to about 2.4 m and 45 kg",
+   "behaviour": "Mostly nocturnal; it rests in deep water by day and hunts schools of small fish at dusk. It breeds in flooded areas during the monsoon.",
+   "fieldMarks": [
+    "Long, scaleless, laterally compressed body tapering to a forked tail",
+    "Huge mouth with the gape extending behind the eye, and bands of sharp teeth",
+    "Tiny dorsal fin and a very long anal fin running almost to the tail",
+    "Two pairs of barbels, the upper jaw pair very long",
+    "Silvery-grey to olive with a pinkish sheen"
+   ],
+   "lookalikes": "The pabda catfishes (Ompok) look similar but are much smaller (under 30 cm), and their mouth does not reach behind the eye. The goonch (Bagarius) is mottled brown, bottom-dwelling and has a flattened head.",
+   "whereToSee": "Bengal and Assam floodplain beels; the Ganges and Brahmaputra; Thai and Cambodian fish markets",
+   "season": "Resident; breeds in the monsoon (June–August)",
+   "order": "Siluriformes"
+  },
+  "iucn": "VU",
+  "lore": "The boal is a stock figure in Bengali proverbs as the greedy big fish that swallows the small. It was described from India by Bloch and Schneider in 1801.",
+  "historicalNames": [
+   "Silurus attu",
+   "Wallagoo"
+  ],
+  "funFact": "Anglers in India and Pakistan nicknamed it the 'freshwater shark' because it attacks lures fast in open water and has a slim, shark-like build."
+ },
+ {
+  "slug": "channa-striata",
+  "scientific": "Channa striata",
+  "common": "Striped snakehead",
+  "otherNames": [
+   "Shol শোল (Bengali)",
+   "Sowl (Hindi)",
+   "Pla chon ปลาช่อน (Thai)",
+   "Haruan (Malay)",
+   "Viral (Tamil)",
+   "Cá lóc (Vietnamese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Channidae",
+  "shelves": [
+   "freshwater",
+   "edible",
+   "medicinal",
+   "toxic"
+  ],
+  "summary": "A tough air-breathing predator of paddy fields, ponds and swamps across South and Southeast Asia. It can survive in damp mud through the dry season and is a major food fish from Bengal to Vietnam.",
+  "nativeRange": "Pakistan and India east through Bangladesh, Sri Lanka, Myanmar, Thailand, Indochina and southern China to Malaysia and Indonesia; introduced elsewhere",
+  "regions": [
+   "South Asia",
+   "Southeast Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Swamps",
+   "Paddy fields",
+   "Ponds",
+   "Slow rivers"
+  ],
+  "abilities": [
+   "Breathes air through a chamber above the gills, so it survives in stagnant, oxygen-poor water",
+   "Survives the dry season buried in moist mud",
+   "Can wriggle short distances across wet ground between pools",
+   "Both parents guard a floating ball of bright orange fry"
+  ],
+  "edibility": "edible-with-care",
+  "edibleParts": [
+   "flesh"
+  ],
+  "edibilityNote": "Widely eaten and valued as food for people recovering from illness. Never eat it raw or undercooked, for example in fermented or lightly cured dishes: snakeheads carry larvae of the Gnathostoma roundworm, which can migrate through human tissues and cause gnathostomiasis.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Malay traditional medicine",
+     "use": "Haruan fish broth and extract taken after childbirth and surgery to aid wound healing"
+    },
+    {
+     "tradition": "Bengali and Southeast Asian folk diet",
+     "use": "Fish soup given to convalescents"
+    }
+   ],
+   "compounds": [
+    "albumin",
+    "arachidonic acid",
+    "glycine and other amino acids"
+   ],
+   "evidence": "moderate",
+   "cautions": "Small clinical studies report faster post-surgical healing with haruan extract, but evidence is limited. Commercial extracts vary in quality. People with fish allergy should avoid it."
+  },
+  "animal": {
+   "diet": "Carnivore: fish, frogs, insects, crustaceans and other small animals",
+   "habitat": "Swamps, ponds, paddy fields, canals and slow, vegetated rivers",
+   "lifespan": "Around 8–10 years",
+   "size": "Commonly 30–60 cm; up to about 1 m and 3 kg",
+   "behaviour": "Lies motionless among weeds near the surface, gulping air, then lunges at passing prey. Pairs build a cleared nest in vegetation and fiercely guard their swarm of fry.",
+   "fieldMarks": [
+    "Long, cylindrical body with a flat, snake-like head covered in large scales",
+    "Long dorsal and anal fins running almost to the rounded tail",
+    "Dark brown to black back with oblique dark bands (stripes) on paler, whitish flanks",
+    "Large mouth with sharp teeth"
+   ],
+   "lookalikes": "The bullseye snakehead (Channa marulius) grows much larger and has an orange-ringed black eyespot at the base of the tail. Spotted snakehead (Channa punctata) is small, with dark spots and bars. The North American bowfin has a short anal fin and a bony gular plate under the chin.",
+   "whereToSee": "Paddy fields and beels of Bangladesh and West Bengal; wet markets of Bangkok, Kuala Lumpur and Ho Chi Minh City",
+   "season": "Resident; breeds mainly in the rainy season (May–September in most of its range)",
+   "order": "Anabantiformes"
+  },
+  "iucn": "LC",
+  "lore": "In Malaysia and Indonesia, haruan soup is a traditional confinement food for mothers after childbirth. In Bengal the shol is a favourite curry fish, and it is kept alive in tubs at market because it survives so long out of the water.",
+  "historicalNames": [
+   "Ophicephalus striatus",
+   "Ophiocephalus"
+  ],
+  "funFact": "Snakeheads are called 'murrels' in Indian English, and in Thailand grilled salted pla chon (pla chon pao) is a standard street food."
+ },
+ {
+  "slug": "chitala-chitala",
+  "scientific": "Chitala chitala",
+  "common": "Indian featherback (humped featherback)",
+  "otherNames": [
+   "Chital চিতল (Bengali)",
+   "Moh / Chital (Hindi)",
+   "Pari (Assamese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Notopteridae",
+  "shelves": [
+   "freshwater",
+   "edible"
+  ],
+  "summary": "A hump-backed, knife-shaped fish that swims by rippling a single long fin under its body and can move forwards or backwards. It belongs to the bonytongues, an ancient fish lineage, and in Bengal it is a luxury food fish.",
+  "nativeRange": "Indus, Ganges, Brahmaputra and Mahanadi basins of Pakistan, India, Nepal and Bangladesh",
+  "regions": [
+   "South Asia"
+  ],
+  "biomes": [
+   "Large rivers",
+   "Floodplain lakes",
+   "Reservoirs"
+  ],
+  "abilities": [
+   "Swims forwards or backwards by sending waves along a long anal fin that merges with the tail",
+   "Gulps air with a specialised swim bladder, so it survives in warm, oxygen-poor water",
+   "Males guard eggs stuck to submerged logs and posts"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "flesh"
+  ],
+  "edibilityNote": "Prized but very bony; Bengali cooks scrape the flesh from the bones to make chital macher muitha (fish dumplings). Always cooked.",
+  "animal": {
+   "diet": "Carnivore: fish, prawns, insects and molluscs",
+   "habitat": "Deep, clear pools of large rivers, floodplain lakes and reservoirs with submerged cover",
+   "lifespan": "Not well documented; probably over 10 years",
+   "size": "Commonly 60–80 cm; up to about 1.2 m",
+   "behaviour": "Mostly nocturnal; by day it hovers among submerged roots and timber. Pairs spawn on hard surfaces in the monsoon and the male fans and guards the eggs.",
+   "fieldMarks": [
+    "Strongly humped back behind the head, with a small feather-like dorsal fin",
+    "Body tapers to a knife-blade shape; anal fin runs from belly to tail",
+    "Silvery with about 15 or more thin silvery bars on the back and sometimes rows of small dark spots near the tail",
+    "Large mouth with the jaw extending well past the eye"
+   ],
+   "lookalikes": "The clown knifefish (Chitala ornata) of Southeast Asia, common in the aquarium trade, has large white-ringed black eyespots along the rear flank. The bronze featherback (Notopterus notopterus) is smaller (under 60 cm), has no hump, and has a much smaller mouth.",
+   "whereToSee": "Floodplain beels of Assam and Bangladesh; the Ganges in Bihar and West Bengal; Kolkata fish markets",
+   "season": "Resident; spawns May–July",
+   "order": "Osteoglossiformes"
+  },
+  "iucn": "NT",
+  "lore": "Buchanan-Hamilton described it in 1822 under the Bengali name chitala. In Bengal, a chital muitha curry has long been a festive dish for weddings and guests of honour.",
+  "historicalNames": [
+   "Mystus chitala",
+   "Notopterus chitala"
+  ],
+  "funFact": "Featherbacks belong to the bonytongues (Osteoglossiformes), a lineage that also includes the arapaima, the arowanas and Africa's elephantfishes and goes back more than 100 million years."
+ },
+ {
+  "slug": "anabas-testudineus",
+  "scientific": "Anabas testudineus",
+  "common": "Climbing perch",
+  "otherNames": [
+   "Koi কই (Bengali)",
+   "Kavai (Hindi)",
+   "Pla mo ปลาหมอ (Thai)",
+   "Puyu (Malay)",
+   "Cá rô đồng (Vietnamese)",
+   "Panayeri (Tamil)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Anabantidae",
+  "shelves": [
+   "freshwater",
+   "edible",
+   "marvel"
+  ],
+  "summary": "A small, armoured air-breather that can 'walk' across land on its gill covers and fins in search of new water. It is a beloved Bengali food fish, sold alive in markets because it survives hours out of water.",
+  "nativeRange": "Pakistan and India east to southern China, the Philippines and Indonesia; introduced to Papua New Guinea and northern Australian islands",
+  "regions": [
+   "South Asia",
+   "Southeast Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Swamps",
+   "Paddy fields",
+   "Ponds",
+   "Ditches"
+  ],
+  "abilities": [
+   "Breathes air through a labyrinth organ above the gills",
+   "Moves over land by rocking on spiny gill covers and pushing with its fins and tail",
+   "Survives out of water for hours if kept damp, and buries itself in mud in the dry season",
+   "Tolerates stagnant, warm, oxygen-poor and slightly brackish water"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "flesh"
+  ],
+  "edibilityNote": "Tasty but bony and spiny; cooked whole in Bengali koi macher jhol and Thai and Vietnamese dishes. Always cooked. The sharp gill-cover and fin spines cut hands when cleaning.",
+  "animal": {
+   "diet": "Omnivore: insects, small fish, shrimp, worms and plant matter",
+   "habitat": "Shallow, vegetated still waters: swamps, paddies, ponds and canals",
+   "lifespan": "Around 5–8 years",
+   "size": "Usually 10–20 cm; up to about 25 cm",
+   "behaviour": "After heavy rain it may leave drying pools and travel overland at night to new water. Spawning pairs release floating eggs in the rainy season.",
+   "fieldMarks": [
+    "Small, robust, perch-like body with rough scales",
+    "Olive to grey-green with a dark spot at the base of the tail and often one behind the gill cover",
+    "Serrated gill cover with sharp spines",
+    "Long spiny dorsal fin"
+   ],
+   "lookalikes": "Gouramis (Trichogaster) are thinner and have long, thread-like pelvic fins. Snakeheads have a long, cylindrical body and a flat head.",
+   "whereToSee": "Village ponds and paddies of Bangladesh and West Bengal; live tanks in markets in Dhaka, Kolkata, Bangkok and Kuala Lumpur",
+   "season": "Resident; breeds at the start of the rainy season (May–August); overland movements after heavy rain",
+   "order": "Anabantiformes"
+  },
+  "iucn": "LC",
+  "lore": "In 1797 a Danish East India Company officer, Daldorf, reported seeing one climbing a palm tree near Tranquebar, which gave the fish its English name and its genus name Anabas, Greek for 'climber'. Most biologists doubt the tree story but accept that it travels over land.",
+  "historicalNames": [
+   "Perca scandens",
+   "Anthias testudineus"
+  ],
+  "funFact": "Its species name testudineus means 'tortoise-like', after its tough, armoured head and scales."
+ },
+ {
+  "slug": "cyprinus-carpio",
+  "scientific": "Cyprinus carpio",
+  "common": "Common carp",
+  "otherNames": [
+   "Gulfam گلفام (Urdu)",
+   "Karp (Polish/Russian)",
+   "Karpfen (German)",
+   "Carpa (Spanish/Portuguese)",
+   "Ponty (Hungarian)",
+   "Sazan (Turkish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Cyprinidae",
+  "shelves": [
+   "freshwater",
+   "edible",
+   "endangered"
+  ],
+  "summary": "A deep-bodied, barbelled bottom-feeder from the Danube, Black Sea and Caspian basins. The Romans and medieval monks farmed it, and it is now one of the most widespread fish on Earth. It is a cherished food and angling fish, and also one of the world's worst invasive species, even though truly wild river carp in its native range are listed as Vulnerable.",
+  "nativeRange": "Wild form native to the Danube, Black, Caspian and Aral Sea basins; introduced across Europe and to every continent except Antarctica",
+  "regions": [
+   "Europe",
+   "Central Asia",
+   "West Asia",
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Lakes",
+   "Slow rivers",
+   "Ponds",
+   "Reservoirs"
+  ],
+  "abilities": [
+   "Roots through sediment for food, muddying the water and uprooting aquatic plants, which degrades wetlands where it is introduced",
+   "Tolerates warm, low-oxygen, turbid water and a wide temperature range",
+   "A large female can lay over a million eggs in a season",
+   "Has a sense of taste spread over the lips and barbels, as well as the mouth"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "flesh",
+   "roe"
+  ],
+  "edibilityNote": "Firm, fatty flesh with many intramuscular Y-bones. Fish from muddy ponds can taste earthy, so they are often kept in clean water for some days before eating. Always cook it: raw or undercooked carp can transmit liver flukes (Clonorchis, Opisthorchis) where these occur. Large wild fish from polluted lakes may carry PCBs and mercury, so follow local advisories.",
+  "animal": {
+   "diet": "Omnivore: insect larvae, worms, molluscs, crustaceans, seeds and plant matter",
+   "habitat": "Warm, still or slow water with soft bottoms and vegetation",
+   "lifespan": "Usually 15–20 years; reported ages approach 40",
+   "size": "Commonly 40–80 cm; up to about 1.2 m and over 40 kg",
+   "behaviour": "Spawns noisily in shallow weedy margins in late spring, with males splashing alongside females. Grazes the bottom in groups, leaving clouds of silt and feeding craters.",
+   "fieldMarks": [
+    "Deep, heavy body with large bronze-gold to olive scales (mirror and leather forms have patchy or no scales)",
+    "Two pairs of barbels at the corners of the mouth, the rear pair longer",
+    "Long dorsal fin with a stout, serrated leading spine",
+    "Thick-lipped mouth that protrudes like a tube when feeding"
+   ],
+   "lookalikes": "Crucian carp (Carassius carassius) and goldfish or Prussian carp have no barbels. Common bream (Abramis brama) is flatter-sided with no barbels and a long anal fin. Barbel (Barbus barbus) is slender, with a mouth on the underside and four barbels near the lips.",
+   "whereToSee": "Lakes and gravel pits across Europe; Czech and Polish fishpond districts such as Třeboň (South Bohemia); the Danube Delta; invasive in the Murray–Darling basin (Australia) and the Great Lakes",
+   "season": "Resident; spawning May–July once water exceeds about 18 °C",
+   "order": "Cypriniformes"
+  },
+  "iucn": "VU",
+  "lore": "Monks raised carp in ponds as Lenten fare across medieval Europe, and in Czechia, Poland and Slovakia a live carp is still bought and kept in the bathtub before Christmas Eve dinner. Izaak Walton in 'The Compleat Angler' (1653) called the carp 'the queen of rivers, a stately, a good, and a very subtil fish'.",
+  "historicalNames": [
+   "Carpio",
+   "Cyprinus",
+   "Karpf"
+  ],
+  "funFact": "Australia has studied releasing cyprinid herpesvirus 3 (koi herpesvirus) as a biological control to cut carp numbers in the Murray–Darling basin."
+ },
+ {
+  "slug": "cyprinus-rubrofuscus",
+  "scientific": "Cyprinus rubrofuscus",
+  "common": "Koi (Amur carp)",
+  "otherNames": [
+   "Nishikigoi 錦鯉 (Japanese)",
+   "Lǐyú 鲤鱼 (Chinese)",
+   "Cá chép (Vietnamese)",
+   "Ingeo 잉어 (Korean)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Cyprinidae",
+  "shelves": [
+   "freshwater",
+   "edible",
+   "sacred"
+  ],
+  "summary": "The East Asian carp, wild ancestor of the ornamental koi that Japanese breeders turned into living jewellery. In Chinese and Japanese art it stands for perseverance, because of the carp that leaps the Dragon Gate and becomes a dragon.",
+  "nativeRange": "East Asia: Amur basin south through China, Korea and Vietnam (wild form); koi now kept in ponds worldwide",
+  "regions": [
+   "East Asia",
+   "Southeast Asia",
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Rivers",
+   "Lakes",
+   "Ponds"
+  ],
+  "abilities": [
+   "Selective breeding has fixed dozens of named colour varieties, such as kōhaku (red-and-white), taishō sanshoku and shōwa",
+   "Learns feeding routines and will take food from people's hands",
+   "Survives cold winters by becoming torpid on the pond bottom"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "flesh"
+  ],
+  "edibilityNote": "Wild and farmed East Asian carp are an important food fish in China, Vietnam and Korea. Ornamental koi are not normally eaten. Always cook it, because raw carp can carry liver flukes (Clonorchis sinensis).",
+  "animal": {
+   "diet": "Omnivore: invertebrates, seeds, algae and plant matter; pellets in ponds",
+   "habitat": "Slow rivers, lakes and ponds",
+   "lifespan": "Commonly 25–35 years in good ponds; claims of over a century are unverified",
+   "size": "Usually 50–90 cm; large koi exceed 1 m",
+   "behaviour": "Koi crowd to the surface at feeding time and learn individual keepers. Wild Amur carp spawn in flooded vegetation in spring.",
+   "fieldMarks": [
+    "Carp body with two pairs of barbels and a long dorsal fin with a serrated spine",
+    "Koi: patterned in red, white, black, yellow, orange or metallic platinum",
+    "Wild fish: bronze to olive, slightly more elongate than European common carp"
+   ],
+   "lookalikes": "Fancy goldfish (Carassius) have no barbels and are usually smaller, often with double or long fins. European common carp (Cyprinus carpio) is very similar, and the two are best told apart by genetics and origin.",
+   "whereToSee": "Ojiya and Yamakoshi, Niigata (birthplace of koi breeding); temple and castle ponds across Japan; the All Japan Combined Koi Show in Tokyo (winter)",
+   "season": "Resident; spawns April–June",
+   "order": "Cypriniformes"
+  },
+  "iucn": "LC",
+  "lore": "Farmers in the mountain villages of Niigata began breeding coloured carp in their rice-terrace ponds in the early 19th century. Japanese families fly carp-shaped koinobori streamers for Children's Day on 5 May, after the Chinese legend of the carp that swims up the Yellow River's Dragon Gate falls and turns into a dragon.",
+  "funFact": "A famous koi named Hanako was said to be 226 years old when she died in 1977, an age estimated by counting growth rings on her scales. The figure is widely doubted."
+ },
+ {
+  "slug": "carassius-auratus",
+  "scientific": "Carassius auratus",
+  "common": "Goldfish",
+  "otherNames": [
+   "Jīnyú 金鱼 (Chinese)",
+   "Kingyo 金魚 (Japanese)",
+   "Sunehri machhli سنہری مچھلی (Urdu)",
+   "Peixe-dourado (Portuguese)",
+   "Pez dorado (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Cyprinidae",
+  "shelves": [
+   "freshwater"
+  ],
+  "summary": "Domesticated in China from a drab olive carp over more than a thousand years, the goldfish was one of the first fish ever kept for beauty. Feral goldfish released into lakes revert to dull colours, grow large and become destructive invaders.",
+  "nativeRange": "Eastern Asia (China and nearby); ornamental and feral populations worldwide",
+  "regions": [
+   "East Asia",
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Ponds",
+   "Lakes",
+   "Slow rivers"
+  ],
+  "abilities": [
+   "Survives months under ice: in oxygen-free water it makes ethanol instead of lactic acid and releases it through its gills",
+   "Can be trained to respond to sounds, colours and lights, and remembers the training for months (the 'three-second memory' is a myth)",
+   "Breeders have produced dramatic forms such as telescope eyes, bubble eyes, lionheads and double tails"
+  ],
+  "animal": {
+   "diet": "Omnivore: algae, plant matter, insect larvae, crustaceans and detritus",
+   "habitat": "Still, weedy ponds, lakes and sluggish rivers; aquaria",
+   "lifespan": "10–20 years with good care; over 40 recorded",
+   "size": "Usually 10–20 cm; feral fish to 40 cm and over 2 kg",
+   "behaviour": "Grazes and sifts the bottom constantly. In spring, males chase females through plants until they scatter sticky eggs.",
+   "fieldMarks": [
+    "Deep carp-like body with no barbels",
+    "Orange, red, white, black or calico in ornamental forms; feral fish olive-bronze",
+    "Long dorsal fin with a serrated spine",
+    "Fancy breeds with paired (twin) tails, long fins or modified eyes"
+   ],
+   "lookalikes": "Common carp and koi have two pairs of barbels. Crucian carp (Carassius carassius) has a more rounded, convex dorsal fin and a dark spot at the tail base in young fish. Prussian carp (C. gibelio) is the closest relative and is hard to tell apart without counting gill rakers.",
+   "whereToSee": "Fancy-goldfish breeders in Hangzhou and Fuzhou (China) and Yatomi, Aichi (Japan); feral populations in Lake Tahoe and many urban ponds",
+   "season": "Resident; spawns April–July",
+   "order": "Cypriniformes"
+  },
+  "iucn": "LC",
+  "lore": "Red-gold variants of the wild carp were kept in Buddhist monastery 'release ponds' in China by the Song dynasty (10th–13th centuries), and bowl-bred fancy varieties appeared by the Ming. Goldfish reached Japan in the early 16th century and Europe in the 17th, where Samuel Pepys saw them as a novelty in 1665.",
+  "historicalNames": [
+   "Cyprinus auratus",
+   "Gold carp",
+   "Chinese gold fish"
+  ],
+  "funFact": "Goldfish and crucian carp are among the very few vertebrates that make alcohol: in airless water their muscles turn sugar into ethanol so they can survive months under ice."
+ },
+ {
+  "slug": "oncorhynchus-mykiss",
+  "scientific": "Oncorhynchus mykiss",
+  "common": "Rainbow trout (steelhead)",
+  "otherNames": [
+   "Mikizha микижа (Russian, Kamchatka)",
+   "Truta-arco-íris (Portuguese)",
+   "Trucha arcoíris (Spanish)",
+   "Nijimasu ニジマス (Japanese)",
+   "Steelhead (sea-run form)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Salmonidae",
+  "shelves": [
+   "freshwater",
+   "edible",
+   "migrant"
+  ],
+  "summary": "A Pacific salmonid that comes in two lives: a stream trout that stays in fresh water all its life, and the sea-going steelhead that returns from the ocean to spawn. It is one of the most widely farmed and stocked fish on Earth.",
+  "nativeRange": "Pacific drainages from Alaska to north-west Mexico and the Kamchatka Peninsula; introduced to over 80 countries",
+  "regions": [
+   "North America",
+   "East Asia",
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Cold rivers",
+   "Mountain streams",
+   "Lakes",
+   "Coastal ocean (steelhead)"
+  ],
+  "abilities": [
+   "Steelhead migrate to sea and back, and unlike most Pacific salmon can survive spawning and return to spawn again",
+   "Leaps waterfalls and rapids on spawning migrations",
+   "Feeds on drifting insects by holding station in current, rising to the surface at the right moment"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "flesh",
+   "roe"
+  ],
+  "edibilityNote": "Farmed rainbow trout is a major food fish. Wild trout can carry parasites, including tapeworms (Diphyllobothrium) and Anisakis in sea-run fish, so cook it or freeze it properly before eating raw. Fish from some stocked lakes have mercury or PCB advisories.",
+  "animal": {
+   "diet": "Carnivore: aquatic and terrestrial insects, crustaceans, fish eggs and small fish; steelhead eat squid and fish at sea",
+   "habitat": "Cool, clear, well-oxygenated streams, rivers and lakes; steelhead in the North Pacific",
+   "lifespan": "Usually 4–6 years; up to 11",
+   "size": "Stream fish 25–50 cm; steelhead and lake fish to over 1 m and 20 kg",
+   "behaviour": "Females dig gravel nests (redds) with their tails in spring, and dominant males fight for position beside them.",
+   "fieldMarks": [
+    "Pinkish-red to magenta band along each flank, brightest in spawning males",
+    "Many small black spots over the back, dorsal fin and the whole tail",
+    "Silvery to olive-green back with no red or pale halo spots",
+    "Small adipose fin; mouth ends below or just behind the eye"
+   ],
+   "lookalikes": "Brown trout has larger black and red spots with pale halos and few spots on the tail. Cutthroat trout has a red-orange slash under the lower jaw. Fresh-run steelhead are bright silver and can be confused with coho salmon, which have spots only on the upper tail lobe and white gums.",
+   "whereToSee": "The McCloud River, California (source of the original hatchery strains); Kamchatka rivers; the Skeena and Dean rivers, British Columbia (steelhead); trout streams of Kashmir, Chile, Patagonia and New Zealand where introduced",
+   "season": "Resident trout year-round; spawns roughly February–June; steelhead runs enter rivers in summer or winter depending on the stock",
+   "order": "Salmoniformes"
+  },
+  "iucn": "LC",
+  "lore": "Hatchery eggs from California's McCloud River were shipped around the world from the 1870s, and descendants of that stock now live on six continents. The steelhead is the state fish of Washington.",
+  "historicalNames": [
+   "Salmo mykiss",
+   "Salmo gairdneri",
+   "Salmo irideus"
+  ],
+  "funFact": "Rainbow trout and steelhead are the same species. Steelhead parents can produce stream-resident offspring, and resident parents can produce sea-run ones."
+ },
+ {
+  "slug": "salmo-trutta",
+  "scientific": "Salmo trutta",
+  "common": "Brown trout (sea trout)",
+  "otherNames": [
+   "Truite fario (French)",
+   "Bachforelle (German)",
+   "Trucha común (Spanish)",
+   "Sewin (Welsh, sea trout)",
+   "Forel форель (Russian)",
+   "Trota fario (Italian)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Salmonidae",
+  "shelves": [
+   "freshwater",
+   "edible",
+   "migrant"
+  ],
+  "summary": "The classic fly-fishing trout of Europe, spotted in black and red. Some stay in their home stream for life, others run to sea as silver sea trout. Introduced from Europe, it now lives from Kashmir and the Himalaya to Patagonia and New Zealand.",
+  "nativeRange": "Europe, North Africa (Atlas Mountains) and western Asia east to Afghanistan and the Aral basin; introduced to every continent but Antarctica",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "Central Asia",
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Cold rivers",
+   "Mountain streams",
+   "Lakes",
+   "Coastal seas (sea trout)"
+  ],
+  "abilities": [
+   "One species, three life histories: river-resident brownies, lake trout and sea trout that migrate to the ocean",
+   "Strongly territorial; each fish defends a feeding lie in the current",
+   "Large lake and sea fish become fish-eaters and can exceed 15 kg"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "flesh"
+  ],
+  "edibilityNote": "Excellent eating. Cook or properly freeze wild fish, which can carry tapeworm larvae. Many wild populations are now catch-and-release only.",
+  "animal": {
+   "diet": "Carnivore: insect larvae and adults, crustaceans, snails and fish; sea trout eat sand eels and sprats",
+   "habitat": "Cold, clean streams, rivers and lakes; coastal waters for sea trout",
+   "lifespan": "Usually 5–8 years; some lake fish over 20",
+   "size": "Stream fish 20–40 cm; sea and lake trout to over 1 m",
+   "behaviour": "Sea trout return to their home river in summer and run upstream at night. Females cut redds in the gravel of headwaters in autumn and early winter.",
+   "fieldMarks": [
+    "Golden-brown to olive body with large black spots and red or orange spots, often ringed with pale halos",
+    "Adipose fin often tipped orange-red",
+    "Tail square-cut with few or no spots",
+    "Sea trout: silvery with X-shaped black spots, like an Atlantic salmon"
+   ],
+   "lookalikes": "Atlantic salmon has a slimmer tail stalk, a forked tail and a smaller mouth whose jaw ends level with the eye (in trout it reaches behind the eye). Rainbow trout has a pink band and small black spots all over the tail. Brook trout has worm-like markings on the back and white-edged lower fins.",
+   "whereToSee": "Chalk streams of southern England (Test and Itchen); Irish loughs; Lidder and Sind valleys, Kashmir; Tasmanian Central Highlands; Taupō and Mataura, New Zealand",
+   "season": "Resident; spawns October–January; sea trout runs June–September",
+   "order": "Salmoniformes"
+  },
+  "iucn": "LC",
+  "lore": "Aelian, writing around AD 200, described Macedonian anglers on the river Astraeus catching 'speckled fish' with flies of red wool and cock's feathers, the earliest known account of fly fishing. Trout were brought to Kashmir from Britain in 1899, and the trout streams there are still a famous fishery.",
+  "historicalNames": [
+   "Trutta",
+   "Fario",
+   "Salmo fario",
+   "Forelle"
+  ],
+  "funFact": "Sea trout and stream-resident brown trout can be siblings: whether a young fish goes to sea depends mostly on its growth and condition, not on separate genes alone."
+ },
+ {
+  "slug": "salvelinus-alpinus",
+  "scientific": "Salvelinus alpinus",
+  "common": "Arctic char",
+  "otherNames": [
+   "Iqaluk (Inuktitut)",
+   "Røye (Norwegian)",
+   "Röding (Swedish)",
+   "Bleikja (Icelandic)",
+   "Saibling (German)",
+   "Torgoch (Welsh)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Salmonidae",
+  "shelves": [
+   "freshwater",
+   "edible",
+   "migrant"
+  ],
+  "summary": "The most northerly freshwater fish on Earth, found in High Arctic lakes and rivers around the pole and as Ice Age relics in deep mountain lakes farther south. Spawning males turn a startling fiery red.",
+  "nativeRange": "Circumpolar Arctic and subarctic: Canada, Alaska, Greenland, Iceland, Scandinavia and Arctic Russia; relict lake populations in the Alps, Britain and Ireland",
+  "regions": [
+   "Arctic",
+   "North America",
+   "Europe"
+  ],
+  "biomes": [
+   "Arctic lakes",
+   "Cold rivers",
+   "Coastal Arctic waters"
+  ],
+  "abilities": [
+   "Lives in lakes that stay ice-covered for most of the year and stay close to 0 °C",
+   "Anadromous populations feed at sea in the brief Arctic summer and return to fresh water for winter",
+   "A single lake can hold several distinct forms (dwarf, plankton-eating, fish-eating), as in Iceland's Thingvallavatn"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "flesh",
+   "roe"
+  ],
+  "edibilityNote": "Fine pink flesh, widely farmed in Iceland and Canada and a staple Inuit food (eaten raw, frozen, dried or fermented). Freeze wild fish before eating raw to kill tapeworm larvae (Diphyllobothrium). Some High Arctic lakes have elevated mercury in large char.",
+  "animal": {
+   "diet": "Carnivore: zooplankton, insect larvae, snails, crustaceans and fish, including other char",
+   "habitat": "Cold, deep, clear lakes and rivers; coastal waters near river mouths",
+   "lifespan": "Often 10–20 years; some High Arctic fish over 40",
+   "size": "Commonly 30–60 cm; sea-run fish to about 1 m and 15 kg",
+   "behaviour": "Sea-run char move downriver after ice-out to feed in coastal waters, then swim back up in late summer to winter and spawn in lakes.",
+   "fieldMarks": [
+    "Dark green-grey to blue back with pale pink, cream or red spots (no black spots)",
+    "Spawning males: belly and lower flanks bright red or orange",
+    "Pectoral, pelvic and anal fins with a crisp white leading edge",
+    "Slightly forked tail; small scales"
+   ],
+   "lookalikes": "Brook trout (S. fontinalis) has pale worm-like markings on the back and red spots with blue halos. Lake trout (S. namaycush) is grey with pale spots, a deeply forked tail and no red belly. Dolly Varden (S. malma) is very similar and is separated by gill-raker counts and range.",
+   "whereToSee": "Nunavut rivers (Cambridge Bay, Kugluktuk); Iceland's Thingvallavatn; Windermere (England); Swiss and Austrian alpine lakes",
+   "season": "Anadromous runs to sea after ice-out (June–July) and back upriver in August–September; spawns September–October",
+   "order": "Salmoniformes"
+  },
+  "iucn": "LC",
+  "lore": "Char from Windermere were potted in butter and sent to London as a delicacy in the 17th and 18th centuries, served in painted 'char dishes'. Inuit communities fish char with leisters (three-pronged spears) at stone weirs, called saputit, that are still used today.",
+  "historicalNames": [
+   "Salmo alpinus",
+   "Umbla",
+   "Red char",
+   "Torgoch"
+  ],
+  "funFact": "Lake Hazen on Ellesmere Island, at about 82° N, holds char and is one of the most northerly lakes in the world with fish."
+ },
+ {
+  "slug": "esox-lucius",
+  "scientific": "Esox lucius",
+  "common": "Northern pike",
+  "otherNames": [
+   "Shchuka щука (Russian)",
+   "Hecht (German)",
+   "Brochet (French)",
+   "Gädda (Swedish)",
+   "Hauki (Finnish)",
+   "Ginoozhe (Ojibwe)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Esocidae",
+  "shelves": [
+   "freshwater",
+   "edible",
+   "toxic"
+  ],
+  "summary": "A long ambush predator of weedy northern lakes, with a duck-bill jaw full of backward-pointing teeth. It is one of the few freshwater fish native around the whole Northern Hemisphere.",
+  "nativeRange": "Circumpolar in fresh and brackish waters of North America, Europe and northern Asia; introduced to Spain, Ireland (disputed) and parts of western North America",
+  "regions": [
+   "North America",
+   "Europe",
+   "Central Asia",
+   "East Asia",
+   "Arctic"
+  ],
+  "biomes": [
+   "Lakes",
+   "Slow rivers",
+   "Weedy bays",
+   "Brackish Baltic coasts"
+  ],
+  "abilities": [
+   "Launches from a standstill with extreme acceleration, driven by dorsal and anal fins set far back near the tail",
+   "Swallows prey up to about half its own length, including ducklings, frogs and other pike",
+   "Senses vibrations through a lateral line and sensory pores on the head, so it can hunt in murky water",
+   "Lives in the brackish Baltic Sea as well as fresh water"
+  ],
+  "edibility": "edible-with-care",
+  "edibleParts": [
+   "flesh",
+   "roe (cooked)"
+  ],
+  "edibilityNote": "Lean white flesh, a classic of quenelles de brochet and Central European cooking, but full of Y-bones. Pike is a key host of the broad fish tapeworm (Diphyllobothrium latum), so never eat flesh or roe raw or undercooked. Large pike accumulate mercury and are under fish-consumption advisories in many regions; children and pregnant women should limit intake.",
+  "animal": {
+   "diet": "Carnivore: fish (including smaller pike), frogs, crayfish, small mammals and ducklings",
+   "habitat": "Clear to tannin-stained lakes, slow rivers and weedy backwaters; Baltic coastal bays",
+   "lifespan": "Usually 10–15 years; over 25 in cold northern waters",
+   "size": "Commonly 40–90 cm; females to about 1.5 m and over 25 kg",
+   "behaviour": "Hovers motionless among weeds, then strikes sideways in a split second. It spawns very early in spring, often right after ice-out, scattering eggs over flooded grass.",
+   "fieldMarks": [
+    "Long, torpedo-shaped body with dorsal and anal fins set far back near the forked tail",
+    "Flattened, duck-billed snout and a mouth lined with sharp teeth",
+    "Olive-green to brown with rows of pale, bean-shaped spots (light markings on a dark background)",
+    "Cheek fully scaled, gill cover scaled only on the upper half"
+   ],
+   "lookalikes": "Muskellunge (E. masquinongy) has dark bars or spots on a light background, pointed tail lobes and no scales on the lower cheek. Chain pickerel (E. niger) is smaller, with a dark chain-like net pattern and a dark bar under the eye.",
+   "whereToSee": "Lakes of Finland, Sweden and Ireland; the Baltic archipelagos of Stockholm and Åland; Canadian Shield lakes of Manitoba, Ontario and Saskatchewan",
+   "season": "Resident; spawns March–May just after ice-out",
+   "order": "Esociformes"
+  },
+  "iucn": "LC",
+  "lore": "In the Russian folktale 'By the Pike's Command' (Po shchuchyemu veleniyu), the lazy Emelya catches a magic pike that grants his wishes. The 'Emperor's Pike', supposedly ringed by Frederick II in 1230 and caught 267 years later, is a well-known medieval hoax; its skeleton in Mannheim turned out to be assembled from several fish.",
+  "historicalNames": [
+   "Lucius",
+   "Luce",
+   "Pickerel",
+   "Gedd"
+  ],
+  "funFact": "The Finnish national epic Kalevala tells how the hero Väinämöinen made the first kantele, a harp-like instrument, from the jawbone of a giant pike."
+ },
+ {
+  "slug": "silurus-glanis",
+  "scientific": "Silurus glanis",
+  "common": "Wels catfish",
+  "otherNames": [
+   "Wels / Waller (German)",
+   "Som сом (Russian)",
+   "Harcsa (Hungarian)",
+   "Sum (Polish)",
+   "Yayın balığı (Turkish)",
+   "Silure glane (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Siluridae",
+  "shelves": [
+   "freshwater",
+   "edible",
+   "marvel"
+  ],
+  "summary": "Europe's largest freshwater fish, a scaleless giant catfish with a cavernous mouth and whiskers like a walrus. Introduced wels in France have learned to lunge onto riverbanks to grab pigeons.",
+  "nativeRange": "Central and Eastern Europe east to the Black, Caspian and Aral Sea basins; introduced to Spain, Italy, France, Britain and elsewhere",
+  "regions": [
+   "Europe",
+   "West Asia",
+   "Central Asia"
+  ],
+  "biomes": [
+   "Large rivers",
+   "Lakes",
+   "Reservoirs",
+   "Brackish Black and Caspian Sea margins"
+  ],
+  "abilities": [
+   "Hunts in darkness with two long upper barbels and four shorter chin barbels",
+   "Beaches itself on riverbanks to seize pigeons, then wriggles back into the water (documented on the Tarn at Albi, France)",
+   "Grows to about 2.8 m, the largest verified freshwater fish in Europe",
+   "Males guard and fan the nest of eggs for days"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "flesh"
+  ],
+  "edibilityNote": "Fatty, nearly boneless flesh, popular in Hungary (harcsapaprikás) and Central Europe. Smaller fish taste better. Very large old wels from industrial rivers can carry high mercury and PCBs, so check local advisories. Always cooked.",
+  "animal": {
+   "diet": "Carnivore and scavenger: fish, crayfish, frogs, water birds, rodents and carrion",
+   "habitat": "Deep, slow lowland rivers, lakes, reservoirs and backwaters with soft beds",
+   "lifespan": "Up to 30 years or more; some estimates suggest around 50",
+   "size": "Commonly 1–1.6 m; verified fish to about 2.8 m and over 130 kg",
+   "behaviour": "Mostly nocturnal; by day it rests in holes under banks or sunken trees. It spawns in late spring in shallow vegetation, and the male guards the nest.",
+   "fieldMarks": [
+    "Long, scaleless, slimy body; broad flat head and very wide mouth",
+    "One pair of very long barbels on the upper jaw and two pairs of short barbels under the chin",
+    "Tiny dorsal fin and a very long anal fin joined almost to the tail",
+    "Mottled dark olive-black back, paler marbled flanks and a whitish belly"
+   ],
+   "lookalikes": "Aristotle's catfish (Silurus aristotelis) of Greece has only four barbels. Introduced North American channel and blue catfish have scaleless bodies but a forked tail, an adipose fin and eight barbels.",
+   "whereToSee": "The Ebro at Mequinenza and Caspe (Spain); the Po delta (Italy); the Danube delta; the Volga delta",
+   "season": "Resident; spawns May–July; active through the warm months",
+   "order": "Siluriformes"
+  },
+  "iucn": "LC",
+  "lore": "Aristotle described the male catfish guarding its nest in 'History of Animals' (4th century BC). The observation was dismissed until Louis Agassiz confirmed it in 1857 in the related Greek catfish he named Glanis aristotelis (now Silurus aristotelis) in Aristotle's honour.",
+  "historicalNames": [
+   "Glanis",
+   "Silurus",
+   "Sheatfish",
+   "Waller"
+  ],
+  "funFact": "About 28% of the wels catfish's beaching attacks on pigeons at Albi succeeded, which the researchers compared with orcas surging onto beaches to catch seals."
+ },
+ {
+  "slug": "perca-flavescens",
+  "scientific": "Perca flavescens",
+  "common": "Yellow perch",
+  "otherNames": [
+   "Asaawe (Ojibwe)",
+   "Perchaude (Canadian French)",
+   "Ringed perch",
+   "Lake perch"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Percidae",
+  "shelves": [
+   "freshwater",
+   "edible"
+  ],
+  "summary": "A golden, barred schooling fish of North American lakes, beloved for ice fishing and Friday-night fish fries around the Great Lakes. Females lay their eggs in strange, accordion-folded gelatinous ribbons that can be over 2 m long.",
+  "nativeRange": "Eastern and central North America: Atlantic, Arctic, Great Lakes, Hudson Bay and Mississippi basins; widely introduced in the west",
+  "regions": [
+   "North America"
+  ],
+  "biomes": [
+   "Lakes",
+   "Ponds",
+   "Slow rivers",
+   "Brackish estuaries"
+  ],
+  "abilities": [
+   "Lays eggs in a single long, hollow, accordion-folded gelatinous ribbon draped over plants, unique among North American freshwater fish",
+   "Forms large schools that feed actively all winter under ice",
+   "Tolerates cool to warm water and slightly brackish estuaries"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "flesh"
+  ],
+  "edibilityNote": "Sweet, flaky white fillets; one of the best-tasting freshwater fish. Some lakes carry mercury or PCB advisories. Always cook it, because perch can carry parasites such as yellow grub, which is harmless when cooked.",
+  "animal": {
+   "diet": "Carnivore: zooplankton when young; insect larvae, crayfish, small fish and fish eggs as adults",
+   "habitat": "Clear, weedy lakes and ponds and slow rivers, usually in schools near the bottom",
+   "lifespan": "Usually under 10 years; maximum reported about 11",
+   "size": "Usually 15–25 cm; up to about 50 cm",
+   "behaviour": "Schools move inshore at dawn and dusk to feed. In early spring females drape egg ribbons over weeds or branches in the shallows, and males fertilise them.",
+   "fieldMarks": [
+    "Yellow to golden-green flanks with 6–8 dark, saddle-like vertical bars",
+    "Two separate dorsal fins, the first spiny",
+    "Lower fins orange to reddish, brighter in breeding males",
+    "Humped back and no canine teeth"
+   ],
+   "lookalikes": "Walleye and sauger have large glassy eyes, canine teeth and no bold vertical bars, and walleye has a white tip on the lower tail lobe. European perch (Perca fluviatilis) is extremely similar, with a dark spot at the rear of the first dorsal fin, but does not occur naturally in North America.",
+   "whereToSee": "Lake Erie, Lake Michigan's Green Bay and Lake Simcoe (Ontario), especially through winter ice; Chesapeake Bay tributaries",
+   "season": "Resident; spawns April–May soon after ice-out; ice-fishing season December–March",
+   "order": "Perciformes"
+  },
+  "iucn": "LC",
+  "lore": "Yellow perch fish fries are a Great Lakes institution, and the Lake Erie commercial perch catch has supported Ohio and Ontario fishing towns since the 19th century. Ojibwe and other Great Lakes peoples have long speared and netted perch, including through winter ice.",
+  "funFact": "A single female can lay over 40,000 eggs in one gelatinous ribbon, and the jelly seems to protect the eggs from predators."
+ },
+ {
+  "slug": "micropterus-nigricans",
+  "scientific": "Micropterus nigricans",
+  "common": "Largemouth bass",
+  "otherNames": [
+   "Black bass",
+   "Burakku basu ブラックバス (Japanese)",
+   "Lobina negra (Spanish)",
+   "Achigã (Portuguese)",
+   "Bucketmouth"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Centrarchidae",
+  "shelves": [
+   "freshwater",
+   "edible"
+  ],
+  "summary": "North America's most popular sport fish and the centre of a multibillion-dollar bass-fishing industry. It is a big-mouthed ambush hunter of weedy lakes, and introductions have made it a damaging invader in Japan, southern Africa and Europe.",
+  "nativeRange": "Eastern and central North America: Great Lakes, Mississippi basin and Atlantic and Gulf slope drainages (peninsular Florida fish are now treated as the separate Florida bass); introduced worldwide",
+  "regions": [
+   "North America",
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Lakes",
+   "Ponds",
+   "Reservoirs",
+   "Slow rivers"
+  ],
+  "abilities": [
+   "Its jaw opens wide enough to swallow prey nearly half its own length, including frogs, mice and small birds",
+   "Males sweep out a nest and guard eggs and fry aggressively for weeks",
+   "Hunts by ambush from cover, using vision and lateral-line senses"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "flesh"
+  ],
+  "edibilityNote": "Mild white flesh, though most anglers release bass. Large bass from many lakes carry mercury advisories. Always cooked.",
+  "animal": {
+   "diet": "Carnivore: fish, crayfish, frogs and insects; occasionally snakes, mice and ducklings",
+   "habitat": "Warm, clear to slightly turbid lakes, ponds, reservoirs and slow rivers with plants, logs and other cover",
+   "lifespan": "Up to about 16 years, rarely over 20",
+   "size": "Commonly 30–55 cm; up to about 75 cm and 10 kg",
+   "behaviour": "In spring the male fans a saucer-shaped nest in the shallows, drives off intruders, and guards the swarm of fry until they disperse.",
+   "fieldMarks": [
+    "Upper jaw extends behind the rear edge of the eye (in adults)",
+    "Dark, ragged horizontal band or row of blotches along each green flank",
+    "Spiny and soft dorsal fins almost separated by a deep notch",
+    "Greenish-olive back and pale belly"
+   ],
+   "lookalikes": "Smallmouth bass (M. dolomieu) is bronze-brown with vertical bars, and its jaw ends below the eye. Spotted bass (M. punctulatus) has rows of small dark spots on the lower flanks and a tooth patch on the tongue. Florida bass (M. floridanus) is told apart mainly by genetics and range.",
+   "whereToSee": "Lake Okeechobee (Florida bass); Lake Guntersville (Alabama); Lake Biwa (Japan, introduced); reservoirs of the US South",
+   "season": "Resident; spawns in spring once water reaches about 16–20 °C (Feb in the south to June in the north)",
+   "order": "Centrarchiformes"
+  },
+  "iucn": "LC",
+  "lore": "George Perry caught a 22 lb 4 oz (10.1 kg) largemouth in Montgomery Lake, Georgia, in 1932, the most famous record in American angling. Manabu Kurita equalled it at Lake Biwa, Japan, in 2009.",
+  "historicalNames": [
+   "Labrus salmoides",
+   "Micropterus salmoides",
+   "Green trout"
+  ],
+  "funFact": "Most field guides still call it Micropterus salmoides. A recent taxonomic review concluded that the older name M. nigricans belongs to the largemouth, and iNaturalist has adopted it."
+ },
+ {
+  "slug": "oncorhynchus-nerka",
+  "scientific": "Oncorhynchus nerka",
+  "common": "Sockeye salmon",
+  "otherNames": [
+   "Nerka нерка (Russian)",
+   "Benizake 紅鮭 (Japanese)",
+   "Red salmon",
+   "Kokanee (landlocked form)",
+   "Sθə́qəy̓ (Halkomelem, source of 'sockeye')"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Salmonidae",
+  "shelves": [
+   "freshwater",
+   "edible",
+   "migrant",
+   "ocean",
+   "keystone"
+  ],
+  "summary": "A silver ocean salmon that turns scarlet with a green head when it returns to spawn. Its runs in Bristol Bay, Alaska, number in the tens of millions, and the dying salmon carry ocean nutrients deep into lakes and forests.",
+  "nativeRange": "North Pacific: rivers and lakes from the Columbia (USA) to Alaska and Kamchatka to northern Japan; landlocked kokanee widely",
+  "regions": [
+   "North America",
+   "East Asia",
+   "Arctic",
+   "Pacific Ocean"
+  ],
+  "biomes": [
+   "North Pacific",
+   "Lakes",
+   "Cold rivers"
+  ],
+  "abilities": [
+   "Navigates thousands of kilometres of ocean back to its natal river, using the Earth's magnetic field and then smell",
+   "Young spend 1–3 years in a nursery lake, a stage most Pacific salmon skip",
+   "Spawns once and dies, and the carcasses feed bears, eagles, insects and even streamside trees with marine nitrogen",
+   "Filter-feeds on plankton with many long gill rakers"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "flesh",
+   "roe (ikura)"
+  ],
+  "edibilityNote": "Deep red, rich flesh; a major commercial salmon. Wild Pacific salmon can carry Anisakis roundworms and Diphyllobothrium tapeworm larvae, so freeze it (−20 °C for 7 days) before eating raw or cold-smoked. Mercury is low.",
+  "animal": {
+   "diet": "Zooplankton and insect larvae in lakes; at sea, krill, amphipods, copepods and small fish and squid",
+   "habitat": "North Pacific Ocean; rivers with nursery lakes for spawning",
+   "lifespan": "Usually 3–5 years (dies after spawning)",
+   "size": "Usually 55–70 cm and 2–3 kg; kokanee much smaller",
+   "behaviour": "Adults stop eating on entering fresh water and live on stored fat for the upstream run. Males grow a hump and hooked jaw and fight over females on the gravel.",
+   "fieldMarks": [
+    "At sea and fresh-run: metallic blue-green back, silver sides, no large black spots on back or tail",
+    "Spawning: bright red body, olive-green head, white lower jaw",
+    "Spawning males with a hooked jaw (kype) and humped back",
+    "Many (about 30–40) long, fine gill rakers on the first gill arch"
+   ],
+   "lookalikes": "Spawning coho is red-sided with a dark head but keeps spots on the upper tail lobe and white gums. Chum has calico-like vertical purple and green bars. Chinook is much larger, with black gums and spots on both tail lobes.",
+   "whereToSee": "Brooks Falls, Katmai National Park, Alaska (with brown bears); Adams River, British Columbia (dominant run every 4 years); Kuril Lake, Kamchatka",
+   "season": "Spawning runs June–October; peak at Brooks Falls in July and at the Adams River in October",
+   "order": "Salmoniformes"
+  },
+  "iucn": "LC",
+  "lore": "Many Pacific Northwest First Nations hold a First Salmon Ceremony each year, returning the first fish's bones to the river so the salmon will come back. The English name 'sockeye' is an anglicisation of the Halkomelem name used along the Fraser River.",
+  "historicalNames": [
+   "Salmo nerka",
+   "Blueback"
+  ],
+  "funFact": "Nitrogen from sockeye carcasses has been traced in streamside spruce trees, and studies found trees along salmon streams grow faster than those along streams without salmon."
+ },
+ {
+  "slug": "oncorhynchus-tshawytscha",
+  "scientific": "Oncorhynchus tshawytscha",
+  "common": "Chinook salmon (king salmon)",
+  "otherNames": [
+   "Chavycha чавыча (Russian)",
+   "Masunosuke マスノスケ (Japanese)",
+   "Tyee (Chinook Jargon, large fish)",
+   "Spring salmon (British Columbia)",
+   "Quinnat (New Zealand)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Salmonidae",
+  "shelves": [
+   "freshwater",
+   "edible",
+   "migrant",
+   "ocean",
+   "keystone"
+  ],
+  "summary": "The largest Pacific salmon. Yukon River fish swim some 3,000 km upstream to their spawning grounds, and southern resident orcas depend on Chinook for most of their diet.",
+  "nativeRange": "North Pacific: rivers from central California to Alaska and from Kamchatka to the Anadyr; introduced to New Zealand, Chile and the Great Lakes",
+  "regions": [
+   "North America",
+   "East Asia",
+   "Arctic",
+   "Pacific Ocean",
+   "Oceania",
+   "South America"
+  ],
+  "biomes": [
+   "North Pacific",
+   "Large rivers",
+   "Cold streams"
+  ],
+  "abilities": [
+   "Makes one of the longest freshwater migrations of any salmon, up the Yukon to headwaters in Canada",
+   "Separate spring, summer and fall runs use the same river at different times",
+   "Can exceed 45 kg, making it the largest of all Pacific salmon"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "flesh",
+   "roe"
+  ],
+  "edibilityNote": "Rich, fatty flesh; the most prized Pacific salmon. Freeze before eating raw (Anisakis and tapeworm risk). Many runs are depleted or protected, so follow local regulations.",
+  "animal": {
+   "diet": "Insects and crustaceans in rivers; at sea, herring, anchovies, sand lance, squid and krill",
+   "habitat": "North Pacific Ocean; large, cold rivers with deep pools and gravel for spawning",
+   "lifespan": "Usually 3–7 years (dies after spawning)",
+   "size": "Commonly 75–90 cm and 9–20 kg; up to about 1.5 m and 60 kg",
+   "behaviour": "Adults stop feeding when they enter fresh water. Females dig deep redds in large gravel in main-stem rivers, and the dying fish feed bears, eagles and the river itself.",
+   "fieldMarks": [
+    "Black gums along the lower jaw (hence 'blackmouth')",
+    "Irregular black spots on the back, dorsal fin and both lobes of the tail",
+    "Silvery sides and blue-green to purplish back; spawners darken to olive, maroon or blackish",
+    "Large size and a thick tail stalk"
+   ],
+   "lookalikes": "Coho salmon has white gums and spots only on the upper lobe of the tail. Steelhead has a smaller mouth, white mouth lining, and the jaw does not reach far past the eye.",
+   "whereToSee": "Kenai River, Alaska; Yukon River at Whitehorse fishway; Columbia River at Bonneville Dam fish ladder; Rakaia and Waimakariri rivers, New Zealand (introduced)",
+   "season": "Runs vary by stock: spring (Mar–Jun), summer (Jun–Aug) and fall (Aug–Nov)",
+   "order": "Salmoniformes"
+  },
+  "iucn": "LC",
+  "lore": "The Columbia River Chinook fishery at Celilo Falls was a gathering place for Native peoples for thousands of years until The Dalles Dam flooded the falls in 1957. The scientific name tshawytscha comes from the Kamchatkan name, recorded by Johann Walbaum in 1792.",
+  "historicalNames": [
+   "Salmo tshawytscha",
+   "Quinnat salmon"
+  ],
+  "funFact": "The sport-caught record is a 44 kg (97 lb 4 oz) Chinook taken from Alaska's Kenai River in 1985."
+ },
+ {
+  "slug": "arapaima-gigas",
+  "scientific": "Arapaima gigas",
+  "common": "Arapaima (pirarucu)",
+  "otherNames": [
+   "Pirarucu (Portuguese, from Tupi 'red fish')",
+   "Paiche (Spanish, Peru/Bolivia)",
+   "Warapaima (Guyana)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Arapaimidae",
+  "shelves": [
+   "freshwater",
+   "edible",
+   "ancient",
+   "marvel"
+  ],
+  "summary": "One of the largest scaled freshwater fish in the world, a red-tailed giant of Amazonian floodplain lakes that must rise to gulp air every few minutes. Overfishing almost wiped it out, and community-managed lakes have brought it back.",
+  "nativeRange": "Amazon basin floodplains of Brazil, Peru, Colombia and Ecuador, and the Essequibo (Guyana); introduced to Bolivia and parts of Asia",
+  "regions": [
+   "South America"
+  ],
+  "biomes": [
+   "Floodplain lakes (várzea)",
+   "Flooded forest",
+   "Slow rivers"
+  ],
+  "abilities": [
+   "Obligate air-breather: it gulps air into a lung-like swim bladder and drowns if kept from the surface",
+   "Has layered, mineralised scales that resist piranha bites, a structure studied by materials scientists",
+   "The male guards the young, which school around his head, and is thought to release substances from his head that nourish or signal to them",
+   "Grows to about 3 m and over 200 kg"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "flesh"
+  ],
+  "edibilityNote": "Firm, boneless white flesh, traditionally salted and dried as 'bacalhau da Amazônia'. Buy only legal, managed or farmed fish, since wild catches are restricted. Always cooked.",
+  "animal": {
+   "diet": "Carnivore: fish (especially catfish and characins), crustaceans, and occasionally birds and small animals at the surface",
+   "habitat": "Calm floodplain lakes, oxbows and flooded forest of whitewater and clearwater rivers",
+   "lifespan": "Around 15–20 years in the wild",
+   "size": "Commonly 2 m and 100 kg; up to about 3 m and 200 kg",
+   "behaviour": "Surfaces every 5–15 minutes with a loud gulp, which fishermen use to count fish. Pairs dig nests in sandy lake beds at low water, and the male guards the fry for months.",
+   "fieldMarks": [
+    "Huge, elongate cylindrical body with a flattened, bony head",
+    "Very large scales; rear body and tail flushed bright red, especially in breeding season",
+    "Dorsal and anal fins set far back near the rounded tail",
+    "Upturned mouth"
+   ],
+   "lookalikes": "Silver arowana (Osteoglossum) is much smaller and flattened, with chin barbels and long dorsal and anal fins. Several other Arapaima species have been described (A. leptosoma, A. mapae and others); most wild fish of the central Amazon are A. gigas.",
+   "whereToSee": "Mamirauá Sustainable Development Reserve (Amazonas, Brazil); Pacaya-Samiria National Reserve (Peru); Rupununi wetlands (Guyana)",
+   "season": "Resident; nests during low and rising water, roughly September–February in the central Amazon",
+   "order": "Osteoglossiformes"
+  },
+  "iucn": "DD",
+  "lore": "In Mamirauá, Brazil, from 1999 local fishers began counting pirarucu by their breaths at the surface and setting their own quotas. Fish numbers in managed lakes rose several-fold, and the method has spread across the Amazon.",
+  "funFact": "The arapaima's tongue is bony and toothed. Amazonian people traditionally dried it to use as a rasp for grating guaraná seeds."
+ },
+ {
+  "slug": "pygocentrus-nattereri",
+  "scientific": "Pygocentrus nattereri",
+  "common": "Red-bellied piranha",
+  "otherNames": [
+   "Piranha-vermelha (Portuguese)",
+   "Piranha-caju (Portuguese)",
+   "Piraña roja (Spanish)",
+   "Paña (Peruvian Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Serrasalmidae",
+  "shelves": [
+   "freshwater",
+   "edible"
+  ],
+  "summary": "The most famous piranha, with razor-edged interlocking teeth and a bright red belly. It mostly schools for safety and scavenges or nips fins, and has a far milder nature than its film reputation.",
+  "nativeRange": "Amazon, Paraguay–Paraná and Essequibo basins and coastal rivers of north-eastern Brazil",
+  "regions": [
+   "South America"
+  ],
+  "biomes": [
+   "Floodplain lakes",
+   "Slow rivers",
+   "Flooded forest",
+   "Wetlands (Pantanal)"
+  ],
+  "abilities": [
+   "Has a single row of triangular, interlocking teeth in each jaw that shear flesh like scissors",
+   "Has one of the strongest bites relative to body size of any bony fish",
+   "Schools mainly to protect itself from cormorants, dolphins and caimans",
+   "Makes barking and drumming sounds with muscles on its swim bladder when threatened or competing"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "flesh"
+  ],
+  "edibilityNote": "Eaten across the Amazon and Pantanal, notably as caldo de piranha (piranha soup). Bony. Handle catches with care: the bite cuts deeply.",
+  "animal": {
+   "diet": "Omnivore and predator: fish, fins and scales, insects, crustaceans, carrion and some seeds and plants",
+   "habitat": "Slow, warm rivers, floodplain lakes and flooded forest, often among vegetation",
+   "lifespan": "About 10 years; over 20 in captivity",
+   "size": "Usually 20–30 cm; up to about 50 cm",
+   "behaviour": "Schools of 20 or more hunt mainly at dawn and dusk. Feeding frenzies are rare and usually happen in drought-stranded pools or around injured or dead animals. Pairs spawn among plants, and the male guards the eggs.",
+   "fieldMarks": [
+    "Deep, compressed disc-shaped body with a blunt head and protruding lower jaw",
+    "Silvery-grey to olive back with glittery scales and a red to orange throat and belly",
+    "Dark spot near the gill cover in juveniles; large fish darker",
+    "Small adipose fin and a black-edged tail"
+   ],
+   "lookalikes": "Pacu (Colossoma, Piaractus) are much larger, with square, human-like molar teeth. Black piranha (Serrasalmus rhombeus) is darker, with red eyes and no red belly. Silver dollars (Metynnis) are flat, rounded, toothless-looking and plant-eating.",
+   "whereToSee": "The Pantanal (Mato Grosso, Brazil); floodplain lakes near Manaus; Llanos of Venezuela",
+   "season": "Resident; spawning peaks in the rainy season as waters rise (roughly December–April in the Pantanal)",
+   "order": "Characiformes"
+  },
+  "iucn": "LC",
+  "lore": "Theodore Roosevelt's 'Through the Brazilian Wilderness' (1914) fixed the man-eating image after he watched starved piranhas strip a cow, a scene staged for him by locals. The name is usually traced to Tupi pirá, 'fish', and sainha or anha, 'tooth'.",
+  "historicalNames": [
+   "Serrasalmus nattereri",
+   "Rooseveltiella nattereri"
+  ],
+  "funFact": "Piranhas shed and replace their teeth in batches, a whole quadrant of the jaw at a time, so they are never left with gaps in their bite."
+ },
+ {
+  "slug": "electrophorus-electricus",
+  "scientific": "Electrophorus electricus",
+  "common": "Electric eel",
+  "otherNames": [
+   "Poraquê (Portuguese, from Tupi)",
+   "Anguila eléctrica (Spanish)",
+   "Temblador (Venezuelan Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Gymnotidae",
+  "shelves": [
+   "freshwater",
+   "marvel"
+  ],
+  "summary": "Not an eel at all but a knifefish, with organs of modified muscle that fill most of its body and can deliver shocks of several hundred volts. It breathes air through its mouth and leaps out of the water to shock threats directly.",
+  "nativeRange": "Guiana Shield rivers of the Guianas, northern Brazil and southern Venezuela (since 2019 two other electric eel species are recognised elsewhere in the Amazon)",
+  "regions": [
+   "South America"
+  ],
+  "biomes": [
+   "Clearwater and blackwater rivers",
+   "Swamps",
+   "Flooded forest"
+  ],
+  "abilities": [
+   "Generates high-voltage discharges from three electric organs to stun prey and deter predators; the closely related Volta's electric eel reaches about 860 V",
+   "Uses weak electric pulses to sense its surroundings and to communicate (electrolocation)",
+   "Fires rapid pulse trains that make hidden prey twitch and reveal itself",
+   "Gets most of its oxygen by gulping air, through a heavily vascularised mouth lining",
+   "Leaps out of the water and presses its chin against a threat to send current straight into it"
+  ],
+  "animal": {
+   "diet": "Carnivore: fish, crustaceans and amphibians; juveniles eat invertebrates",
+   "habitat": "Slow, muddy or rocky streams, pools and swamps, often in oxygen-poor water",
+   "lifespan": "Poorly known in the wild; 15–20+ years in captivity",
+   "size": "Up to about 2 m and 20 kg",
+   "behaviour": "Rises to gulp air every few minutes. Males build foam nests from saliva in the dry season and guard the young, and in Volta's electric eel groups have been seen herding and shocking fish together.",
+   "fieldMarks": [
+    "Long, cylindrical, scaleless body; dark grey-brown to olive above, often with an orange or reddish throat",
+    "No dorsal, pelvic or tail fins; a long anal fin runs along most of the underside and drives swimming",
+    "Flattened head with small eyes; vent far forward, just behind the head",
+    "Regularly surfaces to gulp air"
+   ],
+   "lookalikes": "Volta's electric eel (E. voltai) of the Brazilian Shield and Vari's electric eel (E. varii) of the Amazon lowlands look nearly identical and are separated mainly by skull shape, DNA and range. True eels (Anguilla) have dorsal and tail fins, and swamp eels (Synbranchidae) lack the long anal fin.",
+   "whereToSee": "Rivers of the Guiana Shield in Suriname, French Guiana and Guyana; public aquaria worldwide",
+   "season": "Resident; breeds in the dry season",
+   "order": "Gymnotiformes"
+  },
+  "iucn": "LC",
+  "lore": "In 1800 Alexander von Humboldt watched fishermen in the Venezuelan Llanos drive horses into a pool so electric eels would exhaust their charge on them before being caught. Michael Faraday used an electric eel in London in 1838 to show that animal electricity is the same as ordinary electricity.",
+  "historicalNames": [
+   "Gymnotus electricus"
+  ],
+  "funFact": "The electric eel's organs contain thousands of stacked cells called electrocytes. Each makes only about 0.15 V, but connected in series they add up to hundreds of volts."
+ },
+ {
+  "slug": "osteoglossum-bicirrhosum",
+  "scientific": "Osteoglossum bicirrhosum",
+  "common": "Silver arowana",
+  "otherNames": [
+   "Aruanã (Portuguese)",
+   "Arahuana (Spanish, Peru)",
+   "Macaco-d'água ('water monkey', Portuguese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Osteoglossidae",
+  "shelves": [
+   "freshwater",
+   "edible",
+   "ancient",
+   "marvel"
+  ],
+  "summary": "A long, silver bonytongue that cruises just under the surface of Amazonian flooded forests and leaps up to 2 m to snatch beetles, spiders, birds and even bats from overhanging branches. Males brood the eggs and young in their mouths.",
+  "nativeRange": "Amazon basin and the Rupununi and Oyapock rivers (Guyana, French Guiana); introduced to parts of North America and Asia via aquarium releases",
+  "regions": [
+   "South America"
+  ],
+  "biomes": [
+   "Flooded forest (igapó and várzea)",
+   "Floodplain lakes",
+   "Slow rivers"
+  ],
+  "abilities": [
+   "Leaps clear of the water to catch insects, spiders and small birds and bats on branches, which earns it the name 'water monkey'",
+   "Males mouth-brood eggs and then shelter the fry in their mouths for weeks",
+   "Two chin barbels sense ripples from prey falling onto the surface"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "flesh"
+  ],
+  "edibilityNote": "Eaten locally in the Amazon. Fishing for brooding males to supply the aquarium fry trade is a conservation concern in Peru and Colombia, so buy only legally sourced fish.",
+  "animal": {
+   "diet": "Carnivore: insects, spiders, crustaceans, fish, and occasionally birds, bats and snakes",
+   "habitat": "Surface waters of flooded forests, lakes and slow rivers",
+   "lifespan": "10–15 years or more",
+   "size": "Usually 60–90 cm; up to about 1.2 m",
+   "behaviour": "Patrols just under the surface with its large upturned mouth. During the flood season it spreads into the forest canopy layer of flooded trees to hunt.",
+   "fieldMarks": [
+    "Long, laterally compressed, tapering silver body with very large scales",
+    "Dorsal and anal fins long and set far back, almost meeting the small tail",
+    "Steeply upturned mouth with two forward-pointing barbels on the chin tip",
+    "Juveniles carry a large yolk sac under the belly"
+   ],
+   "lookalikes": "Black arowana (O. ferreirai) of the Rio Negro is very similar but its juveniles are black with a yellow stripe. Asian arowana (Scleropages) is deeper-bodied, with a shorter anal fin and larger, often coloured scales.",
+   "whereToSee": "Floodplain lakes near Iquitos (Peru) and Manaus (Brazil); Mamirauá Reserve",
+   "season": "Resident; breeds at the start of the flood season (roughly December–February)",
+   "order": "Osteoglossiformes"
+  },
+  "iucn": "LC",
+  "lore": "Georges Cuvier described the species in 1829 from Brazilian specimens. Across Amazonian Brazil the aruanã appears in riverside folklore as a guardian of the flooded forest, and the Karajá people of the Araguaia river hold an Aruanã festival with masked dancers.",
+  "historicalNames": [
+   "Ischnosoma bicirrhosum"
+  ],
+  "funFact": "Osteoglossum means 'bony tongue' in Greek: like the arapaima, the arowana has a toothed bony tongue that it uses to crush prey against the roof of its mouth."
+ },
+ {
+  "slug": "scleropages-formosus",
+  "scientific": "Scleropages formosus",
+  "common": "Asian arowana (dragon fish)",
+  "otherNames": [
+   "Lóngyú 龍魚 (Chinese)",
+   "Kelesa (Malay)",
+   "Siluk (Indonesian)",
+   "Pla tapad ปลาตะพัด (Thai)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Osteoglossidae",
+  "shelves": [
+   "freshwater",
+   "endangered",
+   "ancient",
+   "sacred"
+  ],
+  "summary": "A metallic-scaled bonytongue revered in Chinese culture as a living dragon that brings luck and wealth. Prized red and gold varieties have sold for tens of thousands of dollars, and wild fish are now rare.",
+  "nativeRange": "Southeast Asia: Cambodia, Vietnam, Thailand, Myanmar, peninsular Malaysia, Sumatra and Borneo (Indonesia and Malaysia)",
+  "regions": [
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Blackwater rivers",
+   "Peat swamp forest",
+   "Flooded forest"
+  ],
+  "abilities": [
+   "Males mouth-brood eggs and young for about two months",
+   "Leaps from the water to grab insects, spiders and small vertebrates from overhanging vegetation",
+   "Different wild populations carry distinct colours: green, silver, golden (Malaysia, Sumatra) and red (Borneo)"
+  ],
+  "animal": {
+   "diet": "Carnivore: insects, spiders, small fish, frogs and other small animals at the surface",
+   "habitat": "Slow blackwater rivers, swamp forests and flooded forest with overhanging vegetation",
+   "lifespan": "Around 15–20 years; captive fish reportedly older",
+   "size": "Up to about 90 cm",
+   "behaviour": "Hunts at the surface with an upturned mouth. In captivity it is solitary and aggressive toward its own kind.",
+   "fieldMarks": [
+    "Long, laterally compressed body with very large, often metallic scales in five horizontal rows",
+    "Upturned mouth with two short chin barbels",
+    "Dorsal and anal fins set far back near a rounded tail",
+    "Colour variants: green, silver, golden-crossback or red"
+   ],
+   "lookalikes": "Silver arowana (Osteoglossum) is slimmer, with a much longer anal fin and smaller scales. The northern (gulf) saratoga (Scleropages jardinii) of northern Australia and New Guinea and the spotted saratoga (S. leichardti) of Queensland have red-spotted scales.",
+   "whereToSee": "Wild: the Kapuas basin (West Kalimantan, Borneo) and Danau Sentarum; captive-bred fish in aquaria across East and Southeast Asia",
+   "season": "Resident; breeds in the rainy season",
+   "order": "Osteoglossiformes"
+  },
+  "iucn": "EN",
+  "lore": "The fish's large coin-like scales and whisker barbels recall the Chinese dragon, and keeping one is believed in feng shui to bring prosperity. It has been on CITES Appendix I since 1975, and only registered captive-bred fish, each with an implanted microchip, may be traded internationally.",
+  "historicalNames": [
+   "Osteoglossum formosum"
+  ],
+  "funFact": "Each legally traded Asian arowana carries a microchip and a certificate so it can be traced back to a registered farm."
+ },
+ {
+  "slug": "lates-niloticus",
+  "scientific": "Lates niloticus",
+  "common": "Nile perch",
+  "otherNames": [
+   "Qishr bayad قشر بياض (Egyptian Arabic)",
+   "Mbuta (Luganda/Luo)",
+   "Giwan ruwa (Hausa)",
+   "Capitaine (French, West Africa)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Latidae",
+  "shelves": [
+   "freshwater",
+   "edible"
+  ],
+  "summary": "A giant predator of the Nile, Niger, Congo and Lake Chad that can reach 2 m and 200 kg. Its introduction into Lake Victoria in the 1950s caused one of the largest vertebrate extinction events of the 20th century and built a fillet-export industry.",
+  "nativeRange": "Nile, Niger, Chad, Senegal, Volta and Congo basins and lakes Albert and Turkana; introduced to lakes Victoria, Kyoga and others",
+  "regions": [
+   "Sub-Saharan Africa",
+   "North Africa"
+  ],
+  "biomes": [
+   "Large rivers",
+   "Great lakes",
+   "Reservoirs"
+  ],
+  "abilities": [
+   "Eats almost any fish, including smaller Nile perch",
+   "Grows fast, so it dominates a lake food web within a few decades of arriving",
+   "A large female can spawn millions of eggs per season"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "flesh",
+   "swim bladder (dried, exported as fish maw)"
+  ],
+  "edibilityNote": "Firm, white, mild fillets, exported from Lake Victoria to Europe and beyond. The dried swim bladder is a high-value export to East Asia. Always cooked. Large fish from polluted bays may carry mercury.",
+  "animal": {
+   "diet": "Carnivore: fish (cichlids, cyprinids, Nile perch), prawns and insects as juveniles",
+   "habitat": "Open water and deep zones of lakes and large rivers; juveniles in shallow inshore water",
+   "lifespan": "Up to about 16 years",
+   "size": "Commonly 1 m; up to about 2 m and 200 kg",
+   "behaviour": "Juveniles feed on invertebrates in shallow inshore water, then switch to hunting fish as they grow.",
+   "fieldMarks": [
+    "Robust, perch-like silvery body with blue-grey to greenish back",
+    "Two dorsal fins, almost separated: a high spiny first and a soft second",
+    "Large mouth with the jaw extending behind the eye; large eye that shines in torchlight",
+    "Rounded tail; concave head profile in large fish"
+   ],
+   "lookalikes": "Other Lates species of Lake Tanganyika (L. angustifrons, L. mariae) are hard to separate and limited to that lake. Barramundi (L. calcarifer) is Asian and Australian only.",
+   "whereToSee": "Lake Nasser (Egypt) and Murchison Falls on the Victoria Nile (Uganda) for sport fishing; fish landings at Kisumu and Mwanza on Lake Victoria",
+   "season": "Resident; breeds through much of the year, with peaks in the rains",
+   "order": "Carangaria incertae sedis (traditionally Perciformes)"
+  },
+  "iucn": "LC",
+  "lore": "Ancient Egyptians mummified Nile perch at Esna, which the Greeks called Latopolis, 'city of the Lates'. Hubert Sauper's documentary 'Darwin's Nightmare' (2004) showed the social cost of the Lake Victoria Nile perch export trade.",
+  "historicalNames": [
+   "Latos",
+   "Perca nilotica"
+  ],
+  "funFact": "After its introduction, around 200 of Lake Victoria's endemic haplochromine cichlid species are thought to have disappeared or become extremely rare, although a few have since been found again."
+ },
+ {
+  "slug": "oreochromis-niloticus",
+  "scientific": "Oreochromis niloticus",
+  "common": "Nile tilapia",
+  "otherNames": [
+   "Bolti بلطي (Arabic)",
+   "Ngege (Swahili)",
+   "Pla nin ปลานิล (Thai)",
+   "Tilápia-do-nilo (Portuguese)",
+   "Cá rô phi (Vietnamese)",
+   "St Peter's fish (trade name)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Cichlidae",
+  "shelves": [
+   "freshwater",
+   "edible",
+   "staple"
+  ],
+  "summary": "A hardy African cichlid that has become one of the world's most farmed fish. Females carry their eggs and fry in their mouths. It was a symbol of rebirth in ancient Egypt, and today it feeds millions from Thailand to Brazil.",
+  "nativeRange": "Nile basin, West African rivers (Niger, Volta, Senegal, Gambia), Lake Chad and Rift Valley lakes such as Turkana and Tanganyika; introduced to over 100 countries",
+  "regions": [
+   "North Africa",
+   "Sub-Saharan Africa",
+   "West Asia",
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Rivers",
+   "Lakes",
+   "Ponds",
+   "Reservoirs"
+  ],
+  "abilities": [
+   "Females brood eggs and fry in their mouths and let the young dart back in when danger threatens",
+   "Filter-feeds on phytoplankton and grazes algae, so it grows on cheap feed",
+   "Tolerates warm, low-oxygen, crowded and slightly brackish water",
+   "Becomes invasive easily, and has displaced native fish in many tropical lakes"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "flesh"
+  ],
+  "edibilityNote": "Mild, lean white fillets; a cheap staple protein. Farm quality varies with water and feed. Always cook it: raw freshwater fish in Southeast Asia have been linked to Streptococcus agalactiae infections, and tilapia can carry trematode larvae.",
+  "animal": {
+   "diet": "Omnivore: phytoplankton, algae, detritus and some invertebrates",
+   "habitat": "Shallow, warm lakes, rivers, ponds and canals",
+   "lifespan": "Around 9–10 years",
+   "size": "Usually 20–40 cm; up to about 60 cm and 4 kg",
+   "behaviour": "Males dig pits in the lake floor and defend them, flushing reddish while displaying. Females pick up the fertilised eggs and brood them in their mouths for about two weeks.",
+   "fieldMarks": [
+    "Deep, perch-like body with a long continuous dorsal fin, spiny in front",
+    "Regular vertical dark bars on the tail fin (a key mark)",
+    "Greyish to olive body with faint vertical bands; breeding males with pinkish-red throat and fins",
+    "Single nostril on each side of the snout (typical of cichlids)"
+   ],
+   "lookalikes": "Mozambique tilapia (O. mossambicus) has no regular bars on the tail, and breeding males are blackish with white lower jaws. Blue tilapia (O. aureus) has a red-edged tail fin and no regular vertical barring. Redbelly tilapia (Coptodon zillii) has a dark 'tilapia spot' on the soft dorsal fin.",
+   "whereToSee": "The Nile at Cairo and Aswan; Lake Turkana (Kenya); fish ponds and markets across Egypt, Thailand, the Philippines and Brazil",
+   "season": "Resident; breeds year-round in warm water",
+   "order": "Cichliformes"
+  },
+  "iucn": "LC",
+  "lore": "The hieroglyph of a tilapia (Gardiner sign K1) stood for the fish and for rebirth, because the young seemed to be swallowed and reborn from the mother's mouth. Tomb paintings at Thebes, such as Nebamun's, show tilapia ponds in Egyptian gardens. In Thailand the farmed strain was a 1965 gift from Crown Prince Akihito to King Bhumibol.",
+  "historicalNames": [
+   "Chromis nilotica",
+   "Tilapia nilotica",
+   "Bolti"
+  ],
+  "funFact": "The Thai name pla nin was coined by King Bhumibol, from 'Nile', after he bred the 50 fish Akihito sent him at the palace ponds."
+ },
+ {
+  "slug": "pangasianodon-gigas",
+  "scientific": "Pangasianodon gigas",
+  "common": "Mekong giant catfish",
+  "otherNames": [
+   "Pla buek ปลาบึก (Thai)",
+   "Pa beuk (Lao)",
+   "Trey reach (Khmer, 'royal fish')",
+   "Cá tra dầu (Vietnamese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Pangasiidae",
+  "shelves": [
+   "freshwater",
+   "edible",
+   "migrant",
+   "endangered",
+   "marvel"
+  ],
+  "summary": "Among the largest freshwater fish ever weighed, a toothless, algae-eating giant of the Mekong that can top 290 kg. Wild numbers have collapsed with dams and overfishing, and it is Critically Endangered.",
+  "nativeRange": "Mekong basin of Cambodia, Laos, Thailand, Vietnam and possibly Myanmar and China; farmed in Thai reservoirs",
+  "regions": [
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Large rivers",
+   "Deep river pools",
+   "Tonlé Sap lake system"
+  ],
+  "abilities": [
+   "Grows over 2.5 m and nearly 300 kg on a diet mostly of algae and plants",
+   "Loses its teeth as it grows",
+   "Makes long migrations along the Mekong, apparently between Cambodian rearing areas and upstream spawning grounds"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "flesh"
+  ],
+  "edibilityNote": "Traditionally eaten in Thailand and Laos. Wild capture is now banned or restricted across its range, and most pla buek sold in Thailand is reservoir-farmed. Do not eat wild-caught fish.",
+  "animal": {
+   "diet": "Herbivore as adults: algae and plant matter grazed from the riverbed; juveniles eat zooplankton",
+   "habitat": "Deep channels and pools of the main Mekong and large tributaries",
+   "size": "Up to about 3 m and 300 kg; the record 293 kg fish was 2.7 m long",
+   "behaviour": "Adults are believed to swim upriver at the end of the dry season to spawn in northern Thailand and Laos as the river rises.",
+   "fieldMarks": [
+    "Huge, shark-like, scaleless grey body with a white belly",
+    "Small eyes set low on the head, below the line of the mouth",
+    "Adults have no barbels (juveniles have tiny ones) and no teeth",
+    "Forked tail and a small adipose fin"
+   ],
+   "lookalikes": "Striped catfish (Pangasianodon hypophthalmus), the farmed 'swai' or 'tra', is much smaller, with barbels and stripes in juveniles. Giant pangasius (Pangasius sanitwongsei) has a toothed mouth, long barbels and dark-edged fins.",
+   "whereToSee": "Bueng Boraphet reservoir and fishing parks in Thailand (farmed fish); Chiang Khong on the Mekong (historical fishery); public aquaria",
+   "season": "Upstream migration and spawning April–June as Mekong waters rise",
+   "order": "Siluriformes"
+  },
+  "iucn": "CR",
+  "lore": "Fishers at Chiang Khong, Thailand, held ceremonies to the river spirits before the yearly pla buek hunt, a tradition of the Tai Lue and Lao. In May 2005 they landed a 293 kg female, the heaviest freshwater fish weighed and documented at the time.",
+  "historicalNames": [
+   "Pangasius gigas"
+  ],
+  "funFact": "Even at nearly 300 kg, adults feed mostly on algae, making the Mekong giant catfish one of the largest plant-eating fish known."
+ },
+ {
+  "slug": "symphysodon-aequifasciatus",
+  "scientific": "Symphysodon aequifasciatus",
+  "common": "Discus (blue/brown discus)",
+  "otherNames": [
+   "Acará-disco (Portuguese)",
+   "Pompadour (German/Dutch aquarists)",
+   "Disco (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Cichlidae",
+  "shelves": [
+   "freshwater"
+  ],
+  "summary": "A plate-round cichlid of Amazonian floodplain forests and an aquarium icon. Both parents feed their young on a nutrient-rich mucus they secrete from their skin, a strategy compared to mammalian milk.",
+  "nativeRange": "Central and western Amazon floodplains of Brazil, Peru and Colombia",
+  "regions": [
+   "South America"
+  ],
+  "biomes": [
+   "Flooded forest",
+   "Floodplain lakes",
+   "Slow, warm rivers"
+  ],
+  "abilities": [
+   "Both parents feed fry with secretions from their skin for the first weeks of life",
+   "Shoals among sunken branches and roots in flooded forest for protection",
+   "Changes colour quickly, darkening with stress and brightening during courtship"
+  ],
+  "animal": {
+   "diet": "Omnivore: small invertebrates, insect larvae, algae, plant matter and detritus",
+   "habitat": "Warm, soft-water flooded forest and lake margins with fallen trees and roots",
+   "lifespan": "Around 10–15 years in captivity",
+   "size": "Up to about 15–20 cm across",
+   "behaviour": "Gathers in groups among submerged wood at high water. Pairs lay eggs on smooth branches and fan them, and the fry graze mucus from their parents' sides.",
+   "fieldMarks": [
+    "Nearly circular, very compressed body",
+    "Nine vertical dark bars, often faint except the first (through the eye) and last (at the tail base)",
+    "Brown to bluish base colour with blue wavy lines on head and fins in many populations",
+    "Red eyes; long dorsal and anal fins edging the disc"
+   ],
+   "lookalikes": "Heckel discus (Symphysodon discus) of the Rio Negro has a bold, wide dark central bar. Angelfish (Pterophyllum) are taller than long, with very elongated fins.",
+   "whereToSee": "Lake Tefé and the Purus and Solimões floodplains (Brazil); public aquaria; specialist breeders in Germany and Southeast Asia",
+   "season": "Resident; breeds as waters rise, roughly October–January",
+   "order": "Cichliformes"
+  },
+  "iucn": "LC",
+  "lore": "Jacob Heckel described the first discus species in 1840 from Johann Natterer's Brazilian collections. Breeders in Germany and later Southeast Asia turned the wild fish into colour strains like turquoise, pigeon-blood and red melon.",
+  "funFact": "Discus 'milk' contains antibodies and hormones, and in the first days after free-swimming the fry depend on it; aquarists find them very hard to raise without the parents."
+ },
+ {
+  "slug": "pterophyllum-scalare",
+  "scientific": "Pterophyllum scalare",
+  "common": "Freshwater angelfish",
+  "otherNames": [
+   "Acará-bandeira (Portuguese, 'flag cichlid')",
+   "Escalar (Spanish)",
+   "Skalar (German)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Cichlidae",
+  "shelves": [
+   "freshwater"
+  ],
+  "summary": "A tall, silver Amazonian cichlid with sweeping fins and black bars, built to hide among reeds and sunken branches. It is one of the best-known aquarium fish, and pairs bond and raise their young together.",
+  "nativeRange": "Amazon basin in Brazil, Colombia, Peru, French Guiana and Guyana (Amapá, Oyapock and Essequibo rivers)",
+  "regions": [
+   "South America"
+  ],
+  "biomes": [
+   "Flooded forest",
+   "Swamps",
+   "Slow, vegetated rivers"
+  ],
+  "abilities": [
+   "Its very compressed body and vertical bars help it blend in among vertical reeds and roots",
+   "Pairs clean a leaf or branch, lay rows of eggs on it, and both parents fan and guard them",
+   "Parents move wrigglers to fresh pits or leaves in their mouths"
+  ],
+  "animal": {
+   "diet": "Carnivore and omnivore: small fish, insect larvae, crustaceans and worms",
+   "habitat": "Quiet, vegetated, often tannin-stained water among roots, plants and sunken wood",
+   "lifespan": "About 10 years in captivity",
+   "size": "About 15 cm long and up to 25 cm tall including fins",
+   "behaviour": "Hovers among stems in small groups, then pairs off to breed and become strongly territorial.",
+   "fieldMarks": [
+    "Disc-shaped, extremely compressed body, taller than long with fins",
+    "Very long, triangular dorsal and anal fins and threadlike pelvic fins",
+    "Silver with three to four bold black vertical bars, one through the eye"
+   ],
+   "lookalikes": "Altum angelfish (P. altum) of the Orinoco and Rio Negro is taller, with a notch above the snout. Leopold's angelfish (P. leopoldi) has a dark spot at the dorsal-fin base and a less prominent tail bar. Discus is round, not tall.",
+   "whereToSee": "Amazonian floodplains near Santarém and Manaus; public aquaria and home aquaria worldwide",
+   "season": "Resident; breeds through the rainy season",
+   "order": "Cichliformes"
+  },
+  "iucn": "LC",
+  "lore": "Imported to Europe in the early 20th century, angelfish were bred in American aquaria by the 1920s and were among the first tropical fish kept as household pets.",
+  "historicalNames": [
+   "Zeus scalaris",
+   "Platax scalaris"
+  ],
+  "funFact": "The name Pterophyllum means 'winged leaf' in Greek, after its leaf-like body and wing-like fins."
+ },
+ {
+  "slug": "paracheirodon-innesi",
+  "scientific": "Paracheirodon innesi",
+  "common": "Neon tetra",
+  "otherNames": [
+   "Neon (Portuguese/Spanish)",
+   "Néon-tetra (Portuguese)",
+   "Neonsalmler (German)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Acestrorhamphidae",
+  "shelves": [
+   "freshwater"
+  ],
+  "summary": "A tiny Amazonian schooling fish whose glowing blue-green stripe made it the most popular aquarium fish of the 20th century. Its iridescent colour comes from microscopic reflecting platelets in its skin, not from pigment.",
+  "nativeRange": "Western Amazon blackwater and clearwater streams of Peru, Colombia and Brazil (Putumayo and upper Solimões area)",
+  "regions": [
+   "South America"
+  ],
+  "biomes": [
+   "Blackwater streams",
+   "Forest creeks",
+   "Flooded forest"
+  ],
+  "abilities": [
+   "Its blue stripe works like a living light filter: stacked guanine platelets tilt to shift the colour from green-blue in light to violet-blue in dimness",
+   "Schools tightly, so the flashing stripes can confuse predators",
+   "Lives in soft, very acidic water with almost no dissolved minerals"
+  ],
+  "animal": {
+   "diet": "Micropredator: small insects, larvae, crustaceans and worms",
+   "habitat": "Shaded, slow, tannin-stained forest streams with leaf litter and roots",
+   "lifespan": "Usually 2–3 years in the wild; up to 8–10 in aquaria",
+   "size": "Up to about 3–4 cm",
+   "behaviour": "Moves in schools among roots and leaf litter, and at night fades its colours to rest.",
+   "fieldMarks": [
+    "Tiny, slender body with an iridescent electric blue-green stripe from eye to adipose fin",
+    "Red stripe on the rear half of the lower body only",
+    "Silvery-white belly in front of the red area",
+    "Small adipose fin"
+   ],
+   "lookalikes": "Cardinal tetra (P. axelrodi) has red along the whole length of the belly beneath the blue stripe. Green neon (P. simulans) is smaller, with a greener stripe and much less red.",
+   "whereToSee": "Blackwater creeks of the Peruvian and Colombian Amazon near the Putumayo; aquaria worldwide",
+   "season": "Resident; breeds at the start of the rainy season",
+   "order": "Characiformes"
+  },
+  "iucn": "LC",
+  "lore": "First collected by Auguste Rabaut in the 1930s and shipped to Europe in 1936, it was named after the American aquarist William T. Innes. Most neons in shops today come from fish farms in Southeast Asia and Florida, not the wild.",
+  "historicalNames": [
+   "Hyphessobrycon innesi"
+  ],
+  "funFact": "The neon's stripe changes colour without any change in pigment: in the dark the reflecting platelets tilt and the stripe shifts from cyan to deep blue-violet."
+ },
+ {
+  "slug": "astyanax-mexicanus",
+  "scientific": "Astyanax mexicanus",
+  "common": "Mexican tetra (blind cavefish)",
+  "otherNames": [
+   "Sardinita mexicana (Spanish)",
+   "Pez ciego de las cavernas (Spanish)",
+   "Blind cave tetra (aquarium)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Acestrorhamphidae",
+  "shelves": [
+   "freshwater",
+   "marvel"
+  ],
+  "summary": "One species, two worlds: a silvery river tetra, and blind, pink cave-dwelling forms that lost their eyes and pigment in the darkness of Mexican caves. Biologists study the pair to see how evolution rewires genes.",
+  "nativeRange": "Lower Rio Grande and Pecos (Texas) south through north-eastern and central Mexico; cave forms in about 30 caves of the Sierra de El Abra and Sierra de Guatemala, Tamaulipas and San Luis Potosí",
+  "regions": [
+   "North America",
+   "Central America"
+  ],
+  "biomes": [
+   "Rivers and streams",
+   "Limestone caves"
+  ],
+  "abilities": [
+   "Cave forms begin to grow eyes as embryos, then the eyes degenerate and are covered by skin",
+   "Cavefish sleep far less than surface fish of the same species",
+   "Cavefish resist starvation by storing fat and live healthily with high blood sugar and insulin resistance",
+   "Compensates for blindness with more taste buds and an enhanced lateral line"
+  ],
+  "animal": {
+   "diet": "Omnivore: insects, small crustaceans, algae and detritus; cavefish eat bat guano and organic debris",
+   "habitat": "Surface: clear streams and rivers; cave forms: pools and streams of limestone caves",
+   "lifespan": "Up to about 15 years in captivity",
+   "size": "Up to about 12 cm",
+   "behaviour": "Surface fish school by day, while cave fish forage alone along the bottom with their heads tilted down.",
+   "fieldMarks": [
+    "Surface form: silvery tetra with a dark spot or stripe at the tail base and reddish fins",
+    "Cave form: pink-white, no visible eyes, skin over the eye sockets",
+    "Adipose fin present in both"
+   ],
+   "lookalikes": "Other Astyanax tetras in Central America (A. aeneus and others) are only told apart in the hand. In the caves of the Sierra de El Abra region, no other eyeless fish looks like it.",
+   "whereToSee": "Cueva de El Pachón and Sótano de la Tinaja (permits needed); surface fish in the Río Tampaón and Río Guayalejo; aquaria and research labs",
+   "season": "Resident; cavefish breed opportunistically year-round",
+   "order": "Characiformes"
+  },
+  "iucn": "LC",
+  "lore": "Mexican biologist Salvador Coronado collected the first blind cavefish at the Cueva Chica in 1936, and they were described as a new genus, Anoptichthys, before they were found to interbreed with river tetras. Darwin, writing before this discovery, had argued that cave animals lose their eyes through disuse.",
+  "historicalNames": [
+   "Anoptichthys jordani",
+   "Tetragonopterus mexicanus"
+  ],
+  "funFact": "Blind cavefish and sighted surface fish can still interbreed, and some of the hybrids have partial eyes."
+ },
+ {
+  "slug": "poecilia-reticulata",
+  "scientific": "Poecilia reticulata",
+  "common": "Guppy",
+  "otherNames": [
+   "Lebistes (aquarium, older)",
+   "Barrigudinho (Portuguese)",
+   "Millions fish (Caribbean)",
+   "Pez millón (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Poeciliidae",
+  "shelves": [
+   "freshwater",
+   "marvel"
+  ],
+  "summary": "A tiny, live-bearing fish of Trinidad and northern South America whose wildly patterned males made it a star of evolution research and the world's best-known aquarium fish. It has been released worldwide to eat mosquito larvae.",
+  "nativeRange": "North-eastern South America (Venezuela, Guyana, Suriname, northern Brazil) and Trinidad, Tobago and Barbados; introduced across the tropics",
+  "regions": [
+   "South America",
+   "Caribbean",
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Streams",
+   "Ponds",
+   "Ditches",
+   "Brackish lagoons"
+  ],
+  "abilities": [
+   "Gives birth to live young; females store sperm and can have several broods from one mating",
+   "Wild populations evolve duller or brighter males within a few generations depending on predators, as shown by experiments in Trinidad",
+   "Tolerates polluted, warm and brackish water"
+  ],
+  "animal": {
+   "diet": "Omnivore: algae, mosquito and other insect larvae, small invertebrates and detritus",
+   "habitat": "Shallow streams, pools, ditches and ponds, including disturbed and polluted waters",
+   "lifespan": "About 2 years",
+   "size": "Males about 2–3 cm; females to about 5 cm",
+   "behaviour": "Males constantly court females with sigmoid displays or attempt sneaky matings. Females prefer males with more orange.",
+   "fieldMarks": [
+    "Males tiny with mosaic patterns of orange, black, blue and iridescent spots, and often a large tail",
+    "Females larger, drab olive-grey, with a dark 'gravid spot' near the vent",
+    "Male anal fin modified into a tube-like gonopodium",
+    "Upturned mouth"
+   ],
+   "lookalikes": "Mosquitofish (Gambusia) are similar livebearers but males are plain grey, sometimes with black spots. Endler's guppy (Poecilia wingei) from Venezuela has smaller, more metallic males.",
+   "whereToSee": "Streams of Trinidad's Northern Range (Aripo and Yarra rivers); drains and canals across the tropics where introduced",
+   "season": "Resident; breeds year-round",
+   "order": "Cyprinodontiformes"
+  },
+  "iucn": "LC",
+  "lore": "Named after Robert John Lechmere Guppy, who sent specimens from Trinidad to the British Museum in 1866. John Endler's experiments in Trinidad in the late 1970s, moving guppies above waterfalls, became a classic demonstration of natural selection in the wild.",
+  "historicalNames": [
+   "Girardinus guppii",
+   "Lebistes reticulatus"
+  ],
+  "funFact": "Female guppies can store sperm for months, so a single female introduced to new water can found a whole population."
+ },
+ {
+  "slug": "betta-splendens",
+  "scientific": "Betta splendens",
+  "common": "Siamese fighting fish",
+  "otherNames": [
+   "Pla kat ปลากัด (Thai)",
+   "Ikan laga (Malay)",
+   "Betta (aquarium)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Osphronemidae",
+  "shelves": [
+   "freshwater",
+   "endangered"
+  ],
+  "summary": "A small air-breathing fish of Thai paddies and marshes, bred over centuries for combat and later for flowing colourful fins. Wild populations are now Vulnerable as their wetlands vanish.",
+  "nativeRange": "Central Thailand and the Chao Phraya and Mekong basins (Cambodia, Laos, Vietnam); introduced elsewhere",
+  "regions": [
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Rice paddies",
+   "Marshes",
+   "Swamps",
+   "Ditches"
+  ],
+  "abilities": [
+   "Breathes air with a labyrinth organ, so it survives in tiny, stagnant puddles",
+   "Males build floating bubble nests and guard eggs and fry",
+   "Males flare their gill covers and fins in aggressive displays to rivals"
+  ],
+  "animal": {
+   "diet": "Carnivore: insects and their larvae, zooplankton",
+   "habitat": "Shallow, still, vegetated waters: paddies, marshes and floodplain pools",
+   "lifespan": "About 2–3 years; up to 5 in captivity",
+   "size": "Around 6 cm",
+   "behaviour": "Males guard a territory and a bubble nest. After spawning they catch falling eggs in their mouths and place them in the nest.",
+   "fieldMarks": [
+    "Wild males: dull reddish-brown with iridescent blue-green scales and red-tinted fins",
+    "Domestic males: very long, flowing fins in reds, blues and whites",
+    "Upturned mouth; long anal fin and short dorsal set back",
+    "Females smaller and duller, with shorter fins"
+   ],
+   "lookalikes": "Other wild Betta species (B. imbellis, B. smaragdina, B. mahachaiensis) are very similar and best told apart by range and fin and colour details. Gouramis have thread-like pelvic fins.",
+   "whereToSee": "Paddy fields and marshes of central Thailand (wild fish increasingly rare); fish markets of Bangkok's Chatuchak; aquaria worldwide",
+   "season": "Resident; breeds in the rainy season (May–October)",
+   "order": "Anabantiformes"
+  },
+  "iucn": "VU",
+  "lore": "Siamese villagers bred short-finned fighting strains (pla kat) for wagering for centuries, and King Rama III is said to have licensed and taxed the fights. In 2019 Thailand declared the betta its national aquatic animal.",
+  "historicalNames": [
+   "Betta pugnax (misapplied)"
+  ],
+  "funFact": "The genus name Betta may come from the Malay 'ikan bettah', and splendens means 'splendid'."
+ },
+ {
+  "slug": "danio-rerio",
+  "scientific": "Danio rerio",
+  "common": "Zebrafish",
+  "otherNames": [
+   "Zebra danio",
+   "Poisson-zèbre (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Danionidae",
+  "shelves": [
+   "freshwater",
+   "marvel"
+  ],
+  "summary": "A small striped minnow of South Asian paddies and streams that became one of biology's most important laboratory animals. Its transparent embryos develop in days, and it can regrow its heart, fins and retina.",
+  "nativeRange": "India, Bangladesh, Nepal and Bhutan (Ganges and Brahmaputra basins), possibly Pakistan and Myanmar",
+  "regions": [
+   "South Asia"
+  ],
+  "biomes": [
+   "Rice paddies",
+   "Slow streams",
+   "Ponds"
+  ],
+  "abilities": [
+   "Regrows damaged heart muscle, fins, spinal cord and retina",
+   "Embryos are transparent and develop from egg to swimming larva in about 3 days",
+   "About 70% of human genes have a zebrafish counterpart, making it a model for disease research"
+  ],
+  "animal": {
+   "diet": "Omnivore: zooplankton, insects and larvae, algae",
+   "habitat": "Shallow, still or slow-flowing vegetated water, including rice paddies",
+   "lifespan": "Usually 2–3 years; up to 5",
+   "size": "Up to about 4 cm",
+   "behaviour": "Forms shoals and spawns at dawn, with females scattering eggs over vegetation and gravel.",
+   "fieldMarks": [
+    "Slender, small minnow body with 5–7 horizontal blue-black stripes running to the tail tip",
+    "Silvery-gold to yellow stripes between the dark ones",
+    "Two pairs of barbels",
+    "Striped anal fin"
+   ],
+   "lookalikes": "Pearl danio (Devario/Danio albolineatus) has no stripes but a pinkish iridescent sheen. Giant danio (Devario aequipinnatus) is bigger, with broken stripes and a yellow ground colour.",
+   "whereToSee": "Paddy fields and streams of West Bengal and Bangladesh during the monsoon; research labs worldwide",
+   "season": "Resident; breeds mostly in the monsoon",
+   "order": "Cypriniformes"
+  },
+  "iucn": "LC",
+  "lore": "Buchanan-Hamilton described it from the Ganges in 1822. George Streisinger at the University of Oregon developed it as a lab model in the 1970s, and his 1981 Nature paper on producing clonal, homozygous zebrafish launched zebrafish genetics.",
+  "historicalNames": [
+   "Cyprinus rerio",
+   "Brachydanio rerio"
+  ],
+  "funFact": "The zebrafish's stripes self-organise through interactions between three kinds of pigment cells, a textbook living example of the pattern-forming mechanism proposed by Alan Turing."
+ },
+ {
+  "slug": "toxotes-jaculatrix",
+  "scientific": "Toxotes jaculatrix",
+  "common": "Banded archerfish",
+  "otherNames": [
+   "Pla sua phon nam ปลาเสือพ่นน้ำ (Thai)",
+   "Ikan sumpit (Malay, 'blowpipe fish')",
+   "Cá mang rỗ (Vietnamese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Toxotidae",
+  "shelves": [
+   "freshwater",
+   "marvel"
+  ],
+  "summary": "A mangrove fish that shoots down insects with a jet of water fired from its mouth, correcting for the bending of light at the surface. Experiments show it can learn to recognise human faces.",
+  "nativeRange": "Coasts and estuaries from India and Sri Lanka through Southeast Asia to northern Australia, New Guinea and the western Pacific islands",
+  "regions": [
+   "South Asia",
+   "Southeast Asia",
+   "Australia",
+   "Oceania",
+   "Indian Ocean",
+   "Pacific Ocean"
+  ],
+  "biomes": [
+   "Mangroves",
+   "Estuaries",
+   "Coastal rivers"
+  ],
+  "abilities": [
+   "Spits jets of water up to about 2 m, pressing its tongue against a groove in the roof of its mouth to form a barrel",
+   "Shapes the jet so the water's tail catches up with its head and lands as a heavier blob",
+   "Corrects for light refraction at the water surface when aiming",
+   "Can learn to tell a familiar human face from dozens of others"
+  ],
+  "animal": {
+   "diet": "Carnivore: insects and spiders shot from overhanging leaves; also crustaceans and small fish in the water",
+   "habitat": "Brackish mangrove creeks and estuaries; sometimes coastal reefs and freshwater streams",
+   "lifespan": "Up to around 10 years in captivity",
+   "size": "Usually 10–20 cm; up to 30 cm",
+   "behaviour": "It cruises near the surface, often in small groups, and leaps to snatch prey within reach. Group members race to the fallen prey, so shooters predict where it will land.",
+   "fieldMarks": [
+    "Deep, compressed silvery-white body with a flat back from snout to dorsal fin",
+    "Four or five bold, black, wedge-shaped bars along the upper side",
+    "Large eyes and a sharply upturned mouth",
+    "Dorsal fin set far back above the anal fin"
+   ],
+   "lookalikes": "Seven-spot archerfish (T. chatareus) has more numerous, smaller black spots and lives more often in fresh water. Spotted scat (Scatophagus argus) is rounder, with many dark spots and no flat back.",
+   "whereToSee": "Mangroves of the Sundarbans; Kinabatangan River (Sabah); Kakadu (Australia); public aquaria",
+   "season": "Resident year-round",
+   "order": "Carangaria incertae sedis (traditionally Perciformes)"
+  },
+  "iucn": "LC",
+  "lore": "Western naturalists heard reports of the shooting fish from the Dutch East Indies in the 1760s. The genus name Toxotes means 'archer' and jaculatrix 'thrower of darts'.",
+  "historicalNames": [
+   "Sciaena jaculatrix",
+   "Labrus jaculatrix"
+  ],
+  "funFact": "In 2016 Oxford researchers trained archerfish to spit at one human face out of 44, which they did with over 80% accuracy."
+ },
+ {
+  "slug": "lates-calcarifer",
+  "scientific": "Lates calcarifer",
+  "common": "Barramundi (Asian sea bass)",
+  "otherNames": [
+   "Bhetki ভেটকি (Bengali)",
+   "Pla kapong khao ปลากะพงขาว (Thai)",
+   "Siakap (Malay)",
+   "Koduva (Tamil)",
+   "Cá chẽm (Vietnamese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Latidae",
+  "shelves": [
+   "freshwater",
+   "edible",
+   "migrant",
+   "ocean"
+  ],
+  "summary": "A large silver predator of Indo-Pacific rivers, estuaries and coasts that migrates downriver to spawn at sea. All barramundi are born male and most later change sex to female. In Bengal it is bhetki, the fish of the classic fish fry.",
+  "nativeRange": "Persian Gulf and Arabian Sea coasts east through South Asia and Southeast Asia to southern China, Taiwan, Papua New Guinea and northern Australia",
+  "regions": [
+   "South Asia",
+   "Southeast Asia",
+   "East Asia",
+   "Australia",
+   "West Asia",
+   "Indian Ocean",
+   "Pacific Ocean"
+  ],
+  "biomes": [
+   "Estuaries",
+   "Mangroves",
+   "Coastal rivers",
+   "Coastal seas"
+  ],
+  "abilities": [
+   "Catadromous: grows in rivers and swims to estuaries and coastal seas to spawn",
+   "Protandrous hermaphrodite: born male, it usually becomes female at about 3–5 years old and 80–100 cm",
+   "Lives in fresh, brackish or salt water",
+   "A big female can release tens of millions of eggs in a season"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "flesh"
+  ],
+  "edibilityNote": "Firm, mild white fillets; widely farmed. Bengal's bhetki fish fry and paturi are classics. Always cooked. Large wild fish from polluted estuaries may carry mercury.",
+  "animal": {
+   "diet": "Carnivore: fish, prawns, crabs and insects",
+   "habitat": "Rivers, billabongs, mangrove estuaries and coastal waters",
+   "lifespan": "Up to about 20 years",
+   "size": "Commonly 60–120 cm; up to about 2 m and 60 kg",
+   "behaviour": "Adults move down to river mouths and coastal flats at the start of the wet season to spawn on spring tides. Juveniles move up into freshwater swamps and creeks to grow.",
+   "fieldMarks": [
+    "Silver body with a concave forehead and a pointed head",
+    "Large mouth with the jaw extending behind the eye; red-glowing eye at night",
+    "Spiny and soft dorsal fins almost separate; rounded tail",
+    "Freshwater fish golden-bronze; estuarine and sea fish silver"
+   ],
+   "lookalikes": "Nile perch (L. niloticus) occurs only in Africa. Mangrove jack (Lutjanus argentimaculatus) has a reddish tint and canine teeth. Giant perch (Lates japonicus) of Japan is very similar.",
+   "whereToSee": "Kakadu and the Northern Territory rivers (Australia); the Sundarbans and Hooghly estuary; Thai fish markets",
+   "season": "Spawning migrations to estuaries at the start of the wet season (October–February in northern Australia; monsoon in South Asia)",
+   "order": "Carangaria incertae sedis (traditionally Perciformes)"
+  },
+  "iucn": "LC",
+  "lore": "The name barramundi comes from an Aboriginal language of central Queensland and was popularised as a market name in Australia from the 1980s. Rock art in Kakadu and Arnhem Land includes 'X-ray' paintings of barramundi showing their spine and organs.",
+  "historicalNames": [
+   "Holocentrus calcarifer"
+  ],
+  "funFact": "Because they change sex as they grow, almost all the very large barramundi are females."
+ },
+ {
+  "slug": "huso-huso",
+  "scientific": "Huso huso",
+  "common": "Beluga sturgeon",
+  "otherNames": [
+   "Beluga белуга (Russian)",
+   "Fil-mahi فیل‌ماهی (Persian, 'elephant fish')",
+   "Morun (Romanian)",
+   "Mersin morinası (Turkish)",
+   "Viza (Hungarian)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Acipenseridae",
+  "shelves": [
+   "freshwater",
+   "edible",
+   "migrant",
+   "endangered",
+   "ancient",
+   "ocean"
+  ],
+  "summary": "The largest of the sturgeons and one of the biggest bony fish ever recorded, a long-lived giant of the Caspian and Black Seas that runs up the Volga, Ural and Danube to spawn. Poaching for beluga caviar has driven it to Critically Endangered.",
+  "nativeRange": "Caspian and Black Sea basins (formerly also the Adriatic and Sea of Azov), with spawning runs up the Volga, Ural, Kura, Danube and other large rivers",
+  "regions": [
+   "Europe",
+   "West Asia",
+   "Central Asia"
+  ],
+  "biomes": [
+   "Inland seas",
+   "Large rivers",
+   "Estuaries"
+  ],
+  "abilities": [
+   "Lives over 100 years and may not first spawn until about 15–20 years old",
+   "Anadromous: migrates from the sea hundreds of kilometres up large rivers to spawn on gravel beds",
+   "Hunts fish with a huge crescent-shaped mouth, unlike the bottom-sucking smaller sturgeons",
+   "Historic females weighed over 1,000 kg, a quarter of it roe"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "roe (caviar)",
+   "flesh"
+  ],
+  "edibilityNote": "Beluga caviar is the most expensive caviar. International trade in wild beluga caviar is effectively closed under CITES, and buying it supports poaching, so choose certified farmed caviar only. Long-lived sturgeon accumulate mercury and other contaminants. Raw sturgeon flesh should be avoided.",
+  "animal": {
+   "diet": "Carnivore: fish (gobies, herring, carp, other sturgeon), crustaceans and molluscs; occasionally seals",
+   "habitat": "Open waters of the Caspian and Black Seas; large rivers during spawning",
+   "lifespan": "Over 100 years",
+   "size": "Commonly 2–3 m and 100–300 kg; historically up to about 6–7 m and 1,500 kg",
+   "behaviour": "Spring and autumn runs move upriver, and autumn migrants overwinter in deep river pits before spawning the following spring.",
+   "fieldMarks": [
+    "Huge, crescent-shaped mouth stretching nearly across the underside of the head",
+    "Short, pointed snout; flattened, leaf-shaped barbels",
+    "Five rows of bony scutes (back, sides and belly); dark grey above, pale below",
+    "Shark-like tail with a longer upper lobe"
+   ],
+   "lookalikes": "Russian sturgeon (Acipenser gueldenstaedtii) and stellate sturgeon (A. stellatus) have much smaller mouths and round barbels, and the stellate sturgeon has a very long, narrow snout. The kaluga (Huso dauricus) of the Amur basin is its only true relative.",
+   "whereToSee": "The Volga delta near Astrakhan; the lower Danube at the Iron Gates (where dams block the old runs); hatcheries and aquaria",
+   "season": "Upriver spawning runs in spring (March–May) and autumn (August–November)",
+   "order": "Acipenseriformes"
+  },
+  "iucn": "CR",
+  "lore": "Herodotus described the great boneless fish of the Borysthenes (Dnieper), called antacaei, that the Scythians salted. Russian tsars and Persian shahs drew huge revenues from Caspian caviar, and a beluga of about 1,571 kg was reported from the Volga estuary in 1827.",
+  "historicalNames": [
+   "Antacaeus",
+   "Huso",
+   "Hausen",
+   "Acipenser huso"
+  ],
+  "funFact": "Isinglass, a gelatin once used to clarify beer and wine, was first made from the dried swim bladders of sturgeons such as the beluga."
+ },
+ {
+  "slug": "polyodon-spathula",
+  "scientific": "Polyodon spathula",
+  "common": "American paddlefish",
+  "otherNames": [
+   "Spoonbill (US)",
+   "Spoonbill cat",
+   "Spatule (French)",
+   "Duck-billed cat"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Polyodontidae",
+  "shelves": [
+   "freshwater",
+   "edible",
+   "migrant",
+   "endangered",
+   "ancient"
+  ],
+  "summary": "A big, shark-like filter feeder of the Mississippi basin with a long, flat paddle for a snout. The paddle is covered in electroreceptors that detect swarms of plankton. Its only recent relative, the Chinese paddlefish, was declared extinct in 2022.",
+  "nativeRange": "Mississippi River basin and nearby Gulf Coast drainages of the United States; extirpated from Canada and the Great Lakes",
+  "regions": [
+   "North America"
+  ],
+  "biomes": [
+   "Large rivers",
+   "Reservoirs",
+   "Backwaters"
+  ],
+  "abilities": [
+   "Its paddle-shaped rostrum carries tens of thousands of electroreceptors that sense the weak electric fields of zooplankton",
+   "Swims with its mouth agape, sieving plankton through comb-like gill rakers",
+   "Makes long upstream spawning migrations, sometimes hundreds of kilometres",
+   "Belongs to a lineage that goes back over 100 million years; very similar fossils occur in Montana"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "flesh",
+   "roe (caviar)"
+  ],
+  "edibilityNote": "Firm white flesh; the roe is sold as American caviar and is a major target of poaching. Commercial and sport harvest is limited to strict seasons. Long-lived fish can accumulate mercury, PCBs and chlordane in some rivers, so follow local advisories.",
+  "animal": {
+   "diet": "Filter-feeder: zooplankton (water fleas, copepods) and insect larvae",
+   "habitat": "Slow, deep, open water of large rivers, oxbows and reservoirs",
+   "lifespan": "Usually 20–30 years; over 50 recorded",
+   "size": "Commonly 1–1.5 m; up to about 2.2 m and 90 kg",
+   "behaviour": "In spring, adults migrate upriver during floods to spawn over gravel bars. The sticky eggs hatch within days and the larvae drift downstream.",
+   "fieldMarks": [
+    "Long, flat, paddle-shaped snout (about a third of body length in adults)",
+    "Smooth, scaleless grey to bluish skin",
+    "Huge mouth and a long, pointed, flap-like gill cover",
+    "Shark-like tail with a longer upper lobe"
+   ],
+   "lookalikes": "Shovelnose sturgeon (Scaphirhynchus platorynchus) has bony scutes, a shovel-shaped snout and barbels in front of a small mouth on the underside. No other fish in its range has a long paddle snout.",
+   "whereToSee": "Osage River and Lake of the Ozarks (Missouri); Grand Lake o' the Cherokees (Oklahoma); Gavins Point Dam on the Missouri (South Dakota/Nebraska) during spring snagging season",
+   "season": "Spawning migrations March–May when rivers rise; snagging seasons in spring",
+   "order": "Acipenseriformes"
+  },
+  "iucn": "VU",
+  "lore": "Native peoples of the Mississippi basin fished paddlefish long before European contact. Johann Walbaum described it in 1792 as a kind of shark, Squalus spathula.",
+  "historicalNames": [
+   "Squalus spathula",
+   "Spatularia",
+   "Polyodon folium"
+  ],
+  "funFact": "Paddlefish with their paddle removed can still feed normally, because electroreceptors on the head and gill covers take over, but the paddle greatly extends their detection range."
+ },
+ {
+  "slug": "atractosteus-spatula",
+  "scientific": "Atractosteus spatula",
+  "common": "Alligator gar",
+  "otherNames": [
+   "Catán (Mexican Spanish)",
+   "Gator gar",
+   "Garfish"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Lepisosteidae",
+  "shelves": [
+   "freshwater",
+   "edible",
+   "toxic",
+   "ancient"
+  ],
+  "summary": "A giant armoured fish of southern US rivers and bayous with a broad, alligator-like snout and a double row of fangs. It belongs to a lineage that has changed little for about 100 million years, and its eggs are poisonous.",
+  "nativeRange": "Lower Mississippi basin and Gulf of Mexico coastal drainages from Florida to Veracruz, Mexico",
+  "regions": [
+   "North America",
+   "Central America"
+  ],
+  "biomes": [
+   "Large rivers",
+   "Bayous",
+   "Swamps",
+   "Brackish estuaries"
+  ],
+  "abilities": [
+   "Breathes air with a vascularised swim bladder, so it survives warm, stagnant backwaters",
+   "Its interlocking diamond-shaped ganoid scales form armour that resists most predators",
+   "Lies motionless like a log, then sideswipes fish with its toothed snout",
+   "Lives for many decades: fish over 50 years old have been aged from their ear stones (otoliths), and ages near 95 have been reported"
+  ],
+  "edibility": "edible-with-care",
+  "edibleParts": [
+   "flesh (backstrap)"
+  ],
+  "edibilityNote": "The white flesh is eaten in the US South and Mexico (gar balls, fried gar). The eggs are toxic: gar roe contains an ichthyotoxin that causes vomiting, diarrhoea and other illness in humans, and must never be eaten. The skin and scales are extremely hard to cut, and large old fish may carry mercury.",
+  "animal": {
+   "diet": "Carnivore: fish, crabs, turtles and water birds; scavenges carcasses",
+   "habitat": "Slow, large rivers, oxbow lakes, bayous, reservoirs and brackish bays",
+   "lifespan": "Over 50 years; up to about 95",
+   "size": "Commonly 1.5–2 m; up to about 3 m and 150 kg",
+   "behaviour": "Floats near the surface and rolls to gulp air. In spring, groups spawn over flooded vegetation, scattering sticky green eggs that hatch within days.",
+   "fieldMarks": [
+    "Broad, short, alligator-like snout",
+    "Two rows of large teeth in the upper jaw on each side (other gars have one)",
+    "Long, torpedo-shaped body armoured with diamond-shaped ganoid scales",
+    "Dorsal and anal fins set far back near the rounded tail; olive-brown above"
+   ],
+   "lookalikes": "Longnose gar (Lepisosteus osseus) has a very long, needle-thin beak. Spotted and shortnose gars are smaller (under 1 m), with narrower snouts and a single row of large upper teeth. Florida gar has spots all over.",
+   "whereToSee": "The Trinity River (Texas); Louisiana bayous and the Atchafalaya Basin; the lower Mississippi and its oxbow lakes",
+   "season": "Resident; spawns April–June when floods inundate vegetation",
+   "order": "Lepisosteiformes"
+  },
+  "iucn": "LC",
+  "lore": "Native peoples of the lower Mississippi used gar scales as arrowheads and the skin as armour. Early settlers covered wooden ploughshares with gar hide. In the 20th century gars were persecuted as 'trash fish' until research showed their role in river ecosystems.",
+  "historicalNames": [
+   "Lepisosteus spatula",
+   "Lepisosteus tristoechus (misapplied)",
+   "Garpike"
+  ],
+  "funFact": "Gar roe is toxic to mammals and birds, which may help protect the eggs from egg-eating predators."
+ },
+ {
+  "slug": "amia-calva",
+  "scientific": "Amia calva",
+  "common": "Ruddy bowfin",
+  "otherNames": [
+   "Bowfin",
+   "Choupique (Cajun French)",
+   "Mudfish",
+   "Grinnel",
+   "Dogfish (southern US)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Amiidae",
+  "shelves": [
+   "freshwater",
+   "edible",
+   "ancient"
+  ],
+  "summary": "A living fossil from the age of dinosaurs and one of only two surviving species in an order otherwise known from Jurassic and Cretaceous fossils. It can gulp air and lie up in swamp mud, and fathers guard their young fiercely.",
+  "nativeRange": "Atlantic and Gulf coastal plain of the south-eastern United States (since 2022 the northern and inland bowfins are a separate species, A. ocellicauda)",
+  "regions": [
+   "North America"
+  ],
+  "biomes": [
+   "Swamps",
+   "Slow rivers",
+   "Vegetated lakes",
+   "Bayous"
+  ],
+  "abilities": [
+   "Breathes air through a lung-like swim bladder, so it survives warm, stagnant swamps",
+   "Can survive in burrows in drying mud",
+   "Males clear nests, then herd and guard a black ball of fry for weeks",
+   "Its order, Amiiformes, dates back to the Jurassic"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "flesh",
+   "roe"
+  ],
+  "edibilityNote": "Eaten in Louisiana as choupique, often fried, smoked or made into fishcakes; the roe is sold as 'Cajun caviar'. The flesh is soft and is best cooked fresh. Unlike gar, bowfin eggs are not toxic.",
+  "animal": {
+   "diet": "Carnivore: fish, crayfish, frogs, insects and other prey",
+   "habitat": "Swamps, bayous, sloughs and weedy, slow waters",
+   "lifespan": "Usually 10–12 years; up to about 30",
+   "size": "Commonly 45–60 cm; up to about 1.1 m",
+   "behaviour": "Hunts at night among weeds. In spring the male builds a circular nest in vegetation, attracts females, and then guards eggs and the swarm of fry.",
+   "fieldMarks": [
+    "Long, cylindrical body with a very long, wavy dorsal fin running along most of the back",
+    "Bony gular plate between the lower jaws",
+    "Black eyespot at the upper tail base, ringed in orange in males",
+    "Short anal fin; rounded tail; tubular nostrils",
+    "Breeding males with bright green fins and belly"
+   ],
+   "lookalikes": "Eyetail bowfin (Amia ocellicauda) is almost identical and is separated mainly by range and genetics. Northern snakehead (Channa argus, introduced) has a long anal fin, no gular plate and a scaled head. Burbot has a chin barbel and two dorsal fins.",
+   "whereToSee": "Okefenokee Swamp (Georgia); Florida's St. Johns River; blackwater rivers of the Carolina and Georgia coastal plain",
+   "season": "Resident; spawns in spring (March–May in the south)",
+   "order": "Amiiformes"
+  },
+  "iucn": "LC",
+  "lore": "In Louisiana, bowfins have been sold as choupique (from a Choctaw word) as a cheap food fish for generations. When the Caspian caviar trade collapsed, bowfin roe became a domestic caviar substitute.",
+  "historicalNames": [
+   "Amia",
+   "Mudfish",
+   "Grindle"
+  ],
+  "funFact": "The bowfin's order has fossils on several continents, but today only the two North American bowfin species survive."
+ },
+ {
+  "slug": "neoceratodus-forsteri",
+  "scientific": "Neoceratodus forsteri",
+  "common": "Australian lungfish",
+  "otherNames": [
+   "Queensland lungfish",
+   "Burnett salmon",
+   "Ceratodus"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Neoceratodontidae",
+  "shelves": [
+   "freshwater",
+   "endangered",
+   "ancient",
+   "marvel"
+  ],
+  "summary": "A living link to the fish that first crawled onto land, almost unchanged from fossils about 100 million years old. Unlike other lungfishes it breathes mostly with gills, using its single lung in low-oxygen water.",
+  "nativeRange": "South-eastern Queensland, Australia: Burnett and Mary rivers (native); translocated to the Brisbane, Albert, Pine and Coomera rivers",
+  "regions": [
+   "Australia"
+  ],
+  "biomes": [
+   "Slow rivers",
+   "Deep pools",
+   "Reservoirs"
+  ],
+  "abilities": [
+   "Breathes with gills and a single lung, gulping air when water is warm or oxygen-poor",
+   "Has one of the largest animal genomes ever sequenced, at about 43 billion base pairs",
+   "Lives for many decades; one in captivity lived over 90 years",
+   "Detects prey with electroreceptors on the snout"
+  ],
+  "animal": {
+   "diet": "Omnivore: snails, worms, shrimps, frogs, small fish and plants",
+   "habitat": "Slow-flowing, deep pools of rivers with aquatic plants and soft beds",
+   "lifespan": "Probably 80–100 years",
+   "size": "Up to about 1.5 m and 40 kg",
+   "behaviour": "Moves slowly along the bottom using its flipper-like fins. It lays eggs singly among water plants in spring, and the eggs rely on the plant beds that dams and weirs destroy.",
+   "fieldMarks": [
+    "Heavy, elongate body covered in very large, overlapping scales",
+    "Paddle-shaped, fleshy pectoral and pelvic fins on stalk-like bases",
+    "Continuous fin around the rear body forming a pointed tail",
+    "Olive-brown to grey above, often with dark spots; pale belly"
+   ],
+   "lookalikes": "Introduced and native catfishes have barbels and no large scales. African and South American lungfishes look different and do not occur in Australia: they are eel-like, with threadlike fins and small scales.",
+   "whereToSee": "Mary River and Burnett River (Queensland); Wivenhoe and Somerset dams; Queensland Museum and public aquaria",
+   "season": "Resident; spawns August–December",
+   "order": "Ceratodontiformes"
+  },
+  "iucn": "EN",
+  "lore": "Gerard Krefft described it in 1870 from a fish sent to him by William Forster, a Queensland squatter. The Mary River Traveston Crossing Dam was cancelled in 2009 under Australian environmental law, partly because of its threat to lungfish.",
+  "historicalNames": [
+   "Ceratodus forsteri",
+   "Epiceratodus forsteri"
+  ],
+  "funFact": "'Granddad', an Australian lungfish at Chicago's Shedd Aquarium from 1933 to 2017, was the oldest aquarium fish on record when he died."
+ },
+ {
+  "slug": "protopterus-annectens",
+  "scientific": "Protopterus annectens",
+  "common": "West African lungfish",
+  "otherNames": [
+   "Protoptère (French)",
+   "African lungfish"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Protopteridae",
+  "shelves": [
+   "freshwater",
+   "edible",
+   "ancient",
+   "marvel"
+  ],
+  "summary": "An eel-like air-breather of West African floodplains that survives the dry season sealed in a mucus cocoon in baked mud for months, sometimes years. It walks along the bottom on thin, thread-like fins, a hint of how the first vertebrates moved onto land.",
+  "nativeRange": "West and Central Africa: from Senegal and Gambia through the Niger, Volta and Lake Chad basins, with populations also in parts of the Congo basin",
+  "regions": [
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Floodplain swamps",
+   "Seasonal wetlands",
+   "Slow rivers"
+  ],
+  "abilities": [
+   "Aestivates: it burrows into mud, secretes a mucus cocoon that hardens, and breathes air through a tube to the surface while its metabolism slows",
+   "Obligate air-breather that drowns if kept from the surface",
+   "Walks and bounds along the bottom with its slender pelvic fins, a gait studied as a model for the origin of tetrapod walking",
+   "Males guard the nest and aerate the eggs"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "flesh"
+  ],
+  "edibilityNote": "Eaten in West Africa, often dug out of dry-season mud. Always cooked. As a bottom dweller in floodplains it can carry parasites and accumulate contaminants.",
+  "animal": {
+   "diet": "Omnivore: snails, crustaceans, insect larvae, fish, frogs and plant matter",
+   "habitat": "Seasonal swamps, floodplains, marshes and river margins that may dry out",
+   "lifespan": "Over 20 years in captivity",
+   "size": "Usually 50–70 cm; up to about 1 m",
+   "behaviour": "As waters recede it wriggles into the mud and curls up in a cocoon, and it emerges when the rains return. Males dig nests and guard eggs and larvae.",
+   "fieldMarks": [
+    "Eel-like body with a continuous fin around the rear",
+    "Long, thin, thread-like pectoral and pelvic fins with a fringe on the pectorals",
+    "Olive-brown to grey with dark spots, pale belly",
+    "Small eyes and a short, rounded snout"
+   ],
+   "lookalikes": "Marbled lungfish (Protopterus aethiopicus) of East Africa is larger, with marbled patterning. True eels and spiny eels have no thread-like paired fins.",
+   "whereToSee": "Gambia River floodplains; the Inner Niger Delta (Mali); rice-growing wetlands of Senegal and Guinea-Bissau",
+   "season": "Active in the rainy season (roughly June–October); aestivates in the dry season",
+   "order": "Ceratodontiformes"
+  },
+  "iucn": "LC",
+  "lore": "Richard Owen described it in 1839 as Lepidosiren annectens, 'the connecting one', because it seemed to link fish and amphibians. Lungfish cocoons dug from Gambian mud were shipped alive to Europe, where they 'woke' in aquaria.",
+  "historicalNames": [
+   "Lepidosiren annectens"
+  ],
+  "funFact": "In 2011 researchers filmed this species lifting its body and walking on its pelvic fins along the bottom, a gait once thought to have arisen only in tetrapods."
+ }
+]

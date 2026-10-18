@@ -1,0 +1,2817 @@
+[
+ {
+  "slug": "sagittarius-serpentarius",
+  "scientific": "Sagittarius serpentarius",
+  "common": "Secretarybird",
+  "otherNames": [
+   "Sekretarisvoël (Afrikaans)",
+   "Inxhanxhosi (Xhosa)",
+   "Intungunono (Zulu)",
+   "Messager sagittaire (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Sagittariidae",
+  "shelves": [
+   "endangered",
+   "marvel"
+  ],
+  "summary": "A raptor on stilts: an eagle-headed bird that hunts on foot across African grasslands, striding up to 20–30 km a day and killing snakes and rodents with precise, lightning-fast kicks. It is the sole living member of its family.",
+  "nativeRange": "Sub-Saharan Africa, from Senegal and Sudan south to the Cape",
+  "regions": [
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Savanna",
+   "Tropical grassland",
+   "Semi-desert scrub"
+  ],
+  "abilities": [
+   "Kills prey by stamping; a measured kick delivered about five times the bird's body weight in roughly 15 milliseconds",
+   "Hunts almost entirely on foot, walking long transects through grass to flush prey",
+   "Takes venomous snakes, protected by heavily scaled lower legs and very fast strikes",
+   "Flies strongly and soars, despite spending most of the day walking"
+  ],
+  "animal": {
+   "diet": "Grasshoppers and other large insects, rodents, lizards, snakes, small birds and eggs",
+   "habitat": "Open grassland and lightly wooded savanna; avoids dense woodland",
+   "lifespan": "Around 10–15 years in the wild; longer in captivity",
+   "size": "About 1.2–1.5 m tall; wingspan about 2 m; 3–4 kg",
+   "behaviour": "Pairs patrol a territory side by side, stamping at tussocks to flush prey and then pinning it with repeated blows of the feet before swallowing it whole.",
+   "fieldMarks": [
+    "Very long legs with black 'shorts' (feathered thighs) and bare pinkish lower legs",
+    "Pale grey body with black flight feathers",
+    "Bare orange-red facial skin around the eye",
+    "Loose crest of long black-tipped quills at the back of the head",
+    "Two very long central tail feathers projecting beyond the tail in flight"
+   ],
+   "voice": "Usually silent; gives a deep, frog-like croak or groan, mainly in display or at the nest.",
+   "lookalikes": "At distance it may be taken for a crane or stork walking in grass, but neither has the hooked raptor bill, orange face, black thigh feathering or quill crest. In flight the long legs and elongated central tail feathers both trail beyond the tail, a combination no eagle shows.",
+   "whereToSee": "Open grasslands of Serengeti and Maasai Mara, Kruger's southern plains, Kgalagadi Transfrontier Park, Etosha and the Karoo",
+   "season": "Resident year-round; pairs nest on flat-topped acacias in most months",
+   "order": "Accipitriformes"
+  },
+  "iucn": "EN",
+  "lore": "The secretarybird appears on the coat of arms of South Africa adopted in 2000, its rising wings symbolising protection, and on the coat of arms of Sudan. Its English name is often linked to the quill-like crest resembling pens tucked behind a clerk's ear.",
+  "historicalNames": [
+   "Serpentarius",
+   "Messenger bird"
+  ],
+  "funFact": "High-speed filming of a captive male showed each kick lasts about 15 milliseconds, shorter than a human blink, so the bird must aim before it strikes."
+ },
+ {
+  "slug": "coracias-caudatus",
+  "scientific": "Coracias caudatus",
+  "common": "Lilac-breasted roller",
+  "otherNames": [
+   "Gewone troupant (Afrikaans)",
+   "Rollier à longs brins (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Coraciidae",
+  "shelves": [],
+  "summary": "One of Africa's most photographed birds: a stocky perch-hunter painted in turquoise, ultramarine, lilac and cinnamon, with two long tail streamers. It sits conspicuously on dead branches and drops onto insects and lizards on the ground.",
+  "nativeRange": "Eastern and southern Africa, from Ethiopia and Somalia to northern South Africa and Namibia",
+  "regions": [
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Savanna",
+   "Open woodland"
+  ],
+  "abilities": [
+   "Sit-and-wait hunter that spots small prey from exposed perches",
+   "Performs a tumbling, rolling display flight that gives rollers their name",
+   "Defends nest holes aggressively, diving at raptors and other intruders"
+  ],
+  "animal": {
+   "diet": "Large insects, scorpions, centipedes, small lizards, frogs and occasionally small birds",
+   "habitat": "Acacia savanna and open woodland with scattered perches",
+   "size": "About 36 cm including tail streamers; 100–130 g",
+   "behaviour": "In display a bird climbs steeply and then dives with rocking, side-to-side rolls while calling harshly.",
+   "fieldMarks": [
+    "Lilac throat and breast (blue-breasted in the northern subspecies lorti)",
+    "Turquoise belly, crown greenish, back cinnamon-brown",
+    "Brilliant ultramarine and turquoise wings, flashing in flight",
+    "Two long, thin, dark outer tail streamers",
+    "Heavy black bill"
+   ],
+   "voice": "Harsh, grating 'rak' or 'kaak' calls, run together into a crackling series during the display flight.",
+   "lookalikes": "European roller (a winter visitor) has a blue head and breast and no tail streamers. Abyssinian roller has entirely blue underparts and even longer streamers and lives north of the equator. Racket-tailed roller has a blue breast and spatulate tips to its streamers. Purple roller is larger, with streaked purple-brown underparts and a square tail.",
+   "whereToSee": "Maasai Mara, Serengeti, Kruger, Okavango Delta, Chobe and Etosha; often on roadside dead trees",
+   "season": "Resident year-round",
+   "order": "Coraciiformes"
+  },
+  "iucn": "LC",
+  "lore": "Rollers take their common name from the tumbling display flight; the genus name Coracias comes from the Greek korakias, a kind of crow.",
+  "funFact": "In the subspecies Coracias caudatus lorti of Ethiopia and Somalia the 'lilac' breast is blue, so not every lilac-breasted roller has one."
+ },
+ {
+  "slug": "bucorvus-leadbeateri",
+  "scientific": "Bucorvus leadbeateri",
+  "common": "Southern ground hornbill",
+  "otherNames": [
+   "Insingizi (Zulu)",
+   "Intsikizi (Xhosa)",
+   "Bromvoël (Afrikaans)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Bucorvidae",
+  "shelves": [
+   "endangered",
+   "sacred"
+  ],
+  "summary": "A turkey-sized black hornbill with scarlet facial wattles that walks the savanna in family groups, hunting everything from beetles to tortoises and snakes. It is among the slowest-breeding birds in the world, with groups raising on average one chick every nine years.",
+  "nativeRange": "Eastern and southern Africa, from Kenya and Burundi south to South Africa",
+  "regions": [
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Savanna",
+   "Grassland",
+   "Open woodland"
+  ],
+  "abilities": [
+   "Cooperative breeder: a dominant pair is helped by older offspring and other group members",
+   "Booming dawn chorus carries several kilometres across the savanna",
+   "Kills snakes, hares and tortoises with blows of its massive bill",
+   "Can live several decades, matching its very slow reproductive rate"
+  ],
+  "animal": {
+   "diet": "Insects, reptiles including snakes and tortoises, frogs, small mammals and birds",
+   "habitat": "Savanna and grassland with large trees for nesting cavities",
+   "lifespan": "Several decades; captive birds have lived over 40 years",
+   "size": "About 90–130 cm long; 3–6 kg",
+   "behaviour": "A group of 2–10 birds holds a large territory, walking together all day and booming in chorus at dawn to declare ownership.",
+   "fieldMarks": [
+    "Very large all-black bird with white primaries visible in flight",
+    "Bright red bare skin on face and inflatable throat wattle",
+    "Females have a violet-blue patch on the throat",
+    "Heavy, down-curved black bill with low casque",
+    "Long eyelashes; walks on the ground like a turkey"
+   ],
+   "voice": "A deep, resonant booming duet, 'oomph oomph-oomph', given mostly at dawn and audible several kilometres away.",
+   "lookalikes": "Abyssinian ground hornbill, north of the equator, has blue and red bare skin and an open-ended tubular casque. Distant birds are sometimes mistaken for turkeys or vultures on the ground, but the red face wattle is distinctive.",
+   "whereToSee": "Kruger National Park, Hluhluwe-iMfolozi, the Okavango and Serengeti; often walking in open grass",
+   "season": "Resident year-round; breeding in the southern summer rains",
+   "order": "Bucerotiformes"
+  },
+  "iucn": "VU",
+  "lore": "Among Zulu and Xhosa peoples the bird is linked to rain and storms and is traditionally protected by taboo; its booming is said to forecast rain, and some communities would only kill one in times of drought.",
+  "historicalNames": [
+   "Buceros cafer"
+  ],
+  "funFact": "Usually only one of the two eggs is raised; the second chick hatches days later and normally starves, which is why conservationists 'harvest' second chicks for captive rearing and reintroduction."
+ },
+ {
+  "slug": "balearica-regulorum",
+  "scientific": "Balearica regulorum",
+  "common": "Grey crowned crane",
+  "otherNames": [
+   "Korongo (Swahili)",
+   "Unohemu (Zulu)",
+   "Mahem (Afrikaans)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Gruidae",
+  "shelves": [
+   "endangered",
+   "freshwater",
+   "sacred"
+  ],
+  "summary": "A crane crowned with a halo of stiff golden feathers, famous for exuberant dancing. Uganda's national bird, it is one of only two cranes able to roost in trees.",
+  "nativeRange": "Eastern and southern Africa, from Uganda and Kenya to South Africa",
+  "regions": [
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Wetland",
+   "Grassland",
+   "Farmland"
+  ],
+  "abilities": [
+   "Long hind toe lets it grip branches and roost in trees, unlike most cranes",
+   "Elaborate dances of bowing, leaping and wing-flapping strengthen pair bonds",
+   "Inflates a red throat sac to produce a booming call"
+  ],
+  "animal": {
+   "diet": "Omnivorous: seeds, grasses, insects, frogs, lizards and small fish",
+   "habitat": "Marshes, wet grassland and farmland near wetlands",
+   "lifespan": "Over 20 years in the wild",
+   "size": "About 1 m tall; wingspan around 2 m; 3–4 kg",
+   "behaviour": "Pairs and flocks dance year-round, bobbing, bowing and leaping high into the air while tossing grass.",
+   "fieldMarks": [
+    "Stiff, bristly golden crown",
+    "Bare white cheek patch topped with red, and a small red throat wattle",
+    "Pale grey neck and body",
+    "White wings with golden and chestnut feathers",
+    "Black velvet forehead"
+   ],
+   "voice": "A honking, two-note 'mu-hem' or 'ya-oo' call; also a deep booming from the inflated throat sac.",
+   "lookalikes": "Black crowned crane (West and Central Africa, overlapping in Uganda and South Sudan) has a dark grey to black neck and body and a cheek patch that is white above and red below (red more extensive in the eastern subspecies), whereas the grey crowned crane's cheek is mostly white with only a small red patch at the top. Wattled crane is larger, lacks the golden crown and has long white feathered wattles.",
+   "whereToSee": "Uganda's wetlands (Mabamba, Lake Mburo), Ngorongoro Crater, Amboseli, KwaZulu-Natal Midlands",
+   "season": "Resident; breeds mainly in the rains",
+   "order": "Gruiformes"
+  },
+  "iucn": "EN",
+  "lore": "The grey crowned crane is the national bird of Uganda and stands on the country's flag and coat of arms. Its Afrikaans name 'mahem' imitates the call.",
+  "funFact": "Its population fell by more than half in about 45 years, largely through wetland drainage and capture for the live-bird trade."
+ },
+ {
+  "slug": "icthyophaga-vocifer",
+  "scientific": "Icthyophaga vocifer",
+  "common": "African fish eagle",
+  "otherNames": [
+   "Inkwazi (Zulu)",
+   "Furukombe (Swahili)",
+   "Visarend (Afrikaans)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Accipitridae",
+  "shelves": [
+   "freshwater",
+   "sacred"
+  ],
+  "summary": "A white-headed sea eagle of African rivers and lakes whose ringing call is called 'the voice of Africa'. It snatches fish from the surface with a swing of its talons and is the national bird of Zambia, Zimbabwe, Namibia and South Sudan.",
+  "nativeRange": "Sub-Saharan Africa wherever there is open fresh or coastal water",
+  "regions": [
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Lakes and rivers",
+   "Wetland",
+   "Estuary"
+  ],
+  "abilities": [
+   "Grabs fish from just below the surface; spiny scales on its toes grip slippery prey",
+   "Can swim using its wings when a fish is too heavy to lift",
+   "Steals prey from herons, storks and other birds",
+   "Pairs duet with throws of the head, reinforcing territory along a stretch of shore"
+  ],
+  "animal": {
+   "diet": "Mainly fish; also waterbirds, flamingos, carrion and young monitor lizards",
+   "habitat": "Large rivers, lakes, dams, swamps and coastal lagoons with tall perches",
+   "lifespan": "Around 20–24 years in the wild",
+   "size": "63–75 cm long; wingspan 2–2.4 m; females larger",
+   "behaviour": "It watches from a tree, then glides down and swings its feet forward at the last moment to pluck a fish within about 15 cm of the surface.",
+   "fieldMarks": [
+    "Snow-white head, breast, back and short tail",
+    "Rich chestnut belly and shoulders",
+    "Black wings",
+    "Bare yellow face and yellow legs",
+    "Juveniles mottled brown and white, taking about five years to reach adult plumage"
+   ],
+   "voice": "A loud, ringing, yelping 'weee-ah, hyo-hyo-hyo', given with the head thrown back over the shoulders, often as a pair duet.",
+   "lookalikes": "Palm-nut vulture is white with black wings but has a white belly, bare reddish face and a black-tipped tail. Madagascar fish eagle (Madagascar only) has a brown head and body. Immatures resemble other large brown eagles but usually show some white on the breast and tail.",
+   "whereToSee": "Lake Naivasha and Lake Baringo (Kenya), Chobe River, Okavango Delta, Lake Malawi, Lake Kariba, Murchison Falls",
+   "season": "Resident year-round",
+   "order": "Accipitriformes"
+  },
+  "iucn": "LC",
+  "lore": "The fish eagle appears on the coats of arms of Zambia, Namibia and South Sudan, and Zambia's flag shows it in flight; the Zulu name Inkwazi was given to the South African presidential aircraft.",
+  "funFact": "Formerly placed in Haliaeetus with the bald eagle, it was moved by the IOC World Bird List in 2023 to Icthyophaga with the smaller tropical fish eagles, though not every checklist has followed."
+ },
+ {
+  "slug": "lamprotornis-superbus",
+  "scientific": "Lamprotornis superbus",
+  "common": "Superb starling",
+  "otherNames": [
+   "Choucador superbe (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Sturnidae",
+  "shelves": [
+   "songbird"
+  ],
+  "summary": "A glossy East African starling whose iridescent blue-green upperparts and orange belly are divided by a neat white band. Bold and sociable, it lives in cooperatively breeding groups and is a fixture of safari lodges.",
+  "nativeRange": "East Africa: Ethiopia, Somalia, South Sudan, Uganda, Kenya and Tanzania",
+  "regions": [
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Savanna",
+   "Dry thornbush",
+   "Open woodland"
+  ],
+  "abilities": [
+   "Cooperative breeder in which helpers, often relatives, feed the chicks",
+   "Iridescence is structural, produced by arrays of melanin granules in the feathers",
+   "Groups in unpredictable dry climates rely more on helpers, a link studied as a driver of cooperative breeding"
+  ],
+  "animal": {
+   "diet": "Insects, especially termites and beetles, plus fruit and seeds",
+   "habitat": "Dry acacia savanna, thornbush, villages and lodge grounds",
+   "size": "About 18 cm; 55–70 g",
+   "behaviour": "Groups forage on the ground in loose parties and build bulky domed nests of grass in thorny acacias.",
+   "fieldMarks": [
+    "Metallic blue-green upperparts and breast",
+    "Narrow white band across the breast",
+    "Rich orange-chestnut belly",
+    "Creamy-white eye",
+    "White undertail coverts"
+   ],
+   "voice": "A long, rambling warble of chattering and whistled phrases, often including mimicry; harsh 'chee-er' alarm.",
+   "lookalikes": "Hildebrandt's starling lacks the white breast band and has a red-orange eye. Shelley's starling has a darker chestnut belly, no white breast band and an orange eye. Golden-breasted starling has golden-yellow underparts and a long tail.",
+   "whereToSee": "Samburu, Tsavo, Amboseli and Maasai Mara (Kenya), Serengeti and Tarangire (Tanzania), Ethiopian Rift Valley",
+   "season": "Resident year-round",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "It was described by Eduard Rüppell in 1845 from specimens collected in Ethiopia, and its tameness around camps and lodges has made it one of the most photographed birds in East Africa.",
+  "funFact": "Long-term studies in Kenya found that superb starlings in good years and bad years shift between more and fewer helpers, a hedge against an unpredictable climate."
+ },
+ {
+  "slug": "scopus-umbretta",
+  "scientific": "Scopus umbretta",
+  "common": "Hamerkop",
+  "otherNames": [
+   "Uthekwane (Zulu)",
+   "Hamerkop (Afrikaans)",
+   "Ombrette africaine (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Scopidae",
+  "shelves": [
+   "freshwater",
+   "marvel",
+   "sacred"
+  ],
+  "summary": "A plain brown wading bird with a hammer-shaped head and the most extravagant nest of any bird its size: a domed stick mound more than a metre across. It is the only member of its family.",
+  "nativeRange": "Sub-Saharan Africa, Madagascar and south-western Arabia",
+  "regions": [
+   "Sub-Saharan Africa",
+   "Madagascar",
+   "West Asia"
+  ],
+  "biomes": [
+   "Wetland",
+   "Lakes and rivers",
+   "Savanna"
+  ],
+  "abilities": [
+   "Builds a domed nest of thousands of sticks, plastered with mud, with a side entrance and inner chamber",
+   "Pairs may build several such nests a year even when not breeding",
+   "Abandoned nests are taken over by owls, genets, snakes, bees and other animals"
+  ],
+  "animal": {
+   "diet": "Mainly frogs and tadpoles, also small fish, shrimps and insects",
+   "habitat": "Shallow water edges of rivers, dams, pools and marshes with trees nearby",
+   "size": "About 56 cm long; 400–500 g",
+   "behaviour": "Groups perform 'false mounting' rituals, climbing on each other's backs, a behaviour not tied to mating.",
+   "fieldMarks": [
+    "Uniform dull brown plumage",
+    "Backward-pointing crest balancing a heavy bill, giving a hammer-head profile",
+    "Flattened, slightly hooked black bill",
+    "Fairly short black legs for a wader",
+    "Flies with neck slightly extended, often with a buoyant, soaring flight"
+   ],
+   "voice": "A high, nasal 'yip' or 'kek' in flight; groups give excited, rising 'yip-purrr' chorus calls.",
+   "lookalikes": "Shape is unique. Distant birds may suggest a small heron or immature night heron, but no heron has the thick crest-and-bill hammer silhouette or uniform brown plumage.",
+   "whereToSee": "Almost any African wetland with trees: Kruger, Okavango Delta, Lake Naivasha, Murchison Falls; also western Madagascar",
+   "season": "Resident year-round",
+   "order": "Pelecaniformes"
+  },
+  "iucn": "LC",
+  "lore": "In much of Africa the hamerkop is a bird of omen: a Zulu and Xhosa belief warns that harming it or its nest brings lightning or misfortune, and in Madagascar it is associated with bad luck.",
+  "funFact": "A single hamerkop nest can take months to build, contain thousands of sticks, and is reputedly strong enough to bear the weight of a person."
+ },
+ {
+  "slug": "phoeniconaias-minor",
+  "scientific": "Phoeniconaias minor",
+  "common": "Lesser flamingo",
+  "otherNames": [
+   "Kleinflamink (Afrikaans)",
+   "Flamant nain (French)",
+   "Heroe (Swahili)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Phoenicopteridae",
+  "shelves": [
+   "marvel",
+   "migrant",
+   "freshwater"
+  ],
+  "summary": "The smallest and by far the most numerous flamingo, gathering in pink rafts of hundreds of thousands on Africa's caustic soda lakes. It feeds almost entirely on microscopic cyanobacteria filtered from the surface water.",
+  "nativeRange": "East and southern Africa's Rift Valley and salt pans; West Africa; north-western India and Pakistan",
+  "regions": [
+   "Sub-Saharan Africa",
+   "South Asia"
+  ],
+  "biomes": [
+   "Soda lake",
+   "Salt pan",
+   "Lagoon"
+  ],
+  "abilities": [
+   "Filters cyanobacteria (chiefly Arthrospira, 'spirulina') with a deep-keeled bill held upside down",
+   "Breeds on the mudflats of hyperalkaline Lake Natron, where few predators can follow",
+   "Its pink colour comes from carotenoid pigments in its food",
+   "Flocks move hundreds of kilometres between lakes, mostly at night, following food"
+  ],
+  "animal": {
+   "diet": "Cyanobacteria and benthic diatoms",
+   "habitat": "Alkaline and saline lakes, lagoons and salt pans",
+   "lifespan": "Can exceed 40 years",
+   "size": "About 80–90 cm tall; 1.2–2.7 kg",
+   "behaviour": "Huge flocks perform synchronised 'marching' displays, heads raised and turning in unison, before breeding.",
+   "fieldMarks": [
+    "Deep pink plumage, often more strongly pink than the greater flamingo",
+    "Dark carmine-red bill that looks black at a distance",
+    "Deep red eye and facial skin",
+    "Crimson wing coverts and black flight feathers in flight",
+    "Noticeably smaller than greater flamingo"
+   ],
+   "voice": "A high, goose-like murmuring 'murr-err' from feeding flocks; flight calls higher-pitched than greater flamingo.",
+   "lookalikes": "Greater flamingo is taller and paler, with a pale pink bill with a clean black tip, and a yellow eye. Lessers look compact with a uniformly dark bill.",
+   "whereToSee": "Lake Bogoria and Lake Nakuru (Kenya), Lake Natron (Tanzania), Etosha and Walvis Bay (Namibia), Kamfers Dam (South Africa), Little Rann of Kutch (India)",
+   "season": "Present year-round in the Rift Valley, moving between lakes; breeds at Lake Natron mainly from August to November",
+   "order": "Phoenicopteriformes"
+  },
+  "iucn": "NT",
+  "lore": "The lesser flamingo's main breeding site at Lake Natron was threatened by a proposed soda-ash plant in the 2000s, which its developer dropped in 2008 after international campaigns, although the idea has resurfaced since.",
+  "funFact": "Lake Natron's water can reach a pH above 10 and temperatures over 40 °C, yet it hosts the largest lesser flamingo breeding colonies on Earth."
+ },
+ {
+  "slug": "indicator-indicator",
+  "scientific": "Indicator indicator",
+  "common": "Greater honeyguide",
+  "otherNames": [
+   "Grootheuningwyser (Afrikaans)",
+   "Indicateur majeur (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Indicatoridae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "A drab woodland bird with an extraordinary partnership: it leads people to wild bees' nests and feeds on the wax left after the honey is taken. It is also a brood parasite whose chicks kill their foster siblings.",
+  "nativeRange": "Sub-Saharan Africa outside the densest rainforest and driest deserts",
+  "regions": [
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Savanna",
+   "Open woodland"
+  ],
+  "abilities": [
+   "Guides humans to bees' nests with a chattering call and short flights",
+   "Responds to specific human calls: Yao honey-hunters' 'brrr-hm' trill raises the chance of being guided",
+   "Can digest beeswax, a rare ability among vertebrates",
+   "Lays eggs in the nests of hole-nesting birds such as bee-eaters and barbets; the hatchling uses a hooked bill tip to kill host chicks"
+  ],
+  "animal": {
+   "diet": "Beeswax, bee larvae and eggs, and insects",
+   "habitat": "Miombo and acacia woodland and savanna",
+   "size": "About 20 cm; 40–55 g",
+   "behaviour": "When guiding, it flies ahead in short hops, calling and fanning its white-edged tail, and waits for its human followers to catch up.",
+   "fieldMarks": [
+    "Male: pink bill, black throat and white ear patch",
+    "Grey-brown upperparts with a yellow shoulder patch in males",
+    "White outer tail feathers flashed in flight",
+    "Females and immatures plainer; juveniles have a yellow throat and breast"
+   ],
+   "voice": "Male song a repeated, far-carrying 'vic-tor' or 'whit-purrr'; the guiding call is a persistent, dry chattering rattle.",
+   "lookalikes": "Lesser honeyguide is smaller, olive-tinged, with a stubby dark bill and no black throat. Scaly-throated honeyguide has a scaly-patterned throat. Juvenile greater honeyguides, with yellow throats, can be mistaken for other small yellow-throated birds.",
+   "whereToSee": "Niassa Special Reserve (Mozambique), where Yao honey-hunters still work with it; Hadza country around Lake Eyasi (Tanzania); miombo woodland in Zambia and Malawi",
+   "season": "Resident year-round",
+   "order": "Piciformes"
+  },
+  "iucn": "LC",
+  "lore": "Jesuit missionary João dos Santos described honeyguides eating candle wax in a Mozambique church in the 16th century. A 2016 study in Science showed that wild honeyguides learn and answer the Yao people's traditional honey-hunting call.",
+  "funFact": "A 2023 study found that honeyguides in different regions have learned to respond to different local human calls, a cross-species culture."
+ },
+ {
+  "slug": "polemaetus-bellicosus",
+  "scientific": "Polemaetus bellicosus",
+  "common": "Martial eagle",
+  "otherNames": [
+   "Breëkoparend (Afrikaans)",
+   "Aigle martial (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Accipitridae",
+  "shelves": [
+   "endangered"
+  ],
+  "summary": "Africa's largest eagle, a powerful hunter of game birds, monitor lizards and small antelope. It hunts from a high soar, spotting prey from several kilometres away.",
+  "nativeRange": "Sub-Saharan Africa, in open and semi-arid country",
+  "regions": [
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Savanna",
+   "Semi-desert scrub",
+   "Open woodland"
+  ],
+  "abilities": [
+   "Exceptional eyesight; spots prey at a great distance while soaring",
+   "Kills prey as large as young antelope, jackals and monitor lizards",
+   "Uses enormous stick nests that may be reused for decades"
+  ],
+  "animal": {
+   "diet": "Guineafowl, francolins, bustards, hyraxes, hares, monitor lizards, young antelope",
+   "habitat": "Savanna, thornbush and semi-desert with tall trees or pylons for nesting",
+   "size": "78–96 cm long; wingspan about 1.9–2.6 m; 3–6 kg",
+   "behaviour": "It hunts mainly from a high, wide-circling soar, then drops in a long, shallow stoop on unsuspecting prey.",
+   "fieldMarks": [
+    "Dark brown head, throat and upper breast forming a hood",
+    "White lower breast and belly lightly spotted with dark brown",
+    "Short crest; bright yellow eye",
+    "Feathered legs",
+    "Dark underwings in flight, contrasting with pale belly"
+   ],
+   "voice": "Mostly silent; in display a loud, ringing 'klee-klee-klooee'.",
+   "lookalikes": "Black-chested snake eagle has a similar dark hood but an unspotted white belly, bare pale legs, a large round head with orange-yellow eyes and pale underwings. Juveniles are pale greyish-white below and can be confused with juvenile crowned eagles, which have barred legs and tails.",
+   "whereToSee": "Kruger and Kgalagadi (South Africa), Etosha (Namibia), Maasai Mara and Tsavo (Kenya)",
+   "season": "Resident year-round",
+   "order": "Accipitriformes"
+  },
+  "iucn": "EN",
+  "lore": "Its scientific name means 'warlike war-eagle'. Farmers have long persecuted it as a livestock killer; studies in Kruger tracked steep declines even inside protected areas.",
+  "funFact": "Even in large reserves such as Kruger, martial eagle numbers fell by more than half in roughly two decades, prompting uplisting to Endangered in 2020."
+ },
+ {
+  "slug": "merops-nubicoides",
+  "scientific": "Merops nubicoides",
+  "common": "Southern carmine bee-eater",
+  "otherNames": [
+   "Rooiborsbyvreter (Afrikaans)",
+   "Guêpier carmin (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Meropidae",
+  "shelves": [
+   "migrant",
+   "freshwater"
+  ],
+  "summary": "A carmine-and-turquoise bee-eater that nests in colonies of hundreds to thousands of burrows dug into riverbanks. It famously hunts insects flushed by grazing animals, sometimes riding on the backs of kori bustards.",
+  "nativeRange": "Southern Africa from Angola and southern DR Congo to northern South Africa; spreads more widely after breeding",
+  "regions": [
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Riverine bank",
+   "Savanna",
+   "Floodplain"
+  ],
+  "abilities": [
+   "Excavates burrows usually 1–2 m long, sometimes more, into vertical sand cliffs",
+   "Rides on kori bustards, ostriches and large mammals to snatch flushed insects",
+   "Gathers at bush fires to catch fleeing insects",
+   "Removes the sting from bees and wasps by beating them on a perch"
+  ],
+  "animal": {
+   "diet": "Flying insects: bees, wasps, locusts, grasshoppers, beetles, dragonflies",
+   "habitat": "River valleys, floodplains and savanna",
+   "size": "About 27–38 cm including tail streamers",
+   "behaviour": "Colonies of thousands of birds swirl above riverbanks, each pair digging its own tunnel side by side with neighbours.",
+   "fieldMarks": [
+    "Carmine pink-red body",
+    "Turquoise-blue crown and undertail",
+    "Black mask through the eye",
+    "Long, pointed central tail streamers",
+    "Slender, down-curved black bill"
+   ],
+   "voice": "Deep, throaty 'terk' or 'krik-krik' calls, given incessantly by flocks.",
+   "lookalikes": "Northern carmine bee-eater, north of the equator, has a blue-green throat rather than a carmine one. Other bee-eaters in its range are mostly green and none is carmine all over.",
+   "whereToSee": "Luangwa Valley (Zambia), Zambezi and Chobe rivers, Okavango Delta, Mana Pools (Zimbabwe)",
+   "season": "Intra-African migrant; breeds August to December in southern Africa, then disperses north and south",
+   "order": "Coraciiformes"
+  },
+  "iucn": "LC",
+  "lore": "Southern carmine bee-eater colonies on the Zambezi and Luangwa riverbanks are a celebrated attraction of the southern African dry season.",
+  "funFact": "A breeding colony can number several thousand birds packed into a single sandbank."
+ },
+ {
+  "slug": "promerops-cafer",
+  "scientific": "Promerops cafer",
+  "common": "Cape sugarbird",
+  "otherNames": [
+   "Kaapse suikervoël (Afrikaans)",
+   "Promerops du Cap (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Promeropidae",
+  "shelves": [
+   "pollinator",
+   "songbird"
+  ],
+  "summary": "A fynbos endemic whose males trail tails nearly twice their body length. It is a key pollinator of proteas, pushing its long bill deep into the flowerheads for nectar.",
+  "nativeRange": "Fynbos of the Western and Eastern Cape, South Africa",
+  "regions": [
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Fynbos",
+   "Mediterranean shrubland"
+  ],
+  "abilities": [
+   "Pollinates many proteas and other fynbos plants while feeding on nectar",
+   "Males perform display flights with their tails flicked over their backs and wings rattling",
+   "Lines its nest with downy protea seed fluff"
+  ],
+  "animal": {
+   "diet": "Nectar, especially of Protea, plus insects and spiders",
+   "habitat": "Mature fynbos with flowering proteas; gardens",
+   "size": "Males up to ~44 cm including tail; females ~29 cm",
+   "behaviour": "Males guard flowering protea patches from high perches and chase away rivals and sunbirds.",
+   "fieldMarks": [
+    "Very long tail in males (shorter in females)",
+    "Brown upperparts with a brown-streaked white breast",
+    "Bright yellow undertail coverts",
+    "White moustache and dark malar stripe",
+    "Long, down-curved bill"
+   ],
+   "voice": "A jumble of harsh, grating and metallic notes; displaying males make a 'frrrt' wing rattle.",
+   "lookalikes": "Gurney's sugarbird, found further east in the eastern escarpment, has a rufous crown and breast and a shorter tail. Malachite sunbird males are green, not brown.",
+   "whereToSee": "Kirstenbosch National Botanical Garden, Harold Porter Garden (Betty's Bay), Helderberg Nature Reserve, Cape Point",
+   "season": "Resident; breeds mainly in the winter rains (April–August)",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "The sugarbirds form their own family found only in southern Africa, and the Cape sugarbird is an emblem of the Cape Floristic Region, one of the world's richest plant kingdoms.",
+  "funFact": "Because fire periodically burns the fynbos and proteas take years to regrow and flower, sugarbirds move locally to follow mature, flowering protea stands."
+ },
+ {
+  "slug": "psittacus-erithacus",
+  "scientific": "Psittacus erithacus",
+  "common": "Grey parrot",
+  "otherNames": [
+   "Kasuku (Swahili)",
+   "Odíderé (Yoruba)",
+   "Perroquet jaco (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Psittacidae",
+  "shelves": [
+   "endangered",
+   "marvel"
+  ],
+  "summary": "A grey, red-tailed parrot of West and Central African forests, renowned for its ability to mimic speech and to use words meaningfully. Capture for the pet trade has devastated wild populations.",
+  "nativeRange": "Equatorial Africa from Côte d'Ivoire to western Kenya and Tanzania",
+  "regions": [
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Tropical rainforest",
+   "Forest edge",
+   "Mangrove"
+  ],
+  "abilities": [
+   "Exceptional vocal mimic; captive birds learn hundreds of words",
+   "Shows abilities in categorisation, number and inference in laboratory studies",
+   "Gathers at dusk in communal roosts of hundreds to thousands",
+   "Visits forest clearings to eat clay, likely to aid digestion or mineral intake"
+  ],
+  "animal": {
+   "diet": "Fruit, seeds and nuts, especially oil-palm fruits",
+   "habitat": "Lowland rainforest, forest edges, savanna woodland mosaics and mangroves",
+   "lifespan": "Up to 40–60 years in captivity",
+   "size": "About 33 cm; 400–500 g",
+   "behaviour": "Flocks fly to communal roosts at dusk with loud screeches and whistles, often in pairs within the flock.",
+   "fieldMarks": [
+    "Ash-grey body with paler scalloped head and neck",
+    "Bright scarlet tail",
+    "Bare white face patch around a pale yellow eye",
+    "Heavy black bill"
+   ],
+   "voice": "Shrill whistles, screeches and clicks in flight; wild birds rarely mimic.",
+   "lookalikes": "Timneh parrot (West Africa, from Guinea to Côte d'Ivoire), now a separate species, is darker grey with a maroon tail and a horn-coloured upper mandible.",
+   "whereToSee": "Lobéké and Dja (Cameroon), Odzala-Kokoua (Republic of Congo), Kibale (Uganda), Príncipe island; forest clearings known as bais",
+   "season": "Resident",
+   "order": "Psittaciformes"
+  },
+  "iucn": "EN",
+  "lore": "Irene Pepperberg's grey parrot Alex (1976–2007) could label objects, colours, shapes and quantities. The red tail feathers have long been used in Yoruba ritual and royal regalia.",
+  "funFact": "Over a million wild-caught grey parrots are estimated to have entered international trade in recent decades; the species was moved to CITES Appendix I in 2016."
+ },
+ {
+  "slug": "numida-meleagris",
+  "scientific": "Numida meleagris",
+  "common": "Helmeted guineafowl",
+  "otherNames": [
+   "Kanga (Swahili)",
+   "Impangele (Zulu)",
+   "Gewone tarentaal (Afrikaans)",
+   "Pintade de Numidie (French)",
+   "Gallina de Guinea (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Numididae",
+  "shelves": [
+   "edible"
+  ],
+  "summary": "A noisy, polka-dotted gamebird with a bony casque, living in flocks across African savanna. Domesticated in Africa and carried to Europe and the Americas, it is now kept and eaten worldwide.",
+  "nativeRange": "Sub-Saharan Africa; introduced and domesticated widely",
+  "regions": [
+   "Sub-Saharan Africa",
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Savanna",
+   "Grassland",
+   "Farmland"
+  ],
+  "abilities": [
+   "Eats ticks and insects, and is kept on farms partly for pest control",
+   "Flocks raise loud alarms that warn other animals of predators",
+   "Can run fast and roosts in trees at night"
+  ],
+  "animal": {
+   "diet": "Seeds, bulbs, insects, ticks, snails",
+   "habitat": "Savanna, grassland, farmland and scrub",
+   "size": "53–58 cm; 1.3 kg",
+   "behaviour": "Flocks of dozens or even hundreds walk in long lines, calling raucously; they flee by running rather than flying.",
+   "fieldMarks": [
+    "Slate-grey plumage covered in white spots",
+    "Bony, horn-coloured casque on top of the head",
+    "Bare blue and red head with wattles",
+    "Rounded, humped body"
+   ],
+   "voice": "A harsh, grating 'kek-kek-kek-krrrr' alarm and a rhythmic 'buck-wheat' call; flocks are very noisy.",
+   "lookalikes": "Crested guineafowl has a curly black crest instead of a casque. Vulturine guineafowl has a long, slim body, cobalt breast and a bare head with no casque.",
+   "whereToSee": "Almost any savanna reserve in East and southern Africa; Kruger, Serengeti, Etosha",
+   "season": "Resident year-round",
+   "order": "Galliformes"
+  },
+  "iucn": "LC",
+  "lore": "Greek myth said the sisters of the hero Meleager wept for him and were turned into guineafowl, their tears becoming the white spots, hence 'meleagris'. Romans knew it as the Numidian hen.",
+  "historicalNames": [
+   "Meleagris",
+   "Gallina Numidica",
+   "Gallina Africana",
+   "Pintado"
+  ],
+  "funFact": "The turkey's genus name Meleagris was borrowed from the classical name of the guineafowl, a legacy of early European confusion between the two birds."
+ },
+ {
+  "slug": "acryllium-vulturinum",
+  "scientific": "Acryllium vulturinum",
+  "common": "Vulturine guineafowl",
+  "otherNames": [
+   "Pintade vulturine (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Numididae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "The largest guineafowl, with a vulture-like bare head and long cobalt-and-white hackle feathers. Researchers found that it lives in a multilevel society, a social structure once thought limited to large-brained mammals.",
+  "nativeRange": "Dry north-eastern Africa: Ethiopia, Somalia, Kenya and north-eastern Tanzania",
+  "regions": [
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Dry thornbush",
+   "Semi-desert scrub",
+   "Savanna"
+  ],
+  "abilities": [
+   "Forms stable groups that associate in a structured multilevel society",
+   "Can survive with little drinking water, getting moisture from its food",
+   "Group decisions about direction are influenced by many members rather than only dominants"
+  ],
+  "animal": {
+   "diet": "Seeds, fruit, leaves and invertebrates",
+   "habitat": "Dry bush and grassland, often along riverine woodland",
+   "size": "About 60–72 cm; 1–1.6 kg",
+   "behaviour": "Groups of 15–60 birds roost together in trees and merge into larger supergroups at certain times.",
+   "fieldMarks": [
+    "Bare blue-grey head with a chestnut nape patch",
+    "Long cobalt-blue, white and black striped hackles over the neck and back",
+    "Cobalt-blue breast",
+    "Long tail and slender build",
+    "Red eye"
+   ],
+   "voice": "Harsh, chinking 'chink-chink-chink' alarms and loud scolding chatter.",
+   "lookalikes": "Helmeted guineafowl is dumpier, with a bony casque and evenly spotted grey plumage, and lacks the striped hackles and blue breast.",
+   "whereToSee": "Samburu, Buffalo Springs and Shaba (Kenya), Tsavo East, Meru, Awash (Ethiopia)",
+   "season": "Resident year-round",
+   "order": "Galliformes"
+  },
+  "iucn": "LC",
+  "lore": "Research at Mpala Research Centre in Kenya, published in 2019, described the first known multilevel society in a bird, comparing vulturine guineafowl to primates and elephants.",
+  "funFact": "Its 'vulture' head lacks feathers, a probable adaptation for losing heat in hot dry country."
+ },
+ {
+  "slug": "philetairus-socius",
+  "scientific": "Philetairus socius",
+  "common": "Sociable weaver",
+  "otherNames": [
+   "Versamelvoël (Afrikaans)",
+   "Républicain social (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Ploceidae",
+  "shelves": [
+   "marvel",
+   "keystone"
+  ],
+  "summary": "A sparrow-sized bird that builds the largest nests of any bird: colossal communal haystacks in camelthorn trees, housing hundreds of birds in separate chambers. The nest buffers temperatures in the Kalahari's searing days and freezing nights.",
+  "nativeRange": "Southern Africa: Namibia, Botswana and South Africa (Kalahari and Karoo)",
+  "regions": [
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Semi-desert scrub",
+   "Savanna"
+  ],
+  "abilities": [
+   "Builds nests weighing up to around a tonne, with up to 100 or more separate chambers",
+   "Nest interiors stay much warmer at night and cooler by day than outside",
+   "Colonies may be used for many decades, some for over a century",
+   "Provides homes for pygmy falcons, lovebirds, finches and reptiles"
+  ],
+  "animal": {
+   "diet": "Insects, especially termites, plus seeds",
+   "habitat": "Arid savanna with large trees such as camelthorn (Vachellia erioloba), also telephone poles",
+   "size": "About 14 cm; 25–30 g",
+   "behaviour": "Members of a colony continually add straw to the roof and maintain individual chambers; helpers feed young.",
+   "fieldMarks": [
+    "Black chin and throat patch",
+    "Scalloped back pattern with dark feathers edged pale",
+    "Black-and-white scaly flanks",
+    "Pale, heavy conical bill",
+    "Brownish crown"
+   ],
+   "voice": "Chattering, twittering contact calls around the colony; a 'chip-chip' in flight.",
+   "lookalikes": "Scaly-feathered weaver (scaly-feathered finch) is smaller with a white moustache and black stripes, and lacks the black throat. House sparrows lack the scaly flanks and black chin.",
+   "whereToSee": "Kgalagadi Transfrontier Park, Augrabies Falls, Kalahari roads in Namibia (nests on telephone poles), Etosha",
+   "season": "Resident year-round",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "The French naturalist François Le Vaillant described the giant nests in the 1780s; the bird's French name, républicain, likens a colony to a republic.",
+  "funFact": "Large nests can collapse the trees that hold them, especially after rain soaks the straw."
+ },
+ {
+  "slug": "quelea-quelea",
+  "scientific": "Quelea quelea",
+  "common": "Red-billed quelea",
+  "otherNames": [
+   "Rooibekkwelea (Afrikaans)",
+   "Travailleur à bec rouge (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Ploceidae",
+  "shelves": [
+   "marvel",
+   "migrant"
+  ],
+  "summary": "Probably the most abundant wild bird on Earth, with a post-breeding population estimated at around 1.5 billion. Its vast flocks, darkening the sky, can strip a grain field in hours, earning it the name 'feathered locust'.",
+  "nativeRange": "Sub-Saharan Africa outside rainforest and true desert",
+  "regions": [
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Savanna",
+   "Grassland",
+   "Farmland"
+  ],
+  "abilities": [
+   "Forms flocks of millions that move with seasonal rains to follow ripening grass seed",
+   "Breeding colonies can contain millions of nests across many hectares",
+   "Chicks can leave the nest about two weeks after hatching"
+  ],
+  "animal": {
+   "diet": "Grass seeds, cultivated grains and insects",
+   "habitat": "Dry savanna, grassland and cultivated land",
+   "size": "About 12 cm; 15–26 g",
+   "behaviour": "Feeding flocks 'roll' across the ground as birds at the back leapfrog over those in front.",
+   "fieldMarks": [
+    "Thick, conical red bill (yellowish in breeding females)",
+    "Breeding males: black (or pale) face mask framed by pink or buff",
+    "Streaky brown sparrow-like body",
+    "Red eye-ring"
+   ],
+   "voice": "Constant chattering twitter from flocks; male song a jumbled, harsh warble.",
+   "lookalikes": "Red-headed and cardinal queleas are smaller-billed, with red heads in breeding males. Non-breeding bishops and widowbirds look similar but have dark or horn-coloured bills, not red.",
+   "whereToSee": "Large flocks across Kalahari, Etosha, Serengeti, the Sahel, especially near water in the dry season",
+   "season": "Present year-round, moving nomadically with rains; breeds in the wet season",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "Quelea control, using aerial spraying and explosives at roosts, has been a major agricultural programme across Africa since the mid-20th century.",
+  "funFact": "Despite control operations killing many millions of birds each year, the quelea's overall population has not noticeably declined."
+ },
+ {
+  "slug": "gyps-rueppelli",
+  "scientific": "Gyps rueppelli",
+  "common": "Rüppell's vulture",
+  "otherNames": [
+   "Vautour de Rüppell (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Accipitridae",
+  "shelves": [
+   "endangered",
+   "marvel",
+   "keystone"
+  ],
+  "summary": "A large griffon vulture of the Sahel and East Africa and the highest-flying bird on record. Specialist haemoglobin lets it breathe at altitudes where a human would lose consciousness.",
+  "nativeRange": "Sahel and East Africa, from Senegal to Ethiopia and Tanzania",
+  "regions": [
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Savanna",
+   "Mountain cliffs",
+   "Semi-desert scrub"
+  ],
+  "abilities": [
+   "Struck an airliner at 11,300 m over Côte d'Ivoire in 1973, the highest-flying bird recorded",
+   "Has a haemoglobin variant that binds oxygen well at low pressure",
+   "Clears carcasses fast, limiting the spread of disease",
+   "Soars on thermals for hours while searching for food"
+  ],
+  "animal": {
+   "diet": "Carrion, especially soft tissue of large mammals",
+   "habitat": "Open savanna and grassland, nesting on cliffs",
+   "size": "85–107 cm long; wingspan 2.3–2.6 m; 6.5–9 kg",
+   "behaviour": "Colonies breed on high cliffs and forage over vast areas, often travelling 150 km from the nest.",
+   "fieldMarks": [
+    "Dark brown body with every feather edged creamy-white, giving a scaly, mottled look",
+    "Yellowish to horn-coloured bill",
+    "Pale yellow eye",
+    "White neck ruff",
+    "In flight, thin white lines across the underwing"
+   ],
+   "voice": "Hissing, squealing and grunting at carcasses; otherwise silent.",
+   "lookalikes": "White-backed vulture has plainer, less scaled brown plumage, a dark bill and dark eye, and a white rump in flight. Lappet-faced vulture is larger with a bare pink head and wrinkled lappets.",
+   "whereToSee": "Serengeti, Maasai Mara, Simien Mountains (Ethiopia), Gol Mountains (Tanzania) for cliff colonies",
+   "season": "Resident; moves to follow migratory herds",
+   "order": "Accipitriformes"
+  },
+  "iucn": "CR",
+  "lore": "It is named after the German explorer Eduard Rüppell, who collected in north-east Africa in the 1820s. Vulture parts are used in African traditional medicine and divination, which drives poaching.",
+  "funFact": "Its population dropped by an estimated 97% in three generations, mostly through poisoning, including poachers lacing elephant carcasses so circling vultures won't reveal them."
+ },
+ {
+  "slug": "icthyophaga-vociferoides",
+  "scientific": "Icthyophaga vociferoides",
+  "common": "Madagascar fish eagle",
+  "otherNames": [
+   "Ankoay (Malagasy)",
+   "Pygargue de Madagascar (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Accipitridae",
+  "shelves": [
+   "endangered",
+   "freshwater"
+  ],
+  "summary": "One of the world's rarest birds of prey, confined to a few lakes, rivers and mangroves of western Madagascar. Pairs are sometimes helped at the nest by additional adults.",
+  "nativeRange": "Western Madagascar",
+  "regions": [
+   "Madagascar"
+  ],
+  "biomes": [
+   "Lakes and rivers",
+   "Mangrove",
+   "Dry deciduous forest"
+  ],
+  "abilities": [
+   "Hunts fish from tall waterside perches",
+   "Some pairs breed with help from extra adult birds"
+  ],
+  "animal": {
+   "diet": "Mainly fish, especially native species and introduced tilapia",
+   "habitat": "Large lakes, rivers, estuaries and mangroves with tall trees",
+   "size": "70–80 cm; wingspan about 1.8–2 m",
+   "behaviour": "Pairs defend a lake shore and call loudly from high perches.",
+   "fieldMarks": [
+    "Brown body with pale brownish-white cheeks and throat",
+    "Darker brown crown",
+    "White tail in adults",
+    "Pale bill",
+    "Darker brown wings"
+   ],
+   "voice": "A loud, high, yelping call, similar to the African fish eagle's but harsher and more rapid.",
+   "lookalikes": "No similar large eagle occurs in its range. Madagascar harrier-hawk is smaller, grey and long-legged.",
+   "whereToSee": "Tsimembo-Manambolomaty lakes complex (western Madagascar), Antsalova region",
+   "season": "Resident",
+   "order": "Accipitriformes"
+  },
+  "iucn": "CR",
+  "lore": "The Peregrine Fund and local communities have run Madagascar fish eagle projects since the 1990s, combining surveys with community-managed lake protections.",
+  "funFact": "It is the closest relative of the African fish eagle, from which its ancestors likely arrived on Madagascar."
+ },
+ {
+  "slug": "euryceros-prevostii",
+  "scientific": "Euryceros prevostii",
+  "common": "Helmet vanga",
+  "otherNames": [
+   "Eurycère de Prévost (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Vangidae",
+  "shelves": [
+   "endangered"
+  ],
+  "summary": "A rainforest bird of north-eastern Madagascar carrying a huge, arched, bright blue bill. Vangas are a spectacular radiation of birds found only on Madagascar.",
+  "nativeRange": "Lowland and mid-altitude rainforest of north-eastern Madagascar",
+  "regions": [
+   "Madagascar"
+  ],
+  "biomes": [
+   "Tropical rainforest"
+  ],
+  "abilities": [
+   "Uses its massive bill to seize large insects, lizards and frogs",
+   "Part of the vanga radiation, whose bill shapes span the range of many bird families"
+  ],
+  "animal": {
+   "diet": "Large insects, chameleons, geckos and frogs",
+   "habitat": "Undisturbed lowland and mid-elevation rainforest",
+   "size": "About 28–31 cm",
+   "behaviour": "Sits still in the mid-canopy for long periods before sallying for prey.",
+   "fieldMarks": [
+    "Enormous arched, bright blue bill",
+    "Black head and underparts",
+    "Rufous back and tail centre",
+    "Pale yellow eye"
+   ],
+   "voice": "A long, accelerating, whistled trill descending toward the end.",
+   "lookalikes": "No other bird has this bill. Rufous vanga is smaller, with a white breast and pale blue-grey bill.",
+   "whereToSee": "Masoala National Park and Marojejy National Park",
+   "season": "Resident",
+   "order": "Passeriformes"
+  },
+  "iucn": "EN",
+  "lore": "It was named in honour of the French artist Florent Prévost; it remains a prized bird for birders visiting Masoala.",
+  "funFact": "It is the only member of the genus Euryceros, one of the vangas, a family that radiated into many bill shapes on Madagascar."
+ },
+ {
+  "slug": "spheniscus-demersus",
+  "scientific": "Spheniscus demersus",
+  "common": "African penguin",
+  "otherNames": [
+   "Brilpikkewyn (Afrikaans)",
+   "Manchot du Cap (French)",
+   "Jackass penguin (English)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Spheniscidae",
+  "shelves": [
+   "endangered",
+   "ocean"
+  ],
+  "summary": "The only penguin that breeds in Africa, nesting on islands and beaches from Namibia to Algoa Bay. In 2024 it became the first penguin species classified as Critically Endangered.",
+  "nativeRange": "Coasts and islands of Namibia and South Africa",
+  "regions": [
+   "Sub-Saharan Africa",
+   "Atlantic Ocean",
+   "Indian Ocean"
+  ],
+  "biomes": [
+   "Coastal",
+   "Island",
+   "Marine"
+  ],
+  "abilities": [
+   "Dives to around 130 m and swims at up to about 20 km/h",
+   "Has bare pink skin above the eye that helps shed heat",
+   "Nests in burrows dug into guano or under bushes"
+  ],
+  "animal": {
+   "diet": "Sardines, anchovies and other small shoaling fish",
+   "habitat": "Rocky islands, sheltered beaches and the Benguela current",
+   "lifespan": "10–25 years",
+   "size": "About 60–70 cm; 2.2–3.5 kg",
+   "behaviour": "Pairs reunite at the same burrow each season and greet each other with loud braying.",
+   "fieldMarks": [
+    "Black back and white front",
+    "Single black band across the chest",
+    "Bare pink skin patch above the eye",
+    "White stripe curving from above the eye to the breast",
+    "Unique black spots on the chest"
+   ],
+   "voice": "A loud, donkey-like braying, given with the head thrown back.",
+   "lookalikes": "Magellanic penguin (South America) has two chest bands; Humboldt penguin has a broader pink face and one band. No other penguin breeds in Africa.",
+   "whereToSee": "Boulders Beach (Simon's Town), Stony Point (Betty's Bay), Robben Island, Bird Island in Algoa Bay",
+   "season": "Present year-round; breeds in most months, with peaks varying by colony",
+   "order": "Sphenisciformes"
+  },
+  "iucn": "CR",
+  "lore": "Its nests were destroyed by 19th- and 20th-century guano harvesting and its eggs collected for food; millions of eggs were taken from Dassen Island alone.",
+  "funFact": "The breeding population has fallen below 10,000 pairs, down from perhaps over a million birds a century ago."
+ },
+ {
+  "slug": "terathopius-ecaudatus",
+  "scientific": "Terathopius ecaudatus",
+  "common": "Bateleur",
+  "otherNames": [
+   "Berghaan (Afrikaans)",
+   "Ingqungqulu (Zulu)",
+   "Bateleur des savanes (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Accipitridae",
+  "shelves": [
+   "endangered"
+  ],
+  "summary": "A striking eagle with almost no tail, red face and legs, and a rocking, tightrope-walker flight. It spends much of the day gliding low over the savanna searching for carrion and prey.",
+  "nativeRange": "Sub-Saharan Africa and south-western Arabia",
+  "regions": [
+   "Sub-Saharan Africa",
+   "West Asia"
+  ],
+  "biomes": [
+   "Savanna",
+   "Open woodland"
+  ],
+  "abilities": [
+   "Glides for hours, tilting from side to side, with little flapping",
+   "Spreads its wings in 'heraldic' sunbathing postures",
+   "Finds carcasses and is often first at them"
+  ],
+  "animal": {
+   "diet": "Carrion, birds, small mammals, reptiles",
+   "habitat": "Open savanna and woodland",
+   "size": "55–70 cm; wingspan about 1.7–1.8 m",
+   "behaviour": "It flies with wings held in a shallow V, rocking side to side, a habit that inspired its French name meaning 'acrobat'.",
+   "fieldMarks": [
+    "Very short tail; feet project past it in flight",
+    "Black body with chestnut back (cream in some birds)",
+    "Bright red face and legs",
+    "Grey shoulder patch",
+    "Females have grey secondaries, males black"
+   ],
+   "voice": "A loud, barking 'kaw-aw' and a harsh 'schaaaw'.",
+   "lookalikes": "Black-chested snake eagle has a long tail and white belly. Juvenile bateleurs are brown and may resemble other brown eagles but share the short-tailed silhouette.",
+   "whereToSee": "Kruger, Kgalagadi, Okavango, Serengeti, Maasai Mara",
+   "season": "Resident",
+   "order": "Accipitriformes"
+  },
+  "iucn": "EN",
+  "lore": "François Le Vaillant named it 'bateleur' (French for a street acrobat) in the 18th century because of its tilting flight.",
+  "historicalNames": [
+   "Bateleur"
+  ],
+  "funFact": "Bateleurs can spend 8–9 hours a day in the air and cover hundreds of kilometres."
+ },
+ {
+  "slug": "leptoptilos-crumenifer",
+  "scientific": "Leptoptilos crumenifer",
+  "common": "Marabou stork",
+  "otherNames": [
+   "Maraboe (Afrikaans)",
+   "Marabout d'Afrique (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Ciconiidae",
+  "shelves": [
+   "marvel",
+   "freshwater"
+  ],
+  "summary": "A massive, bald-headed stork that scavenges carcasses and rubbish dumps alongside vultures. Its wingspan rivals the largest of any land bird.",
+  "nativeRange": "Sub-Saharan Africa",
+  "regions": [
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Savanna",
+   "Wetland",
+   "Urban"
+  ],
+  "abilities": [
+   "Wingspan regularly exceeds 2.5 m and is reported up to 3 m or more",
+   "Inflates an air-filled neck sac in display",
+   "Has adapted to towns, scavenging dumps and fish markets",
+   "Takes live prey including flamingos, frogs and rodents"
+  ],
+  "animal": {
+   "diet": "Carrion, refuse, fish, frogs, rodents and birds",
+   "habitat": "Savanna, wetlands, fishing villages and cities",
+   "size": "About 1.2–1.5 m tall; 4–9 kg",
+   "behaviour": "In cities like Kampala, marabous nest in trees along streets and patrol rubbish dumps.",
+   "fieldMarks": [
+    "Bald, pinkish head and neck, often with scabby spots",
+    "Huge, wedge-shaped pale bill",
+    "Pendulous pink throat pouch",
+    "Dark grey back and wings, white underparts",
+    "Long grey legs often whitened with excreta"
+   ],
+   "voice": "Mostly silent; clatters its bill and gives croaks and grunts.",
+   "lookalikes": "Saddle-billed stork is colourful with a red-and-black bill. Vultures share the bald head but have hooked bills and short legs.",
+   "whereToSee": "Kampala (Uganda), Lake Naivasha, Serengeti, Maasai Mara, Kruger, Chobe",
+   "season": "Resident or nomadic",
+   "order": "Ciconiiformes"
+  },
+  "iucn": "LC",
+  "lore": "Fluffy marabou undertail feathers were widely traded in the 19th and 20th centuries for hats and trimmings; 'marabou' became a name for any fluffy trim.",
+  "funFact": "Marabous cool their legs by excreting on them, a habit known as urohidrosis."
+ },
+ {
+  "slug": "dacelo-novaeguineae",
+  "scientific": "Dacelo novaeguineae",
+  "common": "Laughing kookaburra",
+  "otherNames": [
+   "Guuguubarra (Wiradjuri)",
+   "Kookaburra (Australian English, from Wiradjuri)",
+   "Martin-chasseur géant (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Alcedinidae",
+  "shelves": [
+   "songbird"
+  ],
+  "summary": "The world's largest kingfisher, famous for its raucous family chorus of 'laughter' at dawn and dusk. It rarely fishes, instead dropping onto snakes, lizards and insects from a perch.",
+  "nativeRange": "Eastern Australia; introduced to south-western Western Australia, Tasmania and New Zealand",
+  "regions": [
+   "Australia",
+   "Oceania"
+  ],
+  "biomes": [
+   "Eucalypt woodland",
+   "Open forest",
+   "Suburban parks"
+  ],
+  "abilities": [
+   "Kills snakes and lizards by bashing them against branches or dropping them",
+   "Family groups 'laugh' together to proclaim territory",
+   "Cooperative breeder: older offspring help raise new chicks"
+  ],
+  "animal": {
+   "diet": "Insects, worms, lizards, snakes, small mammals and birds",
+   "habitat": "Dry eucalypt woodland, open forest, parks and gardens",
+   "lifespan": "Up to about 20 years",
+   "size": "39–42 cm; 300–450 g",
+   "behaviour": "Groups of related birds call in chorus, one starting with low chuckles before the rest join in a crescendo of laughter.",
+   "fieldMarks": [
+    "Large, stocky kingfisher with a massive bill",
+    "Off-white head with a dark brown eye-stripe",
+    "Brown wings with a small pale-blue shoulder patch",
+    "Rufous tail barred with black",
+    "Dark eye"
+   ],
+   "voice": "A loud, rollicking 'koo-koo-koo-ka-ka-ka' that rises into raucous laughter, often by several birds at once, especially at dawn and dusk.",
+   "lookalikes": "Blue-winged kookaburra (northern Australia) has a pale eye, no dark eye-stripe, a blue rump and more extensive blue in the wing, and a harsher, cackling call.",
+   "whereToSee": "Common in eastern Australian bushland, parks and gardens from Queensland to Victoria; Royal National Park (Sydney), Lamington National Park",
+   "season": "Resident year-round",
+   "order": "Coraciiformes"
+  },
+  "iucn": "LC",
+  "lore": "The name comes from the Wiradjuri word guuguubarra, imitating its call. A widely retold Aboriginal story says the kookaburra's laughter is the signal for the sky-people to light the sun each morning.",
+  "funFact": "Its call has been widely used as a 'jungle' sound effect in films, even those set nowhere near Australia."
+ },
+ {
+  "slug": "casuarius-casuarius",
+  "scientific": "Casuarius casuarius",
+  "common": "Southern cassowary",
+  "otherNames": [
+   "Muruk (Tok Pisin)",
+   "Kasuari (Malay/Indonesian)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Casuariidae",
+  "shelves": [
+   "keystone",
+   "marvel"
+  ],
+  "summary": "A towering, flightless rainforest bird with a bony casque and a dagger-like inner claw. It is a crucial seed disperser for rainforest trees, swallowing fruit whole and depositing seeds far away.",
+  "nativeRange": "Northern Queensland, New Guinea and nearby islands",
+  "regions": [
+   "Australia",
+   "Oceania"
+  ],
+  "biomes": [
+   "Tropical rainforest",
+   "Swamp forest"
+  ],
+  "abilities": [
+   "Disperses seeds of more than 200 plant species, some almost entirely dependent on it",
+   "Inner toe bears a claw up to about 12 cm long, a formidable weapon",
+   "Low-frequency booming calls may be partly below human hearing",
+   "Swims well and can run at up to around 50 km/h through forest"
+  ],
+  "animal": {
+   "diet": "Fallen fruit, fungi, invertebrates and small vertebrates",
+   "habitat": "Tropical rainforest, swamp forest, adjacent woodland",
+   "lifespan": "Up to about 40 years in captivity",
+   "size": "1.5–1.8 m tall; females up to about 60–70 kg",
+   "behaviour": "The male alone incubates the eggs for about 50 days and raises the striped chicks for up to nine months.",
+   "fieldMarks": [
+    "Very large, black, hair-like plumage",
+    "Tall, helmet-like brown casque",
+    "Bright blue neck with two red wattles",
+    "Massive grey legs with three toes",
+    "Juveniles brown; chicks striped"
+   ],
+   "voice": "Deep, rumbling booms and low hisses; mostly heard at close range.",
+   "lookalikes": "Emu is grey-brown and lacks the casque and wattles; it lives in open country. In New Guinea, northern and dwarf cassowaries have different wattle patterns (one or none).",
+   "whereToSee": "Mission Beach and Etty Bay (Queensland), Daintree, Cape York; New Guinea lowlands",
+   "season": "Resident",
+   "order": "Casuariiformes"
+  },
+  "iucn": "LC",
+  "lore": "A 2021 study of ancient eggshell suggested people in New Guinea may have collected and raised cassowary chicks as long as 18,000 years ago, and cassowary-bone daggers were made there into the 20th century.",
+  "funFact": "Although listed as Least Concern globally, the Australian population is listed as Endangered under Australian law."
+ },
+ {
+  "slug": "dromaius-novaehollandiae",
+  "scientific": "Dromaius novaehollandiae",
+  "common": "Emu",
+  "otherNames": [
+   "Dinawan (Wiradjuri / Gamilaraay)",
+   "Waitj (Noongar)",
+   "Kalaya (Pitjantjatjara)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Casuariidae",
+  "shelves": [
+   "edible",
+   "sacred",
+   "migrant"
+  ],
+  "summary": "Australia's tallest bird and the world's second-tallest, a shaggy-feathered nomad of the outback. It walks long distances following rain, and the male raises the chicks alone.",
+  "nativeRange": "Mainland Australia",
+  "regions": [
+   "Australia"
+  ],
+  "biomes": [
+   "Savanna",
+   "Semi-desert scrub",
+   "Grassland",
+   "Eucalypt woodland"
+  ],
+  "abilities": [
+   "Can run at about 50 km/h",
+   "Makes long nomadic movements following rains",
+   "Males incubate eggs for around eight weeks, barely eating or drinking",
+   "Females make deep drumming calls via an inflatable throat sac"
+  ],
+  "animal": {
+   "diet": "Fruit, seeds, flowers, green shoots and insects",
+   "habitat": "Most habitats except dense rainforest and the driest deserts",
+   "lifespan": "10–20 years",
+   "size": "1.5–1.9 m tall; 30–55 kg",
+   "behaviour": "After laying, the female leaves and may mate again, while the male guards the clutch and then the striped chicks for months.",
+   "fieldMarks": [
+    "Very tall, shaggy grey-brown plumage",
+    "Bare blue-grey skin on neck",
+    "Long, strong legs",
+    "Tiny vestigial wings, hidden in the plumage",
+    "Chicks have cream-and-brown stripes"
+   ],
+   "voice": "Females make a deep, booming drum or thump; males grunt.",
+   "lookalikes": "Southern cassowary (rainforest, Queensland) is black with a casque and blue-and-red neck. Ostriches (feral, rare) have black-and-white or brown plumage and two-toed feet.",
+   "whereToSee": "Common in outback NSW, Queensland and Western Australia; Wilsons Promontory, Tower Hill (Victoria), Kalbarri",
+   "season": "Resident, nomadic",
+   "order": "Casuariiformes"
+  },
+  "iucn": "LC",
+  "lore": "Many Aboriginal peoples see the 'Emu in the Sky', formed by dark dust lanes of the Milky Way. In 1932 Western Australian authorities waged the so-called 'Emu War' with machine guns and largely failed.",
+  "funFact": "The emu appears on Australia's coat of arms alongside the red kangaroo."
+ },
+ {
+  "slug": "eolophus-roseicapilla",
+  "scientific": "Eolophus roseicapilla",
+  "common": "Galah",
+  "otherNames": [
+   "Gilaa (Yuwaalaraay / Gamilaraay)",
+   "Rose-breasted cockatoo (English)",
+   "Cacatoès rosalbin (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Cacatuidae",
+  "shelves": [],
+  "summary": "A pink-and-grey cockatoo of inland Australia, abundant and gregarious. It has spread with farming and watering points to occupy nearly the entire continent.",
+  "nativeRange": "Across mainland Australia; introduced to Tasmania",
+  "regions": [
+   "Australia"
+  ],
+  "biomes": [
+   "Grassland",
+   "Savanna",
+   "Farmland",
+   "Urban"
+  ],
+  "abilities": [
+   "Expanded its range greatly with land clearing, crops and artificial water",
+   "Forms long-lasting pair bonds",
+   "Highly social, roosting in large flocks and performing acrobatics on wires"
+  ],
+  "animal": {
+   "diet": "Seeds, grain, roots and shoots",
+   "habitat": "Open country, farmland, parks and towns",
+   "lifespan": "Can exceed 40 years in captivity",
+   "size": "About 35 cm; 300–400 g",
+   "behaviour": "Flocks hang upside down, swing on wires and roll in the rain, behaviour widely described as play.",
+   "fieldMarks": [
+    "Deep rose-pink face, neck and underparts",
+    "Grey back and wings",
+    "Pale pink crown with a short crest",
+    "Pale bill",
+    "Pale grey rump in flight"
+   ],
+   "voice": "Shrill, high-pitched 'chet' or 'chee' screeches.",
+   "lookalikes": "Major Mitchell's (pink) cockatoo is white and salmon-pink, with a tall red-and-yellow banded crest.",
+   "whereToSee": "Almost anywhere in Australia; country towns, sports fields and farmland",
+   "season": "Resident",
+   "order": "Psittaciformes"
+  },
+  "iucn": "LC",
+  "lore": "The name 'galah' comes from the Yuwaalaraay word gilaa. In Australian slang, 'galah' means a fool or loudmouth.",
+  "funFact": "Galahs often pair for life, and both partners share incubation and chick-rearing."
+ },
+ {
+  "slug": "trichoglossus-moluccanus",
+  "scientific": "Trichoglossus moluccanus",
+  "common": "Rainbow lorikeet",
+  "otherNames": [
+   "Loriquet arc-en-ciel (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Psittaculidae",
+  "shelves": [
+   "pollinator"
+  ],
+  "summary": "A noisy, rainbow-coloured parrot with a brush-tipped tongue for lapping nectar and pollen. Common in eastern Australian cities, it is an important pollinator of eucalypts and banksias.",
+  "nativeRange": "Eastern and south-eastern Australia; introduced to Perth and New Zealand",
+  "regions": [
+   "Australia"
+  ],
+  "biomes": [
+   "Eucalypt woodland",
+   "Rainforest edge",
+   "Urban"
+  ],
+  "abilities": [
+   "Brush-tipped tongue collects nectar and pollen",
+   "Pollinates many eucalypts, banksias and grevilleas",
+   "Forms huge, noisy communal roosts in city trees"
+  ],
+  "animal": {
+   "diet": "Nectar, pollen, fruit, flowers and some insects",
+   "habitat": "Woodland, forest edges, parks and gardens",
+   "lifespan": "Up to 20 years in captivity",
+   "size": "25–30 cm; 75–160 g",
+   "behaviour": "Flocks swirl through the canopy screeching, following flowering trees.",
+   "fieldMarks": [
+    "Violet-blue head",
+    "Orange-red breast barred with yellow",
+    "Green back, wings and tail",
+    "Deep blue belly",
+    "Red bill"
+   ],
+   "voice": "Shrill, screeching 'chee-chee' and constant chatter.",
+   "lookalikes": "Red-collared lorikeet (northern Australia) has an orange collar and black belly. Scaly-breasted lorikeet is green with yellow scalloping.",
+   "whereToSee": "Common in Sydney, Brisbane, Gold Coast; Currumbin Wildlife Sanctuary",
+   "season": "Resident",
+   "order": "Psittaciformes"
+  },
+  "iucn": "LC",
+  "lore": "At Currumbin on the Gold Coast, public lorikeet feeding has drawn visitors since the 1940s. In Perth, escaped birds became an invasive pest.",
+  "funFact": "Rainbow lorikeets have been recorded catching and eating meat, which may be linked to diet shortages."
+ },
+ {
+  "slug": "gymnorhina-tibicen",
+  "scientific": "Gymnorhina tibicen",
+  "common": "Australian magpie",
+  "otherNames": [
+   "Koolbardi (Noongar)",
+   "Makipai (Māori, loanword)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Artamidae",
+  "shelves": [
+   "songbird"
+  ],
+  "summary": "A black-and-white songbird whose rich, carolling song is one of the iconic sounds of Australia. It is notorious for swooping people during nesting season.",
+  "nativeRange": "Australia and southern New Guinea; introduced to New Zealand",
+  "regions": [
+   "Australia",
+   "Oceania"
+  ],
+  "biomes": [
+   "Grassland",
+   "Open woodland",
+   "Farmland",
+   "Urban"
+  ],
+  "abilities": [
+   "Complex warbling and carolling song with mimicry",
+   "Remembers individual human faces",
+   "Groups defend territories year-round",
+   "Shows strong cooperation, including helping to remove tracking devices from one another"
+  ],
+  "animal": {
+   "diet": "Insects, grubs, worms and small vertebrates",
+   "habitat": "Open country with scattered trees, parks and farms",
+   "lifespan": "Up to 25 years",
+   "size": "37–43 cm; 220–350 g",
+   "behaviour": "During nesting, some males swoop pedestrians and cyclists who come near.",
+   "fieldMarks": [
+    "Black-and-white plumage",
+    "Black head and underparts",
+    "White or grey nape and back (varies regionally)",
+    "Pale bluish-grey bill with dark tip",
+    "Red-brown eye"
+   ],
+   "voice": "A rich, flute-like carolling, often by groups; also complex warbles and mimicry.",
+   "lookalikes": "Pied currawong is mostly black with a yellow eye and white tail tip. Magpie-lark is smaller, with a thin bill and white eyebrow or throat.",
+   "whereToSee": "Common in parks and playing fields throughout Australia",
+   "season": "Resident; swooping season August–October",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "Noongar stories tell of Koolbardi the magpie and Wardong the crow. The magpie is the emblem of many Australian sports teams.",
+  "funFact": "In 2022 researchers reported that magpies removed tracking harnesses from one another, an unusual example of cooperative rescue."
+ },
+ {
+  "slug": "malurus-cyaneus",
+  "scientific": "Malurus cyaneus",
+  "common": "Superb fairywren",
+  "otherNames": [
+   "Blue wren (Australian English)",
+   "Mérion superbe (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Maluridae",
+  "shelves": [
+   "songbird"
+  ],
+  "summary": "A tiny, cocked-tailed bird whose breeding males glow electric blue. Its family life is famous for cooperative breeding and very high rates of extra-pair mating.",
+  "nativeRange": "South-eastern Australia and Tasmania",
+  "regions": [
+   "Australia"
+  ],
+  "biomes": [
+   "Shrubland",
+   "Open woodland",
+   "Gardens"
+  ],
+  "abilities": [
+   "Cooperative breeding, with helpers raising the young",
+   "Mothers teach embryos a 'password' call in the egg",
+   "Males pluck yellow petals and display them to females"
+  ],
+  "animal": {
+   "diet": "Insects and other small invertebrates",
+   "habitat": "Dense shrubs and grassland edges, gardens",
+   "lifespan": "Usually 5 years, can exceed 10",
+   "size": "About 14 cm; 8–13 g",
+   "behaviour": "Mothers call to eggs before hatching, and chicks incorporate a unique 'password' into their begging calls.",
+   "fieldMarks": [
+    "Breeding males: bright blue crown, cheeks and mantle",
+    "Black throat and eye-stripe",
+    "Long, cocked tail",
+    "Females and non-breeding males brown with orange-red around the eye"
+   ],
+   "voice": "A high, rapid, reeling trill.",
+   "lookalikes": "Splendid fairywren males are blue all over. Variegated fairywren has chestnut shoulders. Females of other fairywrens differ in eye patches and tail colour.",
+   "whereToSee": "Gardens and parks in Melbourne, Canberra, Sydney, Hobart; Royal Botanic Gardens",
+   "season": "Resident",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "Known to generations of Australians as the 'blue wren', it is a fixture of suburban gardens; a 2012 study showing that mothers teach their embryos a 'password' call drew worldwide attention.",
+  "funFact": "Despite living in pairs, most chicks in a superb fairywren nest are fathered by males outside the pair."
+ },
+ {
+  "slug": "prosthemadera-novaeseelandiae",
+  "scientific": "Prosthemadera novaeseelandiae",
+  "common": "Tūī",
+  "otherNames": [
+   "Tūī (Māori)",
+   "Kōkō (Māori)",
+   "Parson bird (English)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Meliphagidae",
+  "shelves": [
+   "songbird",
+   "pollinator"
+  ],
+  "summary": "A New Zealand honeyeater with iridescent plumage and a white throat tuft. Its complex song, with clicks, chimes and wheezes, comes from two voice boxes.",
+  "nativeRange": "New Zealand",
+  "regions": [
+   "Oceania"
+  ],
+  "biomes": [
+   "Temperate rainforest",
+   "Gardens"
+  ],
+  "abilities": [
+   "Two-sided syrinx lets it sing two notes at once",
+   "Some song elements are reported to be too high-pitched for people to hear",
+   "Pollinates flax, kōwhai and other native plants",
+   "Accomplished mimic, including human speech"
+  ],
+  "animal": {
+   "diet": "Nectar, fruit, insects",
+   "habitat": "Native forest, regenerating scrub, parks and gardens",
+   "size": "About 30 cm; 90–150 g",
+   "behaviour": "Tūī are aggressive defenders of nectar trees, chasing off other birds with loud wing whirring.",
+   "fieldMarks": [
+    "Dark iridescent plumage with blue, green and bronze sheen",
+    "Two white throat tufts (poi)",
+    "Lacy white collar of filamentous feathers",
+    "Curved black bill"
+   ],
+   "voice": "A rich mix of bell-like notes, clicks, cackles and wheezes.",
+   "lookalikes": "Korimako (New Zealand bellbird) is smaller, olive-green and lacks the white tufts.",
+   "whereToSee": "Zealandia (Wellington), Tiritiri Matangi, Otari-Wilton's Bush, Auckland parks",
+   "season": "Resident",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "Māori trained captive tūī to recite karakia and greetings. 'Parson bird' refers to the white tufts resembling clerical bands.",
+  "funFact": "Like other songbirds, the tūī has a two-sided voice box (syrinx), but it uses it with unusual virtuosity, producing two independent sounds at once."
+ },
+ {
+  "slug": "nestor-notabilis",
+  "scientific": "Nestor notabilis",
+  "common": "Kea",
+  "otherNames": [
+   "Kea (Māori)",
+   "Mountain parrot (English)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Strigopidae",
+  "shelves": [
+   "endangered",
+   "marvel"
+  ],
+  "summary": "The world's only alpine parrot, an olive-green clown of New Zealand's Southern Alps. Famously curious and clever, kea solve puzzles, use tools and even have a 'play' call that sets other kea romping.",
+  "nativeRange": "South Island, New Zealand",
+  "regions": [
+   "Oceania"
+  ],
+  "biomes": [
+   "Alpine",
+   "Subalpine forest"
+  ],
+  "abilities": [
+   "Solves multi-step puzzles and uses tools in experiments",
+   "Its 'warble' call triggers play in other kea, an emotional contagion",
+   "Understands statistical probabilities in choice tasks",
+   "Survives in cold, snowy mountain habitats"
+  ],
+  "animal": {
+   "diet": "Roots, leaves, fruit, insects, carrion",
+   "habitat": "Alpine and subalpine forest, scrub, grassland",
+   "size": "About 48 cm; 800–1000 g",
+   "behaviour": "Young kea gather in groups to explore and play, tearing car parts and backpacks.",
+   "fieldMarks": [
+    "Olive-green plumage with black edging",
+    "Bright orange underwings in flight",
+    "Long, narrow, hooked grey bill",
+    "Blue-green flight feathers"
+   ],
+   "voice": "A loud, descending 'kee-aaa' call, from which its name derives.",
+   "lookalikes": "Kākā is reddish-brown, lives in lowland forest, and has a heavier bill.",
+   "whereToSee": "Arthur's Pass, Homer Tunnel (Milford Road), Aoraki/Mount Cook",
+   "season": "Resident",
+   "order": "Psittaciformes"
+  },
+  "iucn": "EN",
+  "lore": "Farmers accused kea of killing sheep, and a bounty killed some 150,000 birds between 1860 and 1970.",
+  "funFact": "Kea are one of the few non-primate animals shown to make statistical inferences."
+ },
+ {
+  "slug": "porphyrio-hochstetteri",
+  "scientific": "Porphyrio hochstetteri",
+  "common": "Takahē",
+  "otherNames": [
+   "Takahē (Māori)",
+   "South Island takahē (English)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Rallidae",
+  "shelves": [
+   "endangered",
+   "marvel"
+  ],
+  "summary": "A large, flightless rail with brilliant blue-green plumage and a heavy red bill. Thought extinct for half a century, it was rediscovered in 1948 in New Zealand's Murchison Mountains.",
+  "nativeRange": "South Island, New Zealand",
+  "regions": [
+   "Oceania"
+  ],
+  "biomes": [
+   "Alpine grassland",
+   "Island sanctuary"
+  ],
+  "abilities": [
+   "Flightless and long-lived",
+   "Feeds on tussock grasses, snipping off tender bases",
+   "Recovered from near extinction through intensive conservation"
+  ],
+  "animal": {
+   "diet": "Tussock grasses, herbs, rhizomes",
+   "habitat": "Alpine grassland, now also predator-free islands and sanctuaries",
+   "lifespan": "Up to 20 years",
+   "size": "About 63 cm; 2–4 kg",
+   "behaviour": "Pairs defend territories and raise one to two chicks each year.",
+   "fieldMarks": [
+    "Deep blue-purple head and breast",
+    "Olive-green back and wings",
+    "Massive red bill and frontal shield",
+    "Stout red legs",
+    "Flightless, rounded body"
+   ],
+   "voice": "Loud, resonant hooting and clucking contact calls, often exchanged between pair members; deeper than the pūkeko's screech.",
+   "lookalikes": "Pūkeko is slimmer, with long legs and a smaller bill, and can fly.",
+   "whereToSee": "Tiritiri Matangi Island, Zealandia, Orokonui Ecosanctuary, Burwood Takahē Centre",
+   "season": "Resident",
+   "order": "Gruiformes"
+  },
+  "iucn": "EN",
+  "lore": "Geoffrey Orbell rediscovered the takahē in 1948 near Lake Te Anau, 50 years after it was believed extinct.",
+  "funFact": "The total population passed 500 birds in 2023 and was estimated at about 529 at the end of 2024, thanks to translocations and predator control."
+ },
+ {
+  "slug": "aquila-audax",
+  "scientific": "Aquila audax",
+  "common": "Wedge-tailed eagle",
+  "otherNames": [
+   "Waalitj (Noongar)",
+   "Bunjil (Kulin nations)",
+   "Wedgie (Australian English)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Accipitridae",
+  "shelves": [
+   "sacred"
+  ],
+  "summary": "Australia's largest bird of prey, with a distinctive diamond-shaped tail. It soars on thermals for hours and is revered in Aboriginal cultures.",
+  "nativeRange": "Australia, southern New Guinea",
+  "regions": [
+   "Australia",
+   "Oceania"
+  ],
+  "biomes": [
+   "Savanna",
+   "Open woodland",
+   "Mountain"
+  ],
+  "abilities": [
+   "Soars on thermals to great heights",
+   "Hunts cooperatively to take prey like kangaroos and goats",
+   "Builds huge stick nests up to 2 m across"
+  ],
+  "animal": {
+   "diet": "Rabbits, wallabies, kangaroos, birds, reptiles, carrion",
+   "habitat": "Woodland, savanna and open country",
+   "size": "81–106 cm; wingspan up to 2.3 m",
+   "behaviour": "Pairs soar together, performing undulating flights and talon-grappling displays.",
+   "fieldMarks": [
+    "Very large, dark brown to black plumage",
+    "Long, wedge-shaped tail",
+    "Feathered legs",
+    "Pale bill with dark tip"
+   ],
+   "voice": "Mostly silent; gives whistling yelps.",
+   "lookalikes": "Little eagle is much smaller with a square-cut tail and pale underwing band. Black kite has a shallow forked tail and slender build. Black-breasted buzzard has white 'bullseye' windows in the primaries and a short square tail. Only the wedge-tail shows the long diamond-shaped tail.",
+   "whereToSee": "Outback Australia; Flinders Ranges, Kakadu, Tasmania",
+   "season": "Resident",
+   "order": "Accipitriformes"
+  },
+  "iucn": "LC",
+  "lore": "To the Kulin nations of Victoria, Bunjil the wedge-tailed eagle is the creator ancestor. The Tasmanian subspecies is listed as Endangered.",
+  "funFact": "Wedge-tailed eagles have been known to attack hang-gliders and drones."
+ },
+ {
+  "slug": "podargus-strigoides",
+  "scientific": "Podargus strigoides",
+  "common": "Tawny frogmouth",
+  "otherNames": [
+   "Podarge gris (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Podargidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "A nocturnal bird often mistaken for an owl, famous for its broken-branch camouflage. It has a wide, frog-like bill and hunts insects at night.",
+  "nativeRange": "Throughout Australia and Tasmania",
+  "regions": [
+   "Australia"
+  ],
+  "biomes": [
+   "Woodland",
+   "Forest",
+   "Suburban parks"
+  ],
+  "abilities": [
+   "Mimics a broken branch when threatened",
+   "Night hunter catching insects with its wide bill",
+   "Mated pairs roost together for years"
+  ],
+  "animal": {
+   "diet": "Insects, worms, spiders, small vertebrates",
+   "habitat": "Woodland, forest, parks and gardens",
+   "lifespan": "Up to 14 years",
+   "size": "34–53 cm; 300–680 g",
+   "behaviour": "By day it perches motionless, closing its eyes to slits and stretching its body to blend with branches.",
+   "fieldMarks": [
+    "Silver-grey or brownish streaked plumage",
+    "Wide, frog-like bill",
+    "Yellow eyes",
+    "Bristle tufts around bill"
+   ],
+   "voice": "A low, repetitive 'oom-oom-oom'.",
+   "lookalikes": "Owls have hooked bills and strong talons; papuan frogmouth is larger with red eyes.",
+   "whereToSee": "Parks and gardens across Australia",
+   "season": "Resident",
+   "order": "Caprimulgiformes"
+  },
+  "iucn": "LC",
+  "lore": "Early settlers often called it 'mopoke', a name that belongs to the southern boobook owl; the boobook's 'mo-poke' call was long wrongly attributed to the frogmouth.",
+  "funFact": "Despite its look, the tawny frogmouth is more closely related to nightjars than to owls."
+ },
+ {
+  "slug": "cracticus-nigrogularis",
+  "scientific": "Cracticus nigrogularis",
+  "common": "Pied butcherbird",
+  "otherNames": [
+   "Cassican à gorge noire (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Artamidae",
+  "shelves": [
+   "songbird"
+  ],
+  "summary": "A black-and-white bird famed as one of Australia's finest songsters. It impales prey on thorns and sings complex duets.",
+  "nativeRange": "Mainland Australia (except far south-east)",
+  "regions": [
+   "Australia"
+  ],
+  "biomes": [
+   "Open woodland",
+   "Savanna",
+   "Farmland"
+  ],
+  "abilities": [
+   "Sings complex fluty duets and choruses",
+   "Impales prey on thorns or wedges it in branches",
+   "Mimics other birds"
+  ],
+  "animal": {
+   "diet": "Insects, small reptiles, birds, mice",
+   "habitat": "Open woodland and farmland",
+   "size": "32–36 cm",
+   "behaviour": "It stores food by wedging prey in tree forks or impaling it on thorns.",
+   "fieldMarks": [
+    "Black head and bib",
+    "White collar and underparts",
+    "Black-and-white wings",
+    "Hooked grey bill"
+   ],
+   "voice": "Rich, flute-like piping, often in duets.",
+   "lookalikes": "Grey butcherbird lacks the black bib. Australian magpie is larger and lacks the hook-tipped bill.",
+   "whereToSee": "Inland Queensland, NSW, Northern Territory",
+   "season": "Resident",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "Violinist and zoomusicologist Hollis Taylor spent years transcribing its songs in the outback for her 2017 book 'Is Birdsong Music?'.",
+  "funFact": "Pied butcherbird songs vary from region to region and change from year to year, with individual birds reworking phrases like improvising musicians."
+ },
+ {
+  "slug": "anthochaera-phrygia",
+  "scientific": "Anthochaera phrygia",
+  "common": "Regent honeyeater",
+  "otherNames": [
+   "Méliphage régent (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Meliphagidae",
+  "shelves": [
+   "endangered",
+   "songbird",
+   "pollinator"
+  ],
+  "summary": "A striking black-and-gold honeyeater of south-eastern Australia's box-ironbark woodlands, now so rare that many males never hear an adult of their own species and fail to learn its song. Fewer than about 300 are thought to remain in the wild.",
+  "nativeRange": "South-eastern Australia, mainly inland slopes of the Great Dividing Range in New South Wales and Victoria",
+  "regions": [
+   "Australia"
+  ],
+  "biomes": [
+   "Box-ironbark woodland",
+   "Eucalypt woodland",
+   "River-oak forest"
+  ],
+  "abilities": [
+   "Pollinates flowering eucalypts such as mugga ironbark, yellow box and white box while feeding on nectar",
+   "Tracks irregular eucalypt flowering across hundreds of kilometres",
+   "Young males learn song from adults, which is why the song is fading as numbers fall"
+  ],
+  "animal": {
+   "diet": "Nectar, especially of eucalypts and mistletoe; also lerp, honeydew and insects",
+   "habitat": "Dry box-ironbark eucalypt woodland and riparian forest",
+   "size": "20–24 cm; about 35–50 g",
+   "behaviour": "In a 2021 study, around 12% of wild males sang the songs of other species, such as friarbirds and wattlebirds, rather than their own, having had no regent honeyeater tutors.",
+   "fieldMarks": [
+    "Black head, neck and upper breast",
+    "Pale yellow scalloping on back and breast",
+    "Bright yellow edges to wing and tail feathers",
+    "Bare, warty pinkish skin around the eye",
+    "Down-curved black bill"
+   ],
+   "voice": "A soft, bell-like, metallic warble; males that have not learned it may give mimicked songs of other honeyeaters instead.",
+   "lookalikes": "Painted honeyeater has a pink bill, plain black upperparts and unscalloped white underparts. New Holland honeyeater has white-streaked underparts, a white eye and yellow wing panels but no bare facial skin.",
+   "whereToSee": "Capertee Valley and Hunter Valley (NSW), Chiltern-Mt Pilot National Park (Victoria); release sites in north-east Victoria",
+   "season": "Nomadic resident; movements follow eucalypt flowering",
+   "order": "Passeriformes"
+  },
+  "iucn": "CR",
+  "lore": "Taronga Zoo has bred regent honeyeaters for release since the 1990s, and captive young are now tutored with recordings of wild song before release.",
+  "funFact": "It is one of the first wild birds documented losing its song culture because the population became too small and scattered for young males to find tutors."
+ },
+ {
+  "slug": "hemiphaga-novaeseelandiae",
+  "scientific": "Hemiphaga novaeseelandiae",
+  "common": "Kererū",
+  "otherNames": [
+   "Kererū (Māori)",
+   "Kūkupa (Māori, Northland)",
+   "Kūkū (Māori)",
+   "New Zealand pigeon (English)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Columbidae",
+  "shelves": [
+   "keystone",
+   "sacred"
+  ],
+  "summary": "A big, iridescent green-and-white pigeon whose wingbeats whoosh through New Zealand forests. With other large fruit-eating birds extinct, it is the only native bird able to swallow the largest forest fruits whole, making it vital for spreading the seeds of trees such as taraire and tawa.",
+  "nativeRange": "New Zealand",
+  "regions": [
+   "Oceania"
+  ],
+  "biomes": [
+   "Temperate rainforest",
+   "Lowland forest",
+   "Suburban gardens"
+  ],
+  "abilities": [
+   "Swallows fruits up to about 2.5 cm across and disperses their seeds",
+   "Main or sole disperser of large-fruited native trees including taraire, tawa, karaka and miro",
+   "Performs steep, swooping display flights, stalling at the top before diving"
+  ],
+  "animal": {
+   "diet": "Fruit, leaves, buds and flowers of native and introduced plants",
+   "habitat": "Native forest, scrub, farmland with trees, parks and gardens",
+   "size": "About 51 cm; 550–850 g",
+   "behaviour": "After gorging on fermenting fruit in summer, kererū are sometimes found too intoxicated to fly properly.",
+   "fieldMarks": [
+    "Large pigeon with iridescent green-bronze head, throat and upperparts",
+    "Clean white breast and belly, sharply divided from the green bib",
+    "Red bill, eye and feet",
+    "Loud whooshing wingbeats in flight"
+   ],
+   "voice": "Mostly silent; a soft, low 'ooo' coo. The noisy swish of the wings is usually heard first.",
+   "lookalikes": "Feral rock pigeons are smaller and grey. On the Chatham Islands the related parea is about a fifth larger, paler on the back, with a pale grey rump and an orange-tipped bill.",
+   "whereToSee": "Zealandia and Otari-Wilton's Bush (Wellington), Tiritiri Matangi, Christchurch Botanic Gardens, native forest throughout New Zealand",
+   "season": "Resident",
+   "order": "Columbiformes"
+  },
+  "iucn": "LC",
+  "lore": "Kererū were an important traditional food for Māori, harvested under seasonal restrictions, and their feathers were woven into cloaks; the bird is now fully protected. It was voted New Zealand's Bird of the Year in 2018.",
+  "funFact": "Because no surviving native bird can swallow fruit as large, the decline of kererū could leave several of New Zealand's biggest-fruited trees with no natural seed disperser."
+ },
+ {
+  "slug": "cygnus-atratus",
+  "scientific": "Cygnus atratus",
+  "common": "Black swan",
+  "otherNames": [
+   "Maali (Noongar)",
+   "Kakīānau (Māori)",
+   "Cygne noir (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Anatidae",
+  "shelves": [
+   "freshwater",
+   "sacred"
+  ],
+  "summary": "A sooty-black swan with a scarlet bill and white flight feathers, native to Australia. To Europeans it was proverbial for an impossible thing until Dutch sailors saw it on Western Australia's Swan River in 1697.",
+  "nativeRange": "Southern and eastern Australia and Tasmania; introduced to New Zealand",
+  "regions": [
+   "Australia",
+   "Oceania"
+  ],
+  "biomes": [
+   "Wetland",
+   "Lakes and rivers",
+   "Estuary"
+  ],
+  "abilities": [
+   "Nomadic: moves long distances, often at night, to reach newly filled wetlands",
+   "Can breed at almost any time of year when water conditions suit",
+   "Moults all its flight feathers at once and is briefly flightless"
+  ],
+  "animal": {
+   "diet": "Aquatic plants, algae and pasture grasses",
+   "habitat": "Lakes, swamps, estuaries and coastal lagoons, fresh to brackish",
+   "lifespan": "Commonly over 20 years in the wild; up to about 40 in captivity",
+   "size": "110–142 cm; wingspan 1.6–2 m; 4–9 kg",
+   "behaviour": "Pairs build huge floating or reed-island nests and share incubation; the downy grey cygnets often ride on a parent's back.",
+   "fieldMarks": [
+    "All-black body with curled, ruffled wing feathers on the back",
+    "Bright red bill with a white band near the tip",
+    "White primary and secondary flight feathers, flashing in flight",
+    "Very long neck held in an S-curve"
+   ],
+   "voice": "A high, musical, bugling 'whoo-ah' given on the water and in flight; hisses when threatened.",
+   "lookalikes": "Mute swan (introduced in Western Australia and elsewhere) is white with an orange bill. No other black-bodied bird of its size has a red bill and long neck.",
+   "whereToSee": "Swan River and Herdsman Lake (Perth), Coorong (South Australia), Lake Ellesmere / Te Waihora (New Zealand), Albert Park Lake (Melbourne)",
+   "season": "Resident or nomadic",
+   "order": "Anseriformes"
+  },
+  "iucn": "LC",
+  "lore": "The Roman poet Juvenal called a perfect wife 'a rare bird in the lands, very like a black swan', and the phrase stood for the impossible until Willem de Vlamingh's crew saw black swans in 1697. It is the state emblem of Western Australia.",
+  "historicalNames": [
+   "Cygnus niger",
+   "Rara avis"
+  ],
+  "funFact": "It appears on the flag and coat of arms of Western Australia, whose capital stands on the Swan River named after it."
+ },
+ {
+  "slug": "pandion-haliaetus",
+  "scientific": "Pandion haliaetus",
+  "common": "Osprey",
+  "otherNames": [
+   "Águila pescadora (Spanish)",
+   "È (鹗, Chinese)",
+   "Misago (Japanese)",
+   "Balbuzard pêcheur (French)",
+   "Visvalk (Afrikaans)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Pandionidae",
+  "shelves": [
+   "migrant",
+   "freshwater",
+   "ocean"
+  ],
+  "summary": "A fish-eating hawk found on every continent except Antarctica, diving feet-first to snatch fish from the water. Its recovery after the banning of DDT is one of conservation's great comeback stories.",
+  "nativeRange": "Nearly worldwide: breeds across the Northern Hemisphere and Australasia; winters in the tropics and southern continents",
+  "regions": [
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Coastal",
+   "Lakes and rivers",
+   "Estuary",
+   "Wetland"
+  ],
+  "abilities": [
+   "Plunges feet-first into water, sometimes submerging fully",
+   "Reversible outer toe and spiny foot pads grip slippery fish",
+   "Carries fish head-forward to reduce drag",
+   "Long-distance migrant: some Scandinavian and Scottish birds winter in West Africa"
+  ],
+  "animal": {
+   "diet": "Almost entirely live fish",
+   "habitat": "Coasts, lakes, rivers, reservoirs and estuaries",
+   "lifespan": "Usually 7–10 years; can exceed 25",
+   "size": "50–66 cm; wingspan 1.3–1.8 m",
+   "behaviour": "It hovers briefly over water, then folds its wings and dives, throwing its feet forward at the last moment.",
+   "fieldMarks": [
+    "Dark brown upperparts, clean white underparts",
+    "White head with a bold dark stripe through the yellow eye",
+    "Long, narrow wings held in a gull-like crook with dark carpal patches",
+    "Brownish breast band, stronger in females"
+   ],
+   "voice": "A series of high, clear, whistled 'cheep-cheep-cheep' or 'kyew' calls, often in flight near the nest.",
+   "lookalikes": "Large gulls share the crooked-wing shape but lack the hooked bill and dark eye-stripe. Juvenile bald eagles and white-tailed eagles are much larger and mottled below.",
+   "whereToSee": "Loch Garten and Rutland Water (UK), Chesapeake Bay and Florida (USA), Baltic coasts, Red Sea and Gulf of California; wintering in West Africa and South America",
+   "season": "Summer visitor to the Northern Hemisphere (Mar–Sep); winter visitor to the tropics; resident in Australia and some subtropical regions",
+   "order": "Accipitriformes"
+  },
+  "iucn": "LC",
+  "lore": "Ospreys were extinct as breeders in England by 1840 and in Scotland by 1916; their return to Loch Garten in 1954 and translocation to Rutland Water in the 1990s became milestones of British conservation.",
+  "historicalNames": [
+   "Haliaetus",
+   "Ossifraga",
+   "Fishing hawk",
+   "Sea eagle"
+  ],
+  "funFact": "Its family, Pandionidae, contains only the ospreys (one species, or two where the eastern osprey is split), and it is one of the most widely distributed birds in the world."
+ },
+ {
+  "slug": "tyto-alba",
+  "scientific": "Tyto alba",
+  "common": "Western barn owl",
+  "otherNames": [
+   "Nonnetjie-uil (Afrikaans)",
+   "Lechuza común (Spanish)",
+   "Effraie des clochers (French)",
+   "Schleiereule (German)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Tytonidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "A ghostly pale owl with a heart-shaped face that can hunt in total darkness by sound alone. It is one of the most studied predators in the world for its hearing.",
+  "nativeRange": "Europe, Africa, the Middle East and western Asia",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "Sub-Saharan Africa",
+   "West Asia"
+  ],
+  "biomes": [
+   "Farmland",
+   "Grassland",
+   "Savanna"
+  ],
+  "abilities": [
+   "Can locate and catch prey in complete darkness using hearing alone",
+   "Asymmetrically placed ears pinpoint sounds in both direction and height",
+   "Soft, fringed feathers make its flight almost silent",
+   "Facial disc acts as a dish to focus sound"
+  ],
+  "animal": {
+   "diet": "Small mammals, especially voles, mice and shrews",
+   "habitat": "Open grassland, farmland and marshes with old buildings or hollow trees",
+   "lifespan": "Usually under 4 years in the wild; record over 15 years",
+   "size": "33–39 cm; wingspan 80–95 cm",
+   "behaviour": "It quarters low over fields on silent wings, listening for rustling voles.",
+   "fieldMarks": [
+    "Heart-shaped white facial disc",
+    "Black eyes",
+    "Golden-buff upperparts finely speckled grey",
+    "White to buff underparts",
+    "Long, feathered legs"
+   ],
+   "voice": "A long, rasping, eerie screech; also hisses and snores at the nest.",
+   "lookalikes": "Short-eared owl has yellow eyes, streaked plumage and a round face. Eastern and American barn owls (now separate species) are very similar but live in other regions.",
+   "whereToSee": "Farmland and marshes across Europe and Africa; East Anglia (UK), Camargue (France), South African grassland",
+   "season": "Resident",
+   "order": "Strigiformes"
+  },
+  "iucn": "LC",
+  "lore": "In European folklore the screeching barn owl was a bird of ill omen, called 'screech owl' or 'church owl'. Farmers in Israel and Jordan now put up nest boxes for barn owls as joint pest control across borders.",
+  "historicalNames": [
+   "Strix",
+   "Screech owl",
+   "Church owl",
+   "Howlet"
+  ],
+  "funFact": "A barn owl pair may eat several thousand rodents in a single year."
+ },
+ {
+  "slug": "aptenodytes-patagonicus",
+  "scientific": "Aptenodytes patagonicus",
+  "common": "King penguin",
+  "otherNames": [
+   "Manchot royal (French)",
+   "Pingüino rey (Spanish)",
+   "Koningspikkewyn (Afrikaans)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Spheniscidae",
+  "shelves": [
+   "ocean",
+   "marvel"
+  ],
+  "summary": "The second-largest penguin, standing nearly a metre tall, with brilliant orange ear patches. Its breeding cycle is so long that pairs can raise at most two chicks every three years.",
+  "nativeRange": "Sub-Antarctic islands: South Georgia, Crozet, Kerguelen, Marion, Macquarie, Falklands; Tierra del Fuego",
+  "regions": [
+   "Southern Ocean",
+   "Antarctica",
+   "South America"
+  ],
+  "biomes": [
+   "Sub-Antarctic island",
+   "Marine"
+  ],
+  "abilities": [
+   "Dives to over 300 m deep in search of lanternfish",
+   "Incubates its egg on its feet beneath a fold of skin",
+   "Chicks are fed through winter by parents who may be away for weeks"
+  ],
+  "animal": {
+   "diet": "Lanternfish and squid",
+   "habitat": "Open ocean; breeds on flat beaches and valleys on sub-Antarctic islands",
+   "lifespan": "Up to about 25 years in the wild",
+   "size": "About 90 cm; 9.3–18 kg",
+   "behaviour": "Brown, woolly chicks gather in creches through the winter while parents feed far at sea.",
+   "fieldMarks": [
+    "Bright orange comma-shaped ear patches",
+    "Orange-yellow upper breast fading to white",
+    "Long, slender bill with orange-pink stripe",
+    "Silver-grey back"
+   ],
+   "voice": "A loud, trumpeting call, used to find mates and chicks in colonies.",
+   "lookalikes": "Emperor penguin is larger and stockier, with paler yellow neck patches that are not enclosed by black, and breeds on Antarctic ice rather than sub-Antarctic beaches.",
+   "whereToSee": "Salisbury Plain, St Andrews Bay and Gold Harbour (South Georgia), Volunteer Point (Falklands), Crozet, Bahía Inútil (Chile)",
+   "season": "Present year-round at colonies; breeding cycle 14–16 months",
+   "order": "Sphenisciformes"
+  },
+  "iucn": "LC",
+  "lore": "In the 19th and early 20th centuries king penguins were rendered for oil in great numbers on Macquarie Island and elsewhere.",
+  "funFact": "Brown chicks were once thought to be a separate species, nicknamed 'woolly penguins'."
+ },
+ {
+  "slug": "pygoscelis-adeliae",
+  "scientific": "Pygoscelis adeliae",
+  "common": "Adélie penguin",
+  "otherNames": [
+   "Manchot Adélie (French)",
+   "Pingüino de Adelia (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Spheniscidae",
+  "shelves": [
+   "ocean",
+   "migrant"
+  ],
+  "summary": "The classic tuxedoed penguin of the Antarctic coast, breeding in vast colonies on ice-free ground. Each winter it follows the pack ice on migrations of thousands of kilometres.",
+  "nativeRange": "Coasts of Antarctica",
+  "regions": [
+   "Antarctica",
+   "Southern Ocean"
+  ],
+  "biomes": [
+   "Antarctic coast",
+   "Pack ice",
+   "Marine"
+  ],
+  "abilities": [
+   "Undertakes winter migrations averaging about 13,000 km in the Ross Sea, following the sun and sea ice",
+   "Builds nests of pebbles that lift eggs above meltwater; stones are frequently stolen from neighbours",
+   "Dives to around 175 m, though most feeding dives are much shallower",
+   "Can toboggan on its belly across snow and ice"
+  ],
+  "animal": {
+   "diet": "Krill, fish and squid",
+   "habitat": "Antarctic coasts and pack ice",
+   "lifespan": "Up to about 20 years",
+   "size": "About 70 cm; 3.6–6 kg",
+   "behaviour": "Birds return to the same colony and often the same nest each October, walking up to tens of kilometres across sea ice to reach it.",
+   "fieldMarks": [
+    "Entirely black head and throat",
+    "Bold white ring around the dark eye",
+    "Short bill largely covered by black feathers",
+    "Black back, white belly; short tail that often drags on the snow",
+    "Pink feet"
+   ],
+   "voice": "A loud, rhythmic, throbbing bray given with the head pointed skyward in the 'ecstatic display'; growls and gargles when squabbling.",
+   "lookalikes": "Chinstrap penguin has a white face and throat crossed by a thin black chin strap. Gentoo penguin has an orange-red bill and a white stripe across the crown. Juvenile Adélies have a white throat but lack the chinstrap line and have a dark eye without the full white ring.",
+   "whereToSee": "Cape Royds and Cape Adare (Ross Sea), Paulet Island and Hope Bay (Antarctic Peninsula)",
+   "season": "Breeds at colonies October–February; winters at sea in the pack ice",
+   "order": "Sphenisciformes"
+  },
+  "iucn": "LC",
+  "lore": "Jules Dumont d'Urville named it in 1840 after his wife Adèle. George Murray Levick's notes on its sexual behaviour from Scott's 1910–13 expedition were considered too shocking to publish and appeared only in 2012.",
+  "funFact": "Subfossil remains show that Adélie penguins have used some Ross Sea colony sites for thousands of years, letting scientists track past climate through their bones and eggshell."
+ },
+ {
+  "slug": "fregata-magnificens",
+  "scientific": "Fregata magnificens",
+  "common": "Magnificent frigatebird",
+  "otherNames": [
+   "Rabihorcado magno (Spanish)",
+   "Frégate superbe (French)",
+   "Man-o'-war bird (English)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Fregatidae",
+  "shelves": [
+   "ocean",
+   "marvel"
+  ],
+  "summary": "A pirate of tropical seas with a huge red throat pouch in breeding males. It can stay aloft for days and steals fish from other seabirds.",
+  "nativeRange": "Tropical Atlantic and eastern Pacific coasts",
+  "regions": [
+   "Atlantic Ocean",
+   "Pacific Ocean",
+   "Caribbean",
+   "Central America",
+   "South America"
+  ],
+  "biomes": [
+   "Coastal",
+   "Island",
+   "Marine"
+  ],
+  "abilities": [
+   "Lowest wing-loading of any bird, allowing effortless soaring",
+   "Steals fish from boobies and other seabirds",
+   "Can stay aloft for days at a time, even sleeping in flight",
+   "Males inflate a red throat pouch to attract females"
+  ],
+  "animal": {
+   "diet": "Fish, squid, stolen prey",
+   "habitat": "Tropical coasts and islands",
+   "lifespan": "Up to 30 years",
+   "size": "89–114 cm; wingspan 2.2–2.4 m",
+   "behaviour": "It chases other seabirds until they drop their catch, snatching it in mid-air.",
+   "fieldMarks": [
+    "Long, angular wings",
+    "Deeply forked tail",
+    "Males black with a red throat pouch",
+    "Females with a white breast"
+   ],
+   "voice": "Silent at sea; drumming and rattling at colonies.",
+   "lookalikes": "Great frigatebird males have a green rather than purple gloss on the back and a pale wing bar; females have a red eye-ring and a pale grey throat. Lesser frigatebird is smaller, with white 'armpit' spurs. At distance the shape, long forked tail and angular wings separate frigatebirds from all other seabirds.",
+   "whereToSee": "Codrington Lagoon (Barbuda), North Seymour (Galápagos), Isla Contoy and Isla Isabel (Mexico), Florida Keys",
+   "season": "Resident",
+   "order": "Suliformes"
+  },
+  "iucn": "LC",
+  "lore": "Sailors called it the man-o'-war bird for its piratical habits.",
+  "funFact": "Its plumage is not fully waterproof, so it avoids landing on the sea and feeds by snatching prey from the surface or from other birds."
+ },
+ {
+  "slug": "ardenna-grisea",
+  "scientific": "Ardenna grisea",
+  "common": "Sooty shearwater",
+  "otherNames": [
+   "Tītī (Māori)",
+   "Muttonbird (English)",
+   "Pardela sombría (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Procellariidae",
+  "shelves": [
+   "ocean",
+   "migrant"
+  ],
+  "summary": "A chocolate-brown seabird that makes one of the longest migrations of any animal, a figure-of-eight loop of the Pacific of some 64,000 km a year.",
+  "nativeRange": "Breeds on islands around New Zealand, southern Chile and the Falklands; ranges throughout Pacific and Atlantic",
+  "regions": [
+   "Pacific Ocean",
+   "Atlantic Ocean",
+   "Southern Ocean",
+   "Oceania"
+  ],
+  "biomes": [
+   "Marine",
+   "Island"
+  ],
+  "abilities": [
+   "Migrates up to 64,000 km a year",
+   "Dives to nearly 70 m",
+   "Shears low over waves on stiff wings",
+   "Uses burrows up to a metre or more deep, returning at night to avoid predators"
+  ],
+  "animal": {
+   "diet": "Fish, squid and krill",
+   "habitat": "Open ocean; breeds in burrows on islands",
+   "size": "40–51 cm; wingspan 94–110 cm",
+   "behaviour": "Rafts of thousands gather off coasts during migration.",
+   "fieldMarks": [
+    "Dark sooty-brown body",
+    "Silvery underwing linings",
+    "Long, narrow wings",
+    "Slender dark bill"
+   ],
+   "voice": "Silent at sea; moaning calls at burrows.",
+   "lookalikes": "Short-tailed shearwater is smaller with less silvery underwings. Flesh-footed shearwater has a pale bill and dark underwings.",
+   "whereToSee": "Monterey Bay (California), off Nova Scotia and Newfoundland, New Zealand coasts and the Tītī (Muttonbird) Islands off Stewart Island / Rakiura",
+   "season": "Breeds Nov–Apr (Southern Hemisphere); in North Pacific and Atlantic May–Sep",
+   "order": "Procellariiformes"
+  },
+  "iucn": "NT",
+  "lore": "Rakiura Māori harvest tītī chicks on the Tītī Islands under customary rights.",
+  "funFact": "Satellite tracking published in 2006 showed birds from New Zealand flying a figure-of-eight loop to feeding grounds off Japan, Alaska or California and back, about 64,000 km in a year."
+ },
+ {
+  "slug": "sula-sula",
+  "scientific": "Sula sula",
+  "common": "Red-footed booby",
+  "otherNames": [
+   "ʻĀ (Hawaiian)",
+   "Piquero patas rojas (Spanish)",
+   "Fou à pieds rouges (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Sulidae",
+  "shelves": [
+   "ocean"
+  ],
+  "summary": "The smallest booby and the only one that habitually nests in trees and shrubs, gripping branches with its bright red webbed feet. It plunge-dives for fish and squid far out in tropical oceans.",
+  "nativeRange": "Tropical islands of the Pacific, Indian and Atlantic Oceans and the Caribbean",
+  "regions": [
+   "Pacific Ocean",
+   "Indian Ocean",
+   "Atlantic Ocean",
+   "Caribbean",
+   "Oceania"
+  ],
+  "biomes": [
+   "Tropical island",
+   "Marine"
+  ],
+  "abilities": [
+   "Plunge-dives from height into the sea after fish and squid",
+   "Catches flying fish in the air as they leap from the water",
+   "Forages hundreds of kilometres from the colony and often feeds at night or dusk",
+   "Occurs in several colour morphs, from white to all-brown"
+  ],
+  "animal": {
+   "diet": "Flying fish and squid",
+   "habitat": "Pelagic tropical waters; nests in trees and bushes on remote islands",
+   "lifespan": "Over 20 years",
+   "size": "66–77 cm; wingspan about 1–1.5 m; 0.85–1.1 kg",
+   "behaviour": "It often follows ships, catching flying fish flushed by the bow.",
+   "fieldMarks": [
+    "Bright red feet and legs (adults)",
+    "Pale blue-grey bill with pink facial skin at the base",
+    "Variable plumage: all-white with black flight feathers, brown, or white-tailed brown morph",
+    "Slender, long-tailed booby shape"
+   ],
+   "voice": "Mostly silent at sea; harsh, rattling squawks at the colony.",
+   "lookalikes": "Masked (and Nazca) booby is larger, with a black facial mask, yellow-orange or dull feet and black tail. Brown booby has a sharply demarcated dark brown head and breast and yellow feet. Only the red-footed booby has red feet.",
+   "whereToSee": "Genovesa Island (Galápagos), Kīlauea Point (Kauaʻi, Hawaiʻi), Little Cayman, Christmas Island, Aldabra",
+   "season": "Resident at colonies; breeding season varies by island",
+   "order": "Suliformes"
+  },
+  "iucn": "LC",
+  "lore": "The name 'booby' is usually traced to the Spanish 'bobo' (fool), from the birds' tameness when sailors landed on their islands.",
+  "funFact": "The colony on Little Cayman, of several thousand pairs, is one of the largest in the Caribbean."
+ },
+ {
+  "slug": "pelecanus-occidentalis",
+  "scientific": "Pelecanus occidentalis",
+  "common": "Brown pelican",
+  "otherNames": [
+   "Alcatraz (Spanish)",
+   "Pélican brun (French)",
+   "Pelícano pardo (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Pelecanidae",
+  "shelves": [
+   "ocean"
+  ],
+  "summary": "A big, grey-brown coastal pelican that hunts by spectacular plunge-dives, unlike most other pelicans. It recovered from near disappearance in North America after DDT was banned.",
+  "nativeRange": "Atlantic, Gulf and Pacific coasts of the Americas, from the USA to northern South America, and the Caribbean",
+  "regions": [
+   "North America",
+   "Central America",
+   "Caribbean",
+   "South America",
+   "Atlantic Ocean",
+   "Pacific Ocean"
+  ],
+  "biomes": [
+   "Coastal",
+   "Estuary",
+   "Mangrove"
+  ],
+  "abilities": [
+   "Plunge-dives from up to about 20 m, folding back its wings before impact",
+   "Air sacs under the skin cushion the impact and help it bob back to the surface",
+   "Throat pouch holds up to about 10 litres of water and fish",
+   "Glides in lines just above wave crests, riding the air cushion"
+  ],
+  "animal": {
+   "diet": "Small schooling fish such as menhaden, anchovies and sardines",
+   "habitat": "Coastal waters, bays, estuaries and mangrove islands",
+   "lifespan": "Up to about 30 years",
+   "size": "100–137 cm; wingspan 2–2.3 m; 2–5 kg",
+   "behaviour": "Laughing gulls often perch on a pelican's head to snatch fish spilling from its pouch.",
+   "fieldMarks": [
+    "Grey-brown body; the smallest and darkest pelican",
+    "White head and neck in non-breeders; chestnut hindneck in breeding adults",
+    "Yellowish crown in breeding plumage",
+    "Long bill with grey pouch (reddish in Pacific breeding birds)",
+    "Juveniles all brown with paler belly"
+   ],
+   "voice": "Adults are almost silent; nestlings squeal and grunt.",
+   "lookalikes": "American white pelican is white with black flight feathers and feeds by swimming, not diving. Peruvian pelican (Peru and Chile) is larger, with a white stripe running down the neck.",
+   "whereToSee": "Florida Gulf Coast, Louisiana marshes, Monterey Bay and San Diego (California), Gulf of California, Caribbean islands",
+   "season": "Resident; Pacific birds disperse north after breeding",
+   "order": "Pelecaniformes"
+  },
+  "iucn": "LC",
+  "lore": "San Francisco's Alcatraz Island takes its name from the Spanish 'alcatraces', for the pelicans that lived there. The brown pelican is the state bird of Louisiana and appears on its flag.",
+  "funFact": "Removed from the US endangered species list in 2009, it is one of the clearest success stories of the DDT ban."
+ },
+ {
+  "slug": "phalacrocorax-carbo",
+  "scientific": "Phalacrocorax carbo",
+  "common": "Great cormorant",
+  "otherNames": [
+   "Lúcí (鸬鹚, Chinese)",
+   "Kawau (Māori)",
+   "Grand cormoran (French)",
+   "Kormoran (German)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Phalacrocoracidae",
+  "shelves": [
+   "freshwater",
+   "ocean"
+  ],
+  "summary": "A large, oily-black diving bird found on coasts and inland waters across much of the world. It pursues fish underwater using its feet and has been trained by fishermen in China for centuries.",
+  "nativeRange": "Europe, Asia, Africa, Australasia and the North Atlantic coast of North America",
+  "regions": [
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Coastal",
+   "Lakes and rivers",
+   "Estuary"
+  ],
+  "abilities": [
+   "Chases fish underwater, propelled by large webbed feet",
+   "Partly wettable plumage reduces buoyancy for diving",
+   "Dries wings by spreading them in a heraldic pose",
+   "Can dive to more than 30 m"
+  ],
+  "animal": {
+   "diet": "Fish",
+   "habitat": "Coasts, estuaries, lakes and rivers",
+   "lifespan": "Usually around 11 years, recorded to over 20",
+   "size": "80–100 cm; wingspan 1.3–1.6 m; 2–3 kg",
+   "behaviour": "Groups sometimes hunt together, driving fish into shallows.",
+   "fieldMarks": [
+    "Black with bronze or blue sheen",
+    "White cheek and chin patch",
+    "White thigh patches in breeding season",
+    "Heavy hooked bill with bare yellow skin at base",
+    "Swims low in the water with head tilted up"
+   ],
+   "voice": "Generally silent away from colonies; deep guttural croaks at nests.",
+   "lookalikes": "European shag is smaller and slimmer, with a thinner bill, greenish gloss and in spring a tufted crest; it lacks the white cheek patch. Double-crested cormorant (North America) has an orange throat pouch without white surround.",
+   "whereToSee": "Coastal and inland waters of Europe and Asia; Lake Naivasha (Kenya), the Li River at Guilin (China), Rutland Water (UK)",
+   "season": "Resident or partial migrant",
+   "order": "Suliformes"
+  },
+  "iucn": "LC",
+  "lore": "In China, fishermen have trained great cormorants to fish for centuries, putting a snare around the bird's neck so that it cannot swallow large fish. Milton's Paradise Lost has Satan perch on the Tree of Life 'like a cormorant'.",
+  "historicalNames": [
+   "Corvus marinus",
+   "Corvorant",
+   "Phalacrocorax"
+  ],
+  "funFact": "The name cormorant comes from the Latin 'corvus marinus', sea-raven."
+ },
+ {
+  "slug": "chionis-albus",
+  "scientific": "Chionis albus",
+  "common": "Snowy sheathbill",
+  "otherNames": [
+   "Paloma antártica (Spanish)",
+   "Chionis blanc (French)",
+   "Pale-faced sheathbill (English)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Chionidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "A plump white scavenger of Antarctic penguin and seal colonies, and the only bird breeding in Antarctica that lacks webbed feet. It lives by stealing, cleaning up and scavenging.",
+  "nativeRange": "Antarctic Peninsula, South Georgia, South Orkney and South Shetland Islands; winters south to Patagonia and the Falklands",
+  "regions": [
+   "Antarctica",
+   "Southern Ocean",
+   "South America"
+  ],
+  "biomes": [
+   "Antarctic coast",
+   "Sub-Antarctic island"
+  ],
+  "abilities": [
+   "Steals krill from penguins by startling them while they are feeding chicks",
+   "Eats eggs, carcasses, faeces and placentas of seals",
+   "Can fly long distances over the sea despite its pigeon-like appearance"
+  ],
+  "animal": {
+   "diet": "Carrion, eggs, krill, seal placentas and faeces, and refuse",
+   "habitat": "Rocky coasts near penguin, cormorant and seal colonies; research stations",
+   "size": "34–41 cm; 450–800 g",
+   "behaviour": "It patrols penguin colonies, harassing adults until they spill krill, which it snatches.",
+   "fieldMarks": [
+    "All-white, plump pigeon-like body",
+    "Pinkish face with fleshy warts",
+    "Horny sheath over base of the yellowish bill",
+    "Short pinkish-grey legs and unwebbed feet"
+   ],
+   "voice": "Harsh, crow-like 'caw' calls and scolding chatter.",
+   "lookalikes": "Black-faced sheathbill (southern Indian Ocean islands) has a black bill and face. Pigeons do not occur in Antarctica.",
+   "whereToSee": "Antarctic Peninsula landings (Port Lockroy, Brown Bluff), South Georgia, Falklands in winter",
+   "season": "Present in Antarctic summer; many winter in Falklands and Patagonia",
+   "order": "Charadriiformes"
+  },
+  "iucn": "LC",
+  "lore": "Early sealers and explorers called sheathbills 'paddies' and noted their fearlessness around camps.",
+  "funFact": "Sheathbills are thought to be related to shorebirds such as plovers, despite their pigeon-like look."
+ },
+ {
+  "slug": "thalassarche-melanophris",
+  "scientific": "Thalassarche melanophris",
+  "common": "Black-browed albatross",
+  "otherNames": [
+   "Albatros ceja negra (Spanish)",
+   "Albatros à sourcils noirs (French)",
+   "Malmok (Afrikaans, albatross)",
+   "Toroa (Māori, albatross)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Diomedeidae",
+  "shelves": [
+   "ocean",
+   "migrant"
+  ],
+  "summary": "The most widespread and numerous albatross, with a dark 'eyebrow' giving it a stern expression. About two-thirds of the world population breeds in the Falkland Islands.",
+  "nativeRange": "Breeds on sub-Antarctic islands (Falklands, South Georgia, Chile); ranges over the Southern Ocean",
+  "regions": [
+   "Southern Ocean",
+   "Atlantic Ocean",
+   "Indian Ocean",
+   "Pacific Ocean"
+  ],
+  "biomes": [
+   "Marine",
+   "Sub-Antarctic island"
+  ],
+  "abilities": [
+   "Dynamic soaring lets it travel thousands of kilometres with little flapping",
+   "Locks its wings in place with a shoulder tendon",
+   "Nests in vast colonies on cliffs and slopes"
+  ],
+  "animal": {
+   "diet": "Fish, squid, crustaceans and fishery discards",
+   "habitat": "Open ocean; nests on sub-Antarctic islands",
+   "size": "80–95 cm; wingspan 2.1–2.5 m",
+   "behaviour": "Pairs reunite every year with elaborate dances of bill-fencing and sky-pointing.",
+   "fieldMarks": [
+    "Dark eyebrow stripe",
+    "Bright orange-yellow bill with reddish tip",
+    "Dark upperwings and back, white body",
+    "Broad dark margins to the white underwing"
+   ],
+   "voice": "Braying and groaning calls at colonies; silent at sea.",
+   "lookalikes": "Campbell albatross (New Zealand) has a pale yellow eye. Shy albatross has a pale grey-green bill and narrow underwing margins.",
+   "whereToSee": "Steeple Jason, Saunders and New Islands (Falklands); off Cape Horn",
+   "season": "Breeds Sept–April; disperses north in winter",
+   "order": "Procellariiformes"
+  },
+  "iucn": "LC",
+  "lore": "The species was downlisted from Endangered to Near Threatened in 2013 and to Least Concern in 2017, following reductions in seabird bycatch.",
+  "funFact": "Steeple Jason Island in the Falklands holds well over 100,000 breeding pairs, among the largest albatross colonies anywhere."
+ },
+ {
+  "slug": "pygoscelis-papua",
+  "scientific": "Pygoscelis papua",
+  "common": "Gentoo penguin",
+  "otherNames": [
+   "Manchot papou (French)",
+   "Pingüino papúa (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Spheniscidae",
+  "shelves": [
+   "ocean",
+   "marvel"
+  ],
+  "summary": "The fastest-swimming penguin, with a white bonnet stripe and a bright orange bill. Its population has grown and spread south on the Antarctic Peninsula as sea ice declines.",
+  "nativeRange": "Antarctic Peninsula and sub-Antarctic islands",
+  "regions": [
+   "Antarctica",
+   "Southern Ocean",
+   "South America"
+  ],
+  "biomes": [
+   "Antarctic coast",
+   "Sub-Antarctic island",
+   "Marine"
+  ],
+  "abilities": [
+   "Swims at up to about 36 km/h, the fastest of any penguin",
+   "Dives to around 200 m",
+   "Builds nests from stones and moss"
+  ],
+  "animal": {
+   "diet": "Krill, fish and squid",
+   "habitat": "Coastal ice-free plains and beaches",
+   "lifespan": "15–20 years",
+   "size": "70–90 cm; 5–8 kg",
+   "behaviour": "Pairs build stone nests and may give pebbles as gifts.",
+   "fieldMarks": [
+    "Bright orange-red bill",
+    "Broad white stripe over the head",
+    "Long, stiff tail",
+    "Orange feet"
+   ],
+   "voice": "Loud, trumpeting braying.",
+   "lookalikes": "Adélie has an all-black head and short bill. Chinstrap has a black chin strap.",
+   "whereToSee": "Port Lockroy (Antarctic Peninsula), Falklands, South Georgia",
+   "season": "Present year-round at most colonies",
+   "order": "Sphenisciformes"
+  },
+  "iucn": "LC",
+  "lore": "The name 'gentoo' may come from an Anglo-Indian word for Hindu, but its origin is uncertain.",
+  "funFact": "A 2020 genetic study proposed splitting the gentoo into four species across its range; most checklists still treat it as one."
+ },
+ {
+  "slug": "oceanites-oceanicus",
+  "scientific": "Oceanites oceanicus",
+  "common": "Wilson's storm petrel",
+  "otherNames": [
+   "Paíño de Wilson (Spanish)",
+   "Océanite de Wilson (French)",
+   "Mother Carey's chicken (sailors' English)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Oceanitidae",
+  "shelves": [
+   "ocean",
+   "migrant",
+   "marvel"
+  ],
+  "summary": "A sparrow-sized seabird that breeds in Antarctica and migrates to the North Atlantic. It is one of the most abundant birds on Earth and appears to 'walk' on water while feeding.",
+  "nativeRange": "Breeds in Antarctica and sub-Antarctic islands; winters across all oceans",
+  "regions": [
+   "Southern Ocean",
+   "Atlantic Ocean",
+   "Indian Ocean",
+   "Pacific Ocean",
+   "Antarctica"
+  ],
+  "biomes": [
+   "Marine",
+   "Antarctic coast"
+  ],
+  "abilities": [
+   "Pats the water with its feet while hovering, appearing to walk on it",
+   "Migrates from Antarctica to the North Atlantic each year",
+   "Finds food by smell"
+  ],
+  "animal": {
+   "diet": "Krill, small fish, plankton",
+   "habitat": "Open ocean; breeds in rock crevices",
+   "size": "15–19 cm; wingspan 38–42 cm",
+   "behaviour": "It dances over the waves with feet pattering the water as it feeds.",
+   "fieldMarks": [
+    "Dark sooty-brown body",
+    "White rump band",
+    "Long legs that project beyond the square tail",
+    "Yellow webs between the toes"
+   ],
+   "voice": "Silent at sea; chattering at nests.",
+   "lookalikes": "Leach's storm petrel has a forked tail. European storm petrel has a white underwing bar.",
+   "whereToSee": "Antarctic Peninsula; off North Carolina and Massachusetts in summer",
+   "season": "Breeds Nov–March (Antarctica); Northern Hemisphere May–Sept",
+   "order": "Procellariiformes"
+  },
+  "iucn": "LC",
+  "lore": "Sailors called storm petrels 'Mother Carey's chickens', thought to be from 'Mater Cara', the Virgin Mary.",
+  "historicalNames": [
+   "Mother Carey's chickens",
+   "Petrel"
+  ],
+  "funFact": "The name 'petrel' is said to come from St Peter walking on water."
+ }
+]

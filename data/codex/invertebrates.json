@@ -1,0 +1,3237 @@
+[
+ {
+  "slug": "vanessa-cardui",
+  "scientific": "Vanessa cardui",
+  "common": "Painted lady",
+  "otherNames": [
+   "Distelfalter (German)",
+   "Vanesa de los cardos (Spanish)",
+   "Belle-Dame (French)",
+   "Hime-akatateha (Japanese)",
+   "Xiǎo hóng jiādié (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Nymphalidae",
+  "shelves": [
+   "pollinator",
+   "migrant",
+   "marvel"
+  ],
+  "summary": "The most widespread butterfly on Earth, found on every continent except Antarctica and South America. Successive generations relay a round trip of up to 12,000 km a year between tropical Africa and northern Europe, much of it flown at high altitude out of sight.",
+  "nativeRange": "Nearly worldwide: Europe, Africa, Asia, North America and Australia (absent as a resident from South America and Antarctica)",
+  "regions": [
+   "Cosmopolitan",
+   "Europe",
+   "North Africa",
+   "Sub-Saharan Africa",
+   "West Asia",
+   "South Asia",
+   "North America"
+  ],
+  "biomes": [
+   "Temperate grassland",
+   "Desert edge",
+   "Farmland",
+   "Disturbed ground",
+   "Savanna"
+  ],
+  "abilities": [
+   "Completes a multigenerational Africa–Europe round trip of up to about 12,000 km, the longest known insect migration cycle",
+   "Crosses the Sahara and the Mediterranean, often flying hundreds of metres above the ground on favourable winds",
+   "Caterpillars eat hundreds of host plants, especially thistles, mallows and nettles",
+   "Breeds continuously with no winter diapause, so it follows the seasons rather than waiting them out"
+  ],
+  "animal": {
+   "diet": "Adults sip nectar from thistles, knapweeds, buddleia and many other flowers; caterpillars eat thistles (Cirsium, Carduus), mallows, nettles and legumes",
+   "habitat": "Open sunny places of almost any kind: meadows, deserts after rain, farmland, gardens, dunes",
+   "lifespan": "Adults about 2–4 weeks; the full life cycle takes roughly 4–6 weeks in warm weather",
+   "size": "Wingspan about 5–7.5 cm",
+   "behaviour": "Spring generations push north from North Africa into Europe and as far as Scandinavia and Iceland; their offspring fly back south in autumn, mostly at altitude, so the return journey went unnoticed until radar and isotope studies revealed it.",
+   "fieldMarks": [
+    "Upperside salmon-orange with black blotches",
+    "Forewing tips black with a band of white spots",
+    "Hindwing underside marbled grey, buff and olive with a row of four or five small blue-centred eyespots",
+    "Strong, fast flight; often basks with wings open on bare ground"
+   ],
+   "lookalikes": "American lady (Vanessa virginiensis) has two large eyespots on the hindwing underside instead of a row of four or five small ones. West Coast lady (V. annabella) has an orange, not white, bar near the forewing tip. Red admiral (V. atalanta) is black with red bands.",
+   "whereToSee": "Thistle-rich meadows, coastal headlands and gardens with buddleia; spectacular mass arrivals occur in irruption years (e.g. Europe 2009, California 2019).",
+   "season": "Europe: spring immigrants Apr–Jun, local brood and southward return Aug–Oct; in tropical Africa and the Middle East during the northern winter",
+   "order": "Lepidoptera"
+  },
+  "iucn": "LC",
+  "lore": "The English name 'Painted Lady' dates to the naturalist James Petiver around 1699; the German Distelfalter ('thistle butterfly') and Linnaeus's epithet cardui both point to the thistle (Carduus) its caterpillars eat.",
+  "historicalNames": [
+   "Painted Lady",
+   "Belle-Dame"
+  ],
+  "funFact": "In 2024 researchers showed, using pollen carried on their bodies and isotopes in their wings, that painted ladies found on a beach in French Guiana had crossed the Atlantic from West Africa, a flight of at least 4,200 km."
+ },
+ {
+  "slug": "ornithoptera-priamus",
+  "scientific": "Ornithoptera priamus",
+  "common": "Common green birdwing",
+  "otherNames": [
+   "Priam's birdwing (English)",
+   "Cape York birdwing (Australian English, for the local form)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Papilionidae",
+  "shelves": [
+   "pollinator",
+   "marvel"
+  ],
+  "summary": "A huge swallowtail of the New Guinea region whose males flash velvety black and iridescent emerald green across the rainforest canopy. Described by Linnaeus in 1758, it is the type species of the birdwing genus Ornithoptera, 'bird-wing'.",
+  "nativeRange": "Moluccas, New Guinea, the Bismarck Archipelago, Solomon Islands and Cape York Peninsula, Australia",
+  "regions": [
+   "Southeast Asia",
+   "Oceania",
+   "Australia"
+  ],
+  "biomes": [
+   "Tropical rainforest",
+   "Rainforest edge",
+   "Gardens"
+  ],
+  "abilities": [
+   "One of the largest butterflies in the world, with females far bigger than males",
+   "Caterpillars feed on Aristolochia vines and store their aristolochic acids, making larvae and adults distasteful to predators",
+   "Males patrol and soar high around flowering trees in the canopy"
+  ],
+  "animal": {
+   "diet": "Adults take nectar from rainforest flowers such as Hibiscus and Lantana; caterpillars eat Aristolochia and Pararistolochia vines",
+   "habitat": "Lowland and hill rainforest, forest edges and village gardens where the host vines grow",
+   "size": "Wingspan roughly 11–20 cm; females the larger sex",
+   "behaviour": "Males guard stands of flowering trees and court females by hovering above them; the female's broad, slow wingbeats give her an almost bird-like flight.",
+   "fieldMarks": [
+    "Male: velvet-black forewings with a broad iridescent green band; hindwings green with black spots",
+    "Male abdomen yellow",
+    "Female: much larger, dark brown with rows of white or cream patches and a yellow-spotted hindwing",
+    "Very large size and soaring flight high in the canopy"
+   ],
+   "lookalikes": "Several close relatives (Ornithoptera euphorion of north Queensland, O. richmondia further south, and other green birdwings of the region) differ in the shape and extent of the male's green bands; location is the most practical guide. Queen Alexandra's birdwing males have much narrower, more pointed forewings tinted blue-green.",
+   "whereToSee": "Rainforest edges and gardens in Papua New Guinea and the Solomon Islands; in Australia, the Iron Range and northern Cape York.",
+   "order": "Lepidoptera"
+  },
+  "iucn": "LC",
+  "lore": "Linnaeus named it Papilio priamus in 1758 after Priam, king of Troy, in his scheme of naming swallowtails after Trojan and Greek heroes. Like all Ornithoptera birdwings it is listed on CITES Appendix II, so trade in wild specimens is regulated.",
+  "funFact": "Butterfly farms in Papua New Guinea rear birdwings on planted host vines and sell them to collectors, giving villagers an income from keeping forest standing."
+ },
+ {
+  "slug": "ornithoptera-alexandrae",
+  "scientific": "Ornithoptera alexandrae",
+  "common": "Queen Alexandra's birdwing",
+  "otherNames": [
+   "Alexandra's birdwing (English)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Papilionidae",
+  "shelves": [
+   "pollinator",
+   "endangered",
+   "marvel"
+  ],
+  "summary": "The largest butterfly in the world: females can exceed 25 cm across the wings. It lives only in a small area of lowland rainforest in Oro Province, Papua New Guinea, and is protected by both national law and CITES Appendix I.",
+  "nativeRange": "Endemic to Oro (Northern) Province, south-eastern Papua New Guinea",
+  "regions": [
+   "Oceania"
+  ],
+  "biomes": [
+   "Tropical lowland rainforest"
+  ],
+  "abilities": [
+   "World's largest butterfly by wingspan",
+   "Caterpillars depend on a single group of Pararistolochia vines and absorb their toxins",
+   "Adults usually fly high in the rainforest canopy, descending to within a few metres of the ground to feed or lay eggs"
+  ],
+  "animal": {
+   "diet": "Adults sip nectar from canopy flowers such as Hibiscus; caterpillars feed on Pararistolochia vines (notably P. dielsiana)",
+   "habitat": "Primary and old secondary lowland rainforest on volcanic soils",
+   "lifespan": "Adults about 3 months",
+   "size": "Female wingspan up to about 25–28 cm; males smaller, around 16–20 cm",
+   "behaviour": "Females lay eggs on the host vine high in the canopy; caterpillars can ring-bark the vine stem, forcing the plant to put out new growth.",
+   "fieldMarks": [
+    "Male: long, narrow, pointed forewings of black with iridescent blue-green and turquoise bands",
+    "Male abdomen bright yellow",
+    "Female: enormous, broad brown wings with cream-white markings and a creamy yellow abdomen",
+    "Red patch on the thorax"
+   ],
+   "lookalikes": "The common green birdwing (Ornithoptera priamus), which shares parts of New Guinea, has broader male forewings with purer green and is far smaller in the female.",
+   "whereToSee": "Only in the Popondetta plains and nearby forests of Oro Province, PNG; viewing is through local conservation programmes.",
+   "order": "Lepidoptera"
+  },
+  "iucn": "EN",
+  "lore": "The first specimen, a female, was brought down with a small-shot gun by collector Albert Meek in 1906; Walter Rothschild named the species in 1907 after Queen Alexandra, wife of Edward VII. The 1951 eruption of Mount Lamington destroyed a large part of its habitat.",
+  "funFact": "It is the only birdwing on CITES Appendix I, the treaty's strictest category, which bans international commercial trade in wild-caught specimens."
+ },
+ {
+  "slug": "papilio-machaon",
+  "scientific": "Papilio machaon",
+  "common": "Old World swallowtail",
+  "otherNames": [
+   "Schwalbenschwanz (German)",
+   "Macaón (Spanish)",
+   "Machaon (French)",
+   "Kiageha (Japanese)",
+   "Jīn fèngdié (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Papilionidae",
+  "shelves": [
+   "pollinator"
+  ],
+  "summary": "A large yellow-and-black butterfly with tailed hindwings, found right across the northern hemisphere. Its green caterpillar defends itself by shooting out a forked orange organ that reeks of rancid butter.",
+  "nativeRange": "Europe, North Africa, temperate and mountain Asia to Japan, and north-western North America (Alaska and Canada)",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "Central Asia",
+   "East Asia",
+   "North America"
+  ],
+  "biomes": [
+   "Temperate grassland",
+   "Fen",
+   "Mountain meadow",
+   "Farmland",
+   "Tundra"
+  ],
+  "abilities": [
+   "Caterpillars evert an osmeterium, a forked scent gland releasing foul-smelling acids, to repel ants and wasps",
+   "Males gather on hilltops to find females ('hilltopping')",
+   "Ranges from sea-level fens to Himalayan meadows above 4,000 m"
+  ],
+  "animal": {
+   "diet": "Adults take nectar from thistles, red clover, ragged robin and other flowers; caterpillars eat plants of the carrot family (fennel, wild carrot, dill, milk-parsley)",
+   "habitat": "Flowery open country: meadows, fens, mountain slopes, coastal hills and gardens with fennel or dill",
+   "size": "Wingspan about 6.5–9 cm",
+   "behaviour": "In Britain the native subspecies britannicus is a specialist of the Norfolk Broads, laying eggs only on milk-parsley; continental swallowtails use many carrot-family plants.",
+   "fieldMarks": [
+    "Yellow wings with black veins and a broad black outer border",
+    "Row of blue scales along the hindwing border, with a red eyespot near the body",
+    "Short black hindwing tails",
+    "Caterpillar green with black bands dotted with orange"
+   ],
+   "lookalikes": "Scarce swallowtail (Iphiclides podalirius) is pale cream with bold black diagonal stripes and much longer tails. Corsican swallowtail (P. hospiton) is confined to Corsica and Sardinia and has shorter tails. In North America, the black swallowtail (P. polyxenes) is mostly black.",
+   "whereToSee": "Norfolk Broads in England (Hickling Broad, Strumpshaw Fen, How Hill); flowery hillsides throughout southern Europe and the Alps.",
+   "season": "Europe: two or three broods Apr–Sep; in England mainly late May–June with a partial second brood in August",
+   "order": "Lepidoptera"
+  },
+  "iucn": "NE",
+  "lore": "Linnaeus named it in 1758 after Machaon, the healer son of Asclepius in Homer's Iliad. In 18th-century England it was called the 'Royal William', a name usually linked to William III.",
+  "historicalNames": [
+   "Royal William",
+   "Swallow-tail"
+  ],
+  "funFact": "Its caterpillar starts life black and white, looking like a bird dropping, and only turns green with black bands in later moults."
+ },
+ {
+  "slug": "aglais-io",
+  "scientific": "Aglais io",
+  "common": "European peacock",
+  "otherNames": [
+   "Tagpfauenauge (German)",
+   "Paon-du-jour (French)",
+   "Pavo real (Spanish)",
+   "Kujaku-chō (Japanese)",
+   "Rusalka pawik (Polish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Nymphalidae",
+  "shelves": [
+   "pollinator"
+  ],
+  "summary": "A rust-red butterfly carrying a large peacock-feather eyespot on each wing. It spends winter as an adult in sheds and hollow trees, and if disturbed it flashes its eyes and hisses.",
+  "nativeRange": "Europe and temperate Asia east to Japan",
+  "regions": [
+   "Europe",
+   "West Asia",
+   "Central Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Woodland edge",
+   "Gardens",
+   "Temperate grassland",
+   "Farmland"
+  ],
+  "abilities": [
+   "Flashes four large eyespots to startle birds; experiments show the eyespots deter blue tits",
+   "Rubs its wings together to make a hissing sound with ultrasonic clicks that deters rodents in dark roosts",
+   "Survives winter as an adult, hibernating in cool, dark crevices",
+   "Closed wings look like a dead leaf or charred bark"
+  ],
+  "animal": {
+   "diet": "Adults feed at buddleia, thistles, willow catkins and ivy; caterpillars eat stinging nettle (Urtica dioica) and occasionally hop",
+   "habitat": "Woodland rides, gardens, field margins and anywhere with nettle beds and nectar",
+   "lifespan": "Adults about 10–11 months including hibernation",
+   "size": "Wingspan about 5.5–6.5 cm",
+   "behaviour": "Caterpillars live in communal silk tents on sunny nettle patches; a threatened adult opens its wings in jerks, revealing the eyespots while producing a hiss.",
+   "fieldMarks": [
+    "Deep rust-red upperside with one large blue, black and yellow eyespot on each of the four wings",
+    "Underside almost black, finely streaked, like a dead leaf",
+    "Ragged wing edge",
+    "Caterpillar black and spiny with fine white dots, in groups on nettles"
+   ],
+   "lookalikes": "Unmistakable with wings open. At rest the dark underside can resemble a small tortoiseshell (Aglais urticae), but that species' underside has a pale band across the forewing.",
+   "whereToSee": "Gardens with buddleia in late summer; woodland edges in early spring when hibernators emerge.",
+   "season": "Overwintered adults Mar–May; new generation Jul–Sep before entering hibernation",
+   "order": "Lepidoptera"
+  },
+  "iucn": "NE",
+  "lore": "Linnaeus named it after Io of Greek myth, whose guardian Argus had a hundred eyes that Hera later set into the peacock's tail. It was long placed in its own genus, Inachis, after Io's father Inachus.",
+  "funFact": "In total darkness, where eyespots are useless, the peacock relies on its hiss: its wing sounds alone are enough to make mice back away."
+ },
+ {
+  "slug": "papilio-polytes",
+  "scientific": "Papilio polytes",
+  "common": "Common Mormon",
+  "otherNames": [
+   "Yùdài fèngdié (Chinese)",
+   "Shiro-obi-ageha (Japanese)",
+   "Kupu-kupu Mormon (Malay)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Papilionidae",
+  "shelves": [
+   "pollinator",
+   "marvel"
+  ],
+  "summary": "A black swallowtail of South and Southeast Asian gardens whose females come in several forms, some imitating poisonous rose swallowtails. It is a textbook case of mimicry controlled by a single gene region.",
+  "nativeRange": "South and Southeast Asia from Pakistan, India and Sri Lanka to southern China, Taiwan, the Ryukyu Islands, the Philippines and Indonesia",
+  "regions": [
+   "South Asia",
+   "Southeast Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Tropical forest",
+   "Gardens",
+   "Farmland",
+   "Scrub"
+  ],
+  "abilities": [
+   "Females occur in several forms, including male-like 'cyrus', common-rose mimic 'stichius' and crimson-rose mimic 'romulus'",
+   "The mimetic forms are switched by variants of the doublesex gene",
+   "Caterpillars mimic bird droppings when young and later flash an orange osmeterium"
+  ],
+  "animal": {
+   "diet": "Adults visit Lantana, Ixora and other garden flowers; caterpillars eat citrus and other Rutaceae such as curry leaf (Murraya koenigii)",
+   "habitat": "Gardens, orchards, forest edges and towns wherever citrus grows",
+   "size": "Wingspan about 9–10 cm",
+   "behaviour": "The mimetic females fly in the slow, lazy manner of the distasteful roses they imitate, while males fly fast and erratically.",
+   "fieldMarks": [
+    "Male: black with a band of cream-white spots across the hindwing, and a short tail",
+    "Female 'stichius': white patch and red marginal spots on the hindwing, like the common rose",
+    "Female 'romulus': red and white hindwing spots, like the crimson rose",
+    "Body black (rose swallowtails have red bodies)"
+   ],
+   "lookalikes": "The common rose (Pachliopta aristolochiae) and crimson rose (P. hector), which mimetic females copy, have red heads and abdomens; the Mormon's body is black.",
+   "whereToSee": "Almost any garden with citrus or curry-leaf plants across India, Sri Lanka and Southeast Asia.",
+   "season": "Year-round in the tropics",
+   "order": "Lepidoptera"
+  },
+  "iucn": "NE",
+  "lore": "Its English name 'Mormon' is usually explained as a 19th-century joke about polygamy, because one male seemed to be paired with several very different-looking 'wives'.",
+  "funFact": "A 2014 study in Nature showed that a single inverted stretch of chromosome containing the doublesex gene decides which mimetic form a female becomes."
+ },
+ {
+  "slug": "danaus-chrysippus",
+  "scientific": "Danaus chrysippus",
+  "common": "Plain tiger",
+  "otherNames": [
+   "African monarch (English)",
+   "Jīn bāndié (Chinese)",
+   "Kabamadara (Japanese)",
+   "Mariposa tigre (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Nymphalidae",
+  "shelves": [
+   "pollinator",
+   "venomous"
+  ],
+  "summary": "An orange milkweed butterfly, a close relative of the monarch, that ranges across Africa, Asia and Australia. Its body holds toxins from milkweed, and many other butterflies have evolved to copy its pattern.",
+  "nativeRange": "Africa, southern Europe (Canary Islands, southern Spain), the Middle East, South and Southeast Asia, and Australia",
+  "regions": [
+   "Sub-Saharan Africa",
+   "North Africa",
+   "Europe",
+   "West Asia",
+   "South Asia",
+   "Southeast Asia",
+   "East Asia",
+   "Australia"
+  ],
+  "biomes": [
+   "Savanna",
+   "Desert edge",
+   "Scrub",
+   "Gardens",
+   "Farmland"
+  ],
+  "abilities": [
+   "Stores cardenolides from milkweed, making it distasteful to birds",
+   "Its pattern is copied by mimics such as the female danaid eggfly (Hypolimnas misippus)",
+   "Males gather pyrrolizidine alkaloids from withered plants to make courtship pheromones"
+  ],
+  "animal": {
+   "diet": "Adults sip nectar from many flowers; caterpillars eat milkweeds such as Calotropis and Asclepias",
+   "habitat": "Dry open country, wasteland, gardens and farmland",
+   "size": "Wingspan about 7–8 cm",
+   "behaviour": "It flies slowly and openly, relying on its toxicity and warning colours rather than speed.",
+   "fieldMarks": [
+    "Tawny orange wings",
+    "Forewing tip black with a slanting white band",
+    "Black body spotted with white",
+    "Males have a black scent pouch on each hindwing with a white centre"
+   ],
+   "lookalikes": "Female danaid eggfly (Hypolimnas misippus) is a mimic with a similar pattern but lacks the white-spotted black body. Striped tiger (Danaus genutia) has bold black veins. Monarch (D. plexippus) is larger with black-lined veins.",
+   "whereToSee": "Dry gardens and Calotropis scrub across India, East Africa, Arabia and the Canary Islands.",
+   "season": "Year-round in the tropics",
+   "order": "Lepidoptera"
+  },
+  "iucn": "LC",
+  "lore": "Butterflies identified as plain tigers appear in the wall painting from the tomb-chapel of Nebamun at Thebes (about 1350 BCE), now in the British Museum, among the oldest identifiable butterflies in art.",
+  "funFact": "In East Africa, populations crossbreed in a hybrid zone where a bacterium kills male offspring of some matings, producing all-female broods."
+ },
+ {
+  "slug": "tirumala-limniace",
+  "scientific": "Tirumala limniace",
+  "common": "Blue tiger",
+  "otherNames": [
+   "Qīng bāndié (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Nymphalidae",
+  "shelves": [
+   "pollinator",
+   "migrant"
+  ],
+  "summary": "A black butterfly marked with pale blue, almost glassy streaks, common across tropical Asia. In southern India it joins huge seasonal migrations between the Western and Eastern Ghats.",
+  "nativeRange": "South and Southeast Asia: India, Sri Lanka, Nepal, Myanmar, Thailand, southern China and Indochina",
+  "regions": [
+   "South Asia",
+   "Southeast Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Tropical forest",
+   "Scrub",
+   "Gardens",
+   "Grassland"
+  ],
+  "abilities": [
+   "Migrates in large numbers across peninsular India around the south-west monsoon; migrating swarms are almost all males",
+   "Males gather alkaloids from Crotalaria and Heliotropium to make pheromones and boost their chemical defence",
+   "Distasteful to predators thanks to compounds sequestered from its milkweed-family host plants"
+  ],
+  "animal": {
+   "diet": "Adults visit flowers and withered plants rich in alkaloids; caterpillars feed on milkweed-family vines such as Dregea (Wattakaka) and Heterostemma",
+   "habitat": "Open forest, scrub, grassland and gardens from plains to hills",
+   "size": "Wingspan about 9–10 cm",
+   "behaviour": "Migrating blue tigers often travel with dark blue tigers and crows, and rest in large clusters on shrubs and dry twigs.",
+   "fieldMarks": [
+    "Dark brown-black wings with many pale blue, semi-translucent spots and streaks",
+    "Broad pale streaks in the hindwing cell",
+    "Slow, gliding flight",
+    "Black head and thorax dotted with white"
+   ],
+   "lookalikes": "Dark blue tiger (Tirumala septentrionis) has narrower, darker blue streaks. Glassy tiger (Parantica aglea) is smaller, with thinner, whiter streaks and a more delicate look.",
+   "whereToSee": "Gardens and forest edges across India and Sri Lanka; migration corridors in Karnataka, Kerala and Tamil Nadu.",
+   "season": "Year-round; in South India large migrations take place around the south-west monsoon",
+   "order": "Lepidoptera"
+  },
+  "iucn": "NE",
+  "funFact": "The pale blue of its semi-transparent wing spots comes from pterobilin, a blue bile pigment."
+ },
+ {
+  "slug": "actias-luna",
+  "scientific": "Actias luna",
+  "common": "Luna moth",
+  "otherNames": [
+   "Papillon lune (French)",
+   "American moon moth (English)",
+   "Polilla luna (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Saturniidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "A pale lime-green silk moth with long, sweeping hindwing tails, found in the deciduous forests of eastern North America. Adults have no working mouthparts and live only about a week, just long enough to mate.",
+  "nativeRange": "Eastern North America, from southern Canada to Florida and eastern Texas",
+  "regions": [
+   "North America"
+  ],
+  "biomes": [
+   "Temperate deciduous forest"
+  ],
+  "abilities": [
+   "Spinning hindwing tails create a false echo target that diverts attacking bats away from the body",
+   "Females release a pheromone that males detect with feathery antennae over long distances",
+   "Adults never feed; they live off fat stored by the caterpillar"
+  ],
+  "animal": {
+   "diet": "Caterpillars eat leaves of walnut, hickory, sweetgum, persimmon and birch; adults do not feed",
+   "habitat": "Deciduous and mixed hardwood forests",
+   "lifespan": "Adults about 7–10 days",
+   "size": "Wingspan about 8–11.5 cm",
+   "behaviour": "Mostly active late at night; caterpillars click their mandibles and regurgitate when disturbed.",
+   "fieldMarks": [
+    "Pale lime-green wings with long, twisted hindwing tails",
+    "A transparent eyespot ringed in yellow, black and blue on each wing",
+    "Purplish-brown leading edge of the forewing",
+    "White, furry body"
+   ],
+   "lookalikes": "No similar moth in its range. The Indian moon moth (Actias selene), sometimes reared in captivity, is larger with longer tails.",
+   "whereToSee": "Around porch lights near hardwood forests across the eastern United States and southern Ontario/Quebec.",
+   "season": "One generation in the north (late May–July); two or three in the south (Mar–Sep)",
+   "order": "Lepidoptera"
+  },
+  "iucn": "NE",
+  "lore": "Linnaeus described it in 1758 as Phalaena luna, after the Roman goddess of the Moon, from specimens sent from colonial America.",
+  "funFact": "In experiments where the tails were clipped off, bats caught far more luna moths, showing that the spinning tails act as decoys."
+ },
+ {
+  "slug": "macroglossum-stellatarum",
+  "scientific": "Macroglossum stellatarum",
+  "common": "Hummingbird hawk-moth",
+  "otherNames": [
+   "Taubenschwänzchen (German)",
+   "Moro-sphinx (French)",
+   "Esfinge colibrí (Spanish)",
+   "Hoshihōjaku (Japanese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Sphingidae",
+  "shelves": [
+   "pollinator",
+   "migrant"
+  ],
+  "summary": "A day-flying moth that hovers in front of flowers with a soft hum, uncurling a long tongue to drink, so convincingly that people in Europe often report seeing hummingbirds. It migrates north from southern Europe and North Africa each summer.",
+  "nativeRange": "Southern Europe and North Africa east across temperate Asia to Japan; summer migrant to northern Europe",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "Central Asia",
+   "South Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Gardens",
+   "Temperate grassland",
+   "Mediterranean scrub",
+   "Mountain meadow"
+  ],
+  "abilities": [
+   "Hovers motionless while feeding, adjusting position as flowers sway",
+   "Learns and remembers flower colours, and has colour vision",
+   "Proboscis about as long as its body",
+   "Migrates hundreds of kilometres north each year"
+  ],
+  "animal": {
+   "diet": "Adults drink nectar from tubular flowers such as red valerian, jasmine, honeysuckle, buddleia and petunias; caterpillars eat bedstraws (Galium) and wild madder",
+   "habitat": "Sunny gardens, flowery meadows, rocky slopes and coasts",
+   "size": "Wingspan about 4–5 cm",
+   "behaviour": "It flies in full sunshine and even in rain, moving rapidly from flower to flower and returning to the same flower beds at the same time each day.",
+   "fieldMarks": [
+    "Hovering flight in daylight with a faint audible hum",
+    "Grey-brown forewings with fine dark wavy lines",
+    "Orange-brown hindwings visible as a blur in flight",
+    "Black-and-white chequered sides to the abdomen and a fan-like tail tuft"
+   ],
+   "lookalikes": "Often mistaken for a hummingbird, but there are no wild hummingbirds in Europe, Africa or Asia. Bee hawk-moths (Hemaris) also hover by day but have clear, glassy wings.",
+   "whereToSee": "Gardens with red valerian or jasmine around the Mediterranean; increasingly in southern England and northern Europe in warm summers.",
+   "season": "Northern Europe: migrants May–Oct, peaking Jul–Sep; adults overwinter in the Mediterranean",
+   "order": "Lepidoptera"
+  },
+  "iucn": "NE",
+  "lore": "In Japan its name hōjaku (蜂雀) means 'bee-sparrow', likening the hovering moth to a tiny bird as Europeans do with hummingbirds; Linnaeus's epithet stellatarum refers to its larval food, the 'stellate' bedstraws with star-shaped whorls of leaves.",
+  "funFact": "Experiments show it has true colour vision: trained moths pick the rewarded colour even when its brightness is changed."
+ },
+ {
+  "slug": "acherontia-atropos",
+  "scientific": "Acherontia atropos",
+  "common": "African death's-head hawkmoth",
+  "otherNames": [
+   "Totenkopfschwärmer (German)",
+   "Sphinx tête de mort (French)",
+   "Esfinge de la calavera (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Sphingidae",
+  "shelves": [
+   "migrant",
+   "marvel"
+  ],
+  "summary": "A large, heavy hawkmoth with a skull-like pattern on its thorax that squeaks loudly when disturbed. It raids beehives for honey, slipping past guard bees by smelling like them.",
+  "nativeRange": "Sub-Saharan and North Africa and the Middle East; migrates north into Europe",
+  "regions": [
+   "Sub-Saharan Africa",
+   "North Africa",
+   "West Asia",
+   "Europe"
+  ],
+  "biomes": [
+   "Savanna",
+   "Farmland",
+   "Mediterranean scrub",
+   "Gardens"
+  ],
+  "abilities": [
+   "Squeaks by sucking air in and pushing it out past a flap in its throat",
+   "Mimics the chemical scent of honeybees to enter hives and drink honey",
+   "Short, stout proboscis can pierce honeycomb",
+   "Migrates from Africa as far as Britain and Scandinavia"
+  ],
+  "animal": {
+   "diet": "Adults drink honey from hives, tree sap and rotting fruit; caterpillars eat potato and other nightshade-family plants, as well as jasmine and buddleia",
+   "habitat": "Open country, potato fields, gardens and orchards",
+   "size": "Wingspan about 9–13 cm; one of Europe's largest moths",
+   "behaviour": "If disturbed it squeaks and flashes its yellow-banded abdomen; the caterpillar also makes a clicking noise.",
+   "fieldMarks": [
+    "Pale yellow skull-shaped mark on the dark thorax",
+    "Dark brown, mottled forewings",
+    "Yellow hindwings with two dark bands",
+    "Abdomen banded yellow and black, like a giant wasp"
+   ],
+   "voice": "A sharp, mouse-like squeak, repeated when the moth is disturbed or alarmed.",
+   "lookalikes": "In Asia, Acherontia styx and A. lachesis are very similar but have different abdomen markings and do not occur in Europe or Africa. No other European moth has the skull pattern.",
+   "whereToSee": "Potato fields and gardens in southern Europe and North Africa; caterpillars are sometimes found in autumn potato harvests in Britain.",
+   "season": "Europe: migrants May–Oct, with a local autumn generation",
+   "order": "Lepidoptera"
+  },
+  "iucn": "NE",
+  "lore": "Long treated in European folklore as an omen of death, it is named after Atropos, the Fate who cuts the thread of life. Death's-head hawkmoths are the killer's calling card in The Silence of the Lambs (1991); the moth on the film's poster is often identified as its Asian relative A. styx.",
+  "funFact": "Migrants occasionally travel far beyond Britain: one was recorded above the Arctic Circle in northern Sweden in 2019, after an unusually warm summer."
+ },
+ {
+  "slug": "argema-mittrei",
+  "scientific": "Argema mittrei",
+  "common": "Comet moth",
+  "otherNames": [
+   "Madagascan moon moth (English)",
+   "Lolo (Malagasy, for moths generally)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Saturniidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "A huge yellow silk moth from Madagascar's rainforests whose male trails hindwing tails up to about 15 cm long. Adults cannot feed and live only a few days.",
+  "nativeRange": "Endemic to the rainforests of Madagascar",
+  "regions": [
+   "Madagascar"
+  ],
+  "biomes": [
+   "Tropical rainforest"
+  ],
+  "abilities": [
+   "Male has one of the longest tails of any moth, about 15 cm",
+   "Spins a silver cocoon pierced with holes that let rainwater drain away",
+   "Adults lack working mouthparts and survive on caterpillar reserves"
+  ],
+  "animal": {
+   "diet": "Caterpillars eat leaves of native trees such as Eugenia and Weinmannia (and Eucalyptus in captivity); adults do not feed",
+   "habitat": "Humid evergreen rainforest",
+   "lifespan": "Adults about 4–5 days",
+   "size": "Wingspan up to about 20 cm; male tails up to about 15 cm",
+   "fieldMarks": [
+    "Bright yellow wings",
+    "One brown eyespot on each wing",
+    "Very long hindwing tails tipped with red-brown in males (shorter, broader in females)",
+    "Reddish-brown leading edge of the forewing"
+   ],
+   "lookalikes": "The African moon moth (Argema mimosae) of mainland Africa is greener with shorter tails.",
+   "whereToSee": "Eastern rainforests such as Andasibe-Mantadia and Ranomafana; often displayed at butterfly houses from captive stock.",
+   "order": "Lepidoptera"
+  },
+  "iucn": "NE",
+  "lore": "Félix Édouard Guérin-Méneville described it in 1847 from Madagascar, originally as Bombyx mittrei.",
+  "funFact": "Captive breeding means comet moths are regularly displayed in butterfly houses in Europe and North America, far from their Madagascan rainforests."
+ },
+ {
+  "slug": "dryocampa-rubicunda",
+  "scientific": "Dryocampa rubicunda",
+  "common": "Rosy maple moth",
+  "otherNames": [
+   "Dryocampe rubiconde (French)",
+   "Green-striped mapleworm (English, larva)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Saturniidae",
+  "shelves": [],
+  "summary": "A small, woolly silk moth coloured like strawberry-lemonade sherbet in pink and yellow. Its caterpillar, the green-striped mapleworm, feeds on maples across eastern North America.",
+  "nativeRange": "Eastern North America, from southern Canada to Florida and eastern Texas",
+  "regions": [
+   "North America"
+  ],
+  "biomes": [
+   "Temperate deciduous forest",
+   "Suburban woodland"
+  ],
+  "abilities": [
+   "Adults do not feed; they mate and lay eggs within days",
+   "Caterpillars can partly defoliate maples in outbreak years without usually killing the tree"
+  ],
+  "animal": {
+   "diet": "Caterpillars eat maple leaves (especially red, silver and sugar maple) and sometimes oak; adults do not feed",
+   "habitat": "Deciduous forests and suburbs with maples",
+   "size": "Wingspan about 3.2–5 cm",
+   "behaviour": "Adults come to lights at night; young caterpillars feed in groups before dispersing.",
+   "fieldMarks": [
+    "Yellow forewings with a broad pink band across the middle and pink edges",
+    "Fluffy yellow body and legs",
+    "Pink, feathery antennae (larger in males)",
+    "Caterpillar pale green with darker stripes and two black horns behind the head"
+   ],
+   "lookalikes": "Pink-striped oakworm moth (Anisota virginiensis) is orange-brown and purplish with a translucent patch on the forewing. Spiny oakworm and other Anisota species are browner.",
+   "whereToSee": "Porch lights near maple woods across the eastern US and southern Canada.",
+   "season": "One generation in the north (May–Aug); two or three in the south (Apr–Sep)",
+   "order": "Lepidoptera"
+  },
+  "iucn": "NE",
+  "funFact": "A pale form in Missouri and Kansas, sometimes called var. alba, is almost entirely white with little or no pink."
+ },
+ {
+  "slug": "goliathus-goliatus",
+  "scientific": "Goliathus goliatus",
+  "common": "Goliath beetle",
+  "otherNames": [
+   "Goliathkäfer (German)",
+   "Goliath (French)",
+   "Escarabajo Goliat (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Scarabaeidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "One of the heaviest insects on Earth, a flower chafer of the African rainforest whose larvae can weigh around 100 g. Adults are boldly patterned in black and white and fly noisily through the canopy in search of sap and fruit.",
+  "nativeRange": "Tropical forests of West and Central Africa, from Nigeria and Cameroon to the Congo basin and Uganda",
+  "regions": [
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Tropical rainforest",
+   "Forest edge"
+  ],
+  "abilities": [
+   "Larvae can reach about 100 g, among the heaviest insect larvae known",
+   "Adult males reach about 11 cm long",
+   "Strong fliers despite their bulk, with wings folded under hard wing cases",
+   "Larvae need a high-protein diet, unusual among beetle grubs"
+  ],
+  "animal": {
+   "diet": "Adults feed on tree sap and ripe fruit; larvae feed on decaying plant matter in the soil",
+   "habitat": "Lowland rainforest canopy and forest edges",
+   "size": "Males about 6–11 cm; females smaller",
+   "behaviour": "Males use a Y-shaped horn on the head to wrestle rivals off feeding sites on tree trunks.",
+   "fieldMarks": [
+    "Very large, broad, flattened scarab",
+    "Pronotum white or cream with bold black stripes",
+    "Velvety wing cases, black-brown to chestnut with variable white markings",
+    "Males with a short forked (Y-shaped) horn; females hornless with a wedge-shaped head for digging"
+   ],
+   "lookalikes": "Other Goliathus species differ in pattern: G. regius has mostly white wing cases netted with black; G. orientalis and G. cacicus have their own patterns and ranges. Location and wing-case pattern separate them.",
+   "whereToSee": "Rainforests of Cameroon, Gabon and the Congo basin; captive-bred adults are shown in insect zoos.",
+   "order": "Coleoptera"
+  },
+  "iucn": "NE",
+  "lore": "Linnaeus described it in 1771 as Scarabaeus goliatus, after the biblical giant Goliath; such beetles were prized centrepieces in European cabinets of curiosities.",
+  "funFact": "Captive breeders often raise Goliath grubs on dog or cat food mixed into their substrate, because the larvae need far more protein than other scarab larvae."
+ },
+ {
+  "slug": "dynastes-hercules",
+  "scientific": "Dynastes hercules",
+  "common": "Hercules beetle",
+  "otherNames": [
+   "Scarabée Hercule (French)",
+   "Escarabajo Hércules (Spanish)",
+   "Herakuresu-ōkabuto (Japanese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Scarabaeidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "The longest of all beetles: horned males can reach about 17 cm, more than half of it horn. It ranges from southern Mexico to Bolivia and the Lesser Antilles; some recent studies split the mainland forms into separate species, leaving D. hercules in the strict sense on the Lesser Antilles.",
+  "nativeRange": "Lesser Antilles (notably Guadeloupe and Dominica) in the strict sense; the wider Dynastes hercules complex ranges from southern Mexico through Central America to the Andes and Amazonia",
+  "regions": [
+   "Caribbean",
+   "Central America",
+   "South America"
+  ],
+  "biomes": [
+   "Tropical rainforest",
+   "Montane forest"
+  ],
+  "abilities": [
+   "Longest beetle in the world, males up to about 17 cm including the horn",
+   "Wing cases change from olive-yellow to black as humidity rises, through changes in a porous layer in the cuticle",
+   "Males use their pincer-like horns to lift and throw rivals"
+  ],
+  "animal": {
+   "diet": "Adults eat rotting fruit; larvae feed on decaying wood",
+   "habitat": "Moist rainforest, where larvae develop inside rotting logs",
+   "lifespan": "Larval stage up to about 2 years; adults about 3–6 months in captivity",
+   "size": "Males about 5–17 cm including horn; females about 5–8 cm",
+   "behaviour": "Rival males lock horns, lift one another and slam the loser down or off the branch.",
+   "fieldMarks": [
+    "Male: very long, forward-curving thoracic horn with a brush of golden hairs underneath, opposed by a shorter upcurved head horn",
+    "Wing cases olive-green to yellowish with scattered black spots (black when humid)",
+    "Head, thorax and horns glossy black",
+    "Females hornless, dark and often hairy"
+   ],
+   "lookalikes": "Mainland Hercules beetles (D. h. lichyi, septentrionalis, occidentalis and others), treated by some authors as separate species, differ subtly in horn and colour and by range. Neptune beetle (D. neptunus) is all black with extra short horns. Elephant beetles (Megasoma) lack the long thoracic horn.",
+   "whereToSee": "Montane rainforest of Guadeloupe and Dominica; widely exhibited in insect zoos.",
+   "order": "Coleoptera"
+  },
+  "iucn": "NE",
+  "lore": "Linnaeus named it Scarabaeus hercules in 1758 after the Greek hero. In Japan, rearing Hercules beetles bought from breeders is a popular hobby.",
+  "funFact": "The yellow colour comes from a spongy layer in the wing case; when it soaks up water it turns transparent and the black layer beneath shows through."
+ },
+ {
+  "slug": "lucanus-cervus",
+  "scientific": "Lucanus cervus",
+  "common": "European stag beetle",
+  "otherNames": [
+   "Hirschkäfer (German)",
+   "Lucane cerf-volant (French)",
+   "Ciervo volante (Spanish)",
+   "Jelonek rogacz (Polish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Lucanidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "Europe's largest beetle, whose males carry huge antler-like jaws used only for wrestling rivals. It spends most of its life as a grub in rotting wood underground and emerges for just a few summer weeks.",
+  "nativeRange": "Europe from southern Sweden to Iberia, east to Turkey, the Caucasus and Syria",
+  "regions": [
+   "Europe",
+   "West Asia"
+  ],
+  "biomes": [
+   "Temperate deciduous forest",
+   "Parkland",
+   "Gardens"
+  ],
+  "abilities": [
+   "Larvae live 3–6 years feeding on decaying wood",
+   "Males' enlarged mandibles function like antlers in contests over females",
+   "Adults fly on warm summer evenings with a loud, whirring, upright flight"
+  ],
+  "animal": {
+   "diet": "Larvae eat decaying wood of oak and other broadleaves (stumps, roots); adults sip sap and fruit juice",
+   "habitat": "Old oak woods, parks, hedgerows and suburban gardens with dead wood",
+   "lifespan": "Up to about 6 years, almost all as a larva; adults a few weeks",
+   "size": "Males about 3.5–9 cm including mandibles; females 3–5 cm",
+   "behaviour": "Males grapple on branches and tree trunks, trying to grip and throw opponents off.",
+   "fieldMarks": [
+    "Male with huge, branched, reddish-brown 'antler' mandibles",
+    "Chestnut-brown wing cases and black head and thorax",
+    "Female smaller with short, strong jaws",
+    "Slow, upright, buzzing flight at dusk"
+   ],
+   "lookalikes": "Lesser stag beetle (Dorcus parallelipipedus) is smaller (2–3 cm), all dull black, and has small jaws; female stag beetles have reddish-brown wing cases. Rhinoceros beetle (Sinodendron cylindricum) is small, black and cylindrical.",
+   "whereToSee": "South-east England (south London, Thames valley, Essex, Kent), and oak woodland across central and southern Europe.",
+   "season": "Adults late May–July, flying on warm evenings",
+   "order": "Coleoptera"
+  },
+  "iucn": "NE",
+  "lore": "Pliny the Elder reported that children wore stag-beetle jaws as amulets against illness, and Albrecht Dürer painted a lifelike stag beetle in 1505. Old English folklore blamed it for carrying hot coals and setting thatch alight.",
+  "historicalNames": [
+   "Lucanus",
+   "Cervus volans",
+   "Hirschkäfer"
+  ],
+  "funFact": "Despite their size, the male's jaws are too weak to give a painful nip; the smaller-jawed female bites much harder."
+ },
+ {
+  "slug": "brachinus-crepitans",
+  "scientific": "Brachinus crepitans",
+  "common": "Bombardier beetle",
+  "otherNames": [
+   "Bombardierkäfer (German)",
+   "Brachyne pétard (French)",
+   "Escarabajo bombardero (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Carabidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "A small ground beetle that defends itself with a boiling chemical explosion. Two harmless liquids stored in its abdomen are mixed with enzymes in a reaction chamber, firing a hot, caustic spray with an audible pop.",
+  "nativeRange": "Europe, especially the south and west, east into western Asia",
+  "regions": [
+   "Europe",
+   "West Asia"
+  ],
+  "biomes": [
+   "Calcareous grassland",
+   "Dry grassland",
+   "Coastal cliffs"
+  ],
+  "abilities": [
+   "Mixes hydroquinones and hydrogen peroxide with catalase and peroxidase enzymes to produce a spray near 100 °C",
+   "Fires the spray in rapid pulses with an audible crack",
+   "Can aim the spray by swivelling the tip of its abdomen"
+  ],
+  "animal": {
+   "diet": "Adults are predators and scavengers of small invertebrates",
+   "habitat": "Warm, dry, sparsely vegetated ground, often on chalk and limestone; shelters under stones",
+   "size": "About 6–10 mm",
+   "behaviour": "When grabbed by an ant, spider or frog, it blasts the attacker with hot benzoquinones.",
+   "fieldMarks": [
+    "Orange-red head, thorax and legs",
+    "Dark metallic blue to blue-green wing cases",
+    "Small, narrow ground-beetle shape",
+    "Often in groups under stones in dry grassland"
+   ],
+   "lookalikes": "Brachinus explodens is smaller (5–7.5 mm) and very similar; a hand lens and key are needed. Other red-and-blue ground beetles (e.g. Lebia, Drypta) lack the defensive pop.",
+   "whereToSee": "Chalk downland and dry coastal grassland in southern England and continental Europe.",
+   "season": "Adults mainly Apr–Sep",
+   "order": "Coleoptera"
+  },
+  "iucn": "NE",
+  "lore": "Linnaeus named it crepitans, 'crackling', in 1758 for its explosive defence. In the late 20th century it became a famous example in debates between creationists and evolutionary biologists over how complex traits evolve.",
+  "funFact": "High-speed X-ray imaging of bombardier beetles in 2015 showed that each spray is a rapid series of pulses, with an inlet valve to the reaction chamber closing at each blast."
+ },
+ {
+  "slug": "chrysochroa-fulgidissima",
+  "scientific": "Chrysochroa fulgidissima",
+  "common": "Japanese jewel beetle",
+  "otherNames": [
+   "Tamamushi (Japanese)",
+   "Bidan-beolle (Korean)",
+   "Jídīng chóng (Chinese, jewel beetles generally)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Buprestidae",
+  "shelves": [
+   "marvel",
+   "sacred"
+  ],
+  "summary": "A brilliant metallic-green jewel beetle with rainbow stripes, whose colour comes from structure rather than pigment and never fades. Its wing cases decorate a 7th-century Buddhist shrine in Japan.",
+  "nativeRange": "Japan, Korea, Taiwan and parts of eastern China",
+  "regions": [
+   "East Asia"
+  ],
+  "biomes": [
+   "Temperate broadleaf forest",
+   "Parks and temple groves"
+  ],
+  "abilities": [
+   "Iridescent colour produced by microscopic layers in the cuticle, so it lasts for centuries",
+   "Larvae bore into dead and dying wood",
+   "Adults fly in bright sunshine around the tops of tall trees"
+  ],
+  "animal": {
+   "diet": "Adults eat leaves of Zelkova, hackberry (Celtis) and cherry; larvae feed in the dead wood of these and other broadleaves",
+   "habitat": "Broadleaf woods, shrine and temple groves, and parks with old trees",
+   "size": "About 3–4 cm",
+   "behaviour": "On hot summer days adults circle the crowns of tall zelkova and hackberry trees, flashing green in the sun.",
+   "fieldMarks": [
+    "Elongated, bullet-shaped beetle",
+    "Brilliant metallic green body",
+    "Two purple-red stripes running the length of the wing cases and thorax",
+    "Flight high around tree crowns in sunshine"
+   ],
+   "lookalikes": "Other Chrysochroa jewel beetles of Southeast Asia and the Ryukyus (e.g. C. alternans) differ in the colour and pattern of their stripes and in range.",
+   "whereToSee": "Temple and shrine groves and parks in Japan with old zelkova and hackberry trees.",
+   "season": "Adults June–August, peaking in late July",
+   "order": "Coleoptera"
+  },
+  "iucn": "NE",
+  "lore": "The Tamamushi Shrine at Hōryū-ji, Nara, made in the 7th century, was originally decorated with thousands of these beetles' wing cases set under its metal openwork. Wings of jewel beetles also adorned horse harness from 5th-century Silla tombs in Korea.",
+  "historicalNames": [
+   "Tamamushi"
+  ],
+  "funFact": "Because the colour is made by stacked nanoscale layers rather than pigment, the beetle wings on the 1,300-year-old Tamamushi Shrine can still shimmer where they survive."
+ },
+ {
+  "slug": "dytiscus-marginalis",
+  "scientific": "Dytiscus marginalis",
+  "common": "Great diving beetle",
+  "otherNames": [
+   "Gelbrandkäfer (German)",
+   "Dytique bordé (French)",
+   "Ditisco (Spanish)",
+   "Pływak żółtobrzeżek (Polish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Dytiscidae",
+  "shelves": [
+   "freshwater"
+  ],
+  "summary": "A large predatory water beetle that carries its air supply in a bubble beneath its wing cases. Adults and their fearsome larvae, 'water tigers', hunt tadpoles, newts and even small fish.",
+  "nativeRange": "Europe and northern Asia",
+  "regions": [
+   "Europe",
+   "West Asia",
+   "Central Asia"
+  ],
+  "biomes": [
+   "Ponds",
+   "Lakes",
+   "Wetlands"
+  ],
+  "abilities": [
+   "Stores air under the wing cases and refills by poking its abdomen tip through the surface",
+   "Larvae inject digestive enzymes through hollow, sickle-shaped jaws and suck out the liquefied prey",
+   "Adults fly at night between ponds and can mistake shiny car roofs and glasshouses for water",
+   "Remains active under winter ice"
+  ],
+  "animal": {
+   "diet": "Tadpoles, insect larvae, snails, newts, small fish and carrion",
+   "habitat": "Well-vegetated ponds, lakes, ditches and slow rivers",
+   "lifespan": "Adults can live several years",
+   "size": "About 2.7–3.5 cm",
+   "behaviour": "It swims with both hind legs stroking together like oars, unlike scavenger water beetles which move them alternately.",
+   "fieldMarks": [
+    "Smooth, oval, dark olive-black body",
+    "Yellow border around the thorax and wing cases",
+    "Males have glossy wing cases and suction pads on the front feet; females usually have grooved wing cases",
+    "Fringed, flattened hind legs used as oars"
+   ],
+   "lookalikes": "Great silver water beetle (Hydrophilus piceus) is larger, all black, has short clubbed antennae and moves its legs alternately. Other Dytiscus species are separated by the shape of the yellow border and underside colour.",
+   "whereToSee": "Garden ponds and vegetated lakes across Europe; often netted in pond-dipping sessions.",
+   "season": "Active year-round; most often seen spring to late summer",
+   "order": "Coleoptera"
+  },
+  "iucn": "NE",
+  "funFact": "The male's front feet bear sucker discs that help him grip the female during mating; the ridges on many females' wing cases are thought to make that grip harder."
+ },
+ {
+  "slug": "mantis-religiosa",
+  "scientific": "Mantis religiosa",
+  "common": "European mantis",
+  "otherNames": [
+   "Gottesanbeterin (German)",
+   "Mante religieuse (French)",
+   "Santateresa (Spanish)",
+   "Faras an-nabi (Arabic)",
+   "Tángláng (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Mantidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "The original 'praying mantis', an ambush predator that waits with spiked forelegs folded as if in prayer. It hears with a single ear in the middle of its chest, tuned to the ultrasound of hunting bats.",
+  "nativeRange": "Southern and central Europe, Africa and Asia; introduced to North America in the 1890s",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "Sub-Saharan Africa",
+   "West Asia",
+   "Central Asia",
+   "South Asia",
+   "East Asia",
+   "North America"
+  ],
+  "biomes": [
+   "Temperate grassland",
+   "Mediterranean scrub",
+   "Meadows",
+   "Gardens"
+  ],
+  "abilities": [
+   "Strikes prey with spiked raptorial forelegs in a fraction of a second",
+   "Single midline ear detects bat ultrasound, triggering evasive dives in flight",
+   "Turns its head almost 180° to watch prey",
+   "Females sometimes eat males during or after mating"
+  ],
+  "animal": {
+   "diet": "Grasshoppers, flies, butterflies, crickets and other insects",
+   "habitat": "Sunny, tall grassland, scrub, vineyards and gardens",
+   "lifespan": "About one year: nymphs hatch in spring and adults die in autumn",
+   "size": "About 4–8 cm; females larger",
+   "behaviour": "Females lay eggs in a frothy case (ootheca) on stems or stones that hardens and protects up to a few hundred eggs through winter.",
+   "fieldMarks": [
+    "Green or brown, slender body with long neck-like thorax",
+    "Raptorial forelegs held folded in front",
+    "Black spot ringed with white (a dark 'eye') on the inner base of each foreleg",
+    "Wings reach the tip of the abdomen in both sexes"
+   ],
+   "lookalikes": "Chinese mantis (Tenodera sinensis), also introduced in North America, is larger (to about 10 cm), lacks the black foreleg spot and has a green-edged wing. Carolina mantis (Stagmomantis carolina) is smaller and the female's wings stop short of the abdomen tip.",
+   "whereToSee": "Rough grassland and vineyards in southern Europe; meadows and old fields in north-eastern North America.",
+   "season": "Adults Aug–Oct",
+   "order": "Mantodea"
+  },
+  "iucn": "LC",
+  "lore": "The Greek mantis means 'prophet' or 'seer', and in Provence it is called prega-Diéu, 'pray to God'. The entomologist Jean-Henri Fabre made it famous in his Souvenirs entomologiques (1879–1907).",
+  "historicalNames": [
+   "Mantis",
+   "Prega-Diéu",
+   "Gottesanbeterin"
+  ],
+  "funFact": "Its 'cyclopean ear' was discovered in 1986: a single slit between the legs on the underside of the thorax, which makes the mantis deaf to the direction of sound but very sensitive to bat calls."
+ },
+ {
+  "slug": "phyllium-philippinicum",
+  "scientific": "Phyllium philippinicum",
+  "common": "Philippine leaf insect",
+  "otherNames": [
+   "Wandelndes Blatt (German, leaf insects generally)",
+   "Phyllie (French)",
+   "Insecto hoja (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Phylliidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "A flattened, bright-green stick-insect relative that is almost indistinguishable from a leaf, complete with 'veins' and brown 'bite marks'. It even sways gently as if moved by a breeze.",
+  "nativeRange": "Philippines",
+  "regions": [
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Tropical forest"
+  ],
+  "abilities": [
+   "Body and legs are flattened into leaf-like lobes with vein patterns",
+   "Rocks from side to side while walking, imitating a leaf in wind",
+   "Females can reproduce without males (parthenogenesis)",
+   "Eggs look like plant seeds"
+  ],
+  "animal": {
+   "diet": "Leaves of tropical trees and shrubs; in captivity bramble, oak and guava",
+   "habitat": "Leafy forest canopy and understorey",
+   "lifespan": "Adults several months; about a year in total",
+   "size": "Females about 8–9 cm; males smaller (about 5–6 cm) and slimmer",
+   "behaviour": "Females are flightless and rely on stillness and disguise; slimmer males have full wings and fly to find females.",
+   "fieldMarks": [
+    "Broad, flat, leaf-shaped green body, sometimes with brown or yellow patches",
+    "Leaf-like flaps on the legs",
+    "Female forewings marked with a pattern resembling a leaf's midrib and veins",
+    "Males narrower, with long antennae and functional hindwings"
+   ],
+   "lookalikes": "Many Phyllium species are near-identical and are separated by egg shape, the leg lobes and range. In the wild its main 'lookalike' is a leaf.",
+   "whereToSee": "Philippine forests; one of the most commonly kept leaf insects in captivity.",
+   "order": "Phasmida"
+  },
+  "iucn": "NE",
+  "lore": "Leaf insects astonished early European naturalists; Linnaeus named the first known species Gryllus siccifolius, the 'dry-leaf cricket', in 1758.",
+  "funFact": "Newly hatched nymphs are reddish-brown and look like ants or dead leaf fragments; they turn green only after their first meals of leaves."
+ },
+ {
+  "slug": "deinacrida-heteracantha",
+  "scientific": "Deinacrida heteracantha",
+  "common": "Wētāpunga (Little Barrier giant wētā)",
+  "otherNames": [
+   "Wētāpunga (Māori)",
+   "Giant wētā (New Zealand English)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Anostostomatidae",
+  "shelves": [
+   "endangered",
+   "marvel"
+  ],
+  "summary": "A giant cricket-like insect from New Zealand and one of the heaviest insects in the world; a pregnant female has been weighed at 71 g. Wiped out on the mainland by introduced rats, it survived on Hauturu-o-Toi (Little Barrier Island).",
+  "nativeRange": "Formerly Northland and Auckland region, New Zealand; natural population now only on Hauturu-o-Toi / Little Barrier Island, with translocated populations on other predator-free islands",
+  "regions": [
+   "Oceania"
+  ],
+  "biomes": [
+   "Temperate rainforest",
+   "Island forest"
+  ],
+  "abilities": [
+   "One of the heaviest insects ever weighed, up to about 70 g",
+   "Wingless and slow, it evolved in the absence of land mammals",
+   "Kicks spiny hind legs upward in defence"
+  ],
+  "animal": {
+   "diet": "Leaves of native trees and shrubs; also fruit and flowers",
+   "habitat": "Forest canopy and scrub; hides by day in tree holes and among foliage",
+   "lifespan": "Up to about 2 years",
+   "size": "Body up to about 10 cm; weight to about 70 g in gravid females",
+   "behaviour": "It is nocturnal and arboreal, climbing down to the ground mainly to lay eggs in soil.",
+   "fieldMarks": [
+    "Very large, heavy, wingless body, brown with darker bands",
+    "Long, thick hind legs covered in spines",
+    "Long antennae, longer than the body",
+    "Females with a long, curved ovipositor"
+   ],
+   "lookalikes": "Tree wētā (Hemideina) are much smaller, and males have very large heads and jaws. Other giant wētā (Deinacrida spp.) occupy different regions of New Zealand.",
+   "whereToSee": "Hauturu-o-Toi has restricted access; captive-bred wētāpunga are bred at Auckland Zoo and released to islands such as Motuora and Tiritiri Matangi.",
+   "season": "Year-round; nocturnal",
+   "order": "Orthoptera"
+  },
+  "iucn": "VU",
+  "lore": "In Māori tradition wētāpunga are named for Punga, ancestor of ugly and deformed creatures. The species' decline began after kiore (Pacific rats) and later European rats reached New Zealand.",
+  "funFact": "The 71 g record female, weighed in 2011, was photographed eating a carrot from the hand of the naturalist who found her."
+ },
+ {
+  "slug": "magicicada-septendecim",
+  "scientific": "Magicicada septendecim",
+  "common": "Seventeen-year periodical cicada",
+  "otherNames": [
+   "Pharaoh cicada (English)",
+   "Seventeen-year locust (American English)",
+   "Cigale périodique (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Cicadidae",
+  "shelves": [
+   "songbird",
+   "marvel",
+   "edible"
+  ],
+  "summary": "A red-eyed cicada that spends 17 years underground feeding on tree roots, then emerges in synchronised billions over a few weeks. Each regional 'brood' appears on its own fixed calendar.",
+  "nativeRange": "Eastern United States, from the Great Plains to the Atlantic and from the Great Lakes to the Gulf states",
+  "regions": [
+   "North America"
+  ],
+  "biomes": [
+   "Temperate deciduous forest",
+   "Suburban woodland",
+   "Forest edge"
+  ],
+  "abilities": [
+   "Nymphs count years underground and emerge together after 17 years",
+   "Emergence is triggered when soil about 20 cm down reaches roughly 18 °C",
+   "Sheer numbers, up to around 1.5 million per acre, overwhelm predators (predator satiation)",
+   "Males sing in huge choruses that can exceed 90 decibels"
+  ],
+  "animal": {
+   "diet": "Nymphs drink xylem sap from tree roots; adults feed little, piercing twigs for sap",
+   "habitat": "Deciduous woods and leafy suburbs",
+   "lifespan": "17 years, almost all underground; adults 3–6 weeks",
+   "size": "Body about 2.5–3.5 cm",
+   "behaviour": "Females slit thin twigs to lay eggs, which causes 'flagging' of branch tips; hatchlings drop to the ground and burrow.",
+   "fieldMarks": [
+    "Black body with bright red eyes",
+    "Orange wing veins and orange legs",
+    "Broad orange bands on the underside of the abdomen",
+    "An orange patch behind the eye, above the wing base"
+   ],
+   "voice": "Males give a low, buzzing, slightly falling 'phaaa-raoh' call lasting a second or two, repeated and blended into a roaring chorus.",
+   "lookalikes": "Magicicada cassini is smaller with an all-black abdomen underside and a rapid ticking-then-buzz song; M. septendecula has narrow orange abdominal stripes. The 13-year M. tredecim is very similar but has a lower-pitched song, and the 13-year M. neotredecim can be told apart only by its cycle. Annual dog-day cicadas (Neotibicen) are green and brown with dark eyes.",
+   "whereToSee": "Leafy suburbs and woods within an emerging brood's range (e.g. Brood X in the mid-Atlantic and Ohio Valley, last seen 2021).",
+   "season": "Mid-May to late June in emergence years only",
+   "order": "Hemiptera"
+  },
+  "iucn": "NT",
+  "edibility": "edible-with-care",
+  "edibleParts": [
+   "freshly moulted adults and nymphs (cooked)"
+  ],
+  "edibilityNote": "Eaten fried or roasted, as several Indigenous nations and modern foragers have done. People with shellfish allergy may react, as cicadas share allergenic proteins with crustaceans.",
+  "lore": "William Bradford recorded an emergence at Plymouth Colony in 1633, and colonists called them 'locusts', a misnomer that stuck. Pehr Kalm described the 1749 emergence in Pennsylvania for Linnaeus.",
+  "historicalNames": [
+   "Locust"
+  ],
+  "funFact": "Brood XIII (17-year) and Brood XIX (13-year) emerged together in 2024 for the first time since 1803; they will not coincide again until 2245."
+ },
+ {
+  "slug": "acheta-domesticus",
+  "scientific": "Acheta domesticus",
+  "common": "House cricket",
+  "otherNames": [
+   "Heimchen (German)",
+   "Grillon domestique (French)",
+   "Grillo doméstico (Spanish)",
+   "Jhingur (Hindi, crickets generally)",
+   "Xīshuài (Chinese, crickets generally)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Gryllidae",
+  "shelves": [
+   "songbird",
+   "edible"
+  ],
+  "summary": "The cricket of the hearth, a pale-brown chirper that has lived alongside people for thousands of years. Today it is the world's most widely farmed cricket, raised as pet food and increasingly as human food.",
+  "nativeRange": "Probably south-western Asia; now worldwide in buildings and farms",
+  "regions": [
+   "Cosmopolitan",
+   "West Asia"
+  ],
+  "biomes": [
+   "Buildings",
+   "Rubbish dumps",
+   "Farms"
+  ],
+  "abilities": [
+   "Males chirp by rubbing a scraper on one forewing against a file on the other",
+   "Hears through ears on its front legs",
+   "Completes its life cycle in about two months in warm conditions",
+   "Converts feed into protein more efficiently than cattle"
+  ],
+  "animal": {
+   "diet": "Omnivorous: plant matter, grain, scraps and dead insects",
+   "habitat": "Warm buildings, bakeries, rubbish tips and cricket farms",
+   "lifespan": "About 2–3 months as an adult",
+   "size": "About 1.6–2.1 cm",
+   "behaviour": "Males call at night to attract females and switch to a softer courtship song once a female is close.",
+   "fieldMarks": [
+    "Light yellowish-brown body",
+    "Three dark bands across the top of the head",
+    "Long antennae and two long cerci at the tail; females with a long needle-like ovipositor",
+    "Wings cover the abdomen"
+   ],
+   "voice": "A clear, repeated chirp, 'cree-cree', from males at night; softer ticking courtship song at close range.",
+   "lookalikes": "Field crickets (Gryllus) are larger and black or dark brown. Tropical house cricket (Gryllodes sigillatus) is smaller with short wings and a banded abdomen.",
+   "whereToSee": "Pet shops and cricket farms; occasionally in warm buildings and tips.",
+   "season": "Year-round indoors; outdoors in warm months",
+   "order": "Orthoptera"
+  },
+  "iucn": "NE",
+  "edibility": "edible",
+  "edibleParts": [
+   "whole insect (roasted, fried or ground into powder)"
+  ],
+  "edibilityNote": "Sold as whole roasted crickets and cricket flour; approved as a novel food in the EU in 2022. People allergic to shellfish or dust mites may react.",
+  "lore": "A cricket chirping on the hearth was long thought to bring luck in English homes, the idea behind Charles Dickens's novella The Cricket on the Hearth (1845).",
+  "historicalNames": [
+   "Gryllus",
+   "Heimchen"
+  ],
+  "funFact": "Crickets' chirp rate rises with temperature, so a calling house cricket is a rough living thermometer."
+ },
+ {
+  "slug": "eciton-burchellii",
+  "scientific": "Eciton burchellii",
+  "common": "Burchell's army ant",
+  "otherNames": [
+   "Formiga-de-correição (Portuguese)",
+   "Hormiga guerrera (Spanish)",
+   "Marabunta (Latin American Spanish, army ants generally)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Formicidae",
+  "shelves": [
+   "keystone",
+   "marvel"
+  ],
+  "summary": "A nomadic ant whose colonies of hundreds of thousands sweep the rainforest floor in a raiding front many metres wide, flushing out insects as they go. It builds no nest, but sleeps in a living ball of its own workers.",
+  "nativeRange": "Neotropics, from southern Mexico through Central America to the Amazon basin",
+  "regions": [
+   "Central America",
+   "South America"
+  ],
+  "biomes": [
+   "Tropical rainforest"
+  ],
+  "abilities": [
+   "Swarm raids up to about 15 m wide, carrying off huge numbers of insects and other arthropods",
+   "Workers link legs to form a living nest (bivouac), bridges and road plugs",
+   "Colony alternates between a nomadic phase (moving every night) and a stationary phase while the queen lays eggs",
+   "Supports more than 300 associated species, including antbirds that follow its raids"
+  ],
+  "animal": {
+   "diet": "Mostly other arthropods, especially social insects' brood, plus spiders, cockroaches and occasionally small vertebrates",
+   "habitat": "Lowland rainforest floor and understorey",
+   "lifespan": "Colonies can persist for years; queens are replaced by budding",
+   "size": "Workers from about 3 mm to 12 mm; soldiers largest",
+   "behaviour": "Raids flush fleeing insects that antbirds, woodcreepers and parasitic flies exploit; the bivouac's temperature is regulated by the living ants.",
+   "fieldMarks": [
+    "Dense, broad carpet of reddish-brown to black ants moving across the forest floor",
+    "Soldiers with long, pale hook-shaped mandibles",
+    "Antbirds calling and flies hovering above the raid front",
+    "Columns carrying insect brood back to the bivouac"
+   ],
+   "lookalikes": "Eciton hamatum raids in branching columns rather than a broad swarm and preys mostly on other social insects. Labidus army ants raid partly underground and are smaller and darker.",
+   "whereToSee": "Rainforest reserves such as Barro Colorado Island (Panama), La Selva (Costa Rica) and Amazonian lodges in Peru and Ecuador.",
+   "season": "Year-round",
+   "order": "Hymenoptera"
+  },
+  "iucn": "NE",
+  "lore": "Henry Walter Bates described Eciton army ants in The Naturalist on the River Amazons (1863); the 20th-century studies of T. C. Schneirla on Barro Colorado revealed their nomadic cycle.",
+  "funFact": "Some antbird species are 'professional' ant-followers that feed almost only at Eciton burchellii raids and check bivouacs each morning to see where the ants will go."
+ },
+ {
+  "slug": "vespa-mandarinia",
+  "scientific": "Vespa mandarinia",
+  "common": "Northern giant hornet",
+  "otherNames": [
+   "Asian giant hornet (English)",
+   "Ōsuzumebachi (Japanese)",
+   "Jangsu-malbeol (Korean)",
+   "Jīnhuán húfēng (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Vespidae",
+  "shelves": [
+   "venomous",
+   "deadly"
+  ],
+  "summary": "The world's largest hornet, with queens up to about 5 cm long and a 6 mm sting. A few dozen workers can wipe out a European honeybee colony in hours, but Japanese honeybees fight back by cooking scouts alive in a ball of vibrating bodies.",
+  "nativeRange": "East Asia: Japan, Korea, eastern and central China, Taiwan and the Russian Far East; briefly established in British Columbia and Washington State (2019–2021), declared eradicated from the US in 2024",
+  "regions": [
+   "East Asia"
+  ],
+  "biomes": [
+   "Temperate forest",
+   "Low mountains",
+   "Farmland edge"
+  ],
+  "abilities": [
+   "Largest hornet in the world",
+   "Workers mark a beehive with pheromone and attack in groups, decapitating thousands of bees",
+   "Venom contains a neurotoxin (mandaratoxin) and compounds that damage tissue; multiple stings can be fatal",
+   "Can fly long distances, foraging several kilometres from the nest"
+  ],
+  "animal": {
+   "diet": "Adults drink tree sap and feed larvae with chewed insects, especially bees and other wasps; larvae give adults a nutritious liquid in return",
+   "habitat": "Low mountains and forest edges; nests underground in old rodent burrows or rotting root cavities",
+   "lifespan": "Workers a few weeks to months; colonies last one season, with only mated queens overwintering",
+   "size": "Queens up to about 5 cm; workers about 3.5–4 cm; wingspan around 7 cm",
+   "behaviour": "In late summer and autumn, workers enter a 'slaughter phase', killing a hive's adult bees and carrying off the brood to feed their own larvae.",
+   "fieldMarks": [
+    "Very large size",
+    "Broad, bright orange-yellow head with large jaws",
+    "Dark brown thorax",
+    "Abdomen banded dark brown and yellow-orange"
+   ],
+   "lookalikes": "European hornet (Vespa crabro) is smaller, with a reddish-brown head and a mostly yellow abdomen. Yellow-legged hornet (V. velutina) is dark with yellow legs. Southern giant hornet (V. soror) of southern China and Southeast Asia is very similar but darker. In North America, cicada killer wasps (Sphecius) and European hornets are commonly mistaken for it.",
+   "whereToSee": "Forested hills and countryside in Japan and Korea; best viewed in museums or from a safe distance.",
+   "season": "Queens fly in spring; workers abundant Jul–Oct",
+   "order": "Hymenoptera"
+  },
+  "iucn": "NE",
+  "lore": "In Japan, hornet larvae are eaten in some mountain regions, and a sports drink (VAAM) launched in the 1990s was based on amino acids identified in the liquid larvae feed to adult hornets.",
+  "historicalNames": [
+   "Suzumebachi"
+  ],
+  "funFact": "Japanese honeybees engulf a hornet scout in a ball of hundreds of bees and shiver their flight muscles, raising the temperature to about 46 °C, which kills the hornet but not the bees."
+ },
+ {
+  "slug": "paraponera-clavata",
+  "scientific": "Paraponera clavata",
+  "common": "Bullet ant",
+  "otherNames": [
+   "Hormiga bala (Spanish)",
+   "Tucandeira (Portuguese)",
+   "Hormiga veinticuatro (Venezuelan Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Formicidae",
+  "shelves": [
+   "venomous",
+   "marvel"
+  ],
+  "summary": "A large rainforest ant whose sting is rated the most painful of any insect, a throbbing pain said to last up to a day. The Sateré-Mawé people of Brazil use it in a coming-of-age ritual.",
+  "nativeRange": "Lowland rainforests from Honduras and Nicaragua through Central America to the Amazon basin",
+  "regions": [
+   "Central America",
+   "South America"
+  ],
+  "biomes": [
+   "Tropical rainforest"
+  ],
+  "abilities": [
+   "Sting rated at the top (4+) of Justin Schmidt's sting pain index",
+   "Venom contains poneratoxin, a peptide that keeps nerve sodium channels open",
+   "Squeaks (stridulates) and releases a musky odour when disturbed",
+   "Workers forage alone up into the canopy"
+  ],
+  "animal": {
+   "diet": "Nectar and other insects, which workers carry back from the canopy",
+   "habitat": "Nests at the base of rainforest trees; forages on trunks and in the canopy",
+   "size": "Workers about 1.8–3 cm",
+   "behaviour": "Colonies of a few hundred to a few thousand ants nest among the roots of a single tree and send solitary foragers into its crown.",
+   "fieldMarks": [
+    "Very large reddish-black ant",
+    "Large head with strong jaws",
+    "Club-shaped tip to the antennae (clavata, 'club-bearing')",
+    "Single node between thorax and abdomen with a visible sting"
+   ],
+   "lookalikes": "Giant Amazonian ants (Dinoponera) are larger, all black and lack clubbed antennae. Ectatomma and Neoponera species are smaller.",
+   "whereToSee": "Tree bases along rainforest trails in Costa Rica (La Selva), Panama and Amazonian Peru and Ecuador.",
+   "season": "Year-round",
+   "order": "Hymenoptera"
+  },
+  "iucn": "NE",
+  "lore": "In the Sateré-Mawé initiation, young men wear woven gloves filled with sedated bullet ants, stingers pointing inward, for several minutes at a time, repeating the ordeal many times over months.",
+  "funFact": "The Spanish name 'veinticuatro' (twenty-four) refers to the claim that the pain of one sting lasts 24 hours."
+ },
+ {
+  "slug": "anopheles-gambiae",
+  "scientific": "Anopheles gambiae",
+  "common": "African malaria mosquito",
+  "otherNames": [
+   "Mbu (Swahili)",
+   "Moustique anophèle (French)",
+   "Sauro (Hausa, mosquitoes generally)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Culicidae",
+  "shelves": [
+   "deadly"
+  ],
+  "summary": "A small mosquito that is one of the deadliest animals on Earth because its females transmit the malaria parasite Plasmodium falciparum. Malaria still kills around 600,000 people a year, most of them children in sub-Saharan Africa.",
+  "nativeRange": "Sub-Saharan Africa",
+  "regions": [
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Savanna",
+   "Farmland",
+   "Villages",
+   "Wetlands"
+  ],
+  "abilities": [
+   "Females strongly prefer human blood and bite mainly at night, often indoors",
+   "Larvae develop in small, sunlit, temporary pools such as puddles and hoofprints, in about a week",
+   "Transmits Plasmodium falciparum, the most lethal malaria parasite",
+   "Some populations have evolved resistance to the insecticides on bed nets"
+  ],
+  "animal": {
+   "diet": "Females take blood (mainly human) to develop eggs; both sexes drink nectar and plant juices",
+   "habitat": "Near people in rural and peri-urban Africa; larvae in shallow, sunny standing water",
+   "lifespan": "Adult females about 2–4 weeks",
+   "size": "About 4–5 mm",
+   "behaviour": "Males gather in dusk swarms over landmarks, and females fly into the swarm to mate once.",
+   "fieldMarks": [
+    "Rests with body angled steeply to the surface, proboscis and body in a straight line",
+    "Wings spotted with pale and dark scales",
+    "Female palps as long as the proboscis",
+    "Larvae lie flat beneath the water surface (no breathing siphon)"
+   ],
+   "lookalikes": "Anopheles coluzzii and A. arabiensis are sibling species that look identical and are told apart only by DNA. Culex mosquitoes rest with the body parallel to the surface and have unspotted wings.",
+   "whereToSee": "Villages and farmland across tropical Africa, especially in the rainy season.",
+   "season": "Peaks in the rainy season when temporary pools form",
+   "order": "Diptera"
+  },
+  "iucn": "NE",
+  "lore": "Ronald Ross showed in 1897 that Anopheles mosquitoes carry malaria, winning a Nobel Prize in 1902. A member of the A. gambiae complex that invaded north-eastern Brazil in 1930 was eradicated by a campaign led by Fred Soper by 1940.",
+  "funFact": "In 2018 a gene drive targeting the doublesex gene crashed caged populations of A. gambiae to zero within 7–11 generations."
+ },
+ {
+  "slug": "musca-domestica",
+  "scientific": "Musca domestica",
+  "common": "House fly",
+  "otherNames": [
+   "Makkhi (Urdu/Hindi)",
+   "Dhubab (Arabic)",
+   "Mosca doméstica (Spanish)",
+   "Stubenfliege (German)",
+   "Cāngying (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Insect",
+  "family": "Muscidae",
+  "shelves": [],
+  "summary": "Probably the most widespread insect in human company, breeding in dung and rotting waste wherever people live. It tastes with its feet, eats by spitting digestive juices onto food, and can carry the germs of typhoid, cholera and dysentery on its body.",
+  "nativeRange": "Probably originated in the Middle East or Central Asia; now worldwide wherever people live",
+  "regions": [
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Human settlements",
+   "Farms",
+   "Rubbish dumps"
+  ],
+  "abilities": [
+   "Completes egg-to-adult development in about a week in warm weather",
+   "Tastes food with sensory hairs on its feet",
+   "Females lay roughly 500 eggs in batches over their lives",
+   "Mechanically spreads disease-causing bacteria, viruses and parasites",
+   "Larvae can convert manure and food waste into protein-rich biomass"
+  ],
+  "animal": {
+   "diet": "Adults liquefy food with saliva and sponge it up: sugars, rotting matter, dung, food scraps; larvae feed in manure and decaying waste",
+   "habitat": "Homes, farms, markets and anywhere with garbage or manure",
+   "lifespan": "Adults about 2–4 weeks",
+   "size": "About 6–7 mm",
+   "behaviour": "It cannot bite or chew; instead it regurgitates digestive fluid onto food and laps it up with a sponge-like mouth.",
+   "fieldMarks": [
+    "Grey thorax with four dark lengthwise stripes",
+    "Large reddish-brown eyes (closer together in males)",
+    "Abdomen grey to yellowish with a dark midline",
+    "A sharp upward bend in the fourth long wing vein"
+   ],
+   "lookalikes": "Lesser house fly (Fannia canicularis) is smaller and flies in slow circles under lights. Stable fly (Stomoxys calcitrans) has a forward-pointing piercing proboscis and bites. Flesh flies (Sarcophagidae) are larger with three thorax stripes and a chequered abdomen.",
+   "whereToSee": "Practically anywhere people live, especially near livestock and waste.",
+   "season": "Year-round in warm places; summer peak in temperate regions",
+   "order": "Diptera"
+  },
+  "iucn": "NE",
+  "lore": "The Philistine god Baal-zebub, 'Lord of the Flies' in 2 Kings, became the Beelzebub of later Jewish and Christian tradition; William Golding borrowed the phrase for his 1954 novel.",
+  "historicalNames": [
+   "Musca",
+   "Mouche",
+   "Flie"
+  ],
+  "funFact": "Its maggots are now farmed in some countries to turn manure and food waste into protein feed for poultry and fish."
+ },
+ {
+  "slug": "theraphosa-blondi",
+  "scientific": "Theraphosa blondi",
+  "common": "Goliath birdeater",
+  "otherNames": [
+   "Mygale de Leblond (French)",
+   "Tarántula Goliat (Spanish)",
+   "Aranha-golias (Portuguese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Arachnid",
+  "family": "Theraphosidae",
+  "shelves": [
+   "venomous",
+   "marvel",
+   "edible"
+  ],
+  "summary": "The heaviest spider in the world, a tarantula of northern South American rainforests that can weigh over 150 g with a leg span near 30 cm. Despite its name it seldom eats birds, feeding mostly on earthworms, insects and frogs.",
+  "nativeRange": "Northern South America: Venezuela, Guyana, Suriname, French Guiana and northern Brazil",
+  "regions": [
+   "South America"
+  ],
+  "biomes": [
+   "Tropical rainforest"
+  ],
+  "abilities": [
+   "Heaviest spider known, recorded at over 170 g",
+   "Flicks clouds of barbed, irritating hairs from its abdomen at attackers",
+   "Makes a loud hissing sound by rubbing bristles on its legs",
+   "Fangs about 2–4 cm long"
+  ],
+  "animal": {
+   "diet": "Earthworms, large insects, frogs, lizards and small rodents; birds only rarely",
+   "habitat": "Deep burrows in moist soil of swampy or upland rainforest",
+   "lifespan": "Females 15–25 years; males only a few years",
+   "size": "Leg span up to about 28–30 cm; body up to about 12 cm",
+   "behaviour": "It sits at its burrow entrance at night and ambushes passing prey, detecting vibrations through silk threads laid around the opening.",
+   "fieldMarks": [
+    "Enormous, heavy-bodied, hairy brown tarantula",
+    "Uniform brown with faint pale rings on the legs",
+    "Large, rounded abdomen with a bald patch where irritating hairs have been flicked",
+    "Mature males lack the tibial hooks found in similar Theraphosa"
+   ],
+   "lookalikes": "Pinkfoot goliath (Theraphosa apophysis) has pinkish feet and males with tibial hooks. Burgundy goliath (T. stirmi) is darker with reddish hairs. Giant huntsman (Heteropoda maxima) of Laos has a wider leg span but is flat and lightweight.",
+   "whereToSee": "Rainforests of Guyana, Suriname and southern Venezuela; often kept in zoos and by tarantula hobbyists.",
+   "season": "Year-round; nocturnal",
+   "order": "Araneae"
+  },
+  "iucn": "NE",
+  "edibility": "edible-with-care",
+  "edibleParts": [
+   "body and legs (roasted)"
+  ],
+  "edibilityNote": "Eaten roasted by Indigenous peoples of Venezuela and Guyana, who first singe off the irritating hairs; the hairs can injure eyes and skin.",
+  "lore": "The name 'bird-eater' traces back to Maria Sibylla Merian's 1705 Metamorphosis insectorum Surinamensium, which showed a large tarantula eating a hummingbird in Suriname.",
+  "funFact": "Its venom is weak to humans, roughly comparable to a wasp sting; the hairs it flicks are usually the bigger nuisance."
+ },
+ {
+  "slug": "latrodectus-mactans",
+  "scientific": "Latrodectus mactans",
+  "common": "Southern black widow",
+  "otherNames": [
+   "Viuda negra (Spanish)",
+   "Veuve noire (French)",
+   "Shoe-button spider (old American English)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Arachnid",
+  "family": "Theridiidae",
+  "shelves": [
+   "venomous",
+   "deadly"
+  ],
+  "summary": "A glossy black spider with a red hourglass on its belly, carrying one of the most potent spider venoms in North America. Its neurotoxin, α-latrotoxin, causes intense muscle pain and cramps, although deaths are now very rare.",
+  "nativeRange": "South-eastern United States, from Florida north to about New York and west to Texas and Oklahoma",
+  "regions": [
+   "North America"
+  ],
+  "biomes": [
+   "Woodland",
+   "Scrub",
+   "Buildings",
+   "Farmland"
+  ],
+  "abilities": [
+   "Venom contains α-latrotoxin, which makes nerve endings release neurotransmitter in a flood",
+   "Builds strong, irregular cobwebs with sticky gumfoot lines that snare walking prey",
+   "Silk is exceptionally strong and fine"
+  ],
+  "animal": {
+   "diet": "Insects and other arthropods such as beetles, crickets and other spiders",
+   "habitat": "Dark, sheltered spots: woodpiles, rock walls, sheds, outhouses and under ledges",
+   "lifespan": "Females 1–3 years; males a few months",
+   "size": "Female body about 8–13 mm; male much smaller",
+   "behaviour": "Females hang upside down in their webs and display the red hourglass; cannibalism of males after mating happens but is less common in the wild than its reputation suggests.",
+   "fieldMarks": [
+    "Female shiny jet-black with a round abdomen",
+    "Complete red hourglass on the underside of the abdomen",
+    "Often a red spot just above the spinnerets on the back",
+    "Messy, tangled web near the ground"
+   ],
+   "lookalikes": "Northern black widow (Latrodectus variolus) has its hourglass split into two separate marks and a row of red spots on the back. Western black widow (L. hesperus) lives further west. False widows (Steatoda) are brownish and lack the red hourglass.",
+   "whereToSee": "Woodpiles, stone walls and outbuildings in the south-eastern US; look with a torch at night, but never touch or handle.",
+   "season": "Year-round in the south; most noticed late summer and autumn",
+   "order": "Araneae"
+  },
+  "iucn": "NE",
+  "lore": "The genus name Latrodectus means roughly 'robber-biter' and mactans 'murderous'. During the Second World War, black widow silk was used for the crosshairs of gun and bomb sights.",
+  "funFact": "Bites cause latrodectism: severe cramping abdominal pain that has been mistaken for appendicitis; an antivenom exists for serious cases."
+ },
+ {
+  "slug": "maratus-volans",
+  "scientific": "Maratus volans",
+  "common": "Peacock spider",
+  "otherNames": [
+   "Flying peacock spider (English)",
+   "Pfauenspinne (German)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Arachnid",
+  "family": "Salticidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "A jumping spider about 5 mm long whose males raise a brilliantly coloured flap on the abdomen like a peacock's fan and dance for females. If the female is not impressed she may eat him.",
+  "nativeRange": "Eastern Australia, mainly coastal New South Wales and south-eastern Queensland",
+  "regions": [
+   "Australia"
+  ],
+  "biomes": [
+   "Heath",
+   "Open woodland",
+   "Coastal scrub"
+  ],
+  "abilities": [
+   "Males unfold and raise iridescent abdominal flaps during courtship",
+   "Combines visual display with vibrations drummed through the ground",
+   "Excellent vision, including colour vision, typical of jumping spiders"
+  ],
+  "animal": {
+   "diet": "Small insects and other arthropods, stalked and pounced on",
+   "habitat": "Leaf litter and low vegetation in heath, scrub and woodland",
+   "lifespan": "About one year",
+   "size": "About 4–5 mm",
+   "behaviour": "The male lifts his third pair of legs, raises his patterned flap, and sidesteps and shimmies in front of the female.",
+   "fieldMarks": [
+    "Tiny jumping spider with large front eyes",
+    "Male abdomen patterned in red, orange, blue and green, with fold-out side flaps",
+    "Male third legs black with white tips, raised in display",
+    "Females mottled brown and grey"
+   ],
+   "lookalikes": "Dozens of other Maratus species, most described since 2010, differ in the pattern and colours of the male's fan; females are very hard to tell apart.",
+   "whereToSee": "Heath and bushland around Sydney (e.g. Ku-ring-gai Chase National Park) and in south-east Queensland.",
+   "season": "Mature males Aug–Dec, displaying in the austral spring",
+   "order": "Araneae"
+  },
+  "iucn": "NE",
+  "lore": "Octavius Pickard-Cambridge described it in 1874 and named it volans, 'flying', after a collector's report that the flaps helped it glide. The photographs and films of Jürgen Otto made peacock spiders internet-famous from the 2010s.",
+  "funFact": "Its flaps cannot be used for gliding at all; they are purely for courtship."
+ },
+ {
+  "slug": "argiope-bruennichi",
+  "scientific": "Argiope bruennichi",
+  "common": "Wasp spider",
+  "otherNames": [
+   "Wespenspinne (German)",
+   "Argiope frelon (French)",
+   "Araña tigre (Spanish)",
+   "Nagakoganegumo (Japanese)",
+   "Héngwén jīnzhū (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Arachnid",
+  "family": "Araneidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "A large orb-weaving spider striped like a wasp in yellow, black and white, that decorates its web with a bold zig-zag band of silk. It has spread rapidly northward across Europe in recent decades.",
+  "nativeRange": "Europe, North Africa and temperate Asia to Japan; expanding northward",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "Central Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Temperate grassland",
+   "Meadows",
+   "Wetland edge",
+   "Road verges"
+  ],
+  "abilities": [
+   "Builds a zig-zag silk band (stabilimentum) whose function is debated, possibly deterring birds or attracting prey",
+   "Spiderlings disperse by 'ballooning' on silk threads carried by the wind",
+   "Males often mate with females just after their final moult, when females are least dangerous"
+  ],
+  "animal": {
+   "diet": "Grasshoppers, crickets, flies, bees and other flying or jumping insects",
+   "habitat": "Tall grass in sunny meadows, heath, dunes and verges",
+   "lifespan": "About one year",
+   "size": "Females about 1.4–1.7 cm body length (up to about 2.5 cm); males about 0.5 cm",
+   "behaviour": "Males are frequently cannibalised by females during mating, and often leave part of their palp in the female as a mating plug.",
+   "fieldMarks": [
+    "Female abdomen striped yellow, black and white like a wasp",
+    "Silvery-haired cephalothorax",
+    "Banded legs held in an X shape at the hub of the web",
+    "Orb web low in grass with a vertical zig-zag silk band"
+   ],
+   "lookalikes": "Lobed argiope (Argiope lobata) of southern Europe has a silvery, scalloped abdomen. The North American banded garden spider (A. trifasciata) has thinner stripes. Garden spiders (Araneus) lack the bold stripes.",
+   "whereToSee": "Rough grassland and coastal meadows across Europe; now common in southern England.",
+   "season": "Adults Jul–Oct",
+   "order": "Araneae"
+  },
+  "iucn": "NE",
+  "lore": "Giovanni Scopoli named it in 1772 after the Danish zoologist Morten Thrane Brünnich. Its arrival in Britain was first noted in the early 20th century, and its range expansion is now followed as a sign of climate change.",
+  "funFact": "Its egg sac is a brown, paper-like urn hung among grass stems, in which the young overwinter before emerging in spring."
+ },
+ {
+  "slug": "leiurus-quinquestriatus",
+  "scientific": "Leiurus quinquestriatus",
+  "common": "Deathstalker",
+  "otherNames": [
+   "Akrab asfar (Arabic)",
+   "Gelber Mittelmeerskorpion (German)",
+   "Scorpion jaune (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Arachnid",
+  "family": "Buthidae",
+  "shelves": [
+   "venomous",
+   "deadly",
+   "marvel"
+  ],
+  "summary": "A slender straw-yellow scorpion of north-east African deserts whose venom is among the most dangerous of any scorpion. The same venom has yielded chlorotoxin, a molecule now used to make brain tumours glow during surgery.",
+  "nativeRange": "North-eastern Africa, chiefly Egypt and Sudan into the Horn of Africa; related Leiurus species formerly included in it range across Arabia and the Levant",
+  "regions": [
+   "North Africa",
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Desert",
+   "Dry scrub"
+  ],
+  "abilities": [
+   "Venom mixes several neurotoxins that can cause intense pain, convulsions, heart failure and pulmonary oedema",
+   "Chlorotoxin from its venom binds selectively to glioma cells and is used in tumour-imaging agents",
+   "Glows blue-green under ultraviolet light, like all scorpions",
+   "Can survive long periods without food"
+  ],
+  "animal": {
+   "diet": "Insects, spiders, other scorpions and small invertebrates",
+   "habitat": "Dry, rocky or sandy desert and scrub; shelters under stones and in burrows",
+   "size": "About 3–8 cm",
+   "behaviour": "It hunts at night, relying on venom rather than its slender pincers to subdue prey.",
+   "fieldMarks": [
+    "Straw-yellow to pale yellow-brown body",
+    "Slender, weak-looking pincers",
+    "Long, thin tail with a darker last segment and sting",
+    "Five keels (ridges) along the back, giving the name quinquestriatus, 'five-striped'"
+   ],
+   "lookalikes": "Other Leiurus species (e.g. L. hebraeus in the Levant) are separated by fine details and range. Fat-tailed scorpions (Androctonus) have much thicker tails and are often darker. Buthus species are similar but have different ridge patterns.",
+   "whereToSee": "Rocky desert in Egypt and Sudan, where it glows under ultraviolet light at night; best seen in zoos. Never handle it, and shake out shoes and bedding in its range.",
+   "season": "Year-round; most active on warm nights",
+   "order": "Scorpiones"
+  },
+  "iucn": "NE",
+  "lore": "Scorpions were the emblem of Serqet, the ancient Egyptian goddess who healed stings and venomous bites. A peptide toxin from this scorpion's venom, charybdotoxin, became a standard tool for studying potassium channels.",
+  "funFact": "An imaging drug derived from chlorotoxin, nicknamed 'Tumor Paint', has been tested in clinical trials to help surgeons see the edges of brain tumours."
+ },
+ {
+  "slug": "hottentotta-tamulus",
+  "scientific": "Hottentotta tamulus",
+  "common": "Indian red scorpion",
+  "otherNames": [
+   "Bichhu (Hindi/Urdu)",
+   "Vinchu (Marathi)",
+   "Thel (Tamil)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Arachnid",
+  "family": "Buthidae",
+  "shelves": [
+   "venomous",
+   "deadly"
+  ],
+  "summary": "A reddish-brown scorpion of rural India and Pakistan, often described as the most lethal scorpion in the world. Its venom triggers a storm in the nervous system that damages the heart and lungs, but cheap treatment with the drug prazosin has made deaths far rarer.",
+  "nativeRange": "India, Pakistan and eastern Nepal",
+  "regions": [
+   "South Asia"
+  ],
+  "biomes": [
+   "Dry scrub",
+   "Farmland",
+   "Villages"
+  ],
+  "abilities": [
+   "Venom causes a massive release of adrenaline-like hormones (autonomic storm)",
+   "Stings can cause high blood pressure, heart failure and fluid on the lungs",
+   "Thrives around village houses, cattle sheds and stone walls"
+  ],
+  "animal": {
+   "diet": "Insects and other small invertebrates",
+   "habitat": "Rubble, crevices in mud and stone walls, under stones, and inside village houses",
+   "size": "About 5–9 cm",
+   "behaviour": "It hunts at night and often hides in shoes, clothing and bedding, where most human stings happen.",
+   "fieldMarks": [
+    "Reddish- to orange-brown body",
+    "Relatively slender pincers",
+    "Thick, segmented tail with prominent ridges",
+    "Dark-grey keels on the back of the abdomen"
+   ],
+   "lookalikes": "Giant forest scorpions (Heterometrus) are larger, shiny black with massive pincers and much weaker venom. Other Hottentotta and Lychas species are smaller or differently patterned.",
+   "whereToSee": "Rural areas of Maharashtra, Gujarat, Tamil Nadu and Andhra Pradesh; most stings occur in the hot season and monsoon.",
+   "season": "Year-round; most encountered in summer and monsoon",
+   "order": "Scorpiones"
+  },
+  "iucn": "NE",
+  "lore": "The rural Maharashtra physician Himmatrao Bawaskar showed from the 1980s that prazosin, a blood-pressure drug, counteracts the venom; in his patient series, death rates fell from around 30–40% to under 1%.",
+  "funFact": "Children are at greatest risk, because the same dose of venom is far more concentrated in a small body."
+ },
+ {
+  "slug": "argyroneta-aquatica",
+  "scientific": "Argyroneta aquatica",
+  "common": "Diving bell spider",
+  "otherNames": [
+   "Wasserspinne (German)",
+   "Argyronète (French)",
+   "Araña de agua (Spanish)",
+   "Mizugumo (Japanese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Arachnid",
+  "family": "Argyronetidae",
+  "shelves": [
+   "freshwater",
+   "marvel"
+  ],
+  "summary": "The only spider that lives almost entirely underwater. It spins a silk 'diving bell' among water plants, fills it with air carried down from the surface, and eats, moults, mates and raises young inside.",
+  "nativeRange": "Europe and northern Asia, east to Japan",
+  "regions": [
+   "Europe",
+   "West Asia",
+   "Central Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Ponds",
+   "Fens",
+   "Wetlands",
+   "Slow streams"
+  ],
+  "abilities": [
+   "Carries air down on its hairy abdomen, which looks silver underwater",
+   "Its bell works as a physical gill: oxygen diffuses in from the water, so it needs to refill only rarely",
+   "Males are larger than females, unusual among spiders",
+   "Overwinters in a sealed bell or empty snail shell"
+  ],
+  "animal": {
+   "diet": "Aquatic insects, water lice and other small aquatic animals",
+   "habitat": "Clean, still or slow water with dense submerged plants",
+   "lifespan": "About 2 years",
+   "size": "About 8–15 mm; males larger",
+   "behaviour": "It waits in its bell with legs touching silk lines, then darts out to seize passing prey and drags it inside to eat.",
+   "fieldMarks": [
+    "Spider moving underwater with a shining silver air bubble around its abdomen",
+    "Dull dark-brown, velvety body",
+    "Thimble-sized silvery bell of silk among water plants",
+    "Long, fine hairs on legs and abdomen"
+   ],
+   "lookalikes": "Raft spiders (Dolomedes) are larger, striped, and hunt on the water surface rather than living below it. Pirate wolf spiders (Pirata) dive briefly but live on land.",
+   "whereToSee": "Clean, plant-rich ponds and fen ditches in Europe, e.g. the Norfolk Broads and Somerset Levels in England.",
+   "season": "Year-round; most active spring to autumn",
+   "order": "Araneae"
+  },
+  "iucn": "NT",
+  "lore": "Carl Clerck described it in Svenska Spindlar (1757), the work that is the official starting point for scientific names of spiders.",
+  "funFact": "Measurements in 2011 showed a diving bell spider can stay in its bell for more than a day without surfacing, because oxygen seeps into the bubble from the surrounding water."
+ },
+ {
+  "slug": "enteroctopus-dofleini",
+  "scientific": "Enteroctopus dofleini",
+  "common": "Giant Pacific octopus",
+  "otherNames": [
+   "Mizudako (Japanese)",
+   "Daemuneo (Korean)",
+   "Gigantskiy osminog (Russian)",
+   "Pulpo gigante (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mollusc",
+  "family": "Enteroctopodidae",
+  "shelves": [
+   "ocean",
+   "marvel",
+   "edible"
+  ],
+  "summary": "The largest octopus in the world, with an arm span that can reach about 4 m. Clever and curious, it lives only 3–5 years, and a female dies after guarding her eggs for half a year without eating.",
+  "nativeRange": "Temperate North Pacific, from Japan and Korea through the Russian Far East and Aleutians to Alaska, British Columbia and California",
+  "regions": [
+   "Pacific Ocean",
+   "East Asia",
+   "North America"
+  ],
+  "biomes": [
+   "Rocky reef",
+   "Kelp forest",
+   "Continental shelf"
+  ],
+  "abilities": [
+   "Largest octopus species; adults commonly 10–50 kg",
+   "Changes skin colour and texture in a fraction of a second",
+   "Captive individuals recognise and respond differently to particular people",
+   "Can squeeze through any gap larger than its beak",
+   "Each sucker can taste and grip independently"
+  ],
+  "animal": {
+   "diet": "Crabs, clams, scallops, snails, fish and occasionally sharks and seabirds",
+   "habitat": "Rocky dens from the intertidal zone down to around 2,000 m",
+   "lifespan": "About 3–5 years",
+   "size": "Typically 10–50 kg with an arm span of up to about 4 m; verified records reach about 70 kg",
+   "behaviour": "A brooding female hangs strings of up to tens of thousands of eggs from her den roof and cleans and aerates them for about six months before dying soon after they hatch.",
+   "fieldMarks": [
+    "Very large octopus, reddish-brown when relaxed",
+    "Wrinkled, folded skin with small flap-like papillae",
+    "Paddle-shaped papillae near the eyes",
+    "Piles of crab shells and clam shells (a 'midden') outside the den"
+   ],
+   "lookalikes": "East Pacific red octopus (Octopus rubescens) is much smaller (rarely over 0.5 kg) with three eyelash-like papillae under each eye. Large size alone usually identifies the giant Pacific.",
+   "whereToSee": "Cold-water dive sites in Puget Sound and British Columbia (e.g. Browning Pass, Seattle's Seacrest Park); public aquariums.",
+   "season": "Year-round",
+   "order": "Octopoda"
+  },
+  "iucn": "LC",
+  "edibility": "edible",
+  "edibleParts": [
+   "arms (boiled, raw as sashimi)"
+  ],
+  "edibilityNote": "Fished in Japan (Hokkaido), Korea and Alaska and eaten boiled or raw.",
+  "lore": "It is named after Franz Doflein, a German zoologist who studied the marine life of Japan around 1904–05. In Hokkaido it has long been caught in traditional octopus pots.",
+  "funFact": "About two-thirds of its nerve cells lie in its arms rather than its brain, so each arm can taste, grip and react partly on its own."
+ },
+ {
+  "slug": "sepia-officinalis",
+  "scientific": "Sepia officinalis",
+  "common": "Common cuttlefish",
+  "otherNames": [
+   "Seiche (French)",
+   "Sepia / Choco (Spanish)",
+   "Seppia (Italian)",
+   "Sübye (Turkish)",
+   "Habbar (Arabic)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mollusc",
+  "family": "Sepiidae",
+  "shelves": [
+   "ocean",
+   "marvel",
+   "edible"
+  ],
+  "summary": "A master of disguise that can change colour, pattern and even skin texture in under a second, despite being colour-blind. Its ink gave artists the pigment sepia, and its internal shell, the cuttlebone, washes up on European beaches.",
+  "nativeRange": "Eastern Atlantic from the North Sea and Baltic approaches south to north-west Africa; Mediterranean Sea",
+  "regions": [
+   "Atlantic Ocean",
+   "Europe",
+   "North Africa"
+  ],
+  "biomes": [
+   "Coastal seagrass",
+   "Sandy and muddy sea floor",
+   "Rocky reef"
+  ],
+  "abilities": [
+   "Millions of chromatophores give rapid, patterned colour change",
+   "Raises skin papillae to mimic rocks and seaweed",
+   "Sees polarised light and uses it in signalling",
+   "Adjusts buoyancy by pumping fluid in and out of its chambered cuttlebone",
+   "Ejects clouds of melanin ink"
+  ],
+  "animal": {
+   "diet": "Shrimps, crabs and small fish, caught with two shooting tentacles",
+   "habitat": "Shallow coastal waters, seagrass and sandy bottoms, down to about 200 m",
+   "lifespan": "About 1–2 years",
+   "size": "Mantle up to about 45 cm; weight up to about 4 kg",
+   "behaviour": "In spring, adults move inshore to spawn; small males have been reported to mimic females to slip past large rival males and mate, a tactic better known in the giant Australian cuttlefish.",
+   "fieldMarks": [
+    "Broad, oval, flattened body with a narrow fin running around the entire edge",
+    "W-shaped pupils",
+    "Eight short arms plus two long feeding tentacles",
+    "Breeding males show bold black-and-white 'zebra' stripes"
+   ],
+   "lookalikes": "Elegant cuttlefish (Sepia elegans) and pink cuttlefish (S. orbignyana) are smaller and pinkish, with a sharp spine at the rear of the cuttlebone. Squid have fins only at the tail end, and octopuses have no fins.",
+   "whereToSee": "Seagrass and sandy bays in the Mediterranean and along the English Channel and Biscay coasts; cuttlebones on beaches in summer.",
+   "season": "Inshore spawning Apr–Jul",
+   "order": "Sepiida"
+  },
+  "iucn": "LC",
+  "edibility": "edible",
+  "edibleParts": [
+   "mantle, arms, ink"
+  ],
+  "edibilityNote": "Eaten grilled, fried and stewed across the Mediterranean; the ink colours black rice and pasta dishes.",
+  "lore": "Aristotle described its ink, mating and egg-laying in his History of Animals. Brown 'sepia' ink made from it was used for writing and drawing, and the name of the genus became a word for the colour.",
+  "historicalNames": [
+   "Sepia",
+   "Sèche",
+   "Cuttle-fish"
+  ],
+  "funFact": "Its cuttlebone is sold as a calcium supplement for caged birds."
+ },
+ {
+  "slug": "nautilus-pompilius",
+  "scientific": "Nautilus pompilius",
+  "common": "Chambered nautilus",
+  "otherNames": [
+   "Emperor nautilus (English)",
+   "Ōmugai (Japanese)",
+   "Yīngwǔluó (Chinese)",
+   "Nautile flambé (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mollusc",
+  "family": "Nautilidae",
+  "shelves": [
+   "ocean",
+   "ancient",
+   "endangered",
+   "marvel"
+  ],
+  "summary": "A living relative of the ammonites, carrying a coiled, chambered shell striped with flame-like bands. Its lineage has changed little for hundreds of millions of years, but demand for its shells has driven heavy local declines.",
+  "nativeRange": "Tropical Indo-West Pacific: the Philippines, Indonesia, New Guinea, northern and eastern Australia, and Melanesia",
+  "regions": [
+   "Pacific Ocean",
+   "Indian Ocean",
+   "Southeast Asia",
+   "Australia",
+   "Oceania"
+  ],
+  "biomes": [
+   "Deep coral reef slope"
+  ],
+  "abilities": [
+   "Controls buoyancy by moving fluid and gas through its shell chambers via a tube called the siphuncle",
+   "Has about 90 suckerless tentacles",
+   "Pinhole-camera eyes with no lens",
+   "Lives far longer than most cephalopods, possibly 15–20 years"
+  ],
+  "animal": {
+   "diet": "Scavenges dead fish, crustaceans, moulted crab shells and carrion",
+   "habitat": "Steep reef slopes from about 100 m to over 500 m, rising shallower at night",
+   "lifespan": "Possibly 15–20 years",
+   "size": "Shell usually about 15–20 cm across; exceptionally to about 25 cm",
+   "behaviour": "It moves by jet propulsion, rising up reef walls at night to feed and sinking deeper by day, possibly to avoid predators and warm water.",
+   "fieldMarks": [
+    "Smooth, coiled, cream-white shell with orange-brown tiger stripes fading towards the opening",
+    "Closed centre of the coil (no open navel)",
+    "Leathery hood over the head",
+    "Many slender tentacles"
+   ],
+   "lookalikes": "Crusty nautilus (Allonautilus scrobiculatus) has an open navel and a hairy shell covering. Palau nautilus (N. belauensis) and New Caledonian nautilus (N. macromphalus) differ in shell shape and range.",
+   "whereToSee": "Deep reef walls in Palau, the Philippines and the Coral Sea (Osprey Reef), usually by baited camera; public aquariums.",
+   "season": "Year-round",
+   "order": "Nautilida"
+  },
+  "iucn": "VU",
+  "lore": "Georg Rumphius described the nautilus in D'Amboinsche Rariteitkamer (1705). Renaissance goldsmiths mounted the shells as ornate 'nautilus cups' for European cabinets of curiosities.",
+  "historicalNames": [
+   "Nautilus",
+   "Pompilus",
+   "Nautilus cup"
+  ],
+  "funFact": "Its shell is a logarithmic spiral, but measurements show it does not follow the golden ratio, despite the popular claim."
+ },
+ {
+  "slug": "tridacna-gigas",
+  "scientific": "Tridacna gigas",
+  "common": "Giant clam",
+  "otherNames": [
+   "Kima (Malay/Indonesian)",
+   "Taklobo (Tagalog)",
+   "Shako-gai (Japanese)",
+   "Bénitier (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mollusc",
+  "family": "Cardiidae",
+  "shelves": [
+   "ocean",
+   "endangered",
+   "edible",
+   "marvel"
+  ],
+  "summary": "The largest living clam, reaching over 1.3 m long and 200 kg, that farms algae in its own flesh. Sunlight on its colourful mantle feeds the algae, which in turn feed the clam.",
+  "nativeRange": "Tropical Indo-Pacific: Great Barrier Reef, the Philippines, Indonesia, Micronesia and Melanesia; extinct in several former parts of its range",
+  "regions": [
+   "Pacific Ocean",
+   "Indian Ocean",
+   "Southeast Asia",
+   "Australia",
+   "Oceania"
+  ],
+  "biomes": [
+   "Coral reef",
+   "Lagoon"
+  ],
+  "abilities": [
+   "Hosts symbiotic zooxanthellae algae in its mantle, which supply most of its food",
+   "Iridescent cells in the mantle spread and shield light for the algae",
+   "One of the longest-lived invertebrates, possibly over 100 years",
+   "Filters plankton from seawater"
+  ],
+  "animal": {
+   "diet": "Sugars from symbiotic algae, plus filtered plankton",
+   "habitat": "Sandy patches and reef flats in clear, shallow water, usually less than 20 m deep",
+   "lifespan": "Possibly 100 years or more",
+   "size": "Shell up to about 1.4 m; weight over 200 kg",
+   "behaviour": "Adults sit hinge-down on sand, unattached, and spawn by releasing clouds of eggs and sperm into the water.",
+   "fieldMarks": [
+    "Huge, heavy shell with four to six broad, deep folds",
+    "Wavy, interlocking shell margin",
+    "Golden-brown to olive mantle with iridescent blue-green spots",
+    "Lies free on the bottom; large adults cannot close fully"
+   ],
+   "lookalikes": "Smooth giant clam (Tridacna derasa) has a smoother shell with lower ribs. Fluted giant clam (T. squamosa) has rows of scale-like flutes. Small giant clams (T. maxima, T. crocea) are much smaller and bore into coral.",
+   "whereToSee": "Reefs of the northern Great Barrier Reef (e.g. Lizard Island), Palau, and restocking sites in the Philippines (Bolinao, Pangasinan).",
+   "season": "Year-round",
+   "order": "Cardiida"
+  },
+  "iucn": "CR",
+  "edibility": "edible",
+  "edibleParts": [
+   "adductor muscle, mantle"
+  ],
+  "edibilityNote": "The adductor muscle is prized in Asian cuisine; overharvesting for meat and shells caused its collapse. Only farmed animals should be eaten.",
+  "lore": "Giant clam shells serve as holy-water fonts (bénitiers) in European churches, notably the pair in Saint-Sulpice, Paris, said to be a gift from the Republic of Venice to King Francis I.",
+  "funFact": "The 'man-eating clam' that traps divers is a myth; adults close too slowly to trap anyone, and there is no reliable record of a death."
+ },
+ {
+  "slug": "hapalochlaena-lunulata",
+  "scientific": "Hapalochlaena lunulata",
+  "common": "Greater blue-ringed octopus",
+  "otherNames": [
+   "Hyōmon-dako (Japanese, blue-ringed octopuses)",
+   "Gurita cincin biru (Indonesian)",
+   "Pieuvre à anneaux bleus (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mollusc",
+  "family": "Octopodidae",
+  "shelves": [
+   "ocean",
+   "venomous",
+   "deadly",
+   "marvel"
+  ],
+  "summary": "A golf-ball-sized octopus that flashes vivid blue rings when alarmed. Its saliva carries tetrodotoxin, a nerve poison that can paralyse and kill an adult human within minutes to hours, and there is no antivenom.",
+  "nativeRange": "Tropical western Pacific and eastern Indian Ocean: northern Australia, Indonesia, the Philippines, New Guinea, the Solomon Islands and Vanuatu, north to southern Japan",
+  "regions": [
+   "Pacific Ocean",
+   "Indian Ocean",
+   "Southeast Asia",
+   "Australia",
+   "Oceania"
+  ],
+  "biomes": [
+   "Coral reef",
+   "Rubble and sand flats",
+   "Tide pools"
+  ],
+  "abilities": [
+   "Saliva carries tetrodotoxin produced by symbiotic bacteria",
+   "Flashes about 60 blue rings in a fraction of a second, using muscles that expose reflecting layers",
+   "Bite is often painless, so victims may not notice it",
+   "Can change from drab brown to warning colours instantly"
+  ],
+  "animal": {
+   "diet": "Small crabs, shrimps and fish, subdued by injecting venomous saliva",
+   "habitat": "Shallow reefs, rubble, tide pools and seagrass, often hiding in shells and crevices",
+   "lifespan": "About 1–2 years",
+   "size": "Arm span about 10 cm",
+   "behaviour": "Normally camouflaged in brown and yellow, it displays pulsing blue rings when provoked, a warning to predators.",
+   "fieldMarks": [
+    "Tiny octopus, yellowish-brown at rest",
+    "Large, iridescent blue rings outlined in black, larger than in other blue-ringed species",
+    "Rings flash brightly when the animal is disturbed",
+    "Often found in empty shells or bottles"
+   ],
+   "lookalikes": "Southern blue-ringed octopus (Hapalochlaena maculosa) of southern Australia is smaller with smaller rings. Blue-lined octopus (H. fasciata) has blue lines on the body rather than rings. Treat any blue-ringed octopus as deadly.",
+   "whereToSee": "Muck-diving sites such as Lembeh Strait (Indonesia) and Anilao (Philippines); never handle.",
+   "season": "Year-round",
+   "order": "Octopoda"
+  },
+  "iucn": "LC",
+  "lore": "Blue-ringed octopus bites killed swimmers in Australia in the 1950s and 1960s, and the animal became a pop-culture emblem in the James Bond film Octopussy (1983).",
+  "funFact": "Victims stay conscious while paralysed; people have survived when bystanders gave artificial respiration until the toxin wore off."
+ },
+ {
+  "slug": "conus-geographus",
+  "scientific": "Conus geographus",
+  "common": "Geography cone",
+  "otherNames": [
+   "Geographer cone (English)",
+   "Anboina-gai (Japanese)",
+   "Cône géographe (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mollusc",
+  "family": "Conidae",
+  "shelves": [
+   "ocean",
+   "venomous",
+   "deadly",
+   "marvel"
+  ],
+  "summary": "A beautifully patterned sea snail responsible for most of the recorded human deaths from cone snails. It hunts fish by engulfing them in a net-like mouth after releasing a cocktail of venoms that includes a fast-acting insulin.",
+  "nativeRange": "Tropical Indo-Pacific, from East Africa and the Red Sea to Japan, Australia and Polynesia",
+  "regions": [
+   "Indian Ocean",
+   "Pacific Ocean",
+   "Southeast Asia",
+   "Australia",
+   "Oceania"
+  ],
+  "biomes": [
+   "Coral reef",
+   "Sandy lagoon"
+  ],
+  "abilities": [
+   "Fires a harpoon-like hollow tooth loaded with venom",
+   "Releases weaponised insulin into the water to send nearby fish into hypoglycaemic shock",
+   "Venom contains hundreds of different conotoxin peptides",
+   "Can kill a human; dozens of deaths are documented"
+  ],
+  "animal": {
+   "diet": "Small fish, engulfed in an expandable mouth (rostrum)",
+   "habitat": "Reef flats, lagoons and sandy patches between corals",
+   "size": "Shell up to about 15 cm",
+   "behaviour": "It hunts at night, spreading its false mouth over resting fish, which are sedated by venom and insulin before being stung and swallowed whole.",
+   "fieldMarks": [
+    "Thin, light, broad cone shell with a wide aperture",
+    "Shoulder of the spire crowned with low knobs",
+    "Whitish to pinkish with brown net-like and blotchy bands, like an old map",
+    "Buried in sand by day"
+   ],
+   "lookalikes": "Tulip cone (Conus tulipa) is smaller with a violet-pink tinge; textile cone (C. textile) has a tent-shaped triangular pattern. All cone snails should be treated as dangerous.",
+   "whereToSee": "Indo-Pacific reefs at night; often seen in shell collections. Never pick up a live cone.",
+   "season": "Year-round",
+   "order": "Neogastropoda"
+  },
+  "iucn": "LC",
+  "lore": "Georg Rumphius recorded in 1705 that a woman on Ambon died after holding a live cone shell; Japanese call it Anboina-gai, the 'Ambon shell'.",
+  "funFact": "Fish-hunting cones like this one helped researchers discover very fast-acting insulin forms that are being studied for diabetes treatment."
+ },
+ {
+  "slug": "helix-pomatia",
+  "scientific": "Helix pomatia",
+  "common": "Roman snail",
+  "otherNames": [
+   "Escargot de Bourgogne (French)",
+   "Weinbergschnecke (German)",
+   "Caracol romano (Spanish)",
+   "Winniczek (Polish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mollusc",
+  "family": "Helicidae",
+  "shelves": [
+   "edible"
+  ],
+  "summary": "Europe's largest land snail and the classic escargot de Bourgogne. It seals itself in for winter behind a chalky door and can live for 20 years.",
+  "nativeRange": "Central and south-eastern Europe; introduced in Britain (probably in Roman times), Scandinavia and elsewhere",
+  "regions": [
+   "Europe"
+  ],
+  "biomes": [
+   "Calcareous grassland",
+   "Woodland edge",
+   "Vineyards",
+   "Hedgerows"
+  ],
+  "abilities": [
+   "Seals its shell in winter with a thick, chalky epiphragm",
+   "Shoots a calcium 'love dart' into its partner during courtship",
+   "Hermaphrodite: each snail both gives and receives sperm",
+   "Can live about 20 years or more"
+  ],
+  "animal": {
+   "diet": "Green plants, fallen leaves and fruit",
+   "habitat": "Lime-rich soils: chalk and limestone grassland, open woods, hedgerows and vineyards",
+   "lifespan": "Often 6–10 years in the wild; up to about 20 years or more",
+   "size": "Shell about 4–5 cm high and wide",
+   "behaviour": "Before winter it buries itself in soil and seals the shell opening, slowing its heartbeat and breathing until spring.",
+   "fieldMarks": [
+    "Large, globular shell, creamy-buff to light brown",
+    "Faint, broad, pale brownish bands",
+    "Body pale grey-cream with a coarse, net-like texture",
+    "Lip of the shell only slightly thickened"
+   ],
+   "lookalikes": "Garden snail (Cornu aspersum) is smaller with a glossy brown shell mottled in darker bands. Turkish snail (Helix lucorum) has bold, dark-brown bands.",
+   "whereToSee": "Chalk downs of southern England (e.g. North Downs, Chilterns) and limestone country across central Europe after rain.",
+   "season": "Active Apr–Oct; hibernates in winter",
+   "order": "Stylommatophora"
+  },
+  "iucn": "LC",
+  "edibility": "edible",
+  "edibleParts": [
+   "foot (cooked)"
+  ],
+  "edibilityNote": "Eaten as escargots after purging and cooking. Wild snails are protected in Britain and several other countries, so commercial supplies are farmed or imported.",
+  "lore": "Pliny the Elder credited Fulvius Lippinus with founding the first snail parks near Tarquinia in the 1st century BCE, fattening snails for Roman tables.",
+  "historicalNames": [
+   "Cochlea",
+   "Limaçon",
+   "Escargot"
+  ],
+  "funFact": "Courtship can last hours, the pair circling and caressing each other before one fires its chalky love dart."
+ },
+ {
+  "slug": "ariolimax-columbianus",
+  "scientific": "Ariolimax columbianus",
+  "common": "Pacific banana slug",
+  "otherNames": [
+   "Limace banane (French)",
+   "Babosa banana (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mollusc",
+  "family": "Ariolimacidae",
+  "shelves": [
+   "keystone"
+  ],
+  "summary": "The second-largest slug in the world, a bright yellow giant of the Pacific Northwest rainforest floor. It recycles leaf litter, dung and fungi into soil and spreads seeds and spores as it goes.",
+  "nativeRange": "Pacific coast of North America from south-eastern Alaska to California",
+  "regions": [
+   "North America"
+  ],
+  "biomes": [
+   "Temperate rainforest",
+   "Coniferous forest"
+  ],
+  "abilities": [
+   "Grows to about 25 cm long",
+   "Thick slime protects from drying out and deters predators",
+   "Smells with tentacles and can follow slime trails to find mates",
+   "Hermaphrodite; both partners exchange sperm"
+  ],
+  "animal": {
+   "diet": "Leaf litter, fungi, moss, dead plants and animal droppings",
+   "habitat": "Moist forest floor of conifer and redwood forests",
+   "lifespan": "Several years",
+   "size": "Up to about 25 cm long",
+   "behaviour": "It feeds and moves mostly in cool, wet weather, retreating under logs in dry spells, and acts as a decomposer.",
+   "fieldMarks": [
+    "Very large, smooth slug",
+    "Yellow to greenish with black spots, or olive to brown",
+    "Saddle-like mantle near the head with a breathing hole on the right side",
+    "Two pairs of tentacles"
+   ],
+   "lookalikes": "Leopard slug (Limax maximus), an introduced European species, is grey with black spots or stripes and a ridge along the tail. Other Ariolimax species occupy different parts of California.",
+   "whereToSee": "Damp trails in Olympic National Park, coastal British Columbia and the redwood parks of northern California.",
+   "season": "Year-round in wet weather; most active in the rainy months",
+   "order": "Stylommatophora"
+  },
+  "iucn": "NE",
+  "lore": "Banana slugs are emblems of the Pacific Northwest forests; a related species, Ariolimax dolichophallus, is the mascot of the University of California, Santa Cruz.",
+  "funFact": "Its eyes sit at the tips of the upper tentacles, which it pulls back into its head when touched."
+ },
+ {
+  "slug": "birgus-latro",
+  "scientific": "Birgus latro",
+  "common": "Coconut crab",
+  "otherNames": [
+   "Robber crab (English)",
+   "Ayuyu (Chamorro)",
+   "Ketam kelapa (Malay)",
+   "Yashigani (Japanese)",
+   "Crabe de cocotier (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Crustacean",
+  "family": "Coenobitidae",
+  "shelves": [
+   "endangered",
+   "edible",
+   "marvel"
+  ],
+  "summary": "The largest land-living arthropod, a giant hermit crab that abandons its borrowed shell and can weigh 4 kg with legs spanning about a metre. Its claws pinch with a force rivalling the bite of a lion, enough to crack open coconuts.",
+  "nativeRange": "Islands of the Indian and Pacific Oceans, from Zanzibar, Aldabra and the Chagos through Christmas Island and Indonesia to Micronesia and Polynesia",
+  "regions": [
+   "Indian Ocean",
+   "Pacific Ocean",
+   "Southeast Asia",
+   "Oceania"
+  ],
+  "biomes": [
+   "Coastal forest",
+   "Island forest",
+   "Coral atolls"
+  ],
+  "abilities": [
+   "Pinching force measured at over 3,300 newtons, among the strongest of any crustacean",
+   "Opens coconuts by stripping the husk and hammering the shell",
+   "Breathes air with modified gills ('branchiostegal lungs') and drowns if kept underwater",
+   "Climbs trees and can live 60 years or more"
+  ],
+  "animal": {
+   "diet": "Coconuts, fruit, nuts, carrion, other crabs, and occasionally birds and rats",
+   "habitat": "Coastal forest and rocky areas on islands, sheltering in burrows and crevices by day",
+   "lifespan": "60 years or more",
+   "size": "Up to about 4 kg and a leg span of about 1 m",
+   "behaviour": "Females release eggs into the sea at high tide; larvae drift for weeks, then young crabs come ashore using snail shells before outgrowing them.",
+   "fieldMarks": [
+    "Enormous land crab with a hard, curled-under abdomen and no shell",
+    "Colour varies from violet-blue to orange-red",
+    "Very large front claws, the left usually bigger",
+    "Long, sturdy antennae"
+   ],
+   "lookalikes": "Land hermit crabs (Coenobita) are much smaller and keep living in snail shells as adults. Juvenile coconut crabs also use shells and are told apart by their heavier claws and colour.",
+   "whereToSee": "Christmas Island (Indian Ocean), Aldabra, the Chagos atolls, Vanuatu and Niue, mostly at night.",
+   "season": "Year-round; most active at night",
+   "order": "Decapoda"
+  },
+  "iucn": "VU",
+  "edibility": "edible-with-care",
+  "edibleParts": [
+   "meat of legs, claws and abdomen (cooked)"
+  ],
+  "edibilityNote": "Prized as a delicacy on Pacific islands, but heavy harvesting threatens it and many places protect it. Crabs that have eaten toxic plants (such as Cerbera) have occasionally poisoned people.",
+  "lore": "Charles Darwin described coconut crabs on the Keeling Islands in The Voyage of the Beagle, noting how they tear husks fibre by fibre before breaking the shell.",
+  "funFact": "In 2016 a coconut crab on the Chagos Islands was observed killing and eating a red-footed booby, confirming it can prey on birds."
+ },
+ {
+  "slug": "macrocheira-kaempferi",
+  "scientific": "Macrocheira kaempferi",
+  "common": "Japanese spider crab",
+  "otherNames": [
+   "Taka-ashi-gani (Japanese, 'tall-legged crab')",
+   "Riběn zhīzhū xiè (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Crustacean",
+  "family": "Macrocheiridae",
+  "shelves": [
+   "ocean",
+   "edible",
+   "marvel"
+  ],
+  "summary": "The largest crab in the world by leg span, reaching about 3.7 m from claw tip to claw tip. It lives in deep water off Japan's Pacific coast and climbs to shallower depths to breed in spring.",
+  "nativeRange": "Pacific coast of Japan, especially Sagami Bay, Suruga Bay and Tosa Bay; also reported off Taiwan",
+  "regions": [
+   "Pacific Ocean",
+   "East Asia"
+  ],
+  "biomes": [
+   "Continental shelf and slope",
+   "Sandy and rocky sea floor"
+  ],
+  "abilities": [
+   "Largest leg span of any arthropod, up to about 3.7 m",
+   "Can regenerate lost legs over successive moults",
+   "Young crabs camouflage themselves by attaching sponges and other organisms to their shells"
+  ],
+  "animal": {
+   "diet": "Scavenger and opportunist: dead animals, molluscs and other invertebrates, plus algae",
+   "habitat": "Sandy and rocky bottoms from about 50 to 600 m deep",
+   "size": "Leg span up to about 3.7 m; carapace up to about 40 cm; weight up to about 19 kg",
+   "behaviour": "In spring it moves into waters around 50 m deep to mate and spawn, when fishing for it is restricted.",
+   "fieldMarks": [
+    "Enormously long, thin legs",
+    "Orange body and legs with white spots",
+    "Pear-shaped, bumpy carapace",
+    "Long, thin claws in males"
+   ],
+   "lookalikes": "King crabs (Paralithodes) are spiny, have shorter legs and appear to have only three pairs of walking legs. Snow crabs (Chionoecetes) have a flat, rounded shell and much shorter legs.",
+   "whereToSee": "Large public aquariums in Japan (e.g. Osaka Kaiyukan, Numazu Deep Sea Aquarium) and worldwide; divers occasionally see them in Suruga Bay in spring.",
+   "season": "Moves shallower to breed in spring",
+   "order": "Decapoda"
+  },
+  "iucn": "NE",
+  "edibility": "edible",
+  "edibleParts": [
+   "leg meat (steamed or boiled)"
+  ],
+  "edibilityNote": "Eaten locally around Suruga Bay (e.g. Heda on the Izu Peninsula); catches have declined and are managed.",
+  "lore": "It is named after Engelbert Kaempfer, the German physician who worked at the Dutch trading post of Dejima in the 1690s and wrote one of the first European histories of Japan.",
+  "funFact": "Its long legs are fragile; it often lives with lost or regrowing legs, which it replaces gradually over several moults."
+ },
+ {
+  "slug": "euphausia-superba",
+  "scientific": "Euphausia superba",
+  "common": "Antarctic krill",
+  "otherNames": [
+   "Krill (Norwegian)",
+   "Okiami (Japanese)",
+   "Kril antártico (Spanish)",
+   "Nánjí línxiā (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Crustacean",
+  "family": "Euphausiidae",
+  "shelves": [
+   "ocean",
+   "keystone",
+   "marvel",
+   "edible"
+  ],
+  "summary": "A shrimp-like crustacean only about 6 cm long whose total weight, hundreds of millions of tonnes, may be the largest of any wild animal species. Almost everything in the Southern Ocean depends on it, from penguins to blue whales.",
+  "nativeRange": "Southern Ocean around Antarctica, densest in the Scotia Sea and Antarctic Peninsula",
+  "regions": [
+   "Southern Ocean",
+   "Antarctica"
+  ],
+  "biomes": [
+   "Polar open ocean",
+   "Sea ice edge"
+  ],
+  "abilities": [
+   "Forms swarms with tens of thousands of individuals per cubic metre",
+   "Grazes algae from the underside of sea ice in winter",
+   "Can shrink by moulting when food is short",
+   "Has light-producing organs (photophores)",
+   "Moves carbon to the deep sea in its faeces and moults"
+  ],
+  "animal": {
+   "diet": "Phytoplankton, especially diatoms, and ice algae; some small zooplankton",
+   "habitat": "Cold open ocean and the sea-ice zone of the Southern Ocean",
+   "lifespan": "About 5–6 years",
+   "size": "Up to about 6 cm and 2 g",
+   "behaviour": "Swarms rise towards the surface at night and sink by day, possibly to avoid visual predators.",
+   "fieldMarks": [
+    "Transparent to pinkish shrimp-like body",
+    "Large, black, light-sensitive eyes",
+    "Feathery legs forming a 'feeding basket'",
+    "Green-coloured gut when feeding on algae"
+   ],
+   "lookalikes": "Ice krill (Euphausia crystallorophias) is smaller and lives closer to the continent. Thysanoessa species are smaller and more slender.",
+   "whereToSee": "Surface swarms seen from expedition ships around South Georgia and the Antarctic Peninsula, often signalled by feeding whales and seabirds.",
+   "season": "Year-round; most visible near the surface in the austral summer (Nov–Mar)",
+   "order": "Euphausiacea"
+  },
+  "iucn": "LC",
+  "edibility": "edible",
+  "edibleParts": [
+   "whole krill (processed), krill oil"
+  ],
+  "edibilityNote": "Fished mainly for aquaculture feed and omega-3 krill-oil supplements; also processed into human food in Japan. Fresh krill spoils quickly and has high fluoride in its shell.",
+  "lore": "The word 'krill' comes from Norwegian whalers, meaning the small fry of fish. Britain's Discovery Investigations of the 1920s–30s first mapped its role in the whaling grounds.",
+  "funFact": "Estimates of its global biomass are around 300–500 million tonnes, comparable to the total weight of all humans."
+ },
+ {
+  "slug": "homarus-americanus",
+  "scientific": "Homarus americanus",
+  "common": "American lobster",
+  "otherNames": [
+   "Homard américain (French)",
+   "Langosta americana (Spanish)",
+   "Maine lobster (American English)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Crustacean",
+  "family": "Nephropidae",
+  "shelves": [
+   "ocean",
+   "edible"
+  ],
+  "summary": "The heaviest crustacean in the world, with the record animal weighing about 20 kg. It carries two different claws, a heavy crusher and a sharp cutter, and may live for a century.",
+  "nativeRange": "North-west Atlantic, from Labrador to North Carolina",
+  "regions": [
+   "Atlantic Ocean",
+   "North America"
+  ],
+  "biomes": [
+   "Rocky sea floor",
+   "Continental shelf",
+   "Kelp beds"
+  ],
+  "abilities": [
+   "Heaviest crustacean on record (about 20 kg)",
+   "Two specialised claws: a blunt crusher and a sharp pincer",
+   "Regenerates lost legs and claws",
+   "Locates food by smell with its antennules and leg hairs"
+  ],
+  "animal": {
+   "diet": "Crabs, molluscs, sea urchins, worms, fish and some plants",
+   "habitat": "Rocky and sandy bottoms from the shallows to about 480 m, mostly at 4–50 m",
+   "lifespan": "Estimated to exceed 100 years in large individuals",
+   "size": "Commonly 25–50 cm long; record about 20 kg",
+   "behaviour": "Females carry thousands of eggs under the tail for about a year before they hatch.",
+   "fieldMarks": [
+    "Dark greenish-brown to bluish shell, turning red only when cooked",
+    "Two large, unequal claws",
+    "Long, reddish antennae",
+    "Fan-shaped tail"
+   ],
+   "lookalikes": "European lobster (Homarus gammarus) is bluer and lacks the spine on the underside of the rostrum. Caribbean spiny lobster (Panulirus argus) has no big claws and a spiny shell.",
+   "whereToSee": "Rocky coasts of the Gulf of Maine and Maritime Canada; lobster boats and pounds in Maine and Nova Scotia.",
+   "season": "Year-round; moves inshore and moults in summer",
+   "order": "Decapoda"
+  },
+  "iucn": "LC",
+  "edibility": "edible",
+  "edibleParts": [
+   "tail, claw and leg meat; tomalley and roe"
+  ],
+  "edibilityNote": "Usually boiled or steamed. The tomalley (digestive gland) can concentrate shellfish toxins during red tides, and authorities sometimes advise against eating it. Shellfish allergy is common.",
+  "lore": "Early colonial accounts describe lobsters so abundant in New England that they were used as fish bait and fertiliser; only from the 19th century did canning and railways turn them into a luxury food.",
+  "funFact": "About one lobster in a couple of million is bright blue because of a genetic mutation that alters its shell pigment protein."
+ },
+ {
+  "slug": "alpheus-heterochaelis",
+  "scientific": "Alpheus heterochaelis",
+  "common": "Bigclaw snapping shrimp",
+  "otherNames": [
+   "Pistol shrimp (English)",
+   "Camarón pistola (Spanish)",
+   "Crevette pistolet (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Crustacean",
+  "family": "Alpheidae",
+  "shelves": [
+   "ocean",
+   "marvel"
+  ],
+  "summary": "A small shrimp with one huge claw that snaps shut so fast it creates a collapsing bubble hot enough to emit a flash of light. The snap stuns prey and is one of the loudest sounds made by any animal.",
+  "nativeRange": "Western Atlantic, from lower Chesapeake Bay and North Carolina to the Gulf of Mexico; Caribbean and Brazilian records are uncertain because the species was split into a complex",
+  "regions": [
+   "Atlantic Ocean",
+   "North America",
+   "Caribbean",
+   "South America"
+  ],
+  "biomes": [
+   "Oyster reefs",
+   "Estuaries",
+   "Seagrass",
+   "Mudflats"
+  ],
+  "abilities": [
+   "Claw snap produces a cavitation bubble that collapses with a sound above 200 dB (re 1 µPa at 1 m)",
+   "The collapsing bubble briefly reaches several thousand degrees and emits light ('shrimpoluminescence')",
+   "Can regrow a lost snapping claw, often switching which side carries it",
+   "Lives in mated pairs in burrows"
+  ],
+  "animal": {
+   "diet": "Small fish, worms and crustaceans stunned by the snap",
+   "habitat": "Burrows and crevices in oyster reefs, rubble, seagrass and muddy estuaries",
+   "size": "About 3–5 cm",
+   "behaviour": "Rivals threaten each other by opening the snapping claw and firing water jets rather than fighting directly.",
+   "fieldMarks": [
+    "Small, greenish to translucent brown shrimp",
+    "One massively enlarged claw, up to half the body length",
+    "Eyes hidden under a hood on the carapace",
+    "Crackling sound from reefs"
+   ],
+   "voice": "A sharp click or pop; massed shrimp make a constant frying or crackling sound underwater.",
+   "lookalikes": "Other Alpheus and Synalpheus snapping shrimps are separated by claw shape and colour; Synalpheus are usually smaller and live inside sponges.",
+   "whereToSee": "Oyster reefs and estuaries of the US Atlantic and Gulf coasts; listen with a hydrophone or near docks at low tide.",
+   "season": "Year-round",
+   "order": "Decapoda"
+  },
+  "iucn": "NE",
+  "lore": "During the Second World War, the crackle of snapping shrimp beds interfered with naval sonar, and submarines were able to use the noise as acoustic cover.",
+  "funFact": "Light flashes from its collapsing bubbles were first recorded in this species in 2001 and nicknamed 'shrimpoluminescence'."
+ },
+ {
+  "slug": "physalia-physalis",
+  "scientific": "Physalia physalis",
+  "common": "Portuguese man o' war",
+  "otherNames": [
+   "Galère portugaise (French)",
+   "Carabela portuguesa (Spanish)",
+   "Caravela-portuguesa (Portuguese)",
+   "Katsuo-no-eboshi (Japanese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Cnidarian",
+  "family": "Physaliidae",
+  "shelves": [
+   "ocean",
+   "venomous",
+   "marvel"
+  ],
+  "summary": "Not a jellyfish but a colony of specialised animals (zooids) that function as one organism, drifting on a gas-filled sail. Its tentacles, often around 10 m and sometimes far longer, deliver an extremely painful sting.",
+  "nativeRange": "Warm and temperate waters of the Atlantic, drifting widely; Indo-Pacific 'bluebottles' are now generally treated as separate Physalia species",
+  "regions": [
+   "Atlantic Ocean",
+   "Caribbean"
+  ],
+  "biomes": [
+   "Open ocean surface"
+  ],
+  "abilities": [
+   "Colony of zooids specialised for floating, catching prey, digestion and reproduction",
+   "Inflates its float with gas including carbon monoxide",
+   "Sails can be angled left or right, so wind drives different individuals in different directions",
+   "Stinging cells remain active on stranded or dead specimens"
+  ],
+  "animal": {
+   "diet": "Small fish and fish larvae, shrimp and other plankton caught on the tentacles",
+   "habitat": "Surface of the open ocean; washed ashore by onshore winds",
+   "size": "Float up to about 30 cm; tentacles commonly about 10 m, recorded to 30 m",
+   "behaviour": "Tentacles contract to pull paralysed prey up to digestive zooids beneath the float.",
+   "fieldMarks": [
+    "Translucent, blue-violet, gas-filled float with a pink-edged crest",
+    "Long blue tentacles trailing below",
+    "Often stranded in rows along beaches after storms",
+    "No bell or pulsing swimming"
+   ],
+   "lookalikes": "By-the-wind sailor (Velella velella) is a small, flat blue disc with a rigid diagonal sail and only short tentacles. Blue button (Porpita porpita) is a flat, round disc. Pacific bluebottles (Physalia utriculus) are smaller with a single main tentacle.",
+   "whereToSee": "Atlantic beaches of Florida, the Caribbean, the Canary Islands and occasionally Britain and Ireland after strong westerlies. Do not touch stranded ones: their tentacles still sting.",
+   "season": "Strandings follow onshore winds; Florida mostly winter, Europe often late summer–autumn",
+   "order": "Siphonophorae"
+  },
+  "iucn": "NE",
+  "lore": "Sailors named it after the Portuguese caravel or man-of-war, whose rounded sail its float resembles.",
+  "funFact": "The blue sea slug (Glaucus atlanticus) eats man o' war tentacles and stores their unfired stinging cells in its own body for defence."
+ },
+ {
+  "slug": "aurelia-aurita",
+  "scientific": "Aurelia aurita",
+  "common": "Moon jellyfish",
+  "otherNames": [
+   "Ohrenqualle (German)",
+   "Méduse aurélie (French)",
+   "Medusa luna (Spanish)",
+   "Mizukurage (Japanese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Cnidarian",
+  "family": "Ulmaridae",
+  "shelves": [
+   "ocean"
+  ],
+  "summary": "A translucent, saucer-shaped jellyfish marked with four pale rings, the most familiar jellyfish of European coasts and public aquariums. Its life cycle alternates between a tiny polyp on the sea floor and the drifting medusa.",
+  "nativeRange": "North-east Atlantic and adjacent seas; very similar moon jellies worldwide are now recognised as separate, cryptic Aurelia species",
+  "regions": [
+   "Atlantic Ocean",
+   "Europe"
+  ],
+  "biomes": [
+   "Coastal waters",
+   "Harbours",
+   "Estuaries"
+  ],
+  "abilities": [
+   "Polyps bud off stacks of baby jellyfish (strobilation) when water temperature changes",
+   "Blooms can contain millions of individuals and block power-station cooling intakes",
+   "Mild sting from short marginal tentacles"
+  ],
+  "animal": {
+   "diet": "Plankton, fish eggs and larvae, caught in mucus on the bell and wiped to the mouth by oral arms",
+   "habitat": "Coastal waters, bays and harbours, often in sheltered, nutrient-rich water",
+   "lifespan": "Medusae usually a few months to a year; polyps can persist for years",
+   "size": "Bell usually 25–40 cm across",
+   "behaviour": "Medusae drift and gently pulse near the surface; polyps attach to hard surfaces underneath piers and boats.",
+   "fieldMarks": [
+    "Clear, flat, saucer-shaped bell",
+    "Four horseshoe-shaped rings (gonads), pale violet, pink or white",
+    "Short fringe of fine tentacles around the edge",
+    "Four frilly oral arms under the bell"
+   ],
+   "lookalikes": "Compass jellyfish (Chrysaora hysoscella) has brown V-shaped markings radiating from the centre. Lion's mane (Cyanea capillata) is reddish-brown with a mass of long tentacles. Blue jellyfish (Cyanea lamarckii) is bluish with long tentacles.",
+   "whereToSee": "Harbours and bays around Britain, the North Sea and the Baltic in summer; public aquariums worldwide.",
+   "season": "Medusae mainly May–Sep in European waters",
+   "order": "Semaeostomeae"
+  },
+  "iucn": "NE",
+  "lore": "Moon jellyfish polyps were flown into orbit aboard Space Shuttle Columbia in 1991 to study how gravity-sensing organs develop in microgravity.",
+  "historicalNames": [
+   "Urtica marina",
+   "Sea nettle"
+  ],
+  "funFact": "Jellyfish raised in space had trouble swimming normally once back on Earth, apparently because their gravity sensors developed differently."
+ },
+ {
+  "slug": "pisaster-ochraceus",
+  "scientific": "Pisaster ochraceus",
+  "common": "Ochre sea star",
+  "otherNames": [
+   "Purple sea star (English)",
+   "Étoile de mer ocre (French)",
+   "Estrella de mar ocre (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Other",
+  "family": "Asteriidae",
+  "shelves": [
+   "ocean",
+   "keystone"
+  ],
+  "summary": "The sea star that gave ecology the idea of the 'keystone species'. When Robert Paine removed it from rocks in Washington State in the 1960s, mussels took over and the variety of shore life collapsed.",
+  "nativeRange": "Pacific coast of North America from Alaska to Baja California",
+  "regions": [
+   "Pacific Ocean",
+   "North America"
+  ],
+  "biomes": [
+   "Rocky intertidal",
+   "Shallow subtidal"
+  ],
+  "abilities": [
+   "Pulls mussel shells apart with hundreds of tube feet",
+   "Pushes its stomach out through its mouth to digest prey inside the shell",
+   "Regenerates lost arms",
+   "Can survive hours out of water at low tide"
+  ],
+  "animal": {
+   "diet": "Mainly California mussels; also barnacles, limpets, snails and chitons",
+   "habitat": "Wave-exposed rocky shores and mussel beds, from mid-intertidal to about 90 m",
+   "lifespan": "Often 20 years or more",
+   "size": "Usually 10–25 cm across, up to about 50 cm",
+   "behaviour": "At high tide it moves up into mussel beds to feed; at low tide it clusters in crevices to avoid drying out.",
+   "fieldMarks": [
+    "Five thick, stiff arms",
+    "Colour purple, orange, ochre or brown",
+    "Upper surface covered with small white spines in a net-like or star-shaped pattern",
+    "Firm, rough texture"
+   ],
+   "lookalikes": "Giant spined star (Pisaster giganteus) has larger, blue-ringed spines. Mottled star (Evasterias troschelii) has slimmer arms and is mottled. Leather star (Dermasterias imbricata) is smooth and slippery.",
+   "whereToSee": "Rocky shores at low tide from Vancouver Island to California, e.g. Olympic National Park, Monterey Bay and Mukkaw Bay (Washington).",
+   "season": "Year-round; best seen on low spring tides",
+   "order": "Forcipulatida"
+  },
+  "iucn": "NE",
+  "lore": "Robert Paine's experiments at Mukkaw Bay, published in 1966 and 1969, coined the term 'keystone species', one of the most influential ideas in conservation biology.",
+  "funFact": "Sea star wasting syndrome killed most ochre stars along parts of the Pacific coast in 2013–2014, turning the animals into melting, disintegrating masses; many populations have since partly recovered."
+ },
+ {
+  "slug": "acanthaster-solaris",
+  "scientific": "Acanthaster solaris",
+  "common": "Pacific crown-of-thorns starfish",
+  "otherNames": [
+   "Ōnihitode (Japanese)",
+   "Étoile de mer couronne d'épines (French)",
+   "Bintang laut berduri (Indonesian)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Other",
+  "family": "Acanthasteridae",
+  "shelves": [
+   "ocean",
+   "venomous"
+  ],
+  "summary": "A large, many-armed starfish covered in venomous spines that eats living coral. In population outbreaks it can strip whole reefs, and it is one of the main causes of coral loss on the Great Barrier Reef.",
+  "nativeRange": "Tropical Pacific Ocean, from Japan and the Philippines through the Great Barrier Reef, Melanesia and Micronesia to Polynesia; other Acanthaster species replace it in the Indian Ocean and Red Sea",
+  "regions": [
+   "Pacific Ocean",
+   "Southeast Asia",
+   "East Asia",
+   "Australia",
+   "Oceania"
+  ],
+  "biomes": [
+   "Coral reef"
+  ],
+  "abilities": [
+   "Eats coral by turning its stomach out over the colony and digesting the tissue",
+   "A large female can release tens of millions of eggs in a season",
+   "Spines contain saponins that cause painful, swelling wounds",
+   "Outbreak densities can reach many thousands per square kilometre"
+  ],
+  "animal": {
+   "diet": "Living hard corals, preferring fast-growing table and branching Acropora",
+   "habitat": "Coral reefs, mostly at depths of a few metres to about 30 m",
+   "lifespan": "Several years",
+   "size": "Usually 25–35 cm across, sometimes over 50 cm",
+   "behaviour": "It feeds mostly at night and hides under coral during the day; feeding leaves bright white patches of dead coral skeleton.",
+   "fieldMarks": [
+    "Large starfish with 7–23 arms",
+    "Upper surface covered with long, sharp spines",
+    "Colour grey-green, purple, red or blue",
+    "White feeding scars on nearby coral"
+   ],
+   "lookalikes": "Other crown-of-thorns species (A. planci in the northern Indian Ocean, A. mauritiensis in the southern Indian Ocean, A. benziei in the Red Sea) are separated by range and genetics. No other reef starfish is as spiny.",
+   "whereToSee": "Reefs of the Great Barrier Reef, Okinawa, Guam and Fiji, particularly during outbreaks.",
+   "season": "Year-round; spawning in the warm season (about Dec–Feb on the Great Barrier Reef)",
+   "order": "Valvatida"
+  },
+  "iucn": "NE",
+  "lore": "A major outbreak was first reported at Green Island near Cairns in the early 1960s; reef managers now cull starfish by injecting them with vinegar or bile salts.",
+  "funFact": "Its natural predators include the giant triton snail (Charonia tritonis), the humphead wrasse and the starry pufferfish, all reduced by fishing and shell collecting."
+ },
+ {
+  "slug": "strongylocentrotus-purpuratus",
+  "scientific": "Strongylocentrotus purpuratus",
+  "common": "Pacific purple sea urchin",
+  "otherNames": [
+   "Oursin violet (French)",
+   "Erizo de mar morado (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Other",
+  "family": "Strongylocentrotidae",
+  "shelves": [
+   "ocean",
+   "keystone",
+   "edible"
+  ],
+  "summary": "A spiny purple urchin of North America's Pacific coast that, when its predators decline, can mow down kelp forests and leave bare 'urchin barrens'. It is also a classic laboratory animal for studying fertilisation and embryo development.",
+  "nativeRange": "Pacific coast of North America from British Columbia (and parts of Alaska) to Baja California",
+  "regions": [
+   "Pacific Ocean",
+   "North America"
+  ],
+  "biomes": [
+   "Kelp forest",
+   "Rocky intertidal",
+   "Rocky subtidal"
+  ],
+  "abilities": [
+   "Grinds algae and kelp with a five-toothed jaw called Aristotle's lantern",
+   "Bores pits into solid rock with its teeth and spines",
+   "Senses light with its tube feet, using its whole body as an eye",
+   "Can survive years of starvation in barrens in a dormant-like state",
+   "Some individuals live 50 years or more"
+  ],
+  "animal": {
+   "diet": "Kelp and other algae, especially drift kelp",
+   "habitat": "Rocky shores and reefs from the low intertidal to about 160 m",
+   "lifespan": "Often decades; some over 50 years",
+   "size": "Test about 5–10 cm across",
+   "behaviour": "When drift kelp is plentiful urchins hide in crevices; when it runs short they emerge and graze living kelp, sometimes creating barrens.",
+   "fieldMarks": [
+    "Round, spiny urchin with dense, short, bright purple spines",
+    "Juveniles may be greenish",
+    "Often packed into rock pits it has bored itself",
+    "Tube feet extend between the spines"
+   ],
+   "lookalikes": "Red sea urchin (Mesocentrotus franciscanus) is larger (to about 18 cm) with long red to maroon spines. Green urchin (S. droebachiensis) has greenish spines and lives mainly further north.",
+   "whereToSee": "Tide pools and kelp reefs from Oregon to southern California; dense barrens off Mendocino and Sonoma counties since 2014.",
+   "season": "Year-round",
+   "order": "Camarodonta"
+  },
+  "iucn": "NE",
+  "edibility": "edible",
+  "edibleParts": [
+   "gonads (uni)"
+  ],
+  "edibilityNote": "The gonads are eaten raw as uni. Barrens urchins are often thin, so some ventures collect and 'ranch' them to fatten them for market while restoring kelp.",
+  "funFact": "Its genome, sequenced in 2006, was the first of any echinoderm and revealed genes for vision-related proteins despite it having no eyes."
+ },
+ {
+  "slug": "hirudo-medicinalis",
+  "scientific": "Hirudo medicinalis",
+  "common": "European medicinal leech",
+  "otherNames": [
+   "Blutegel (German)",
+   "Sangsue médicinale (French)",
+   "Sanguijuela (Spanish)",
+   "Jonk (Hindi/Urdu)",
+   "ʿAlaq (Arabic)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Other",
+  "family": "Hirudinidae",
+  "shelves": [
+   "medicinal",
+   "freshwater"
+  ],
+  "summary": "A blood-feeding freshwater leech used in medicine for over two thousand years. Once collected in such numbers that it vanished from much of Europe, it is again used in hospitals to rescue reattached fingers and skin flaps.",
+  "nativeRange": "Europe, from Britain and southern Scandinavia east to the Urals",
+  "regions": [
+   "Europe",
+   "West Asia"
+  ],
+  "biomes": [
+   "Ponds",
+   "Marshes",
+   "Wetlands"
+  ],
+  "abilities": [
+   "Saliva contains hirudin, a powerful anticoagulant, plus anaesthetic and vessel-widening compounds",
+   "Three jaws with many tiny teeth leave a Y-shaped bite",
+   "Can take several times its own weight in blood in one meal",
+   "Can go months between meals"
+  ],
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Modern reconstructive surgery",
+     "use": "Leeches cleared by the US FDA in 2004 as a medical device to relieve venous congestion in reattached digits and skin flaps"
+    },
+    {
+     "tradition": "Greco-Roman and European humoral medicine",
+     "use": "Bloodletting by leeches to rebalance the humours, at its peak in 19th-century France"
+    },
+    {
+     "tradition": "Ayurveda and Unani",
+     "use": "Leech therapy (jalaukavacharana; irsal-e-alaq) for skin disease, abscesses and joint pain, using local leech species"
+    }
+   ],
+   "compounds": [
+    "hirudin",
+    "calin",
+    "hyaluronidase",
+    "destabilase"
+   ],
+   "evidence": "strong",
+   "cautions": "Use only under medical supervision: bites bleed for hours and can transmit Aeromonas bacterial infection, so patients usually receive preventive antibiotics. Wild collection is restricted under CITES and national laws."
+  },
+  "animal": {
+   "diet": "Blood of amphibians, fish, birds and mammals; young leeches feed on frogs and tadpoles",
+   "habitat": "Warm, shallow, weedy ponds and marshes, often trampled by livestock",
+   "size": "About 10–12 cm when extended, up to about 20 cm",
+   "behaviour": "It senses ripples and warmth in the water and swims towards potential hosts with an undulating motion.",
+   "fieldMarks": [
+    "Flattened, segmented, olive-green to brown body",
+    "Pair of reddish or orange stripes along the back broken by black spots",
+    "Spotted, greenish-yellow underside",
+    "Sucker at each end"
+   ],
+   "lookalikes": "Mediterranean medicinal leech (Hirudo verbana), widely sold for medical use, differs in stripe pattern and has a plainer underside. Horse leech (Haemopis sanguisuga) is dull grey-brown and cannot bite through human skin.",
+   "whereToSee": "Rare; scattered ponds in Britain (e.g. Romney Marsh, New Forest, Lake District) and eastern Europe.",
+   "season": "Active in warm water, Jun–Sep",
+   "order": "Arhynchobdellida"
+  },
+  "iucn": "NT",
+  "lore": "The Old English word 'læce' meant both physician and leech. In the 1830s France imported tens of millions of leeches a year for bloodletting, emptying wetlands across Europe.",
+  "historicalNames": [
+   "Hirudo",
+   "Sanguisuga",
+   "Leche"
+  ],
+  "funFact": "The anticoagulant drugs bivalirudin and lepirudin were developed from hirudin, the protein in leech saliva."
+ },
+ {
+  "slug": "euperipatoides-rowelli",
+  "scientific": "Euperipatoides rowelli",
+  "common": "Rowell's velvet worm",
+  "otherNames": [
+   "Velvet worm (English)",
+   "Stummelfüßer (German)",
+   "Onychophore (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Other",
+  "family": "Peripatopsidae",
+  "shelves": [
+   "ancient",
+   "marvel"
+  ],
+  "summary": "A soft, velvety creature with stubby legs that hunts by squirting nets of sticky slime. It belongs to the Onychophora, an ancient group related to arthropods whose body plan resembles fossils from the Cambrian seas more than 500 million years ago.",
+  "nativeRange": "South-eastern Australia, notably the cool forests of south-eastern New South Wales (e.g. Tallaganda State Forest)",
+  "regions": [
+   "Australia"
+  ],
+  "biomes": [
+   "Temperate eucalypt forest",
+   "Rotting logs"
+  ],
+  "abilities": [
+   "Squirts sticky, protein-based slime from glands beside the mouth, entangling prey several centimetres away",
+   "Eats its own slime after a hunt to recycle the protein",
+   "Lives in social groups led by a dominant female that feeds first",
+   "Gives birth to live young"
+  ],
+  "animal": {
+   "diet": "Crickets, spiders, woodlice and other small invertebrates",
+   "habitat": "Inside moist rotting logs in cool forest",
+   "size": "About 3–6 cm (females); males smaller",
+   "behaviour": "Group members cooperate to subdue large prey; individuals recognise and are aggressive towards velvet worms from other groups.",
+   "fieldMarks": [
+    "Soft, cylindrical body covered in tiny velvety papillae",
+    "Fifteen pairs of stubby, unjointed legs ending in small claws",
+    "One pair of ringed antennae",
+    "Dark blue-grey to brown with fine patterning"
+   ],
+   "lookalikes": "Can be mistaken for a caterpillar or slug, but caterpillars have jointed true legs and slugs have none. Many other Australian velvet worm species differ in leg number, colour and range.",
+   "whereToSee": "Rotting logs in wet forest of south-eastern NSW; rarely seen in the open except on damp nights.",
+   "season": "Most active in cool, damp weather",
+   "order": "Euonychophora"
+  },
+  "iucn": "NE",
+  "lore": "The first velvet worm known to science was described from St Vincent in 1826 by Lansdown Guilding, who thought it was a kind of slug.",
+  "funFact": "Velvet worm slime turns from liquid into strong fibres as it is stretched, and can be dissolved and re-spun, which has inspired research into recyclable materials."
+ },
+ {
+  "slug": "lissachatina-fulica",
+  "scientific": "Lissachatina fulica",
+  "common": "Giant African land snail",
+  "otherNames": [
+   "Konokono (Swahili)",
+   "Ghongha (Hindi)",
+   "Achatine (French)",
+   "Caracol gigante africano (Spanish)",
+   "Afurikamaimai (Japanese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mollusc",
+  "family": "Achatinidae",
+  "shelves": [
+   "edible"
+  ],
+  "summary": "A fist-sized land snail from East Africa that has spread across the tropics and is listed among the world's worst invasive species. It eats hundreds of plant species, can lay over a thousand eggs a year, and can carry rat lungworm, a parasite that causes meningitis.",
+  "nativeRange": "Coastal East Africa (Kenya, Tanzania, Mozambique); invasive across South and Southeast Asia, the Pacific, the Caribbean and South America",
+  "regions": [
+   "Sub-Saharan Africa",
+   "South Asia",
+   "Southeast Asia",
+   "Oceania",
+   "Caribbean",
+   "South America"
+  ],
+  "biomes": [
+   "Farmland",
+   "Gardens",
+   "Tropical forest edge",
+   "Urban areas"
+  ],
+  "abilities": [
+   "Eats more than 500 kinds of plants, as well as plaster and concrete for calcium",
+   "Lays clutches of 100–400 eggs several times a year",
+   "Survives dry seasons by sealing its shell and becoming dormant for months",
+   "Hermaphrodite; can store sperm from a single mating for many months"
+  ],
+  "animal": {
+   "diet": "Crops, garden plants, fallen fruit, decaying matter, and calcium from walls and shells",
+   "habitat": "Farms, gardens, plantations and disturbed land in warm, humid regions",
+   "lifespan": "Usually 3–5 years; up to about 9 years",
+   "size": "Shell typically 7–10 cm long, up to about 20 cm",
+   "behaviour": "Active at night and after rain; in dry periods it hides in soil or under debris, sealed behind a mucus membrane.",
+   "fieldMarks": [
+    "Large, tall, cone-shaped shell",
+    "Brown to reddish-brown with darker vertical streaks",
+    "Seven to nine whorls",
+    "Grey-brown body with long tentacles"
+   ],
+   "lookalikes": "Giant Ghana tiger snail (Achatina achatina) is larger with bold zig-zag stripes. Rosy wolfsnail (Euglandina rosea) is smaller, pinkish, and predatory. Native apple snails (Pomacea) live in water and have a rounder shell.",
+   "whereToSee": "Gardens and farmland across tropical Asia, Pacific islands and parts of Brazil; native forests of coastal Kenya and Tanzania.",
+   "season": "Most active in the rainy season",
+   "order": "Stylommatophora"
+  },
+  "iucn": "NE",
+  "edibility": "edible-with-care",
+  "edibleParts": [
+   "foot (thoroughly cooked)"
+  ],
+  "edibilityNote": "Eaten in parts of Africa and Asia, but it can carry rat lungworm (Angiostrongylus cantonensis), which causes eosinophilic meningitis. Must be cooked thoroughly; never eat raw, and wash hands after handling.",
+  "lore": "It was carried from East Africa to Mauritius in the early 1800s and to India by the 1840s, then across Asia and the Pacific; in Florida a boy's three pet snails brought from Hawaii in 1966 led to a decade-long eradication campaign.",
+  "funFact": "The rosy wolfsnail introduced to Pacific islands to eat it instead wiped out dozens of native Partula tree snails, a famous biological-control disaster."
+ }
+]

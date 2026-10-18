@@ -1,0 +1,23 @@
+{
+  "_note": "Hand-checked mapping from codex species to chapters of Gerard's Herball (1597). Keys: accepted binomial. Values: Gerard's chapter title exactly as printed. Extend as more of the book is transcribed.",
+  "Saccharum officinarum": "Of Sugar Cane",
+  "Zingiber officinale": "Of Ginger",
+  "Triticum aestivum": "Of Corne",
+  "Oryza sativa": "Of Rice",
+  "Zea mays": "Of Turkie corne",
+  "Sorghum bicolor": "Of Turkie Millet",
+  "Crocus sativus": "Of Saffron",
+  "Allium sativum": "Of Garlick",
+  "Taraxacum officinale": "Of Dandelion",
+  "Capsicum annuum": "Of Ginnie or Indian Pepper",
+  "Solanum lycopersicum": "Of apples of Loue",
+  "Datura stramonium": "Of Thorne apples",
+  "Atropa bella-donna": "Of sleeping Nightshade",
+  "Papaver somniferum": "Of garden Poppie",
+  "Hypericum perforatum": "Of Saint Iohns woort",
+  "Plantago major": "Of Land Plantaine",
+  "Thymus vulgaris": "Of garden Time",
+  "Lavandula angustifolia": "Of Lauander spike",
+  "Linum usitatissimum": "Of Garden Flaxe",
+  "Aloe vera": "Of herbe Aloë, or Sea Houseleeke"
+}

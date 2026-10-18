@@ -1,0 +1,2965 @@
+[
+ {
+  "slug": "naja-naja",
+  "scientific": "Naja naja",
+  "common": "Spectacled cobra",
+  "otherNames": [
+   "Indian cobra",
+   "Nag / Naag (Hindi, Urdu)",
+   "Nalla pambu (Tamil)",
+   "Gokhra (Bengali)",
+   "Naya (Sinhala)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Elapidae",
+  "shelves": [
+   "venomous",
+   "deadly",
+   "sacred"
+  ],
+  "summary": "The hooded snake of Indian temples and street performances, and one of the 'Big Four' species responsible for most snakebite deaths in South Asia. When alarmed it rears up and spreads a hood marked on the back with a pale spectacle-shaped pattern.",
+  "nativeRange": "Indian subcontinent: Pakistan, India, Nepal, Bhutan, Bangladesh and Sri Lanka",
+  "regions": [
+   "South Asia"
+  ],
+  "biomes": [
+   "Tropical dry forest",
+   "Farmland",
+   "Grassland",
+   "Villages and towns"
+  ],
+  "abilities": [
+   "Spreads a hood by swinging its long front ribs outward",
+   "Venom is mainly neurotoxic and can paralyse breathing muscles; it also causes painful swelling and tissue death around the bite",
+   "Does well in rice fields and villages, where it hunts rats and toads",
+   "Females guard their clutch of eggs until hatching"
+  ],
+  "animal": {
+   "diet": "Rodents, toads, frogs, lizards, birds and their eggs, other snakes",
+   "habitat": "Plains, farmland, scrub, forest edge and human settlements, from sea level into the hills",
+   "lifespan": "~20 years or more in captivity",
+   "size": "Usually 1–1.5 m; exceptionally over 2 m",
+   "behaviour": "Raises its front third, spreads its hood and hisses loudly when cornered, but would rather escape. A bite is a medical emergency: keep the person still and calm, take off rings and tight items, keep the bitten limb still, and get them quickly to a hospital that has polyvalent antivenom. Do not cut, suck, apply a tourniquet, use ice or rely on traditional healers, because these delays cost lives.",
+   "fieldMarks": [
+    "Hood with a pale 'spectacle' (two linked rings) on the back; some snakes lack the mark",
+    "Smooth, glossy scales; colour from yellowish or brown to almost black",
+    "Dark band and paired spots across the throat, visible when the hood is up",
+    "Medium-sized head barely wider than the neck; round pupils"
+   ],
+   "lookalikes": "Most often confused with the harmless Indian rat snake (Ptyas mucosa). The rat snake cannot spread a hood, has very large eyes, and its long thin tail has dark crossbars or a net pattern. When provoked it puffs out its throat, which can look like a narrow hood. The monocled cobra (Naja kaouthia) of eastern India and Bangladesh has a single ring on the hood instead of spectacles. The king cobra (Ophiophagus) is much larger, often banded, and has a narrower hood. If a snake hoods, treat it as a cobra.",
+   "whereToSee": "Common throughout lowland India and Sri Lanka in farmland and villages; often seen at dusk around rice fields and rat-infested buildings",
+   "season": "Resident; most active in the hot season and the monsoon, when rats and frogs are plentiful",
+   "order": "Squamata"
+  },
+  "iucn": "LC",
+  "lore": "Cobras are worshipped at Nag Panchami, and the serpent Vasuki coils around Shiva's neck. Rudyard Kipling's 'Rikki-Tikki-Tavi' (1894) made the cobra pair Nag and Nagaina famous. India's Wildlife Protection Act (1972) made it illegal to keep cobras for snake charming.",
+  "historicalNames": [
+   "Cobra de capello",
+   "Coluber naja",
+   "Naja"
+  ],
+  "funFact": "A cobra cannot hear the snake charmer's pungi as music. It sways because it is following the moving instrument."
+ },
+ {
+  "slug": "bungarus-caeruleus",
+  "scientific": "Bungarus caeruleus",
+  "common": "Common krait",
+  "otherNames": [
+   "Indian krait",
+   "Karait (Hindi)",
+   "Kattu viriyan (Tamil)",
+   "Kalach / Chiti (Bengali)",
+   "Thel karawala (Sinhala)",
+   "Manyar (Marathi)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Elapidae",
+  "shelves": [
+   "venomous",
+   "deadly"
+  ],
+  "summary": "A glossy, night-hunting member of the Big Four with one of the most potent venoms of any Asian land snake. Many bites happen to people asleep on the floor, often cause little pain, and can lead to paralysis hours later.",
+  "nativeRange": "Pakistan, India, Nepal, Bangladesh and Sri Lanka",
+  "regions": [
+   "South Asia"
+  ],
+  "biomes": [
+   "Farmland",
+   "Scrub",
+   "Tropical dry forest",
+   "Villages and towns"
+  ],
+  "abilities": [
+   "Its neurotoxins, including beta-bungarotoxin, stop nerve signals from reaching muscles",
+   "Hunts other snakes, including other kraits, at night",
+   "Bites often cause almost no pain or swelling, so victims may not realise they have been bitten"
+  ],
+  "animal": {
+   "diet": "Mainly other snakes; also rodents, lizards and frogs",
+   "habitat": "Fields, scrub, termite mounds, rat holes and houses; often near water",
+   "size": "Usually ~1 m; up to ~1.75 m",
+   "behaviour": "By day it is timid and hides its head under its coils, but at night it is active and comes into homes. Signs of envenoming are drooping eyelids, double vision, trouble swallowing and abdominal pain, followed by breathing failure, so anyone who might have been bitten needs hospital care even if they feel fine. In first aid, keep the person still, immobilise the limb and transport them urgently. Breathing support and antivenom save lives. Sleeping on a raised bed under a tucked-in mosquito net prevents many bites.",
+   "fieldMarks": [
+    "Glossy steel-blue to black body with narrow, paired white crossbands, clearest towards the tail and faint or missing on the neck",
+    "Row of enlarged hexagonal scales along the spine, giving a slight ridge",
+    "Rounded head barely wider than the neck; small black eyes",
+    "Plain white belly"
+   ],
+   "lookalikes": "Often confused with the harmless common wolf snake (Lycodon aulicus) and barred wolf snake (L. striatus). Wolf snakes are brown and dull rather than glossy blue-black. Their white bands start right behind a flattened head, they have no enlarged ridge scales along the spine, and they often have a pale collar. A banded snake that is black and shiny with bands fading towards the head should be treated as a krait.",
+   "whereToSee": "Widespread across lowland India and Sri Lanka; most often met at night on paths and in houses during the monsoon",
+   "season": "Resident; bites peak in the monsoon (June–September), when snakes are flooded out of burrows",
+   "order": "Squamata"
+  },
+  "iucn": "LC",
+  "lore": "The English word 'krait' comes from the Hindi karait. Joseph Fayrer's 'The Thanatophidia of India' (1872), with its hand-coloured plates of the krait and other deadly snakes, first recorded the scale of snakebite deaths across British India.",
+  "funFact": "Bungarotoxin from the krait's relative, the many-banded krait, became a standard laboratory tool for mapping the receptors through which nerves trigger muscles."
+ },
+ {
+  "slug": "daboia-russelii",
+  "scientific": "Daboia russelii",
+  "common": "Russell's viper",
+  "otherNames": [
+   "Daboia (Hindi)",
+   "Kanadi viriyan (Tamil)",
+   "Chandrabora (Bengali)",
+   "Tic polonga (Sinhala)",
+   "Ghonas (Marathi)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Viperidae",
+  "shelves": [
+   "venomous",
+   "deadly"
+  ],
+  "summary": "A thick-bodied viper of South Asia's grasslands and farmland, marked with three chains of dark, pale-edged ovals. It is thought to cause more snakebite deaths in South Asia than any other snake, because it is common in farmland where people work barefoot.",
+  "nativeRange": "Pakistan, India, Nepal, Bangladesh and Sri Lanka (the eastern Russell's viper, Daboia siamensis, replaces it from Myanmar eastwards)",
+  "regions": [
+   "South Asia"
+  ],
+  "biomes": [
+   "Grassland",
+   "Farmland",
+   "Scrub"
+  ],
+  "abilities": [
+   "Its venom turns the blood's clotting system against itself, using up clotting factors so the victim bleeds uncontrollably",
+   "Hisses so loudly and so long that it is often heard before it is seen",
+   "Bears live young, often 20–40 in a litter",
+   "Venom can damage the kidneys, and sometimes the pituitary gland"
+  ],
+  "animal": {
+   "diet": "Rodents especially; also lizards, frogs and birds",
+   "habitat": "Open grassland, scrub, rice and sugarcane fields; avoids dense forest",
+   "size": "Usually ~1–1.2 m; up to ~1.7 m",
+   "behaviour": "It lies coiled and still, and when disturbed it hisses hard and strikes with great force. Bites cause severe pain and swelling, bleeding from the gums and wounds, and kidney failure. Treatment is antivenom in hospital, and the 20-minute whole-blood clotting test is used to guide it. Keep the limb still and do not use tight bandages or tourniquets on viper bites.",
+   "fieldMarks": [
+    "Tan to brown body with three rows of dark-brown ovals edged in black then white; the middle row runs together along the back",
+    "Large flat triangular head with a pale V or X mark and dark stripes behind the eye",
+    "Heavy body, short tail, rough keeled scales",
+    "Big nostrils and vertical pupils; no heat pits"
+   ],
+   "lookalikes": "Confused with the harmless common sand boa (Eryx conicus), which has a short blunt tail, tiny eyes, and irregular blotches rather than neat rows of ringed ovals. Also confused with the Indian rock python (Python molurus), which has a pale arrowhead on its head, heat pits along the lips and smooth scales. The Russell's viper's large triangular head, keeled scales and very loud hiss give it away.",
+   "whereToSee": "Rice fields, dry grassland and rocky scrub across India and Sri Lanka; for example, the Deccan plateau and the dry zone of Sri Lanka",
+   "season": "Resident; most bites happen during harvest and planting seasons",
+   "order": "Squamata"
+  },
+  "iucn": "LC",
+  "lore": "The species is named after the Scottish surgeon-naturalist Patrick Russell, who described the snakes of the Coromandel Coast in 'An Account of Indian Serpents' (1796). In Sri Lanka it is the tic polonga, a name long feared in rural folklore.",
+  "historicalNames": [
+   "Katuka Rekula Poda",
+   "Coluber russelii",
+   "Vipera russelii"
+  ],
+  "funFact": "A Russell's viper venom test called the dilute Russell's viper venom time (dRVVT) is used in blood laboratories worldwide to test for lupus anticoagulant."
+ },
+ {
+  "slug": "echis-carinatus",
+  "scientific": "Echis carinatus",
+  "common": "Saw-scaled viper",
+  "otherNames": [
+   "Indian saw-scaled viper",
+   "Phoorsa (Hindi/Marathi)",
+   "Surutai viriyan (Tamil)",
+   "Vali polonga (Sinhala)",
+   "Afi'a (Arabic, for Echis generally)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Viperidae",
+  "shelves": [
+   "venomous",
+   "deadly"
+  ],
+  "summary": "The smallest of the Big Four, rarely longer than a forearm, but irritable, common, and armed with a strong venom that stops blood clotting. It warns intruders with a sizzling rasp made by rubbing its saw-edged side scales together.",
+  "nativeRange": "India and Sri Lanka west through Pakistan, Afghanistan and Iran to parts of the Arabian Peninsula",
+  "regions": [
+   "South Asia",
+   "West Asia",
+   "Central Asia"
+  ],
+  "biomes": [
+   "Desert",
+   "Scrub",
+   "Rocky dry plains",
+   "Farmland"
+  ],
+  "abilities": [
+   "Makes a hissing rasp (stridulation) by rubbing serrated, keeled flank scales as it loops its body into C-shaped coils",
+   "Venom can cause bleeding and clotting failure that lasts for days",
+   "Survives in hot, dry places where few other vipers can"
+  ],
+  "animal": {
+   "diet": "Rodents, lizards, frogs, scorpions, centipedes and insects",
+   "habitat": "Dry rocky or sandy plains, laterite scrub, bunds of fields",
+   "size": "Usually 30–60 cm; rarely ~80 cm",
+   "behaviour": "Coils in a figure of eight and rasps loudly, then strikes quickly and sometimes again. Bites cause local swelling and bleeding problems, which can appear late. Anyone bitten needs hospital observation, clotting tests and antivenom. Keep the limb still, avoid tourniquets and do not cut the wound.",
+   "fieldMarks": [
+    "Small, stout viper with a short tail",
+    "Pale wavy white line along each flank, with a row of pale-edged dark saddles above it",
+    "Pale cross, trident or bird's-foot mark on top of the pear-shaped head",
+    "Very rough, keeled scales; large eyes with vertical pupils"
+   ],
+   "lookalikes": "In Arabia and Africa, harmless egg-eating snakes (Dasypeltis) copy its coiling, rasping display. Egg-eaters have a small rounded head barely wider than the neck and lack the pale head cross. In India, juvenile Russell's vipers have rows of ringed ovals, not wavy flank lines. A small, rough-scaled snake rasping in dry scrub should be treated as a saw-scaled viper and left alone.",
+   "whereToSee": "Common in the dry plains of the Deccan and Rajasthan, the Ratnagiri coast and Sri Lanka's dry zone; often found under stones and in field bunds",
+   "season": "Resident; most active and most often met on warm nights after rain",
+   "order": "Squamata"
+  },
+  "iucn": "LC",
+  "lore": "The Irula Snake Catchers' Industrial Cooperative in Tamil Nadu, founded in 1978 with herpetologist Romulus Whitaker, milks saw-scaled vipers and the rest of the Big Four and supplies much of the venom used to make India's polyvalent antivenom.",
+  "funFact": "In parts of Africa and Asia, Echis vipers are among the snakes that cause the most snakebite deaths, and some experts think they kill more people than any other group."
+ },
+ {
+  "slug": "dendroaspis-polylepis",
+  "scientific": "Dendroaspis polylepis",
+  "common": "Black mamba",
+  "otherNames": [
+   "Imamba (Zulu)",
+   "Mamba nyeusi (Swahili)",
+   "Swartmamba (Afrikaans)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Elapidae",
+  "shelves": [
+   "venomous",
+   "deadly"
+  ],
+  "summary": "Africa's longest venomous snake, and despite its name grey to olive-brown. The name comes from the inky-black lining of its mouth, which it gapes in threat. Before antivenom, a serious bite was almost always fatal.",
+  "nativeRange": "Savannas and open woodland of eastern and southern Africa, with scattered populations in West Africa",
+  "regions": [
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Savanna",
+   "Open woodland",
+   "Rocky hills"
+  ],
+  "abilities": [
+   "One of the fastest snakes on land, able to keep its head and front body off the ground while moving",
+   "Venom contains dendrotoxins and other neurotoxins that can cause paralysis and breathing failure within hours",
+   "Can strike repeatedly from a raised position",
+   "Returns to the same retreat, such as a termite mound or hollow tree, for years"
+  ],
+  "animal": {
+   "diet": "Rodents, hyraxes, bushbabies, birds",
+   "habitat": "Dry savanna, rocky outcrops, open woodland; takes shelter in termite mounds and hollow trees",
+   "size": "Usually 2–2.5 m; exceptionally ~3 m or more",
+   "behaviour": "Shy, and usually escapes if it can. When cornered it rears up, spreads a narrow hood, gapes its black mouth and hisses. A bite needs urgent hospital care with antivenom and breathing support. As first aid, a firm pressure bandage on the bitten limb and a splint may slow the venom while the person is taken to hospital. Do not cut, suck or use tourniquets.",
+   "fieldMarks": [
+    "Long, slender body, grey to olive-brown with a paler belly; never truly black",
+    "Long 'coffin-shaped' head with a prominent brow",
+    "Black inside of mouth, shown when gaping",
+    "Smooth scales; medium-sized round-pupilled eyes"
+   ],
+   "lookalikes": "Colour alone is not a reliable guide. The harmless mole snake (Pseudaspis cana) is stockier, with a small head and short tail. The boomslang has a short head and huge eyes. Green mambas are bright green and live in forest canopy. Cobras spread a wider hood. A large, long-headed grey snake moving fast with its head raised should be treated as a mamba.",
+   "whereToSee": "Kruger National Park and KwaZulu-Natal in South Africa, Hluhluwe–iMfolozi, the Kenyan and Tanzanian savannas",
+   "season": "Resident; active by day, often basking in the morning",
+   "order": "Squamata"
+  },
+  "iucn": "LC",
+  "lore": "The name mamba comes from the Zulu imamba. The genus name Dendroaspis means 'tree asp', although the black mamba spends much of its time on the ground.",
+  "funFact": "Mambalgins, peptides found in black mamba venom, relieved pain in mice about as strongly as morphine and with fewer side effects, which has made them a lead in painkiller research."
+ },
+ {
+  "slug": "oxyuranus-microlepidotus",
+  "scientific": "Oxyuranus microlepidotus",
+  "common": "Inland taipan",
+  "otherNames": [
+   "Fierce snake",
+   "Small-scaled snake",
+   "Dandarabilla (Aboriginal name recorded in the Channel Country)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Elapidae",
+  "shelves": [
+   "venomous",
+   "deadly",
+   "marvel"
+  ],
+  "summary": "In standard mouse tests it has the most toxic venom of any land snake. It is also shy and lives in the remote cracking-clay floodplains of central Australia, and no human death from it has been recorded.",
+  "nativeRange": "Channel Country of southwestern Queensland and northeastern South Australia, with outlying records in New South Wales and the Northern Territory",
+  "regions": [
+   "Australia"
+  ],
+  "biomes": [
+   "Desert",
+   "Arid floodplain",
+   "Gibber and clay plains"
+  ],
+  "abilities": [
+   "Its venom, rich in neurotoxins and clotting toxins, is the most lethal of any land snake in mouse LD50 tests",
+   "Changes colour with the seasons: dark in winter to absorb heat, paler in summer",
+   "Hunts rats in their deep soil cracks and burrows, delivering several quick bites"
+  ],
+  "animal": {
+   "diet": "Almost entirely mammals, especially the long-haired rat (Rattus villosissimus)",
+   "habitat": "Deep soil cracks and burrows in black-soil floodplains with little vegetation",
+   "size": "Usually ~1.8 m; up to ~2.5 m",
+   "behaviour": "Usually slips away into a crack rather than face a person; almost all known bites have been to people handling the snake. Australian first aid for elapid bites is a firm pressure-immobilisation bandage along the whole bitten limb, a splint, keeping the person still and calling emergency services. Do not wash the bite site, because hospital venom-detection kits use the venom on the skin.",
+   "fieldMarks": [
+    "Glossy, rounded head that is darker than the body, almost black in winter",
+    "Body light brown to olive, many scales dark-edged, forming a faint herringbone pattern",
+    "Large dark eyes; smooth scales",
+    "Slender, medium-large build"
+   ],
+   "lookalikes": "Easily confused with brown snakes (Pseudonaja), especially the eastern brown and the western brown or gwardar, which share its range and are also dangerous. Those lack the inland taipan's glossy dark head in cool months. The coastal taipan (O. scutellatus) lives far away in northern and eastern coastal Australia. No harmless species here can be safely told apart in the field; any medium-to-large brown snake in Australia should be treated as dangerous.",
+   "whereToSee": "Rarely seen; remote Channel Country around Diamantina and Cooper Creek; best seen in reptile parks such as the Australian Reptile Park",
+   "season": "Resident; most active in the early morning in spring and early summer",
+   "order": "Squamata"
+  },
+  "iucn": "LC",
+  "lore": "Frederick McCoy described it in 1879 from specimens collected near the Murray–Darling junction. It then went almost unrecorded by science for about 90 years until it was rediscovered in 1972.",
+  "funFact": "Its seasonal colour change is among the strongest of any snake: the same individual can be almost black-headed in winter and pale straw in summer."
+ },
+ {
+  "slug": "crotalus-adamanteus",
+  "scientific": "Crotalus adamanteus",
+  "common": "Eastern diamondback rattlesnake",
+  "otherNames": [
+   "Diamondback",
+   "Cascabel diamante (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Viperidae",
+  "shelves": [
+   "venomous",
+   "deadly"
+  ],
+  "summary": "The largest rattlesnake and the heaviest venomous snake in the Americas, marked with a chain of cream-edged dark diamonds. It is a snake of the longleaf pine savannas of the southeastern US, where it often shelters in gopher tortoise burrows.",
+  "nativeRange": "Southeastern United States coastal plain, from North Carolina to Florida and west to Louisiana",
+  "regions": [
+   "North America"
+  ],
+  "biomes": [
+   "Longleaf pine savanna",
+   "Scrub",
+   "Coastal islands",
+   "Palmetto flatwoods"
+  ],
+  "abilities": [
+   "Heat-sensing pits between eye and nostril let it 'see' warm-blooded prey in the dark",
+   "Its rattle, built from interlocking keratin segments added with each shed, gives a loud buzzing warning",
+   "Venom destroys tissue and stops blood from clotting",
+   "Can go months between meals"
+  ],
+  "animal": {
+   "diet": "Rabbits, rats, squirrels, birds",
+   "habitat": "Pine flatwoods, longleaf pine and wiregrass, sandhills, coastal dunes and barrier islands",
+   "lifespan": "~10–20 years",
+   "size": "Typically 1–1.7 m; exceptionally ~2.4 m",
+   "behaviour": "An ambush hunter that waits beside rabbit trails for days, then strikes and follows the scent trail of the dying prey. A bite is a hospital emergency. Keep the person calm and the limb still at about heart level, remove rings and watches, and get them to a hospital for CroFab or Anavip antivenom. Do not use tourniquets, ice, cutting, suction or electric shock.",
+   "fieldMarks": [
+    "Dark brown diamonds outlined with cream along the back, on an olive or brown body",
+    "Two pale diagonal lines on each side of the face, one running from in front of the eye and one behind it",
+    "Rattle at the tip of a tail banded brown and grey",
+    "Heavy body, broad triangular head, heat pit and vertical pupils"
+   ],
+   "lookalikes": "The timber (canebrake) rattlesnake has dark chevron crossbands and an all-black tail. Harmless rat snakes, racers and hognose snakes may vibrate their tails in dry leaves to make a rattling sound, but they have no rattle and their pupils are round. The rattle, diamonds and pale facial lines identify the diamondback.",
+   "whereToSee": "Longleaf pine forests of Florida and Georgia, such as Ocala National Forest, and coastal islands such as Little St Simons and Sapelo",
+   "season": "Resident; most active in spring and autumn; mating takes place in late summer",
+   "order": "Squamata"
+  },
+  "iucn": "LC",
+  "lore": "In 1775 Benjamin Franklin, writing as 'An American Guesser', proposed the rattlesnake as a symbol of the colonies because it gives warning before it strikes. The coiled rattler on the Gadsden flag ('Don't Tread on Me') dates from the same period.",
+  "funFact": "Rattlesnake roundups, where snakes are gassed out of gopher tortoise burrows and killed, have long threatened this species; Georgia's Claxton roundup was converted to a wildlife festival in 2012."
+ },
+ {
+  "slug": "bitis-gabonica",
+  "scientific": "Bitis gabonica",
+  "common": "Gaboon viper",
+  "otherNames": [
+   "East African Gaboon viper",
+   "Butterfly adder",
+   "Kifutu (Swahili)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Viperidae",
+  "shelves": [
+   "venomous",
+   "deadly",
+   "marvel",
+   "endangered"
+  ],
+  "summary": "A heavy, slow-moving viper whose geometric pattern of purple, buff and brown disappears among the dead leaves of the African forest floor. It has the longest fangs of any snake and produces more venom than almost any other.",
+  "nativeRange": "Central and East Africa, south to Zambia, Mozambique and northeastern South Africa (the West African Gaboon viper is now treated as a separate species, Bitis rhinoceros)",
+  "regions": [
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Tropical rainforest",
+   "Forest edge",
+   "Woodland"
+  ],
+  "abilities": [
+   "Fangs can exceed 5 cm, the longest of any snake",
+   "Produces some of the largest venom yields of any snake",
+   "Its geometric pattern is so effective as camouflage that it can be stepped over without being seen",
+   "Strikes and holds on to prey rather than releasing it"
+  ],
+  "animal": {
+   "diet": "Rodents, hares, small antelope, ground birds, frogs",
+   "habitat": "Rainforest floor, forest edges, cocoa and coffee plantations",
+   "size": "Usually 1.2–1.5 m; can reach ~1.8 m",
+   "behaviour": "Famously placid: it lies still, relying on camouflage, and gives a loud warning hiss before biting. Bites are rare but cause massive swelling, tissue death and bleeding. Keep the limb still, do not apply a tight bandage, and get the person to hospital for antivenom.",
+   "fieldMarks": [
+    "Very broad, flat, triangular cream-white head with a thin dark central line and dark triangles behind the eyes",
+    "A pair of small horn-like scales between the nostrils",
+    "Back patterned with pale rectangles, hourglasses and purple-brown triangles",
+    "Hugely thick body and short tail"
+   ],
+   "lookalikes": "The rhinoceros viper (Bitis nasicornis) has two or three pairs of large nose horns and a blue, green and crimson pattern. The puff adder (B. arietans) has pale chevrons on a yellowish-brown back. The West African Gaboon viper (B. rhinoceros) has a dark triangle below each eye and larger nose horns. No harmless snake in its range has its build and head shape.",
+   "whereToSee": "Rarely seen in the wild; forests of Uganda, Kenya's Kakamega forest, coastal forest in Mozambique and northern KwaZulu-Natal",
+   "season": "Resident; mostly nocturnal",
+   "order": "Squamata"
+  },
+  "iucn": "VU",
+  "lore": "The species name refers to Gabon, then a French colony, where the specimens used for its 1854 description were said to have been collected. The IUCN now lists it as Vulnerable, with habitat loss and collection for bushmeat and the pet trade among the threats.",
+  "funFact": "Despite its fearsome armament, bites are rare: it is so reluctant to move or strike that most bites happen when someone steps on one."
+ },
+ {
+  "slug": "bothrops-asper",
+  "scientific": "Bothrops asper",
+  "common": "Terciopelo (fer-de-lance)",
+  "otherNames": [
+   "Fer-de-lance",
+   "Barba amarilla (Spanish, 'yellow beard')",
+   "Equis (Spanish)",
+   "Mapepire balsain (Trinidad)",
+   "Nauyaca (Mexico)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Viperidae",
+  "shelves": [
+   "venomous",
+   "deadly"
+  ],
+  "summary": "The pit viper behind most serious snakebites in Central America. It is common on farms and plantations, and females bear large litters. Strictly speaking, 'fer-de-lance' is the Martinique species Bothrops lanceolatus, but the name is widely used for this snake.",
+  "nativeRange": "Southern Mexico through Central America to northwestern South America (Colombia, Ecuador and northwestern Venezuela)",
+  "regions": [
+   "Central America",
+   "South America"
+  ],
+  "biomes": [
+   "Tropical rainforest",
+   "Plantations",
+   "Riverbanks"
+  ],
+  "abilities": [
+   "Venom causes severe swelling, blistering, tissue death and bleeding",
+   "Females give birth to large litters, often 20–40 and sometimes many more",
+   "Heat-sensing pits find warm prey at night",
+   "Thrives in banana and coffee plantations, where its rat prey is common"
+  ],
+  "animal": {
+   "diet": "Rodents and opossums; juveniles eat frogs and lizards, luring them by twitching a pale tail tip",
+   "habitat": "Lowland wet forest, forest edges, plantations and pastures, often near streams",
+   "size": "Usually 1.2–1.8 m; females much larger than males, up to ~2.5 m",
+   "behaviour": "Mostly nocturnal; it can be nervous and quick to strike when stepped near. Bites need hospital treatment with polyvalent antivenom, such as the ICP antivenom from Costa Rica. Keep the limb still and do not apply tourniquets, cut or suck the wound.",
+   "fieldMarks": [
+    "Large, flat, arrowhead-shaped head with a sharp edge along the top of the snout",
+    "Back pattern of dark triangles with pale edges, which meet along the spine to form X shapes",
+    "Yellow or cream chin and throat (hence 'barba amarilla')",
+    "Heat pit between eye and nostril; vertical pupils"
+   ],
+   "lookalikes": "The harmless false fer-de-lance (Xenodon rabdocephalus) mimics its colours and flattens its head when threatened, but it has round pupils, no heat pits and smooth scales. Cat-eyed snakes (Leptodeira) have vertical pupils but are slender, with small heads and blotches rather than X-marks. In its range, any large, flat-headed snake with triangles along the side should be treated as a terciopelo.",
+   "whereToSee": "Lowland forests of Costa Rica (La Selva, Tortuguero, Osa Peninsula), Panama, and Chocó in Colombia; often seen on night walks",
+   "season": "Resident; most active on wet nights; births are common at the start of the rainy season",
+   "order": "Squamata"
+  },
+  "iucn": "LC",
+  "lore": "Costa Rica's Instituto Clodomiro Picado, founded in 1970 and named after the Costa Rican scientist who studied snakebite in the early 20th century, produces antivenom against this species that is used across Central America and beyond.",
+  "funFact": "Newborn terciopelos already carry fully working venom and fangs."
+ },
+ {
+  "slug": "dispholidus-typus",
+  "scientific": "Dispholidus typus",
+  "common": "Boomslang",
+  "otherNames": [
+   "Boomslang, 'tree snake' (Afrikaans)",
+   "Green tree snake"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Colubridae",
+  "shelves": [
+   "venomous",
+   "deadly"
+  ],
+  "summary": "A slender, huge-eyed tree snake of sub-Saharan Africa. Its fangs sit at the back of the mouth, yet its venom is among the most dangerous of any snake. Bites are rare, but the venom works slowly and can cause fatal internal bleeding a day or more later.",
+  "nativeRange": "Sub-Saharan Africa, from West Africa to Ethiopia and south to South Africa; absent from the central rainforest and the driest deserts",
+  "regions": [
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Savanna",
+   "Open woodland",
+   "Fynbos",
+   "Karoo scrub"
+  ],
+  "abilities": [
+   "Has excellent eyesight for a snake, with very large eyes that help it hunt chameleons by sight",
+   "Venom stops blood from clotting, causing bleeding from gums, wounds and internal organs",
+   "Inflates its throat to twice its size when threatened, showing the bright skin between its scales"
+  ],
+  "animal": {
+   "diet": "Chameleons and other tree lizards, birds and their eggs and nestlings, frogs",
+   "habitat": "Trees and shrubs in savanna, woodland, fynbos and Karoo scrub",
+   "size": "Usually 1–1.6 m; up to ~2 m",
+   "behaviour": "Shy; it flees through the branches and bites only when handled or cornered. Because the symptoms can take hours to appear, anyone bitten must go to hospital at once and be observed for at least 24 hours. A specific monovalent boomslang antivenom is made in South Africa. Keep the limb still; never cut or suck the wound.",
+   "fieldMarks": [
+    "Short, egg-shaped head with enormous eyes, much larger than in most snakes",
+    "Colour very variable: males often bright green, or green with black-edged scales; females usually olive or brown",
+    "Strongly keeled scales and a slender, whip-like body",
+    "Throat inflated into a balloon when alarmed"
+   ],
+   "lookalikes": "Harmless green bush snakes (Philothamnus) look very similar but are smaller, with smaller eyes in proportion to the head. They can be hard to tell apart even for experts, so never approach or handle one to check; treat any large-eyed green or brown tree snake as a possible boomslang. Green mambas have a long, narrow head and smaller eyes.",
+   "whereToSee": "Kruger National Park, KwaZulu-Natal, the Eastern and Western Cape, East African savannas; often in thorn trees near weaver nests",
+   "season": "Resident; active by day, especially in warm months",
+   "order": "Squamata"
+  },
+  "iucn": "LC",
+  "lore": "In 1957 the American herpetologist Karl P. Schmidt was bitten by a juvenile boomslang he was identifying. Thinking a rear-fanged snake could not kill him, he wrote notes on his symptoms as they progressed and died the next day.",
+  "funFact": "The boomslang has some of the largest eyes relative to head size of any snake."
+ },
+ {
+  "slug": "laticauda-colubrina",
+  "scientific": "Laticauda colubrina",
+  "common": "Banded sea krait",
+  "otherNames": [
+   "Yellow-lipped sea krait",
+   "Aomadara-umihebi アオマダラウミヘビ (Japanese)",
+   "Ular laut (Malay/Indonesian)",
+   "Dadakulaci (Fijian)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Elapidae",
+  "shelves": [
+   "venomous",
+   "deadly",
+   "ocean"
+  ],
+  "summary": "A banded black-and-silver-blue snake that hunts eels in coral reefs and comes ashore on small islands to digest, shed, mate and lay eggs. It has a powerful neurotoxic venom but is so docile that bites are very rare.",
+  "nativeRange": "Tropical Indo-Pacific, from the Bay of Bengal and Andaman Sea through Southeast Asia to southern Japan, New Guinea, Fiji and Tonga",
+  "regions": [
+   "Southeast Asia",
+   "South Asia",
+   "East Asia",
+   "Oceania",
+   "Indian Ocean",
+   "Pacific Ocean"
+  ],
+  "biomes": [
+   "Coral reef",
+   "Rocky shore",
+   "Mangrove"
+  ],
+  "abilities": [
+   "Its paddle-shaped tail drives it underwater, while broad belly scales still let it climb on land",
+   "Can dive for long periods while hunting eels in crevices",
+   "Venom with strong neurotoxins kills eels quickly",
+   "Lays eggs on land in rock crevices, unlike true sea snakes, which bear live young at sea"
+  ],
+  "animal": {
+   "diet": "Almost exclusively moray and conger eels",
+   "habitat": "Shallow coral reefs and their islands, rocky shores, mangroves",
+   "size": "Usually ~1 m; females larger, up to ~1.5 m",
+   "behaviour": "Hunts in groups, sometimes alongside trevallies and goatfish that catch prey the snake flushes out. Bites are rare and usually happen only when a snake is grabbed. Envenoming causes paralysis. First aid is a pressure-immobilisation bandage and splint, keeping the person still and getting them urgently to a hospital, where sea snake antivenom and breathing support may be needed.",
+   "fieldMarks": [
+    "Bold black rings on a pale blue-grey body",
+    "Bright yellow upper lip and snout",
+    "Flattened paddle tail with a yellow-edged black tip",
+    "Broad belly scales (unlike most sea snakes)"
+   ],
+   "lookalikes": "The blue-lipped sea krait (L. laticaudata) has a dark upper lip. The banded snake eel (Myrichthys colubrinus), which is harmless to people, mimics the sea krait's banding but is a fish: it has a pointed tail with a fin, no scales and no yellow lip, and is never seen out of water.",
+   "whereToSee": "Common on reefs in the Philippines, Indonesia (Bali, Komodo, Raja Ampat), Fiji, Vanuatu, New Caledonia, Okinawa; often seen by divers and resting on islet rocks",
+   "season": "Resident year-round",
+   "order": "Squamata"
+  },
+  "iucn": "LC",
+  "lore": "In the Ryukyu Islands its relative the erabu sea snake was smoked and dried to make irabu-jiru, a traditional broth once served to the Ryukyu royal court.",
+  "funFact": "Sea kraits have to drink fresh water. They cannot get what they need from seawater and seek out rain puddles and freshwater seeps on their island."
+ },
+ {
+  "slug": "micrurus-fulvius",
+  "scientific": "Micrurus fulvius",
+  "common": "Eastern coral snake",
+  "otherNames": [
+   "Harlequin coral snake",
+   "Coralillo (Spanish)",
+   "Candy-stick snake"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Elapidae",
+  "shelves": [
+   "venomous",
+   "deadly"
+  ],
+  "summary": "A small, secretive snake of the southeastern US, ringed in red, yellow and black, with a strong neurotoxic venom. Harmless kingsnakes and scarlet snakes copy its colours, which has made it the classic example of warning mimicry in snakes.",
+  "nativeRange": "Southeastern United States: coastal plain from North Carolina to Florida and west to Louisiana (the Texas coral snake, Micrurus tener, replaces it further west)",
+  "regions": [
+   "North America"
+  ],
+  "biomes": [
+   "Pine flatwoods",
+   "Sandhill",
+   "Hardwood hammock",
+   "Suburban gardens"
+  ],
+  "abilities": [
+   "Venom is mainly neurotoxic: it can paralyse breathing hours after a bite that seemed minor",
+   "Hunts other snakes, which it swallows whole",
+   "When threatened, hides its head and curls up its tail to look like a second head"
+  ],
+  "animal": {
+   "diet": "Mainly other snakes and lizards",
+   "habitat": "Leaf litter and sandy soil in pine and hardwood forests; also suburban gardens in Florida",
+   "size": "Usually 50–80 cm; up to ~1.2 m",
+   "behaviour": "Spends most of its time underground or under leaf litter, and is seen mainly after rain or in spring. It has small fixed fangs and often hangs on and chews when it bites. Symptoms (drooping eyelids, slurred speech, trouble swallowing, weak breathing) can take 12 hours or more to appear, so anyone bitten must go straight to hospital whatever they feel. North American Coral Snake Antivenin is used.",
+   "fieldMarks": [
+    "Wide red and black rings separated by narrow yellow rings; red touches yellow",
+    "Black snout, then a broad yellow band across the back of the head",
+    "Rings encircle the body including the belly",
+    "Small rounded head, no wider than the neck; small black eyes"
+   ],
+   "lookalikes": "The harmless scarlet kingsnake (Lampropeltis elapsoides) has a red snout and red rings touching black. The scarlet snake (Cemophora coccinea) has red saddles that do not cross a plain white belly, and a pointed red snout. In the US the rule 'red touches yellow, dangerous fellow; red touches black, friend of Jack' works, but it fails for coral snakes in Mexico, Central and South America. Never handle a ringed snake to check.",
+   "whereToSee": "Pine flatwoods and hammocks of Florida; sandhills of Georgia and the Carolinas; most often seen crossing roads or paths in the morning",
+   "season": "Resident; most often seen in spring (March–May) and autumn",
+   "order": "Squamata"
+  },
+  "iucn": "LC",
+  "lore": "Linnaeus described it in 1766 as Coluber fulvius. It and its harmless look-alikes became the textbook case of warning coloration and mimicry, and field experiments with plasticine model snakes showed that birds avoid red, yellow and black ringed patterns.",
+  "historicalNames": [
+   "Coluber fulvius"
+  ],
+  "funFact": "Wyeth stopped making the US coral snake antivenom in 2003, and for years the FDA extended the expiry dates of the remaining stock to keep some available."
+ },
+ {
+  "slug": "malayopython-reticulatus",
+  "scientific": "Malayopython reticulatus",
+  "common": "Reticulated python",
+  "otherNames": [
+   "Ular sawa (Malay)",
+   "Sanca kembang (Indonesian)",
+   "Ngu lueam งูเหลือม (Thai)",
+   "Trăn gấm (Vietnamese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Pythonidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "The world's longest snake, patterned in a net of black, gold and silver-grey. It is non-venomous and kills by constriction. Large individuals take pigs and deer, and a few well-documented cases of people being killed and swallowed are known from Indonesia.",
+  "nativeRange": "Southeast Asia, from Bangladesh, northeastern India and the Nicobar Islands through Myanmar, Indochina, Malaysia, Indonesia and the Philippines to Timor",
+  "regions": [
+   "Southeast Asia",
+   "South Asia"
+  ],
+  "biomes": [
+   "Tropical rainforest",
+   "Mangrove",
+   "Plantations",
+   "Towns"
+  ],
+  "abilities": [
+   "Reliably measured individuals exceed 6 m, longer than any other snake",
+   "Kills by constriction, stopping blood flow to the prey's heart and brain",
+   "Swims well and has colonised many small islands by sea",
+   "Lives in big cities such as Bangkok and Singapore, eating rats in the drains"
+  ],
+  "animal": {
+   "diet": "Mammals and birds, from rats and chickens to pigs, monkeys and deer",
+   "habitat": "Rainforest, woodland, swamps, plantations and urban drains near water",
+   "lifespan": "~20–30 years in captivity",
+   "size": "Commonly 3–6 m; exceptionally over 7 m",
+   "behaviour": "An ambush hunter that lies hidden near water or game trails. Females coil around their eggs and twitch their muscles to keep them warm. It is not venomous; serious attacks on people are very rare and usually involve very large snakes.",
+   "fieldMarks": [
+    "Net-like (reticulated) pattern of black-edged diamonds on gold or brown, with pale silvery patches along the flanks",
+    "Thin black line running from the eye back along the head, and a narrow black line along the top of the head",
+    "Iridescent sheen; orange or amber eyes",
+    "Heat-sensing pits in the lip scales"
+   ],
+   "lookalikes": "The Burmese python (Python bivittatus) has large dark blotches and a pale arrowhead mark on the top of its head instead of a thin black line, and is heavier for its length. Blood pythons (Python brongersmai) are short and very stout.",
+   "whereToSee": "Rainforests and towns of Malaysia, Borneo, Sumatra and Thailand; Singapore's Sungei Buloh and Bukit Timah; often seen at night by rivers",
+   "season": "Resident",
+   "order": "Squamata"
+  },
+  "iucn": "LC",
+  "lore": "Johann Gottlob Schneider described it as Boa reticulata in 1801. Hundreds of thousands of skins are still exported from Indonesia and Malaysia for luxury leather under CITES quotas.",
+  "historicalNames": [
+   "Boa reticulata",
+   "Python reticulatus"
+  ],
+  "funFact": "The longest snake ever kept in captivity was a reticulated python called Medusa in Kansas City, measured at 7.67 m in 2011."
+ },
+ {
+  "slug": "eunectes-murinus",
+  "scientific": "Eunectes murinus",
+  "common": "Green anaconda",
+  "otherNames": [
+   "Sucuri (Portuguese, from Tupi)",
+   "Sucuriju (Tupi)",
+   "Yacumama (Quechua, 'mother of the water')",
+   "Culebra de agua (Spanish)",
+   "Camoodi (Guyanese English)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Boidae",
+  "shelves": [
+   "freshwater",
+   "marvel"
+  ],
+  "summary": "The heaviest snake in the world, a swamp-dwelling constrictor of South American rivers and flooded savannas. Females are far larger than males, and in the breeding season they are tangled in mating balls of a dozen males.",
+  "nativeRange": "Tropical South America east of the Andes: Amazon and Orinoco basins, the Llanos, the Guianas, and Trinidad",
+  "regions": [
+   "South America",
+   "Caribbean"
+  ],
+  "biomes": [
+   "Tropical rainforest",
+   "Flooded savanna",
+   "Swamp",
+   "Rivers"
+  ],
+  "abilities": [
+   "Large females can exceed 5 m and weigh well over 70 kg, more than any other snake",
+   "Eyes and nostrils on top of the head let it stay hidden underwater with only these exposed",
+   "Kills prey as large as capybaras, caimans and deer by constriction",
+   "Gives birth to live young, sometimes 20–40 or more"
+  ],
+  "animal": {
+   "diet": "Fish, birds, capybaras, peccaries, deer, turtles and caimans",
+   "habitat": "Slow rivers, swamps, oxbow lakes and seasonally flooded grassland",
+   "size": "Females usually 3–5 m, exceptionally more; males much smaller",
+   "behaviour": "In the Venezuelan Llanos dry season, a female may be courted by up to a dozen males wrapped around her in a 'breeding ball' that can last weeks. It is not venomous, and attacks on people are extremely rare.",
+   "fieldMarks": [
+    "Olive-green to dark green body with large, paired, round black blotches along the back",
+    "Black-ringed, yellow-centred spots along the sides",
+    "Orange-yellow and black stripes behind the eye",
+    "Very heavy body; eyes and nostrils on top of the narrow head"
+   ],
+   "lookalikes": "The yellow anaconda (E. notaeus) of the Pantanal and Paraguay is yellowish with more irregular black blotches and is smaller. Boa constrictors have a brown, saddle-patterned body with a reddish tail and do not live in the water. In 2024 a study proposed splitting off the northern green anaconda as E. akayima, but this is still debated.",
+   "whereToSee": "Venezuelan Llanos (such as Hato El Cedral), the Brazilian Amazon and Pantanal edges, Peru's Pacaya-Samiria; best seen basking in the dry season",
+   "season": "Resident; easiest to see in the dry season (January–April in the Llanos)",
+   "order": "Squamata"
+  },
+  "iucn": "LC",
+  "lore": "Amazonian peoples tell of the Yacumama or Boiúna, a giant serpent mother of the rivers. Tales of 20–30 m anacondas led the New York Zoological Society to offer a reward, eventually $50,000, for a live snake over 30 feet (9.1 m). It was never claimed.",
+  "funFact": "Female anacondas can go seven months without eating while pregnant, and may eat a male after mating."
+ },
+ {
+  "slug": "pantherophis-guttatus",
+  "scientific": "Pantherophis guttatus",
+  "common": "Corn snake",
+  "otherNames": [
+   "Red rat snake",
+   "Red cornsnake",
+   "Culebra del maíz (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Colubridae",
+  "shelves": [],
+  "summary": "A gentle, orange-and-red constrictor of the southeastern US and one of the most widely kept pet snakes. It is a rat-catcher of farms and woodlands, and is often killed because people mistake it for a copperhead.",
+  "nativeRange": "Southeastern United States, from southern New Jersey to Florida and west to Louisiana and Kentucky",
+  "regions": [
+   "North America"
+  ],
+  "biomes": [
+   "Pine woodland",
+   "Overgrown fields",
+   "Farmland",
+   "Rocky hillsides"
+  ],
+  "abilities": [
+   "Climbs trees and walls easily, using the corners of its belly scales as grips",
+   "Constricts rodents and is a useful pest controller around barns",
+   "Bred in captivity for decades, producing many colour forms"
+  ],
+  "animal": {
+   "diet": "Mice, rats, birds and eggs; juveniles eat lizards and frogs",
+   "habitat": "Pine forests, overgrown fields, old buildings, rock outcrops",
+   "lifespan": "~6–8 years in the wild; 20+ in captivity",
+   "size": "Usually 0.9–1.5 m",
+   "behaviour": "Mostly active at dusk and night in hot weather. When threatened it vibrates its tail in leaf litter and may strike, but it is harmless.",
+   "fieldMarks": [
+    "Orange to brownish-grey body with large red or orange saddles edged in black",
+    "Spear-point mark on top of the head extending onto the neck",
+    "Black-and-white checkerboard belly",
+    "Slender body, round pupils, no heat pits"
+   ],
+   "lookalikes": "The venomous copperhead (Agkistrodon contortrix) has hourglass-shaped tan-to-copper crossbands that are narrow on the back and wide on the sides, a plain unpatterned head, vertical pupils, heat pits and a heavy body. The corn snake has saddles that are widest on the back, a spear-point head pattern, round pupils and a checkered belly.",
+   "whereToSee": "Pine flatwoods of Florida and the Carolinas, Great Smoky Mountains foothills; often found at night on roads in summer",
+   "season": "Resident; active April–October in the north, nearly all year in Florida",
+   "order": "Squamata"
+  },
+  "iucn": "LC",
+  "lore": "The name may come from its checkered belly, which resembles kernels of 'Indian corn', or from its habit of hunting rats in corn cribs. Linnaeus named it Coluber guttatus in 1766.",
+  "historicalNames": [
+   "Coluber guttatus",
+   "Elaphe guttata"
+  ],
+  "funFact": "Captive breeders have produced dozens of colour forms, with names like 'Snow', 'Anery' and 'Bloodred'."
+ },
+ {
+  "slug": "natrix-natrix",
+  "scientific": "Natrix natrix",
+  "common": "Grass snake",
+  "otherNames": [
+   "Ringelnatter (German)",
+   "Žaltys (Lithuanian)",
+   "Uzhovka / Uzh (Russian)",
+   "Snok (Swedish/Dutch)",
+   "Couleuvre à collier (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Colubridae",
+  "shelves": [
+   "freshwater",
+   "sacred"
+  ],
+  "summary": "A harmless water-loving snake with a bright yellow collar, found across central and eastern Europe into Asia. It eats frogs and fish, plays dead when caught, and lays its eggs in compost heaps and manure, which act as natural incubators.",
+  "nativeRange": "Central and eastern Europe and Scandinavia, east to Lake Baikal and south to the Caucasus and Iran; western populations (Britain, France, western Germany) are now treated as the barred grass snake, Natrix helvetica",
+  "regions": [
+   "Europe",
+   "Central Asia",
+   "West Asia"
+  ],
+  "biomes": [
+   "Wetlands",
+   "Riverbanks",
+   "Meadows",
+   "Gardens"
+  ],
+  "abilities": [
+   "Swims and dives well, hunting frogs, newts and fish",
+   "When grabbed, gives off a foul-smelling fluid and may 'play dead', going limp with its mouth open and tongue hanging",
+   "Uses the heat of rotting vegetation to incubate its eggs"
+  ],
+  "animal": {
+   "diet": "Frogs, toads, newts, fish, occasionally small mammals",
+   "habitat": "Ponds, rivers, marshes, damp meadows and gardens",
+   "lifespan": "~15–20 years",
+   "size": "Usually 70–120 cm; females larger",
+   "behaviour": "Rarely bites. When threatened it hisses and fake-strikes with its mouth closed, then plays dead. Females often lay their eggs together in the same compost heap.",
+   "fieldMarks": [
+    "Yellow, cream or orange collar behind the head, with a black crescent behind it",
+    "Olive-grey to green body with small black bars along the sides",
+    "Round pupils, rounded head",
+    "Chequered black-and-white belly"
+   ],
+   "lookalikes": "The adder (Vipera berus) is shorter and stockier, has a dark zigzag down its back, a V or X mark on its head, vertical pupils and no yellow collar. The dice snake (N. tessellata) has no collar and is blotched. In western Europe the barred grass snake (N. helvetica) is very similar but often has bolder side bars and a weaker collar; range is the best guide.",
+   "whereToSee": "Lakes and wetlands across Poland, the Baltic states, Scandinavia and central Europe; often seen swimming in ponds on sunny days",
+   "season": "Active April–October; hibernates in winter",
+   "order": "Squamata"
+  },
+  "iucn": "LC",
+  "lore": "In Lithuania the žaltys was a household guardian, fed milk and kept in homes. The folk tale 'Eglė, Queen of Serpents' tells of a girl who marries a žaltys, the Serpent King.",
+  "historicalNames": [
+   "Natrix torquata",
+   "Coluber natrix"
+  ],
+  "funFact": "In 2017 genetic work split the grass snake in two, so the familiar British grass snake is now the barred grass snake, Natrix helvetica."
+ },
+ {
+  "slug": "ptyas-mucosa",
+  "scientific": "Ptyas mucosa",
+  "common": "Indian rat snake",
+  "otherNames": [
+   "Oriental rat snake",
+   "Dhaman (Hindi, Urdu)",
+   "Sarai pambu (Tamil)",
+   "Chera (Malayalam)",
+   "Gerandiya (Sinhala)",
+   "Daras (Bengali)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Colubridae",
+  "shelves": [],
+  "summary": "A large, fast, non-venomous snake common in fields and towns across South and Southeast Asia, often killed because it is mistaken for a cobra. It eats large numbers of rats and is among the most useful snakes to farmers.",
+  "nativeRange": "From Iran, Afghanistan and Turkmenistan across Pakistan, India, Nepal, Bangladesh and Sri Lanka to southern China, Taiwan, Indochina and Java",
+  "regions": [
+   "South Asia",
+   "Southeast Asia",
+   "East Asia",
+   "Central Asia",
+   "West Asia"
+  ],
+  "biomes": [
+   "Farmland",
+   "Scrub",
+   "Forest edge",
+   "Towns"
+  ],
+  "abilities": [
+   "Moves very quickly and climbs trees and walls",
+   "When cornered, puffs out its throat and makes a growling sound",
+   "Holds prey down with its body rather than constricting it"
+  ],
+  "animal": {
+   "diet": "Rats, frogs, toads, birds, lizards, other snakes",
+   "habitat": "Rice paddies, scrub, open forest, gardens and suburbs",
+   "lifespan": "~10–15 years",
+   "size": "Usually 1.5–2 m; occasionally ~2.5 m or more",
+   "behaviour": "Active by day. In the breeding season males wrestle in tall, swaying twists, and this is often mistaken for mating between a rat snake and a cobra. It is harmless, but it bites hard if handled.",
+   "fieldMarks": [
+    "Large, prominent eyes with round pupils",
+    "Black edges to the lip scales, like vertical bars",
+    "Body brownish-olive to black, with dark crossbars or a net pattern towards the rear and tail",
+    "Long, slender body tapering into a very long tail; no hood"
+   ],
+   "lookalikes": "The spectacled cobra has a hood with markings, a shorter tail, smaller eyes, and rears up and hisses rather than fleeing. The rat snake may inflate its throat but cannot form a broad hood. The banded-tail pattern and large eyes are the key signs of a rat snake.",
+   "whereToSee": "Rice fields, gardens and city edges across India and Sri Lanka; often seen crossing roads in the day",
+   "season": "Resident; most active in the monsoon",
+   "order": "Squamata"
+  },
+  "iucn": "LC",
+  "lore": "In rural India the dhaman is falsely said to suck milk from cows, and is thought to be the cobra's mate. Before the Wildlife Protection Act of 1972, huge numbers of rat snake skins were exported from India for leather.",
+  "historicalNames": [
+   "Coluber mucosus"
+  ],
+  "funFact": "Linnaeus named it Coluber mucosus in 1758, so it was among the first Asian snakes to receive a scientific name."
+ },
+ {
+  "slug": "opheodrys-aestivus",
+  "scientific": "Opheodrys aestivus",
+  "common": "Rough green snake",
+  "otherNames": [
+   "Rough greensnake",
+   "Grass snake (US regional)",
+   "Vine snake (US regional)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Colubridae",
+  "shelves": [],
+  "summary": "A slender, bright green snake of the eastern US that eats insects and disappears among leaves and vines. It is harmless and rarely bites.",
+  "nativeRange": "Eastern and southern United States, from New Jersey to Florida, west to Kansas and Texas, and into northeastern Mexico",
+  "regions": [
+   "North America"
+  ],
+  "biomes": [
+   "Forest edge",
+   "Wetland margins",
+   "Shrubland"
+  ],
+  "abilities": [
+   "Camouflaged in vegetation, it sways in the breeze like a vine",
+   "Eats mostly insects and spiders, unusual among snakes",
+   "Females sometimes lay their eggs together in tree hollows"
+  ],
+  "animal": {
+   "diet": "Caterpillars, crickets, grasshoppers, dragonflies, spiders",
+   "habitat": "Shrubs and trees beside lakes, streams and forest edges",
+   "lifespan": "~5–8 years",
+   "size": "Usually 55–80 cm; very slender",
+   "behaviour": "Sleeps coiled on outer branches over water at night, where it can be found by torchlight.",
+   "fieldMarks": [
+    "Uniform bright green above with a white, yellow or pale green belly",
+    "Keeled scales (giving the 'rough' feel)",
+    "Very long, thin body and tail",
+    "Round pupils and a rounded head"
+   ],
+   "lookalikes": "The smooth green snake (Opheodrys vernalis) is smaller, more northern and has smooth scales. Green vine snakes in Mexico and further south have long pointed heads. No venomous snake in its US range is bright green.",
+   "whereToSee": "Lake and river edges across the southeastern US, e.g. Okefenokee Swamp, Everglades, Ozarks",
+   "season": "Active April–October; hibernates in winter",
+   "order": "Squamata"
+  },
+  "iucn": "LC",
+  "lore": "Linnaeus described it in 1766 as Coluber aestivus, the 'summer snake'.",
+  "historicalNames": [
+   "Coluber aestivus"
+  ],
+  "funFact": "The pigment that colours it green breaks down after death, so preserved specimens and dead snakes on roads turn blue."
+ },
+ {
+  "slug": "chrysopelea-paradisi",
+  "scientific": "Chrysopelea paradisi",
+  "common": "Paradise tree snake",
+  "otherNames": [
+   "Paradise flying snake",
+   "Ular terbang (Malay)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Colubridae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "A tree snake of Southeast Asia that glides between trees. It launches from a branch, flattens its body and undulates through the air. It is mildly venomous to its lizard prey but harmless to people.",
+  "nativeRange": "Southeast Asia: southern Thailand, Peninsular Malaysia, Singapore, Borneo, Sumatra, Java, the Philippines and nearby islands",
+  "regions": [
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Tropical rainforest",
+   "Mangrove",
+   "Gardens and parks"
+  ],
+  "abilities": [
+   "Glides between trees, travelling farther than it drops, steering by undulating",
+   "Flattens its body into a concave 'wing' by spreading its ribs",
+   "Has rear fangs with mild venom for subduing lizards; harmless to humans"
+  ],
+  "animal": {
+   "diet": "Lizards (especially geckos), frogs, bats, small birds",
+   "habitat": "Rainforest canopy, mangroves and urban parks",
+   "size": "Usually ~1 m; up to ~1.2 m",
+   "behaviour": "It hangs from a branch in a J shape, then jumps and glides. In Jake Socha's experiments, snakes launched from a 10 m tower travelled farther horizontally than they dropped.",
+   "fieldMarks": [
+    "Black body with each scale centred in bright green or yellow-green",
+    "Row of red-orange spots along the back",
+    "Long thin body, flat head, large eyes"
+   ],
+   "lookalikes": "The golden tree snake (C. ornata) is larger, often lacks red spots and has more yellow. The twin-barred tree snake (C. pelias) is banded red, black and white. All are mildly venomous and harmless to people.",
+   "whereToSee": "Singapore Botanic Gardens and parks, Borneo's lowland forests, Malaysian mangroves",
+   "season": "Resident; active by day",
+   "order": "Squamata"
+  },
+  "iucn": "LC",
+  "funFact": "Wind-tunnel tests on models of its flattened body showed that its cross-section produces surprisingly high lift, especially when tilted at about 35 degrees."
+ },
+ {
+  "slug": "iguana-iguana",
+  "scientific": "Iguana iguana",
+  "common": "Green iguana",
+  "otherNames": [
+   "Iguana (Spanish, from Taíno iwana)",
+   "Gallina de palo, 'tree chicken' (Central American Spanish)",
+   "Garrobo (Spanish, regional)",
+   "Sinimbu / Camaleão (Brazilian Portuguese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Iguanidae",
+  "shelves": [
+   "edible"
+  ],
+  "summary": "A large plant-eating lizard of tropical American riversides, with a dewlap and a spiny crest. It is eaten across Central America. Released pets have made it an invasive pest in Florida, Puerto Rico and elsewhere.",
+  "nativeRange": "Mexico through Central America to Paraguay and southern Brazil; parts of the Caribbean",
+  "regions": [
+   "Central America",
+   "South America",
+   "Caribbean"
+  ],
+  "biomes": [
+   "Tropical rainforest",
+   "Riverine forest",
+   "Dry forest",
+   "Mangrove"
+  ],
+  "abilities": [
+   "Can drop from tree branches over 10 m high into water or onto the ground unhurt",
+   "Swims well and can stay underwater for long periods",
+   "Has a light-sensitive 'third eye' (parietal eye) on top of its head",
+   "Digests leaves with the help of gut microbes, like a cow"
+  ],
+  "animal": {
+   "diet": "Leaves, flowers and fruit; juveniles occasionally eat insects",
+   "habitat": "Trees along rivers and coasts; urban canals in introduced range",
+   "lifespan": "~10–15 years in the wild; 20+ in captivity",
+   "size": "Up to ~1.7 m including tail; up to ~5–8 kg",
+   "behaviour": "Basks high in trees over water and drops into the river to escape. Males bob their heads and show off their dewlaps to rivals. It eats plants and is not venomous, but it bites and lashes its tail if handled. People eat both the meat and the eggs.",
+   "fieldMarks": [
+    "Large round scale (subtympanic shield) on the cheek below the ear",
+    "Large dewlap and a spiny crest along the back",
+    "Green to grey-brown; adult males can turn orange in the breeding season",
+    "Long tail with dark bands"
+   ],
+   "lookalikes": "Spiny-tailed iguanas (Ctenosaura) have rings of spiny scales on the tail and no large cheek scale. The Lesser Antillean iguana (I. delicatissima) also lacks the large cheek scale and has an unbanded tail. Basilisks are smaller, with crests on the head.",
+   "whereToSee": "Riverbanks throughout Central America, e.g. Costa Rica's Tárcoles and Sarapiquí rivers, Tikal, Belize; in Florida, canals in Miami",
+   "season": "Resident; mating in the dry season, egg-laying a few weeks later",
+   "order": "Squamata"
+  },
+  "iucn": "LC",
+  "edibility": "edible",
+  "edibleParts": [
+   "meat",
+   "eggs"
+  ],
+  "edibilityNote": "Eaten traditionally in Central America and the Caribbean; harvest of wild populations is regulated in many countries. Like other reptiles it can carry Salmonella, so meat must be cooked thoroughly.",
+  "lore": "The word 'iguana' comes from the Taíno iwana. Gonzalo Fernández de Oviedo described iguana meat in his 1526 'Sumario' of the natural history of the Indies.",
+  "historicalNames": [
+   "Iuana",
+   "Lacerta iguana"
+  ],
+  "funFact": "During cold snaps in Florida, iguanas become torpid and fall from trees; they usually recover when they warm up."
+ },
+ {
+  "slug": "amblyrhynchus-cristatus",
+  "scientific": "Amblyrhynchus cristatus",
+  "common": "Marine iguana",
+  "otherNames": [
+   "Iguana marina (Spanish)",
+   "Sea iguana"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Iguanidae",
+  "shelves": [
+   "ocean",
+   "endangered",
+   "marvel"
+  ],
+  "summary": "The only lizard in the world that forages in the sea. On the Galápagos Islands it dives into cold surf to graze algae, then warms up on black lava rocks. Charles Darwin recorded that they had been called 'imps of darkness'.",
+  "nativeRange": "Galápagos Islands, Ecuador",
+  "regions": [
+   "South America",
+   "Pacific Ocean"
+  ],
+  "biomes": [
+   "Rocky shore",
+   "Intertidal zone",
+   "Subtidal reef"
+  ],
+  "abilities": [
+   "Dives to over 10 m and grazes algae on rocks with its short blunt snout",
+   "Sneezes out excess salt from glands near its nose",
+   "Shrinks its body, even its bones, when food is short in El Niño years, then grows again",
+   "Digests seaweed with the help of gut microbes"
+  ],
+  "animal": {
+   "diet": "Red and green algae from intertidal and subtidal rocks",
+   "habitat": "Rocky lava coasts and nearby water",
+   "lifespan": "~12 years or more",
+   "size": "Up to ~1.3 m including tail; males larger",
+   "behaviour": "Large males dive offshore, while females and smaller iguanas graze on algae exposed at low tide. They pile together on rocks at night to keep warm.",
+   "fieldMarks": [
+    "Short, blunt snout and spiny crest along the back",
+    "Black or grey body; on some islands males are mottled red and green in the breeding season",
+    "Flattened tail for swimming",
+    "Often white-crusted head from sneezed salt"
+   ],
+   "lookalikes": "Galápagos land iguanas (Conolophus) are yellow-brown with a long rounded tail and live inland. Lava lizards (Microlophus) are much smaller.",
+   "whereToSee": "All main Galápagos islands; Española (Punta Suárez) for red-green males, Fernandina (Punta Espinoza) for large colonies",
+   "season": "Resident; breeding coloration and mating December–January on many islands",
+   "order": "Squamata"
+  },
+  "iucn": "VU",
+  "lore": "Darwin wrote in 1835 that marine iguanas were 'hideous-looking' and 'most disgusting, clumsy lizards', and noted that 'somebody calls them imps of darkness', a phrase used earlier by Lord Byron's 1826 voyage account. He threw one into the sea repeatedly to watch it swim back.",
+  "funFact": "In El Niño years marine iguanas can shrink by up to ~20% in length, and their bones get shorter, then they regrow when food returns."
+ },
+ {
+  "slug": "heloderma-suspectum",
+  "scientific": "Heloderma suspectum",
+  "common": "Gila monster",
+  "otherNames": [
+   "Monstruo de Gila (Spanish)",
+   "Gila monster lizard"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Helodermatidae",
+  "shelves": [
+   "venomous",
+   "marvel"
+  ],
+  "summary": "A slow, beaded black-and-pink venomous lizard of the North American deserts, spending most of its life underground. A hormone from its saliva inspired the diabetes drug exenatide, an early member of the family of drugs that later includes semaglutide.",
+  "nativeRange": "Southwestern United States (Arizona, southern Nevada, Utah, New Mexico, California) and northwestern Mexico (Sonora, Sinaloa)",
+  "regions": [
+   "North America"
+  ],
+  "biomes": [
+   "Desert",
+   "Desert scrub",
+   "Rocky foothills"
+  ],
+  "abilities": [
+   "Delivers venom by chewing, from glands in its lower jaw; bites are very painful",
+   "Stores fat in its thick tail, letting it survive months without food",
+   "Can eat a third of its body weight in one meal",
+   "Its saliva contains exendin-4, which led to the drug exenatide (approved 2005)"
+  ],
+  "animal": {
+   "diet": "Bird and reptile eggs, nestling birds and baby rodents",
+   "habitat": "Rocky desert hillsides, desert washes, scrub",
+   "lifespan": "~20 years in the wild; up to ~30 in captivity",
+   "size": "~30–55 cm",
+   "behaviour": "Spends about 90% of its life in burrows, coming out mainly in spring to raid nests. Bites are rare and come from handling. It clamps on and chews. The bite is very painful and causes swelling and sometimes low blood pressure, but deaths are almost unknown. Remove the lizard, wash the wound and go to hospital. Do not cut or suck the bite.",
+   "fieldMarks": [
+    "Bead-like scales in black with pink, orange or yellow patches or bands",
+    "Heavy body with a short, fat tail",
+    "Blunt, rounded head and small eyes",
+    "Slow, waddling walk"
+   ],
+   "lookalikes": "The Mexican beaded lizard (H. horridum) is larger and darker, mostly yellowish and black, and lives further south. Chuckwallas are flat and grey-brown, with no beaded pattern.",
+   "whereToSee": "Sonoran Desert around Tucson and Phoenix, Arizona (Saguaro National Park); southwestern Utah; Arizona-Sonora Desert Museum",
+   "season": "Most active April–June; mostly inactive in winter",
+   "order": "Squamata"
+  },
+  "iucn": "NT",
+  "lore": "In 1952 Arizona protected the Gila monster by law, making it among the first venomous animals to receive legal protection in the United States. Its common name refers to the Gila River basin.",
+  "funFact": "Endocrinologist John Eng discovered exendin-4 in Gila monster venom in 1992."
+ },
+ {
+  "slug": "moloch-horridus",
+  "scientific": "Moloch horridus",
+  "common": "Thorny devil",
+  "otherNames": [
+   "Thorny dragon",
+   "Mountain devil",
+   "Ngiyari (Western Desert languages)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Agamidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "An Australian desert lizard covered in conical spines. Grooves between its scales pull water from damp sand or dew across its skin to its mouth, and it eats only ants, thousands at a sitting.",
+  "nativeRange": "Arid and semi-arid central and western Australia",
+  "regions": [
+   "Australia"
+  ],
+  "biomes": [
+   "Desert",
+   "Spinifex grassland",
+   "Mallee scrub"
+  ],
+  "abilities": [
+   "Drinks through its skin: fine channels between its scales draw water to its mouth",
+   "Eats only small ants, licking them up one at a time",
+   "Has a knob on the back of its neck that acts as a 'false head' when it dips its real head",
+   "Changes colour between yellow, red and brown with temperature and mood"
+  ],
+  "animal": {
+   "diet": "Small black ants, especially Iridomyrmex and Ochetellus",
+   "habitat": "Sandy desert, spinifex grassland and mallee scrub",
+   "lifespan": "~15–20 years",
+   "size": "Up to ~20 cm",
+   "behaviour": "It walks with a jerky, rocking gait and freezes when watched. When threatened it tucks its head down so the knob on its neck looks like a head.",
+   "fieldMarks": [
+    "Body covered in large conical spines, including two horns over the eyes",
+    "Yellow, red and brown camouflage pattern",
+    "Spiny knob on the back of the neck",
+    "Slow, swaying walk"
+   ],
+   "lookalikes": "Unlike any other Australian lizard. North American horned lizards (Phrynosoma) look similar through convergent evolution but live on another continent.",
+   "whereToSee": "Red-sand deserts near Uluru and Alice Springs, the Great Victoria Desert, and Western Australia's Wheatbelt and Shark Bay; often seen on sandy roads in the morning",
+   "season": "Active in spring and autumn; breeds in late winter–spring (August–December)",
+   "order": "Squamata"
+  },
+  "iucn": "LC",
+  "lore": "John Edward Gray named it in 1841 after Moloch, the Canaanite god associated with child sacrifice, a reference to its fearsome look.",
+  "funFact": "A thorny devil can eat thousands of ants in a single meal."
+ },
+ {
+  "slug": "chlamydosaurus-kingii",
+  "scientific": "Chlamydosaurus kingii",
+  "common": "Frilled lizard",
+  "otherNames": [
+   "Frilled dragon",
+   "Frill-necked lizard",
+   "Bicycle lizard (Australian)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Agamidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "A tree-dwelling dragon of northern Australia and New Guinea that, when alarmed, opens a huge ruff of skin around its head, gapes a pink-yellow mouth and hisses. If that fails it runs off on its hind legs.",
+  "nativeRange": "Northern Australia (Kimberley, Top End, Cape York) and southern New Guinea",
+  "regions": [
+   "Australia",
+   "Oceania"
+  ],
+  "biomes": [
+   "Tropical savanna",
+   "Open woodland"
+  ],
+  "abilities": [
+   "Spreads a frill up to ~30 cm across, supported by cartilage rods from its jaw",
+   "Runs bipedally at speed on its hind legs",
+   "Spends most of its time in trees, coming down to hunt insects after rains"
+  ],
+  "animal": {
+   "diet": "Insects, spiders, small lizards and mammals",
+   "habitat": "Tropical savanna woodland, often in eucalyptus trees",
+   "size": "Up to ~90 cm including tail; males larger",
+   "behaviour": "Most active in the wet season, when it comes down to the ground to feed. In the dry season it stays high in trees and is much less active.",
+   "fieldMarks": [
+    "Large, loose frill folded around the neck like a cape",
+    "Grey to brown or reddish body, often with darker mottling",
+    "Long tail and long hind legs",
+    "Mouth lining pink or yellow"
+   ],
+   "lookalikes": "Bearded dragons (Pogona) have a spiny throat pouch rather than a free frill and live mostly further south. Water dragons have a crest but no frill.",
+   "whereToSee": "Kakadu and Litchfield national parks (Northern Territory), the Kimberley, Cape York; most often seen on tree trunks or roads in the wet season",
+   "season": "Most visible in the wet season (November–April)",
+   "order": "Squamata"
+  },
+  "iucn": "LC",
+  "lore": "It appeared on the reverse of the Australian two-cent coin from decimalisation in 1966 until the coin was discontinued in the early 1990s.",
+  "funFact": "Its frill is controlled by jaw muscles: when it opens its mouth wide, the frill opens too."
+ },
+ {
+  "slug": "gekko-gecko",
+  "scientific": "Gekko gecko",
+  "common": "Tokay gecko",
+  "otherNames": [
+   "Tokek (Indonesian/Malay)",
+   "Tukkae ตุ๊กแก (Thai)",
+   "Gé jiè 蛤蚧 (Chinese)",
+   "Tắc kè (Vietnamese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Gekkonidae",
+  "shelves": [
+   "medicinal",
+   "songbird"
+  ],
+  "summary": "A large, blue-grey and orange-spotted gecko of Asia, named for its loud 'to-kay' call. It runs up walls and glass on toes covered in microscopic hairs, and is one of the most heavily traded reptiles in traditional medicine.",
+  "nativeRange": "Northeastern India and Bangladesh through southern China and Southeast Asia to Indonesia and the Philippines; introduced in Florida, Hawaii and elsewhere",
+  "regions": [
+   "South Asia",
+   "Southeast Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Tropical forest",
+   "Rocky outcrops",
+   "Towns and buildings"
+  ],
+  "abilities": [
+   "Sticks to smooth surfaces using millions of tiny hairs (setae) on its toes, which grip by van der Waals forces",
+   "Has a strong bite that can hold on for minutes",
+   "Can drop its tail to escape and regrow it"
+  ],
+  "animal": {
+   "diet": "Insects, spiders, other geckos, small mammals and birds",
+   "habitat": "Tree trunks, cliffs and buildings",
+   "lifespan": "~10 years or more",
+   "size": "Up to ~35 cm including tail",
+   "behaviour": "Males call loudly at night from walls and trees to defend territories. When threatened it opens its mouth wide, barks and bites hard.",
+   "fieldMarks": [
+    "Large, heavy-headed gecko, blue-grey with orange to red spots",
+    "Big eyes with vertical pupils",
+    "Wide toe pads",
+    "Loud 'to-kay' call at night"
+   ],
+   "voice": "A loud, repeated 'to-kay' or 'geck-o', often preceded by a chuckling rattle; carries far at night",
+   "lookalikes": "Smaller house geckos (Hemidactylus) are pale and plain. The related Gekko smithii has green eyes and pale rather than orange-red spots. No other gecko in its range is as large or as loud.",
+   "whereToSee": "Buildings and forest throughout Southeast Asia; often heard at night in guesthouses in Thailand, Malaysia, Bali",
+   "season": "Resident; calls year-round, especially in the wet season",
+   "order": "Squamata"
+  },
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Traditional Chinese medicine",
+     "use": "Dried, split tokay (gé jiè) used in tonics for cough, asthma and as a 'kidney tonic'"
+    }
+   ],
+   "evidence": "traditional",
+   "cautions": "No good clinical evidence. Wild collection for the medicine trade has depleted populations; the species was listed on CITES Appendix II in 2019."
+  },
+  "iucn": "LC",
+  "lore": "Its call gave it its name in many Southeast Asian languages, such as tokek and tukko. In parts of Thailand and Indonesia, hearing a tokay call seven times in a row is said to bring good luck.",
+  "funFact": "Gecko feet have inspired adhesives that can be peeled off and reused many times without losing their grip."
+ },
+ {
+  "slug": "eublepharis-macularius",
+  "scientific": "Eublepharis macularius",
+  "common": "Leopard gecko",
+  "otherNames": [
+   "Common leopard gecko",
+   "Spotted fat-tailed gecko"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Eublepharidae",
+  "shelves": [],
+  "summary": "A ground-dwelling gecko of the rocky deserts of Pakistan and Afghanistan, with movable eyelids and no sticky toe pads. It stores fat in its tail and is one of the most widely kept pet lizards.",
+  "nativeRange": "Afghanistan, Pakistan and northwestern India; possibly eastern Iran",
+  "regions": [
+   "South Asia",
+   "Central Asia",
+   "West Asia"
+  ],
+  "biomes": [
+   "Rocky desert",
+   "Dry grassland",
+   "Scrub"
+  ],
+  "abilities": [
+   "Has movable eyelids, unlike most geckos",
+   "Stores fat in its thick tail to survive lean months",
+   "Can drop its tail and regrow it",
+   "Sex of the hatchlings is set by the incubation temperature"
+  ],
+  "animal": {
+   "diet": "Insects, spiders, scorpions",
+   "habitat": "Rocky semi-desert, dry grassland and scrub",
+   "lifespan": "20+ years in captivity",
+   "size": "~20–25 cm",
+   "behaviour": "Nocturnal: it hides under stones by day and hunts insects on the ground at night. It waves its tail before pouncing.",
+   "fieldMarks": [
+    "Yellow body with black spots in adults; juveniles boldly banded",
+    "Movable eyelids",
+    "Thick, fat tail",
+    "Slender toes without adhesive pads"
+   ],
+   "lookalikes": "Closely related leopard geckos of western India (E. fuscus) and eastern India (E. hardwickii) look similar; range is the best guide. The African fat-tailed gecko (Hemitheconyx) is brown-banded and lives in West Africa.",
+   "whereToSee": "Rocky slopes of Balochistan and Sindh, Pakistan, and dry hills of Afghanistan",
+   "season": "Active March–October; dormant in winter",
+   "order": "Squamata"
+  },
+  "iucn": "LC",
+  "lore": "Edward Blyth described it in 1854 from the Salt Range of Punjab.",
+  "funFact": "Leopard geckos can shed their tails when grabbed and regrow them, but the new tail is shorter and fatter and lacks bones."
+ },
+ {
+  "slug": "trioceros-jacksonii",
+  "scientific": "Trioceros jacksonii",
+  "common": "Jackson's chameleon",
+  "otherNames": [
+   "Three-horned chameleon",
+   "Kinyonga (Swahili, chameleon)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Chamaeleonidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "A green chameleon of the cool East African highlands; males carry three forward-pointing horns like a miniature Triceratops. It gives birth to live young instead of laying eggs, which suits its chilly mountain home.",
+  "nativeRange": "Highlands of Kenya and northern Tanzania; introduced to Hawaii (1970s) and California",
+  "regions": [
+   "Sub-Saharan Africa",
+   "Oceania",
+   "North America"
+  ],
+  "biomes": [
+   "Montane forest",
+   "Highland gardens",
+   "Shrubland"
+  ],
+  "abilities": [
+   "Bears live young, up to ~30 in a litter, after a pregnancy of about 5–6 months",
+   "Eyes move independently and lock together on prey",
+   "Shoots out a sticky tongue longer than its body to catch insects",
+   "Males use their horns in pushing contests"
+  ],
+  "animal": {
+   "diet": "Insects, spiders, snails",
+   "habitat": "Moist montane forest, shrubs and gardens at about 1,500–3,000 m",
+   "lifespan": "~5–10 years",
+   "size": "Up to ~30 cm including tail",
+   "behaviour": "Slowly stalks insects among leaves, rocking back and forth like a leaf in the wind. Colour changes reflect mood and temperature.",
+   "fieldMarks": [
+    "Males have three long horns, one on the snout and one above each eye; females have none or small ones",
+    "Bright green with yellow, blue or brown patches",
+    "Saw-toothed crest along the back",
+    "Grasping tail and tong-like feet"
+   ],
+   "lookalikes": "Johnston's chameleon (T. johnstoni) also has three horns in males but lives in the Albertine Rift mountains far to the west. Other Kenyan highland chameleons have one horn or none.",
+   "whereToSee": "Gardens and forest of Nairobi and the Aberdare and Mount Kenya foothills; in Hawaii, upland gardens of Maui and the Big Island",
+   "season": "Resident",
+   "order": "Squamata"
+  },
+  "iucn": "LC",
+  "lore": "George Albert Boulenger named it in 1896 after Frederick John Jackson, a British naturalist and colonial administrator in East Africa.",
+  "funFact": "Jackson's chameleons were brought to Hawaii in the 1970s for the pet trade and now live wild on several islands, where they eat native snails and insects."
+ },
+ {
+  "slug": "basiliscus-plumifrons",
+  "scientific": "Basiliscus plumifrons",
+  "common": "Plumed basilisk",
+  "otherNames": [
+   "Green basilisk",
+   "Double-crested basilisk",
+   "Jesus Christ lizard",
+   "Basilisco verde / Gallego (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Corytophanidae",
+  "shelves": [
+   "freshwater",
+   "marvel"
+  ],
+  "summary": "A bright green lizard of Central American streams, crowned with tall crests, that escapes predators by running across the surface of water on its hind legs.",
+  "nativeRange": "Central America, from Honduras to western Panama",
+  "regions": [
+   "Central America"
+  ],
+  "biomes": [
+   "Tropical rainforest",
+   "Riverbanks"
+  ],
+  "abilities": [
+   "Runs on water for several metres by slapping its feet down and pulling them back before they sink",
+   "Fringes of scales on its toes increase the surface area of each step",
+   "Swims well and can stay underwater to hide"
+  ],
+  "animal": {
+   "diet": "Insects, spiders, small vertebrates, fruit and flowers",
+   "habitat": "Trees and shrubs overhanging rainforest streams and rivers",
+   "lifespan": "~10 years in captivity",
+   "size": "Up to ~90 cm including long tail",
+   "behaviour": "Basks on branches over water and drops in to escape. Young basilisks can run farther on water than adults, because they are light.",
+   "fieldMarks": [
+    "Bright green body with blue or white spots",
+    "Males have a double head crest and tall sail-like crests on the back and tail",
+    "Long hind legs with fringed toes",
+    "Yellow-orange eyes"
+   ],
+   "lookalikes": "The common basilisk (B. basiliscus) and brown basilisk (B. vittatus) are brown with pale stripes. Young green iguanas are green but have a dewlap and no head crest.",
+   "whereToSee": "Costa Rica's Caribbean lowlands: Tortuguero, La Selva, Sarapiquí; also Arenal",
+   "season": "Resident",
+   "order": "Squamata"
+  },
+  "iucn": "LC",
+  "lore": "The name comes from the basilisk of European legend, a serpent-king whose gaze could kill. Its water-running gave it the nickname 'Jesus Christ lizard'.",
+  "funFact": "Researchers Glasheen and McMahon showed in 1996 that each slap and stroke of a basilisk's foot opens an air pocket in the water that holds it up, and that it pulls the foot out before the pocket collapses."
+ },
+ {
+  "slug": "phrynosoma-cornutum",
+  "scientific": "Phrynosoma cornutum",
+  "common": "Texas horned lizard",
+  "otherNames": [
+   "Horny toad",
+   "Horned toad",
+   "Camaleón (Mexican Spanish)",
+   "Torito de la Virgen (Mexican Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Phrynosomatidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "A flat, spiny lizard of the southern Great Plains and deserts that eats harvester ants. When attacked by coyotes or dogs it can squirt a stream of foul-tasting blood from its eyes.",
+  "nativeRange": "South-central United States (Kansas, Oklahoma, Texas, New Mexico, southeastern Colorado and Arizona) and northern Mexico",
+  "regions": [
+   "North America"
+  ],
+  "biomes": [
+   "Grassland",
+   "Desert scrub",
+   "Semi-arid shrubland"
+  ],
+  "abilities": [
+   "Squirts blood from its eyes up to about 1.5 m to deter dog-family predators",
+   "Can puff itself up to look bigger and harder to swallow",
+   "Eats harvester ants and tolerates their venom",
+   "Collects rain on its back and channels it to its mouth"
+  ],
+  "animal": {
+   "diet": "Mainly harvester ants (Pogonomyrmex); also other insects",
+   "habitat": "Open, arid and semi-arid land with sparse plants and sandy soil",
+   "size": "~6–11 cm snout to vent",
+   "behaviour": "Basks in the morning and buries itself in sand at night. Its numbers have fallen in Texas due to pesticides, habitat loss and invasive fire ants that displace harvester ants.",
+   "fieldMarks": [
+    "Flat, round body covered in spines",
+    "Two long central horns on the back of the head, longer than the others",
+    "Two rows of fringe scales along each side",
+    "Pale stripe down the middle of the back with dark spots on either side"
+   ],
+   "lookalikes": "The round-tailed horned lizard (P. modestum) is smaller, with short horns and no side fringe. Greater short-horned lizards (P. hernandesi) have short horns and live at higher altitudes.",
+   "whereToSee": "South Texas brushland (e.g. Chaparral Wildlife Management Area), west Texas and New Mexico grasslands, western Oklahoma",
+   "season": "Active April–September",
+   "order": "Squamata"
+  },
+  "iucn": "LC",
+  "lore": "The Texas horned lizard became the state reptile of Texas in 1993, and is the 'Horned Frog' mascot of Texas Christian University. 'Old Rip', supposedly sealed in a courthouse cornerstone in Eastland, Texas, in 1897 and found alive in 1928, became a national sensation.",
+  "funFact": "Blood squirted from its eyes contains chemicals that dogs and coyotes find foul-tasting, but it has no effect on hawks."
+ },
+ {
+  "slug": "varanus-bengalensis",
+  "scientific": "Varanus bengalensis",
+  "common": "Bengal monitor",
+  "otherNames": [
+   "Indian monitor",
+   "Goh (Hindi, Urdu)",
+   "Udumbu (Tamil, Malayalam)",
+   "Ghorpad (Marathi)",
+   "Thalagoya (Sinhala)",
+   "Gui sap (Bengali)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Varanidae",
+  "shelves": [],
+  "summary": "A large, ground-dwelling monitor of South Asia's plains and forests. It digs out insects, scorpions and eggs with its claws and tracks food with its forked tongue. It is hunted for meat, skins and a fake 'magical root'.",
+  "nativeRange": "Iran and Afghanistan through Pakistan, India, Nepal, Bangladesh and Sri Lanka to Myanmar",
+  "regions": [
+   "South Asia",
+   "West Asia",
+   "Central Asia",
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Tropical dry forest",
+   "Farmland",
+   "Scrub",
+   "Semi-desert"
+  ],
+  "abilities": [
+   "Digs out prey with strong claws and can climb trees",
+   "Can run fast on land and swim",
+   "Tracks food with its forked tongue",
+   "Lives close to farms and villages without depending on water"
+  ],
+  "animal": {
+   "diet": "Beetles, scorpions, snails, frogs, eggs, small mammals, carrion",
+   "habitat": "Forest, farmland, scrub and semi-desert; often in burrows or tree hollows",
+   "lifespan": "~20 years",
+   "size": "Usually 60–175 cm including tail",
+   "behaviour": "Active by day, digging for prey in leaf litter and termite mounds. Males wrestle while standing on their hind legs during the breeding season.",
+   "fieldMarks": [
+    "Large monitor, grey-brown to yellowish with dark speckles; juveniles banded",
+    "Slit-like nostrils placed midway between the eye and snout tip",
+    "Long neck and forked tongue",
+    "Laterally flattened tail"
+   ],
+   "lookalikes": "The water monitor (V. salvator) is darker with yellow spots or bands and has round nostrils near the snout tip; it lives near water. The yellow monitor (V. flavescens) of the Gangetic plain has bold yellow bands and a short snout.",
+   "whereToSee": "Common in Ranthambore, Keoladeo, Kanha, Bandipur (India) and Yala and Wilpattu (Sri Lanka)",
+   "season": "Resident; inactive in cold winters in the north",
+   "order": "Squamata"
+  },
+  "iucn": "NT",
+  "lore": "Legend says the Maratha general Tanaji Malusare used a monitor, Yashwanti, to scale the walls of Kondhana (Sinhagad) fort in 1670. Dried monitor hemipenes are sold illegally as 'hatha jodi', a supposedly lucky root.",
+  "funFact": "Most 'hatha jodi' seized in Indian markets have turned out to be the dried genitals of male monitor lizards."
+ },
+ {
+  "slug": "sphenodon-punctatus",
+  "scientific": "Sphenodon punctatus",
+  "common": "Tuatara",
+  "otherNames": [
+   "Tuatara (Māori, 'peaks on the back')",
+   "Ngārara (Māori, reptiles generally)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Sphenodontidae",
+  "shelves": [
+   "ancient",
+   "marvel",
+   "sacred"
+  ],
+  "summary": "Not a lizard but the sole survivor of an order of reptiles, the Rhynchocephalia, which flourished in the age of the dinosaurs. It lives on cool islands off New Zealand, grows slowly, breeds rarely and can live for more than a century.",
+  "nativeRange": "Offshore islands of New Zealand; reintroduced to fenced sanctuaries on the mainland",
+  "regions": [
+   "Oceania"
+  ],
+  "biomes": [
+   "Coastal forest",
+   "Island scrub",
+   "Seabird colonies"
+  ],
+  "abilities": [
+   "The only living member of the reptile order Rhynchocephalia",
+   "Has a 'third eye' (parietal eye) with a lens and retina on top of its head, visible in hatchlings",
+   "Active at temperatures as low as ~5 °C, colder than most reptiles tolerate",
+   "Sex of hatchlings depends on nest temperature; warmer nests produce more males"
+  ],
+  "animal": {
+   "diet": "Beetles, wētā, spiders, worms, seabird eggs and chicks, lizards",
+   "habitat": "Coastal forest and scrub on islands, often sharing burrows with seabirds such as petrels",
+   "lifespan": "Can exceed 100 years",
+   "size": "Males up to ~60 cm and 1 kg; females smaller",
+   "behaviour": "Nocturnal. It shares burrows with nesting seabirds. Females breed only every 2–5 years, and eggs take 11–16 months to hatch.",
+   "fieldMarks": [
+    "Lizard-like body, olive-green to grey or reddish",
+    "Spiny crest along the neck and back, larger in males",
+    "No external ear openings",
+    "Saw-like teeth fused to the jaw bone"
+   ],
+   "lookalikes": "Superficially like a large lizard, but no lizard in New Zealand has a spiny crest like this. It has no external ear opening and a beak-like upper jaw.",
+   "whereToSee": "Zealandia Ecosanctuary (Wellington), Orokonui (Dunedin), Tiritiri Matangi Island; Stephens Island (Takapourewa) has the largest population but is closed to the public",
+   "season": "Resident; most active on warm, humid nights",
+   "order": "Rhynchocephalia"
+  },
+  "iucn": "LC",
+  "lore": "To many Māori tuatara are taonga (treasures) and kaitiaki (guardians) of knowledge. Albert Günther showed in 1867 that it was not a lizard but the last of an ancient reptile lineage.",
+  "funFact": "'Henry', a tuatara at the Southland Museum in Invercargill, became a father in 2009 at the age of about 111."
+ },
+ {
+  "slug": "dermochelys-coriacea",
+  "scientific": "Dermochelys coriacea",
+  "common": "Leatherback sea turtle",
+  "otherNames": [
+   "Tortuga laúd / Baula (Spanish)",
+   "Tartaruga-de-couro (Portuguese)",
+   "Tortue luth (French)",
+   "Penyu belimbing (Malay)",
+   "Oshi-game オサガメ (Japanese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Dermochelyidae",
+  "shelves": [
+   "ocean",
+   "migrant",
+   "endangered",
+   "marvel",
+   "ancient"
+  ],
+  "summary": "The largest living turtle and the only one without a hard shell. Its back is a leathery skin over a mosaic of small bones. It dives deeper than 1,000 m, crosses whole oceans to feed on jellyfish, and stays warm in cold northern seas.",
+  "nativeRange": "All tropical and temperate oceans; nests on tropical beaches, forages north to Norway and Alaska and south to Chile and New Zealand",
+  "regions": [
+   "Atlantic Ocean",
+   "Pacific Ocean",
+   "Indian Ocean",
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Open ocean",
+   "Sandy beaches"
+  ],
+  "abilities": [
+   "Dives to over 1,000 m, deeper than any other turtle",
+   "Keeps its body warmer than the surrounding water through its size, insulating fat and heat-exchanging blood vessels in its flippers",
+   "Migrates thousands of kilometres between nesting beaches and jellyfish feeding grounds",
+   "Its throat is lined with backward-pointing spines that stop slippery jellyfish escaping"
+  ],
+  "animal": {
+   "diet": "Jellyfish, salps and other soft-bodied animals",
+   "habitat": "Open ocean; comes ashore only to nest",
+   "lifespan": "Probably 30–50 years or more",
+   "size": "Shell up to ~1.8 m; weight usually 300–600 kg, exceptionally over 900 kg",
+   "behaviour": "Females haul out at night several times in a season to dig nests and lay about 80 eggs. They return to nest every two to three years. Plastic bags in the sea, which look like jellyfish, are a serious hazard.",
+   "fieldMarks": [
+    "Huge, dark blue-black turtle with white spots and no scutes",
+    "Seven ridges running the length of the back",
+    "Very long front flippers",
+    "Notched upper jaw with two tooth-like points"
+   ],
+   "lookalikes": "No other turtle has a ridged, leathery back without plates. Large loggerheads and green turtles have hard shells of plates (scutes).",
+   "whereToSee": "Nesting beaches at Grande Riviere and Matura (Trinidad), Awala-Yalimapo (French Guiana), Gabon, Tortuguero (Costa Rica), Jamursba Medi (West Papua); feeding at sea off Nova Scotia and California",
+   "season": "Nesting March–July in the Caribbean and Atlantic; Nov–Feb on some Pacific beaches",
+   "order": "Testudines"
+  },
+  "iucn": "VU",
+  "lore": "In September 1988 a dead male leatherback washed ashore at Harlech, Wales, and weighed 916 kg, the heaviest turtle ever recorded. It was displayed in the National Museum Cardiff.",
+  "funFact": "The leatherback's lineage split from other living sea turtles more than 100 million years ago."
+ },
+ {
+  "slug": "eretmochelys-imbricata",
+  "scientific": "Eretmochelys imbricata",
+  "common": "Hawksbill sea turtle",
+  "otherNames": [
+   "Carey (Spanish)",
+   "Tartaruga-de-pente (Portuguese)",
+   "Taimai タイマイ (Japanese)",
+   "Penyu sisik (Malay/Indonesian)",
+   "Kasa (Swahili, sea turtle)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Cheloniidae",
+  "shelves": [
+   "ocean",
+   "endangered",
+   "keystone"
+  ],
+  "summary": "A reef-dwelling sea turtle with a narrow, hooked beak and beautifully mottled, overlapping shell plates. For centuries it was killed for 'tortoiseshell', and it is now Critically Endangered.",
+  "nativeRange": "Tropical coral reefs of the Atlantic, Indian and Pacific oceans",
+  "regions": [
+   "Atlantic Ocean",
+   "Pacific Ocean",
+   "Indian Ocean",
+   "Caribbean"
+  ],
+  "biomes": [
+   "Coral reef",
+   "Sandy beaches",
+   "Mangrove lagoons"
+  ],
+  "abilities": [
+   "Feeds largely on sponges, many of which are full of toxins and glass-like spicules",
+   "By eating sponges, it keeps them from overgrowing reef-building corals",
+   "Its narrow, bird-like beak can reach into crevices in the reef"
+  ],
+  "animal": {
+   "diet": "Mainly sponges; also soft corals, anemones, jellyfish",
+   "habitat": "Coral reefs, rocky areas and lagoons; nests on small island beaches",
+   "lifespan": "Probably 30–50 years",
+   "size": "Shell up to ~1 m; weight ~45–80 kg",
+   "behaviour": "Often nests alone and in daylight on remote beaches, sometimes under beach vegetation.",
+   "fieldMarks": [
+    "Narrow head with a sharp, hooked, hawk-like beak",
+    "Overlapping shell scutes, giving a saw-toothed back edge",
+    "Amber, brown and black 'tortoiseshell' pattern",
+    "Two pairs of scales (prefrontals) between the eyes"
+   ],
+   "lookalikes": "The green turtle has a blunt rounded snout, one pair of scales between the eyes and non-overlapping shell scutes. Loggerheads have a big head and reddish shell.",
+   "whereToSee": "Cousin Island (Seychelles), Bahia (Brazil), Mona Island (Puerto Rico), Milman Island (Great Barrier Reef), snorkelling reefs of the Caribbean and Red Sea",
+   "season": "Resident on reefs; nesting peaks vary by region (e.g. Oct–Jan in the Seychelles)",
+   "order": "Testudines"
+  },
+  "iucn": "CR",
+  "lore": "Tortoiseshell combs and ornaments were traded from ancient Rome to Edo-period Japan, where the craft is known as bekkō. CITES banned the international trade in 1977, and Japan, which had held a reservation, ended imports at the end of 1992 and withdrew its reservation in 1994.",
+  "funFact": "In 2015 marine biologist David Gruber filmed a hawksbill off the Solomon Islands glowing red and green under blue light. It was the first biofluorescence reported in a reptile."
+ },
+ {
+  "slug": "caretta-caretta",
+  "scientific": "Caretta caretta",
+  "common": "Loggerhead sea turtle",
+  "otherNames": [
+   "Tortuga boba / Caguama (Spanish)",
+   "Tartaruga-cabeçuda (Portuguese)",
+   "Akaumigame アカウミガメ (Japanese)",
+   "Kareta καρέτα (Greek)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Cheloniidae",
+  "shelves": [
+   "ocean",
+   "migrant",
+   "endangered"
+  ],
+  "summary": "A big-headed sea turtle whose powerful jaws crush crabs and conchs. Hatchlings from Florida circle the Atlantic, and those from Japan cross the whole Pacific to feed off Mexico, navigating by the Earth's magnetic field.",
+  "nativeRange": "Temperate and subtropical waters of the Atlantic, Indian and Pacific oceans and the Mediterranean",
+  "regions": [
+   "Atlantic Ocean",
+   "Pacific Ocean",
+   "Indian Ocean",
+   "Europe",
+   "North America"
+  ],
+  "biomes": [
+   "Open ocean",
+   "Coastal waters",
+   "Sandy beaches"
+  ],
+  "abilities": [
+   "Navigates using a magnetic 'map' that reads the strength and angle of Earth's magnetic field",
+   "Crushes whelks, conchs and crabs with massive jaws",
+   "Hatchlings swim continuously for about a day to reach the open sea"
+  ],
+  "animal": {
+   "diet": "Crabs, whelks, conchs, sea urchins, jellyfish",
+   "habitat": "Coastal waters, bays and open ocean; nests on sandy beaches",
+   "lifespan": "Probably 50+ years",
+   "size": "Shell ~90 cm; weight ~100–150 kg",
+   "behaviour": "Females return to nest on the same region of coast where they hatched, often decades later. Hatchlings head for the brightest horizon, which is the sea, so beachfront lights draw them inland.",
+   "fieldMarks": [
+    "Very large, broad head with heavy jaws",
+    "Reddish-brown carapace, yellowish below",
+    "Five pairs of plates (costal scutes) along each side of the shell",
+    "Barnacles often encrust the shell"
+   ],
+   "lookalikes": "Green and hawksbill turtles have four pairs of costal scutes. Kemp's and olive ridleys are smaller and grey, with rounder shells.",
+   "whereToSee": "Florida's Atlantic beaches (Archie Carr National Wildlife Refuge), Masirah Island (Oman), Zakynthos (Greece), Yakushima (Japan), Mon Repos (Australia)",
+   "season": "Nesting May–August in the northern hemisphere; Nov–Feb in Australia",
+   "order": "Testudines"
+  },
+  "iucn": "VU",
+  "lore": "Archie Carr's studies of sea turtles in Florida and Costa Rica from the 1950s onwards inspired the protection of nesting beaches. Florida's Archie Carr National Wildlife Refuge, one of the most important loggerhead beaches in the world, is named after him.",
+  "funFact": "Laboratory tests by Kenneth Lohmann's team showed that hatchlings change swimming direction when exposed to the magnetic fields of different points on their migration route."
+ },
+ {
+  "slug": "macrochelys-temminckii",
+  "scientific": "Macrochelys temminckii",
+  "common": "Alligator snapping turtle",
+  "otherNames": [
+   "Loggerhead snapper",
+   "Tortuga caimán (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Chelydridae",
+  "shelves": [
+   "freshwater",
+   "endangered",
+   "marvel"
+  ],
+  "summary": "North America's heaviest freshwater turtle, with three rows of spiky ridges on its shell and a hooked beak. It lies still on the riverbed with its mouth open, wiggling a pink worm-like lure on its tongue to attract fish.",
+  "nativeRange": "Rivers draining into the Gulf of Mexico in the southeastern United States, from eastern Texas to the Florida Panhandle and up the Mississippi basin",
+  "regions": [
+   "North America"
+  ],
+  "biomes": [
+   "Rivers",
+   "Swamps",
+   "Oxbow lakes"
+  ],
+  "abilities": [
+   "Lures fish with a pink, worm-like flap on its tongue",
+   "Bites hard enough to sever fingers",
+   "Can stay underwater for long periods, surfacing only occasionally to breathe"
+  ],
+  "animal": {
+   "diet": "Fish, other turtles, snakes, crayfish, mussels, carrion, fallen fruit and nuts",
+   "habitat": "Deep rivers, oxbow lakes, swamps and canals",
+   "lifespan": "Probably several decades; possibly 70+ years",
+   "size": "Shell up to ~80 cm; males up to ~80 kg, exceptionally more",
+   "behaviour": "Rarely leaves the water except for females coming ashore to nest. It is mostly inactive by day.",
+   "fieldMarks": [
+    "Three prominent rows of spiky ridges running along the shell",
+    "Massive head with a strongly hooked beak",
+    "Eyes on the sides of the head, ringed with fleshy points",
+    "Extra row of scutes (supramarginals) along the sides of the shell"
+   ],
+   "lookalikes": "The common snapping turtle (Chelydra serpentina) has a smoother shell, eyes visible from above, and a long, saw-crested tail. The Suwannee alligator snapping turtle (M. suwanniensis) of the Suwannee River in Florida and Georgia was split as a separate species in 2014.",
+   "whereToSee": "Rivers of Louisiana, Arkansas, Mississippi and Texas; seen basking rarely; best seen at aquariums and zoos",
+   "season": "Resident; nests in late spring",
+   "order": "Testudines"
+  },
+  "iucn": "VU",
+  "lore": "Commercial trapping for turtle soup in the 20th century took huge numbers from Gulf Coast rivers, and commercial harvest is now banned in most of its range.",
+  "funFact": "As in many turtles, the sex of the hatchlings is set by the temperature of the nest."
+ },
+ {
+  "slug": "geochelone-elegans",
+  "scientific": "Geochelone elegans",
+  "common": "Indian star tortoise",
+  "otherNames": [
+   "Kachhua (Hindi, tortoise)",
+   "Nakshatra aamai நட்சத்திர ஆமை (Tamil)",
+   "Star tortoise"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Testudinidae",
+  "shelves": [
+   "endangered"
+  ],
+  "summary": "A tortoise of the dry scrub of India, Pakistan and Sri Lanka, with bold yellow star patterns radiating across black, domed shell plates. It is one of the most smuggled tortoises in the world.",
+  "nativeRange": "Northwestern India and southeastern Pakistan; southeastern India; Sri Lanka",
+  "regions": [
+   "South Asia"
+  ],
+  "biomes": [
+   "Scrub",
+   "Dry grassland",
+   "Thorn forest"
+  ],
+  "abilities": [
+   "Its star pattern breaks up its outline among grass and shadows",
+   "Its high-domed shell is hard for predators to crack or swallow",
+   "Survives hot dry seasons by eating succulent plants and being active after rain"
+  ],
+  "animal": {
+   "diet": "Grasses, fallen fruit, flowers, succulent leaves",
+   "habitat": "Dry grassland, scrub forest and semi-desert",
+   "size": "Shell up to ~25–30 cm",
+   "behaviour": "Most active in the early morning and late afternoon, and after monsoon rains.",
+   "fieldMarks": [
+    "High-domed shell with raised, pyramid-like plates",
+    "Yellow or tan star pattern on each black plate",
+    "Yellow head and limbs"
+   ],
+   "lookalikes": "The Burmese star tortoise (G. platynota) of Myanmar has fewer rays and flatter scutes and is found only in Myanmar.",
+   "whereToSee": "Dry scrub of Gujarat (Kutch, Saurashtra) and Rajasthan; Tamil Nadu and Andhra Pradesh; Sri Lanka's dry zone (Yala, Wilpattu)",
+   "season": "Most active in the monsoon",
+   "order": "Testudines"
+  },
+  "iucn": "VU",
+  "lore": "Despite being protected under Indian law, thousands are smuggled abroad as pets every year. In 2019 CITES moved it to Appendix I, banning all international commercial trade."
+ },
+ {
+  "slug": "gavialis-gangeticus",
+  "scientific": "Gavialis gangeticus",
+  "common": "Gharial",
+  "otherNames": [
+   "Ghariyal (Hindi, Urdu)",
+   "Ghorial (Bengali)",
+   "Gharial (Nepali)",
+   "Gavial"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Gavialidae",
+  "shelves": [
+   "freshwater",
+   "endangered",
+   "ancient",
+   "marvel"
+  ],
+  "summary": "A fish-eating crocodilian of the great rivers of northern India and Nepal, with a very long, needle-thin snout. Mature males grow a bulbous knob on the snout tip, the ghara ('pot'), that gives the species its name. It is Critically Endangered, surviving mainly in a few protected stretches of river.",
+  "nativeRange": "Rivers of northern India and Nepal (Chambal, Girwa, Son, Gandak, Rapti–Narayani, Ganges); extinct in Pakistan, Bhutan and Myanmar, and possibly in Bangladesh",
+  "regions": [
+   "South Asia"
+  ],
+  "biomes": [
+   "Large rivers",
+   "Sandbanks"
+  ],
+  "abilities": [
+   "Snaps sideways at fish with its thin snout, which meets little water resistance",
+   "Males make a buzzing sound with the ghara, which also helps them blow bubbles",
+   "Among the longest of all crocodilians, with males reaching ~5–6 m"
+  ],
+  "animal": {
+   "diet": "Almost entirely fish",
+   "habitat": "Deep, fast-flowing rivers with high sandbanks for basking and nesting",
+   "size": "Males up to ~5–6 m; females ~3.5–4.5 m",
+   "behaviour": "Rarely leaves the water except to bask and nest on sandbanks. Hatchlings stay in groups (crèches) guarded by adults, sometimes riding on a large male's back. Its legs are too weak for it to walk upright on land, so it slides on its belly.",
+   "fieldMarks": [
+    "Very long, narrow snout with many interlocking teeth",
+    "Bulbous knob (ghara) on the snout tip of adult males",
+    "Olive to grey-brown body",
+    "Basks on river sandbanks"
+   ],
+   "lookalikes": "The mugger crocodile has a broad, heavy snout. The false gharial (Tomistoma schlegelii) of Southeast Asia has a slightly broader snout tapering from the head and lives far away.",
+   "whereToSee": "National Chambal Sanctuary (Madhya Pradesh–Rajasthan–Uttar Pradesh), Katarniaghat on the Girwa River, Chitwan National Park (Nepal)",
+   "season": "Resident; best seen basking in winter (Nov–Mar); nesting Mar–Apr; hatching in June",
+   "order": "Crocodylia"
+  },
+  "iucn": "CR",
+  "lore": "In the 1970s fewer than 200 gharials were left in the wild, and India's Project Crocodile, started in 1975, reared hatchlings from collected eggs for release. In Hindu art, the makara, vehicle of the river goddess Ganga, is often shown with a long snout like a gharial.",
+  "funFact": "In 2007–08 more than 100 gharials died on the Chambal River from a disease or toxin, which showed how vulnerable a few small populations can be."
+ },
+ {
+  "slug": "alligator-mississippiensis",
+  "scientific": "Alligator mississippiensis",
+  "common": "American alligator",
+  "otherNames": [
+   "Gator",
+   "Caimán americano / Lagarto (Spanish)",
+   "Cocodrie (Louisiana French)",
+   "Halpata (Muscogee/Seminole)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Alligatoridae",
+  "shelves": [
+   "freshwater",
+   "keystone",
+   "ancient"
+  ],
+  "summary": "A great conservation success: hunted almost to extinction by the mid-20th century, then protected and recovered. It shapes the wetlands of the southeastern US, digging 'gator holes' that hold water and wildlife through the dry season.",
+  "nativeRange": "Southeastern United States, from North Carolina to Florida and west to Texas, and up the Mississippi valley into Arkansas and Oklahoma",
+  "regions": [
+   "North America"
+  ],
+  "biomes": [
+   "Marsh",
+   "Swamp",
+   "Rivers",
+   "Lakes"
+  ],
+  "abilities": [
+   "Digs 'gator holes' that stay wet in the dry season, keeping alive fish, turtles and birds",
+   "Survives freezing weather by keeping only its nostrils above ice ('icing')",
+   "Males bellow and send infrasound that makes water 'dance' on their backs",
+   "Sex of the young is set by nest temperature"
+  ],
+  "animal": {
+   "diet": "Fish, turtles, snakes, birds, mammals; young eat insects and crayfish",
+   "habitat": "Freshwater marshes, swamps, rivers, lakes, and some brackish water",
+   "lifespan": "~35–50 years",
+   "size": "Males usually 3.5–4.5 m; females ~2.5–3 m",
+   "behaviour": "Females build mound nests of rotting vegetation, guard them and carry hatchlings to water in their mouths. Hatchlings call from inside the eggs when ready to hatch.",
+   "fieldMarks": [
+    "Broad, rounded U-shaped snout",
+    "Upper jaw covers the lower teeth when the mouth is closed",
+    "Dark grey to black; juveniles with yellow bands",
+    "Bony plates on the back"
+   ],
+   "lookalikes": "The American crocodile (Crocodylus acutus), found only in southern Florida in the US, has a narrow, tapered V-shaped snout, a paler grey-green colour, and a visible fourth lower tooth when its mouth is closed. Caimans (introduced in Florida) are smaller with a bony ridge between the eyes.",
+   "whereToSee": "Everglades National Park (Anhinga Trail), Okefenokee Swamp, Louisiana's Atchafalaya Basin, Brazos Bend State Park (Texas)",
+   "season": "Resident; bellowing and courtship April–May; nesting June–July",
+   "order": "Crocodylia"
+  },
+  "iucn": "LC",
+  "lore": "The name 'alligator' comes from the Spanish el lagarto, 'the lizard'. Listed as endangered in 1967, it was removed from the US endangered list in 1987.",
+  "historicalNames": [
+   "Lagarto",
+   "Crocodilus mississipiensis"
+  ],
+  "funFact": "The Chinese alligator (Alligator sinensis) is its only living close relative; the two lineages diverged tens of millions of years ago."
+ },
+ {
+  "slug": "crocodylus-niloticus",
+  "scientific": "Crocodylus niloticus",
+  "common": "Nile crocodile",
+  "otherNames": [
+   "Mamba (Swahili)",
+   "Ingwenya (Zulu)",
+   "Timsah تمساح (Arabic)",
+   "Garwe (Shona)",
+   "Msḥ (ancient Egyptian)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Crocodylidae",
+  "shelves": [
+   "freshwater",
+   "deadly",
+   "sacred",
+   "ancient"
+  ],
+  "summary": "Africa's largest predator in fresh water, famous for ambushing wildebeest and zebra at river crossings. It killed and inspired people throughout history and was worshipped in ancient Egypt as the god Sobek.",
+  "nativeRange": "Sub-Saharan Africa, the Nile basin and Madagascar (the West African crocodile, Crocodylus suchus, is now treated as a separate species)",
+  "regions": [
+   "Sub-Saharan Africa",
+   "North Africa",
+   "Madagascar"
+  ],
+  "biomes": [
+   "Rivers",
+   "Lakes",
+   "Swamps",
+   "Estuaries"
+  ],
+  "abilities": [
+   "Ambushes large mammals at the water's edge and drowns them",
+   "Can go many months without eating",
+   "Females carry hatchlings to the water in their mouths",
+   "Groups cooperate to feed on large carcasses, holding and spinning to tear meat"
+  ],
+  "animal": {
+   "diet": "Fish, and mammals up to the size of wildebeest, zebra and buffalo",
+   "habitat": "Rivers, lakes, swamps and estuaries",
+   "size": "Males usually 3.5–5 m, exceptionally ~6 m; females smaller",
+   "behaviour": "Basks with its mouth open to cool down. Females bury eggs in sandbanks and guard them for about three months. It is thought to be responsible for more attacks on people than any other crocodile species.",
+   "fieldMarks": [
+    "Large, olive-bronze crocodile with dark bands on the tail",
+    "Broad, V-shaped snout",
+    "Fourth lower tooth visible when the mouth is closed",
+    "Basks on sandbanks"
+   ],
+   "lookalikes": "The West African crocodile (C. suchus) is smaller and found mainly in West and Central Africa. The slender-snouted crocodile (Mecistops) has a long thin snout. Dwarf crocodiles (Osteolaemus) are small and dark.",
+   "whereToSee": "Mara River crossings (Kenya, Tanzania), Kruger National Park, Lake Chamo (Ethiopia), Okavango Delta, Lake Nasser",
+   "season": "Resident; wildebeest crossings July–October in the Mara",
+   "order": "Crocodylia"
+  },
+  "iucn": "LC",
+  "lore": "Ancient Egyptians worshipped the crocodile god Sobek at Kom Ombo and Crocodilopolis (Faiyum), where sacred crocodiles were kept, fed and mummified by the thousands. Herodotus wrote that the plover picked its teeth, a story still repeated today.",
+  "historicalNames": [
+   "Crocodilus",
+   "Champsae",
+   "Lacerta crocodilus"
+  ],
+  "funFact": "DNA from crocodile mummies from ancient Egypt showed that some were West African crocodiles, perhaps chosen because they are less aggressive and easier to keep in temples."
+ },
+ {
+  "slug": "crocodylus-palustris",
+  "scientific": "Crocodylus palustris",
+  "common": "Mugger crocodile",
+  "otherNames": [
+   "Magar / Magarmachh (Hindi, Urdu)",
+   "Mugger (Anglo-Indian)",
+   "Kimbula (Sinhala)",
+   "Mudhalai (Tamil)",
+   "Gando (Balochi)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Crocodylidae",
+  "shelves": [
+   "freshwater",
+   "endangered",
+   "sacred"
+  ],
+  "summary": "A broad-snouted crocodile of South Asia's rivers, lakes and reservoirs. It is adaptable and digs burrows to survive drought, and it has been seen balancing sticks on its snout to lure nest-building birds.",
+  "nativeRange": "India, Sri Lanka, Pakistan, Nepal and southeastern Iran; extinct in Bhutan and probably Myanmar; possibly surviving in Bangladesh",
+  "regions": [
+   "South Asia",
+   "West Asia"
+  ],
+  "biomes": [
+   "Rivers",
+   "Lakes",
+   "Marshes",
+   "Reservoirs"
+  ],
+  "abilities": [
+   "Digs burrows into riverbanks to escape heat and drought",
+   "Has been seen balancing sticks on its snout near egret colonies during the nesting season, possibly to lure birds collecting nest material",
+   "Travels overland between water bodies",
+   "Lives in reservoirs, irrigation canals and town lakes"
+  ],
+  "animal": {
+   "diet": "Fish, birds, turtles, deer, monkeys and other mammals",
+   "habitat": "Rivers, lakes, marshes, reservoirs, irrigation canals",
+   "size": "Males up to ~4–5 m; females ~2.5–3 m",
+   "behaviour": "Basks for long periods, often with its mouth open. Females dig nests in sandbanks and carry hatchlings to the water.",
+   "fieldMarks": [
+    "Broad, heavy snout, the widest of any living Crocodylus",
+    "Grey to olive-brown body; juveniles banded",
+    "Fourth lower tooth visible when the mouth is closed",
+    "Lacks the pair of bony bumps in front of the eyes seen on saltwater crocodiles"
+   ],
+   "lookalikes": "The gharial has a very thin snout. The saltwater crocodile, found in coastal areas such as the Sundarbans, Bhitarkanika and Sri Lankan estuaries, has a longer, narrower snout and bony ridges in front of the eyes.",
+   "whereToSee": "National Chambal Sanctuary, Ranganathittu Bird Sanctuary (Karnataka), Vishwamitri River (Vadodara), Yala and Wilpattu (Sri Lanka), Bardia (Nepal)",
+   "season": "Resident; nesting February–April",
+   "order": "Crocodylia"
+  },
+  "iucn": "VU",
+  "lore": "At the shrine of Pir Mangho in Karachi, muggers have been kept in a pool for centuries and are fed by pilgrims, who consider them the saint's disciples. Rudyard Kipling's 'The Undertakers' (1895) features a mugger of a Ganges village.",
+  "funFact": "In 2013 Vladimir Dinets reported muggers and American alligators balancing sticks on their snouts near bird colonies, probably the first known tool use by reptiles."
+ },
+ {
+  "slug": "lithobates-catesbeianus",
+  "scientific": "Lithobates catesbeianus",
+  "common": "American bullfrog",
+  "otherNames": [
+   "Bullfrog",
+   "Rana toro (Spanish)",
+   "Ouaouaron (Québec French)",
+   "Rã-touro (Portuguese)",
+   "Ushigaeru ウシガエル (Japanese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Amphibian",
+  "family": "Ranidae",
+  "shelves": [
+   "freshwater",
+   "songbird",
+   "edible"
+  ],
+  "summary": "North America's largest true frog, whose deep, booming call carries across summer ponds. It will eat almost anything it can fit in its mouth. Introduced around the world for frog legs, it has become an invasive species that eats native frogs and spreads disease.",
+  "nativeRange": "Eastern and central North America, from southern Canada to the Gulf of Mexico; introduced in western North America, South America, Europe and East Asia",
+  "regions": [
+   "North America"
+  ],
+  "biomes": [
+   "Ponds",
+   "Lakes",
+   "Slow rivers",
+   "Marshes"
+  ],
+  "abilities": [
+   "Eats insects, crayfish, fish, other frogs, snakes, birds and small mammals",
+   "Tadpoles may take one to three years to turn into frogs",
+   "Can jump more than ten times its own body length",
+   "Can carry chytrid fungus without becoming ill, spreading it to other amphibians"
+  ],
+  "animal": {
+   "diet": "Almost anything it can swallow",
+   "habitat": "Permanent ponds, lakes and slow rivers with vegetation",
+   "lifespan": "~8–10 years",
+   "size": "Body ~9–15 cm; up to ~20 cm and ~0.5 kg",
+   "behaviour": "Males defend calling territories in summer and wrestle rivals.",
+   "fieldMarks": [
+    "Large green to olive frog, often with darker mottling",
+    "Large round eardrum (tympanum), bigger than the eye in males",
+    "A ridge curving around the eardrum but no ridges down the back",
+    "Males have a yellow throat"
+   ],
+   "voice": "A deep, resonant 'jug-o-rum' or bellowing 'rumm', like a foghorn or bull; heard on summer nights",
+   "lookalikes": "The green frog (L. clamitans) has a pair of ridges (dorsolateral folds) running down its back and calls a twangy 'gunk', like a loose banjo string. The pig frog (L. grylio) of the Southeast has a grunting call and a more pointed snout.",
+   "whereToSee": "Ponds, lakes and marshes across the eastern US and southern Canada",
+   "season": "Calls May–August; hibernates underwater in winter",
+   "order": "Anura"
+  },
+  "iucn": "LC",
+  "edibility": "edible",
+  "edibleParts": [
+   "hind legs"
+  ],
+  "edibilityNote": "Hind legs are eaten and the species is farmed for meat. Cook thoroughly. Wild frogs from polluted water may carry contaminants.",
+  "lore": "Mark Twain's 1865 story 'The Celebrated Jumping Frog of Calaveras County' inspired the jumping frog contest held at the Calaveras County Fair since 1928, where bullfrogs are the usual competitors.",
+  "funFact": "Bullfrogs released in Japan in 1918 for food spread across the islands, and they are now listed in Japan as an invasive alien species."
+ },
+ {
+  "slug": "rhinella-marina",
+  "scientific": "Rhinella marina",
+  "common": "Cane toad",
+  "otherNames": [
+   "Sapo cururu (Portuguese)",
+   "Sapo gigante (Spanish)",
+   "Crapaud (Caribbean French)",
+   "Marine toad",
+   "Giant neotropical toad"
+  ],
+  "kingdom": "Animalia",
+  "form": "Amphibian",
+  "family": "Bufonidae",
+  "shelves": [
+   "venomous",
+   "toxic",
+   "deadly"
+  ],
+  "summary": "A heavy, warty toad of tropical America that was released in Australia, the Caribbean and the Pacific to control cane beetles. It failed at that and instead spread its poison through native wildlife. Its skin glands produce bufotoxins that can kill dogs, quolls, goannas and snakes that bite it.",
+  "nativeRange": "Southern Texas and Mexico through Central America to the central Amazon; introduced in Australia, the Caribbean, Hawaii, Florida, the Philippines, Papua New Guinea and many islands",
+  "regions": [
+   "Central America",
+   "South America",
+   "Australia",
+   "Caribbean",
+   "Oceania"
+  ],
+  "biomes": [
+   "Tropical forest",
+   "Savanna",
+   "Farmland",
+   "Towns"
+  ],
+  "abilities": [
+   "Large glands behind the eyes (parotoids) produce bufadienolide toxins that can stop the heart of predators",
+   "Eggs and tadpoles are toxic too",
+   "Has spread across northern Australia at up to ~50 km per year",
+   "Breeds in almost any still water, laying up to 30,000 eggs at a time"
+  ],
+  "animal": {
+   "diet": "Insects, snails, small vertebrates, pet food and garbage",
+   "habitat": "Open habitats near water, farmland, gardens and towns",
+   "lifespan": "~10–15 years",
+   "size": "Usually 10–15 cm; up to ~24 cm",
+   "behaviour": "When threatened it puffs up and tilts its glands toward the attacker. Pets that mouth a toad may drool, collapse and die: wipe the gums with a damp cloth (do not hose into the throat) and get to a vet at once. People who handle toads should wash their hands. Never lick or eat toads or eggs; people have died from eating them.",
+   "fieldMarks": [
+    "Large, warty, brown toad with dry skin",
+    "Huge triangular parotoid glands behind the eyes",
+    "Bony ridges above the eyes meeting at the snout",
+    "Unwebbed fingers, webbed toes"
+   ],
+   "voice": "A long, low trill like a dial tone or a distant idling motor, lasting several seconds",
+   "lookalikes": "In Australia, native frogs such as giant banjo frogs (Limnodynastes) and burrowing frogs have no large parotoid glands or bony head ridges. In the US the Gulf Coast toad (Incilius nebulifer) is smaller with a light stripe down the back.",
+   "whereToSee": "Introduced: Queensland and the Northern Territory (Australia), Florida, Hawaii; native: Central and South American lowlands",
+   "season": "Active year-round in the tropics; breeds mostly in the wet season",
+   "order": "Anura"
+  },
+  "iucn": "LC",
+  "edibility": "deadly",
+  "edibilityNote": "Skin, glands and eggs are deadly poisonous; people have died after eating toads or toad eggs.",
+  "lore": "In 1935, 102 cane toads were brought from Hawaii to Gordonvale, Queensland, to control cane beetles. Their descendants have spread across more than 1.2 million square kilometres of Australia.",
+  "funFact": "In parts of Australia, crows and native water rats (rakali) have learned to flip cane toads over and eat them from the belly side, avoiding the poison glands."
+ },
+ {
+  "slug": "rana-temporaria",
+  "scientific": "Rana temporaria",
+  "common": "Common frog",
+  "otherNames": [
+   "European common frog",
+   "Grasfrosch (German)",
+   "Grenouille rousse (French)",
+   "Vanlig groda (Swedish)",
+   "Lyagushka travyanaya (Russian)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Amphibian",
+  "family": "Ranidae",
+  "shelves": [
+   "freshwater"
+  ],
+  "summary": "Northern Europe's familiar brown frog, found from Mediterranean mountains to beyond the Arctic Circle. Each spring it is one of the first amphibians to breed, filling ponds with clumps of spawn.",
+  "nativeRange": "Most of Europe from northern Spain and Britain to the Urals and western Siberia, north beyond the Arctic Circle; absent from much of the Mediterranean lowland",
+  "regions": [
+   "Europe",
+   "Arctic",
+   "Central Asia"
+  ],
+  "biomes": [
+   "Ponds",
+   "Wet meadows",
+   "Woodland",
+   "Gardens",
+   "Mountain tarns"
+  ],
+  "abilities": [
+   "Breeds in water as cold as just above freezing",
+   "Lives at altitudes up to ~2,500 m in the Alps",
+   "Can change skin tone to match its surroundings over hours or days"
+  ],
+  "animal": {
+   "diet": "Insects, slugs, snails, worms, spiders; tadpoles graze algae",
+   "habitat": "Ponds, ditches, marshes, damp grassland, woodland and gardens",
+   "lifespan": "~5–10 years",
+   "size": "~6–10 cm",
+   "behaviour": "Large numbers gather in ponds in early spring for a few days of 'explosive' breeding, often in the same pond each year.",
+   "fieldMarks": [
+    "Brown, olive or yellow-brown with variable dark spots",
+    "Dark 'mask' patch behind the eye over the eardrum",
+    "Dark bars on the hind legs",
+    "Smooth, moist skin; hops rather than crawls"
+   ],
+   "voice": "A low, soft, purring croak, like a distant motorbike, often from many frogs together",
+   "lookalikes": "The common toad (Bufo bufo) has warty skin, crawls and lays spawn in strings, not clumps. The moor frog (R. arvalis) has a more pointed snout and males can turn blue when breeding. The agile frog (R. dalmatina) has very long hind legs and a paler body.",
+   "whereToSee": "Garden ponds and wetlands across Britain, Ireland, Scandinavia and the Alps",
+   "season": "Spawns February–April (later in the north and mountains); hibernates in winter, males often in pond mud",
+   "order": "Anura"
+  },
+  "iucn": "LC",
+  "funFact": "In Ireland it is the only native frog; whether it arrived naturally or with medieval monks has long been debated."
+ },
+ {
+  "slug": "agalychnis-callidryas",
+  "scientific": "Agalychnis callidryas",
+  "common": "Red-eyed tree frog",
+  "otherNames": [
+   "Rana verde de ojos rojos (Spanish)",
+   "Rana calzonuda (Spanish)",
+   "Gaudy leaf frog"
+  ],
+  "kingdom": "Animalia",
+  "form": "Amphibian",
+  "family": "Phyllomedusidae",
+  "shelves": [
+   "marvel",
+   "songbird"
+  ],
+  "summary": "A leaf-green tree frog of Central American rainforests with scarlet eyes, blue-and-yellow flanks and orange feet. Its unborn tadpoles can hatch early when they sense the vibrations of a snake attacking their eggs.",
+  "nativeRange": "Lowland rainforests from southern Mexico through Central America to northwestern Colombia",
+  "regions": [
+   "Central America",
+   "South America"
+  ],
+  "biomes": [
+   "Tropical rainforest",
+   "Forest ponds"
+  ],
+  "abilities": [
+   "Embryos hatch up to several days early to escape snakes or wasps, telling attack vibrations from rain",
+   "Startles predators by suddenly opening its bright red eyes and flashing its coloured flanks",
+   "Lays eggs on leaves over water, so hatching tadpoles drop straight in"
+  ],
+  "animal": {
+   "diet": "Crickets, moths, flies and other insects",
+   "habitat": "Rainforest trees near ponds and swamps",
+   "lifespan": "~5 years",
+   "size": "Males ~5 cm; females ~7 cm",
+   "behaviour": "By day it sleeps on the underside of a leaf with eyes closed and bright colours tucked away, appearing all green. Males call from branches over ponds on rainy nights.",
+   "fieldMarks": [
+    "Bright green with large red eyes and vertical pupils",
+    "Blue to purple flanks with pale vertical bars",
+    "Orange or red toes with suction-cup pads",
+    "Slender body and long limbs"
+   ],
+   "voice": "A short 'chack' or 'chack-chack', repeated at intervals from vegetation above water",
+   "lookalikes": "Morelet's tree frog (A. moreletii) has dark red eyes and no bars on its flanks. The gliding leaf frog (A. spurrelli) has large webbed hands and spots on the back.",
+   "whereToSee": "La Selva, Tortuguero and Sarapiquí (Costa Rica), Panama's Soberanía National Park, Belize; ponds on rainy-season nights",
+   "season": "Breeds in the rainy season (May–November)",
+   "order": "Anura"
+  },
+  "iucn": "LC",
+  "lore": "Its picture has become a symbol of rainforest conservation, appearing on countless posters and stamps since the 1980s.",
+  "funFact": "Karen Warkentin's research showed that red-eyed tree frog embryos can tell the vibration pattern of a snake attack from rain and hatch in seconds."
+ },
+ {
+  "slug": "phyllobates-terribilis",
+  "scientific": "Phyllobates terribilis",
+  "common": "Golden poison frog",
+  "otherNames": [
+   "Golden poison dart frog",
+   "Kokoi (Emberá)",
+   "Rana dorada (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Amphibian",
+  "family": "Dendrobatidae",
+  "shelves": [
+   "venomous",
+   "deadly",
+   "toxic",
+   "endangered",
+   "marvel"
+  ],
+  "summary": "Probably the most poisonous animal on Earth for its size. This thumb-sized yellow, orange or mint-green frog lives in a few rainforest valleys of Colombia's Pacific coast. Its skin holds batrachotoxin, which Emberá hunters used to poison blowgun darts.",
+  "nativeRange": "Pacific lowland rainforest of Cauca department, Colombia",
+  "regions": [
+   "South America"
+  ],
+  "biomes": [
+   "Tropical rainforest"
+  ],
+  "abilities": [
+   "Its skin contains batrachotoxin, which keeps sodium channels in nerves and muscle open and can cause fatal heart failure",
+   "A single wild frog is estimated to carry enough toxin to kill about ten people",
+   "Has resistant sodium channels so it is not harmed by its own poison",
+   "Gets its toxin from its wild diet; captive-bred frogs are harmless"
+  ],
+  "animal": {
+   "diet": "Ants, beetles and other small invertebrates",
+   "habitat": "Leaf litter of humid lowland rainforest near streams",
+   "lifespan": "~5–10 years in captivity",
+   "size": "~4.5–5.5 cm",
+   "behaviour": "Active by day and bold because of its toxin. Males carry tadpoles on their backs to water. Wild frogs must never be touched: toxin on the skin can enter through cuts.",
+   "fieldMarks": [
+    "Uniform bright yellow, orange or pale metallic green",
+    "Black eyes; often black spots on the toe tips",
+    "Larger than most poison frogs",
+    "Active in daylight on the forest floor"
+   ],
+   "voice": "A long series of rapid trills given by males",
+   "lookalikes": "The Kokoe poison frog (P. aurotaenia) is black with orange or green stripes. The black-legged poison frog (P. bicolor) is yellow-orange with dark legs and is smaller.",
+   "whereToSee": "Only in a few areas in Cauca, Colombia (Rio Saija drainage); best seen in zoos",
+   "season": "Resident",
+   "order": "Anura"
+  },
+  "iucn": "EN",
+  "lore": "The Emberá people of Colombia rub blowgun darts on the backs of living frogs to poison them, without killing the frogs. Scientists Charles Myers, John Daly and Borys Malkin described the species in 1978.",
+  "funFact": "Batrachotoxin is also found in the feathers of some New Guinea birds, the pitohuis and blue-capped ifrit, which probably get it from beetles."
+ },
+ {
+  "slug": "hyalinobatrachium-fleischmanni",
+  "scientific": "Hyalinobatrachium fleischmanni",
+  "common": "Fleischmann's glass frog",
+  "otherNames": [
+   "Northern glass frog",
+   "Rana de vidrio (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Amphibian",
+  "family": "Centrolenidae",
+  "shelves": [
+   "freshwater",
+   "marvel"
+  ],
+  "summary": "A small, lime-green frog of Central and South American streamsides whose belly is so transparent that its beating heart can be seen. Males guard egg clutches on the undersides of leaves hanging over the water.",
+  "nativeRange": "Southern Mexico through Central America to Colombia, Ecuador and Venezuela (some northern South American populations have been split as separate species)",
+  "regions": [
+   "Central America",
+   "South America"
+  ],
+  "biomes": [
+   "Tropical rainforest",
+   "Cloud forest",
+   "Streams"
+  ],
+  "abilities": [
+   "When sleeping it hides almost 90% of its red blood cells in its liver, becoming two to three times more transparent",
+   "Its translucent body helps it blend into leaves by softening its outline",
+   "Males guard eggs for weeks, protecting them from wasps and fungus"
+  ],
+  "animal": {
+   "diet": "Small insects and spiders",
+   "habitat": "Vegetation along streams in lowland and montane rainforest",
+   "size": "~2–3 cm",
+   "behaviour": "Males call from the underside of leaves over streams on rainy nights and guard the eggs. Hatching tadpoles drop into the stream below.",
+   "fieldMarks": [
+    "Small, flat frog, lime-green with tiny yellow spots",
+    "Translucent belly through which the heart and organs can be seen",
+    "Large eyes facing forward, with gold irises",
+    "Often found on the undersides of leaves over streams"
+   ],
+   "voice": "A high-pitched, rising 'peep' or 'wheet', repeated at intervals",
+   "lookalikes": "Many glass frogs look alike. The reticulated glass frog (H. valerioi) has a net of yellow lines on its back. Emerald glass frogs (Espadarana prosoblepon) have green bones and a white spine on the arm of males. A close view of the underside and the call help with identification.",
+   "whereToSee": "Streams at La Selva, Monteverde and Arenal (Costa Rica), Panama's Chiriquí highlands; night walks in the rainy season",
+   "season": "Breeds in the rainy season",
+   "order": "Anura"
+  },
+  "iucn": "LC",
+  "lore": "Oskar Boettger described it in 1893 from Costa Rican specimens and named it after Carl Fleischmann, who collected them.",
+  "funFact": "A 2022 study in Science showed that sleeping frogs of this species pack red blood cells into their liver without blood clots forming, which interests researchers studying clotting disorders."
+ },
+ {
+  "slug": "lithobates-sylvaticus",
+  "scientific": "Lithobates sylvaticus",
+  "common": "Wood frog",
+  "otherNames": [
+   "Grenouille des bois (Québec French)",
+   "Rana de bosque (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Amphibian",
+  "family": "Ranidae",
+  "shelves": [
+   "marvel",
+   "songbird"
+  ],
+  "summary": "A brown, masked frog of northern forests that freezes solid in winter. Its heart stops and much of its body water turns to ice, and it thaws back to life in spring. It ranges farther north than any other North American amphibian, beyond the Arctic Circle.",
+  "nativeRange": "Alaska and Canada to the Arctic treeline, south to the Appalachians and northeastern US",
+  "regions": [
+   "North America",
+   "Arctic"
+  ],
+  "biomes": [
+   "Boreal forest",
+   "Temperate deciduous forest",
+   "Tundra edge",
+   "Vernal pools"
+  ],
+  "abilities": [
+   "Survives being frozen, with up to about two-thirds of its body water turned to ice",
+   "Floods its cells with glucose and urea, which act as antifreeze",
+   "Alaskan wood frogs survive temperatures as low as −16 °C",
+   "Breeds in temporary pools free of fish"
+  ],
+  "animal": {
+   "diet": "Insects, spiders, slugs, snails and worms",
+   "habitat": "Moist woodland, breeding in vernal pools and ponds",
+   "lifespan": "~3 years",
+   "size": "~3.5–7.5 cm",
+   "behaviour": "In early spring, sometimes while ice still covers part of the pond, wood frogs gather for a breeding frenzy that lasts only a few days, laying large egg masses together.",
+   "fieldMarks": [
+    "Brown, tan or rust frog with a dark mask through the eye",
+    "White line along the upper lip",
+    "Ridges (dorsolateral folds) running down the back",
+    "Often a pale stripe down the middle of the back"
+   ],
+   "voice": "A chorus of short, rasping clucks, like quacking ducks",
+   "lookalikes": "Leopard frogs (L. pipiens) are green or brown with large dark spots. Pickerel frogs have squarish spots. The spring peeper is tiny with an X on its back. The wood frog's dark mask is distinctive.",
+   "whereToSee": "Vernal pools in New England, the Great Lakes region, Ontario, Quebec, Alaska; listen in early spring",
+   "season": "Breeds March–May (as soon as ice melts); hibernates frozen in leaf litter in winter",
+   "order": "Anura"
+  },
+  "iucn": "LC",
+  "funFact": "A frozen wood frog shows no heartbeat or breathing. Within hours of thawing its heart starts again."
+ },
+ {
+  "slug": "nasikabatrachus-sahyadrensis",
+  "scientific": "Nasikabatrachus sahyadrensis",
+  "common": "Purple frog",
+  "otherNames": [
+   "Pignose frog",
+   "Indian purple frog",
+   "Pathala thavala (Malayalam, 'underworld frog')",
+   "Mahabali frog"
+  ],
+  "kingdom": "Animalia",
+  "form": "Amphibian",
+  "family": "Nasikabatrachidae",
+  "shelves": [
+   "ancient",
+   "marvel",
+   "songbird"
+  ],
+  "summary": "A bloated, purple-grey frog with a pointed pig-like snout that spends most of its life underground in India's Western Ghats, surfacing only for a few days in the monsoon to breed. Its closest relatives live in the Seychelles, a link to the breakup of Gondwana.",
+  "nativeRange": "Western Ghats of India (Kerala, Tamil Nadu and Karnataka)",
+  "regions": [
+   "South Asia"
+  ],
+  "biomes": [
+   "Tropical moist forest",
+   "Monsoon streams",
+   "Plantations"
+  ],
+  "abilities": [
+   "Lives buried up to several metres underground for most of the year",
+   "Feeds on termites and ants in their underground tunnels, probing with its pointed snout",
+   "Tadpoles cling to rocks in fast monsoon streams with sucker-like mouths",
+   "Its lineage split from its Seychelles relatives tens of millions of years ago"
+  ],
+  "animal": {
+   "diet": "Termites, also ants",
+   "habitat": "Moist forest and plantations near seasonal streams",
+   "size": "~5–9 cm; females larger",
+   "behaviour": "Emerges for a few days in the pre-monsoon or early monsoon to breed in fast-flowing streams. The small male clings to the larger female's back.",
+   "fieldMarks": [
+    "Bloated, purplish-grey body",
+    "Small head with a pointed pig-like snout",
+    "Short limbs adapted for digging",
+    "Small eyes"
+   ],
+   "voice": "A soft, chicken-like 'cluck', given from underground or at stream edges in the early monsoon",
+   "lookalikes": "No other Indian frog looks like it. The Bhupathy's purple frog (N. bhupathi), described in 2017, is similar and lives in the eastern slopes of the southern Western Ghats; it breeds later, during the northeast monsoon.",
+   "whereToSee": "Monsoon streams in Kerala's Idukki district and the Western Ghats; rarely seen",
+   "season": "Emerges for a few days in May–June to breed",
+   "order": "Anura"
+  },
+  "iucn": "NT",
+  "lore": "S. D. Biju and Franky Bossuyt described the purple frog in Nature in 2003, revealing a new family of frogs. In Kerala it has been proposed as the state frog, and local people call it 'Mahabali' after the legendary king who returns from the underworld once a year.",
+  "funFact": "Local people knew the purple frog long before scientists; its tadpoles are collected and eaten in parts of Kerala."
+ },
+ {
+  "slug": "salamandra-salamandra",
+  "scientific": "Salamandra salamandra",
+  "common": "Fire salamander",
+  "otherNames": [
+   "Feuersalamander (German)",
+   "Salamandre tachetée (French)",
+   "Salamandra pezzata (Italian)",
+   "Salamandra común (Spanish)",
+   "Salamander (Dutch)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Amphibian",
+  "family": "Salamandridae",
+  "shelves": [
+   "venomous",
+   "toxic",
+   "endangered"
+  ],
+  "summary": "A glossy black-and-yellow salamander of European forests, out mainly on rainy nights. Its skin secretes toxic alkaloids, and its colours warn predators. It is now threatened by a fungus, Batrachochytrium salamandrivorans, which has wiped out populations in the Netherlands, Belgium and Germany.",
+  "nativeRange": "Central and southern Europe, from Iberia to the Balkans and the Carpathians",
+  "regions": [
+   "Europe"
+  ],
+  "biomes": [
+   "Deciduous forest",
+   "Mountain streams",
+   "Hilly woodland"
+  ],
+  "abilities": [
+   "Secretes samandarin, a neurotoxic alkaloid, from glands in its skin",
+   "Can squirt toxic secretions from glands along its spine",
+   "Females give birth to live larvae in cool streams; some populations give birth to fully formed young",
+   "Can live for decades"
+  ],
+  "animal": {
+   "diet": "Worms, slugs, insects, spiders",
+   "habitat": "Damp deciduous forests near clean streams, in hilly or mountain country",
+   "lifespan": "~20 years in the wild; 50+ in captivity",
+   "size": "~15–25 cm",
+   "behaviour": "Active at night, especially after rain. Its toxin is harmful if swallowed and stings eyes and mouth, so wash your hands after touching one.",
+   "fieldMarks": [
+    "Glossy black with bold yellow (or orange or red) spots or stripes",
+    "Large parotoid glands behind the eyes",
+    "Rows of glands along the back",
+    "Stocky body, short tail"
+   ],
+   "lookalikes": "The Alpine salamander (S. atra) is all black and lives high in the Alps. The Corsican and Near Eastern fire salamanders are separate species with their own ranges. North American spotted salamanders (Ambystoma maculatum) are dark with yellow spots but live on another continent.",
+   "whereToSee": "Beech forests of Germany, Switzerland, France, northern Spain and the Balkans; wet nights in spring and autumn",
+   "season": "Active spring to autumn on rainy nights; larvae born in spring",
+   "order": "Caudata"
+  },
+  "iucn": "VU",
+  "lore": "Pliny the Elder wrote that the salamander was so cold that it could put out fires, and medieval bestiaries and Paracelsus made it the elemental spirit of fire. The belief probably arose from salamanders crawling out of logs thrown on the fire.",
+  "historicalNames": [
+   "Salamandra",
+   "Lacerta salamandra",
+   "Salamander"
+  ],
+  "funFact": "François I of France chose a salamander in flames as his emblem, with the motto 'Nutrisco et extinguo' ('I nourish and extinguish'); it is carved all over the Château de Chambord."
+ },
+ {
+  "slug": "andrias-davidianus",
+  "scientific": "Andrias davidianus",
+  "common": "Chinese giant salamander",
+  "otherNames": [
+   "Dàní 大鲵 (Chinese)",
+   "Wáwáyú 娃娃鱼, 'baby fish' (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Amphibian",
+  "family": "Cryptobranchidae",
+  "shelves": [
+   "freshwater",
+   "endangered",
+   "ancient",
+   "marvel"
+  ],
+  "summary": "Among the largest amphibians alive, recorded at up to 1.8 m. This brown, wrinkled salamander lives in cold mountain streams of China. It is Critically Endangered, mainly because of hunting and farming for meat, and farm-bred animals of mixed origin have been released into wild rivers.",
+  "nativeRange": "Mountain streams of central and southern China; genetic studies suggest the old 'davidianus' is several species (A. sligoi, A. jiangxiensis and others), with A. davidianus in the narrow sense restricted to part of this range",
+  "regions": [
+   "East Asia"
+  ],
+  "biomes": [
+   "Mountain streams",
+   "Rivers"
+  ],
+  "abilities": [
+   "Breathes mainly through its wrinkled skin",
+   "Detects prey with sensory nodes along its head and body, sensing water movement",
+   "Can live for decades; over 50 years in captivity",
+   "Males guard eggs in underwater dens"
+  ],
+  "animal": {
+   "diet": "Fish, frogs, crabs, shrimp, worms, insects",
+   "habitat": "Clear, cold, rocky mountain streams and rivers",
+   "lifespan": "Decades; 50+ years recorded in captivity",
+   "size": "Usually ~1 m; historically up to ~1.8 m",
+   "behaviour": "Hides by day in crevices and dens and ambushes prey at night with a fast suction gulp.",
+   "fieldMarks": [
+    "Huge, flattened, brown salamander with wrinkled skin",
+    "Broad, flat head with tiny eyes",
+    "Fold of skin along the sides of the body",
+    "Short limbs"
+   ],
+   "lookalikes": "The Japanese giant salamander (A. japonicus) is very similar and lives only in Japan; the two are best told apart by where they are found. The North American hellbender (Cryptobranchus) is much smaller.",
+   "whereToSee": "Rarely seen in the wild; nature reserves in Zhangjiajie (Hunan), Shaanxi's Qinling Mountains; also in zoos",
+   "season": "Resident; breeds in late summer",
+   "order": "Caudata"
+  },
+  "iucn": "CR",
+  "lore": "Its Chinese name 'baby fish' refers to its cry, said to sound like a human baby. It was described in 1871 from specimens sent by the French missionary-naturalist Armand David.",
+  "funFact": "Millions are raised on farms in China for meat, but surveys across its range found few wild animals left."
+ },
+ {
+  "slug": "proteus-anguinus",
+  "scientific": "Proteus anguinus",
+  "common": "Olm",
+  "otherNames": [
+   "Človeška ribica, 'human fish' (Slovene)",
+   "Čovječja ribica (Croatian)",
+   "Grottenolm (German)",
+   "Protée (French)",
+   "Baby dragon"
+  ],
+  "kingdom": "Animalia",
+  "form": "Amphibian",
+  "family": "Proteidae",
+  "shelves": [
+   "freshwater",
+   "endangered",
+   "marvel",
+   "ancient"
+  ],
+  "summary": "A blind, pale-pink salamander that spends its whole life in the dark underground waters of the Dinaric Karst. It keeps its feathery larval gills for life, can live for more than a century and may go years without eating. A 2026 study split the olm into nine species, and iNaturalist now restricts Proteus anguinus to one of these lineages; the account here covers the olm group as a whole.",
+  "nativeRange": "Underground waters of the Dinaric Karst from northeastern Italy and Slovenia through Croatia to Bosnia and Herzegovina (the olm group as a whole)",
+  "regions": [
+   "Europe"
+  ],
+  "biomes": [
+   "Caves",
+   "Underground rivers"
+  ],
+  "abilities": [
+   "Can live for 100 years or more",
+   "Survives years without food",
+   "Senses light through its skin and detects electric and magnetic fields",
+   "Keeps external gills as an adult (neoteny)"
+  ],
+  "animal": {
+   "diet": "Small crustaceans, snails and insect larvae",
+   "habitat": "Cold, clean underground streams and lakes in limestone caves",
+   "lifespan": "Estimated 100+ years",
+   "size": "~20–30 cm",
+   "behaviour": "Extremely inactive: one olm in a Bosnian cave was recorded in the same spot for more than seven years.",
+   "fieldMarks": [
+    "Long, eel-like, pale pink-white body",
+    "Bright red feathery external gills",
+    "Tiny skin-covered eyes",
+    "Three toes on the front feet and two on the back"
+   ],
+   "lookalikes": "The black olm (P. parkelj) of Bela Krajina in Slovenia is dark-skinned, with eyes. No other European amphibian lives permanently in caves.",
+   "whereToSee": "Postojna Cave (Slovenia), which has a viewing aquarium; Tular Cave Laboratory in Kranj",
+   "season": "Resident",
+   "order": "Caudata"
+  },
+  "iucn": "VU",
+  "lore": "In 1689 Johann Weikhard von Valvasor wrote in 'The Glory of the Duchy of Carniola' that locals believed olms washed out of caves after floods were the young of dragons living underground.",
+  "historicalNames": [
+   "Proteus",
+   "Human fish"
+  ],
+  "funFact": "In 2016 a female olm in Postojna Cave laid eggs that hatched under the care of the cave's biologists, a very rare breeding record for the species."
+ },
+ {
+  "slug": "eleutherodactylus-coqui",
+  "scientific": "Eleutherodactylus coqui",
+  "common": "Common coquí",
+  "otherNames": [
+   "Coquí (Puerto Rican Spanish)",
+   "Coqui frog"
+  ],
+  "kingdom": "Animalia",
+  "form": "Amphibian",
+  "family": "Eleutherodactylidae",
+  "shelves": [
+   "songbird",
+   "sacred"
+  ],
+  "summary": "A tiny frog whose two-note 'ko-KEE' call fills Puerto Rico's nights and has become a national symbol. Its eggs hatch directly into froglets with no tadpole stage. In Hawaii, where it was introduced, it is an invasive pest whose loud choruses cause complaints.",
+  "nativeRange": "Puerto Rico; introduced to Hawaii, the US Virgin Islands, Florida and elsewhere",
+  "regions": [
+   "Caribbean",
+   "Oceania"
+  ],
+  "biomes": [
+   "Tropical rainforest",
+   "Montane forest",
+   "Gardens",
+   "Towns"
+  ],
+  "abilities": [
+   "Eggs hatch directly into tiny froglets, with no tadpole or need for standing water",
+   "Males guard eggs and keep them moist",
+   "Its call can reach about 90 decibels at half a metre",
+   "Climbs using toe pads, with no webbing between its toes"
+  ],
+  "animal": {
+   "diet": "Insects, spiders, snails",
+   "habitat": "Forest, gardens and towns, from sea level to mountains",
+   "size": "~3–5 cm",
+   "behaviour": "Males call from leaves and tree trunks at dusk to attract females and defend their territory.",
+   "fieldMarks": [
+    "Small brown or grey frog, often with a pale stripe or W-shaped mark",
+    "Large toe pads, no webbing",
+    "Large eyes",
+    "Loud two-note call"
+   ],
+   "voice": "A loud, two-note 'ko-KEE', the first note lower, repeated through the night",
+   "lookalikes": "Puerto Rico has around 16 other Eleutherodactylus species, many of them small and brown, so the common coquí's two-note call is the best way to identify it.",
+   "whereToSee": "El Yunque National Forest and almost anywhere in Puerto Rico at night; Hawaii's Big Island",
+   "season": "Calls year-round, loudest in the wet season",
+   "order": "Anura"
+  },
+  "iucn": "LC",
+  "lore": "In Puerto Rico people say 'Soy de aquí como el coquí' ('I'm from here, like the coquí'), and the frog appears in Taíno petroglyphs.",
+  "funFact": "Coquís at higher altitudes in Puerto Rico are larger and have deeper calls than those in the lowlands."
+ },
+ {
+  "slug": "hoplobatrachus-tigerinus",
+  "scientific": "Hoplobatrachus tigerinus",
+  "common": "Indian bullfrog",
+  "otherNames": [
+   "Indus Valley bullfrog",
+   "Mendhak (Hindi, Urdu, frog)",
+   "Sona bang (Bengali)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Amphibian",
+  "family": "Dicroglossidae",
+  "shelves": [
+   "freshwater",
+   "songbird",
+   "edible"
+  ],
+  "summary": "South Asia's largest frog. During the first monsoon rains the males turn bright yellow and puff out blue vocal sacs, calling in loud choruses. It was exported in huge numbers for frog legs until India banned the trade in 1987.",
+  "nativeRange": "Afghanistan and Pakistan through India, Nepal and Bangladesh to Myanmar; introduced to the Andaman Islands and Madagascar",
+  "regions": [
+   "South Asia",
+   "Central Asia",
+   "Southeast Asia",
+   "Madagascar"
+  ],
+  "biomes": [
+   "Wetlands",
+   "Rice paddies",
+   "Ponds",
+   "Ditches"
+  ],
+  "abilities": [
+   "Males turn bright yellow and show blue vocal sacs in the breeding season",
+   "Can leap long distances and skitter across water",
+   "Eats almost anything it can fit into its mouth, including other frogs, snakes and small birds"
+  ],
+  "animal": {
+   "diet": "Insects, crabs, fish, frogs, snakes, small birds and rodents",
+   "habitat": "Ponds, marshes, rice paddies and ditches",
+   "size": "Up to ~17 cm",
+   "behaviour": "Comes out in large numbers to breed after the first monsoon rains; males call from shallow water.",
+   "fieldMarks": [
+    "Large olive-green to brown frog with dark spots",
+    "Thin yellow line down the middle of the back",
+    "Breeding males bright yellow with blue vocal sacs",
+    "Pointed snout and strongly webbed toes"
+   ],
+   "voice": "A loud, hoarse croak, given in deafening choruses after the monsoon rains",
+   "lookalikes": "Jerdon's bullfrog (H. crassus) has shorter hind limbs and a shorter snout. Skittering frogs (Euphlyctis) are smaller and more aquatic.",
+   "whereToSee": "Rice paddies and ponds across the Indian plains; Keoladeo (Bharatpur) and Sundarbans; best seen at the onset of the monsoon",
+   "season": "Breeding with the first monsoon rains (June–July)",
+   "order": "Anura"
+  },
+  "iucn": "LC",
+  "edibility": "edible",
+  "edibleParts": [
+   "hind legs"
+  ],
+  "edibilityNote": "Eaten locally; commercial frog-leg export is banned in India, and catching wild frogs is illegal there. Cook thoroughly.",
+  "lore": "The Rigveda's frog hymn (Maṇḍūka Sūkta, 7.103) compares frogs croaking at the start of the monsoon to priests chanting; South Asia's monsoon chorus of bullfrogs is the sound it describes.",
+  "funFact": "Before India banned exports in 1987, tens of millions of frogs were exported every year, and some studies linked the loss of frogs to increases in crop pests and mosquitoes."
+ }
+]

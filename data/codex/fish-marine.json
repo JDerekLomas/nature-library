@@ -1,0 +1,2810 @@
+[
+ {
+  "slug": "thunnus-thynnus",
+  "scientific": "Thunnus thynnus",
+  "common": "Atlantic bluefin tuna",
+  "otherNames": [
+   "Hon-maguro / Kuromaguro (Japanese)",
+   "Atún rojo (Spanish)",
+   "Thon rouge (French)",
+   "Tonno rosso (Italian)",
+   "Orkinos (Turkish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Scombridae",
+  "shelves": [
+   "ocean",
+   "edible",
+   "migrant",
+   "marvel"
+  ],
+  "summary": "The largest tuna, a warm-bodied torpedo that can exceed 600 kg and cross the Atlantic in a matter of months. Its heat-conserving circulation lets it hunt in cold northern waters, and its fatty belly meat has made it one of the most valuable fish on Earth.",
+  "nativeRange": "North Atlantic from the Gulf of Mexico and Canary Islands to Newfoundland and Norway; Mediterranean Sea",
+  "regions": [
+   "Atlantic Ocean",
+   "Europe",
+   "North America",
+   "North Africa"
+  ],
+  "biomes": [
+   "Open ocean (pelagic)",
+   "Continental shelf"
+  ],
+  "abilities": [
+   "Regional endothermy: a countercurrent heat exchanger (rete mirabile) keeps muscles, eyes and brain well above water temperature",
+   "Crosses the Atlantic between western and eastern feeding grounds, a journey electronic tags show can take only a few months",
+   "Dives below 1,000 m and tolerates water from about 3 °C to 30 °C",
+   "Retracts its fins into grooves to reduce drag at high speed"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "flesh (sashimi, sushi, steaks)",
+   "fatty belly (toro)"
+  ],
+  "edibilityNote": "Highly prized raw. As a large, long-lived predator it accumulates methylmercury; pregnant women and young children are advised to limit or avoid it. Improperly chilled tuna can cause scombroid (histamine) poisoning.",
+  "animal": {
+   "diet": "Herring, mackerel, sardines, squid, sand lance and crustaceans",
+   "habitat": "Epipelagic open ocean and shelf waters; spawns in warm, stratified water in the Gulf of Mexico and Mediterranean",
+   "lifespan": "Up to about 40 years",
+   "size": "Commonly 2 m and 250 kg; record ~3.3 m and 680 kg",
+   "behaviour": "Schools by size and makes seasonal migrations of thousands of kilometres between cold feeding grounds and warm spawning seas, returning faithfully to the sea where it was spawned.",
+   "fieldMarks": [
+    "Massive, deep, spindle-shaped body, deepest near the first dorsal fin",
+    "Short pectoral fins that do not reach the second dorsal fin",
+    "Dark blue-black back, silvery-white belly with pale spots and bars",
+    "Row of yellow finlets edged in black behind the dorsal and anal fins",
+    "Strong lateral keel on the caudal peduncle"
+   ],
+   "lookalikes": "Pacific bluefin (T. orientalis) is nearly identical but lives in the Pacific. Yellowfin has long yellow second dorsal and anal fins and a slimmer body; bigeye has longer pectorals reaching the second dorsal.",
+   "whereToSee": "Strait of Gibraltar (historic almadraba traps), Gulf of St. Lawrence and Prince Edward Island, Norway and Scotland in late summer, Balearic Islands",
+   "season": "North Atlantic feeding grounds Jul–Oct; Mediterranean spawning May–Jul",
+   "order": "Scombriformes"
+  },
+  "iucn": "LC",
+  "lore": "Phoenicians and Romans worked tuna traps at Gibraltar and Sicily; the Andalusian almadraba of Cádiz still operates, and Aristotle described the fish's seasonal passage through the Bosporus.",
+  "historicalNames": [
+   "Thynnus",
+   "Orcynus",
+   "Tonnina"
+  ],
+  "funFact": "Heavy overfishing in the 1990s and 2000s, especially in the eastern Atlantic and Mediterranean, was followed by a strict ICCAT recovery plan from 2007; the eastern stock rebounded, and in 2021 the IUCN moved the species from Endangered to Least Concern, although the smaller western (Gulf of Mexico) stock remains depleted."
+ },
+ {
+  "slug": "thunnus-albacares",
+  "scientific": "Thunnus albacares",
+  "common": "Yellowfin tuna",
+  "otherNames": [
+   "Ahi (Hawaiian)",
+   "Kihada (Japanese)",
+   "Rabil (Spanish)",
+   "Albacore (French: thon albacore)",
+   "Tuna sirip kuning (Indonesian)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Scombridae",
+  "shelves": [
+   "ocean",
+   "edible",
+   "migrant"
+  ],
+  "summary": "A fast, sleek tropical tuna named for its sickle-shaped golden fins. It is one of the most heavily fished tunas, filling much of the world's canned and sashimi-grade 'ahi'.",
+  "nativeRange": "Tropical and subtropical seas worldwide except the Mediterranean",
+  "regions": [
+   "Atlantic Ocean",
+   "Pacific Ocean",
+   "Indian Ocean",
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Open ocean (pelagic)"
+  ],
+  "abilities": [
+   "Capable of fast bursts of speed in pursuit of prey",
+   "Partially warm-bodied, though less so than bluefin",
+   "Schools with dolphins in the eastern tropical Pacific, a link once exploited by purse-seiners",
+   "Gathers in huge numbers under floating objects and fish aggregating devices"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "flesh (sashimi, poke, steaks, canned)"
+  ],
+  "edibilityNote": "Contains moderate methylmercury, more than skipjack but generally less than bluefin or bigeye; pregnant women should moderate intake. Poor chilling causes scombroid poisoning.",
+  "animal": {
+   "diet": "Flying fish, squid, small tunas, crustaceans",
+   "habitat": "Warm surface waters above the thermocline, mostly in the upper 100 m",
+   "lifespan": "About 7–9 years",
+   "size": "Commonly 1.5 m; up to ~2.4 m and 200 kg",
+   "behaviour": "Forms large schools mixed by size with skipjack and dolphins, and drives baitfish to the surface in feeding frenzies.",
+   "fieldMarks": [
+    "Very long, scythe-like second dorsal and anal fins in large adults",
+    "Bright yellow finlets and a golden lateral stripe",
+    "Long pectoral fins reaching the second dorsal",
+    "Belly with alternating broken vertical lines and dots"
+   ],
+   "lookalikes": "Bigeye tuna has a larger eye, plumper body and shorter second dorsal and anal fins; bluefin has short pectorals. Young yellowfin and bigeye are very hard to separate.",
+   "whereToSee": "Offshore sportfishing from Hawaii, Mexico's Revillagigedo Islands, the Maldives and Gulf of Mexico oil rigs",
+   "season": "Year-round in the tropics",
+   "order": "Scombriformes"
+  },
+  "iucn": "LC",
+  "lore": "In Hawaii 'ahi' has long been eaten raw in poke; the US 'dolphin-safe' label of 1990 was born from yellowfin purse-seine fisheries that netted dolphins.",
+  "historicalNames": [
+   "Germo albacares",
+   "Neothunnus albacares"
+  ],
+  "funFact": "Its species name comes from Portuguese albacora; the same word gave English 'albacore', now the name of a different tuna."
+ },
+ {
+  "slug": "xiphias-gladius",
+  "scientific": "Xiphias gladius",
+  "common": "Swordfish",
+  "otherNames": [
+   "Pez espada (Spanish)",
+   "Mekajiki (Japanese)",
+   "Abu sayf (Arabic)",
+   "Kılıç balığı (Turkish)",
+   "Espadon (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Xiphiidae",
+  "shelves": [
+   "ocean",
+   "edible",
+   "migrant",
+   "marvel"
+  ],
+  "summary": "A flattened 'sword' bill and a special heater organ that warms its eyes and brain make the swordfish a night hunter of the deep. Adults lose their teeth and scales entirely.",
+  "nativeRange": "Tropical and temperate oceans worldwide, including the Mediterranean",
+  "regions": [
+   "Atlantic Ocean",
+   "Pacific Ocean",
+   "Indian Ocean",
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Open ocean (pelagic)",
+   "Mesopelagic (twilight zone)"
+  ],
+  "abilities": [
+   "A brown heater tissue derived from eye muscle warms the eyes and brain up to 10–15 °C above ambient water",
+   "Warmed eyes improve temporal resolution for spotting fast prey in cold, dark water",
+   "Dives daily to 500 m or more, hunting at depth by day and nearer the surface at night",
+   "Slashes prey with its flat bill rather than spearing it"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "flesh (steaks)"
+  ],
+  "edibilityNote": "Among the highest-mercury commercial fish; the US FDA advises pregnant women and young children not to eat it.",
+  "animal": {
+   "diet": "Squid, mackerel, hake and other pelagic and deep-water fish",
+   "habitat": "Open ocean from the surface to about 550 m and deeper",
+   "size": "Commonly 3 m; record ~4.5 m and 650 kg",
+   "behaviour": "Solitary hunters that may bask at the surface with the dorsal fin and upper tail lobe out of the water.",
+   "fieldMarks": [
+    "Long, flat, sword-like bill about one-third of body length",
+    "No pelvic fins and, in adults, no scales or teeth",
+    "Tall, rigid, crescent-shaped first dorsal fin that does not fold down",
+    "Single large keel on each side of the tail base",
+    "Dark bronze-purple back, paler below"
+   ],
+   "lookalikes": "Marlins and sailfish have a round, spear-like bill, scales, pelvic fins and a long-based dorsal fin; swordfish's bill is flat and broad.",
+   "whereToSee": "Strait of Messina (traditional harpoon fishery), Florida Straits night fishing, offshore Chile and California",
+   "season": "Year-round; seasonal feeding migrations into temperate waters in summer",
+   "order": "Carangiformes"
+  },
+  "iucn": "NT",
+  "lore": "Pliny the Elder described swordfish piercing ships, and the Strait of Messina harpoon hunt from tall-masted 'passerelle' boats continues a tradition dating to antiquity.",
+  "historicalNames": [
+   "Xiphias",
+   "Gladius",
+   "Pesce spada"
+  ],
+  "funFact": "Swordfish bills have been found embedded in the wooden hulls of ships, and one became wedged in the research submersible Alvin in 1967."
+ },
+ {
+  "slug": "istiophorus-platypterus",
+  "scientific": "Istiophorus platypterus",
+  "common": "Sailfish",
+  "otherNames": [
+   "Atlantic sailfish (former I. albicans)",
+   "Pez vela (Spanish)",
+   "Bashōkajiki (Japanese)",
+   "Ikan layaran (Malay)",
+   "Voilier (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Istiophoridae",
+  "shelves": [
+   "ocean",
+   "migrant",
+   "marvel",
+   "endangered"
+  ],
+  "summary": "A billfish with a towering, sail-like dorsal fin that it raises while groups herd sardines into tight balls. Atlantic and Indo-Pacific sailfish are now treated as one species.",
+  "nativeRange": "Tropical and subtropical waters of the Atlantic, Indian and Pacific oceans",
+  "regions": [
+   "Atlantic Ocean",
+   "Pacific Ocean",
+   "Indian Ocean"
+  ],
+  "biomes": [
+   "Open ocean (pelagic)",
+   "Coastal waters"
+  ],
+  "abilities": [
+   "Raises its sail and flashes colour bands while hunting in groups",
+   "Rapidly changes colour, lighting up with blue bars when excited",
+   "Hunters take turns slashing into bait balls with the bill, injuring and knocking loose sardines",
+   "Often called the fastest fish, though 100+ km/h claims are disputed and measured bursts are much lower"
+  ],
+  "animal": {
+   "diet": "Sardines, anchovies, mackerel, squid",
+   "habitat": "Warm surface waters above the thermocline, often near coasts and islands",
+   "size": "Up to ~3.4 m and 100 kg; most under 2.7 m",
+   "behaviour": "Groups encircle a school of sardines, raise sails to compress it, then take turns striking with the bill so that each fish's attack is brief.",
+   "fieldMarks": [
+    "Huge, sail-like first dorsal fin, taller than the body is deep, dark blue with black spots",
+    "Long, round, slender bill",
+    "Very long, narrow pelvic fins",
+    "Dark blue back, silvery sides with rows of pale blue spots or bars"
+   ],
+   "lookalikes": "Marlins and spearfish have a much lower dorsal fin; swordfish has a flat bill and no pelvic fins.",
+   "whereToSee": "Isla Mujeres, Mexico (sardine bait balls), Stuart, Florida ('Sailfish Capital of the World'), Guatemala's Pacific coast",
+   "season": "Isla Mujeres Jan–Mar; Florida in winter",
+   "order": "Carangiformes"
+  },
+  "iucn": "VU",
+  "lore": "Sport anglers in Stuart, Florida made the sailfish a symbol of catch-and-release fishing in the 20th century; it is Florida's state saltwater fish.",
+  "historicalNames": [
+   "Histiophorus",
+   "Xiphias platypterus"
+  ],
+  "funFact": "The bill bears tiny tooth-like denticles that wear down from repeated slashing, and injured sardines are rarely impaled."
+ },
+ {
+  "slug": "gadus-morhua",
+  "scientific": "Gadus morhua",
+  "common": "Atlantic cod",
+  "otherNames": [
+   "Bacalao (Spanish, salted)",
+   "Bacalhau (Portuguese)",
+   "Torsk (Norwegian)",
+   "Skrei (Norwegian, spawning migrant)",
+   "Morue (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Gadidae",
+  "shelves": [
+   "ocean",
+   "edible",
+   "migrant",
+   "endangered"
+  ],
+  "summary": "The fish that fed empires: dried and salted cod carried Viking and Basque sailors across oceans. The collapse of the Grand Banks stock in 1992 became the textbook warning of industrial overfishing.",
+  "nativeRange": "North Atlantic from Cape Hatteras to Greenland and from the Bay of Biscay to the Barents Sea",
+  "regions": [
+   "Atlantic Ocean",
+   "Arctic",
+   "Europe",
+   "North America"
+  ],
+  "biomes": [
+   "Continental shelf",
+   "Cold temperate seas"
+  ],
+  "abilities": [
+   "A large female can release several million eggs in a season",
+   "Some cold-water populations produce antifreeze glycoproteins",
+   "Chin barbel and pelvic fins carry taste buds used to find buried prey",
+   "Makes grunting sounds with swim-bladder muscles during spawning"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "flesh (fresh, salted, dried as stockfish)",
+   "liver (cod liver oil)",
+   "roe",
+   "tongues and cheeks"
+  ],
+  "edibilityNote": "Low in mercury. Can carry anisakid (cod worm) parasites, killed by thorough cooking or freezing. Cod liver oil is very high in vitamin A, so excess can be harmful.",
+  "animal": {
+   "diet": "Crustaceans, sand eels, herring, capelin and smaller cod",
+   "habitat": "Cold shelf waters from the shore to about 600 m, near the bottom",
+   "lifespan": "Up to about 25 years",
+   "size": "Commonly up to 1 m; historical record ~2 m and 96 kg",
+   "behaviour": "Northeast Arctic 'skrei' cod migrate from the Barents Sea to spawn off the Lofoten Islands every winter.",
+   "fieldMarks": [
+    "Three dorsal fins and two anal fins",
+    "Single long barbel on the chin",
+    "Pale, curved lateral line on mottled greenish-brown to reddish sides",
+    "Upper jaw overhangs the lower",
+    "Square or slightly concave tail"
+   ],
+   "lookalikes": "Haddock has a black lateral line and a dark 'thumbprint' blotch above the pectoral; pollock (saithe) has a straight pale lateral line and protruding lower jaw.",
+   "whereToSee": "Lofoten Islands, Norway (spawning skrei); Gulf of Maine and Newfoundland coasts; North Sea and Baltic",
+   "season": "Resident; Lofoten spawning aggregations Feb–Apr",
+   "order": "Gadiformes"
+  },
+  "iucn": "VU",
+  "lore": "Norse stockfish dried on Lofoten racks has been traded to Europe since the Viking Age, and Basque and other European fleets fished Newfoundland for salt cod by the 1500s; Massachusetts hangs a carved 'Sacred Cod' in its State House.",
+  "historicalNames": [
+   "Asellus",
+   "Morhua",
+   "Stockfish",
+   "Haberdine"
+  ],
+  "funFact": "The IUCN global status (Vulnerable) still rests on a 1996 assessment; European cod was reassessed as Least Concern regionally, while Newfoundland's northern cod has never fully recovered."
+ },
+ {
+  "slug": "clupea-harengus",
+  "scientific": "Clupea harengus",
+  "common": "Atlantic herring",
+  "otherNames": [
+   "Hareng (French)",
+   "Sild (Norwegian/Danish)",
+   "Haring (Dutch)",
+   "Arenque (Spanish)",
+   "Śledź (Polish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Clupeidae",
+  "shelves": [
+   "ocean",
+   "edible",
+   "migrant",
+   "keystone"
+  ],
+  "summary": "One of the most abundant fish in the world, swimming in schools of hundreds of millions. Herring underpinned the Hanseatic League and the Dutch Golden Age and still feeds whales, seabirds, cod and people.",
+  "nativeRange": "North Atlantic from the Bay of Biscay to Svalbard and from Cape Hatteras to Greenland; Baltic Sea",
+  "regions": [
+   "Atlantic Ocean",
+   "Europe",
+   "North America",
+   "Arctic"
+  ],
+  "biomes": [
+   "Continental shelf",
+   "Coastal waters",
+   "Open ocean (pelagic)"
+  ],
+  "abilities": [
+   "Forms some of the largest fish schools on Earth",
+   "Filter-feeds and also picks individual zooplankton",
+   "Releases bubbles from the anus that produce 'fast repetitive tick' sounds, possibly used to keep schools together at night",
+   "Different stocks spawn in almost every season"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "flesh (pickled, salted, smoked as kippers, fermented as surströmming)",
+   "roe"
+  ],
+  "edibilityNote": "Low mercury, rich in omega-3 oils. Raw or lightly cured herring can carry Anisakis larvae; freezing before curing (as required for Dutch 'maatjes') kills them. Baltic herring can be high in dioxins, and Nordic food agencies limit consumption advice.",
+  "animal": {
+   "diet": "Copepods, krill, fish larvae",
+   "habitat": "Open shelf waters; spawns on gravel banks and seaweed",
+   "lifespan": "Up to about 20 years",
+   "size": "Usually 25–30 cm; up to 45 cm",
+   "behaviour": "Migrates between feeding, overwintering and spawning grounds in huge schools; eggs are sticky and laid in carpets on the seabed.",
+   "fieldMarks": [
+    "Slim, silvery body with blue-green back",
+    "Single dorsal fin set at the mid-point of the body",
+    "Belly keel with scutes that are not sharply serrated",
+    "Loose, easily shed scales",
+    "Gill cover without radiating ridges"
+   ],
+   "lookalikes": "Sprat is smaller with a sharply saw-edged belly keel and pelvic fins starting in front of the dorsal; shads have a notch in the upper jaw and dark shoulder spots.",
+   "whereToSee": "Northern Norwegian fjords in winter (with feeding orcas and humpbacks), Baltic coasts, Gulf of Maine",
+   "season": "Year-round; Norwegian spring-spawning herring overwinter in northern fjords and coastal waters in winter",
+   "order": "Clupeiformes"
+  },
+  "iucn": "LC",
+  "lore": "Dutch tradition credits Willem Beukelszoon with 'gibbing' herring in the 14th century, a preservation method that helped make Holland rich; Scandinavians called the shoals 'silver of the sea'.",
+  "historicalNames": [
+   "Harengus",
+   "Halec",
+   "Sild"
+  ],
+  "funFact": "The discovery that herring communicate by farting bubbles won an Ig Nobel Prize in Biology in 2004."
+ },
+ {
+  "slug": "engraulis-encrasicolus",
+  "scientific": "Engraulis encrasicolus",
+  "common": "European anchovy",
+  "otherNames": [
+   "Boquerón (Spanish, fresh)",
+   "Acciuga / Alice (Italian)",
+   "Hamsi (Turkish)",
+   "Anchois (French)",
+   "Gávros (Greek)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Engraulidae",
+  "shelves": [
+   "ocean",
+   "edible",
+   "keystone"
+  ],
+  "summary": "A finger-length schooling fish whose salted fillets flavour pizza, pasta and Caesar salad. It transfers plankton energy to tuna, dolphins and seabirds across the Mediterranean and Black Sea.",
+  "nativeRange": "Eastern Atlantic from Norway to South Africa; Mediterranean, Black and Azov seas",
+  "regions": [
+   "Atlantic Ocean",
+   "Europe",
+   "North Africa",
+   "Sub-Saharan Africa",
+   "West Asia"
+  ],
+  "biomes": [
+   "Coastal waters",
+   "Continental shelf"
+  ],
+  "abilities": [
+   "Filter-feeds by swimming with its huge mouth agape",
+   "Matures in its first year and spawns repeatedly through summer",
+   "Black Sea stocks migrate seasonally to overwinter off Turkey and Georgia"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "whole fish fried",
+   "salted and oil-cured fillets",
+   "colatura (fermented sauce)"
+  ],
+  "edibilityNote": "Low mercury. Marinated raw anchovies (boquerones en vinagre) are a known source of anisakiasis unless frozen first.",
+  "animal": {
+   "diet": "Zooplankton: copepods, fish eggs and larvae",
+   "habitat": "Coastal and shelf waters, often near river plumes",
+   "lifespan": "Up to about 3–5 years",
+   "size": "Usually 12–15 cm; up to 20 cm",
+   "behaviour": "Forms dense schools that move inshore in summer and to deeper water in winter.",
+   "fieldMarks": [
+    "Slender, rounded body with a blue-green back and silver stripe",
+    "Projecting, pointed snout overhanging an enormous mouth",
+    "Jaw extends far behind the eye",
+    "Single short dorsal fin mid-body"
+   ],
+   "lookalikes": "Sprat and young sardine have a short terminal mouth and no overhanging snout.",
+   "whereToSee": "Cantabrian coast of Spain (Santoña), Cetara on the Amalfi coast, Turkish Black Sea ports in winter",
+   "season": "Bay of Biscay fishery in spring; Black Sea hamsi season Nov–Feb",
+   "order": "Clupeiformes"
+  },
+  "iucn": "LC",
+  "lore": "The Romans fermented small fish into garum; Cetara's colatura di alici is often described as its living descendant, and hamsi is a cultural emblem of Turkey's Black Sea coast.",
+  "historicalNames": [
+   "Encrasicholus",
+   "Apua",
+   "Halecula"
+  ],
+  "funFact": "Salted anchovy fillets get their deep red-brown colour and savoury taste from months of enzymatic curing in salt."
+ },
+ {
+  "slug": "scomber-scombrus",
+  "scientific": "Scomber scombrus",
+  "common": "Atlantic mackerel",
+  "otherNames": [
+   "Caballa (Spanish)",
+   "Maquereau (French)",
+   "Makreel (Dutch)",
+   "Uskumru (Turkish)",
+   "Makrell (Norwegian)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Scombridae",
+  "shelves": [
+   "ocean",
+   "edible",
+   "migrant"
+  ],
+  "summary": "A fast, striped schooling fish of the North Atlantic that lacks a swim bladder and must swim constantly. Its oily flesh is grilled, smoked and canned throughout Europe.",
+  "nativeRange": "North Atlantic on both sides; Mediterranean and Black seas",
+  "regions": [
+   "Atlantic Ocean",
+   "Europe",
+   "North America",
+   "North Africa"
+  ],
+  "biomes": [
+   "Continental shelf",
+   "Open ocean (pelagic)"
+  ],
+  "abilities": [
+   "Has no swim bladder, so it can change depth rapidly",
+   "Migrates in huge schools between spawning and feeding grounds",
+   "A northward shift of its summer feeding range into Icelandic and Faroese waters triggered the 'mackerel war' over quotas from 2010"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "flesh (grilled, smoked, pickled, canned)"
+  ],
+  "edibilityNote": "Low in mercury, unlike king mackerel. Spoils quickly and can cause scombroid poisoning if not kept cold.",
+  "animal": {
+   "diet": "Zooplankton, krill, small fish",
+   "habitat": "Shelf waters in the upper 200 m",
+   "lifespan": "Up to about 20 years",
+   "size": "Usually 30 cm; up to 60 cm",
+   "behaviour": "Overwinters in deeper water and moves inshore in summer, where schools drive baitfish to the surface.",
+   "fieldMarks": [
+    "Iridescent green-blue back with 20–30 wavy black bars",
+    "Silvery-white belly without spots",
+    "Two well-separated dorsal fins and 5 finlets above and below the tail",
+    "Torpedo body with small keels on the tail base"
+   ],
+   "lookalikes": "Atlantic chub mackerel (Scomber colias) has dusky spots on the belly and a swim bladder; horse mackerel has a row of bony scutes along the lateral line.",
+   "whereToSee": "Cornwall, Brittany and Norwegian coasts in summer; Gulf of Maine",
+   "season": "Inshore summer visitor in northern Europe, roughly May–Sep",
+   "order": "Scombriformes"
+  },
+  "iucn": "LC",
+  "lore": "In 17th-century London mackerel was allowed to be sold on Sundays because it spoils so fast; Cornish handline fishing for mackerel is centuries old.",
+  "historicalNames": [
+   "Scomber",
+   "Maquerel",
+   "Lacertus"
+  ],
+  "funFact": "The phrase 'mackerel sky' for rippled cirrocumulus clouds comes from the fish's barred back."
+ },
+ {
+  "slug": "sardinops-sagax",
+  "scientific": "Sardinops sagax",
+  "common": "Pacific sardine",
+  "otherNames": [
+   "South American pilchard",
+   "Ma-iwashi (Japanese)",
+   "Sardina monterrey (Spanish)",
+   "Pilchard (South Africa, Australia)",
+   "Sardina española (Peru/Chile)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Clupeidae",
+  "shelves": [
+   "ocean",
+   "edible",
+   "migrant",
+   "keystone"
+  ],
+  "summary": "A boom-and-bust forage fish of the cool upwelling coasts of the Pacific and southern Africa. Its numbers swing over decades, alternating with anchovies, and its collapse emptied Monterey's Cannery Row.",
+  "nativeRange": "Temperate upwelling coasts of the Pacific (California, Peru–Chile, Japan, Australia–New Zealand) and southern Africa",
+  "regions": [
+   "Pacific Ocean",
+   "Indian Ocean",
+   "Atlantic Ocean",
+   "North America",
+   "South America",
+   "East Asia",
+   "Australia",
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Coastal waters",
+   "Upwelling zones"
+  ],
+  "abilities": [
+   "Populations rise and crash over multi-decade cycles linked to ocean temperature regimes",
+   "Filter-feeds on phytoplankton and zooplankton",
+   "South Africa's winter 'sardine run' draws dolphins, sharks, gannets and Bryde's whales in one of the ocean's great feeding spectacles"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "whole fish (grilled, canned)",
+   "fish meal and oil"
+  ],
+  "edibilityNote": "Very low mercury and high omega-3. Like other oily fish, spoils rapidly; poorly handled fish can cause scombroid poisoning.",
+  "animal": {
+   "diet": "Phytoplankton and zooplankton",
+   "habitat": "Coastal pelagic waters, often near upwelling fronts",
+   "lifespan": "Up to about 13 years; most fewer",
+   "size": "Up to about 40 cm; commonly 15–25 cm",
+   "behaviour": "Migrates seasonally along coasts in vast schools; off South Africa's east coast, shoals move north in a tongue of cool water each winter.",
+   "fieldMarks": [
+    "Rounded, silvery body with a blue-green back",
+    "One to three rows of dark spots along the upper sides",
+    "Radiating bony striae on the gill cover",
+    "Single dorsal fin, forked tail"
+   ],
+   "lookalikes": "European pilchard (Sardina pilchardus) is very similar but lives in the NE Atlantic and Mediterranean; Pacific herring lacks the dark spots and gill-cover ridges.",
+   "whereToSee": "Wild Coast and KwaZulu-Natal, South Africa (sardine run); Monterey Bay; California Current upwelling coasts",
+   "season": "South African sardine run Jun–Jul",
+   "order": "Clupeiformes"
+  },
+  "iucn": "LC",
+  "lore": "Monterey's sardine canneries, immortalised in John Steinbeck's Cannery Row (1945), closed after the stock collapsed in the late 1940s and 1950s.",
+  "historicalNames": [
+   "Clupea sagax"
+  ],
+  "funFact": "Fish scales preserved in Santa Barbara Basin sediments show sardine booms and busts occurred for centuries before industrial fishing."
+ },
+ {
+  "slug": "mola-mola",
+  "scientific": "Mola mola",
+  "common": "Ocean sunfish",
+  "otherNames": [
+   "Pez luna (Spanish)",
+   "Manbō (Japanese)",
+   "Poisson-lune (French)",
+   "Pesce luna (Italian)",
+   "Mondfisch (German)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Molidae",
+  "shelves": [
+   "ocean",
+   "endangered",
+   "marvel"
+  ],
+  "summary": "A giant, tail-less disc of a fish that seems to be all head, propelled by flapping its tall dorsal and anal fins. It is among the heaviest bony fishes and the most fecund vertebrate known.",
+  "nativeRange": "Temperate and tropical oceans worldwide",
+  "regions": [
+   "Atlantic Ocean",
+   "Pacific Ocean",
+   "Indian Ocean",
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Open ocean (pelagic)",
+   "Mesopelagic (twilight zone)"
+  ],
+  "abilities": [
+   "A single female was found carrying an estimated 300 million eggs, the highest count for any vertebrate",
+   "Grows from a larva a few millimetres long to over a tonne",
+   "Lies flat at the surface to warm up after deep, cold dives and lets seabirds pick off its parasites",
+   "Replaces the tail with a rudder-like 'clavus' formed from dorsal and anal fin elements"
+  ],
+  "animal": {
+   "diet": "Jellyfish, salps, siphonophores, also small fish, squid and crustaceans",
+   "habitat": "Open ocean from the surface to several hundred metres",
+   "size": "Commonly 1.8 m long and up to 1,000 kg; exceptional individuals over 2 t",
+   "behaviour": "Visits reef and kelp-edge 'cleaning stations' where fish such as bannerfish and wrasses pick parasites off its skin.",
+   "fieldMarks": [
+    "Huge, laterally flattened oval body with no true tail",
+    "Tall dorsal and anal fins set far back, the dorsal often flopping above the surface",
+    "Wavy-edged clavus in place of a tail fin",
+    "Small mouth with beak-like fused teeth",
+    "Grey to silvery, rough sandpaper skin"
+   ],
+   "lookalikes": "Hoodwinker sunfish (Mola tecta) has a smooth clavus without a central lobe; bump-head sunfish (Mola alexandrini) has a head bump and chin bulge. A surfaced dorsal fin is mistaken for a shark's, but sunfish fins waggle side to side.",
+   "whereToSee": "Crystal Bay, Nusa Penida (Bali); Galápagos (Punta Vicente Roca); Azores; Monterey Bay",
+   "season": "Bali Jul–Oct when cold upwelling arrives",
+   "order": "Tetraodontiformes"
+  },
+  "iucn": "VU",
+  "lore": "In parts of Japan and Taiwan sunfish meat and intestines are eaten as a local delicacy; in German it has been called Schwimmender Kopf, the 'swimming head'.",
+  "historicalNames": [
+   "Orthragoriscus",
+   "Mola",
+   "Moonfish"
+  ],
+  "funFact": "The heaviest bony fish ever measured was a bump-head sunfish (Mola alexandrini) of 2,744 kg found off the Azores in 2021, a close relative of Mola mola."
+ },
+ {
+  "slug": "coryphaena-hippurus",
+  "scientific": "Coryphaena hippurus",
+  "common": "Mahi-mahi",
+  "otherNames": [
+   "Common dolphinfish",
+   "Dorado (Spanish)",
+   "Lampuka (Maltese)",
+   "Shiira (Japanese)",
+   "Ikan lemadang (Malay)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Coryphaenidae",
+  "shelves": [
+   "ocean",
+   "edible",
+   "migrant"
+  ],
+  "summary": "A blazing gold, green and blue surface hunter that grows astonishingly fast, reaching adulthood in months. Bulls develop a tall, square forehead; the colours fade to grey within minutes of death.",
+  "nativeRange": "Tropical and subtropical seas worldwide, including the Mediterranean",
+  "regions": [
+   "Atlantic Ocean",
+   "Pacific Ocean",
+   "Indian Ocean",
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Open ocean (pelagic)"
+  ],
+  "abilities": [
+   "One of the fastest-growing fishes, maturing at 4–5 months",
+   "Changes colour rapidly, flashing bars and spots while hunting",
+   "Gathers under floating sargassum, logs and debris to hunt",
+   "Leaps clear of the water chasing flying fish"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "flesh (grilled, fried, ceviche)"
+  ],
+  "edibilityNote": "Moderate mercury; generally considered a reasonable choice. Prone to scombroid (histamine) poisoning if not iced promptly.",
+  "animal": {
+   "diet": "Flying fish, juvenile tunas, squid, crustaceans",
+   "habitat": "Warm surface waters, often near floating objects and sargassum",
+   "lifespan": "Usually under 4–5 years",
+   "size": "Commonly 1 m; up to ~2 m and 40 kg",
+   "behaviour": "Travels in small schools that follow drifting objects across the open ocean; pairs often stay together and a hooked fish is often followed by its mate.",
+   "fieldMarks": [
+    "Long dorsal fin running from the head almost to the tail",
+    "Brilliant golden sides, blue-green back and scattered blue spots",
+    "Males with a steep, blunt forehead; females rounded",
+    "Deeply forked tail"
+   ],
+   "lookalikes": "Pompano dolphinfish (C. equiselis) is smaller with a squarer tooth patch on the tongue and fewer dorsal rays (48–55 vs 58–66). Not related to dolphins (mammals).",
+   "whereToSee": "Sargassum lines off Florida and the Bahamas, Costa Rica, Hawaii, Malta (autumn lampuka fishery)",
+   "season": "Year-round in tropics; Malta Aug–Dec",
+   "order": "Carangiformes"
+  },
+  "iucn": "LC",
+  "lore": "Maltese fishers have caught lampuki under floating palm-frond rafts (kannizzati) for centuries, a technique that predates modern fish aggregating devices; 'mahi-mahi' is Hawaiian for 'very strong'.",
+  "historicalNames": [
+   "Hippurus",
+   "Dorado"
+  ],
+  "funFact": "Its brilliant colours are produced by chromatophores and iridophores that collapse at death, turning the fish dull grey within minutes."
+ },
+ {
+  "slug": "pterois-volitans",
+  "scientific": "Pterois volitans",
+  "common": "Red lionfish",
+  "otherNames": [
+   "Pez león (Spanish)",
+   "Hana-minokasago (Japanese)",
+   "Ikan lepu (Indonesian)",
+   "Poisson-scorpion (French)",
+   "Turkeyfish"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Scorpaenidae",
+  "shelves": [
+   "ocean",
+   "venomous",
+   "edible"
+  ],
+  "summary": "A flamboyant, zebra-striped reef predator with venomous fin spines. Released from aquaria in Florida, it became one of the fastest and most damaging marine invasions known, spreading across the Caribbean in two decades.",
+  "nativeRange": "Western Pacific and eastern Indian Ocean; invasive in the western Atlantic, Caribbean and Gulf of Mexico",
+  "regions": [
+   "Pacific Ocean",
+   "Indian Ocean",
+   "Southeast Asia",
+   "Oceania",
+   "Atlantic Ocean",
+   "Caribbean"
+  ],
+  "biomes": [
+   "Coral reef",
+   "Rocky reef",
+   "Seagrass"
+  ],
+  "abilities": [
+   "Dorsal, pelvic and anal spines deliver a painful venom",
+   "Herds small fish into corners with fanned pectoral fins",
+   "Blows jets of water at prey to disorient it before striking",
+   "Females can release egg masses every few days year-round in warm waters"
+  ],
+  "edibility": "edible-with-care",
+  "edibleParts": [
+   "fillets (fried, ceviche)"
+  ],
+  "edibilityNote": "The flesh is not venomous; venom lies only in the spines, which must be removed carefully. Eating lionfish is promoted to control the invasion. Large lionfish from some Caribbean areas can carry ciguatoxin.",
+  "animal": {
+   "diet": "Small reef fish and shrimp",
+   "habitat": "Reefs, wrecks, mangroves and hard-bottom down to 300 m",
+   "lifespan": "Up to about 15 years",
+   "size": "Up to about 38–47 cm",
+   "behaviour": "Hovers motionless with fins spread, then lunges with a rapid suction strike; often hunts at dawn and dusk.",
+   "fieldMarks": [
+    "Bold red-brown and white vertical stripes",
+    "Long, feathery separated dorsal spines",
+    "Huge fan-like pectoral fins",
+    "Fleshy tentacles above the eyes",
+    "Spotted second dorsal, anal and tail fins"
+   ],
+   "lookalikes": "Devil firefish (P. miles) is nearly identical, with usually 10 vs 11 dorsal soft rays and 6 vs 7 anal soft rays, and is the invader in the Mediterranean; both are invasive in the Atlantic. Clearfin lionfish (P. radiata) has white stripes on clear fins.",
+   "whereToSee": "Native: Indonesia, Philippines, Great Barrier Reef. Invasive: Florida Keys, Bahamas, Belize, Honduras reefs",
+   "season": "Year-round",
+   "order": "Perciformes"
+  },
+  "iucn": "LC",
+  "lore": "Florida and Caribbean islands hold lionfish derbies where divers spear thousands in a day; the first Atlantic sighting was off Dania Beach, Florida in 1985.",
+  "historicalNames": [
+   "Scorpaena volitans"
+  ],
+  "funFact": "Early mitochondrial DNA studies suggested the Atlantic invasion began with as few as about ten fish, although later modelling (Selwyn et al. 2017) put the most likely number of founders at around a hundred or more."
+ },
+ {
+  "slug": "synanceia-verrucosa",
+  "scientific": "Synanceia verrucosa",
+  "common": "Reef stonefish",
+  "otherNames": [
+   "Pez piedra (Spanish)",
+   "Oni-daruma-okoze (Japanese)",
+   "Nohu (Hawaiian, scorpionfish)",
+   "Ikan batu (Malay/Indonesian)",
+   "Poisson-pierre (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Synanceiidae",
+  "shelves": [
+   "ocean",
+   "venomous",
+   "deadly",
+   "marvel"
+  ],
+  "summary": "The most venomous fish known, a lump of 'rock' that is invisible until stepped on. Thirteen dorsal spines inject a venom causing excruciating pain, and envenomations have been fatal.",
+  "nativeRange": "Indo-Pacific from the Red Sea and East Africa to French Polynesia, Japan and Queensland",
+  "regions": [
+   "Indian Ocean",
+   "Pacific Ocean",
+   "Southeast Asia",
+   "Australia",
+   "Oceania",
+   "Sub-Saharan Africa",
+   "West Asia"
+  ],
+  "biomes": [
+   "Coral reef",
+   "Rocky reef",
+   "Reef flats and lagoons"
+  ],
+  "abilities": [
+   "Thirteen grooved dorsal spines with venom glands inject verrucotoxin when pressed",
+   "Camouflage so complete that algae and hydroids may grow on its skin",
+   "Survives out of water on exposed reef flats for up to a day",
+   "Strikes and swallows prey in a fraction of a second",
+   "Can raise a lachrymal 'sabre' spine on each cheek in defence"
+  ],
+  "edibility": "edible-with-care",
+  "edibleParts": [
+   "flesh (sashimi, soup in Japan, China and Hong Kong)"
+  ],
+  "edibilityNote": "The flesh is eaten in Japan (especially Okinawa) and in Chinese cuisine after the venomous spines are removed by skilled preparers; the venom is a protein destroyed by cooking. Handling live fish is dangerous.",
+  "animal": {
+   "diet": "Small fish and crustaceans",
+   "habitat": "Shallow reef flats, rubble, lagoons and tide pools",
+   "lifespan": "Several years; poorly known",
+   "size": "Usually 30–40 cm",
+   "behaviour": "An ambush predator that sits motionless, sometimes half-buried, and gulps passing prey; venom is purely defensive.",
+   "fieldMarks": [
+    "Lumpy, warty, rock-like body, usually mottled brown, grey or red",
+    "Upturned, almost vertical mouth with eyes high on the head",
+    "Large fleshy pectoral fins",
+    "No visible scales; skin often coated with algae or silt"
+   ],
+   "lookalikes": "Estuarine stonefish (S. horrida) has bony ridges and a deep pit below each eye; scorpionfishes have a more fish-like shape and visible fin rays.",
+   "whereToSee": "Red Sea reef flats (Egypt), Great Barrier Reef, Indonesia, Maldives",
+   "season": "Year-round",
+   "order": "Perciformes"
+  },
+  "iucn": "LC",
+  "lore": "Queensland and Pacific Islanders have long feared it; Australia's Commonwealth Serum Laboratories produced the first stonefish antivenom in 1959, still the only one available.",
+  "historicalNames": [
+   "Scorpaena verrucosa",
+   "Synanceja"
+  ],
+  "funFact": "Immersing the wound in hot water (about 45 °C) eases the pain because the venom proteins are heat-labile; antivenom is needed for severe cases."
+ },
+ {
+  "slug": "takifugu-rubripes",
+  "scientific": "Takifugu rubripes",
+  "common": "Japanese pufferfish (torafugu)",
+  "otherNames": [
+   "Torafugu / Fugu (Japanese)",
+   "Hongqi dongfangtun (Chinese)",
+   "Bok-eo / Chamboksa (Korean)",
+   "Tiger puffer"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Tetraodontidae",
+  "shelves": [
+   "ocean",
+   "edible",
+   "venomous",
+   "deadly",
+   "marvel"
+  ],
+  "summary": "The most prized fugu, served as translucent sashimi by chefs licensed to cut away its lethal organs. Its compact genome made it a model organism for vertebrate genetics.",
+  "nativeRange": "Northwest Pacific: Sea of Japan, East China Sea and Yellow Sea",
+  "regions": [
+   "Pacific Ocean",
+   "East Asia"
+  ],
+  "biomes": [
+   "Coastal waters",
+   "Continental shelf",
+   "Bays and estuaries"
+  ],
+  "abilities": [
+   "Inflates with water into a spiny ball to deter predators",
+   "Liver and ovaries concentrate tetrodotoxin, a sodium-channel blocker over a thousand times deadlier than cyanide by weight",
+   "Has one of the smallest vertebrate genomes (~400 million base pairs), sequenced in 2002",
+   "Tetrodotoxin is made by bacteria and builds up through the food chain; farm-raised fish kept on a toxin-free diet are generally non-toxic"
+  ],
+  "edibility": "deadly",
+  "edibleParts": [
+   "flesh (tessa sashimi, tecchiri hot pot)",
+   "skin",
+   "milt (shirako)"
+  ],
+  "edibilityNote": "Liver, ovaries and intestines can contain lethal tetrodotoxin, and toxin levels vary unpredictably between individual fish and between related species. There is no antidote, only respiratory support in hospital. In Japan only licensed chefs may prepare it, and serving the liver is banned. Never prepare or eat home-caught or uninspected pufferfish.",
+  "animal": {
+   "diet": "Crustaceans, molluscs, small fish",
+   "habitat": "Inshore sandy and muddy bottoms; juveniles in bays and estuaries",
+   "lifespan": "About 10 years",
+   "size": "Up to about 70–80 cm",
+   "behaviour": "Spawns in spring on gravelly shores; adults migrate between coastal spawning grounds and deeper offshore waters.",
+   "fieldMarks": [
+    "Plump, scaleless body with tiny prickles",
+    "Large black blotch with a white ring behind each pectoral fin",
+    "Dark grey-brown back with small spots, white belly",
+    "Beak of four fused teeth",
+    "White anal fin (the very similar karasu, T. chinensis, usually has a black one)"
+   ],
+   "lookalikes": "Other Takifugu (e.g. T. poecilonotus, T. niphobles) are smaller and lack the single large ringed shoulder spot; some are more toxic in muscle tissue.",
+   "whereToSee": "Shimonoseki fish market, Yamaguchi (Japan's fugu capital); Seto Inland Sea",
+   "season": "Eaten in winter Oct–Mar; spawns Mar–May",
+   "order": "Tetraodontiformes"
+  },
+  "iucn": "NT",
+  "lore": "Toyotomi Hideyoshi banned fugu eating in the 1590s after soldiers died; Itō Hirobumi lifted the ban in Yamaguchi Prefecture in 1888 after tasting it in Shimonoseki.",
+  "historicalNames": [
+   "Tetraodon rubripes",
+   "Sphoeroides rubripes"
+  ],
+  "funFact": "Kabuki actor Bandō Mitsugorō VIII died in 1975 after insisting on eating four servings of fugu liver."
+ },
+ {
+  "slug": "zanclus-cornutus",
+  "scientific": "Zanclus cornutus",
+  "common": "Moorish idol",
+  "otherNames": [
+   "Kihikihi (Hawaiian)",
+   "Tsunodashi (Japanese)",
+   "Ídolo moro (Spanish)",
+   "Idole maure (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Zanclidae",
+  "shelves": [
+   "ocean"
+  ],
+  "summary": "The only member of its family, a disc of black, white and yellow trailing a long white dorsal streamer. Despite its fame, it is notoriously difficult to keep in aquaria.",
+  "nativeRange": "Indo-Pacific and eastern Pacific, from East Africa to Hawaii and the Gulf of California",
+  "regions": [
+   "Indian Ocean",
+   "Pacific Ocean",
+   "Southeast Asia",
+   "Oceania",
+   "Central America"
+  ],
+  "biomes": [
+   "Coral reef",
+   "Rocky reef"
+  ],
+  "abilities": [
+   "Long, tubular snout probes crevices for sponges",
+   "Long pelagic larval stage (up to months) lets it reach remote islands",
+   "Settles at a large size, up to ~7.5 cm, after drifting in the plankton"
+  ],
+  "animal": {
+   "diet": "Mainly sponges, also algae and invertebrates",
+   "habitat": "Reef flats, lagoons and outer reef slopes to about 180 m",
+   "lifespan": "Uncertain; likely several years",
+   "size": "Up to about 23 cm",
+   "behaviour": "Usually seen in pairs or small groups; occasionally gathers in schools of hundreds.",
+   "fieldMarks": [
+    "Tall, compressed disc-shaped body",
+    "Two broad black vertical bands on white and yellow",
+    "Very long, whip-like white dorsal filament",
+    "Protruding tubular snout with an orange saddle",
+    "Adults with small bony horns in front of the eyes"
+   ],
+   "lookalikes": "Pennant bannerfish (Heniochus spp.) look similar but have a shorter snout, no orange saddle and a yellow rear body and tail; Moorish idol's tail is black.",
+   "whereToSee": "Hawaii, Red Sea (rare), Maldives, Great Barrier Reef, Raja Ampat",
+   "season": "Year-round",
+   "order": "Acanthuriformes"
+  },
+  "iucn": "LC",
+  "lore": "The name comes from Moors of Africa, who were said to regard the fish as a bringer of happiness; it gained global fame as the character Gill in Finding Nemo (2003).",
+  "historicalNames": [
+   "Chaetodon cornutus"
+  ],
+  "funFact": "Zanclidae has just this single living species; its closest relatives are the surgeonfishes (Acanthuridae)."
+ },
+ {
+  "slug": "synchiropus-splendidus",
+  "scientific": "Synchiropus splendidus",
+  "common": "Mandarinfish",
+  "otherNames": [
+   "Mandarin dragonet",
+   "Nishiki-teguri (Japanese)",
+   "Pez mandarín (Spanish)",
+   "Ikan mandarin (Indonesian)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Callionymidae",
+  "shelves": [
+   "ocean",
+   "marvel"
+  ],
+  "summary": "A tiny, psychedelically patterned reef fish whose blue colour is one of only a few known cases of a true cellular blue pigment in vertebrates. Pairs rise together at dusk in a slow spawning dance.",
+  "nativeRange": "Western Pacific from the Ryukyu Islands to Australia",
+  "regions": [
+   "Pacific Ocean",
+   "Southeast Asia",
+   "Australia",
+   "Oceania",
+   "East Asia"
+  ],
+  "biomes": [
+   "Coral reef",
+   "Lagoons and coral rubble"
+  ],
+  "abilities": [
+   "Blue colouring comes from cellular pigment in 'cyanophores' rather than structural iridescence",
+   "Skin is covered in foul-smelling, distasteful mucus instead of scales",
+   "Courting pairs rise up to a metre off the reef at dusk to release eggs",
+   "Feeds by picking tiny copepods one at a time, up to thousands per day"
+  ],
+  "animal": {
+   "diet": "Copepods, amphipods and other small crustaceans",
+   "habitat": "Shallow protected lagoons and inshore reefs with branching coral and rubble",
+   "lifespan": "About 10–15 years in captivity",
+   "size": "Up to about 6–7 cm",
+   "behaviour": "Several females gather near a dominant male at dusk; he pairs with each in turn, rising belly-to-belly to spawn.",
+   "fieldMarks": [
+    "Bright blue body with wavy orange, green and yellow bands",
+    "Large, rounded head with prominent eyes",
+    "Scaleless skin",
+    "Males larger with a long first dorsal spine"
+   ],
+   "lookalikes": "Spotted mandarin (Synchiropus picturatus) has green with black-ringed spots instead of wavy stripes.",
+   "whereToSee": "Lembeh Strait and Alor (Indonesia), Malapascua and Anilao (Philippines), Palau, Sipadan",
+   "season": "Year-round; best at dusk",
+   "order": "Callionymiformes"
+  },
+  "iucn": "LC",
+  "lore": "Its name refers to the brilliantly embroidered robes of Chinese imperial mandarins.",
+  "historicalNames": [
+   "Callionymus splendidus",
+   "Pterosynchiropus splendidus"
+  ],
+  "funFact": "The mandarinfish's blue was described as one of only two known instances of cellular blue pigment in vertebrates, the other being its relative the psychedelic mandarin."
+ },
+ {
+  "slug": "phycodurus-eques",
+  "scientific": "Phycodurus eques",
+  "common": "Leafy seadragon",
+  "otherNames": [
+   "Glauert's seadragon",
+   "Dragón de mar foliáceo (Spanish)",
+   "Dragon de mer feuillu (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Syngnathidae",
+  "shelves": [
+   "ocean",
+   "marvel"
+  ],
+  "summary": "A relative of the seahorse draped in leaf-like skin flaps, drifting through southern Australian kelp like a fragment of seaweed. As in seahorses, the male carries the eggs.",
+  "nativeRange": "Southern and western coasts of Australia, from Jurien Bay (WA) to Wilsons Promontory (Vic)",
+  "regions": [
+   "Australia",
+   "Indian Ocean",
+   "Southern Ocean"
+  ],
+  "biomes": [
+   "Kelp forest",
+   "Seagrass",
+   "Rocky reef"
+  ],
+  "abilities": [
+   "Leaf-like appendages are purely for camouflage, not propulsion",
+   "Males incubate up to ~250 eggs on a brood patch under the tail",
+   "Moves using nearly transparent pectoral and dorsal fins",
+   "Sucks tiny mysid shrimp through its tubular snout"
+  ],
+  "animal": {
+   "diet": "Mysid shrimp and other small crustaceans",
+   "habitat": "Rocky reefs, kelp and seagrass beds, 4–50 m",
+   "lifespan": "Up to about 7–10 years",
+   "size": "Up to about 35 cm",
+   "behaviour": "Sways gently in time with surrounding seaweed; males carry eggs for about 4–6 weeks before they hatch.",
+   "fieldMarks": [
+    "Yellow-brown to olive body with leaf-like lobed appendages on head and body",
+    "Long tubular snout",
+    "Thin pale bars on the body",
+    "Unlike seahorses, the tail is not prehensile"
+   ],
+   "lookalikes": "Weedy seadragon (Phyllopteryx taeniolatus) is red with yellow spots and has few, simple appendages; ruby seadragon is red with no appendages.",
+   "whereToSee": "Rapid Bay and Edithburgh jetties (South Australia), Kangaroo Island, Esperance (WA)",
+   "season": "Year-round; males carry eggs in summer (Nov–Mar)",
+   "order": "Syngnathiformes"
+  },
+  "iucn": "LC",
+  "lore": "It is the marine emblem of South Australia and has been fully protected there since 1987.",
+  "historicalNames": [
+   "Phyllopteryx eques"
+  ],
+  "funFact": "Leafy seadragons cannot curl their tails to anchor like seahorses, so storms often wash them ashore."
+ },
+ {
+  "slug": "scarus-vetula",
+  "scientific": "Scarus vetula",
+  "common": "Queen parrotfish",
+  "otherNames": [
+   "Loro reina / Vieja (Spanish)",
+   "Perroquet royal (French)",
+   "Budião-papagaio (Portuguese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Labridae",
+  "shelves": [
+   "ocean",
+   "keystone",
+   "marvel"
+  ],
+  "summary": "A Caribbean parrotfish whose fused beak grazes algae off coral, keeping reefs from being smothered. Like many parrotfishes, it sleeps in a mucus cocoon and can change sex from female to male.",
+  "nativeRange": "Western Atlantic from Florida and the Bahamas through the Caribbean to Brazil",
+  "regions": [
+   "Atlantic Ocean",
+   "Caribbean",
+   "Central America",
+   "South America",
+   "North America"
+  ],
+  "biomes": [
+   "Coral reef",
+   "Seagrass"
+  ],
+  "abilities": [
+   "Fused teeth form a parrot-like beak that scrapes algae from dead coral",
+   "Grinds ingested rock in a pharyngeal mill; parrotfishes produce much of the white sand on Caribbean beaches",
+   "Secretes a mucus 'sleeping bag' at night that may protect against parasites",
+   "Protogynous hermaphrodite: some females become brilliant blue-green terminal males"
+  ],
+  "animal": {
+   "diet": "Algae scraped from reef surfaces",
+   "habitat": "Coral reefs and adjacent seagrass, 3–25 m",
+   "lifespan": "Several years; poorly known",
+   "size": "Up to about 61 cm",
+   "behaviour": "Terminal males guard harems of several females and patrol a territory on the reef.",
+   "fieldMarks": [
+    "Initial phase dark grey-brown with a broad white stripe along the lower side",
+    "Terminal males blue-green with orange-edged scales and orange-and-green facial stripes",
+    "Beak-like fused teeth",
+    "Tail of terminal males lunate with elongated lobes"
+   ],
+   "lookalikes": "Stoplight parrotfish (Sparisoma viride) terminal males have a yellow spot on the gill cover and an orange tail bar; princess parrotfish initial phase has a white-black striped pattern.",
+   "whereToSee": "Bonaire, Cozumel, Belize Barrier Reef, Florida Keys",
+   "season": "Year-round",
+   "order": "Perciformes"
+  },
+  "iucn": "LC",
+  "lore": "Bonaire banned the fishing of parrotfish in 2010 to protect its reefs; Belize had protected parrotfish the year before.",
+  "historicalNames": [
+   "Scarus"
+  ],
+  "funFact": "Female and initial-phase queen parrotfish look so different from terminal males that they were once described as separate species."
+ },
+ {
+  "slug": "cheilinus-undulatus",
+  "scientific": "Cheilinus undulatus",
+  "common": "Humphead wrasse",
+  "otherNames": [
+   "Napoleon wrasse / Napoleonfish",
+   "Mameng (Filipino)",
+   "So mei (Cantonese)",
+   "Napoléon (French)",
+   "Megane-mochinouo (Japanese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Labridae",
+  "shelves": [
+   "ocean",
+   "endangered"
+  ],
+  "summary": "The largest living wrasse, a thick-lipped giant with a bulbous forehead and maze-like facial markings. Its value in the live reef-food trade of Hong Kong and southern China has made it endangered.",
+  "nativeRange": "Indo-Pacific from the Red Sea and East Africa to the Tuamotus, Japan and New Caledonia",
+  "regions": [
+   "Indian Ocean",
+   "Pacific Ocean",
+   "Southeast Asia",
+   "Oceania",
+   "Australia",
+   "West Asia",
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Coral reef"
+  ],
+  "abilities": [
+   "One of the few predators that eats toxic crown-of-thorns starfish, sea hares and boxfish",
+   "Protogynous hermaphrodite: some females change into males",
+   "Crushes hard-shelled molluscs and sea urchins with heavy pharyngeal teeth",
+   "Can live over 30 years"
+  ],
+  "animal": {
+   "diet": "Molluscs, crustaceans, sea urchins, fish, crown-of-thorns starfish",
+   "habitat": "Outer reef slopes, channels and lagoon reefs to 100 m; juveniles in seagrass and branching coral",
+   "lifespan": "About 30 years or more",
+   "size": "Males up to about 2 m and 190 kg",
+   "behaviour": "Often approaches divers with apparent curiosity; rests in reef caves at night and gathers at predictable spawning sites on outer reefs.",
+   "fieldMarks": [
+    "Massive size with a prominent hump on the forehead of large adults",
+    "Thick, fleshy lips",
+    "Two black lines behind each eye and maze-like markings on the face",
+    "Blue-green to olive body with fine vertical lines on each scale"
+   ],
+   "lookalikes": "Bumphead parrotfish (Bolbometopon muricatum) also has a forehead hump but has a beak of fused teeth and moves in grazing schools; humphead wrasse has fleshy lips and usually swims alone.",
+   "whereToSee": "Cod Hole and Ribbon Reefs (Great Barrier Reef), Red Sea reefs, Palau, Sipadan",
+   "season": "Year-round",
+   "order": "Perciformes"
+  },
+  "iucn": "EN",
+  "lore": "Listed on CITES Appendix II in 2004 because of the live reef-food trade, where it is a banquet fish in Hong Kong and its lips are especially prized.",
+  "historicalNames": [
+   "Cheilinus undulatus"
+  ],
+  "funFact": "Most humphead wrasse begin life as females; only some change sex to become the large dominant males."
+ },
+ {
+  "slug": "paracanthurus-hepatus",
+  "scientific": "Paracanthurus hepatus",
+  "common": "Blue tang",
+  "otherNames": [
+   "Palette surgeonfish",
+   "Regal tang",
+   "Nan'yō-hagi (Japanese)",
+   "Cirujano azul (Spanish)",
+   "Chirurgien bleu (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Acanthuridae",
+  "shelves": [
+   "ocean"
+  ],
+  "summary": "A royal-blue surgeonfish with a black 'palette' marking and lemon-yellow tail, famous as Dory in Finding Nemo. Like all surgeonfishes it carries a scalpel-sharp spine at the base of its tail.",
+  "nativeRange": "Indo-Pacific from East Africa to Kiribati, Samoa, southern Japan and the Great Barrier Reef",
+  "regions": [
+   "Indian Ocean",
+   "Pacific Ocean",
+   "Southeast Asia",
+   "Oceania",
+   "Australia",
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Coral reef"
+  ],
+  "abilities": [
+   "A sharp, folding spine on each side of the tail base can slash predators or careless hands",
+   "Wedges itself into branching coral and erects its spines when threatened, making it hard to dislodge",
+   "Spawning is not yet routine in captivity; most aquarium fish are wild-caught, though captive breeding succeeded in 2016"
+  ],
+  "animal": {
+   "diet": "Zooplankton; also algae",
+   "habitat": "Clear outer reef terraces with strong current, often around Pocillopora coral heads, 2–40 m",
+   "lifespan": "Up to about 20 years",
+   "size": "Up to about 31 cm",
+   "behaviour": "Groups hover in the water column feeding on plankton and dive together into branching coral when alarmed.",
+   "fieldMarks": [
+    "Vivid royal-blue oval body",
+    "Black band running from the eye to the tail that forms a loop resembling an artist's palette",
+    "Bright yellow tail and yellow pectoral fins",
+    "Tail spine on the caudal peduncle"
+   ],
+   "lookalikes": "No close lookalike; the Atlantic blue tang (Acanthurus coeruleus) is a different species, plain blue or yellow without the black palette marking.",
+   "whereToSee": "Maldives, Palau, Fiji, Great Barrier Reef, Philippines",
+   "season": "Year-round",
+   "order": "Acanthuriformes"
+  },
+  "iucn": "LC",
+  "lore": "The University of Florida's Tropical Aquaculture Laboratory announced the first successful captive rearing of Paracanthurus hepatus in 2016, shortly after Finding Dory raised aquarium demand.",
+  "historicalNames": [
+   "Teuthis hepatus",
+   "Acanthurus hepatus"
+  ],
+  "funFact": "Surgeonfish are named for the scalpel-like blades on the tail; in a blue tang they fold into a groove until the fish feels threatened."
+ },
+ {
+  "slug": "epinephelus-itajara",
+  "scientific": "Epinephelus itajara",
+  "common": "Atlantic goliath grouper",
+  "otherNames": [
+   "Mero guasa (Spanish)",
+   "Mero (Portuguese, Brazil)",
+   "Jewfish (former English name)",
+   "Itajara (Tupi)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Epinephelidae",
+  "shelves": [
+   "ocean",
+   "endangered"
+  ],
+  "summary": "A house-sized grouper of Atlantic mangroves and wrecks that can top 360 kg. Nearly fished out by the 1980s, it has recovered in Florida after full protection in 1990.",
+  "nativeRange": "Western Atlantic from Florida to southern Brazil, Gulf of Mexico and Caribbean; eastern Atlantic populations off West Africa are now often split as E. quinquefasciatus",
+  "regions": [
+   "Atlantic Ocean",
+   "Caribbean",
+   "North America",
+   "Central America",
+   "South America"
+  ],
+  "biomes": [
+   "Mangrove",
+   "Rocky reef",
+   "Shipwrecks",
+   "Coral reef"
+  ],
+  "abilities": [
+   "Produces loud booming sounds with its swim bladder to warn intruders and during spawning",
+   "Juveniles spend years in mangrove estuaries before moving offshore",
+   "Gathers at the same wreck spawning sites each year in late summer",
+   "Swallows prey, including small sharks and sea turtles, by powerful suction"
+  ],
+  "animal": {
+   "diet": "Crustaceans (especially spiny lobsters), fish, stingrays, octopus, occasionally young sea turtles",
+   "habitat": "Inshore shallow waters to about 50 m: mangroves, ledges, reefs and wrecks",
+   "lifespan": "At least 37 years",
+   "size": "Up to about 2.5 m and 360 kg or more",
+   "behaviour": "Territorial around a home cave or wreck; tens to over a hundred gather at spawning aggregation sites around the new moon in Aug–Sep.",
+   "fieldMarks": [
+    "Enormous, robust body with a broad flat head",
+    "Small eyes and large mouth",
+    "Brownish-yellow to grey with small dark spots on head and fins",
+    "Faint irregular dark vertical bars, more distinct in young",
+    "Rounded tail; first dorsal spines shorter than soft rays"
+   ],
+   "lookalikes": "Warsaw grouper (Hyporthodus nigritus) is darker, deeper-living and has a tall second dorsal spine; giant grouper (E. lanceolatus) is Indo-Pacific.",
+   "whereToSee": "Jupiter and Palm Beach wrecks, Florida (spawning Aug–Sep); Florida Keys; Brazil's Abrolhos",
+   "season": "Resident; Florida spawning aggregations Aug–Oct",
+   "order": "Perciformes"
+  },
+  "iucn": "VU",
+  "lore": "Its Brazilian name 'itajara' comes from the Tupi language; the US banned all harvest in 1990, and Florida only reopened a tiny lottery-permitted harvest in 2023.",
+  "historicalNames": [
+   "Serranus itajara",
+   "Promicrops itajara"
+  ],
+  "funFact": "It was renamed from 'jewfish' to goliath grouper by the American Fisheries Society in 2001."
+ },
+ {
+  "slug": "melanocetus-johnsonii",
+  "scientific": "Melanocetus johnsonii",
+  "common": "Humpback anglerfish",
+  "otherNames": [
+   "Black seadevil",
+   "Johnson's anglerfish",
+   "Rape abisal (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Melanocetidae",
+  "shelves": [
+   "ocean",
+   "marvel"
+  ],
+  "summary": "A fist-sized black predator of the deep sea that dangles a glowing lure in front of a mouth full of needle teeth. The tiny males seek out females by smell and attach only briefly to mate.",
+  "nativeRange": "Tropical to temperate waters of the Atlantic, Pacific and Indian oceans",
+  "regions": [
+   "Atlantic Ocean",
+   "Pacific Ocean",
+   "Indian Ocean",
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Bathypelagic (midnight zone)",
+   "Mesopelagic (twilight zone)"
+  ],
+  "abilities": [
+   "The lure (esca) glows with light from symbiotic bioluminescent bacteria",
+   "Stomach and jaws stretch to swallow prey longer than itself",
+   "Free-living dwarf males use large nostrils to track female pheromones; unlike some ceratioid anglers, males do not fuse permanently",
+   "Survives at depths of 100–4,500 m in near-total darkness"
+  ],
+  "animal": {
+   "diet": "Fish, crustaceans and squid attracted to the lure",
+   "habitat": "Open ocean, mostly 200–1,500 m",
+   "lifespan": "Unknown",
+   "size": "Females up to about 18 cm; males under 3 cm",
+   "behaviour": "Hangs nearly motionless, twitching its lure to draw prey within striking distance in the dark.",
+   "fieldMarks": [
+    "Globular, velvety black body",
+    "Huge upturned mouth with long, fang-like teeth",
+    "Single fishing-rod spine (illicium) on the snout with a bulbous glowing tip",
+    "Small eyes and tiny fins"
+   ],
+   "lookalikes": "Other Melanocetus species differ in fin-ray counts and lure shape; footballfishes (Himantolophus) have a branched lure and bony plates.",
+   "whereToSee": "Effectively only via deep-sea ROV footage (e.g. MBARI, Monterey Canyon, which filmed a live female in 2014); specimens in natural-history museums",
+   "season": "Year-round in the deep sea",
+   "order": "Lophiiformes"
+  },
+  "iucn": "LC",
+  "lore": "Described by Albert Günther in 1864 from a specimen taken off Madeira; MBARI's 2014 video is believed to be the first footage of a living Melanocetus in its habitat.",
+  "historicalNames": [
+   "Melanocetus johnsoni"
+  ],
+  "funFact": "Its species name honours James Yate Johnson, the Madeira naturalist who sent the first specimen to the British Museum."
+ },
+ {
+  "slug": "anarhichas-lupus",
+  "scientific": "Anarhichas lupus",
+  "common": "Atlantic wolffish",
+  "otherNames": [
+   "Seawolf",
+   "Steinbit (Norwegian)",
+   "Loup de mer (French)",
+   "Steenbolk / Zeewolf (Dutch)",
+   "Hlýri / Steinbítur (Icelandic)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Anarhichadidae",
+  "shelves": [
+   "ocean",
+   "edible",
+   "marvel"
+  ],
+  "summary": "A cold-water bottom fish with a craggy face and tusk-like canines that crush crabs, urchins and whelks. Its blood carries antifreeze proteins that let it live in near-freezing water.",
+  "nativeRange": "North Atlantic from Cape Cod to Greenland and from the White Sea to the Bay of Biscay",
+  "regions": [
+   "Atlantic Ocean",
+   "Arctic",
+   "Europe",
+   "North America"
+  ],
+  "biomes": [
+   "Continental shelf",
+   "Rocky reef",
+   "Cold temperate seas"
+  ],
+  "abilities": [
+   "Produces antifreeze proteins that keep blood from freezing near 0 °C",
+   "Replaces its teeth every year",
+   "Fertilisation is internal, and the male guards the egg mass for months",
+   "Uses powerful molars and canines to crush hard-shelled prey"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "flesh (fillets, sold as 'catfish' or 'rockfish' in Britain)"
+  ],
+  "edibilityNote": "Firm white flesh, sold as steinbit in Scandinavia. No particular toxicity concerns reported.",
+  "animal": {
+   "diet": "Crabs, sea urchins, whelks, sea stars, clams",
+   "habitat": "Rocky seabeds 20–500 m, living in crevices and caves",
+   "lifespan": "Over 20 years",
+   "size": "Up to about 1.5 m and 20 kg",
+   "behaviour": "Lives a mostly solitary, cave-dwelling life; after internal fertilisation the pair guards a ball of eggs through winter.",
+   "fieldMarks": [
+    "Long, eel-like body with a single long dorsal fin",
+    "Large head with protruding canine 'tusks'",
+    "Blue-grey to olive with 10–15 dark vertical bars",
+    "No pelvic fins"
+   ],
+   "lookalikes": "Spotted wolffish (A. minor) has dark spots rather than bars; northern wolffish (A. denticulatus) is uniformly dark brown and lives more pelagically.",
+   "whereToSee": "Cold-water dives at Eastport, Maine; Gulf of St. Lawrence; Norwegian and Scottish coasts; Gulf of Maine aquariums",
+   "season": "Year-round resident",
+   "order": "Perciformes"
+  },
+  "iucn": "NE",
+  "lore": "Its Icelandic and Norwegian names (steinbítur, steinbit) mean 'stone-biter', after its habit of crushing shells; it has long been dried and eaten in both countries.",
+  "historicalNames": [
+   "Lupus marinus",
+   "Anarrhichas"
+  ],
+  "funFact": "Despite its fearsome teeth, the wolffish is no threat to divers and is often described as docile."
+ },
+ {
+  "slug": "exocoetus-volitans",
+  "scientific": "Exocoetus volitans",
+  "common": "Tropical two-wing flyingfish",
+  "otherNames": [
+   "Pez volador (Spanish)",
+   "Tobiuo (Japanese)",
+   "Malolo (Hawaiian)",
+   "Ikan terbang (Malay)",
+   "Exocet (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Exocoetidae",
+  "shelves": [
+   "ocean",
+   "edible",
+   "marvel"
+  ],
+  "summary": "A blue-backed ocean fish that escapes predators by bursting from the sea and gliding on enlarged pectoral fins. A single glide can carry it tens of metres, and it can extend a flight by sculling its tail in the water.",
+  "nativeRange": "Tropical and subtropical oceans worldwide",
+  "regions": [
+   "Atlantic Ocean",
+   "Pacific Ocean",
+   "Indian Ocean",
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Open ocean (pelagic)"
+  ],
+  "abilities": [
+   "Glides on wing-like pectoral fins at speeds above 50 km/h",
+   "Taxis by beating the elongated lower tail lobe on the surface to relaunch without re-entering the water",
+   "Flights of 50 m are common; flyingfish have been filmed in the air for 45 seconds",
+   "Two-winged: unlike four-winged species, its pelvic fins are small"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "whole fish (fried, steamed)",
+   "roe (tobiko, from various flyingfish)"
+  ],
+  "edibilityNote": "Low mercury, small pelagic fish.",
+  "animal": {
+   "diet": "Zooplankton",
+   "habitat": "Surface waters of the open ocean, away from coasts",
+   "lifespan": "About 1–2 years",
+   "size": "Up to about 30 cm",
+   "behaviour": "When chased by mahi-mahi, tuna or billfish, it accelerates under water and launches into the air; it also leaps at night onto the lit decks of ships.",
+   "fieldMarks": [
+    "Very long pectoral fins reaching the tail base",
+    "Small pelvic fins (two-winged)",
+    "Deeply forked tail with a longer lower lobe",
+    "Iridescent blue back, silvery belly",
+    "Clear, unmarked pectoral fins in adults"
+   ],
+   "lookalikes": "Four-winged flyingfish (Cheilopogon, Hirundichthys) have large pelvic fins too; Exocoetus obtusirostris has a more blunt snout and fewer predorsal scales.",
+   "whereToSee": "From ships' bows in the tropical Atlantic and Pacific; Barbados (where related flyingfish are a national symbol)",
+   "season": "Year-round in warm seas",
+   "order": "Beloniformes"
+  },
+  "iucn": "LC",
+  "lore": "The French Exocet missile is named after flyingfish; Barbados, 'the land of the flying fish', depicts them on coins, though its fishery targets Hirundichthys affinis.",
+  "historicalNames": [
+   "Exocoetus",
+   "Hirundo marina",
+   "Pesce rondine"
+  ],
+  "funFact": "The name Exocoetus means 'sleeping outside' in Greek, from the old belief that flyingfish came ashore to sleep."
+ },
+ {
+  "slug": "macropinna-microstoma",
+  "scientific": "Macropinna microstoma",
+  "common": "Barreleye",
+  "otherNames": [
+   "Pacific barreleye",
+   "Demenigisu (Japanese)",
+   "Pez de cabeza transparente (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Opisthoproctidae",
+  "shelves": [
+   "ocean",
+   "marvel"
+  ],
+  "summary": "A deep-sea fish with a transparent, fluid-filled head through which its green, tube-shaped eyes can be seen. Long thought to stare only upward, it was shown in 2008 to rotate its eyes forward to watch what it eats.",
+  "nativeRange": "North Pacific from the Bering Sea to Baja California and Japan",
+  "regions": [
+   "Pacific Ocean",
+   "North America",
+   "East Asia"
+  ],
+  "biomes": [
+   "Mesopelagic (twilight zone)"
+  ],
+  "abilities": [
+   "Tubular eyes rotate inside a transparent shield to look upward or forward",
+   "Green lens pigments may filter sunlight to pick out bioluminescent prey",
+   "What look like eyes on its face are actually nostrils (olfactory organs)",
+   "Hovers motionless using large, flat fins"
+  ],
+  "animal": {
+   "diet": "Small crustaceans and probably prey stolen from siphonophores",
+   "habitat": "Twilight zone, about 600–800 m",
+   "lifespan": "Unknown",
+   "size": "Up to about 15 cm",
+   "behaviour": "Hangs horizontally in the water, scanning upward for silhouettes of prey and siphonophores, then rotates eyes forward and pivots to feed.",
+   "fieldMarks": [
+    "Clear, dome-like shield over the top of the head",
+    "Two bright green tubular eyes visible inside the head",
+    "Small mouth at the tip of the snout",
+    "Dark body with large scales and broad fins"
+   ],
+   "lookalikes": "Other barreleyes (Opisthoproctus, Dolichopteryx) lack the transparent head shield; spookfish have tubular eyes but opaque heads.",
+   "whereToSee": "Only via ROV footage (Monterey Bay Aquarium Research Institute); not seen by divers",
+   "season": "Year-round",
+   "order": "Argentiniformes"
+  },
+  "iucn": "LC",
+  "lore": "Described by Chapman in 1939 from damaged trawl specimens that had lost their fragile head shield; Bruce Robison and Kim Reisenbichler of MBARI published the first living observations in 2008.",
+  "historicalNames": [
+   "Macropinna microstoma"
+  ],
+  "funFact": "For 70 years scientists did not know its head was transparent because trawl nets destroyed the shield."
+ },
+ {
+  "slug": "chauliodus-macouni",
+  "scientific": "Chauliodus macouni",
+  "common": "Pacific viperfish",
+  "otherNames": [
+   "Pez víbora (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Stomiidae",
+  "shelves": [
+   "ocean",
+   "marvel"
+  ],
+  "summary": "A slender deep-sea hunter whose needle-like fangs are so long they cannot fit inside its mouth. Rows of light organs along its belly let it blend with faint light from above.",
+  "nativeRange": "North Pacific from Japan and the Bering Sea to Baja California",
+  "regions": [
+   "Pacific Ocean",
+   "North America",
+   "East Asia"
+  ],
+  "biomes": [
+   "Mesopelagic (twilight zone)",
+   "Bathypelagic (midnight zone)"
+  ],
+  "abilities": [
+   "Ventral photophores produce counter-illumination camouflage",
+   "Can open its jaws extremely wide to take large prey",
+   "Migrates hundreds of metres upward at night to feed",
+   "Lure on the first dorsal ray may attract prey"
+  ],
+  "animal": {
+   "diet": "Small fish, crustaceans",
+   "habitat": "Deep open ocean, about 200–1,500 m and deeper",
+   "size": "Up to about 25 cm",
+   "behaviour": "Makes daily vertical migrations, rising toward shallower water at night and descending by day.",
+   "fieldMarks": [
+    "Long, slender, dark body with bluish-silver sheen",
+    "Enormous fang-like teeth projecting outside the closed mouth",
+    "Rows of photophores along the belly",
+    "First dorsal ray elongated, set far forward"
+   ],
+   "lookalikes": "Sloane's viperfish (C. sloani) occurs in warmer waters worldwide and differs in photophore arrangement and dorsal position; dragonfishes have a chin barbel.",
+   "whereToSee": "ROV footage from Monterey Canyon; museum specimens",
+   "season": "Year-round",
+   "order": "Stomiiformes"
+  },
+  "iucn": "LC",
+  "lore": "Named for Canadian naturalist John Macoun; its fangs have inspired many deep-sea monster illustrations.",
+  "historicalNames": [
+   "Chauliodus macouni"
+  ],
+  "funFact": "Its lower fangs are so long that when the mouth shuts they sit outside the upper jaw, reaching up toward the eyes."
+ },
+ {
+  "slug": "regalecus-glesne",
+  "scientific": "Regalecus glesne",
+  "common": "Giant oarfish",
+  "otherNames": [
+   "King of herrings",
+   "Ryūgū-no-tsukai ('messenger from the sea god's palace', Japanese)",
+   "Pez remo (Spanish)",
+   "Roi des harengs (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Regalecidae",
+  "shelves": [
+   "ocean",
+   "marvel"
+  ],
+  "summary": "The longest bony fish in the world, a silver ribbon with a crimson crest that can exceed 8 m. Rarely seen alive, it probably inspired many sea-serpent legends.",
+  "nativeRange": "Tropical to temperate oceans worldwide",
+  "regions": [
+   "Atlantic Ocean",
+   "Pacific Ocean",
+   "Indian Ocean",
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Mesopelagic (twilight zone)",
+   "Open ocean (pelagic)"
+  ],
+  "abilities": [
+   "Longest bony fish known, with reliable records around 8 m and reports to 11 m",
+   "Swims by undulating its long dorsal fin while holding the body vertical",
+   "Can shed (autotomise) the rear part of its body; the wound heals but does not regrow",
+   "Has no teeth, filtering krill with gill rakers"
+  ],
+  "animal": {
+   "diet": "Krill and other zooplankton, small squid",
+   "habitat": "Open ocean from the surface to about 1,000 m",
+   "lifespan": "Unknown",
+   "size": "Commonly 3 m; up to ~8 m",
+   "behaviour": "Hovers vertically in the water column, head up, gliding with rippling dorsal fin.",
+   "fieldMarks": [
+    "Extremely long, compressed, silvery ribbon-like body",
+    "Red dorsal fin running the full length, with a tall crest of elongated rays on the head",
+    "Long, oar-shaped red pelvic fin rays",
+    "Blue-black streaks and spots on the sides"
+   ],
+   "lookalikes": "Streamer fish (Agrostichthys parkeri) of southern oceans is shorter and lacks the long oar-like pelvic rays (adults have only low ridges); ribbonfish (Trachipteridae) have a tail fin and shorter body.",
+   "whereToSee": "Rarely; strandings in California, Japan, Norway and New Zealand; occasional surface sightings in the Gulf of California",
+   "season": "Strandings most often reported in winter–spring",
+   "order": "Lampriformes"
+  },
+  "iucn": "LC",
+  "lore": "In Japanese folklore oarfish appearances are said to foretell earthquakes; a 2019 study found no statistical link.",
+  "historicalNames": [
+   "Regalecus",
+   "Rex harengorum",
+   "Sea serpent"
+  ],
+  "funFact": "Norwegian fishermen called it 'king of herrings' because it was seen with shoals of herring and its crest resembled a crown."
+ },
+ {
+  "slug": "hippoglossus-hippoglossus",
+  "scientific": "Hippoglossus hippoglossus",
+  "common": "Atlantic halibut",
+  "otherNames": [
+   "Kveite (Norwegian)",
+   "Flétan (French)",
+   "Heilbot (Dutch)",
+   "Lúða (Icelandic)",
+   "Fletán (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Pleuronectidae",
+  "shelves": [
+   "ocean",
+   "edible"
+  ],
+  "summary": "The world's largest flatfish, a right-eyed giant that can grow longer than a person. It starts life as a normal symmetrical larva, then one eye migrates across its head as it settles to the seabed.",
+  "nativeRange": "North Atlantic from Virginia to Greenland and from the Bay of Biscay to the Barents Sea",
+  "regions": [
+   "Atlantic Ocean",
+   "Arctic",
+   "Europe",
+   "North America"
+  ],
+  "biomes": [
+   "Continental shelf",
+   "Cold temperate seas"
+  ],
+  "abilities": [
+   "During metamorphosis the left eye migrates over the head to the right side",
+   "Swims actively in midwater to chase fish, unlike most flatfish",
+   "Females can reach 50 years and produce millions of eggs"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "flesh (fillets, steaks, smoked)",
+   "cheeks"
+  ],
+  "edibilityNote": "Lean white flesh; large individuals contain moderate mercury.",
+  "animal": {
+   "diet": "Cod, haddock, herring, sand eels, crabs",
+   "habitat": "Sand, gravel and clay bottoms at 50–2,000 m",
+   "lifespan": "Up to about 50 years",
+   "size": "Up to about 2.5–3 m and 320 kg",
+   "behaviour": "Migrates to deep, warm slope waters to spawn in winter and spring.",
+   "fieldMarks": [
+    "Diamond-shaped, thick flatfish with both eyes on the right side",
+    "Large mouth reaching to below the eye",
+    "Uniform dark olive-brown upper side, white underside",
+    "Concave (crescent) tail",
+    "Lateral line arches strongly over the pectoral fin"
+   ],
+   "lookalikes": "Greenland halibut (Reinhardtius hippoglossoides) has one eye on the edge of the head and a dark underside; Pacific halibut (H. stenolepis) lives in the Pacific.",
+   "whereToSee": "Norwegian coast (Lofoten, Saltstraumen), Iceland, Gulf of Maine, Nova Scotia",
+   "season": "Resident; nearshore in summer",
+   "order": "Pleuronectiformes"
+  },
+  "iucn": "NT",
+  "lore": "Its English name comes from 'haly butte', the 'holy flatfish' eaten on Christian holy days in medieval England.",
+  "historicalNames": [
+   "Hippoglossus",
+   "Haly butte",
+   "Holibut"
+  ],
+  "funFact": "Halibut was so overfished that the IUCN listed it Endangered in 1996; its 2021 reassessment improved to Near Threatened."
+ },
+ {
+  "slug": "pleuronectes-platessa",
+  "scientific": "Pleuronectes platessa",
+  "common": "European plaice",
+  "otherNames": [
+   "Rødspætte (Danish)",
+   "Schol (Dutch)",
+   "Plie (French)",
+   "Scholle (German)",
+   "Solla (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Pleuronectidae",
+  "shelves": [
+   "ocean",
+   "edible"
+  ],
+  "summary": "The classic orange-spotted flatfish of the North Sea. It lies buried in sand with only its eyes showing and can change its colour to match the seabed.",
+  "nativeRange": "Northeast Atlantic from the Barents Sea to Morocco, North Sea, Baltic and western Mediterranean",
+  "regions": [
+   "Atlantic Ocean",
+   "Europe",
+   "North Africa"
+  ],
+  "biomes": [
+   "Continental shelf",
+   "Coastal waters",
+   "Sandy seabeds"
+  ],
+  "abilities": [
+   "Adjusts skin colour and pattern to match the background",
+   "Buries itself with a flick of its fins",
+   "Young migrate into shallow sandy nurseries like the Wadden Sea",
+   "Bites off siphons of buried clams"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "flesh (fillets, fried, baked)"
+  ],
+  "edibilityNote": "Low mercury; mild white flesh. A staple of British fish and chips and Danish open sandwiches.",
+  "animal": {
+   "diet": "Bivalves, polychaete worms, crustaceans",
+   "habitat": "Sandy and muddy bottoms from the shore to 200 m",
+   "lifespan": "Up to about 50 years",
+   "size": "Usually 25–40 cm; up to ~1 m and 7 kg",
+   "behaviour": "Feeds mainly at night and rests buried in sand by day; North Sea plaice migrate to spawning grounds in the Southern Bight in winter.",
+   "fieldMarks": [
+    "Oval flatfish with both eyes on the right side",
+    "Brown upper side with conspicuous bright orange-red spots",
+    "Row of 4–7 bony knobs on the head behind the eyes",
+    "Smooth skin and white underside"
+   ],
+   "lookalikes": "Flounder (Platichthys flesus) has rough prickles along the fin bases and dull spots; dab has a strongly curved lateral line over the pectoral fin and rough skin.",
+   "whereToSee": "Sandy shallows of the North Sea, Danish and Dutch coasts, Irish Sea",
+   "season": "Resident; inshore in summer, spawning Jan–Mar",
+   "order": "Pleuronectiformes"
+  },
+  "iucn": "LC",
+  "lore": "Plaice studies by Walter Garstang and the North Sea 'plaice box' were foundational for fisheries science, and plaice catches dropped sharply then rebounded during and after both World Wars when fishing stopped.",
+  "historicalNames": [
+   "Platessa",
+   "Passer",
+   "Plais"
+  ],
+  "funFact": "North Sea plaice stocks reached record highs in the 2010s after fishing pressure was cut."
+ },
+ {
+  "slug": "galeocerdo-cuvier",
+  "scientific": "Galeocerdo cuvier",
+  "common": "Tiger shark",
+  "otherNames": [
+   "Tintorera (Spanish)",
+   "Itachizame (Japanese)",
+   "Niuhi (Hawaiian, man-eating shark)",
+   "Requin-tigre (French)",
+   "Papa (Swahili, shark)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Galeocerdonidae",
+  "shelves": [
+   "ocean",
+   "migrant",
+   "keystone"
+  ],
+  "summary": "A large, striped generalist predator of warm coasts, famous for eating almost anything, from sea turtles to license plates. Its saw-edged teeth can cut through turtle shell.",
+  "nativeRange": "Tropical and warm temperate seas worldwide",
+  "regions": [
+   "Atlantic Ocean",
+   "Pacific Ocean",
+   "Indian Ocean",
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Coastal waters",
+   "Coral reef",
+   "Seagrass",
+   "Open ocean (pelagic)"
+  ],
+  "abilities": [
+   "Cockscomb-shaped, serrated teeth saw through turtle shells and bones",
+   "Diet includes sea turtles, seabirds, dolphins, sea snakes and carrion, plus indigestible rubbish",
+   "Undertakes migrations of thousands of kilometres between islands and coasts",
+   "Its presence keeps dugongs and turtles from overgrazing seagrass in Shark Bay, Australia"
+  ],
+  "animal": {
+   "diet": "Sea turtles, fish, rays, seabirds, marine mammals, sea snakes, carrion",
+   "habitat": "Coastal and reef waters, river mouths and open ocean to over 350 m",
+   "lifespan": "Up to about 27–50 years",
+   "size": "Commonly 3–4 m; up to 5.5 m and over 600 kg",
+   "behaviour": "Mostly nocturnal hunter that arrives at predictable feasts, such as fledgling albatrosses at Hawaii's French Frigate Shoals each summer.",
+   "fieldMarks": [
+    "Dark vertical bars or spots on the back, strongest in young and fading in large adults",
+    "Very broad, blunt, nearly square snout",
+    "Long upper tail lobe with a pointed tip",
+    "Large, serrated cockscomb teeth",
+    "Spiracle behind the eye"
+   ],
+   "lookalikes": "Sand tiger (Carcharias taurus) has ragged protruding teeth and a pointed snout; bull shark lacks stripes and has a shorter tail lobe.",
+   "whereToSee": "Tiger Beach, Bahamas; Fuvahmulah, Maldives; Aliwal Shoal, South Africa; Shark Bay, Western Australia",
+   "season": "Tiger Beach Oct–Jan; Fuvahmulah year-round",
+   "order": "Carcharhiniformes"
+  },
+  "iucn": "NT",
+  "lore": "In Native Hawaiian tradition some sharks were ʻaumākua, ancestral guardians, while the man-eating niuhi was hunted by chiefs as a test of prowess.",
+  "historicalNames": [
+   "Squalus cuvier",
+   "Galeocerdo tigrinus"
+  ],
+  "funFact": "Tiger shark stomachs have contained license plates, tyres, tin cans and other rubbish."
+ },
+ {
+  "slug": "sphyrna-mokarran",
+  "scientific": "Sphyrna mokarran",
+  "common": "Great hammerhead",
+  "otherNames": [
+   "Cornuda gigante (Spanish)",
+   "Hirashumokuzame (Japanese)",
+   "Grand requin-marteau (French)",
+   "Mano (Hawaiian, shark)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Sphyrnidae",
+  "shelves": [
+   "ocean",
+   "endangered",
+   "migrant",
+   "marvel"
+  ],
+  "summary": "The largest hammerhead, with a tall sickle dorsal fin and a near-straight 'hammer' packed with electroreceptors. It specialises in stingrays, pinning them to the seabed with its head.",
+  "nativeRange": "Tropical and warm temperate coastal waters worldwide",
+  "regions": [
+   "Atlantic Ocean",
+   "Pacific Ocean",
+   "Indian Ocean",
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Coastal waters",
+   "Coral reef",
+   "Continental shelf"
+  ],
+  "abilities": [
+   "The cephalofoil spreads ampullae of Lorenzini wide, helping detect buried prey's electric fields",
+   "Uses the head to pin stingrays to the seabed while biting",
+   "Swims rolled on its side, using its tall dorsal fin as a 'wing' to cut drag by about 10%",
+   "Seemingly immune to stingray barbs; individuals have been found with dozens embedded in the mouth"
+  ],
+  "animal": {
+   "diet": "Stingrays, other rays, groupers, catfish, smaller sharks",
+   "habitat": "Coastal reefs, lagoons and continental shelves to 80 m",
+   "lifespan": "Up to about 44 years",
+   "size": "Commonly 3.5 m; up to ~6 m",
+   "behaviour": "Mostly solitary nomad that makes seasonal migrations along coasts; extremely vulnerable to capture stress and often dies on lines.",
+   "fieldMarks": [
+    "Broad hammer-shaped head with a nearly straight front edge and a central notch in adults",
+    "Very tall, sickle-shaped first dorsal fin",
+    "Tall pelvic fins with a curved rear margin",
+    "Grey-brown above, white below"
+   ],
+   "lookalikes": "Scalloped hammerhead (S. lewini) has a curved front edge with a strong central notch and a lower dorsal fin; smooth hammerhead (S. zygaena) lacks the central notch.",
+   "whereToSee": "Bimini, Bahamas (Dec–Mar); Jupiter, Florida; Rangiroa, French Polynesia",
+   "season": "Bimini Dec–Mar; Rangiroa Dec–Mar",
+   "order": "Carcharhiniformes"
+  },
+  "iucn": "CR",
+  "lore": "Its fins are highly prized in the shark-fin trade; hammerheads were listed on CITES Appendix II in 2013.",
+  "historicalNames": [
+   "Zygaena mokarran"
+  ],
+  "funFact": "A pregnant female can carry up to about 55 pups, which are born with their hammers bent back to ease birth."
+ },
+ {
+  "slug": "somniosus-microcephalus",
+  "scientific": "Somniosus microcephalus",
+  "common": "Greenland shark",
+  "otherNames": [
+   "Eqalussuaq (Greenlandic)",
+   "Hákarl (Icelandic, as food)",
+   "Håkjerring (Norwegian)",
+   "Sleeper shark"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Somniosidae",
+  "shelves": [
+   "ocean",
+   "edible",
+   "toxic",
+   "ancient",
+   "marvel",
+   "endangered"
+  ],
+  "summary": "The longest-lived vertebrate known: radiocarbon dating of eye lenses suggests some individuals are around 400 years old. It cruises the cold Arctic depths at about walking pace.",
+  "nativeRange": "North Atlantic and Arctic oceans, from the Gulf of Maine and North Sea to Svalbard and the Canadian Arctic",
+  "regions": [
+   "Arctic",
+   "Atlantic Ocean",
+   "Europe",
+   "North America"
+  ],
+  "biomes": [
+   "Deep sea",
+   "Polar seas",
+   "Continental shelf"
+  ],
+  "abilities": [
+   "Estimated lifespan of at least 272 years, possibly ~400 (Nielsen et al., Science 2016)",
+   "Reaches sexual maturity at roughly 150 years",
+   "Cruises at about 1 km/h, one of the slowest fish swimming speeds relative to size",
+   "Tissue contains high levels of trimethylamine oxide (TMAO), which stabilises proteins in cold deep water"
+  ],
+  "edibility": "toxic",
+  "edibleParts": [
+   "flesh only after fermentation and drying (hákarl)"
+  ],
+  "edibilityNote": "Fresh flesh is poisonous because of TMAO, which breaks down into trimethylamine and causes 'shark drunk' symptoms in people and sled dogs. Iceland's hákarl is made by fermenting and air-drying for months; it has an intense ammonia smell.",
+  "animal": {
+   "diet": "Fish, seals, squid, carrion including drowned reindeer and polar bear remains",
+   "habitat": "Cold continental shelf and slope waters, 0–2,200 m; nearer the surface in Arctic winters",
+   "lifespan": "Possibly 250–500 years",
+   "size": "Usually 2.5–5 m; up to ~7 m",
+   "behaviour": "Many adults carry a parasitic copepod (Ommatokoita elongata) attached to the eye, which damages the cornea, yet they still hunt successfully.",
+   "fieldMarks": [
+    "Massive, cylindrical grey-brown body",
+    "Small, rounded dorsal fins with no spines",
+    "Short, rounded snout and small eyes, often with a dangling copepod",
+    "Nearly symmetrical tail with a weak lower lobe"
+   ],
+   "lookalikes": "Pacific sleeper shark (S. pacificus) is very similar but lives in the North Pacific; basking shark has huge gill slits and a tall triangular dorsal.",
+   "whereToSee": "Rarely seen alive; Arctic Bay and Baffin Island (Canada) under-ice dives, the St. Lawrence estuary at Baie-Comeau, Bjarnarhöfn shark museum in Iceland",
+   "season": "Year-round; nearer the surface in winter",
+   "order": "Squaliformes"
+  },
+  "iucn": "VU",
+  "lore": "An Inuit legend tells that the shark arose from the urine-soaked cloth of the sea goddess Sedna's hair, explaining the smell of its flesh.",
+  "historicalNames": [
+   "Squalus microcephalus",
+   "Hákarl"
+  ],
+  "funFact": "A Greenland shark that may have been born before the Mayflower sailed was still swimming when scientists sampled it in the 2010s."
+ },
+ {
+  "slug": "isurus-oxyrinchus",
+  "scientific": "Isurus oxyrinchus",
+  "common": "Shortfin mako",
+  "otherNames": [
+   "Marrajo dientuso (Spanish)",
+   "Aozame (Japanese)",
+   "Mako (Māori)",
+   "Taupe bleue (French)",
+   "Anequim (Portuguese, Brazil)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Lamnidae",
+  "shelves": [
+   "ocean",
+   "edible",
+   "endangered",
+   "migrant",
+   "marvel"
+  ],
+  "summary": "The fastest shark, capable of bursts often estimated around 70 km/h and spectacular leaps several metres out of the water. Warm-bodied and long-ranging, it has been heavily overfished for its meat and fins.",
+  "nativeRange": "Tropical and temperate oceans worldwide",
+  "regions": [
+   "Atlantic Ocean",
+   "Pacific Ocean",
+   "Indian Ocean",
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Open ocean (pelagic)"
+  ],
+  "abilities": [
+   "Regional endothermy keeps muscles, brain and eyes warmer than the water",
+   "Flexible scales (denticles) on the flanks may reduce drag by controlling flow separation",
+   "Leaps up to about 6 m clear of the water",
+   "Tagged makos have travelled many thousands of kilometres across ocean basins"
+  ],
+  "edibility": "edible-with-care",
+  "edibleParts": [
+   "flesh (steaks)"
+  ],
+  "edibilityNote": "Meat is eaten widely but contains high methylmercury; pregnant women and children should avoid it. Endangered status means it is best not eaten.",
+  "animal": {
+   "diet": "Tunas, swordfish, mackerel, squid, other sharks",
+   "habitat": "Open ocean from the surface to about 500 m",
+   "lifespan": "About 30 years",
+   "size": "Commonly 3 m; up to about 4 m and 500 kg",
+   "behaviour": "A highly active, wide-ranging hunter that attacks swordfish and tuna from below.",
+   "fieldMarks": [
+    "Slender, torpedo body with a sharply pointed conical snout",
+    "Metallic indigo-blue back and white belly",
+    "Long, curved, smooth-edged teeth visible even with the mouth closed",
+    "Nearly symmetrical crescent tail with a strong keel",
+    "Underside of snout white"
+   ],
+   "lookalikes": "Longfin mako (I. paucus) has much longer pectoral fins and a dusky snout underside; porbeagle has a secondary keel and white rear dorsal tip; great white is stockier with serrated triangular teeth.",
+   "whereToSee": "Offshore cage and pelagic dives off San Diego, Cabo San Lucas, Rhode Island and Cape Point, South Africa",
+   "season": "Southern California summer–autumn; New England Jun–Oct",
+   "order": "Lamniformes"
+  },
+  "iucn": "EN",
+  "lore": "Ernest Hemingway's The Old Man and the Sea (1952) features a mako ('dentuso') attacking Santiago's marlin; in 2019 it was listed on CITES Appendix II.",
+  "historicalNames": [
+   "Isurus glaucus",
+   "Lamna oxyrinchus"
+  ],
+  "funFact": "In 2021 ICCAT agreed to a two-year ban on retaining North Atlantic shortfin makos because the stock was overfished."
+ },
+ {
+  "slug": "prionace-glauca",
+  "scientific": "Prionace glauca",
+  "common": "Blue shark",
+  "otherNames": [
+   "Tintorera / Tiburón azul (Spanish)",
+   "Yoshikirizame (Japanese)",
+   "Peau bleue (French)",
+   "Tubarão-azul (Portuguese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Carcharhinidae",
+  "shelves": [
+   "ocean",
+   "edible",
+   "migrant"
+  ],
+  "summary": "A slender, long-finned shark of brilliant indigo that roams entire ocean basins. It is the most heavily fished shark in the world, with tens of millions taken each year, many for fins.",
+  "nativeRange": "Temperate and tropical oceans worldwide",
+  "regions": [
+   "Atlantic Ocean",
+   "Pacific Ocean",
+   "Indian Ocean",
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Open ocean (pelagic)"
+  ],
+  "abilities": [
+   "Makes trans-oceanic migrations, crossing the North Atlantic in a clockwise loop with the Gulf Stream",
+   "Females have skin up to three times thicker than males, protecting them from mating bites",
+   "Gives birth to large litters, sometimes over 100 pups",
+   "Dives repeatedly to more than 1,000 m in eddies to hunt squid"
+  ],
+  "edibility": "edible-with-care",
+  "edibleParts": [
+   "fins (soup)",
+   "flesh"
+  ],
+  "edibilityNote": "Flesh needs bleeding and soaking to remove urea; contains elevated mercury. The fin trade drives its large catch.",
+  "animal": {
+   "diet": "Squid, small fish, also seabirds and carrion",
+   "habitat": "Open ocean, from the surface to over 1,000 m",
+   "lifespan": "About 20 years",
+   "size": "Commonly 2–3 m; up to ~3.8 m",
+   "behaviour": "Sexes and size classes often segregate geographically; nursery grounds are near the Azores and off Portugal.",
+   "fieldMarks": [
+    "Very slender body with a long, pointed snout",
+    "Brilliant metallic indigo-blue back, bright blue sides, white belly",
+    "Very long, narrow, sickle-shaped pectoral fins",
+    "Large eyes and a low first dorsal fin set back on the body"
+   ],
+   "lookalikes": "Shortfin mako is stockier with shorter pectorals and a crescent tail; oceanic whitetip has broad, rounded white-tipped fins.",
+   "whereToSee": "Offshore snorkel trips from Pico (Azores), Cape Point (South Africa), Cornwall and Rhode Island",
+   "season": "Azores Jul–Sep; Cornwall Jul–Sep",
+   "order": "Carcharhiniformes"
+  },
+  "iucn": "NT",
+  "lore": "Its genus name means 'saw' (prion) and its species name 'blue-grey' (glauca); in 2022 it was among the requiem sharks added to CITES Appendix II.",
+  "historicalNames": [
+   "Squalus glaucus",
+   "Carcharias glaucus"
+  ],
+  "funFact": "Blue sharks tagged off New England have been recaptured off Spain, Portugal and Brazil, thousands of kilometres away."
+ },
+ {
+  "slug": "cetorhinus-maximus",
+  "scientific": "Cetorhinus maximus",
+  "common": "Basking shark",
+  "otherNames": [
+   "Peregrino (Spanish)",
+   "Ubazame (Japanese)",
+   "Requin pèlerin (French)",
+   "Liamhán gréine (Irish, 'sunfish')"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Cetorhinidae",
+  "shelves": [
+   "ocean",
+   "endangered",
+   "migrant",
+   "marvel"
+  ],
+  "summary": "The second-largest fish, a gentle giant that strains plankton through cavernous jaws. In summer it cruises surface waters off Britain, Ireland and New England with its mouth agape.",
+  "nativeRange": "Temperate seas worldwide; most often seen in the North Atlantic and North Pacific",
+  "regions": [
+   "Atlantic Ocean",
+   "Pacific Ocean",
+   "Europe",
+   "North America",
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Coastal waters",
+   "Continental shelf",
+   "Open ocean (pelagic)"
+  ],
+  "abilities": [
+   "Filters an estimated 2,000 tonnes of water per hour through gill rakers",
+   "Passive ram feeder: swims with mouth open rather than sucking water in",
+   "Tagging shows it dives deep in winter and crosses ocean basins",
+   "Breaches fully clear of the water despite weighing several tonnes"
+  ],
+  "animal": {
+   "diet": "Zooplankton, mainly copepods",
+   "habitat": "Surface to over 1,000 m; often near tidal fronts where plankton concentrates",
+   "lifespan": "Estimated around 50 years",
+   "size": "Commonly 6–8 m; up to ~10–12 m",
+   "behaviour": "Gathers in summer groups at plankton-rich fronts and swims slowly in circles; courtship-like 'nose-to-tail' following has been observed.",
+   "fieldMarks": [
+    "Enormous size with a large triangular dorsal fin and tail tip often both visible at surface",
+    "Huge gill slits that nearly encircle the head",
+    "Cavernous mouth opening wide when feeding; conical pointed snout",
+    "Grey-brown mottled body"
+   ],
+   "lookalikes": "Whale shark has white spots and a flat, broad head; great white has small gill slits and a dark-edged mouth of teeth. Two fins visible at once often lead to 'sea serpent' or 'two sharks' reports.",
+   "whereToSee": "Hebrides (Coll, Tiree), Cornwall, west Ireland (Malin Head), Isle of Man, Cape Cod",
+   "season": "Summer visitor May–Sep in the NE Atlantic",
+   "order": "Lamniformes"
+  },
+  "iucn": "EN",
+  "lore": "Gavin Maxwell's Harpoon at a Venture (1952) recounts his failed Hebridean basking-shark fishery; the shark's liver oil once lit lamps in Ireland and Scotland.",
+  "historicalNames": [
+   "Squalus maximus",
+   "Sun-fish (old British name)",
+   "Selachus"
+  ],
+  "funFact": "Rotting basking shark carcasses lose their lower jaws and gill structure, leaving a long-necked shape mistaken for plesiosaur 'sea monsters' such as the 1977 Zuiyo-maru carcass."
+ },
+ {
+  "slug": "hemiscyllium-ocellatum",
+  "scientific": "Hemiscyllium ocellatum",
+  "common": "Epaulette shark",
+  "otherNames": [
+   "Tiburón charretera (Spanish)",
+   "Requin-chabot ocellé (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Hemiscylliidae",
+  "shelves": [
+   "ocean",
+   "marvel"
+  ],
+  "summary": "A small, spotted reef shark that 'walks' across tide pools on its paired fins and survives hours of near-zero oxygen when the tide falls.",
+  "nativeRange": "Shallow reefs of northern Australia and southern New Guinea",
+  "regions": [
+   "Australia",
+   "Oceania",
+   "Pacific Ocean"
+  ],
+  "biomes": [
+   "Coral reef",
+   "Reef flats and lagoons",
+   "Tide pools"
+  ],
+  "abilities": [
+   "Walks on pectoral and pelvic fins between pools, even across exposed reef",
+   "Tolerates severe hypoxia for hours by shutting down non-essential brain activity",
+   "Is studied as a model for stroke and climate-related low-oxygen tolerance"
+  ],
+  "animal": {
+   "diet": "Worms, crabs, shrimps and small fish",
+   "habitat": "Shallow reef flats and tide pools, rarely below 10 m",
+   "lifespan": "Up to about 20–25 years",
+   "size": "Up to about 1 m; usually under 70 cm",
+   "behaviour": "Hunts at dusk and night by poking its snout into sand and crevices; hides under coral by day.",
+   "fieldMarks": [
+    "Large black spot ringed in white behind each pectoral fin (the 'epaulette')",
+    "Slender body with a long tail",
+    "Small scattered dark spots on a pale brown background",
+    "Short barbels near the nostrils"
+   ],
+   "lookalikes": "Other walking sharks (Hemiscyllium spp. of New Guinea and Indonesia) differ in spot pattern; brownbanded bamboo shark lacks the epaulette spot.",
+   "whereToSee": "Heron Island and Lady Elliot Island (Great Barrier Reef) reef flats at low tide",
+   "season": "Year-round; best at dusk low tides",
+   "order": "Orectolobiformes"
+  },
+  "iucn": "LC",
+  "lore": "Its common name refers to the military shoulder ornament its eyespot resembles.",
+  "historicalNames": [
+   "Squalus ocellatus"
+  ],
+  "funFact": "Its fin-walking gait resembles that of salamanders, so it is studied for clues to how early vertebrates moved onto land."
+ },
+ {
+  "slug": "aetobatus-narinari",
+  "scientific": "Aetobatus narinari",
+  "common": "Spotted eagle ray",
+  "otherNames": [
+   "Whitespotted eagle ray",
+   "Chucho pintado (Spanish)",
+   "Raie léopard (French)",
+   "Raia-chita (Portuguese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Aetobatidae",
+  "shelves": [
+   "ocean",
+   "venomous",
+   "endangered"
+  ],
+  "summary": "A graceful ray with a white-spotted dark back and a duck-billed snout, often seen 'flying' in groups over Atlantic reefs. Its jaws crack clams and conchs with plate-like teeth.",
+  "nativeRange": "Western and central Atlantic from North Carolina to Brazil, including the Gulf of Mexico and Caribbean; Indo-Pacific populations are now split into other species",
+  "regions": [
+   "Atlantic Ocean",
+   "Caribbean",
+   "North America",
+   "Central America",
+   "South America"
+  ],
+  "biomes": [
+   "Coastal waters",
+   "Coral reef",
+   "Seagrass",
+   "Sandy seabeds"
+  ],
+  "abilities": [
+   "Crushes hard-shelled molluscs with fused, chevron-shaped tooth plates",
+   "Digs prey from sand using its shovel-like snout",
+   "Leaps clear of the water, sometimes landing in boats",
+   "Carries one to several venomous barbed spines at the base of its long tail"
+  ],
+  "animal": {
+   "diet": "Clams, oysters, conchs, whelks, shrimp, crabs",
+   "habitat": "Shallow coastal waters, bays, reefs and lagoons to about 80 m",
+   "lifespan": "Up to about 25 years",
+   "size": "Disc width up to about 3 m",
+   "behaviour": "Often swims in loose groups, sometimes in schools of dozens, cruising near the surface or over sand flats.",
+   "fieldMarks": [
+    "Dark blue-black to grey back densely covered with white spots or rings",
+    "Pointed, wing-like pectoral fins",
+    "Protruding duck-bill snout with a flat, rounded tip",
+    "Very long, whip-like tail, often 2–3 times disc width"
+   ],
+   "lookalikes": "Southern stingray lacks spots and has a rhomboid disc with no protruding head; cownose ray has a notched, two-lobed forehead and plain brown back.",
+   "whereToSee": "Bonaire, Cozumel, Belize, Florida Keys, Bermuda",
+   "season": "Year-round; Florida's Sarasota coast May–Oct",
+   "order": "Myliobatiformes"
+  },
+  "iucn": "EN",
+  "lore": "The species name narinari comes from a Tupi-Guarani name recorded by Georg Marcgrave in his Historia Naturalis Brasiliae (1648).",
+  "historicalNames": [
+   "Raia narinari",
+   "Narinari"
+  ],
+  "funFact": "In 2008 a leaping spotted eagle ray struck and killed a boater in the Florida Keys, one of very few such deaths ever recorded."
+ },
+ {
+  "slug": "hypanus-americanus",
+  "scientific": "Hypanus americanus",
+  "common": "Southern stingray",
+  "otherNames": [
+   "Raya látigo americana (Spanish)",
+   "Pastenague américaine (French)",
+   "Raia-prego (Portuguese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Dasyatidae",
+  "shelves": [
+   "ocean",
+   "venomous"
+  ],
+  "summary": "A flat, diamond-shaped ray that buries itself in sand with only its eyes showing. In the Cayman Islands' Stingray City, generations of rays have learned to gather around tourist boats for squid.",
+  "nativeRange": "Western Atlantic from New Jersey to southern Brazil, Gulf of Mexico and Caribbean",
+  "regions": [
+   "Atlantic Ocean",
+   "Caribbean",
+   "North America",
+   "Central America",
+   "South America"
+  ],
+  "biomes": [
+   "Sandy seabeds",
+   "Seagrass",
+   "Coral reef",
+   "Lagoons"
+  ],
+  "abilities": [
+   "Venomous serrated barb on the tail used in defence",
+   "Flaps or blows jets of water to excavate buried prey",
+   "Electroreceptors detect hidden prey under sand",
+   "Followed by jacks and cormorants that snatch prey it flushes"
+  ],
+  "animal": {
+   "diet": "Clams, worms, shrimp, crabs and small fish",
+   "habitat": "Shallow sand flats, seagrass beds and lagoons, to about 50 m",
+   "lifespan": "Females up to about 25 years",
+   "size": "Females disc width up to 1.5 m; males much smaller (~0.7 m)",
+   "behaviour": "Rests buried in sand by day with only eyes and spiracles exposed; feeds actively at night and at dawn and dusk.",
+   "fieldMarks": [
+    "Rhomboid disc with sharp outer corners",
+    "Plain olive-brown to grey upper side, white below",
+    "Long whip-like tail with a serrated venomous spine and a low fold below",
+    "Eyes and spiracles set high on the head"
+   ],
+   "lookalikes": "Atlantic stingray (H. sabinus) is smaller with a rounder disc; roughtail stingray has thorns along the tail; spotted eagle ray has white spots and a protruding head.",
+   "whereToSee": "Stingray City and Sandbar, Grand Cayman; Bimini; Belize's Hol Chan; Antigua",
+   "season": "Year-round",
+   "order": "Myliobatiformes"
+  },
+  "iucn": "NT",
+  "lore": "Fishermen cleaning their catch on the North Sound sandbar of Grand Cayman in the mid-20th century attracted rays, giving rise to Stingray City, now one of the Caribbean's most visited dive sites.",
+  "historicalNames": [
+   "Dasyatis americana",
+   "Trygon americana"
+  ],
+  "funFact": "It was moved from the genus Dasyatis to Hypanus in 2016 after a genetic revision of whiptail stingrays."
+ },
+ {
+  "slug": "pristis-pristis",
+  "scientific": "Pristis pristis",
+  "common": "Largetooth sawfish",
+  "otherNames": [
+   "Freshwater sawfish",
+   "Pez sierra (Spanish)",
+   "Poisson-scie (French)",
+   "Peixe-serra (Portuguese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Pristidae",
+  "shelves": [
+   "ocean",
+   "freshwater",
+   "endangered",
+   "migrant",
+   "marvel"
+  ],
+  "summary": "A ray with a shark-like body and a long, toothed 'saw' that it uses to sense and slash prey. Born in rivers and estuaries, it can travel hundreds of kilometres upstream, but it has vanished from much of its former range.",
+  "nativeRange": "Tropical coasts, estuaries and rivers of the Atlantic, eastern Pacific and Indo-West Pacific; now largely confined to northern Australia, parts of West Africa and Central/South America",
+  "regions": [
+   "Australia",
+   "Atlantic Ocean",
+   "Pacific Ocean",
+   "Indian Ocean",
+   "Central America",
+   "South America",
+   "Sub-Saharan Africa",
+   "South Asia",
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Estuaries",
+   "Rivers",
+   "Coastal waters",
+   "Mangrove"
+  ],
+  "abilities": [
+   "The rostrum (saw) is covered in electroreceptors that detect prey in murky water",
+   "Swipes the saw side to side to stun and impale fish",
+   "Pups are born with their saw teeth sheathed to protect the mother",
+   "Moves between seawater and freshwater, travelling hundreds of kilometres up rivers such as the Amazon"
+  ],
+  "animal": {
+   "diet": "Fish, crustaceans, molluscs",
+   "habitat": "Turbid estuaries, river mouths and freshwater rivers; adults in coastal seas",
+   "lifespan": "Up to about 35–45 years",
+   "size": "Up to about 6.5–7 m",
+   "behaviour": "Juveniles spend their early years in rivers, sometimes far inland in isolated pools such as the Fitzroy River of Western Australia, before moving to sea as adults.",
+   "fieldMarks": [
+    "Long, flat, blade-like rostrum with large widely spaced teeth (14–24 pairs)",
+    "First dorsal fin starts in front of the pelvic fins",
+    "Distinct lower lobe on the tail fin",
+    "Grey to yellowish-brown, shark-like body with flattened head"
+   ],
+   "lookalikes": "Smalltooth sawfish (P. pectinata) has more, closer-set teeth (20–34 pairs) and no tail lower lobe; sawsharks are true sharks with barbels on the saw and gill slits on the side of the head.",
+   "whereToSee": "Rarely; Fitzroy and Daly rivers in northern Australia; a few public aquariums in North America, Europe, Australia and Asia",
+   "season": "Year-round; juveniles move with wet-season floods",
+   "order": "Rhinopristiformes"
+  },
+  "iucn": "CR",
+  "lore": "Sawfish rostra were sold as curios worldwide; in West African Bijagós culture and among Aboriginal Australians the sawfish is an important spirit figure.",
+  "historicalNames": [
+   "Squalus pristis",
+   "Pristis perotteti",
+   "Pristis microdon"
+  ],
+  "funFact": "Three formerly separate species (P. microdon, P. perotteti and P. pristis) were merged into one in 2013 after genetic study."
+ },
+ {
+  "slug": "torpedo-marmorata",
+  "scientific": "Torpedo marmorata",
+  "common": "Marbled electric ray",
+  "otherNames": [
+   "Tremielga / Torpedo (Spanish)",
+   "Torpille marbrée (French)",
+   "Torpedine marezzata (Italian)",
+   "Ra''ād (Arabic, 'thunderer')",
+   "Narke (Ancient Greek)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Torpedinidae",
+  "shelves": [
+   "ocean",
+   "endangered",
+   "marvel"
+  ],
+  "summary": "A round, marbled ray that stuns prey with shocks of up to about 200 volts from paired electric organs. The ancient Greeks and Romans used it to numb pain, and its electric organs later helped scientists discover how nerves signal.",
+  "nativeRange": "Eastern Atlantic from the North Sea to South Africa, and the Mediterranean",
+  "regions": [
+   "Atlantic Ocean",
+   "Europe",
+   "North Africa",
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Sandy seabeds",
+   "Seagrass",
+   "Rocky reef",
+   "Continental shelf"
+  ],
+  "abilities": [
+   "Kidney-shaped electric organs in the disc generate shocks of about 70–200 V",
+   "Wraps its disc around prey and shocks it into paralysis",
+   "Buries itself in sand by day to ambush fish at night",
+   "Electric organs are rich in acetylcholine receptors, which made them a key source for neuroscience research"
+  ],
+  "animal": {
+   "diet": "Small bottom fishes, such as gobies, hake and mullets",
+   "habitat": "Soft sandy or muddy bottoms, seagrass meadows and reefs, 10–100 m",
+   "lifespan": "Uncertain; probably around 12–15 years",
+   "size": "Up to about 1 m; usually under 60 cm",
+   "behaviour": "Lies motionless and buried; when a fish passes overhead it lunges upward and releases a burst of electric pulses.",
+   "fieldMarks": [
+    "Nearly circular, soft disc with a short thick tail",
+    "Brown, mottled or marbled upper side",
+    "Two small dorsal fins near the tail and a broad tail fin",
+    "Spiracles behind the eyes with small finger-like papillae on the rim"
+   ],
+   "lookalikes": "Common torpedo (T. torpedo) has five blue-black eyespots; black torpedo (Tetronarce nobiliana) is uniformly dark and much larger.",
+   "whereToSee": "Mediterranean seagrass dives (Croatia, Greece, Balearics), Canary Islands, Portuguese coast",
+   "season": "Year-round",
+   "order": "Torpediniformes"
+  },
+  "iucn": "VU",
+  "lore": "The Roman physician Scribonius Largus (1st century CE) prescribed shocks from a live torpedo for headaches and gout; Plato's Meno compares Socrates to the numbing narke.",
+  "historicalNames": [
+   "Torpedo",
+   "Narke",
+   "Raia torpedo",
+   "Cramp-fish"
+  ],
+  "funFact": "The word 'narcotic' traces to the Greek narke, 'numbness', the same root as the Greek name for electric rays."
+ },
+ {
+  "slug": "pampus-argenteus",
+  "scientific": "Pampus argenteus",
+  "common": "Silver pomfret",
+  "otherNames": [
+   "Paplet (Marathi/Hindi)",
+   "Saranga (Konkani)",
+   "Rupchanda (Bengali)",
+   "Zubaidi (Arabic, Gulf)",
+   "Vawal (Tamil)",
+   "Chāng yú (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Stromateidae",
+  "shelves": [
+   "ocean",
+   "edible"
+  ],
+  "summary": "A flat, diamond-shaped silvery fish beloved across Pakistan, India, Bangladesh and the Gulf, where whole fried or curried pomfret is a classic. Heavy demand has driven sharp declines in parts of its range.",
+  "nativeRange": "Indo-West Pacific: Persian Gulf, Arabian Sea and Bay of Bengal to the South China Sea and Japan",
+  "regions": [
+   "Indian Ocean",
+   "Pacific Ocean",
+   "South Asia",
+   "West Asia",
+   "Southeast Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Coastal waters",
+   "Continental shelf",
+   "Muddy seabeds"
+  ],
+  "abilities": [
+   "Highly compressed, deep body for manoeuvring in turbid coastal water",
+   "Feeds on jellyfish and ctenophores as well as plankton",
+   "Lacks pelvic fins entirely as an adult"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "whole fish (fried, tandoori, curry, steamed)"
+  ],
+  "edibilityNote": "Low mercury. A premium market fish in Karachi, Mumbai, Kolkata and Kuwait. No particular toxicity concerns.",
+  "animal": {
+   "diet": "Zooplankton, jellyfish, ctenophores, small invertebrates",
+   "habitat": "Muddy coastal bottoms and estuaries, 5–110 m",
+   "size": "Usually 15–30 cm; up to about 60 cm",
+   "behaviour": "Moves in schools over muddy shelf grounds and into coastal waters during the spawning season.",
+   "fieldMarks": [
+    "Very deep, rhomboid, laterally compressed silver body",
+    "Small mouth with a blunt, rounded snout",
+    "Long, sickle-shaped dorsal and anal fins",
+    "No pelvic fins; deeply forked tail with lower lobe longer"
+   ],
+   "lookalikes": "Black pomfret (Parastromateus niger) is grey-black with pelvic fins in young; Chinese silver pomfret (Pampus chinensis) has a short, barely forked tail; Indian/Gulf 'white' pomfret markets mix several Pampus species.",
+   "whereToSee": "Karachi Fish Harbour, Sassoon Dock (Mumbai), Kuwait's Sharq fish market",
+   "season": "Year-round; catches rise after the southwest monsoon closes",
+   "order": "Scombriformes"
+  },
+  "lore": "Known as 'zubaidi' in Kuwait, where it is considered the national fish; in Bengali its name 'rupchanda' evokes a silver moon.",
+  "historicalNames": [
+   "Stromateus argenteus"
+  ],
+  "funFact": "The Persian Gulf population has been assessed by IUCN as Vulnerable due to overfishing.",
+  "iucn": "NE"
+ },
+ {
+  "slug": "rastrelliger-kanagurta",
+  "scientific": "Rastrelliger kanagurta",
+  "common": "Indian mackerel",
+  "otherNames": [
+   "Bangda (Marathi/Hindi)",
+   "Ayala (Malayalam)",
+   "Bangude (Kannada/Konkani)",
+   "Kembung (Malay/Indonesian)",
+   "Pla thu (Thai, Rastrelliger spp.)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Scombridae",
+  "shelves": [
+   "ocean",
+   "edible"
+  ],
+  "summary": "A small, inexpensive mackerel that feeds millions along the coasts of the Indian Ocean. It swims with its mouth open, filtering plankton through long, feathery gill rakers.",
+  "nativeRange": "Indo-West Pacific from the Red Sea and East Africa to Indonesia, Australia, Samoa and Japan; entered the eastern Mediterranean via the Suez Canal",
+  "regions": [
+   "Indian Ocean",
+   "Pacific Ocean",
+   "South Asia",
+   "Southeast Asia",
+   "West Asia",
+   "Sub-Saharan Africa",
+   "Australia"
+  ],
+  "biomes": [
+   "Coastal waters",
+   "Continental shelf"
+  ],
+  "abilities": [
+   "Filter-feeds by ram ventilation with long, dense gill rakers",
+   "Forms large schools near upwelling coasts during monsoon seasons",
+   "Matures in under a year"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "whole fish (fried, curried, grilled, salted and dried)"
+  ],
+  "edibilityNote": "Low mercury, rich in omega-3. Spoils quickly; poorly chilled fish can cause scombroid poisoning.",
+  "animal": {
+   "diet": "Phytoplankton, copepods, larval fish",
+   "habitat": "Coastal waters and bays with temperatures above 17 °C",
+   "lifespan": "About 3–4 years",
+   "size": "Usually 20–25 cm; up to 35 cm",
+   "behaviour": "Schools travel inshore along the Malabar and Konkan coasts with post-monsoon plankton blooms.",
+   "fieldMarks": [
+    "Deep, compressed mackerel body with a pointed head",
+    "Narrow dark longitudinal stripes on the upper back",
+    "Black spot near the lower margin of the pectoral fin",
+    "Golden lateral stripe in fresh fish",
+    "Five finlets behind dorsal and anal fins"
+   ],
+   "lookalikes": "Short mackerel (R. brachysoma) is deeper-bodied without back stripes; island mackerel (R. faughni) has dark spots instead of lines.",
+   "whereToSee": "Fish markets of Kerala, Goa, Mangalore, Karachi and Colombo; reef dives in the Maldives and Red Sea where schools filter-feed open-mouthed",
+   "season": "Peak fishery Sep–Mar on India's west coast",
+   "order": "Scombriformes"
+  },
+  "iucn": "LC",
+  "lore": "Ayala and bangda fry and curry are staples of Kerala, Goa and Mangalorean cooking, and the fish has been salted and sun-dried on Indian beaches for centuries.",
+  "historicalNames": [
+   "Scomber kanagurta",
+   "Kanagurta"
+  ],
+  "funFact": "The species name comes from 'kanagurta', a Telugu name recorded by Patrick Russell in his 1803 account of the fishes of Vizagapatam on the Coromandel coast."
+ },
+ {
+  "slug": "harpadon-nehereus",
+  "scientific": "Harpadon nehereus",
+  "common": "Bombay duck",
+  "otherNames": [
+   "Bombil / Bombila (Marathi)",
+   "Loitta (Bengali)",
+   "Bummalo",
+   "Long tou yu (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Synodontidae",
+  "shelves": [
+   "ocean",
+   "edible"
+  ],
+  "summary": "A soft, almost jelly-like lizardfish with needle teeth that is no duck at all. Sun-dried on bamboo racks along the Mumbai coast, its pungent fillets became a famous condiment of the British Raj.",
+  "nativeRange": "Indo-Pacific: Arabian Sea and Bay of Bengal to the South China Sea and Indonesia",
+  "regions": [
+   "Indian Ocean",
+   "Pacific Ocean",
+   "South Asia",
+   "Southeast Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Estuaries",
+   "Coastal waters",
+   "Muddy seabeds"
+  ],
+  "abilities": [
+   "Body is about 90% water, making it gelatinous and translucent",
+   "Mouth bristles with backward-pointing, barbed teeth",
+   "Gathers in huge numbers off river mouths during the monsoon"
+  ],
+  "edibility": "edible",
+  "edibleParts": [
+   "whole fish (fresh fried, curried)",
+   "dried fillets (sukha bombil)"
+  ],
+  "edibilityNote": "Eaten fresh (fried bombil) or dried. Dried Bombay duck has a strong smell. No particular toxicity concerns.",
+  "animal": {
+   "diet": "Small fish, prawns and crustaceans",
+   "habitat": "Turbid, muddy coastal waters near river mouths",
+   "lifespan": "About 2–3 years",
+   "size": "Usually 20–25 cm; up to about 40 cm",
+   "behaviour": "Feeds near the surface at night and moves inshore in large shoals with monsoon floodwater.",
+   "fieldMarks": [
+    "Soft, semi-transparent pale body",
+    "Large mouth with many fine, curved needle teeth",
+    "Tail fin three-lobed, with a middle lobe extended by the lateral line",
+    "Pectoral and pelvic fins long and dusky"
+   ],
+   "lookalikes": "Other lizardfishes (Saurida) are firmer, scaled and cylindrical; Harpadon translucens has a more transparent body.",
+   "whereToSee": "Fish markets of Mumbai (Sassoon Dock), Karachi, Chittagong; drying racks along the Konkan coast",
+   "season": "Year-round; largest catches after the monsoon",
+   "order": "Aulopiformes"
+  },
+  "iucn": "NT",
+  "lore": "One theory traces 'Bombay duck' to the mail trains of the Bombay Daak, whose carriages smelled of the dried fish; another to an English corruption of 'bombil'. An EU ban on imports in 1997 over processing rules prompted a 'Save the Bombay duck' campaign in Britain.",
+  "historicalNames": [
+   "Osmerus nehereus",
+   "Bummalo",
+   "Harpodon nehereus"
+  ],
+  "funFact": "Its genus name Harpadon means 'hook-toothed'."
+ }
+]

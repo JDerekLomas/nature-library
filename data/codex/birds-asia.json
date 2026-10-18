@@ -1,0 +1,2990 @@
+[
+ {
+  "slug": "coracias-benghalensis",
+  "scientific": "Coracias benghalensis",
+  "common": "Indian roller",
+  "otherNames": [
+   "Neelkanth (Hindi/Urdu)",
+   "Nilkontho (Bengali)",
+   "Panangkaadai (Tamil)",
+   "Zōngxiōng fófǎsēng 棕胸佛法僧 (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Coraciidae",
+  "shelves": [
+   "sacred"
+  ],
+  "summary": "A stocky, big-headed bird that looks dull brown when perched on a roadside wire, then opens its wings in flight to show electric bands of turquoise and deep violet-blue. In the breeding season the male tumbles and rolls through the air in display, the habit that gives rollers their name.",
+  "nativeRange": "Iraq and the Persian Gulf east through Pakistan, India, Nepal, Bangladesh and Sri Lanka to Myanmar",
+  "regions": [
+   "West Asia",
+   "South Asia",
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Open woodland",
+   "Farmland",
+   "Scrub",
+   "Savanna"
+  ],
+  "abilities": [
+   "Hunts by watching from an exposed perch, then dropping onto large insects, lizards and small frogs on the ground",
+   "Performs a rolling, diving aerial courtship display with loud harsh calls",
+   "Follows tractors, grass fires and grazing cattle to snatch flushed insects"
+  ],
+  "animal": {
+   "diet": "Large insects (grasshoppers, crickets, beetles), also scorpions, small lizards, frogs and rodents",
+   "habitat": "Open cultivation, grassland, light woodland and roadsides with plenty of perches",
+   "size": "About 30–34 cm long",
+   "behaviour": "Sits motionless on wires and dead branches for long spells, then drops to the ground for prey and returns to the same perch; in courtship it climbs steeply and plunges in twisting, rolling dives.",
+   "fieldMarks": [
+    "Thickset bird with large head and strong dark bill",
+    "Perched: rufous-brown breast and back, lilac-streaked throat, blue crown",
+    "In flight: brilliant bands of pale turquoise and dark violet-blue across the wings",
+    "Square blue tail with a dark terminal band"
+   ],
+   "voice": "Harsh, crow-like 'chack' and grating 'kak-kak' calls, loudest during the rolling display flight",
+   "lookalikes": "European roller (a passage migrant in Pakistan and NW India) has a plain pale-blue head and underparts with no brown or lilac breast; Indochinese roller (east of the Brahmaputra) has a dark purplish-brown face and breast without fine streaks.",
+   "whereToSee": "Common along roadsides and farmland across the Indus plains of Punjab and Sindh and over most of India; easy at Keoladeo (Bharatpur) and Ranthambore",
+   "season": "Resident; some local movements",
+   "order": "Coraciiformes"
+  },
+  "iucn": "LC",
+  "lore": "Its Hindi name Neelkanth ('blue throat') is an epithet of Shiva, and in much of north India seeing the bird on Dussehra is considered auspicious. It is the state bird of several Indian states, including Karnataka and Telangana.",
+  "funFact": "The dull brown bird on the wire is the same one that flashes vivid blue in flight; the brightest colours are hidden on the wings until it moves."
+ },
+ {
+  "slug": "acridotheres-tristis",
+  "scientific": "Acridotheres tristis",
+  "common": "Common myna",
+  "otherNames": [
+   "Maina (Hindi/Urdu)",
+   "Bhat shalik (Bengali)",
+   "Jiā bāgē 家八哥 (Chinese)",
+   "Indian myna"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Sturnidae",
+  "shelves": [],
+  "summary": "A swaggering brown starling with a black hood and a bare yellow patch of skin behind each eye, at home on every South Asian lawn, market and railway platform. Taken around the world to eat crop pests, it has become one of the most widespread and controversial birds on Earth.",
+  "nativeRange": "Iran and Central Asia through Afghanistan, Pakistan, India, Nepal, Bangladesh and Sri Lanka to Myanmar; introduced to Australia, South Africa, the Arabian Peninsula, Hawaii, Florida and many islands",
+  "regions": [
+   "Central Asia",
+   "West Asia",
+   "South Asia",
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Urban",
+   "Farmland",
+   "Open woodland"
+  ],
+  "abilities": [
+   "Thrives in cities, nesting in wall cavities, street lights and buildings",
+   "Imitates other birds and, in captivity, human speech",
+   "Gathers in communal roosts of hundreds to thousands of birds at dusk",
+   "Aggressively evicts other hole-nesting birds from nest sites"
+  ],
+  "animal": {
+   "diet": "Omnivore: insects (especially grasshoppers), fruit, grain, food scraps",
+   "habitat": "Towns, villages, farmland and open country near people",
+   "size": "About 23–25 cm long",
+   "behaviour": "Walks rather than hops, striding across lawns; pairs bob their heads and fluff their plumage at each other in noisy displays, and flocks converge on huge evening roosts with deafening chatter.",
+   "fieldMarks": [
+    "Warm brown body with glossy black head and breast",
+    "Bare yellow skin around and behind the eye; yellow bill and legs",
+    "Large white wing patch obvious in flight",
+    "White under-tail and white tail tip"
+   ],
+   "voice": "Very varied: gurgles, chattering 'kok-kok-kok', squawks and liquid whistles; alarm a harsh 'chake-chake'",
+   "lookalikes": "Bank myna is greyer with a brick-red (not yellow) bare face patch; Jungle myna is slate-grey with a tuft of feathers at the bill base and no bare face patch; Asian pied starling is black-and-white.",
+   "whereToSee": "Every town and village in Pakistan, India and Sri Lanka, e.g. Lahore, Karachi, Delhi and Colombo parks",
+   "season": "Resident year-round",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "Long kept as a talking cage-bird across the subcontinent. Introduced to Mauritius in the 1760s to control locusts and later to Australia and Hawaii, it is now listed among the IUCN Invasive Species Specialist Group's '100 of the World's Worst Invasive Alien Species'.",
+  "funFact": "It is one of only three birds on the IUCN '100 worst invasive species' list; the Red-vented bulbul and the Common starling are the other two."
+ },
+ {
+  "slug": "corvus-splendens",
+  "scientific": "Corvus splendens",
+  "common": "House crow",
+  "otherNames": [
+   "Kauwa (Hindi/Urdu)",
+   "Kāṅ (Punjabi)",
+   "Pati kak (Bengali)",
+   "Kākkai (Tamil)",
+   "Kāg (Nepali)",
+   "Jiā yā 家鸦 (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Corvidae",
+  "shelves": [
+   "sacred"
+  ],
+  "summary": "The grey-necked crow of South Asian cities, living almost entirely alongside people and scavenging from markets, rubbish heaps and rooftops. Bold, intelligent and ship-borne, it has spread to ports from East Africa to the Netherlands.",
+  "nativeRange": "Pakistan, India, Nepal, Bangladesh, Sri Lanka, the Maldives and Myanmar; introduced to East Africa, the Arabian Peninsula, Singapore and elsewhere",
+  "regions": [
+   "South Asia",
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Urban",
+   "Farmland",
+   "Coastal"
+  ],
+  "abilities": [
+   "Exploits human settlements so completely that it is rarely found away from people",
+   "Spreads by stowing away on ships, founding colonies in distant ports",
+   "Mobs predators in noisy groups and is host to the parasitic Asian koel",
+   "Gathers in communal roosts numbering thousands"
+  ],
+  "animal": {
+   "diet": "Omnivorous scavenger: food waste, carrion, insects, eggs and nestlings, fruit and grain",
+   "habitat": "Cities, towns, villages and harbours",
+   "size": "About 40 cm long",
+   "behaviour": "Highly social and quick to learn; groups gather around a dead crow and call loudly, and they steal food from people and other birds with practised timing.",
+   "fieldMarks": [
+    "Medium-sized crow with glossy black face, crown, throat, wings and tail",
+    "Contrasting grey nape, neck and breast forming a collar",
+    "Relatively slim black bill and domed forehead"
+   ],
+   "voice": "A flat, dry 'kaaw-kaaw', higher-pitched than the Large-billed crow",
+   "lookalikes": "Large-billed (Jungle) crow is all glossy black with a much heavier arched bill and deeper call.",
+   "whereToSee": "Every city of the subcontinent, from Karachi and Mumbai harbours to Colombo",
+   "season": "Resident year-round",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "In Hindu ritual crows are fed rice balls (pinda) during shraddha and Pitru Paksha as messengers of the ancestors, and a crow cawing on the roof was said in Urdu and Hindi folklore to announce an arriving guest.",
+  "funFact": "House crows reached Hoek van Holland in the Netherlands by ship and bred there, thousands of kilometres from the nearest native population."
+ },
+ {
+  "slug": "eudynamys-scolopaceus",
+  "scientific": "Eudynamys scolopaceus",
+  "common": "Asian koel",
+  "otherNames": [
+   "Koyal (Urdu/Hindi/Punjabi)",
+   "Kokila (Sanskrit)",
+   "Kokil (Bengali)",
+   "Kuyil (Tamil)",
+   "Kōili (Nepali)",
+   "Zào juān 噪鹃 (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Cuculidae",
+  "shelves": [
+   "songbird",
+   "sacred"
+  ],
+  "summary": "A large cuckoo whose rising, insistent 'ko-EL, ko-EL' is the sound of the South Asian hot season, often heard long before dawn. It lays its eggs in the nests of crows, which raise the koel chicks as their own.",
+  "nativeRange": "Pakistan and India through Sri Lanka, Bangladesh and southern China to Southeast Asia and the Greater Sundas",
+  "regions": [
+   "South Asia",
+   "Southeast Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Urban",
+   "Woodland",
+   "Farmland"
+  ],
+  "abilities": [
+   "Brood parasite: lays eggs in House crow and Large-billed crow nests in South Asia",
+   "Male lures crows away from the nest while the female slips in to lay",
+   "Unusually for cuckoos, adults are largely fruit-eaters, dispersing seeds of figs and other trees"
+  ],
+  "animal": {
+   "diet": "Mainly fruit and berries (figs, peepal, banyan); also insects and caterpillars",
+   "habitat": "Leafy gardens, orchards, groves and open woodland",
+   "size": "About 39–46 cm long",
+   "behaviour": "Skulks in dense foliage and is heard far more than seen; the male calls repeatedly from cover, each phrase rising in pitch and urgency.",
+   "fieldMarks": [
+    "Male entirely glossy blue-black with a pale greenish bill and crimson eye",
+    "Female brown, heavily spotted and barred with white and buff",
+    "Long tail and slim, rather crow-like build",
+    "Red eye in both sexes"
+   ],
+   "voice": "Male: a loud, rising 'ko-el, ko-EL, KO-EL', repeated in crescendo; also a bubbling 'kuil-kuil-kuil'. Female: a shrill 'kik-kik-kik'.",
+   "lookalikes": "The black male could be mistaken for a crow or drongo, but has a red eye, pale bill and long rounded tail; Greater coucal is larger with rufous wings.",
+   "whereToSee": "Gardens and avenues across Pakistan and India, from Lahore's Jinnah Garden to Delhi's Lodhi Garden",
+   "season": "Resident in much of its range; most vocal March–August; in northern Pakistan a summer visitor",
+   "order": "Cuculiformes"
+  },
+  "iucn": "LC",
+  "lore": "As the kokila it is a symbol of spring and longing in Sanskrit poetry, including Kalidasa, and the koyal remains a byword for a sweet voice in Urdu, Hindi and Punjabi songs.",
+  "funFact": "A koel's voice is sweet only to people: crows recognise the bird as a threat and chase it furiously."
+ },
+ {
+  "slug": "pycnonotus-cafer",
+  "scientific": "Pycnonotus cafer",
+  "common": "Red-vented bulbul",
+  "otherNames": [
+   "Bulbul (Urdu/Hindi/Punjabi)",
+   "Bulbuli (Bengali)",
+   "Hēi hóu hóng tún bēi 黑喉红臀鹎 (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Pycnonotidae",
+  "shelves": [
+   "songbird"
+  ],
+  "summary": "A perky, crested garden bird with a black head and a scarlet patch under the tail, one of the most familiar voices in South Asian courtyards. Cheerful to people but invasive on Pacific islands, it is an expert disperser of berry seeds.",
+  "nativeRange": "Pakistan, India, Sri Lanka, Nepal, Bhutan, Bangladesh and Myanmar to SW China; introduced to Hawaii, Fiji, Samoa, Tonga and parts of the Arabian Peninsula",
+  "regions": [
+   "South Asia",
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Urban",
+   "Scrub",
+   "Farmland",
+   "Open woodland"
+  ],
+  "abilities": [
+   "Disperses seeds of shrubs such as lantana, which has helped its spread on islands",
+   "Lives comfortably in gardens and will nest on verandas and in hanging plants",
+   "Pairs mob snakes, cats and owls with loud alarm calls"
+  ],
+  "animal": {
+   "diet": "Fruit, berries, nectar, petals and insects",
+   "habitat": "Gardens, scrub, farmland edges and dry open woodland",
+   "size": "About 20 cm long",
+   "behaviour": "Pairs keep up a constant cheerful chatter, and the male displays by fluffing his white rump and spreading his tail to show the red vent.",
+   "fieldMarks": [
+    "Short black crest and black head, throat and breast",
+    "Scaly dark-brown back and breast",
+    "Bright crimson undertail (vent) and white rump",
+    "Dark tail with white tip"
+   ],
+   "voice": "Cheery, rather fluty 'be-care-ful' or 'ginger beer' phrases and a sharp 'peep-peep' alarm",
+   "lookalikes": "Red-whiskered bulbul has a tall pointed crest, white cheeks and a red whisker patch; Himalayan bulbul (northern Pakistan) has a white cheek and yellow vent; White-eared bulbul (Sindh/Punjab) has white cheeks and a yellow vent.",
+   "whereToSee": "Gardens and parks throughout Pakistan and India, e.g. Islamabad's Margalla foothills, Lahore and Karachi gardens",
+   "season": "Resident year-round",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "The 'bulbul' of Persian and Urdu poetry is really the nightingale, but in South Asia the name passed to these garden birds. In Assam, captive bulbuls were traditionally set to fight at Hajo's Hayagriva Madhava temple during Magh Bihu.",
+  "funFact": "It is on the IUCN list of the 100 worst invasive alien species because of its effects on Pacific island crops and native birds."
+ },
+ {
+  "slug": "cinnyris-asiaticus",
+  "scientific": "Cinnyris asiaticus",
+  "common": "Purple sunbird",
+  "otherNames": [
+   "Shakar khora (Urdu/Hindi)",
+   "Zǐsè huāmìniǎo 紫色花蜜鸟 (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Nectariniidae",
+  "shelves": [
+   "pollinator"
+  ],
+  "summary": "A tiny nectar-feeder whose breeding male is glossy purple-black that flashes metallic blue and green in the sun. It fills the ecological role hummingbirds play in the Americas, but usually perches rather than hovers to feed.",
+  "nativeRange": "The Persian Gulf, Oman and Iran through Afghanistan, Pakistan, India, Nepal, Bangladesh and Sri Lanka to Myanmar and Indochina",
+  "regions": [
+   "West Asia",
+   "South Asia",
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Urban",
+   "Scrub",
+   "Open woodland",
+   "Farmland"
+  ],
+  "abilities": [
+   "Pollinates many flowering plants as it feeds on nectar with a long, curved bill and tubular tongue",
+   "Can hover briefly at flowers like a hummingbird",
+   "Weaves a hanging purse-shaped nest bound with spider silk and decorated with debris",
+   "Pierces the base of long tubular flowers to 'rob' nectar"
+  ],
+  "animal": {
+   "diet": "Nectar, small insects and spiders",
+   "habitat": "Gardens, dry scrub, thorn forest and open woodland",
+   "size": "About 10 cm long",
+   "behaviour": "Restless and quick, flicking its wings as it moves between flowers; the hanging nest often has a little porch over the side entrance.",
+   "fieldMarks": [
+    "Very small with a long, down-curved black bill",
+    "Breeding male: all glossy purple-black, iridescent in sunlight, with yellow and orange tufts under the wing in display",
+    "Female: olive-brown above, pale yellow below",
+    "Non-breeding male resembles female but with a dark stripe down the centre of the breast"
+   ],
+   "voice": "Sharp, metallic 'chwit' or 'zit' calls; male sings a rapid, twittering 'cheewit-cheewit-swee'",
+   "lookalikes": "Purple-rumped sunbird (peninsular India, Sri Lanka) has a maroon back and yellow belly; Loten's sunbird has a much longer bill and a maroon breast band.",
+   "whereToSee": "Flowering gardens across Pakistan and India; common on bottlebrush and hibiscus in Karachi, Lahore and Delhi",
+   "season": "Resident; males in breeding plumage mainly in spring and summer",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "Its Urdu and Hindi name shakar khora means 'sugar eater'.",
+  "funFact": "In the Old World, sunbirds evolved to fill the nectar-feeding niche independently of the New World hummingbirds, a classic case of convergent evolution."
+ },
+ {
+  "slug": "psittacula-krameri",
+  "scientific": "Psittacula krameri",
+  "common": "Rose-ringed parakeet",
+  "otherNames": [
+   "Tota (Urdu/Hindi/Punjabi)",
+   "Tiya (Bengali)",
+   "Kili (Tamil)",
+   "Shuka (Sanskrit)",
+   "Hóng lǐng lǜ yīngwǔ 红领绿鹦鹉 (Chinese)",
+   "Ring-necked parakeet"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Psittaculidae",
+  "shelves": [
+   "sacred"
+  ],
+  "summary": "A bright green, long-tailed parrot whose screeching flocks streak over South Asian cities and farmland. It is among the most successful parrots on Earth, with feral colonies thriving in London, Amsterdam, Istanbul and dozens of other cities.",
+  "nativeRange": "Sahel belt of Africa and the Indian subcontinent (Pakistan, India, Nepal, Bangladesh, Sri Lanka) to Myanmar; feral populations across Europe, the Middle East, East Asia and the Americas",
+  "regions": [
+   "South Asia",
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Urban",
+   "Farmland",
+   "Open woodland"
+  ],
+  "abilities": [
+   "Survives freezing European winters in feral colonies by exploiting garden bird feeders",
+   "Learns human speech well in captivity",
+   "Raids orchards and grain fields in large flocks, cracking seeds with its hooked bill",
+   "Nests early in tree holes, competing with native hole-nesters"
+  ],
+  "animal": {
+   "diet": "Seeds, grain, fruit, buds, flowers and nectar",
+   "habitat": "Open woodland, farmland, orchards, parks and city avenues",
+   "size": "About 40 cm including the long tail",
+   "behaviour": "Gathers in large, raucous communal roosts in city trees each evening; pairs nest in natural holes or excavate soft wood.",
+   "fieldMarks": [
+    "Bright green with a very long, pointed blue-green tail",
+    "Deep red hooked bill",
+    "Male has a black chin stripe and a thin rose-pink and black neck ring; females and young lack the ring",
+    "Fast, direct flight with rapid wingbeats"
+   ],
+   "voice": "Loud, shrill screeching 'kee-ak' calls, especially in flight",
+   "lookalikes": "Alexandrine parakeet is much larger with a heavier bill and a maroon shoulder patch; Plum-headed parakeet has a plum-red (male) or grey (female) head; Slaty-headed parakeet (Himalaya) has a grey head.",
+   "whereToSee": "Abundant in cities and farmland across Pakistan and India, from Lahore and Islamabad to Delhi; also London's parks",
+   "season": "Resident year-round",
+   "order": "Psittaciformes"
+  },
+  "iucn": "LC",
+  "lore": "In Indian myth the parrot (shuka) is the mount of Kamadeva, god of love, and the sage Shuka narrates the Bhagavata Purana. On South Asian streets, trained parakeets still pick fortune cards for passers-by.",
+  "funFact": "Feral rose-ringed parakeets have bred in Britain since at least the late 1960s, and the London population numbers in the tens of thousands."
+ },
+ {
+  "slug": "milvus-migrans",
+  "scientific": "Milvus migrans",
+  "common": "Black kite",
+  "otherNames": [
+   "Cheel (Urdu/Hindi/Punjabi)",
+   "Chil (Bengali)",
+   "Hēi yuān 黑鸢 (Chinese)",
+   "Tobi トビ (Japanese)",
+   "Pariah kite"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Accipitridae",
+  "shelves": [
+   "migrant"
+  ],
+  "summary": "A medium-sized brown raptor with a forked tail that wheels in hundreds over South Asian cities, scavenging from rubbish dumps, slaughterhouses and markets. It is likely one of the most numerous birds of prey in the world.",
+  "nativeRange": "Much of Europe, Africa, Asia and Australia; absent from the Americas",
+  "regions": [
+   "Europe",
+   "Sub-Saharan Africa",
+   "North Africa",
+   "West Asia",
+   "Central Asia",
+   "South Asia",
+   "East Asia",
+   "Southeast Asia",
+   "Australia"
+  ],
+  "biomes": [
+   "Urban",
+   "Farmland",
+   "Wetland",
+   "Open woodland"
+  ],
+  "abilities": [
+   "Steers with its long forked tail, twisting it constantly to manoeuvre in crowded city air",
+   "Snatches food from the ground, water or even people's hands in flight without landing",
+   "Northern populations migrate thousands of kilometres, while South Asian city birds are resident",
+   "Gathers at grass fires to catch fleeing insects and small animals"
+  ],
+  "animal": {
+   "diet": "Carrion, refuse, fish, rodents, insects, small birds; opportunistic scavenger",
+   "habitat": "Cities, villages, river banks, wetlands and open country",
+   "size": "About 50–60 cm long; wingspan about 130–155 cm",
+   "behaviour": "Soars and circles over cities for hours, then swoops down to snatch scraps with its feet; on summer days flocks of hundreds may circle together.",
+   "fieldMarks": [
+    "Dark brown raptor with a long, shallowly forked tail (looks square when fully spread)",
+    "Long angled wings with a pale panel on the upperwing and paler 'windows' near the wingtips below",
+    "Pale head with dark eye-patch; yellow feet",
+    "Constant twisting of the tail in flight"
+   ],
+   "voice": "A high, quavering whinny 'pee-errrr', often given in flight",
+   "lookalikes": "Brahminy kite is chestnut with a white head and a rounded tail; Red kite (rare in Asia) is rufous with a deeply forked tail; Marsh harriers have long unforked tails and glide with raised wings.",
+   "whereToSee": "Over every large South Asian city, especially Delhi, Lahore, Karachi and Dhaka",
+   "season": "Resident in South Asian cities; the black-eared form is a winter visitor from Central and East Asia",
+   "order": "Accipitriformes"
+  },
+  "iucn": "LC",
+  "lore": "In Delhi's Wazirabad, brothers Nadeem Shehzad and Mohammad Saud have rescued thousands of injured kites, many cut by kite-flying strings; their work is the subject of the 2022 documentary 'All That Breathes'.",
+  "funFact": "Black kites in northern Australia have been documented picking up burning sticks and dropping them to spread grass fires, flushing prey."
+ },
+ {
+  "slug": "tachyspiza-badia",
+  "scientific": "Tachyspiza badia",
+  "common": "Shikra",
+  "otherNames": [
+   "Shikra (Urdu/Hindi)",
+   "Hè ěr yīng 褐耳鹰 (Chinese)",
+   "Accipiter badius (former name)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Accipitridae",
+  "shelves": [],
+  "summary": "A small, pale grey hawk that hunts lizards and birds in gardens and groves across South Asia and Africa. Its name comes from the same root as 'shikar', the hunt, and it was flown by falconers in the subcontinent.",
+  "nativeRange": "Sub-Saharan Africa and from southern Central Asia and Iran through Pakistan, India and Sri Lanka to southern China and Southeast Asia",
+  "regions": [
+   "Sub-Saharan Africa",
+   "Central Asia",
+   "West Asia",
+   "South Asia",
+   "Southeast Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Open woodland",
+   "Urban",
+   "Farmland",
+   "Savanna"
+  ],
+  "abilities": [
+   "Ambushes prey from a hidden perch with a short, fast dash",
+   "Takes many lizards and large insects from the ground, as well as small birds",
+   "Lives quietly in city parks and gardens, often unnoticed"
+  ],
+  "animal": {
+   "diet": "Lizards, small birds, rodents, large insects and frogs",
+   "habitat": "Open woodland, groves, gardens and farmland",
+   "size": "About 26–30 cm long",
+   "behaviour": "Sits in a leafy tree and launches a short, rapid attack, flying low and fast; small birds give sharp alarm calls when it appears, and Black drongos imitate its call.",
+   "fieldMarks": [
+    "Small hawk with short rounded wings and a medium tail",
+    "Adult pale blue-grey above with fine rufous barring below",
+    "Thin dark stripe down the centre of the throat",
+    "Red (male) or yellow (female) eye; yellow legs"
+   ],
+   "voice": "A loud, shrill 'ti-tui' or 'kik-ki', repeated; often heard before it is seen",
+   "lookalikes": "Eurasian sparrowhawk (winter in Pakistan and the Himalaya) has a longer tail and darker grey back; Besra is darker with a bold throat stripe and heavier barring; Shikra's pale grey back and fine rufous bars are distinctive.",
+   "whereToSee": "City parks, orchards and canal-side trees across Pakistan and India",
+   "season": "Resident year-round",
+   "order": "Accipitriformes"
+  },
+  "iucn": "LC",
+  "lore": "Shikras were trained for small-game hawking in Mughal and later Indian falconry, and the English word 'shikra' was taken directly from Hindustani.",
+  "funFact": "A 2024 genetic study broke up the old genus Accipiter, and the Shikra was moved into the revived genus Tachyspiza."
+ },
+ {
+  "slug": "lophophorus-impejanus",
+  "scientific": "Lophophorus impejanus",
+  "common": "Himalayan monal",
+  "otherNames": [
+   "Danphe (Nepali)",
+   "Monal / Munal (Hindi/Urdu)",
+   "Zōng wěi hóng zhì 棕尾虹雉 (Chinese)",
+   "Impeyan pheasant"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Phasianidae",
+  "shelves": [
+   "marvel",
+   "sacred"
+  ],
+  "summary": "A pheasant of high Himalayan meadows and forests whose male shimmers in metallic green, copper, purple and blue, crowned by a wiry crest of spatulate plumes. It is the national bird of Nepal.",
+  "nativeRange": "Himalaya from eastern Afghanistan and northern Pakistan through India, Nepal and Bhutan to southern Tibet and NE India",
+  "regions": [
+   "South Asia",
+   "Central Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Montane forest",
+   "Alpine meadow"
+  ],
+  "abilities": [
+   "Digs vigorously with its strong curved bill for roots, tubers and insect larvae, even through snow",
+   "Lives between about 2,100 and 4,500 m, moving downslope in winter",
+   "Male's plumage is iridescent structural colour that shifts with the angle of light"
+  ],
+  "animal": {
+   "diet": "Tubers, roots, shoots, seeds, berries and invertebrates",
+   "habitat": "Oak, rhododendron and conifer forest with open grassy slopes and alpine meadows",
+   "size": "About 63–72 cm long; males up to about 2.4 kg",
+   "behaviour": "Feeds in loose groups on open slopes at dawn and dusk; when flushed it hurtles downhill with a ringing whistle.",
+   "fieldMarks": [
+    "Male: iridescent green head, crest of spatula-tipped plumes, copper nape, purple-blue back",
+    "Male: conspicuous white rump and cinnamon-rufous tail in flight",
+    "Female: mottled brown with a white throat, bare blue skin around the eye and white-tipped tail",
+    "Heavy, curved bill used for digging"
+   ],
+   "voice": "Loud, plaintive whistles 'kur-leiu' or 'kleeh-wick', often heard at dawn and when flushed",
+   "lookalikes": "Sclater's monal (eastern Himalaya) has a curly crest and white-tipped tail; Chinese monal (central China, outside its range) has a drooping purple crest rather than spatulate plumes; Koklass pheasant is streaked grey with a long dark ear-tuft.",
+   "whereToSee": "Kaghan and Neelum valleys and Ayubia in Pakistan; Tungnath-Chopta and Kedarnath in Uttarakhand; Sagarmatha and Langtang national parks in Nepal",
+   "season": "Resident; descends to lower forests in winter, easiest to see in spring and autumn",
+   "order": "Galliformes"
+  },
+  "iucn": "LC",
+  "lore": "As the Danphe it is Nepal's national bird and appears on Nepalese stamps; it is also the state bird of Uttarakhand. Men in Himachal Pradesh once wore the male's crest on their caps, a practice that drove hunting until legal protection.",
+  "funFact": "The old English name 'Impeyan pheasant' and the species epithet honour Lady Mary Impey, who kept a menagerie in 18th-century Calcutta."
+ },
+ {
+  "slug": "tragopan-melanocephalus",
+  "scientific": "Tragopan melanocephalus",
+  "common": "Western tragopan",
+  "otherNames": [
+   "Jujurana (Himachali; 'king of birds')",
+   "Hēi tóu jiǎo zhì 黑头角雉 (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Phasianidae",
+  "shelves": [
+   "endangered",
+   "marvel"
+  ],
+  "summary": "Perhaps the rarest pheasant of the western Himalaya, the male is black and crimson, spangled with white spots, and in display inflates a vivid blue-and-pink throat lappet and two fleshy blue horns. It lives in a narrow belt of temperate forest in Pakistan and India.",
+  "nativeRange": "Western Himalaya: Kohistan and Kashmir in northern Pakistan, Jammu & Kashmir, Himachal Pradesh and western Uttarakhand in India",
+  "regions": [
+   "South Asia"
+  ],
+  "biomes": [
+   "Montane forest"
+  ],
+  "abilities": [
+   "Male inflates a bib-like lappet of bare skin and erects fleshy 'horns' during courtship display",
+   "Survives on leaves, buds and seeds through snowy Himalayan winters",
+   "Unusually for a pheasant, often feeds and roosts in trees"
+  ],
+  "animal": {
+   "diet": "Leaves, shoots, buds, seeds, acorns and some invertebrates",
+   "habitat": "Dense temperate and sub-alpine forest of oak, fir and rhododendron with thick undergrowth, about 1,750–3,600 m",
+   "size": "Males about 55–72 cm long (published figures vary)",
+   "behaviour": "Extremely shy and seldom seen; males call from steep, forested slopes in spring and display hidden from view.",
+   "fieldMarks": [
+    "Male: black head and breast with crimson neck, the body covered in white, black-edged spots",
+    "Male: bare red facial skin, blue throat lappet and fleshy blue horns visible in display",
+    "Female: grey-brown, finely vermiculated and spotted with white",
+    "Heavy, short-tailed pheasant shape"
+   ],
+   "voice": "A loud, wailing, goat-like 'waa-waa-oo-a', given mostly at dawn in spring",
+   "lookalikes": "Satyr tragopan (central and eastern Himalaya) is overall deep red with white spots and a red breast; the ranges barely meet, and the Western's black-and-grey body and crimson neck separate it.",
+   "whereToSee": "Great Himalayan National Park and Daranghati Sanctuary in Himachal Pradesh; Palas Valley in Kohistan, Pakistan",
+   "season": "Resident; males call April–June; moves lower in winter",
+   "order": "Galliformes"
+  },
+  "iucn": "VU",
+  "lore": "As the 'jujurana' it is the state bird of Himachal Pradesh, and a captive breeding programme at Sarahan in Himachal has bred the species since the 1990s.",
+  "funFact": "The fleshy 'horns' that give tragopans their name (Greek for 'goat-Pan') are bare skin that the male erects only during display."
+ },
+ {
+  "slug": "catreus-wallichii",
+  "scientific": "Catreus wallichii",
+  "common": "Cheer pheasant",
+  "otherNames": [
+   "Chir (Hindi/Nepali)",
+   "Cǎi zhì 彩雉 (Chinese)",
+   "Wallich's pheasant"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Phasianidae",
+  "shelves": [
+   "endangered"
+  ],
+  "summary": "A pale, long-tailed pheasant of steep grassy Himalayan slopes, buff-grey and heavily barred, with a long backward-pointing crest. Its dependence on scrubby grassland maintained by grazing and fire makes it unusual among Himalayan pheasants.",
+  "nativeRange": "Western and central Himalaya from northern Pakistan (now very rare) through Himachal Pradesh and Uttarakhand to central Nepal",
+  "regions": [
+   "South Asia"
+  ],
+  "biomes": [
+   "Montane grassland",
+   "Scrub"
+  ],
+  "abilities": [
+   "Lives on precipitous grass and scrub slopes most pheasants avoid",
+   "Digs for roots and tubers with its bill",
+   "Pairs and families call in loud chorus at dawn and dusk"
+  ],
+  "animal": {
+   "diet": "Roots, tubers, seeds, grubs and insects",
+   "habitat": "Steep grassy slopes with scattered scrub and trees, roughly 1,200–3,000 m",
+   "size": "Males about 90–118 cm including the long tail",
+   "behaviour": "Coveys feed quietly in dense grass and are very hard to see; they call loudly at dawn and dusk and fly off downhill when disturbed.",
+   "fieldMarks": [
+    "Pale buff and grey body barred and spotted with black",
+    "Very long, broadly barred, pointed tail",
+    "Long, wispy crest swept back from the crown",
+    "Bare red skin around the eye"
+   ],
+   "voice": "A loud, ringing 'chir-a-pir, chir-a-pir, chir chir chirwa', given in duet or chorus at dawn and dusk",
+   "lookalikes": "Kalij pheasant is dark blue-black with a white rump; Koklass is greyer with a dark head and long ear-tufts; Cheer's pale barred plumage and very long tail are distinctive.",
+   "whereToSee": "Majathal Sanctuary and Chail in Himachal Pradesh; Dhorpatan Hunting Reserve in Nepal",
+   "season": "Resident; most vocal in spring",
+   "order": "Galliformes"
+  },
+  "iucn": "VU",
+  "lore": "The scientific name honours Nathaniel Wallich, the Danish botanist who directed the Calcutta Botanic Garden in the early 19th century.",
+  "funFact": "Unlike most pheasants, it seems to depend on grassland kept open by village grazing, grass-cutting and burning, so changes in traditional land use can harm it."
+ },
+ {
+  "slug": "alectoris-chukar",
+  "scientific": "Alectoris chukar",
+  "common": "Chukar partridge",
+  "otherNames": [
+   "Chakor (Urdu/Punjabi/Hindi)",
+   "Kabk (Persian)",
+   "Shí jī 石鸡 (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Phasianidae",
+  "shelves": [
+   "edible",
+   "sacred"
+  ],
+  "summary": "A plump, grey and buff partridge of rocky hillsides, with a black necklace framing a creamy throat and bold black bars on its flanks. It is the national bird of Pakistan and a celebrated figure of Urdu and Punjabi poetry.",
+  "nativeRange": "SE Europe and Turkey through the Middle East, Central Asia, Afghanistan, Pakistan and the western Himalaya to China and Mongolia; introduced in western North America, Hawaii and New Zealand",
+  "regions": [
+   "Europe",
+   "West Asia",
+   "Central Asia",
+   "South Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Rocky hillside",
+   "Dry scrub",
+   "Montane grassland"
+  ],
+  "abilities": [
+   "Runs uphill to escape, using wing-flapping to boost traction on steep slopes",
+   "Survives arid mountains by obtaining much of its water from green plants and insects",
+   "Introduced populations thrive in the dry ranges of the American West"
+  ],
+  "animal": {
+   "diet": "Seeds, grasses, leaves, berries and insects",
+   "habitat": "Rocky, sparsely vegetated hills and mountain slopes, from near sea level to above 4,000 m",
+   "size": "About 32–35 cm long",
+   "behaviour": "Coveys run up slopes rather than fly, then burst into the air and glide downhill on bowed wings; males call loudly from rocks.",
+   "fieldMarks": [
+    "Grey-brown back and blue-grey breast",
+    "Creamy white throat and face bordered by a black band through the eye and around the throat",
+    "Bold black-and-chestnut bars on pale flanks",
+    "Red bill, red legs and red eye-ring"
+   ],
+   "voice": "A loud, accelerating 'chuck-chuck-chukar-chukar', from which its name derives",
+   "lookalikes": "Rock partridge (SE Europe) has a white throat without buff tones; See-see partridge (Pakistan's low hills) is much smaller and sandy with no black necklace; Red-legged partridge (W Europe) has a streaked black necklace.",
+   "whereToSee": "Salt Range, Margalla Hills, Balochistan uplands and Gilgit-Baltistan in Pakistan; Ladakh and Spiti in India",
+   "season": "Resident year-round",
+   "order": "Galliformes"
+  },
+  "iucn": "LC",
+  "lore": "In Urdu, Punjabi and Hindi poetry the chakor is said to gaze at the moon all night and drink its light, a symbol of the lover's devoted longing. It is Pakistan's national bird, and chukars are traditionally kept and fought in the northwest.",
+  "funFact": "Introduced to Nevada and other western US states for hunting, the chukar now thrives in rugged country where few native gamebirds live."
+ },
+ {
+  "slug": "ortygornis-pondicerianus",
+  "scientific": "Ortygornis pondicerianus",
+  "common": "Grey francolin",
+  "otherNames": [
+   "Teetar (Urdu/Hindi/Punjabi)",
+   "Francolinus pondicerianus (former name)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Phasianidae",
+  "shelves": [
+   "edible"
+  ],
+  "summary": "A finely barred grey-brown partridge of dry plains whose loud, rhythmic calls ring across the farmlands of Pakistan and India at dawn. It is the 'teetar' of village life, long kept as a caged songbird and fighting bird in Punjab.",
+  "nativeRange": "SE Iran and the Persian Gulf through Pakistan, India and Nepal's terai to Sri Lanka; introduced to the Andaman Islands, Hawaii and elsewhere",
+  "regions": [
+   "West Asia",
+   "South Asia"
+  ],
+  "biomes": [
+   "Dry scrub",
+   "Farmland",
+   "Semi-desert"
+  ],
+  "abilities": [
+   "Thrives in arid scrub and cultivated plains with little cover",
+   "Males call in duet with neighbours to proclaim territory",
+   "Prefers running to flight, escaping through crop fields"
+  ],
+  "animal": {
+   "diet": "Seeds, grain, shoots and insects such as termites and beetles",
+   "habitat": "Open dry plains, thorn scrub, farmland edges and semi-desert",
+   "size": "About 30–34 cm long",
+   "behaviour": "Pairs and small coveys forage on the ground in early morning and late afternoon and roost in thorny trees and bushes at night.",
+   "fieldMarks": [
+    "Grey-brown upperparts finely barred with buff and chestnut",
+    "Pale, densely cross-barred underparts",
+    "Rufous-buff throat bordered by a thin dark line",
+    "Chestnut outer tail feathers visible in flight"
+   ],
+   "voice": "A loud, ringing, repeated 'ka-tee-tar, ka-tee-tar' or 'pateela-pateela', often accelerating; one of the defining dawn sounds of the Indus plains",
+   "lookalikes": "Black francolin male is black with a white cheek and chestnut collar; females of Black francolin have a chestnut patch on the hindneck; Painted francolin (central India) is spotted white on black.",
+   "whereToSee": "Common in dry farmland and scrub across Punjab and Sindh, Thar Desert fringes and peninsular India",
+   "season": "Resident year-round",
+   "order": "Galliformes"
+  },
+  "iucn": "LC",
+  "lore": "The calling teetar in a cane cage is a traditional sight in rural Punjab, and sayings about the bird recur in Punjabi and Urdu folk speech; teetar fighting was a widespread village pastime.",
+  "funFact": "The species name pondicerianus refers to Pondicherry, the French colony in southern India from which early specimens reached Europe."
+ },
+ {
+  "slug": "dicrurus-macrocercus",
+  "scientific": "Dicrurus macrocercus",
+  "common": "Black drongo",
+  "otherNames": [
+   "Kotwal (Hindi/Urdu; 'policeman')",
+   "Finge (Bengali)",
+   "Hēi juǎn wěi 黑卷尾 (Chinese)",
+   "King crow"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Dicruridae",
+  "shelves": [],
+  "summary": "A glossy black, fork-tailed bird that rides on grazing cattle and fearlessly dive-bombs crows, kites and eagles that come near its nest. Smaller birds often nest close to drongos for protection.",
+  "nativeRange": "SE Iran and Afghanistan through Pakistan, India, Sri Lanka, Nepal and Bangladesh to southern China, Southeast Asia and Java; introduced to the Mariana Islands",
+  "regions": [
+   "West Asia",
+   "South Asia",
+   "East Asia",
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Farmland",
+   "Open woodland",
+   "Grassland",
+   "Urban"
+  ],
+  "abilities": [
+   "Aggressively attacks much larger birds of prey and crows near its nest",
+   "Hawks flying insects stirred up by cattle, tractors and grass fires",
+   "Mimics the calls of other species, including the Shikra"
+  ],
+  "animal": {
+   "diet": "Insects caught in the air or on the ground: grasshoppers, moths, termites, bees; occasionally small vertebrates",
+   "habitat": "Open farmland, grassland, roadsides and light woodland",
+   "size": "About 28–31 cm including the tail",
+   "behaviour": "Perches on wires, fence posts and the backs of buffalo and cattle, sallying out after insects; during the breeding season it will chase and strike raptors many times its size.",
+   "fieldMarks": [
+    "All glossy blue-black plumage",
+    "Long, deeply forked tail with the outer tips flaring outward",
+    "Small white spot at the gape (corner of the bill) in adults",
+    "Upright posture on exposed perches"
+   ],
+   "voice": "Harsh, varied 'ti-tiu' and 'cheece-cheece' calls; often one of the first birds to call before dawn",
+   "lookalikes": "Ashy drongo is slate-grey with a red eye; Bronzed and Racket-tailed drongos are forest birds, the latter with long wire-like tail rackets; male Asian koel is black but has a red eye and pale bill.",
+   "whereToSee": "Common over farmland across Pakistan and India, easily seen on livestock along the Indus and Ganges plains",
+   "season": "Mostly resident; northern populations (including much of Pakistan) partly migratory, more widespread in summer",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "Its Hindi and Urdu name kotwal means the town's police chief, a nod to the way it patrols and chases off intruders.",
+  "funFact": "Smaller birds such as bulbuls and orioles are known to nest close to drongo nests, apparently gaining protection from its aggressive defence."
+ },
+ {
+  "slug": "terpsiphone-paradisi",
+  "scientific": "Terpsiphone paradisi",
+  "common": "Indian paradise flycatcher",
+  "otherNames": [
+   "Doodhraj (Hindi; 'milk king')",
+   "Shah bulbul (Urdu/Hindi)",
+   "Dudhraj (Bengali)",
+   "Asian paradise flycatcher"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Monarchidae",
+  "shelves": [
+   "migrant"
+  ],
+  "summary": "A small flycatcher whose adult male trails two ribbon-like tail feathers several times its body length, in either rufous or white with a glossy black crested head. Watching one float through a shady grove is among the classic sights of the South Asian monsoon.",
+  "nativeRange": "Breeds from Turkestan and Afghanistan through northern Pakistan, the Himalaya and India to Sri Lanka and Bangladesh; northern birds winter in southern India and Sri Lanka",
+  "regions": [
+   "Central Asia",
+   "South Asia"
+  ],
+  "biomes": [
+   "Woodland",
+   "Riverine forest",
+   "Gardens"
+  ],
+  "abilities": [
+   "Male grows tail streamers that can add more than 20 cm to a body of about 20 cm",
+   "Catches insects in agile aerial sallies beneath the canopy",
+   "Males exist in two colour morphs, rufous and white"
+  ],
+  "animal": {
+   "diet": "Flying insects: flies, moths, butterflies, beetles",
+   "habitat": "Shady deciduous woodland, groves, orchards and wooded gardens, often near water",
+   "size": "Body about 19–22 cm; male's streamers add up to about 24 cm",
+   "behaviour": "Both parents share incubation, including the long-tailed male, whose streamers hang over the side of the small cup nest.",
+   "fieldMarks": [
+    "Glossy black head with short crest and blue eye-ring in both sexes",
+    "Adult male: very long central tail streamers, either chestnut-rufous or white",
+    "Female and young male: rufous back and tail, grey breast, no streamers",
+    "Small blue-grey bill"
+   ],
+   "voice": "A harsh, grating 'chè' or 'chwè' call; a short, warbling song in the breeding season",
+   "lookalikes": "Amur paradise flycatcher (passage in NE India, SE Asia) has a darker grey throat and less contrasting hood; Blyth's paradise flycatcher (NE India to SE Asia) is very similar; the long tail separates males from all other South Asian flycatchers.",
+   "whereToSee": "Margalla Hills National Park near Islamabad and the Murree foothills in summer; Corbett, Pench and Kanha in India; widespread in Sri Lanka in winter",
+   "season": "Summer visitor to Pakistan and northern India (Apr–Sep); resident or winter visitor in the south",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "It is the state bird of Madhya Pradesh, and the Urdu name shah bulbul ('king bulbul') reflects its regal tail.",
+  "funFact": "Young males start out rufous like females, and some white males turn white only after several moults."
+ },
+ {
+  "slug": "copsychus-saularis",
+  "scientific": "Copsychus saularis",
+  "common": "Oriental magpie-robin",
+  "otherNames": [
+   "Doel (Bengali)",
+   "Dahiyal / Dhayal (Hindi)",
+   "Què qú 鹊鸲 (Chinese)",
+   "Murai kampung (Malay)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Muscicapidae",
+  "shelves": [
+   "songbird",
+   "sacred"
+  ],
+  "summary": "A pied black-and-white bird that cocks its tail and sings sweet, varied songs from rooftops and garden trees at dawn. As the doel, it is the national bird of Bangladesh.",
+  "nativeRange": "Pakistan, India, Sri Lanka, Nepal, Bangladesh and Myanmar through southern China to Southeast Asia",
+  "regions": [
+   "South Asia",
+   "East Asia",
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Urban",
+   "Gardens",
+   "Open woodland",
+   "Farmland"
+  ],
+  "abilities": [
+   "Rich, varied song that includes mimicry of other birds",
+   "Nests readily in wall holes and nest boxes in villages and towns",
+   "Males defend territories fiercely and sing through the hottest months"
+  ],
+  "animal": {
+   "diet": "Insects and other invertebrates; occasionally small lizards, nectar and fruit",
+   "habitat": "Gardens, villages, open woodland and cultivation",
+   "size": "About 19–21 cm long",
+   "behaviour": "Hops on the ground with tail cocked and fanned, flicking it up and down; males sing from exposed perches especially at dawn.",
+   "fieldMarks": [
+    "Male: glossy blue-black head, breast and upperparts with a white belly",
+    "Bold white wing stripe and white outer tail feathers",
+    "Female: same pattern but grey where the male is black",
+    "Tail often cocked upright"
+   ],
+   "voice": "Sweet, varied song of whistles and warbles, often with mimicry; scolding 'chrrr' alarm",
+   "lookalikes": "White-rumped shama has a long tail, orange belly and white rump; Pied bushchat is smaller with a short tail and no white tail sides; Indian robin male is black with a chestnut vent.",
+   "whereToSee": "Gardens in Dhaka, Kolkata and Colombo; Lahore's and Islamabad's leafy suburbs; widespread in Southeast Asian towns",
+   "season": "Resident year-round; most song from February to June",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "The doel is Bangladesh's national bird and gives its name to Doel Chattar, a well-known monument in Dhaka. In Southeast Asia it was long trapped and kept for its song, causing declines in Singapore and parts of Indonesia."
+ },
+ {
+  "slug": "pitta-brachyura",
+  "scientific": "Pitta brachyura",
+  "common": "Indian pitta",
+  "otherNames": [
+   "Navrang / Naurang (Hindi/Urdu; 'nine colours')",
+   "Yìndù bāsè dōng 印度八色鸫 (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Pittidae",
+  "shelves": [
+   "migrant"
+  ],
+  "summary": "A plump, short-tailed ground bird painted green, sky-blue, buff, black and scarlet, which hops on the forest floor turning over leaves. It migrates within the subcontinent, arriving in northern forests with the monsoon to breed.",
+  "nativeRange": "Breeds in the Himalayan foothills (from NE Pakistan to Nepal), central and western India; winters in peninsular India and Sri Lanka",
+  "regions": [
+   "South Asia"
+  ],
+  "biomes": [
+   "Deciduous forest",
+   "Scrub forest",
+   "Gardens"
+  ],
+  "abilities": [
+   "Migrates at night within South Asia and is sometimes found exhausted in towns",
+   "Flicks dead leaves aside with its bill to expose insects and worms",
+   "Builds a large domed nest of twigs and leaves on or near the ground"
+  ],
+  "animal": {
+   "diet": "Insects, earthworms, snails and other ground invertebrates",
+   "habitat": "Deciduous and evergreen forest undergrowth, scrub jungle, well-vegetated gardens",
+   "size": "About 15–19 cm long",
+   "behaviour": "Mostly silent and secretive, but calls loudly at dawn and dusk, often from a tree perch in the breeding season.",
+   "fieldMarks": [
+    "Stocky, almost tailless bird with long legs",
+    "Bright green back, shining blue patch on the wing and rump",
+    "Buff underparts with a scarlet-crimson belly and vent",
+    "Bold black eye-stripe with white above, and a buff crown stripe"
+   ],
+   "voice": "A loud, clear, two-note whistle 'wheet-tew', given mostly at dawn and dusk",
+   "lookalikes": "Hooded pitta (NE India, Southeast Asia) has a black head with a chestnut crown and no white supercilium; Blue-winged pitta has a darker head and more blue in the wing.",
+   "whereToSee": "Breeding forests of Uttarakhand, Madhya Pradesh and Maharashtra; wintering in Sri Lanka's dry zone and the Western Ghats; occasionally Margalla Hills, Pakistan",
+   "season": "Summer (monsoon) breeder in the north (May–Sep); winter visitor in the south and Sri Lanka (Oct–Apr)",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "Its folk name navrang, 'nine colours', is used across north India for a bird whose plumage seems to hold every colour of the forest.",
+  "funFact": "Migrating Indian pittas regularly turn up in cities in southern India and Sri Lanka after striking buildings during their night flights."
+ },
+ {
+  "slug": "psilopogon-haemacephalus",
+  "scientific": "Psilopogon haemacephalus",
+  "common": "Coppersmith barbet",
+  "otherNames": [
+   "Tambat (Hindi/Urdu; 'coppersmith')",
+   "Chì xiōng nǐ zhuómùniǎo 赤胸拟啄木鸟 (Chinese)",
+   "Crimson-breasted barbet"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Megalaimidae",
+  "shelves": [],
+  "summary": "A small green barbet with a crimson forehead and breast patch, whose monotonous metallic 'tuk-tuk-tuk' sounds like a coppersmith hammering a pot. It is a familiar fruit-eater of fig trees in towns from Pakistan to the Philippines.",
+  "nativeRange": "Pakistan (Punjab and northwest), India, Sri Lanka, Nepal and Bangladesh through Southeast Asia to the Philippines and the Greater Sundas",
+  "regions": [
+   "South Asia",
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Urban",
+   "Open woodland",
+   "Gardens"
+  ],
+  "abilities": [
+   "Disperses the seeds of figs and other fruiting trees",
+   "Excavates its own nest hole in soft, dead wood",
+   "Calls for long periods with the throat puffing out on each note"
+  ],
+  "animal": {
+   "diet": "Mainly figs and other fruit; some insects",
+   "habitat": "Groves, gardens and open woodland with fig and other fruit trees",
+   "size": "About 15–17 cm long",
+   "behaviour": "Often sits on a bare branch at the top of a tree in the morning sun, calling and bobbing its head left and right with each note.",
+   "fieldMarks": [
+    "Small, chunky green barbet with a heavy bill",
+    "Crimson forehead and crimson patch on the upper breast",
+    "Yellow throat and yellow patches above and below the eye, separated by black",
+    "Pale underparts streaked with green"
+   ],
+   "voice": "A loud, repetitive, metallic 'tuk… tuk… tuk', kept up for minutes, like a hammer on copper",
+   "lookalikes": "Brown-headed barbet is larger, brown-headed and streaked, with an orange eye-patch; Blue-throated barbet (Himalaya) has a blue face and throat.",
+   "whereToSee": "Fig and peepal trees in Lahore, Delhi, Kolkata and Colombo; Keoladeo National Park",
+   "season": "Resident; calls loudly from February to May",
+   "order": "Piciformes"
+  },
+  "iucn": "LC",
+  "lore": "Its English and Hindi names both describe the call; in north Indian towns its steady hammering is one of the signature sounds of the hot season.",
+  "funFact": "When calling, each 'tuk' is accompanied by a visible bulging of the throat skin, while the bird swings its head so the sound seems to come from different directions."
+ },
+ {
+  "slug": "ocyceros-birostris",
+  "scientific": "Ocyceros birostris",
+  "common": "Indian grey hornbill",
+  "otherNames": [
+   "Dhanesh (Hindi/Urdu)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Bucerotidae",
+  "shelves": [],
+  "summary": "A modest grey hornbill with a black casque on its curved bill, common in groves, temples and city avenues across much of the subcontinent. Like other hornbills, the female walls herself inside a tree-hole nest while the male feeds her through a slit.",
+  "nativeRange": "Indian subcontinent: eastern Pakistan, India and the Nepal terai, south of the Himalaya",
+  "regions": [
+   "South Asia"
+  ],
+  "biomes": [
+   "Open woodland",
+   "Urban",
+   "Dry deciduous forest"
+  ],
+  "abilities": [
+   "Female seals the nest entrance with mud and droppings, leaving only a narrow slit",
+   "Disperses large seeds of figs and other fruit trees",
+   "Survives in city parks and avenues with old fig trees"
+  ],
+  "animal": {
+   "diet": "Mainly fruit, especially figs; also insects, lizards and small birds",
+   "habitat": "Dry open woodland, groves, gardens and large trees in towns",
+   "size": "About 50–61 cm long",
+   "behaviour": "Pairs and small parties fly between trees with flaps and glides; the female moults her flight feathers while sealed in the nest.",
+   "fieldMarks": [
+    "Grey-brown overall, paler below",
+    "Curved dark bill with a pointed black casque",
+    "Long, graduated tail with a dark band and white tip",
+    "Pale eyebrow stripe"
+   ],
+   "voice": "A shrill, squealing 'kee-kee-kee' and a kite-like scream",
+   "lookalikes": "Malabar grey hornbill (Western Ghats) lacks a casque and has a yellowish bill; Sri Lanka grey hornbill is endemic to Sri Lanka; larger Oriental pied hornbill is black and white.",
+   "whereToSee": "Old park and avenue trees in Lahore (e.g. Bagh-e-Jinnah); Delhi's ridge forests; Ranthambore and Keoladeo",
+   "season": "Resident year-round",
+   "order": "Bucerotiformes"
+  },
+  "iucn": "LC",
+  "lore": "It is one of the few hornbills to live in large South Asian cities, and urban birdwatchers in Delhi and Lahore have tracked nesting pairs in old trees for years.",
+  "funFact": "While she is sealed in, the female moults her flight feathers and depends entirely on the male to bring food."
+ },
+ {
+  "slug": "antigone-antigone",
+  "scientific": "Antigone antigone",
+  "common": "Sarus crane",
+  "otherNames": [
+   "Saras (Hindi/Urdu)",
+   "Chì jǐng hè 赤颈鹤 (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Gruidae",
+  "shelves": [
+   "endangered",
+   "freshwater",
+   "marvel",
+   "sacred"
+  ],
+  "summary": "The tallest flying bird in the world, standing about 1.5–1.8 m, grey with a bare red head and upper neck. Pairs are famously faithful and duet with trumpeting calls in the wet farmlands of northern India.",
+  "nativeRange": "Northern and central India, the Nepal terai, Myanmar, Cambodia, Vietnam and Laos, and northern Australia; extinct in Pakistan, Thailand (reintroduced) and much of Southeast Asia",
+  "regions": [
+   "South Asia",
+   "Southeast Asia",
+   "Australia"
+  ],
+  "biomes": [
+   "Wetland",
+   "Farmland",
+   "Grassland"
+  ],
+  "abilities": [
+   "Tallest flying bird alive",
+   "Pairs perform synchronised unison calls and leaping dances",
+   "Breeds in rice paddies and village ponds alongside farmers"
+  ],
+  "animal": {
+   "diet": "Roots, tubers, grain, aquatic plants, insects, frogs, snails and small vertebrates",
+   "habitat": "Marshes, shallow wetlands, flooded fields and wet farmland",
+   "size": "Height about 1.5–1.8 m; wingspan about 2.2–2.5 m",
+   "behaviour": "Pairs stay together year-round and build a large mound nest of reeds in shallow water during the monsoon.",
+   "fieldMarks": [
+    "Very tall, pale grey crane with long pink-red legs",
+    "Bare red skin on the head and upper neck; grey crown",
+    "Dark grey-green bill",
+    "White tertial feathers droop over the tail"
+   ],
+   "voice": "Loud, far-carrying trumpeting; pairs give a unison call in which the male's long notes and the female's shorter notes interlock",
+   "lookalikes": "Common crane (winter visitor) is smaller with a black-and-white head and neck; Demoiselle crane is small with a black neck and white ear tufts; Brolga (Australia) has a red band only on the head and a dewlap.",
+   "whereToSee": "Farmland and wetlands of Uttar Pradesh (Etawah, Mainpuri), Keoladeo National Park and Gujarat's Kheda district; Lumbini in Nepal",
+   "season": "Resident; breeds during the monsoon",
+   "order": "Gruiformes"
+  },
+  "iucn": "VU",
+  "lore": "In the Ramayana, the sage Valmiki's first verse was provoked by grief at a hunter killing one of a pair of krauncha birds, often identified with the sarus. The sarus is the state bird of Uttar Pradesh and is widely protected by farmers who regard it as sacred.",
+  "funFact": "Uttar Pradesh holds the largest population, and most of these cranes nest in farmland rather than protected areas."
+ },
+ {
+  "slug": "leucogeranus-leucogeranus",
+  "scientific": "Leucogeranus leucogeranus",
+  "common": "Siberian crane",
+  "otherNames": [
+   "Bái hè 白鹤 (Chinese)",
+   "Sterkh Стерх (Russian)",
+   "Siberian white crane",
+   "Snow crane"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Gruidae",
+  "shelves": [
+   "endangered",
+   "migrant",
+   "freshwater"
+  ],
+  "summary": "A snow-white crane with a red face and black wingtips that migrates from the Arctic tundra to wetlands in China. Its western flock, which wintered in India and Iran, has all but disappeared.",
+  "nativeRange": "Breeds in Arctic Yakutia and western Siberia; the main population winters at Poyang Lake on the Yangtze in China; former wintering sites in Iran and India (Keoladeo)",
+  "regions": [
+   "Arctic",
+   "Central Asia",
+   "East Asia",
+   "South Asia"
+  ],
+  "biomes": [
+   "Tundra",
+   "Wetland",
+   "Lake shore"
+  ],
+  "abilities": [
+   "Migrates around 5,000 km between Siberia and China",
+   "Digs for roots and tubers of aquatic plants in shallow water",
+   "Depends on very specific shallow wetlands, making it highly vulnerable"
+  ],
+  "animal": {
+   "diet": "Roots, tubers and shoots of aquatic plants; also invertebrates and small animals in summer",
+   "habitat": "Open tundra wetlands in summer; shallow lakes and marshes in winter",
+   "size": "About 140 cm tall; wingspan about 210–230 cm",
+   "behaviour": "Feeds in shallow water by probing deep into the mud; more strictly aquatic than any other crane.",
+   "fieldMarks": [
+    "All-white plumage with black primary feathers visible in flight",
+    "Bare brick-red skin on the face and forehead",
+    "Long reddish-pink legs and a long, slightly serrated bill",
+    "Juveniles are rusty-cinnamon"
+   ],
+   "voice": "A soft, musical, flute-like 'koonk-koonk', unlike the harsh trumpeting of other cranes",
+   "lookalikes": "White stork has a red bill and black flight feathers along the whole rear wing; Great white egret and spoonbills are slimmer and lack a red face.",
+   "whereToSee": "Poyang Lake, Jiangxi, China, in winter; Momoge reserve in Jilin on migration",
+   "season": "Winter visitor to China (Nov–Mar); breeds in Siberia (May–Aug)",
+   "order": "Gruiformes"
+  },
+  "iucn": "CR",
+  "lore": "Keoladeo (Bharatpur) in India was the famous wintering site of the western population until the last birds stopped arriving after 2002. The western flock's route passed through Afghanistan and Pakistan, where hunting took a heavy toll.",
+  "funFact": "Nearly the entire world population, a few thousand birds, spends the winter at a single lake system in China."
+ },
+ {
+  "slug": "ardeotis-nigriceps",
+  "scientific": "Ardeotis nigriceps",
+  "common": "Great Indian bustard",
+  "otherNames": [
+   "Godawan (Rajasthani/Hindi)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Otididae",
+  "shelves": [
+   "endangered",
+   "marvel"
+  ],
+  "summary": "A tall, ostrich-like bustard, among the heaviest flying birds in the world, now reduced to fewer than 200 birds (including those in captivity), almost all in the Thar Desert of Rajasthan. Collision with overhead power lines is one of its biggest killers.",
+  "nativeRange": "Formerly much of India and eastern Pakistan; now mainly Jaisalmer district, Rajasthan, with tiny remnants in Gujarat, Maharashtra and Karnataka; possibly occasional in Cholistan, Pakistan",
+  "regions": [
+   "South Asia"
+  ],
+  "biomes": [
+   "Semi-desert",
+   "Grassland"
+  ],
+  "abilities": [
+   "Males can weigh around 15 kg, among the heaviest flying birds",
+   "In display, the male inflates a large throat pouch and cocks his tail, booming",
+   "Lays a single egg on bare ground"
+  ],
+  "animal": {
+   "diet": "Grasshoppers, beetles, small lizards and rodents; also seeds, berries and shoots",
+   "habitat": "Arid and semi-arid grassland with scattered scrub",
+   "size": "About 1 m tall; males up to about 15 kg",
+   "behaviour": "Walks slowly through grassland; its forward-facing eyes and poor manoeuvrability in flight make it unable to avoid power lines.",
+   "fieldMarks": [
+    "Very large, long-legged bird with a horizontal body",
+    "Black crown and crest on a white head and neck",
+    "Brown back and wings; males have a black breast band",
+    "Black-and-white wing pattern in flight"
+   ],
+   "voice": "A deep, booming 'hoonk' carried a long way, given by displaying males",
+   "lookalikes": "Macqueen's (houbara) bustard is much smaller and sandy with a black neck stripe; Lesser florican is small with long head plumes in breeding males.",
+   "whereToSee": "Desert National Park near Jaisalmer, Rajasthan (with permits)",
+   "season": "Resident; displays mainly during the monsoon",
+   "order": "Otidiformes"
+  },
+  "iucn": "CR",
+  "lore": "The ornithologist Salim Ali proposed it as India's national bird. It is the state bird of Rajasthan, and India's Supreme Court has heard cases on burying or marking power lines in its habitat.",
+  "funFact": "A captive breeding centre at Jaisalmer has hatched dozens of chicks since 2019 as insurance against extinction."
+ },
+ {
+  "slug": "gyps-indicus",
+  "scientific": "Gyps indicus",
+  "common": "Indian vulture",
+  "otherNames": [
+   "Gidh (Hindi/Urdu)",
+   "Shokun (Bengali)",
+   "Long-billed vulture"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Accipitridae",
+  "shelves": [
+   "endangered",
+   "keystone"
+  ],
+  "summary": "A large cliff-nesting vulture of India and Pakistan that once swarmed over every carcass. From the 1990s its numbers crashed by more than 95%, poisoned by the veterinary drug diclofenac in the cattle carcasses it ate.",
+  "nativeRange": "Central and peninsular India and SE Pakistan (Sindh, notably Nagarparkar)",
+  "regions": [
+   "South Asia"
+  ],
+  "biomes": [
+   "Dry deciduous forest",
+   "Farmland",
+   "Rocky hillside"
+  ],
+  "abilities": [
+   "Clears carcasses rapidly, reducing disease and feral dog populations",
+   "Soars for hours on thermals, scanning for food",
+   "Nests on cliffs and old buildings in colonies"
+  ],
+  "animal": {
+   "diet": "Carrion, especially dead cattle",
+   "habitat": "Open country near villages and cliffs; dry hilly regions",
+   "size": "About 80–100 cm long; wingspan about 2 m",
+   "behaviour": "Groups descend on a carcass and can strip it in under an hour; they nest colonially on cliff ledges.",
+   "fieldMarks": [
+    "Large pale sandy-brown vulture with dark flight feathers",
+    "Bare dark grey head and neck; white neck ruff",
+    "Pale yellowish bill",
+    "Long, broad wings held flat in soaring"
+   ],
+   "voice": "Mostly silent; hisses and grunts at carcasses",
+   "lookalikes": "Slender-billed vulture (north India, Nepal) is darker with a thin dark bill and nests in trees; White-rumped vulture is darker with a white back patch; Eurasian griffon is larger and more rufous.",
+   "whereToSee": "Cliffs of Ranthambore, Orchha and Panna in India; Nagarparkar's Karoonjhar hills in Sindh",
+   "season": "Resident year-round",
+   "order": "Accipitriformes"
+  },
+  "iucn": "CR",
+  "lore": "Its collapse led India, Pakistan and Nepal to ban veterinary diclofenac in 2006, and the Parsi tradition of exposing the dead at Towers of Silence in Mumbai has been disrupted by the loss of vultures.",
+  "funFact": "Researchers estimate the vulture collapse in India allowed rotting carcasses and feral dogs to increase, with a measurable rise in human deaths."
+ },
+ {
+  "slug": "mycteria-leucocephala",
+  "scientific": "Mycteria leucocephala",
+  "common": "Painted stork",
+  "otherNames": [
+   "Janghil (Hindi)",
+   "Báitóu huánguàn 白头鹮鹳 (Chinese)",
+   "Cǎi guàn 彩鹳 (Chinese, alternative)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Ciconiidae",
+  "shelves": [
+   "freshwater"
+  ],
+  "summary": "A large white stork with a waxy yellow bill, a bare orange face and rose-pink feathers on its back, nesting in noisy colonies in wetland trees and even village trees. Its numbers have recovered enough that it was moved from Near Threatened to Least Concern in 2023.",
+  "nativeRange": "Pakistan (Sindh) and India through Sri Lanka, Nepal and Bangladesh to Southeast Asia and southern China",
+  "regions": [
+   "South Asia",
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Wetland",
+   "Farmland"
+  ],
+  "abilities": [
+   "Feels for fish by sweeping its half-open bill through water, snapping it shut in milliseconds",
+   "Nests in large mixed colonies alongside herons, cormorants and pelicans",
+   "Cools itself and its chicks by panting and shading them with spread wings"
+  ],
+  "animal": {
+   "diet": "Mainly fish, also frogs, crustaceans and snakes",
+   "habitat": "Freshwater marshes, lakes, rice fields and reservoirs",
+   "size": "About 93–102 cm long; wingspan about 150–160 cm",
+   "behaviour": "Wades in shallow water with its bill submerged and partly open, moving it side to side and stirring the water with one foot.",
+   "fieldMarks": [
+    "Large white stork with long, heavy, slightly down-curved yellow bill",
+    "Bare orange-red face",
+    "Black-and-white wings and black band across the breast",
+    "Pink-tinged tertials on the back; pinkish legs"
+   ],
+   "voice": "Mostly silent; adults clatter their bills at the nest; chicks give loud begging calls",
+   "lookalikes": "Asian openbill is smaller, greyish, with a gap in its bill; Woolly-necked stork is dark with a white neck; Black-headed ibis has a black head and curved black bill.",
+   "whereToSee": "Keoladeo National Park (Bharatpur), Kokkare Bellur village in Karnataka and Ranganathittu",
+   "season": "Resident with local movements; breeds after the monsoon (Aug–Mar)",
+   "order": "Ciconiiformes"
+  },
+  "iucn": "LC",
+  "lore": "At Kokkare Bellur in Karnataka, villagers have long protected the painted storks and pelicans that nest in their trees, using the droppings as fertiliser.",
+  "funFact": "Its bill-sweeping strike is a touch reflex: it can catch fish in muddy water it cannot see through."
+ },
+ {
+  "slug": "ephippiorhynchus-asiaticus",
+  "scientific": "Ephippiorhynchus asiaticus",
+  "common": "Black-necked stork",
+  "otherNames": [
+   "Hēi jǐng guàn 黑颈鹳 (Chinese)",
+   "Jabiru (Australian name)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Ciconiidae",
+  "shelves": [
+   "freshwater"
+  ],
+  "summary": "A tall, striking stork with a glossy black neck that flashes green and purple, a massive black bill and coral-red legs. It is one of the few storks in which males and females can be told apart by eye colour.",
+  "nativeRange": "India, Nepal and Sri Lanka through Southeast Asia to New Guinea and northern and eastern Australia",
+  "regions": [
+   "South Asia",
+   "Southeast Asia",
+   "Oceania",
+   "Australia"
+  ],
+  "biomes": [
+   "Wetland",
+   "Farmland"
+  ],
+  "abilities": [
+   "Hunts large prey including fish, turtles and snakes",
+   "Pairs defend large territories in wetlands",
+   "Performs a wing-spreading and bill-clattering greeting display at the nest"
+  ],
+  "animal": {
+   "diet": "Fish, frogs, turtles, snakes, crustaceans and occasionally birds",
+   "habitat": "Freshwater marshes, river banks, lakes and flooded fields",
+   "size": "About 130–150 cm tall; wingspan about 2.3 m",
+   "behaviour": "Stalks slowly through shallow water and stabs prey with its huge bill; pairs nest alone in tall trees rather than in colonies.",
+   "fieldMarks": [
+    "Very tall black-and-white stork",
+    "Glossy black head and neck with green and purple sheen",
+    "Massive, straight black bill",
+    "Bright coral-red legs; female has a yellow iris, male dark brown"
+   ],
+   "voice": "Generally silent; bill-clattering at the nest",
+   "lookalikes": "Lesser adjutant is grey with a bare head; Woolly-necked stork has a white neck; Saddle-billed stork is African.",
+   "whereToSee": "Keoladeo National Park and the wetlands of Uttar Pradesh in India; Chitwan and Koshi Tappu in Nepal; Kakadu in Australia",
+   "season": "Resident",
+   "order": "Ciconiiformes"
+  },
+  "iucn": "NT",
+  "lore": "Australians long called it the jabiru, a name borrowed from a quite different South American stork.",
+  "funFact": "The female's yellow iris is one of the easiest ways to sex any large bird in the field."
+ },
+ {
+  "slug": "anas-poecilorhyncha",
+  "scientific": "Anas poecilorhyncha",
+  "common": "Indian spot-billed duck",
+  "otherNames": [
+   "Spotbill"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Anatidae",
+  "shelves": [
+   "freshwater"
+  ],
+  "summary": "A large, scaly-brown dabbling duck of South Asian wetlands, easily known by the yellow tip of its dark bill and a red spot at the bill's base. It is one of the few ducks resident and breeding across the plains of the subcontinent.",
+  "nativeRange": "Pakistan, India, Sri Lanka, Nepal, Bangladesh and Myanmar",
+  "regions": [
+   "South Asia",
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Wetland",
+   "Farmland"
+  ],
+  "abilities": [
+   "Breeds in the monsoon in small, vegetated wetlands",
+   "Upends to feed on submerged plants",
+   "Feeds at night in rice fields"
+  ],
+  "animal": {
+   "diet": "Aquatic plants, seeds, grain and invertebrates",
+   "habitat": "Freshwater lakes, marshes, village ponds and rice fields",
+   "size": "About 55–63 cm long",
+   "behaviour": "Usually in pairs or small groups; ducklings are hidden in dense reeds by the female.",
+   "fieldMarks": [
+    "Large brown duck with a heavily scaled, spotted body",
+    "Dark bill with a bright yellow tip",
+    "Red spot on the face at the base of the bill (on the Indian form)",
+    "Pale head with a dark cap and eye-stripe; green speculum bordered white; white tertials"
+   ],
+   "voice": "Female a loud quacking similar to a Mallard; male a softer, raspy note",
+   "lookalikes": "Eastern spot-billed duck (East Asia) lacks the red loral spot and has darker body plumage; female Mallard has an orange-and-dark bill and no yellow tip.",
+   "whereToSee": "Keoladeo National Park; Haleji and Keenjhar lakes in Sindh; wetlands of Sri Lanka",
+   "season": "Resident year-round",
+   "order": "Anseriformes"
+  },
+  "iucn": "LC",
+  "funFact": "The red spot near the bill base is the main field mark separating it from its close East Asian relative, the Eastern spot-billed duck."
+ },
+ {
+  "slug": "hydrophasianus-chirurgus",
+  "scientific": "Hydrophasianus chirurgus",
+  "common": "Pheasant-tailed jacana",
+  "otherNames": [
+   "Shuǐ zhì 水雉 (Chinese; 'water pheasant')",
+   "Renkaku レンカク (Japanese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Jacanidae",
+  "shelves": [
+   "freshwater",
+   "migrant"
+  ],
+  "summary": "An elegant wetland bird that walks across lotus and water-lily leaves on enormously long toes, its breeding plumage chocolate and white with a golden nape and a long, curving pheasant-like tail. Females are polyandrous, mating with several males that each raise a clutch alone.",
+  "nativeRange": "Pakistan and India through Sri Lanka, Bangladesh and Southeast Asia to southern China and Taiwan; northern birds migrate",
+  "regions": [
+   "South Asia",
+   "Southeast Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Wetland"
+  ],
+  "abilities": [
+   "Spreads its weight over very long toes to walk on floating leaves",
+   "Females lay eggs for several males, which incubate and rear the young",
+   "Males can carry eggs or chicks under their wings to move them"
+  ],
+  "animal": {
+   "diet": "Insects, snails and other invertebrates, and seeds of aquatic plants",
+   "habitat": "Lakes, ponds and marshes with floating vegetation such as lotus and water lilies",
+   "size": "About 39–58 cm in breeding plumage including tail",
+   "behaviour": "The female defends a territory containing several males' nests; each male incubates eggs on a floating nest.",
+   "fieldMarks": [
+    "Breeding: chocolate-brown body, white face and neck, golden-yellow hindneck, long dark sickle tail",
+    "Mostly white wings, very conspicuous in flight",
+    "Non-breeding: brown above, white below, with a dark breast band and no long tail",
+    "Very long legs and toes"
+   ],
+   "voice": "A nasal, mewing 'me-onp' or 'tewn', often given in the breeding season",
+   "lookalikes": "Bronze-winged jacana is dark glossy with a white eyebrow and short tail; non-breeding birds may recall a large wader but the toes and white wings are distinctive.",
+   "whereToSee": "Keoladeo National Park; lotus lakes in Sindh (Haleji) and Bangladesh's haors; Taiwan's Guantian reserve",
+   "season": "Resident in South Asia; breeding plumage during the monsoon (Jun–Sep)",
+   "order": "Charadriiformes"
+  },
+  "iucn": "LC",
+  "lore": "In Taiwan, a dedicated reserve for this species was created at Guantian after a high-speed rail line threatened its breeding wetlands.",
+  "funFact": "It is the only jacana that is a long-distance migrant, with northern birds from China moving south for the winter."
+ },
+ {
+  "slug": "ploceus-philippinus",
+  "scientific": "Ploceus philippinus",
+  "common": "Baya weaver",
+  "otherNames": [
+   "Baya (Hindi/Urdu)",
+   "Babui (Bengali)",
+   "Huáng xiōng zhī què 黄胸织雀 (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Ploceidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "A sparrow-sized weaver whose breeding males stitch long, retort-shaped hanging nests from strips of green grass and palm leaf, often over water. Females inspect the half-built nests and choose a mate by the quality of his work.",
+  "nativeRange": "Pakistan, India, Sri Lanka, Nepal and Bangladesh through Myanmar and Thailand to Sumatra and Java",
+  "regions": [
+   "South Asia",
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Farmland",
+   "Grassland",
+   "Wetland"
+  ],
+  "abilities": [
+   "Weaves nests with knots and loops from strips of grass torn from living leaves",
+   "Builds a long entrance tube that deters snakes and other predators",
+   "Males build several nests in a season and court females at each",
+   "Presses blobs of mud inside the nest chamber, possibly to balance it in wind"
+  ],
+  "animal": {
+   "diet": "Seeds and grain, especially rice; insects for nestlings",
+   "habitat": "Cultivation, grassland and scrub with palms, acacias or trees near water",
+   "size": "About 15 cm long",
+   "behaviour": "Colonies of nests hang from date and palmyra palms, thorny acacias and telephone wires; males flutter their wings and call at nests to attract females.",
+   "fieldMarks": [
+    "Breeding male: bright yellow crown and breast patch, dark brown face mask and throat",
+    "Female and non-breeding male: streaked brown, sparrow-like, with a buff eyebrow",
+    "Heavy conical bill",
+    "Hanging retort-shaped nest is the easiest sign of the species"
+   ],
+   "voice": "Chattering 'chit-chit' calls and a wheezy, sizzling song from males at the nest",
+   "lookalikes": "Black-breasted weaver has a black breast band; Streaked weaver has a heavily streaked breast; female resembles a House sparrow but has a heavier bill and streaked crown.",
+   "whereToSee": "Rice and sugarcane country across Punjab, Sindh and India; nests easily seen at Keoladeo and in Kerala and Sri Lankan paddy-lands",
+   "season": "Resident; colonies active during the monsoon (May–Sep)",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "The Bengali poet Rajanikanta Sen's poem 'Swadhinatar Sukh' contrasts the babui weaver in its handmade nest with a sparrow sheltering in a borrowed house, a poem learned by schoolchildren in Bangladesh and West Bengal.",
+  "funFact": "A folk belief holds that the bird sticks fireflies into the mud inside its nest to light it; the mud blobs are real, but the fireflies are not."
+ },
+ {
+  "slug": "orthotomus-sutorius",
+  "scientific": "Orthotomus sutorius",
+  "common": "Common tailorbird",
+  "otherNames": [
+   "Darzi (Hindi/Urdu; 'tailor')",
+   "Tuntuni (Bengali)",
+   "Cháng wěi féng yè yīng 长尾缝叶莺 (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Cisticolidae",
+  "shelves": [
+   "marvel",
+   "songbird"
+  ],
+  "summary": "A tiny green warbler with a rusty cap and a cocked tail that literally sews its nest, piercing the edges of large leaves with its bill and stitching them into a cup with spider silk or plant fibre. Its loud call belies its size.",
+  "nativeRange": "Pakistan, India, Sri Lanka, Nepal and Bangladesh to southern China, Southeast Asia and Java",
+  "regions": [
+   "South Asia",
+   "East Asia",
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Gardens",
+   "Scrub",
+   "Open woodland",
+   "Urban"
+  ],
+  "abilities": [
+   "Punches holes along a leaf margin and pulls fibres through, knotting them like rivets",
+   "Builds the nest inside one or more living leaves so it stays green and camouflaged",
+   "Thrives in city gardens and potted plants"
+  ],
+  "animal": {
+   "diet": "Small insects, larvae and spiders",
+   "habitat": "Gardens, hedges, scrub, plantations and forest edge",
+   "size": "About 10–14 cm long; breeding males have longer central tail feathers",
+   "behaviour": "Restless, moving through low bushes with its tail cocked and flicking; the stitched leaf-cradle holds a soft cup of plant down.",
+   "fieldMarks": [
+    "Tiny bright olive-green warbler with whitish underparts",
+    "Rufous forecrown",
+    "Long, thin, slightly curved bill",
+    "Long tail held upright, sometimes with dark spots near the base of the throat"
+   ],
+   "voice": "A loud, repeated 'towit-towit-towit' or 'cheeyup-cheeyup', surprisingly loud for the bird's size",
+   "lookalikes": "Dark-necked tailorbird (NE India, SE Asia) has a dark throat patch; prinias are browner with long graduated tails and lack the rufous cap.",
+   "whereToSee": "Garden hedges and shrubs throughout Pakistan and India, e.g. Lahore, Karachi, Delhi and Colombo",
+   "season": "Resident year-round",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "Rudyard Kipling's 'Rikki-Tikki-Tavi' features Darzee and his wife, a pair of tailorbirds, named with the Hindustani word for tailor.",
+  "funFact": "The 'stitches' are not true sewing: the fibres are pushed through each hole and fluffed out on the outside so they hold like a rivet."
+ },
+ {
+  "slug": "argya-striata",
+  "scientific": "Argya striata",
+  "common": "Jungle babbler",
+  "otherNames": [
+   "Sat bhai (Hindi/Urdu/Bengali; 'seven brothers')",
+   "Turdoides striata (former name)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Leiothrichidae",
+  "shelves": [],
+  "summary": "A scruffy grey-brown babbler that lives in noisy gangs of about seven to ten, hopping through leaf litter and squabbling constantly. Families defend territories together and help raise each other's young.",
+  "nativeRange": "Pakistan (Indus plains), India, Nepal, Bhutan and Bangladesh",
+  "regions": [
+   "South Asia"
+  ],
+  "biomes": [
+   "Woodland",
+   "Gardens",
+   "Scrub"
+  ],
+  "abilities": [
+   "Cooperative breeder: helpers feed chicks that are not their own",
+   "Groups post a sentinel who watches for predators while others feed",
+   "Mobs snakes, cats and birds of prey as a group",
+   "Hosts brood parasites such as the Jacobin cuckoo and Common hawk-cuckoo"
+  ],
+  "animal": {
+   "diet": "Insects, spiders, small lizards, seeds, nectar and fruit",
+   "habitat": "Woodland, scrub, gardens and cultivation edges",
+   "size": "About 25 cm long",
+   "behaviour": "Groups move through low cover in a straggling procession, hopping on the ground and flipping leaves; members preen each other and huddle together on branches.",
+   "fieldMarks": [
+    "Grey-brown with faint streaking, rather untidy-looking",
+    "Pale creamy-yellow iris and pale yellowish bill",
+    "Long, loose tail and short rounded wings",
+    "Always in noisy groups"
+   ],
+   "voice": "Harsh, continual chattering and mewing 'ke-ke-ke' from the whole group",
+   "lookalikes": "Yellow-billed babbler (S India, Sri Lanka) has a paler head; Large grey babbler has white outer tail feathers; Common babbler is smaller and more streaked, in drier country.",
+   "whereToSee": "Parks and wooded gardens across India, e.g. Delhi's Lodhi Garden and Keoladeo; also Koshi Tappu in lowland Nepal",
+   "season": "Resident year-round",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "Across north India and Bengal it is known as 'seven brothers' (or 'seven sisters' in English), after its habit of moving in squabbling family groups."
+ },
+ {
+  "slug": "vanellus-indicus",
+  "scientific": "Vanellus indicus",
+  "common": "Red-wattled lapwing",
+  "otherNames": [
+   "Titeeri / Teetehri (Urdu/Hindi/Punjabi)",
+   "Aalkaatti (Tamil)",
+   "Ròu chuí mài jī 肉垂麦鸡 (Chinese)",
+   "Did-he-do-it bird"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Charadriidae",
+  "shelves": [
+   "freshwater"
+  ],
+  "summary": "A tall plover with a black cap, white face patch and a red fleshy wattle in front of each eye, whose frantic 'did-he-do-it' calls raise the alarm across South Asian fields, at all hours. It nests on bare ground and even on flat city rooftops.",
+  "nativeRange": "Iraq and the Persian Gulf through Iran, Afghanistan, Pakistan, India, Sri Lanka, Nepal and Bangladesh to Southeast Asia",
+  "regions": [
+   "West Asia",
+   "South Asia",
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Farmland",
+   "Wetland",
+   "Grassland",
+   "Urban"
+  ],
+  "abilities": [
+   "Alerts the whole countryside to approaching people and predators with loud calls",
+   "Parents dive-bomb intruders and perform broken-wing distraction displays",
+   "Soaks belly feathers to carry water to eggs and chicks in great heat"
+  ],
+  "animal": {
+   "diet": "Insects, snails, worms and other invertebrates",
+   "habitat": "Open ground near water: field edges, riverbanks, dry lake beds, lawns",
+   "size": "About 32–35 cm long",
+   "behaviour": "Lays its well-camouflaged eggs in a shallow scrape on open ground; the chicks can run and feed themselves within hours of hatching.",
+   "fieldMarks": [
+    "Black cap, throat and breast with white cheek patch running down to the white belly",
+    "Small red fleshy wattle in front of the eye; red bill with black tip",
+    "Pale brown back; long yellow legs",
+    "Broad white wingbar and black-and-white tail in flight"
+   ],
+   "voice": "Loud, shrill 'did-he-do-it, did-he-do-it' or 'pity-to-do-it', often given in flight and at night",
+   "lookalikes": "Yellow-wattled lapwing has yellow wattles and yellow legs and lives in drier country; White-tailed lapwing (winter) has a plain grey-brown head and white tail; Sociable lapwing (rare winter visitor to Pakistan and India) has a black cap with white eyebrow.",
+   "whereToSee": "Field edges and canals throughout Punjab and Sindh; city parks in Lahore, Delhi and Colombo",
+   "season": "Resident year-round",
+   "order": "Charadriiformes"
+  },
+  "iucn": "LC",
+  "lore": "A widespread South Asian folk tale says the titeeri sleeps on its back with its legs in the air, ready to hold up the sky if it should fall; its Tamil name means 'the one that points out people', after its alarm call."
+ },
+ {
+  "slug": "centropus-sinensis",
+  "scientific": "Centropus sinensis",
+  "common": "Greater coucal",
+  "otherNames": [
+   "Mahoka (Hindi)",
+   "Senbagam (Tamil)",
+   "Hè chì yā juān 褐翅鸦鹃 (Chinese)",
+   "Crow pheasant"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Cuculidae",
+  "shelves": [],
+  "summary": "A large, crow-sized cuckoo with glossy black body, chestnut wings and a ruby-red eye, which clambers through hedges and stalks the ground for snakes and snails. Unlike many cuckoos, it builds its own nest and raises its own young.",
+  "nativeRange": "Pakistan, India, Sri Lanka, Nepal and Bangladesh through southern China to Southeast Asia and the Greater Sundas",
+  "regions": [
+   "South Asia",
+   "East Asia",
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Scrub",
+   "Farmland",
+   "Gardens",
+   "Wetland"
+  ],
+  "abilities": [
+   "Hunts snakes, lizards, large insects, eggs and nestlings",
+   "Builds a domed nest of grass and leaves in dense cover",
+   "Flies weakly, preferring to clamber and run through vegetation"
+  ],
+  "animal": {
+   "diet": "Large insects, snails, lizards, small snakes, frogs, eggs and nestlings; some fruit",
+   "habitat": "Dense scrub, hedges, reedbeds, gardens and forest edge",
+   "size": "About 48 cm long",
+   "behaviour": "Walks deliberately through undergrowth and along field edges; suns itself with wings spread on bushes after rain.",
+   "fieldMarks": [
+    "Glossy black head, body and long tail",
+    "Rich chestnut wings and back",
+    "Deep red eye",
+    "Heavy black bill"
+   ],
+   "voice": "A deep, resonant, booming 'coop-coop-coop', often in long series and duetting between pairs",
+   "lookalikes": "Lesser coucal is smaller with buff streaks on the back; male Asian koel is all black with a pale bill; crows lack the chestnut wings.",
+   "whereToSee": "Gardens and hedgerows across India and Sri Lanka; canal banks and wooded areas of northern Punjab",
+   "season": "Resident year-round",
+   "order": "Cuculiformes"
+  },
+  "iucn": "LC",
+  "lore": "British sportsmen in India called it the 'crow pheasant', a name still found in older Indian bird books.",
+  "funFact": "Despite being a cuckoo, it is not a brood parasite: both parents build the nest and feed the chicks."
+ },
+ {
+  "slug": "athene-brama",
+  "scientific": "Athene brama",
+  "common": "Spotted owlet",
+  "otherNames": [
+   "Héng bān fù xiǎo xiāo 横斑腹小鸮 (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Strigidae",
+  "shelves": [],
+  "summary": "A small, white-spotted owl with staring yellow eyes that lives in pairs and family groups in old trees, ruins and buildings across South Asia. It bobs its head comically when curious and chatters loudly at dusk.",
+  "nativeRange": "Southern Iran through Pakistan, India, Nepal and Bangladesh to Myanmar and Indochina (absent from Sri Lanka)",
+  "regions": [
+   "West Asia",
+   "South Asia",
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Farmland",
+   "Urban",
+   "Open woodland",
+   "Semi-desert"
+  ],
+  "abilities": [
+   "Hunts beetles, moths and rodents around street lights and villages",
+   "Nests in tree holes, wall crevices and old buildings",
+   "Active at dusk and sometimes by day"
+  ],
+  "animal": {
+   "diet": "Large insects, rodents, lizards and small birds",
+   "habitat": "Open country, villages, towns, groves and ruins",
+   "size": "About 20–21 cm long",
+   "behaviour": "Pairs and families sit huddled together in a tree hole entrance by day and become noisy and active at dusk.",
+   "fieldMarks": [
+    "Small, round-headed owl without ear-tufts",
+    "Grey-brown upperparts heavily spotted with white",
+    "White underparts barred with brown",
+    "Large yellow eyes with white eyebrows and a white collar"
+   ],
+   "voice": "Harsh, screeching, chattering 'chirurr-chirurr-chirurr' and 'cheevak, cheevak', usually from pairs or groups",
+   "lookalikes": "Jungle owlet is barred (not spotted) on the head and back; Little owl (northern Pakistan) is browner with less spotting below; Collared scops owl has ear-tufts and dark eyes.",
+   "whereToSee": "Old trees and ruins in Lahore, Delhi, Agra and Karachi; farmland canals across Punjab",
+   "season": "Resident year-round",
+   "order": "Strigiformes"
+  },
+  "iucn": "LC",
+  "lore": "In Hindu tradition the owl (uluka) is the vahana of the goddess Lakshmi, yet owls including this species are illegally trapped and sacrificed for black-magic rituals around Diwali, a trade documented by TRAFFIC India."
+ },
+ {
+  "slug": "aix-galericulata",
+  "scientific": "Aix galericulata",
+  "common": "Mandarin duck",
+  "otherNames": [
+   "Yuānyāng 鸳鸯 (Chinese)",
+   "Oshidori オシドリ (Japanese)",
+   "Wonang 원앙 (Korean)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Anatidae",
+  "shelves": [
+   "freshwater",
+   "sacred",
+   "migrant"
+  ],
+  "summary": "The drake is one of the most ornate birds in the world, with orange 'whiskers', a pair of upright orange sail feathers on its back, and a purple breast bordered by white bars. A symbol of married love in China, Korea and Japan, it nests in tree holes high above the ground.",
+  "nativeRange": "Russian Far East, NE China, Korea and Japan, wintering in eastern and southern China, Korea and Japan; feral populations in Britain and elsewhere in Europe",
+  "regions": [
+   "East Asia",
+   "Europe"
+  ],
+  "biomes": [
+   "Temperate forest",
+   "Wetland",
+   "Riverine forest"
+  ],
+  "abilities": [
+   "Nests in tree cavities up to 10 m or more above ground",
+   "Ducklings leap from the nest hole to the ground within a day of hatching, unharmed",
+   "Feeds on acorns and other nuts, unusual for a duck"
+  ],
+  "animal": {
+   "diet": "Acorns, chestnuts, seeds, aquatic plants, insects and snails",
+   "habitat": "Wooded ponds, rivers and lakes with overhanging trees",
+   "size": "About 41–49 cm long",
+   "behaviour": "Males court females in groups with ritual displays of crest-raising, mock drinking and preening behind the sail feathers.",
+   "fieldMarks": [
+    "Drake: red bill, white crescent over the eye, orange cheek 'whiskers', upright orange sail feathers",
+    "Drake: purple breast with two white-and-black vertical bars; golden flanks",
+    "Female: grey with a white eye-ring and stripe behind the eye, white-spotted flanks",
+    "Small, crested duck that perches in trees"
+   ],
+   "voice": "Generally quiet; males give a sharp whistle, females a soft clucking",
+   "lookalikes": "Wood duck (North America; escapees elsewhere) male is green-headed without sails; female Wood duck has a larger white teardrop eye patch and no pale stripe behind it.",
+   "whereToSee": "Ponds of Tokyo's Shinjuku Gyoen in winter, Seoul's Changgyeonggung Palace (Chundangji pond), Beijing's Summer Palace; feral in Virginia Water, England",
+   "season": "Resident in Japan; migratory in mainland Asia, wintering Oct–Mar in southern China and Korea",
+   "order": "Anseriformes"
+  },
+  "iucn": "LC",
+  "lore": "In Chinese the pair 鸳鸯 (yuānyāng) means 'devoted lovers', and mandarin duck carvings are traditional wedding gifts in China and Korea. In fact, pairs usually form anew each winter.",
+  "funFact": "In summer the drake moults into a drab, female-like eclipse plumage, still identifiable by its red bill."
+ },
+ {
+  "slug": "zosterops-japonicus",
+  "scientific": "Zosterops japonicus",
+  "common": "Warbling white-eye",
+  "otherNames": [
+   "Mejiro メジロ (Japanese)",
+   "Rì fēi xiù yǎn niǎo 日菲绣眼鸟 (Chinese)",
+   "Dongbaksae 동박새 (Korean)",
+   "Japanese white-eye"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Zosteropidae",
+  "shelves": [
+   "pollinator",
+   "songbird"
+  ],
+  "summary": "A small yellow-green bird with a crisp white ring around each eye, a lively flocking visitor to flowering camellias and plum blossom in Japanese winter gardens. It is a major pollinator of camellias in its native range.",
+  "nativeRange": "Japan (including the Ryukyu and Ogasawara islands) and South Korea; populations in the Philippines and Indonesia formerly called Mountain white-eye; introduced to Hawaii",
+  "regions": [
+   "East Asia",
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Temperate forest",
+   "Gardens",
+   "Urban"
+  ],
+  "abilities": [
+   "Pollinates camellias and other winter flowers by feeding on their nectar",
+   "Flocks huddle tightly side by side on branches",
+   "Brush-tipped tongue laps nectar"
+  ],
+  "animal": {
+   "diet": "Nectar, fruit and small insects",
+   "habitat": "Broadleaf forest, parks, orchards and gardens",
+   "size": "About 11–12 cm long",
+   "behaviour": "Moves in active groups through blossom, hanging upside down to reach flowers; in winter flocks roost pressed close together.",
+   "fieldMarks": [
+    "Small olive-green bird with a bright yellow throat",
+    "Bold white eye-ring",
+    "Pale greyish-white belly",
+    "Thin, slightly curved, pointed bill"
+   ],
+   "voice": "A thin, high 'chii' contact call; song is a fast, twittering warble",
+   "lookalikes": "Swinhoe's white-eye (China, Taiwan, SE Asia) has paler flanks and a smaller yellow throat; Chestnut-flanked white-eye has rufous flanks; Japanese bush warbler is drabber with no eye-ring.",
+   "whereToSee": "Plum and cherry gardens in Tokyo, Kyoto and Osaka in winter and spring; Jeju Island in Korea",
+   "season": "Resident year-round; most conspicuous in winter at flowers",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "The Japanese expression mejiro-oshi ('white-eye pushing') describes people crowded together, after the way these birds line up shoulder to shoulder on a branch. Mejiro paired with plum blossom is a classic motif in Japanese painting.",
+  "funFact": "Many Japanese think of the green bird at plum blossom as the uguisu (bush warbler), but the bird most often seen there is the mejiro; the real uguisu is drab and secretive."
+ },
+ {
+  "slug": "ciconia-boyciana",
+  "scientific": "Ciconia boyciana",
+  "common": "Oriental stork",
+  "otherNames": [
+   "Kounotori コウノトリ (Japanese)",
+   "Dōngfāng bái guàn 东方白鹳 (Chinese)",
+   "Hwangsae 황새 (Korean)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Ciconiidae",
+  "shelves": [
+   "endangered",
+   "migrant",
+   "freshwater"
+  ],
+  "summary": "A large white stork with black flight feathers and a heavy black bill, breeding in the Amur basin and wintering along the Yangtze. It went extinct in the wild in Japan in 1971 and has been brought back through reintroduction at Toyooka.",
+  "nativeRange": "Breeds in the Amur and Ussuri basins of the Russian Far East and NE China; winters mainly in the Yangtze basin, with smaller numbers in Korea, Japan and Taiwan",
+  "regions": [
+   "East Asia"
+  ],
+  "biomes": [
+   "Wetland",
+   "Farmland"
+  ],
+  "abilities": [
+   "Migrates between the Russian Far East and the Yangtze floodplain",
+   "Nests on tall trees and electricity pylons",
+   "Communicates by loud bill-clattering, being almost voiceless"
+  ],
+  "animal": {
+   "diet": "Fish, frogs, snakes, crustaceans and insects",
+   "habitat": "Wetlands, river floodplains, rice paddies and lake margins",
+   "size": "About 110–128 cm long; wingspan about 2.1 m",
+   "behaviour": "Feeds by walking slowly through shallow water; in Japan, reintroduced storks forage in rice paddies managed without pesticides.",
+   "fieldMarks": [
+    "Large white stork with black flight feathers",
+    "Heavy, black bill (red in White stork)",
+    "Red bare skin around a whitish eye",
+    "Red legs"
+   ],
+   "voice": "Almost silent; loud bill-clattering at the nest",
+   "lookalikes": "White stork (Europe, Central Asia) is smaller with a red bill; Black-faced spoonbill and egrets are smaller with different bills.",
+   "whereToSee": "Poyang Lake and Dongting Lake in China in winter; Toyooka, Hyogo Prefecture, Japan year-round",
+   "season": "Winter visitor to the Yangtze (Nov–Mar); summer visitor to the breeding grounds; resident in reintroduced Japanese populations",
+   "order": "Ciconiiformes"
+  },
+  "iucn": "EN",
+  "lore": "In Japan, as in Europe, the stork came to be linked with bringing babies. Toyooka city began releasing captive-bred storks in 2005, promoting 'stork-friendly' pesticide-reduced rice as part of the recovery.",
+  "funFact": "Wild storks bred in Japan again in 2007, the first wild-hatched chick in the country in over four decades."
+ },
+ {
+  "slug": "nipponia-nippon",
+  "scientific": "Nipponia nippon",
+  "common": "Crested ibis",
+  "otherNames": [
+   "Toki 朱鷺 (Japanese)",
+   "Zhū huán 朱鹮 (Chinese)",
+   "Japanese crested ibis"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Threskiornithidae",
+  "shelves": [
+   "endangered",
+   "freshwater",
+   "sacred"
+  ],
+  "summary": "A white ibis blushed with salmon-pink, with a shaggy nape crest and a bare red face, that came within seven birds of extinction. From a handful found in Shaanxi in 1981, careful protection has rebuilt a population of thousands.",
+  "nativeRange": "Formerly Japan, Korea, eastern China and the Russian Far East; now wild mainly in Shaanxi province, China, with reintroduced populations on Sado Island (Japan) and in South Korea",
+  "regions": [
+   "East Asia"
+  ],
+  "biomes": [
+   "Wetland",
+   "Farmland",
+   "Temperate forest"
+  ],
+  "abilities": [
+   "Probes rice paddies and streams for loaches, frogs and invertebrates",
+   "Smears a dark secretion from its neck onto its plumage, turning it grey in the breeding season",
+   "Recovered from a wild population of seven birds"
+  ],
+  "animal": {
+   "diet": "Small fish, loaches, frogs, crabs, snails and insects",
+   "habitat": "Rice paddies, streams and wetlands near tall trees used for nesting and roosting",
+   "size": "About 55–79 cm long",
+   "behaviour": "Feeds by probing its long curved bill into mud and water; nests in tall trees on wooded slopes near paddies.",
+   "fieldMarks": [
+    "White plumage with a salmon-pink flush to the wings and tail, strongest underneath in flight",
+    "Bare red face and red legs",
+    "Long, down-curved black bill with red tip",
+    "Shaggy crest at the back of the head; grey head and back in breeding season"
+   ],
+   "voice": "A harsh, crow-like 'aaa' call",
+   "lookalikes": "Black-headed ibis has a black head and neck and lacks the pink; spoonbills have a flat, spoon-shaped bill; egrets have straight bills.",
+   "whereToSee": "Yangxian County, Shaanxi, China; Sado Island, Niigata Prefecture, Japan",
+   "season": "Resident",
+   "order": "Pelecaniformes"
+  },
+  "iucn": "EN",
+  "lore": "The toki gave its colour name 'toki-iro' (a soft pink) to Japanese, and it is the symbol of Niigata Prefecture. Japan's last native-born crested ibis, Kin, died in 2003, and the species was reintroduced to Sado from Chinese stock in 2008.",
+  "funFact": "Its genus name Nipponia and species name nippon both mean 'Japan', making it one of the most emphatically Japanese names in zoology."
+ },
+ {
+  "slug": "pithecophaga-jefferyi",
+  "scientific": "Pithecophaga jefferyi",
+  "common": "Philippine eagle",
+  "otherNames": [
+   "Haribon (Filipino)",
+   "Banog (Bikol and several Mindanao languages)",
+   "Monkey-eating eagle"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Accipitridae",
+  "shelves": [
+   "endangered",
+   "marvel",
+   "sacred"
+  ],
+  "summary": "One of the largest and most powerful eagles in the world, with a shaggy crest, a huge arched blue-grey bill and pale blue eyes. Found only in the rainforests of the Philippines, it is the national bird and among the rarest raptors on Earth.",
+  "nativeRange": "Endemic to the Philippines: Mindanao, Luzon, Samar and Leyte",
+  "regions": [
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Tropical rainforest"
+  ],
+  "abilities": [
+   "Hunts flying lemurs (colugos), monkeys, civets and large birds in the forest canopy",
+   "Pairs hunt cooperatively, one distracting a monkey troop while the other strikes",
+   "Raises a single chick every two years"
+  ],
+  "animal": {
+   "diet": "Colugos (Philippine flying lemurs), macaques, palm civets, flying squirrels, hornbills, snakes",
+   "habitat": "Primary dipterocarp forest on steep mountain slopes",
+   "size": "About 86–102 cm long; wingspan about 1.8–2.2 m",
+   "behaviour": "Hunts by perching in the canopy and moving between trees, then flying fast through the forest to seize prey with its massive talons.",
+   "fieldMarks": [
+    "Very large eagle with a shaggy, spiky crest",
+    "Huge, deeply arched blue-grey bill",
+    "Dark face, brown upperparts, cream-white underparts",
+    "Pale blue-grey eyes; broad, short wings and long tail"
+   ],
+   "voice": "High-pitched whistles, rising at the end, especially from young birds begging",
+   "lookalikes": "Changeable hawk-eagle and Philippine hawk-eagle are much smaller with less massive bills; no other Philippine raptor approaches its size.",
+   "whereToSee": "Philippine Eagle Center near Davao City; Mount Kitanglad and Mount Apo, Mindanao",
+   "season": "Resident year-round",
+   "order": "Accipitriformes"
+  },
+  "iucn": "CR",
+  "lore": "Proclaimed the national bird of the Philippines in 1995, it gave its Filipino name Haribon ('king of birds') to the country's leading conservation society. The first captive-bred chick, Pag-asa ('hope'), hatched in 1992.",
+  "funFact": "Despite its old name 'monkey-eating eagle', its main prey on Mindanao is the colugo, a gliding mammal."
+ },
+ {
+  "slug": "argusianus-argus",
+  "scientific": "Argusianus argus",
+  "common": "Great argus",
+  "otherNames": [
+   "Kuang raya (Malay)",
+   "Kuau (Malay/Indonesian)",
+   "Dà yǎn bān zhì 大眼斑雉 (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Phasianidae",
+  "shelves": [
+   "endangered",
+   "marvel"
+  ],
+  "summary": "A huge, secretive pheasant of Sundaic rainforest whose male has enormous wing feathers covered with rows of shaded eyespots, which he fans into a great circular screen during display. Charles Darwin wrote at length about the eyespots as evidence for sexual selection.",
+  "nativeRange": "Malay Peninsula (southern Myanmar, Thailand, Malaysia), Sumatra and Borneo",
+  "regions": [
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Tropical rainforest"
+  ],
+  "abilities": [
+   "Male clears a 'dancing ground' on the forest floor of leaves and debris",
+   "Fans its huge secondary feathers into an upright disc displaying hundreds of eyespots",
+   "Eyespots are shaded so they appear three-dimensional, like balls in sockets"
+  ],
+  "animal": {
+   "diet": "Fallen fruit, seeds, leaves, ants and other invertebrates",
+   "habitat": "Lowland and hill dipterocarp rainforest",
+   "size": "Males up to about 1.6–2 m including the tail; females about 75 cm",
+   "behaviour": "Males call from their dancing grounds and display there to visiting females; the species is far more often heard than seen.",
+   "fieldMarks": [
+    "Very large pheasant with a small bare blue head",
+    "Male: extremely long central tail feathers and broad secondaries with rows of eyespots",
+    "Overall brown, finely patterned plumage",
+    "Female much smaller with a short tail"
+   ],
+   "voice": "Loud, far-carrying 'kwow-wow' calls from males, and a long series of 'wow' notes that accelerate; one of the classic sounds of Malaysian forests",
+   "lookalikes": "Crested argus (Vietnam, Laos, Malaysia's highlands) has a crest and different eyespot pattern; peacock-pheasants are much smaller with metallic eyespots.",
+   "whereToSee": "Taman Negara, Malaysia; Danum Valley, Sabah; Khao Sok and Hala-Bala in Thailand",
+   "season": "Resident year-round",
+   "order": "Galliformes"
+  },
+  "iucn": "VU",
+  "lore": "Named after Argus Panoptes, the hundred-eyed giant of Greek myth. In 'The Descent of Man' (1871), Darwin used the gradation of the great argus's eyespots to argue how sexual selection could build complex ornaments step by step.",
+  "funFact": "The male's display is so rarely witnessed in the wild that much of what is known comes from captive birds and camera traps."
+ },
+ {
+  "slug": "buceros-rhinoceros",
+  "scientific": "Buceros rhinoceros",
+  "common": "Rhinoceros hornbill",
+  "otherNames": [
+   "Kenyalang (Iban)",
+   "Enggang (Malay)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Bucerotidae",
+  "shelves": [
+   "endangered",
+   "sacred"
+  ],
+  "summary": "A huge black-and-white hornbill crowned with an extravagant upturned orange-red casque, like a rhinoceros horn. It is the state bird of Sarawak, 'Land of the Hornbills', and a major disperser of rainforest seeds.",
+  "nativeRange": "Southern Thailand, Peninsular Malaysia, Sumatra, Java and Borneo; long extinct as a breeder in Singapore, with occasional wild wanderers recorded since 2025",
+  "regions": [
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Tropical rainforest"
+  ],
+  "abilities": [
+   "Disperses the large seeds of figs and other rainforest trees over wide areas",
+   "Female seals herself into a tree cavity nest, fed by the male",
+   "Wingbeats are so loud they can be heard from a distance as a whooshing roar"
+  ],
+  "animal": {
+   "diet": "Mainly figs and other fruit; also insects, lizards and small vertebrates",
+   "habitat": "Lowland and hill rainforest with large old trees",
+   "size": "About 80–120 cm long",
+   "behaviour": "Pairs fly between fruiting trees with loud, whooshing wingbeats; the sealed-in female relies on the male for months.",
+   "fieldMarks": [
+    "Very large black hornbill with white belly and white tail with a black band",
+    "Massive ivory-yellow bill topped by an orange-red casque curving upward like a horn",
+    "Red eye in males, white eye in females",
+    "Loud wing noise in flight"
+   ],
+   "voice": "Deep, resonant 'gronk' calls; pairs duet with the male's lower notes and the female's higher ones",
+   "lookalikes": "Great hornbill has a flatter, yellow, two-pointed casque and a white neck; Helmeted hornbill has a short red casque and long central tail feathers.",
+   "whereToSee": "Taman Negara (Malaysia), Kinabatangan River and Danum Valley (Sabah), Lambir Hills (Sarawak), Khao Sok (Thailand)",
+   "season": "Resident year-round",
+   "order": "Bucerotiformes"
+  },
+  "iucn": "VU",
+  "lore": "Among the Iban of Sarawak, the kenyalang is the messenger of the upper world, and carved hornbill effigies were raised in the Gawai Kenyalang festival. The bird appears on Sarawak's coat of arms.",
+  "funFact": "Its casque is mostly hollow and light, unlike the solid casque of the Helmeted hornbill."
+ },
+ {
+  "slug": "pavo-muticus",
+  "scientific": "Pavo muticus",
+  "common": "Green peafowl",
+  "otherNames": [
+   "Lǜ kǒngquè 绿孔雀 (Chinese)",
+   "Merak hijau (Indonesian/Malay)",
+   "Daung (Burmese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Phasianidae",
+  "shelves": [
+   "endangered",
+   "sacred",
+   "marvel"
+  ],
+  "summary": "A tall, upright peafowl clad in shimmering green and bronze scales with a narrow tuft-like crest, the Southeast Asian counterpart of the Indian peafowl. Both sexes are brightly coloured, and the male carries a glittering train of eyespot feathers.",
+  "nativeRange": "Formerly NE India and Bangladesh to Southeast Asia and Java; now in fragmented populations in Yunnan (China), Myanmar, Thailand, Cambodia, Laos, Vietnam and Java",
+  "regions": [
+   "Southeast Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Dry deciduous forest",
+   "Open woodland",
+   "Riverine forest"
+  ],
+  "abilities": [
+   "Males raise a train of over 100 eyespotted feathers in display",
+   "Roosts high in trees and calls loudly at dawn and dusk",
+   "Can fly strongly despite its size"
+  ],
+  "animal": {
+   "diet": "Seeds, grain, fruit, insects, small reptiles and frogs",
+   "habitat": "Open forest, riverbanks and forest edges with grassy clearings",
+   "size": "Males about 1.8–3 m including the train; females about 1–1.1 m",
+   "behaviour": "Feeds in clearings and on riverbanks in early morning and evening, retreating to dense cover; males display at traditional sites.",
+   "fieldMarks": [
+    "Upright, slim crest of tufts (not fan-shaped as in Indian peafowl)",
+    "Green and bronze scaly neck and breast (not blue)",
+    "Bare yellow-and-blue facial skin",
+    "Females almost as colourful as males, but without the train"
+   ],
+   "voice": "Loud, honking 'ki-wao' or 'aow-aaw', less shrill than the Indian peafowl",
+   "lookalikes": "Indian peafowl male has a blue neck and fan-shaped crest, and the female is drab brown; hybrids ('Spalding' peafowl) occur in captivity.",
+   "whereToSee": "Huai Kha Khaeng Wildlife Sanctuary (Thailand), Baluran National Park (Java), Cat Tien (Vietnam), and parts of Yunnan",
+   "season": "Resident year-round; breeding display in the dry season",
+   "order": "Galliformes"
+  },
+  "iucn": "EN",
+  "lore": "The peacock was the emblem of the Burmese Konbaung kings and remains a national symbol of Myanmar.",
+  "funFact": "A 2016 survey estimated fewer than 500 wild green peafowl left in China, all in Yunnan."
+ },
+ {
+  "slug": "leucopsar-rothschildi",
+  "scientific": "Leucopsar rothschildi",
+  "common": "Bali myna",
+  "otherNames": [
+   "Jalak Bali (Indonesian/Balinese)",
+   "Bali starling",
+   "Rothschild's myna"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Sturnidae",
+  "shelves": [
+   "endangered"
+  ],
+  "summary": "A snow-white starling with black wingtips, a drooping crest and a patch of bare sky-blue skin around each eye, found wild only on Bali. Trapping for the cagebird trade pushed it to a handful of wild birds around 2000; releases have since rebuilt small populations.",
+  "nativeRange": "Endemic to NW Bali, Indonesia (West Bali National Park); reintroduced to Nusa Penida and other Bali sites",
+  "regions": [
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Dry monsoon forest",
+   "Savanna"
+  ],
+  "abilities": [
+   "Raises its long, lacy crest in display",
+   "Nests in tree holes, including old woodpecker and barbet holes",
+   "Survives in a strongly seasonal dry forest"
+  ],
+  "animal": {
+   "diet": "Fruit, seeds, insects and other invertebrates",
+   "habitat": "Dry deciduous monsoon forest, acacia savanna and village edges",
+   "size": "About 25 cm long",
+   "behaviour": "Pairs and small groups move through the canopy and forest edge, raising their crests and calling loudly.",
+   "fieldMarks": [
+    "Almost entirely white starling",
+    "Black tips to the wings and tail",
+    "Bare bright blue skin around the eye",
+    "Long, drooping white crest; yellowish bill and blue-grey legs"
+   ],
+   "voice": "Loud, varied chattering, harsh calls and whistles typical of starlings",
+   "lookalikes": "Black-winged myna (Java, Bali) has extensive black wings and a black tail and a yellow face patch; Javan white-eyes are tiny and green.",
+   "whereToSee": "West Bali National Park (Bali Barat), Nusa Penida island",
+   "season": "Resident",
+   "order": "Passeriformes"
+  },
+  "iucn": "CR",
+  "lore": "It is the official faunal symbol of Bali province. On Nusa Penida, Balinese villages agreed under traditional law (awig-awig) to protect released birds, a model for community-based conservation.",
+  "funFact": "It was only described to science in 1912, and named after Walter Rothschild, the zoologist who owned the famous private museum at Tring."
+ },
+ {
+  "slug": "psilopogon-asiaticus",
+  "scientific": "Psilopogon asiaticus",
+  "common": "Blue-throated barbet",
+  "otherNames": [
+   "Lán hóu nǐ zhuómùniǎo 蓝喉拟啄木鸟 (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Megalaimidae",
+  "shelves": [],
+  "summary": "A bright green barbet with a sky-blue face and throat and a red crown crossed by a black band, whose loud rolling calls echo through Himalayan foothill forests. It is a fig specialist that carves its nest hole in dead wood.",
+  "nativeRange": "Himalayan foothills from Uttarakhand through Nepal, Bhutan and NE India to Bangladesh, Myanmar, southern China, Thailand and Indochina",
+  "regions": [
+   "South Asia",
+   "Southeast Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Montane forest",
+   "Subtropical forest",
+   "Gardens"
+  ],
+  "abilities": [
+   "Disperses the seeds of figs and other fruiting trees",
+   "Excavates nest cavities in dead branches",
+   "Calls persistently from treetops through the breeding season"
+  ],
+  "animal": {
+   "diet": "Figs and other fruit; some insects",
+   "habitat": "Broadleaf forest, forest edges, orchards and gardens, up to about 2,400 m",
+   "size": "About 19–23 cm long",
+   "behaviour": "Sits motionless high in fruiting trees for long periods, so it is easier to hear than to see despite its colours.",
+   "fieldMarks": [
+    "Stocky bright green barbet with a heavy bill, pale at the base with a dark upper mandible and tip",
+    "Sky-blue face, cheeks and throat",
+    "Red forehead and crown with a black band across the crown",
+    "Small red patch at the side of the throat"
+   ],
+   "voice": "A loud, rolling 'took-a-rook, took-a-rook' or 'kutroo-kutroo', repeated endlessly",
+   "lookalikes": "Golden-throated barbet has a yellow throat; Great barbet is larger with a blue-black head and red vent; Coppersmith barbet is smaller with a yellow throat and red breast patch.",
+   "whereToSee": "Kathmandu valley gardens (Nepal), Corbett and Nainital (Uttarakhand), Darjeeling, Doi Inthanon (Thailand)",
+   "season": "Resident year-round; most vocal in spring",
+   "order": "Piciformes"
+  },
+  "iucn": "LC",
+  "lore": "Its incessant calling makes it one of the signature sounds of Himalayan hill stations such as Darjeeling and Kathmandu in spring.",
+  "funFact": "Asian barbets were once placed in the same family as African and American barbets, but genetics showed they form a separate family, Megalaimidae."
+ },
+ {
+  "slug": "oriolus-chinensis",
+  "scientific": "Oriolus chinensis",
+  "common": "Black-naped oriole",
+  "otherNames": [
+   "Hēi zhěn huánglí 黑枕黄鹂 (Chinese)",
+   "Kōraiuguisu コウライウグイス (Japanese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Oriolidae",
+  "shelves": [
+   "songbird",
+   "migrant"
+  ],
+  "summary": "A brilliant golden-yellow bird with a black band running through the eye and around the nape, whose liquid fluting calls carry through gardens and woodland from China to Indonesia. Northern birds migrate south to winter in Southeast Asia and India.",
+  "nativeRange": "Breeds from the Russian Far East, NE China and Korea south through eastern China; resident in Southeast Asia, the Philippines and Indonesia; winters in India (mainly south and northeast) and Southeast Asia",
+  "regions": [
+   "East Asia",
+   "Southeast Asia",
+   "South Asia"
+  ],
+  "biomes": [
+   "Woodland",
+   "Gardens",
+   "Mangrove",
+   "Urban"
+  ],
+  "abilities": [
+   "Weaves a hammock-like cup nest slung in a horizontal fork",
+   "Eats caterpillars, including hairy ones that many birds avoid",
+   "Long-distance migrant in the north of its range"
+  ],
+  "animal": {
+   "diet": "Insects, caterpillars, fruit and berries, nectar",
+   "habitat": "Woodland, parks, gardens, plantations and mangroves",
+   "size": "About 26–27 cm long",
+   "behaviour": "Stays high in the canopy and is often seen only as a flash of yellow in undulating flight between trees.",
+   "fieldMarks": [
+    "Bright golden-yellow body",
+    "Broad black stripe through the eye that meets at the back of the head",
+    "Black wings with yellow edgings; black tail with yellow corners",
+    "Pinkish-red bill"
+   ],
+   "voice": "Rich, liquid, fluty whistles such as 'lwee-wee-wee-leeow', and a harsh nasal 'kyaaa' alarm",
+   "lookalikes": "Indian golden oriole has a black mask only through the eye that does not join on the nape; Slender-billed oriole has a thinner bill and narrower nape band; females and young are greener with streaked underparts.",
+   "whereToSee": "Singapore and Kuala Lumpur parks year-round; Beijing and Seoul parks in summer; Andaman Islands year-round (resident race); scarce winter visitor to peninsular India",
+   "season": "Resident in Southeast Asia; summer visitor in northern China and Korea (May–Sep); winter visitor to India",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "The huánglí in Du Fu's famous Tang-dynasty quatrain 'Two orioles sing in the green willows' (两个黄鹂鸣翠柳) is this species, and the bird has been a symbol of spring in Chinese poetry ever since.",
+  "funFact": "Its Japanese name means 'Korean bush warbler', though it is not a warbler at all; in Japan it is only a scarce visitor."
+ },
+ {
+  "slug": "calidris-pygmaea",
+  "scientific": "Calidris pygmaea",
+  "common": "Spoon-billed sandpiper",
+  "otherNames": [
+   "Sháo zuǐ yù 勺嘴鹬 (Chinese)",
+   "Herashigi ヘラシギ (Japanese)",
+   "Kulik-lopaten (Russian)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Scolopacidae",
+  "shelves": [
+   "endangered",
+   "migrant",
+   "marvel",
+   "ocean"
+  ],
+  "summary": "A sparrow-sized sandpiper with a unique spatula-shaped bill tip, breeding only on coastal tundra in Chukotka and northern Kamchatka and migrating around 8,000 km down the East Asian–Australasian Flyway to winter mainly in Bangladesh and Myanmar. Only around 400–450 adult birds survive.",
+  "nativeRange": "Breeds in Chukotka and northern Kamchatka, Russia; migrates via the coasts of Japan, Korea and China (especially the Yellow Sea); winters mainly in Myanmar (Gulf of Mottama) and Bangladesh",
+  "regions": [
+   "Arctic",
+   "East Asia",
+   "Southeast Asia",
+   "South Asia",
+   "Pacific Ocean"
+  ],
+  "biomes": [
+   "Tundra",
+   "Mudflat",
+   "Coastal"
+  ],
+  "abilities": [
+   "Spoon-shaped bill tip used to sweep through soft mud for tiny invertebrates",
+   "Migrates about 8,000 km each way along the East Asian–Australasian Flyway",
+   "Depends on a few critical tidal mudflats as staging sites, especially in the Yellow Sea"
+  ],
+  "animal": {
+   "diet": "Small invertebrates: worms, crustaceans, insect larvae; seeds on the breeding grounds",
+   "habitat": "Lagoon spits and coastal tundra when breeding; tidal mudflats on migration and in winter",
+   "size": "About 14–16 cm long",
+   "behaviour": "Feeds with a sweeping side-to-side motion of the bill, like a tiny spoonbill, in shallow water and soft mud.",
+   "fieldMarks": [
+    "Small, stint-sized sandpiper",
+    "Black bill broadening into a flat spatula at the tip (best seen head-on or in profile at close range)",
+    "Breeding: rufous head, neck and breast",
+    "Winter: pale grey above, white below, with a white forehead"
+   ],
+   "voice": "A soft, rasping 'preep' in flight; males give a buzzing, trilling song in display flight on the breeding grounds",
+   "lookalikes": "Red-necked stint is almost identical in size and plumage but has a fine, pointed bill; check the bill tip carefully and watch for the sweeping feeding action.",
+   "whereToSee": "Gulf of Mottama (Martaban), Myanmar, and Sonadia Island, Bangladesh, in winter; Rudong and Tiaozini mudflats, Jiangsu, China, on migration",
+   "season": "Winter visitor to Bangladesh and Myanmar (Nov–Mar); passage migrant in China (Apr–May, Sep–Oct); breeds Jun–Aug in Chukotka",
+   "order": "Charadriiformes"
+  },
+  "iucn": "CR",
+  "lore": "Since 2012 a 'head-starting' project in Meinypilgyno, Chukotka, has collected eggs, hatched them in incubators and released fledglings to raise breeding success. The Tiaozini mudflats where it stages became part of China's Yellow Sea World Heritage site in 2019.",
+  "funFact": "Its spoon-shaped bill is already present when the chick hatches."
+ },
+ {
+  "slug": "horornis-diphone",
+  "scientific": "Horornis diphone",
+  "common": "Japanese bush warbler",
+  "otherNames": [
+   "Uguisu 鶯 (Japanese)",
+   "Rìběn shù yīng 日本树莺 (Chinese)",
+   "Japanese nightingale"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Cettiidae",
+  "shelves": [
+   "songbird",
+   "sacred"
+  ],
+  "summary": "A drab olive-brown warbler that hides in bamboo thickets but announces spring across Japan with its clear, rising whistle 'hoo-hokekyo'. It is so central to Japanese culture that its name became a byword for a beautiful voice.",
+  "nativeRange": "Japan and nearby islands including Sakhalin and the Ryukyus; related forms in Korea, eastern China and Taiwan treated as part of this species by some authorities; introduced to Hawaii",
+  "regions": [
+   "East Asia"
+  ],
+  "biomes": [
+   "Temperate forest",
+   "Bamboo thicket",
+   "Scrub"
+  ],
+  "abilities": [
+   "Song carries far from deep cover despite the bird's small size",
+   "Males sing almost continuously through spring and summer",
+   "Introduced population thrives in Hawaiian forests"
+  ],
+  "animal": {
+   "diet": "Insects and spiders; some nectar and fruit",
+   "habitat": "Dense undergrowth, bamboo thickets, scrub and forest edge from lowland to mountains",
+   "size": "About 14–16 cm long (males larger than females)",
+   "behaviour": "Skulks low in dense vegetation and is rarely seen in the open; in winter it moves to lower ground and gives only short 'chat' calls.",
+   "fieldMarks": [
+    "Plain olive-brown upperparts and buffy-grey underparts",
+    "Pale eyebrow stripe",
+    "Rounded tail and short wings",
+    "Lacks the bright eye-ring and yellow-green tones of the Japanese white-eye"
+   ],
+   "voice": "A long, rising whistle followed by an explosive flourish, written 'hoo-hokekyo'; also a rapid 'kekyo-kekyo-kekyo' sequence",
+   "lookalikes": "Japanese white-eye (mejiro) is brighter green with a white eye-ring and is often mistaken for the uguisu; Manchurian bush warbler is larger and browner.",
+   "whereToSee": "City parks and temple gardens throughout Japan in spring, e.g. Kyoto's Higashiyama and Tokyo's Meiji Jingu forest; also Oahu, Hawaii",
+   "season": "Resident; sings from late February to summer, in winter heard only as a call",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "The Kokinshū (905) preface lists the uguisu singing among the blossoms as a voice of poetry, and its song is heard as 'Hokekyō', the Japanese name of the Lotus Sutra. Its droppings (uguisu no fun) were traditionally used in Japanese facial cosmetics.",
+  "funFact": "The squeaking 'nightingale floors' (uguisubari) of Kyoto's Nijō Castle and Chion-in temple are named after the bird's chirping."
+ },
+ {
+  "slug": "halcyon-smyrnensis",
+  "scientific": "Halcyon smyrnensis",
+  "common": "White-throated kingfisher",
+  "otherNames": [
+   "Kilkila (Hindi/Urdu)",
+   "Māchrāṅgā (Bengali)",
+   "Bái xiōng fěicuì 白胸翡翠 (Chinese)",
+   "White-breasted kingfisher"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Alcedinidae",
+  "shelves": [],
+  "summary": "A big-billed kingfisher with a chocolate head, a brilliant turquoise back and a shining white bib, often seen far from water on wires above fields. It eats lizards, crabs, insects and even small snakes as readily as fish.",
+  "nativeRange": "Turkey, the Levant and Iraq through Iran, Pakistan, India, Sri Lanka and Bangladesh to southern China, Southeast Asia and the Philippines",
+  "regions": [
+   "West Asia",
+   "South Asia",
+   "East Asia",
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Farmland",
+   "Wetland",
+   "Open woodland",
+   "Urban"
+  ],
+  "abilities": [
+   "Hunts on dry land as well as in water, taking lizards, frogs, mice and large insects",
+   "Digs a nest tunnel in earth banks with its bill",
+   "Beats large prey against a perch before swallowing"
+  ],
+  "animal": {
+   "diet": "Large insects, lizards, frogs, crabs, fish, small snakes, rodents and occasionally small birds",
+   "habitat": "Open country, canals, rice fields, gardens, mangroves and forest edge",
+   "size": "About 27–28 cm long",
+   "behaviour": "Perches conspicuously on wires and posts, dropping to the ground for prey; displays from treetops with wings spread to show the white patches.",
+   "fieldMarks": [
+    "Large kingfisher with a massive red bill",
+    "Chocolate-brown head and belly, sharply defined white throat and breast",
+    "Brilliant turquoise-blue back, wings and tail",
+    "Large white wing patches visible in flight"
+   ],
+   "voice": "A loud, shrill, whinnying 'kililili' trill, given from perches and in flight",
+   "lookalikes": "Stork-billed kingfisher is larger with an ochre head and body; Black-capped kingfisher has a black cap and white collar; Common kingfisher is tiny with orange underparts.",
+   "whereToSee": "Canals and fields across Punjab and Sindh, Keoladeo, Sri Lankan paddies; Lahore and Delhi gardens",
+   "season": "Resident year-round",
+   "order": "Coraciiformes"
+  },
+  "iucn": "LC",
+  "lore": "It is the state bird of West Bengal. The species name smyrnensis refers to Smyrna (modern Izmir) in Turkey, from where the first specimen described came.",
+  "funFact": "Despite being a kingfisher, it often lives far from any water, hunting lizards and insects in dry fields."
+ },
+ {
+  "slug": "rhinoplax-vigil",
+  "scientific": "Rhinoplax vigil",
+  "common": "Helmeted hornbill",
+  "otherNames": [
+   "Tebang mentua (Malay; 'fell the mother-in-law')",
+   "Kuì xīniǎo 盔犀鸟 (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Bucerotidae",
+  "shelves": [
+   "endangered",
+   "marvel",
+   "sacred"
+  ],
+  "summary": "A massive hornbill with a solid, ivory-like casque on its forehead and two very long central tail feathers, whose accelerating hooting call ends in a burst of maniacal laughter. Hunted for 'red ivory', it was uplisted straight from Near Threatened to Critically Endangered in 2015.",
+  "nativeRange": "Southern Myanmar and Thailand, Peninsular Malaysia, Sumatra and Borneo",
+  "regions": [
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Tropical rainforest"
+  ],
+  "abilities": [
+   "The only hornbill with a solid casque, used in head-butting aerial contests between males",
+   "Call is one of the loudest in Asian rainforests",
+   "Disperses the seeds of strangler figs"
+  ],
+  "animal": {
+   "diet": "Mainly figs; also small animals",
+   "habitat": "Tall lowland and hill dipterocarp rainforest",
+   "size": "About 110–120 cm long, plus central tail feathers up to about 50 cm",
+   "behaviour": "Males clash in flight, striking their casques together with a loud crack; the female seals herself into a tree hole to nest.",
+   "fieldMarks": [
+    "Very large brown-black hornbill with white belly and white tail with a black band",
+    "Short, deep red casque and yellow-and-red bill; casque is solid",
+    "Bare wrinkled throat skin, red in males and pale bluish in females",
+    "Two very long, white central tail feathers trailing behind"
+   ],
+   "voice": "A long series of loud 'took' notes, spaced at first and accelerating, ending in a cackling, laugh-like crescendo",
+   "lookalikes": "Rhinoceros hornbill has a large upturned orange casque and no long tail plumes; Great hornbill has a flat yellow casque and a white neck.",
+   "whereToSee": "Danum Valley and Tabin (Sabah), Gunung Leuser (Sumatra), Budo-Sungai Padi (Thailand)",
+   "season": "Resident year-round",
+   "order": "Bucerotiformes"
+  },
+  "iucn": "CR",
+  "lore": "Its solid casque, 'hornbill ivory' (ho-ting in Chinese), was carved into belt buckles, snuff bottles and ornaments during the Ming and Qing dynasties and traded from Borneo for centuries. In Borneo, the Iban and other Dayak peoples revered the bird and wore its tail feathers.",
+  "funFact": "Its Malay name 'tebang mentua' comes from a folk tale of a man who chopped down the posts of his mother-in-law's house while she was inside and was turned into the bird: the call's accelerating 'took' notes are his axe blows, and the final cackle is his laughter as the house falls."
+ },
+ {
+  "slug": "chrysolophus-pictus",
+  "scientific": "Chrysolophus pictus",
+  "common": "Golden pheasant",
+  "otherNames": [
+   "Hóng fù jǐnjī 红腹锦鸡 (Chinese)",
+   "Jǐnjī 锦鸡 (Chinese)",
+   "Chinese pheasant"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Phasianidae",
+  "shelves": [
+   "sacred",
+   "marvel"
+  ],
+  "summary": "One of the most brilliantly coloured birds in the world: the male has a golden crest, a scarlet body, a cape of orange feathers barred with black and a very long, mottled tail. Despite its colours it is a shy bird of dense mountain thickets in central China.",
+  "nativeRange": "Mountains of central and western China (Gansu, Shaanxi, Sichuan, Hubei, Guizhou and neighbouring provinces); feral populations in Britain",
+  "regions": [
+   "East Asia",
+   "Europe"
+  ],
+  "biomes": [
+   "Montane forest",
+   "Bamboo thicket",
+   "Scrub"
+  ],
+  "abilities": [
+   "Male spreads his golden-and-black cape into a fan around the face during courtship",
+   "Lives in dense bamboo and scrub where its colours are surprisingly hard to see",
+   "Roosts in trees at night"
+  ],
+  "animal": {
+   "diet": "Seeds, leaves, shoots, berries and invertebrates",
+   "habitat": "Dense young forest, bamboo and scrub on mountainsides",
+   "size": "Males about 90–105 cm including the long tail; females 60–80 cm",
+   "behaviour": "Very secretive in the wild; males display to females by fanning the cape sideways and showing it from different angles.",
+   "fieldMarks": [
+    "Male: golden-yellow crest and rump, scarlet underparts",
+    "Male: orange cape barred with black, green upper back",
+    "Very long, cinnamon tail with dark spots",
+    "Female: barred buff-brown with a long tail"
+   ],
+   "voice": "A harsh, metallic 'cha-chak' call in spring",
+   "lookalikes": "Lady Amherst's pheasant male is white, black and green with a white cape barred black; hybrids between the two are common in captivity.",
+   "whereToSee": "Foping and Changqing reserves in the Qinling Mountains, Shaanxi; Wolong in Sichuan",
+   "season": "Resident year-round",
+   "order": "Galliformes"
+  },
+  "iucn": "LC",
+  "lore": "In Ming and Qing China, the golden pheasant was embroidered on the 'mandarin square' badges of second-rank civil officials. It is widely kept in aviaries and has been in European collections since at least the 18th century.",
+  "funFact": "Linnaeus described it in 1758 in the first edition of Systema Naturae where modern zoological names begin."
+ },
+ {
+  "slug": "rynchops-albicollis",
+  "scientific": "Rynchops albicollis",
+  "common": "Indian skimmer",
+  "otherNames": [
+   "Indian scissors-bill"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Laridae",
+  "shelves": [
+   "endangered",
+   "freshwater",
+   "marvel"
+  ],
+  "summary": "A tern-like bird with a bright orange bill whose lower half is longer than the upper, which it slices through the water surface in flight to snap up fish. It nests on sandbars of big South Asian rivers that are increasingly disturbed by people and dams.",
+  "nativeRange": "Rivers of India and Bangladesh (notably the Chambal and Ganges systems), with wintering on the Bangladesh coast; formerly the Indus in Pakistan and the Irrawaddy and Mekong",
+  "regions": [
+   "South Asia",
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "River",
+   "Sandbank",
+   "Coastal"
+  ],
+  "abilities": [
+   "Skims with its long lower mandible cutting the water, snapping shut on contact with fish",
+   "Its pupils are vertical slits, unusual among birds, which may reduce glare from water",
+   "Feeds at dusk and at night as well as by day"
+  ],
+  "animal": {
+   "diet": "Small fish and crustaceans",
+   "habitat": "Large rivers with sandbars; estuaries and coasts in winter",
+   "size": "About 40–43 cm long",
+   "behaviour": "Flies low over calm water with the lower bill slicing the surface; nests in colonies in scrapes on exposed sandbars in spring.",
+   "fieldMarks": [
+    "Black cap and upperparts with a white forehead, collar and underparts",
+    "Deep orange-red bill with a yellow tip, lower mandible much longer than upper",
+    "Long, pointed wings with a white trailing edge",
+    "Short, red legs"
+   ],
+   "voice": "Nasal, yapping 'kap-kap' calls, especially at colonies",
+   "lookalikes": "River tern has a yellow, evenly-sized bill and a grey back; Black-bellied tern is smaller with a black belly in breeding plumage.",
+   "whereToSee": "National Chambal Sanctuary (Madhya Pradesh/Rajasthan/Uttar Pradesh); Padma and Meghna rivers and the Bangladesh coast in winter",
+   "season": "Resident with local movements; breeds March–May on river sandbars",
+   "order": "Charadriiformes"
+  },
+  "iucn": "EN",
+  "lore": "It was once recorded on the Indus in Pakistan and on Myanmar's rivers, but damming, sand-mining and disturbance of river islands have left it rare or absent there.",
+  "funFact": "Skimmers are the only birds with a lower mandible longer than the upper."
+ },
+ {
+  "slug": "urocissa-ornata",
+  "scientific": "Urocissa ornata",
+  "common": "Sri Lanka blue magpie",
+  "otherNames": [
+   "Kehibella (Sinhala)",
+   "Ceylon blue magpie"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Corvidae",
+  "shelves": [
+   "endangered"
+  ],
+  "summary": "A vivid magpie of Sri Lanka's wet-zone rainforests with an ultramarine body, chestnut head and wings, and a long white-tipped tail. It lives in family groups that raise young cooperatively.",
+  "nativeRange": "Endemic to the wet zone and central hills of Sri Lanka",
+  "regions": [
+   "South Asia"
+  ],
+  "biomes": [
+   "Tropical rainforest",
+   "Montane forest"
+  ],
+  "abilities": [
+   "Breeds cooperatively, with helpers assisting the breeding pair",
+   "Joins mixed-species foraging flocks in the rainforest",
+   "Hunts large insects, frogs and lizards in the canopy"
+  ],
+  "animal": {
+   "diet": "Insects, frogs, small lizards and fruit",
+   "habitat": "Undisturbed wet evergreen forest, from lowlands to about 2,100 m",
+   "size": "About 42–47 cm long including the tail",
+   "behaviour": "Groups move noisily through the mid-canopy; at Sinharaja they can be approached quite closely along forest trails.",
+   "fieldMarks": [
+    "Bright cobalt-blue body and long blue tail with white tips",
+    "Rich chestnut head, wings and neck",
+    "Bright red bill, legs and eye-ring",
+    "Long, graduated tail"
+   ],
+   "voice": "Loud, varied calls including a ringing 'chink-chink' and harsh, rasping notes",
+   "lookalikes": "No similar bird in Sri Lanka; Red-billed blue magpie of the Himalaya has a black head and does not occur on the island.",
+   "whereToSee": "Sinharaja Forest Reserve, Horton Plains and Kitulgala, Sri Lanka",
+   "season": "Resident year-round",
+   "order": "Passeriformes"
+  },
+  "iucn": "VU",
+  "lore": "It is one of Sri Lanka's most sought-after endemic birds for visiting birdwatchers, and Sinharaja's mixed feeding flocks, often led by its calls, are a classic of tropical ornithology.",
+  "funFact": "Surveys in 2004–2006 estimated only about 10,000–20,000 individuals left."
+ },
+ {
+  "slug": "houbaropsis-bengalensis",
+  "scientific": "Houbaropsis bengalensis",
+  "common": "Bengal florican",
+  "otherNames": [
+   "Bengal bustard"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Otididae",
+  "shelves": [
+   "endangered"
+  ],
+  "summary": "A rare bustard of tall floodplain grasslands, whose black male leaps above the grass in spectacular display flights showing almost wholly white wings. Fewer than about 1,000 survive in two populations, in the Indian subcontinent and in Cambodia.",
+  "nativeRange": "Terai and Brahmaputra floodplain grasslands of Nepal and NE India (Assam, Uttar Pradesh, Arunachal Pradesh); a separate subspecies in Cambodia and southern Vietnam",
+  "regions": [
+   "South Asia",
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Grassland",
+   "Floodplain"
+  ],
+  "abilities": [
+   "Males spring high above the grass in display, gliding back down with a whirr of wings",
+   "Females raise chicks alone, hidden in tall grass",
+   "Depends on grassland maintained by floods and fire"
+  ],
+  "animal": {
+   "diet": "Grasshoppers, beetles, ants and other insects; shoots, seeds and flowers",
+   "habitat": "Tall, wet alluvial grassland interspersed with shorter grass",
+   "size": "About 66–68 cm long",
+   "behaviour": "Males hold display territories in short grass patches in spring, leaping vertically into the air repeatedly at dawn and dusk.",
+   "fieldMarks": [
+    "Male: black head, neck and underparts with a slight crest",
+    "Male: wings almost entirely white, conspicuous in flight",
+    "Female: buff-brown and heavily patterned, larger than the male",
+    "Long legs and neck; walks upright through grass"
+   ],
+   "voice": "Usually silent; a metallic 'chik-chik' when flushed",
+   "lookalikes": "Lesser florican (India) is smaller and males have long head plumes and a white collar; female Lesser florican is smaller and more slender.",
+   "whereToSee": "Kaziranga and Manas (Assam), Dudhwa (Uttar Pradesh), Shuklaphanta and Koshi Tappu (Nepal), Tonle Sap grasslands (Cambodia)",
+   "season": "Resident; best seen during displays Mar–May",
+   "order": "Otidiformes"
+  },
+  "iucn": "CR",
+  "lore": "Colonial-era hunters prized it as a gamebird, and the drainage and ploughing of floodplain grasslands since have reduced it to protected reserves.",
+  "funFact": "Unlike most bustards, the female is larger than the male."
+ },
+ {
+  "slug": "ibidorhyncha-struthersii",
+  "scientific": "Ibidorhyncha struthersii",
+  "common": "Ibisbill",
+  "otherNames": [
+   "Huán zuǐ yù 鹮嘴鹬 (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Ibidorhynchidae",
+  "shelves": [
+   "freshwater",
+   "marvel"
+  ],
+  "summary": "A grey shorebird with a crimson, down-curved bill and a black face and breast band, living on the shingle beds of fast mountain rivers across High Asia. It is so distinct that it sits in a family of its own.",
+  "nativeRange": "Mountains of Central and High Asia: Kazakhstan, Kyrgyzstan and Tajikistan through northern Pakistan, Ladakh, Nepal, Bhutan and Tibet to northern and central China",
+  "regions": [
+   "Central Asia",
+   "South Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "River",
+   "Alpine"
+  ],
+  "abilities": [
+   "Probes under stones in fast-flowing glacial rivers for larvae",
+   "Camouflaged grey plumage matches river shingle",
+   "Breeds at altitudes up to about 4,400 m"
+  ],
+  "animal": {
+   "diet": "Aquatic insects and larvae, small fish and crustaceans",
+   "habitat": "Shingle and stony braided river beds in mountain valleys, roughly 1,700–4,400 m",
+   "size": "About 38–41 cm long",
+   "behaviour": "Wades in rushing water, reaching under stones with its curved bill; very hard to spot until it moves.",
+   "fieldMarks": [
+    "Grey-brown upperparts and grey neck and breast",
+    "Long, down-curved crimson bill",
+    "Black face and black breast band bordered with white",
+    "Red legs (duller outside breeding season)"
+   ],
+   "voice": "A ringing, whistled 'klee-klee' and a 'tee-tee-tee' trill, carrying over the noise of rivers",
+   "lookalikes": "No real lookalike: curlews and whimbrels are brown, streaked and lack the black breast band and red bill.",
+   "whereToSee": "Hunza and Chitral rivers in northern Pakistan; Indus valley near Leh in Ladakh; Langtang and Mustang in Nepal; mountain rivers near Beijing in winter",
+   "season": "Resident, moving to lower river valleys in winter",
+   "order": "Charadriiformes"
+  },
+  "iucn": "LC",
+  "lore": "It is a prize sighting for birders visiting the Karakoram and Ladakh, where its grey plumage vanishes against river stones.",
+  "funFact": "It is the only member of the family Ibidorhynchidae."
+ },
+ {
+  "slug": "urocissa-erythroryncha",
+  "scientific": "Urocissa erythroryncha",
+  "common": "Red-billed blue magpie",
+  "otherNames": [
+   "Hóng zuǐ lán què 红嘴蓝鹊 (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Corvidae",
+  "shelves": [],
+  "summary": "A long-tailed magpie of Himalayan and Chinese hill forests with a black hood, white nape, lavender-blue back and a tail longer than its body, tipped in white. Bold and noisy, it raids nests and visits campsites for scraps.",
+  "nativeRange": "Western Himalaya (Himachal Pradesh) east through Nepal, Bhutan and NE India to Myanmar, much of eastern China and Indochina",
+  "regions": [
+   "South Asia",
+   "East Asia",
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Montane forest",
+   "Subtropical forest",
+   "Gardens"
+  ],
+  "abilities": [
+   "Raids nests of other birds for eggs and nestlings",
+   "Caches food in the ground or crevices",
+   "Groups mob predators loudly"
+  ],
+  "animal": {
+   "diet": "Insects, fruit, eggs and nestlings, small reptiles, carrion and scraps",
+   "habitat": "Broadleaf and mixed hill forest, forest edge, villages and parks",
+   "size": "About 65–68 cm long including a tail of around 45 cm",
+   "behaviour": "Small groups follow one another in a straggling line between trees, long tails streaming behind.",
+   "fieldMarks": [
+    "Black head and breast with a white patch on the crown and nape",
+    "Lavender-blue back and wings",
+    "Very long, graduated blue tail with white tips and black bands",
+    "Bright red bill and legs"
+   ],
+   "voice": "Loud, varied calls including a harsh 'chuk-chuk' and a ringing 'pit-pit-pitpit'",
+   "lookalikes": "Yellow-billed blue magpie (western Himalaya, higher altitudes) has a yellow bill and smaller white nape patch; Common green magpie is green with a red bill.",
+   "whereToSee": "Kathmandu valley forests (Shivapuri), Corbett and Nainital (India), Beijing's Fragrant Hills",
+   "season": "Resident year-round",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "It is a common park bird in central and southern China and a familiar subject in Chinese bird-and-flower painting.",
+  "funFact": "Its tail can be roughly two-thirds of its total length."
+ },
+ {
+  "slug": "lanius-schach",
+  "scientific": "Lanius schach",
+  "common": "Long-tailed shrike",
+  "otherNames": [
+   "Lahtora (Hindi/Urdu)",
+   "Zōng bèi bóláo 棕背伯劳 (Chinese)",
+   "Rufous-backed shrike"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Laniidae",
+  "shelves": [],
+  "summary": "A predatory songbird with a black bandit mask and a rufous back, which perches on bushes and wires to pounce on insects, lizards and small birds. Like other shrikes it impales surplus prey on thorns as a larder.",
+  "nativeRange": "Kazakhstan and Iran through Afghanistan, Pakistan, India, Sri Lanka and Nepal to China, Southeast Asia and New Guinea",
+  "regions": [
+   "Central Asia",
+   "West Asia",
+   "South Asia",
+   "East Asia",
+   "Southeast Asia",
+   "Oceania"
+  ],
+  "biomes": [
+   "Scrub",
+   "Farmland",
+   "Open woodland"
+  ],
+  "abilities": [
+   "Impales prey on thorns and barbed wire for storage and to tear it apart",
+   "Mimics the calls of other birds within its song",
+   "Takes vertebrate prey as large as small birds and mice"
+  ],
+  "animal": {
+   "diet": "Large insects, lizards, small birds, rodents and frogs",
+   "habitat": "Open scrub, cultivation, gardens and hedgerows",
+   "size": "About 25 cm long",
+   "behaviour": "Sits upright on exposed perches, swinging its long tail, then drops on prey; males defend territories with harsh calls and songs full of mimicry.",
+   "fieldMarks": [
+    "Black mask through the eye, grey crown and nape",
+    "Rufous back, rump and flanks",
+    "Long, graduated black tail with pale edges",
+    "Hooked black bill; small white wing patch"
+   ],
+   "voice": "Harsh 'chaak' and grating calls; song is a quiet, rambling warble with much mimicry",
+   "lookalikes": "Bay-backed shrike is smaller with a black forehead and maroon back; Isabelline shrike is sandy-brown; Grey-backed shrike (Himalaya) has an all-grey back.",
+   "whereToSee": "Hedgerows and farmland across Punjab, Islamabad's sector parks and northern Pakistan valleys in summer; widespread in India and Sri Lanka in winter",
+   "season": "Resident or partly migratory; northern breeders move south in winter",
+   "order": "Passeriformes"
+  },
+  "iucn": "LC",
+  "lore": "The shrike habit of impaling prey earned the family the English folk name 'butcher-bird'."
+ },
+ {
+  "slug": "gallus-lafayettii",
+  "scientific": "Gallus lafayettii",
+  "common": "Sri Lanka junglefowl",
+  "otherNames": [
+   "Wali kukula (Sinhala)",
+   "Ceylon junglefowl"
+  ],
+  "kingdom": "Animalia",
+  "form": "Bird",
+  "family": "Phasianidae",
+  "shelves": [
+   "sacred"
+  ],
+  "summary": "Sri Lanka's national bird, a wild relative of the chicken whose rooster glows orange-red and gold with a red comb marked by a yellow centre. It is endemic to the island and common in its national parks.",
+  "nativeRange": "Endemic to Sri Lanka",
+  "regions": [
+   "South Asia"
+  ],
+  "biomes": [
+   "Tropical forest",
+   "Scrub",
+   "Dry forest"
+  ],
+  "abilities": [
+   "Hybridises occasionally with domestic chickens",
+   "Lives in both the wet and dry zones of Sri Lanka, from sea level to the hills",
+   "Forages by scratching leaf litter for seeds and insects"
+  ],
+  "animal": {
+   "diet": "Seeds, grain, berries, insects and other invertebrates",
+   "habitat": "Forest, scrub jungle and plantations",
+   "size": "Males about 66–73 cm; females about 35 cm",
+   "behaviour": "Roosters crow at dawn and dusk from perches; birds often feed in the open along park roads in the early morning.",
+   "fieldMarks": [
+    "Male: orange-red body with golden neck hackles",
+    "Male: red comb with a central yellow patch; red wattles",
+    "Male: dark purple-black wings and arching tail",
+    "Female: mottled brown with patterned wings"
+   ],
+   "voice": "A distinctive crow 'chuck-chraw-choyik', quite unlike the domestic cockerel's crow",
+   "lookalikes": "Red junglefowl and domestic chickens have an all-red comb and a different crow; feral chickens near villages can cause confusion.",
+   "whereToSee": "Sinharaja, Yala, Udawalawe and Horton Plains national parks",
+   "season": "Resident year-round",
+   "order": "Galliformes"
+  },
+  "iucn": "LC",
+  "lore": "It is the national bird of Sri Lanka and appears on Sri Lankan postage stamps.",
+  "funFact": "It is one of four wild Gallus species; the domestic chicken descends mainly from the Red junglefowl, but genes from the Grey and Sri Lanka junglefowl have been found in some domestic breeds."
+ }
+]

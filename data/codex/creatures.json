@@ -1,0 +1,3879 @@
+[
+ {
+  "slug": "loxodonta-africana",
+  "scientific": "Loxodonta africana",
+  "common": "African bush elephant",
+  "otherNames": [
+   "Ndovu / Tembo (Swahili)",
+   "Indlovu (Zulu)",
+   "Erin (Yoruba)",
+   "Fīl (Arabic)",
+   "Hāthī (Hindi/Urdu)",
+   "Xiàng 象 (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Elephantidae",
+  "shelves": [
+   "endangered",
+   "keystone",
+   "marvel",
+   "deadly"
+  ],
+  "summary": "The largest living land animal, a bull can stand nearly 4 m at the shoulder and weigh over 6 tonnes. Herds are led by old matriarchs whose memory of distant water and danger can decide whether a family survives a drought.",
+  "nativeRange": "Sub-Saharan Africa, from the Sahel to South Africa, in fragmented populations",
+  "regions": [
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Savanna",
+   "Tropical dry forest",
+   "Desert edge",
+   "Floodplain"
+  ],
+  "abilities": [
+   "Communicates with infrasonic rumbles below human hearing that can travel several kilometres",
+   "Senses ground-borne vibrations through sensitive feet and trunk tip",
+   "Uses a boneless, muscular trunk to pluck single leaves, lift heavy logs, suck up water and snorkel",
+   "Digs wells in dry riverbeds that other animals later drink from",
+   "Clears woodland and opens grassland, shaping whole savanna landscapes"
+  ],
+  "animal": {
+   "diet": "Herbivore: grasses, leaves, bark, roots and fruit; may eat 150 kg or more per day",
+   "habitat": "Savanna, woodland, semi-desert and river valleys",
+   "lifespan": "60–70 years",
+   "size": "Bulls up to ~4 m at shoulder and 6–7 t; cows ~2.5–3 m and 2.5–3.5 t",
+   "behaviour": "Families gather around the bones of dead elephants, touching and turning them with their trunks. Matriarchs lead herds along routes remembered over decades.",
+   "fieldMarks": [
+    "Largest land animal, grey and wrinkled",
+    "Very large ears shaped roughly like the map of Africa",
+    "Back dips in the middle; two finger-like tips on the trunk",
+    "Tusks curve outward and forward in both sexes"
+   ],
+   "voice": "Trumpeting blasts, and deep rumbles, much of it too low for people to hear, that carry several kilometres",
+   "lookalikes": "African forest elephant (Loxodonta cyclotis) is smaller with rounder ears and straighter, downward-pointing tusks. Asian elephant has small ears and a domed head. Never approach on foot; watch from a vehicle, boat or hide, or with a licensed guide.",
+   "whereToSee": "Amboseli (Kenya), Chobe (Botswana), Kruger (South Africa) and Addo Elephant National Park",
+   "season": "Resident; dry-season gatherings at rivers and waterholes",
+   "order": "Proboscidea"
+  },
+  "iucn": "EN",
+  "lore": "Pliny the Elder's Natural History (Book 8) called the elephant the animal nearest to humans in understanding. Ptolemaic Egypt captured African elephants for war, fielding them at the Battle of Raphia in 217 BCE.",
+  "historicalNames": [
+   "Elephas",
+   "Olifaunt",
+   "Elefant"
+  ],
+  "funFact": "Elephant pregnancy lasts about 22 months, the longest of any living land mammal."
+ },
+ {
+  "slug": "panthera-tigris",
+  "scientific": "Panthera tigris",
+  "common": "Tiger",
+  "otherNames": [
+   "Bāgh (Hindi/Bengali)",
+   "Puli (Tamil)",
+   "Hǔ 虎 (Chinese)",
+   "Harimau (Malay)",
+   "Tora (Japanese)",
+   "Horangi (Korean)",
+   "Babr (Persian)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Felidae",
+  "shelves": [
+   "endangered",
+   "deadly",
+   "sacred"
+  ],
+  "summary": "The largest wild cat, a solitary ambush hunter whose stripes break up its outline in tall grass and forest shade. Fewer than 6,000 remain in the wild, scattered from the Russian Far East to Sumatra.",
+  "nativeRange": "India, Nepal, Bhutan, Bangladesh, Southeast Asia, Sumatra, Russian Far East and NE China",
+  "regions": [
+   "South Asia",
+   "Southeast Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Tropical forest",
+   "Mangrove",
+   "Temperate forest",
+   "Tall grassland"
+  ],
+  "abilities": [
+   "Kills prey several times its own weight, such as gaur and sambar, with a throat or nape bite",
+   "Swims strongly and readily hunts in water, as in the Sundarbans mangroves",
+   "Roars that can carry about 3 km through forest",
+   "Marks territories with scent sprays and scrapes that tell rivals its sex and status"
+  ],
+  "animal": {
+   "diet": "Carnivore: deer, wild pigs, gaur, buffalo; occasionally fish and smaller prey",
+   "habitat": "Forests, mangroves and grasslands with dense cover and water",
+   "lifespan": "10–15 years in the wild; to ~20 in captivity",
+   "size": "Males 180–300 kg and up to ~3 m including tail; females smaller",
+   "behaviour": "Hunts alone by stalking to within a few metres before a short explosive rush. Each tiger's stripe pattern is unique.",
+   "fieldMarks": [
+    "Largest cat, orange with black vertical stripes",
+    "White underparts and white spots on the backs of the ears",
+    "Stripe pattern unique to each animal",
+    "Long, ringed tail"
+   ],
+   "voice": "A deep roar; a soft, snorting 'chuff' (prusten) as a friendly greeting",
+   "lookalikes": "Leopards have rosettes, not stripes. Never approach on foot; watch from a vehicle, boat or hide, or with a licensed guide.",
+   "whereToSee": "Ranthambore, Bandhavgarh, Kanha and Tadoba (India); Chitwan (Nepal) — all by guided safari vehicle",
+   "season": "Resident; Indian parks are usually open about Oct–Jun, with sightings easiest in the hot months Apr–Jun at waterholes",
+   "order": "Carnivora"
+  },
+  "iucn": "EN",
+  "lore": "The Hindu goddess Durga rides a tiger into battle against the demon Mahishasura. In Chinese cosmology the White Tiger (Bai Hu) guards the West, and the tiger is the third animal of the zodiac.",
+  "historicalNames": [
+   "Tigris",
+   "Tygre",
+   "Tigre"
+  ],
+  "funFact": "The stripes are in the skin as well as the fur: a shaved tiger is still striped."
+ },
+ {
+  "slug": "panthera-uncia",
+  "scientific": "Panthera uncia",
+  "common": "Snow leopard",
+  "otherNames": [
+   "Irbis (Mongolian/Kazakh)",
+   "Shan (Ladakhi)",
+   "Barfānī chītā (Hindi/Urdu)",
+   "Xuěbào 雪豹 (Chinese)",
+   "Sa (Tibetan)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Felidae",
+  "shelves": [
+   "endangered",
+   "marvel"
+  ],
+  "summary": "A smoky-grey cat of the high mountains of Central and South Asia, so rarely seen that it is called the 'ghost of the mountains'. Its long, thick tail works as a balance pole on cliffs and a scarf when it sleeps.",
+  "nativeRange": "Himalaya, Karakoram, Hindu Kush, Pamir, Tian Shan, Altai and Tibetan Plateau",
+  "regions": [
+   "Central Asia",
+   "South Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Alpine",
+   "Montane steppe",
+   "Rocky cliffs"
+  ],
+  "abilities": [
+   "Lives and hunts at 3,000–5,500 m, where the air holds about half the oxygen of sea level",
+   "Leaps across ravines and down cliffs several times its own body length",
+   "Large, fur-soled paws act as snowshoes",
+   "Takes down blue sheep and ibex up to three times its own weight on steep slopes"
+  ],
+  "animal": {
+   "diet": "Carnivore: blue sheep (bharal), Siberian ibex, argali, marmots, pikas; sometimes livestock",
+   "habitat": "Steep, broken alpine terrain and cliffs above the treeline",
+   "lifespan": "10–12 years in the wild; to ~20 in captivity",
+   "size": "22–55 kg; body 0.9–1.3 m with a tail 0.8–1 m",
+   "behaviour": "Unlike other big cats it cannot roar; it chuffs, mews and wails instead. It wraps its tail over its nose and face for warmth while sleeping.",
+   "fieldMarks": [
+    "Smoky-grey to cream fur with dark open rosettes",
+    "Very long, thick, furry tail",
+    "Short muzzle and pale green or grey eyes",
+    "Large, fur-padded paws"
+   ],
+   "voice": "Cannot roar; makes yowls, moans and a puffing 'chuff'",
+   "lookalikes": "Common leopard is golden with denser rosettes and a shorter, thinner tail, and lives mostly at lower elevations.",
+   "whereToSee": "Hemis National Park (Ladakh) and the Spiti Valley around Kibber, India, with local trackers",
+   "season": "Resident; winter (Jan–Mar) brings cats lower and is the usual tracking season",
+   "order": "Carnivora"
+  },
+  "iucn": "VU",
+  "lore": "The winged snow leopard Aq Bars appears on the coat of arms of Tatarstan, and the snow leopard is an emblem of Almaty and of Kyrgyzstan. Peter Matthiessen's 1978 book The Snow Leopard made the cat a Western symbol of the unseen.",
+  "historicalNames": [
+   "Uncia",
+   "Ounce",
+   "Once"
+  ],
+  "funFact": "Its tail can be nearly as long as its body, the longest relative to body size of any big cat."
+ },
+ {
+  "slug": "canis-lupus",
+  "scientific": "Canis lupus",
+  "common": "Grey wolf",
+  "otherNames": [
+   "Bheṛiyā (Hindi)",
+   "Gorg (Persian)",
+   "Dhiʾb (Arabic)",
+   "Láng 狼 (Chinese)",
+   "Ōkami (Japanese)",
+   "Börü (Turkic)",
+   "Maʼiitsoh (Navajo)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Canidae",
+  "shelves": [
+   "keystone",
+   "sacred"
+  ],
+  "summary": "The largest wild member of the dog family and the ancestor of every domestic dog. Wolves live in family packs that cooperate to hunt animals far larger than themselves across the Northern Hemisphere.",
+  "nativeRange": "North America, Europe, Asia and North Africa's edge; extirpated from much of its former range and returning in parts of Europe and the US",
+  "regions": [
+   "North America",
+   "Europe",
+   "Central Asia",
+   "East Asia",
+   "South Asia",
+   "West Asia",
+   "Arctic"
+  ],
+  "biomes": [
+   "Boreal forest",
+   "Tundra",
+   "Temperate forest",
+   "Steppe",
+   "Desert",
+   "Mountains"
+  ],
+  "abilities": [
+   "Hunts cooperatively in packs to bring down elk, moose and bison",
+   "Howls that carry for kilometres and help scattered pack members regroup",
+   "Can travel tens of kilometres in a day at a steady trot",
+   "As an apex predator, shifts the behaviour and numbers of prey, with knock-on effects on vegetation"
+  ],
+  "animal": {
+   "diet": "Carnivore: deer, elk, moose, caribou, bison, smaller mammals; scavenges carrion",
+   "habitat": "Almost any habitat with enough prey, from Arctic tundra to desert",
+   "lifespan": "6–8 years typical in the wild; up to ~13; longer in captivity",
+   "size": "25–80 kg; head-body 1–1.6 m",
+   "behaviour": "A typical pack is a breeding pair and their offspring from the past few years. Young wolves leave to find mates and found new packs, sometimes travelling hundreds of kilometres.",
+   "fieldMarks": [
+    "Large, long-legged dog-like animal",
+    "Usually grizzled grey, but can be white, black or tawny",
+    "Broad head and short, rounded ears",
+    "Tail carried low; long straight-line trotting gait"
+   ],
+   "voice": "A long, low howl, often joined by the pack in chorus",
+   "lookalikes": "Coyote is much smaller with a narrow, pointed muzzle and larger, pointed ears. Large domestic dogs can look similar; wolves have longer legs and narrow chests. Never approach on foot; watch from a vehicle, boat or hide, or with a licensed guide.",
+   "whereToSee": "Lamar Valley, Yellowstone; Algonquin Provincial Park (public howls in late summer)",
+   "season": "Resident; Yellowstone sightings best in winter and spring",
+   "order": "Carnivora"
+  },
+  "iucn": "LC",
+  "lore": "Rome's founding legend tells of a she-wolf suckling Romulus and Remus, cast in the bronze Capitoline Wolf. Turkic tradition traces the Ashina dynasty to the she-wolf Asena, and Norse myth gives the end of the world to the wolf Fenrir.",
+  "historicalNames": [
+   "Lupus",
+   "Wulf",
+   "Loup"
+  ],
+  "funFact": "The 1995–96 reintroduction of wolves to Yellowstone changed how elk used the park, a famous case study of how one predator can reshape an ecosystem."
+ },
+ {
+  "slug": "balaenoptera-musculus",
+  "scientific": "Balaenoptera musculus",
+  "common": "Blue whale",
+  "otherNames": [
+   "Ballena azul (Spanish)",
+   "Baleine bleue (French)",
+   "Lánjīng 蓝鲸 (Chinese)",
+   "Shironagasu-kujira (Japanese)",
+   "Steypireyður (Icelandic)",
+   "Blåhval (Norwegian)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Balaenopteridae",
+  "shelves": [
+   "endangered",
+   "ocean",
+   "marvel",
+   "migrant"
+  ],
+  "summary": "The largest animal known to have ever lived, larger than any dinosaur, reaching about 30 m and well over 150 tonnes. It grows that large almost entirely on krill, shrimp-like animals a few centimetres long.",
+  "nativeRange": "All oceans except the high Arctic; distinct populations in the North Atlantic, North Pacific, Indian Ocean and Southern Ocean",
+  "regions": [
+   "Pacific Ocean",
+   "Atlantic Ocean",
+   "Indian Ocean",
+   "Southern Ocean"
+  ],
+  "biomes": [
+   "Open ocean",
+   "Continental shelf edge",
+   "Upwelling zones"
+  ],
+  "abilities": [
+   "Lunge-feeds by engulfing a mouthful of water larger than its own body, then strains it through baleen",
+   "Can eat up to around 16 tonnes of krill in a day during the feeding season",
+   "Produces low-frequency calls of up to ~188 dB that can travel hundreds of kilometres underwater",
+   "Migrates thousands of kilometres between feeding and breeding grounds"
+  ],
+  "animal": {
+   "diet": "Filter feeder: almost entirely krill",
+   "habitat": "Open ocean and productive upwelling zones along shelf edges",
+   "lifespan": "80–90 years or more",
+   "size": "Typically 24–27 m; record ~30 m; up to ~150–190 t",
+   "behaviour": "A lunge takes about ten seconds, the throat pleats ballooning to hold tens of tonnes of water. Calves drink a fat-rich milk and gain around 90 kg a day.",
+   "fieldMarks": [
+    "Enormous, mottled blue-grey whale",
+    "Tall, straight blow up to about 9 m",
+    "Tiny dorsal fin set far back",
+    "Broad, U-shaped head; often raises the tail flukes when diving deep"
+   ],
+   "voice": "Very loud, low-frequency moans and pulses, mostly below human hearing",
+   "lookalikes": "Fin whale is darker grey with a taller dorsal fin and an asymmetric jaw (white on the right side). Sei whale is smaller with a more prominent fin.",
+   "whereToSee": "Mirissa (Sri Lanka), Monterey Bay and the Santa Barbara Channel (California), Loreto in the Gulf of California",
+   "season": "Sri Lanka Dec–Apr; California Jun–Oct; Gulf of California Feb–Apr",
+   "order": "Artiodactyla (Cetacea)"
+  },
+  "iucn": "EN",
+  "lore": "Robert Sibbald described a blue whale stranded on the Firth of Forth in 1692 in his Phalainologia Nova (1694), and the species was long called 'Sibbald's rorqual'. Twentieth-century whaling killed about 360,000 in the Southern Hemisphere before a 1966 ban.",
+  "historicalNames": [
+   "Balaena",
+   "Sibbald's rorqual",
+   "Sulphur-bottom"
+  ],
+  "funFact": "Its heart weighs about 180 kg, and its tongue alone can weigh as much as an elephant."
+ },
+ {
+  "slug": "orcinus-orca",
+  "scientific": "Orcinus orca",
+  "common": "Orca (killer whale)",
+  "otherNames": [
+   "Kéet (Tlingit)",
+   "Sḵana (Haida)",
+   "Aarluk (Inuktitut)",
+   "Shachi (Japanese)",
+   "Hǔjīng 虎鲸 (Chinese)",
+   "Ballena asesina (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Delphinidae",
+  "shelves": [
+   "ocean",
+   "marvel",
+   "sacred"
+  ],
+  "summary": "The largest dolphin and the ocean's top predator, found in every ocean from the polar ice to the tropics. Orca populations have distinct diets, hunting methods and call dialects passed down through family lines, which biologists describe as culture.",
+  "nativeRange": "All oceans; most abundant in cold, productive waters of the North Pacific, North Atlantic and Southern Ocean",
+  "regions": [
+   "Pacific Ocean",
+   "Atlantic Ocean",
+   "Indian Ocean",
+   "Southern Ocean",
+   "Arctic",
+   "Antarctica"
+  ],
+  "biomes": [
+   "Open ocean",
+   "Coastal waters",
+   "Polar seas"
+  ],
+  "abilities": [
+   "Hunts with echolocation and coordinated group tactics",
+   "Creates waves in unison to wash seals off Antarctic ice floes",
+   "Deliberately beaches itself to snatch sea lion pups, then wriggles back into the sea (Patagonia, Crozet Islands)",
+   "Passes learned dialects and hunting traditions from mothers and grandmothers to offspring",
+   "Kills great white sharks and blue whales"
+  ],
+  "animal": {
+   "diet": "Carnivore; varies by population: salmon, herring, seals, sea lions, sharks, other whales",
+   "habitat": "Coastal and open ocean, especially cold waters",
+   "lifespan": "Males ~30–60 years; females ~50–80+ years",
+   "size": "Males 6–8 m (rarely ~9 m), up to ~6 t; dorsal fin to 1.8 m",
+   "behaviour": "Resident orcas of the Pacific Northwest stay with their mothers for life. Females live decades past menopause, and these grandmothers lead the family to salmon in lean years.",
+   "fieldMarks": [
+    "Bold black and white pattern with a white eye patch",
+    "Grey 'saddle patch' behind the dorsal fin",
+    "Males have a very tall, straight dorsal fin",
+    "Travels in family pods"
+   ],
+   "voice": "Clicks, whistles and pulsed calls; each pod has its own dialect",
+   "lookalikes": "False killer whale is all-dark and slimmer. Risso's dolphin is grey and scarred. Female orcas have curved fins like large dolphins.",
+   "whereToSee": "San Juan Islands and Salish Sea (Washington/British Columbia); northern Norway (Skjervøy area) in winter; Península Valdés, Argentina",
+   "season": "Salish Sea mainly summer; Norway Nov–Jan with the herring; Valdés beach-hunting Mar–Apr",
+   "order": "Artiodactyla (Cetacea)"
+  },
+  "iucn": "DD",
+  "lore": "Orcas are crest animals of Haida, Tlingit and other Northwest Coast nations, carved on totem poles. At Eden, New South Wales, a pod led by 'Old Tom' herded baleen whales towards human whalers in exchange for the tongues and lips, a partnership that lasted into the 1920s.",
+  "historicalNames": [
+   "Orca",
+   "Grampus",
+   "Ork"
+  ],
+  "funFact": "IUCN lists the orca as Data Deficient because it may comprise several species that have not yet been formally separated."
+ },
+ {
+  "slug": "tursiops-truncatus",
+  "scientific": "Tursiops truncatus",
+  "common": "Common bottlenose dolphin",
+  "otherNames": [
+   "Delfín mular (Spanish)",
+   "Dulfīn (Arabic)",
+   "Hando-iruka (Japanese)",
+   "Kuānwěn hǎitún 宽吻海豚 (Chinese)",
+   "Grand dauphin (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Delphinidae",
+  "shelves": [
+   "ocean",
+   "marvel"
+  ],
+  "summary": "A widespread dolphin of warm and temperate seas, one of the most studied animals for intelligence. Each dolphin develops its own signature whistle, which others use to call it, much like a name.",
+  "nativeRange": "Temperate and tropical oceans worldwide, coastal and offshore",
+  "regions": [
+   "Atlantic Ocean",
+   "Pacific Ocean",
+   "Indian Ocean",
+   "Caribbean",
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Coastal waters",
+   "Estuaries",
+   "Open ocean"
+  ],
+  "abilities": [
+   "Echolocates with clicks precise enough to tell objects apart by shape and material",
+   "Uses a signature whistle as a personal name and copies others' whistles to address them",
+   "Recognises itself in a mirror",
+   "Sleeps with one brain hemisphere at a time, keeping one eye open",
+   "Some Florida dolphins herd fish with a ring of stirred-up mud and catch them as they leap out"
+  ],
+  "animal": {
+   "diet": "Carnivore: fish, squid, crustaceans",
+   "habitat": "Bays, estuaries, coasts and offshore waters",
+   "lifespan": "40–60 years",
+   "size": "2–4 m; 150–650 kg",
+   "behaviour": "In Laguna, Brazil, bottlenose dolphins drive mullet towards fishermen and give a signal for when to cast their nets, a cooperation passed down through generations of both dolphins and people.",
+   "fieldMarks": [
+    "Robust grey dolphin, darker on the back",
+    "Short, stubby beak and a crease above it",
+    "Tall, curved dorsal fin in mid-back",
+    "Often bow-rides and leaps"
+   ],
+   "voice": "Clicks for echolocation and individual 'signature whistles'",
+   "lookalikes": "Indo-Pacific bottlenose dolphin is smaller with a longer beak and often belly spots. Common dolphins have an hourglass pattern on the side.",
+   "whereToSee": "Chanonry Point (Moray Firth) and Cardigan Bay, UK; Sarasota Bay, Florida",
+   "season": "Resident in many coastal areas; Chanonry best on a rising tide in summer",
+   "order": "Artiodactyla (Cetacea)"
+  },
+  "iucn": "LC",
+  "lore": "Herodotus tells how a dolphin carried the singer Arion of Lesbos to shore. Pliny the Younger described a dolphin at Hippo (in modern Tunisia) that befriended a boy and let him ride on its back.",
+  "historicalNames": [
+   "Delphinus",
+   "Delphin",
+   "Dolphyn"
+  ],
+  "funFact": "Dolphins remember the signature whistles of former companions after more than 20 years apart."
+ },
+ {
+  "slug": "enhydra-lutris",
+  "scientific": "Enhydra lutris",
+  "common": "Sea otter",
+  "otherNames": [
+   "Kalan (Russian)",
+   "Rakko (Japanese)",
+   "Hǎitǎ 海獭 (Chinese)",
+   "Nutria marina (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Mustelidae",
+  "shelves": [
+   "endangered",
+   "keystone",
+   "ocean",
+   "marvel",
+   "dye-fibre"
+  ],
+  "summary": "One of the smallest marine mammals, and unlike most it has no blubber, keeping warm instead with the densest fur of any animal. By eating sea urchins, sea otters protect kelp forests, a textbook case of a keystone species.",
+  "nativeRange": "Coastal North Pacific, from Hokkaido and the Kuril Islands through Alaska to California",
+  "regions": [
+   "Pacific Ocean",
+   "North America",
+   "East Asia"
+  ],
+  "biomes": [
+   "Kelp forest",
+   "Rocky coast",
+   "Estuaries"
+  ],
+  "abilities": [
+   "Floats on its back and cracks shellfish against a stone balanced on its chest",
+   "Keeps a favourite stone in a loose pouch of skin under its forearm",
+   "Has fur of up to ~150,000 hairs per square centimetre, which traps an insulating layer of air",
+   "Controls urchin numbers, allowing kelp forests to grow and support many other species"
+  ],
+  "animal": {
+   "diet": "Carnivore: sea urchins, crabs, clams, mussels, snails; eats about a quarter of its body weight daily",
+   "habitat": "Shallow coastal waters, often within 1–2 km of shore",
+   "lifespan": "10–20 years",
+   "size": "1–1.5 m; males 22–45 kg, females 14–33 kg",
+   "behaviour": "Rafts of resting otters wrap themselves in kelp or hold paws so they don't drift apart. Mothers float their pups on their bellies.",
+   "fieldMarks": [
+    "Large otter floating on its back",
+    "Dense brown fur, paler grizzled head",
+    "Small ears, blunt face, flipper-like hind feet",
+    "Uses rocks as tools on its chest"
+   ],
+   "voice": "Squeals and whistles, especially from pups",
+   "lookalikes": "Harbour seals lie belly-down and lack visible paws. River otters swim on their bellies with long, tapering tails.",
+   "whereToSee": "Monterey Bay and Elkhorn Slough (California); Kenai Fjords and Prince William Sound (Alaska)",
+   "season": "Resident",
+   "order": "Carnivora"
+  },
+  "iucn": "EN",
+  "lore": "After Vitus Bering's 1741 expedition returned with pelts, Russian and later British and American traders sold sea otter fur to China, nearly wiping the species out. The 1911 Fur Seal Treaty ended the hunt when perhaps 1,000–2,000 remained.",
+  "historicalNames": [
+   "Sea beaver",
+   "Kalan",
+   "Lutra marina"
+  ],
+  "funFact": "Sea otters are among the few mammals other than primates known to use stone tools."
+ },
+ {
+  "slug": "castor-canadensis",
+  "scientific": "Castor canadensis",
+  "common": "North American beaver",
+  "otherNames": [
+   "Amisk (Cree)",
+   "Amik (Ojibwe)",
+   "Tsá (Dene Sųłiné)",
+   "Castor (French/Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Castoridae",
+  "shelves": [
+   "keystone",
+   "dye-fibre",
+   "medicinal"
+  ],
+  "summary": "North America's largest rodent and one of its most important ecosystem engineers. Beaver dams turn streams into ponds and wetlands that store water, trap sediment and shelter fish, amphibians and birds.",
+  "nativeRange": "Most of North America from Alaska and Canada to northern Mexico; introduced to Tierra del Fuego and Finland",
+  "regions": [
+   "North America",
+   "South America",
+   "Europe"
+  ],
+  "biomes": [
+   "Rivers and streams",
+   "Wetlands",
+   "Boreal forest",
+   "Temperate forest"
+  ],
+  "abilities": [
+   "Fells trees with self-sharpening incisors whose front enamel is strengthened with iron, giving it an orange colour",
+   "Builds dams of logs, mud and stone and repairs leaks it hears or feels flowing",
+   "Stays underwater for up to ~15 minutes, with ears and nostrils that close and clear membranes over the eyes",
+   "Creates wetlands that raise water tables and act as firebreaks during wildfires"
+  ],
+  "animal": {
+   "diet": "Herbivore: bark, cambium, twigs and leaves of willow, aspen and other trees; aquatic plants",
+   "habitat": "Streams, rivers, ponds and lakes bordered by trees",
+   "lifespan": "10–15 years in the wild",
+   "size": "11–32 kg; 0.9–1.2 m including the flat tail",
+   "behaviour": "Families live in a domed lodge with underwater entrances and store branches in the pond mud as a winter food cache. A tail slap on the water warns the colony of danger.",
+   "fieldMarks": [
+    "Large brown rodent with a flat, scaly, paddle-shaped tail",
+    "Orange front teeth",
+    "Swims low with only the head showing",
+    "Dams, lodges and gnawed tree stumps nearby"
+   ],
+   "voice": "Slaps its tail loudly on the water when alarmed",
+   "lookalikes": "Muskrat is much smaller with a thin tail. Nutria has white whiskers and a round, rat-like tail. Otters swim with a long tapering tail.",
+   "whereToSee": "Algonquin Provincial Park (Ontario); Grand Teton and Rocky Mountain national parks",
+   "season": "Resident; most active at dawn and dusk",
+   "order": "Rodentia"
+  },
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Medieval and early-modern European medicine",
+     "use": "Castoreum, the scent-gland secretion of beavers, was prescribed for headaches, fevers and 'hysteria'"
+    },
+    {
+     "tradition": "Indigenous North American medicine",
+     "use": "Castoreum used in remedies for pain and as a scent lure"
+    }
+   ],
+   "compounds": [
+    "salicylic acid derivatives (from willow bark in the diet)",
+    "castoreum phenolics"
+   ],
+   "evidence": "traditional",
+   "cautions": "Historical use only; castoreum is not a recognised modern medicine."
+  },
+  "iucn": "LC",
+  "lore": "Demand for beaver-felt hats drove the fur trade that mapped much of Canada; the Hudson's Bay Company (1670) priced goods in 'made beaver' pelts. In Anishinaabe tradition, Amik is among the animals that dive to bring up mud to make the world.",
+  "historicalNames": [
+   "Castor",
+   "Bever",
+   "Castoreum"
+  ],
+  "funFact": "A beaver dam in Wood Buffalo National Park, Canada, is about 850 m long and can be seen in satellite images."
+ },
+ {
+  "slug": "ailuropoda-melanoleuca",
+  "scientific": "Ailuropoda melanoleuca",
+  "common": "Giant panda",
+  "otherNames": [
+   "Dàxióngmāo 大熊猫 (Mandarin)",
+   "Bei-shung, 'white bear' (older Chinese)",
+   "Panda géant (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Ursidae",
+  "shelves": [
+   "endangered",
+   "marvel"
+  ],
+  "summary": "A black-and-white bear of the cool bamboo forests of central China that lives almost entirely on bamboo, despite having the gut of a carnivore. Decades of reserve-building helped wild numbers recover to about 1,860 adults.",
+  "nativeRange": "Mountains of Sichuan, Shaanxi and Gansu provinces, China",
+  "regions": [
+   "East Asia"
+  ],
+  "biomes": [
+   "Temperate montane forest",
+   "Bamboo forest"
+  ],
+  "abilities": [
+   "Grips bamboo with a 'pseudo-thumb', an enlarged wrist bone that works like a sixth digit",
+   "Eats 12–38 kg of bamboo a day and spends 10–16 hours feeding",
+   "Survives on a low-energy diet by keeping its metabolism unusually low for its size",
+   "Crushes tough bamboo stems with massive jaw muscles and broad molars"
+  ],
+  "animal": {
+   "diet": "Herbivore in practice (~99% bamboo); occasionally carrion or small animals",
+   "habitat": "Temperate montane forests with dense bamboo understorey, 1,200–3,400 m",
+   "lifespan": "~20 years wild; 30+ in captivity",
+   "size": "70–125 kg; 1.2–1.9 m long",
+   "behaviour": "Newborns weigh 90–130 g, about 1/900th of their mother, among the smallest newborns relative to the mother of any placental mammal.",
+   "fieldMarks": [
+    "Bear with bold black-and-white pattern",
+    "Black eye patches, ears, legs and shoulder band",
+    "Round face with heavy cheek muscles",
+    "Often seen sitting and eating bamboo"
+   ],
+   "voice": "Bleats, huffs, honks and barks",
+   "lookalikes": "Unmistakable.",
+   "whereToSee": "Wild pandas are very rarely seen; Chengdu Research Base of Giant Panda Breeding and Wolong reserve's centres in Sichuan",
+   "season": "Resident",
+   "order": "Carnivora"
+  },
+  "iucn": "VU",
+  "lore": "The French missionary-naturalist Armand David sent the first panda skin to Paris in 1869. Since the 1950s China has lent pandas to other nations as diplomatic gifts, a practice called 'panda diplomacy'.",
+  "funFact": "IUCN downgraded the giant panda from Endangered to Vulnerable in 2016 as its wild population grew."
+ },
+ {
+  "slug": "ailurus-fulgens",
+  "scientific": "Ailurus fulgens",
+  "common": "Red panda",
+  "otherNames": [
+   "Nigalya ponya (Nepali)",
+   "Wha (Nepali)",
+   "Huǒhú 火狐, 'fire fox' (Chinese)",
+   "Xiǎo xióngmāo 小熊猫 (Mandarin)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Ailuridae",
+  "shelves": [
+   "endangered"
+  ],
+  "summary": "A russet, ring-tailed tree-dweller of the eastern Himalaya, the only living member of its family and not a close relative of the giant panda. It was called 'panda' first, decades before the giant panda was known to Western science.",
+  "nativeRange": "Nepal, Bhutan, northeast India, Myanmar and southwest China",
+  "regions": [
+   "South Asia",
+   "East Asia",
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Temperate montane forest",
+   "Bamboo forest"
+  ],
+  "abilities": [
+   "Has a false thumb (an extended wrist bone) for gripping bamboo, evolved separately from the giant panda's",
+   "Climbs down trees head-first by rotating its ankles",
+   "Lowers its metabolic rate and curls its thick tail around itself to save energy in the cold",
+   "Detects sweetness with taste receptors for artificial sweeteners such as aspartame, unusual among mammals"
+  ],
+  "animal": {
+   "diet": "Mostly bamboo leaves and shoots; also fruit, acorns, eggs and insects",
+   "habitat": "Temperate forest with bamboo understorey, 2,200–4,800 m",
+   "lifespan": "8–10 years wild; up to ~15 in captivity",
+   "size": "3–6 kg; body 50–64 cm with a tail of 28–59 cm",
+   "behaviour": "Mostly solitary and active at dawn, dusk and night, it sleeps stretched along branches by day.",
+   "fieldMarks": [
+    "Cat-sized with rusty-red fur",
+    "White face markings and tear-like stripes",
+    "Long, bushy, ringed tail",
+    "Black legs and belly"
+   ],
+   "voice": "Twittering whistles and huff-quacks",
+   "lookalikes": "Unmistakable in its range.",
+   "whereToSee": "Singalila National Park, Darjeeling (India)",
+   "season": "Resident; easiest about Mar–May and Oct–Dec",
+   "order": "Carnivora"
+  },
+  "iucn": "EN",
+  "lore": "Frédéric Cuvier named it Ailurus fulgens, 'shining cat', in 1825. The word 'panda' probably comes from a Nepali name for the animal.",
+  "funFact": "The Firefox web browser is named after it, from a Chinese name meaning 'fire fox'."
+ },
+ {
+  "slug": "pongo-abelii",
+  "scientific": "Pongo abelii",
+  "common": "Sumatran orangutan",
+  "otherNames": [
+   "Orang hutan, 'person of the forest' (Malay/Indonesian)",
+   "Mawas (Acehnese/Malay)",
+   "Xīngxing 猩猩 (Chinese)",
+   "Orang-outan (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Hominidae",
+  "shelves": [
+   "endangered",
+   "marvel"
+  ],
+  "summary": "A red-haired great ape of northern Sumatra's rainforests, the most tree-bound of all great apes. Mothers raise each infant for about eight to nine years, and young orangutans learn which plants to eat and which tools to make by watching them.",
+  "nativeRange": "Northern Sumatra, Indonesia (mainly Aceh and North Sumatra, including the Leuser Ecosystem)",
+  "regions": [
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Tropical rainforest",
+   "Peat swamp forest"
+  ],
+  "abilities": [
+   "Uses sticks to pry nutritious seeds from spiny Neesia fruits without touching the irritating hairs",
+   "Builds a fresh sleeping nest of folded branches high in the canopy every night",
+   "A wild male, Rakus, was observed in 2022 chewing a medicinal liana and applying it to a facial wound, which then healed",
+   "Disperses the seeds of many rainforest trees"
+  ],
+  "animal": {
+   "diet": "Mainly fruit (especially figs), plus leaves, bark, insects; occasionally slow lorises",
+   "habitat": "Lowland and hill rainforest and peat swamp forest",
+   "lifespan": "~50 years or more",
+   "size": "Males 70–90 kg, ~1.4 m tall standing, arm span over 2 m; females ~35–45 kg",
+   "behaviour": "Adult males develop broad cheek pads and give 'long calls' that carry about a kilometre through the forest. Births come about every 8–9 years, the longest interval of any mammal.",
+   "fieldMarks": [
+    "Large ape with long, pale reddish-orange hair",
+    "Very long arms",
+    "Adult males develop broad cheek pads and a beard",
+    "Builds nests in trees"
+   ],
+   "voice": "Flanged males give a loud, booming 'long call'",
+   "lookalikes": "Bornean orangutans are darker red with shorter hair; Tapanuli orangutans live in a small area of North Sumatra and have frizzier hair.",
+   "whereToSee": "Bukit Lawang and Ketambe in Gunung Leuser National Park, Sumatra, with licensed guides",
+   "season": "Resident",
+   "order": "Primates"
+  },
+  "iucn": "CR",
+  "lore": "The Dutch physician Jacobus Bontius described an 'Orang Outang' from the East Indies in 1658, and Linnaeus drew on such reports for his 'Homo troglodytes'. Sumatran orangutans were recognised as a species separate from Bornean ones in the late 20th century.",
+  "historicalNames": [
+   "Orang-Outang",
+   "Homo sylvestris",
+   "Satyrus"
+  ],
+  "funFact": "Rakus's wound treatment was the first systematically documented case of a wild animal treating its own wound with a plant known to contain medically active substances."
+ },
+ {
+  "slug": "pan-troglodytes",
+  "scientific": "Pan troglodytes",
+  "common": "Chimpanzee",
+  "otherNames": [
+   "Sokwe (Swahili)",
+   "Kivili-chimpenze (Tshiluba)",
+   "Hēixīngxing 黑猩猩 (Chinese)",
+   "Chimpanzé (French/Portuguese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Hominidae",
+  "shelves": [
+   "endangered",
+   "marvel"
+  ],
+  "summary": "Along with the bonobo, the chimpanzee is humanity's closest living relative, sharing about 98–99% of our DNA. Different chimp communities have their own traditions of tool use, grooming and hunting, passed on by learning.",
+  "nativeRange": "Equatorial Africa from Senegal and Guinea to Uganda and western Tanzania",
+  "regions": [
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Tropical rainforest",
+   "Woodland savanna",
+   "Montane forest"
+  ],
+  "abilities": [
+   "Strips twigs into probes to fish termites from mounds",
+   "Cracks hard nuts with stone or wooden hammers on anvils, a practice dated to at least 4,300 years ago in Côte d'Ivoire",
+   "At Fongoli, Senegal, sharpens sticks into spears to stab bushbabies in tree hollows",
+   "Hunts colobus monkeys cooperatively and shares the meat",
+   "Swallows rough leaves whole and chews bitter pith, behaviours linked to fighting parasites"
+  ],
+  "animal": {
+   "diet": "Omnivore: mainly ripe fruit, plus leaves, seeds, insects, honey and meat",
+   "habitat": "Rainforest, swamp forest and savanna woodland",
+   "lifespan": "40–50 years in the wild; 60+ in captivity",
+   "size": "Males 40–70 kg, females 27–50 kg; ~1–1.7 m standing",
+   "behaviour": "Communities split into shifting subgroups by day and patrol their borders. Males form alliances, and violent conflicts between communities have been recorded.",
+   "fieldMarks": [
+    "Ape with black hair and bare face, hands and feet",
+    "Prominent ears",
+    "Walks on knuckles",
+    "Lives in communities"
+   ],
+   "voice": "Loud 'pant-hoots' that rise to a scream; drums on tree buttresses",
+   "lookalikes": "Bonobo is slimmer with a smaller head, pink lips and hair parted in the middle; it lives only south of the Congo River.",
+   "whereToSee": "Gombe and Mahale (Tanzania), Kibale (Uganda), with permit-led tracking groups",
+   "season": "Resident",
+   "order": "Primates"
+  },
+  "iucn": "EN",
+  "lore": "Edward Tyson's 1699 anatomy of a 'Pygmie', titled Orang-Outang, sive Homo Sylvestris, was in fact a young chimpanzee and was the first scientific dissection of an ape. In 1960 Jane Goodall saw the Gombe chimpanzee David Greybeard fish for termites, overturning the idea that only humans make tools.",
+  "historicalNames": [
+   "Pygmie",
+   "Homo sylvestris",
+   "Quoja-morrou",
+   "Satyrus"
+  ],
+  "funFact": "Chimpanzees outperform human students on some quick short-term memory tests for numbers flashed on a screen."
+ },
+ {
+  "slug": "gorilla-gorilla",
+  "scientific": "Gorilla gorilla",
+  "common": "Western gorilla",
+  "otherNames": [
+   "Ngi (Fang)",
+   "Gorille (French)",
+   "Dàxīngxing 大猩猩 (Chinese)",
+   "Gorila (Spanish/Portuguese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Hominidae",
+  "shelves": [
+   "endangered",
+   "marvel"
+  ],
+  "summary": "The largest living primate, a mostly gentle, plant-eating ape of the Congo Basin and Nigeria–Cameroon forests. Families centre on a silverback male who leads, mediates and protects the group.",
+  "nativeRange": "Western equatorial Africa: Cameroon, Gabon, Republic of Congo, Central African Republic, Equatorial Guinea, Angola (Cabinda); Cross River gorillas on the Nigeria–Cameroon border",
+  "regions": [
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Tropical rainforest",
+   "Swamp forest"
+  ],
+  "abilities": [
+   "Beats its chest with cupped hands, a sound that can carry about 1 km; in mountain gorillas, the pitch of the beats has been shown to signal the male's body size",
+   "Wild western gorillas have been seen testing water depth with a walking stick",
+   "Captive gorillas such as Koko learned hundreds of signs",
+   "Disperses large seeds of many forest trees"
+  ],
+  "animal": {
+   "diet": "Herbivore: fruit, leaves, stems, pith; also termites and ants",
+   "habitat": "Lowland rainforest and swamp clearings (bais)",
+   "lifespan": "35–40 years wild; to 50+ in captivity",
+   "size": "Males 140–200 kg and up to ~1.7 m standing; females 70–100 kg",
+   "behaviour": "Each evening every gorilla builds a nest of leaves and branches on the ground or in a tree. Western gorillas travel further each day than mountain gorillas, following fruiting trees.",
+   "fieldMarks": [
+    "Very large ape with dark grey-brown hair",
+    "Adult males have a silver back and a crest on the head",
+    "Brownish crown, often reddish",
+    "Lives in groups led by a silverback"
+   ],
+   "voice": "Chest-beating, hoots and grunts",
+   "lookalikes": "Eastern gorillas (mountain and Grauer's) are darker and longer-haired and live far to the east.",
+   "whereToSee": "Odzala-Kokoua (Republic of Congo), Dzanga-Sangha (Central African Republic) and Loango (Gabon), with habituated-group permits",
+   "season": "Resident",
+   "order": "Primates"
+  },
+  "iucn": "CR",
+  "lore": "The Carthaginian Hanno's Periplus (c. 5th century BCE) tells of hairy wild people on a West African island that interpreters called 'Gorillai'. Thomas Savage and Jeffries Wyman described the gorilla for science in 1847 and borrowed that name.",
+  "historicalNames": [
+   "Gorillai",
+   "Pongo",
+   "Wild man of the woods"
+  ],
+  "funFact": "Gorillas hum and 'sing' while they eat, especially when the food is good."
+ },
+ {
+  "slug": "bradypus-variegatus",
+  "scientific": "Bradypus variegatus",
+  "common": "Brown-throated three-toed sloth",
+  "otherNames": [
+   "Perezoso (Spanish)",
+   "Preguiça (Portuguese)",
+   "Aí (Tupi)",
+   "Perico ligero, 'nimble parakeet' (old Spanish, ironic)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Bradypodidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "The most widespread three-toed sloth, a leaf-eater that saves energy by moving very little and very slowly. Its shaggy fur carries algae, moths and fungi, a small ecosystem of its own.",
+  "nativeRange": "Honduras south through Central America to northern Argentina, east of the Andes",
+  "regions": [
+   "Central America",
+   "South America"
+  ],
+  "biomes": [
+   "Tropical rainforest",
+   "Tropical dry forest"
+  ],
+  "abilities": [
+   "Has 8–9 neck vertebrae instead of the usual seven, letting it turn its head about 270°",
+   "Slows its heart and can stay underwater for many minutes; a good swimmer",
+   "Hangs effortlessly thanks to locking tendons in its curved claws",
+   "Grows green algae in grooved hairs that camouflage it among leaves"
+  ],
+  "animal": {
+   "diet": "Folivore: leaves of Cecropia and many other trees",
+   "habitat": "Lowland and montane rainforest canopy",
+   "lifespan": "~20–30 years",
+   "size": "2.2–6.3 kg; 42–80 cm",
+   "behaviour": "About once a week it climbs to the ground to defecate, its most dangerous trip. Moths living in its fur lay eggs in the dung, and their offspring fly back up to colonise the sloth.",
+   "fieldMarks": [
+    "Shaggy grey-brown fur, often greenish with algae",
+    "Brown throat and dark eye stripe",
+    "Three long curved claws on each forelimb",
+    "Males have an orange-and-black back patch"
+   ],
+   "voice": "A high, whistled 'ai-ai'",
+   "lookalikes": "Two-toed sloths (Choloepus) have two front claws, a pinkish snout and no eye mask.",
+   "whereToSee": "Manuel Antonio and Cahuita national parks, Costa Rica",
+   "season": "Resident",
+   "order": "Pilosa"
+  },
+  "iucn": "LC",
+  "lore": "Gonzalo Fernández de Oviedo, in his 1526 natural history of the Indies, called the sloth the most useless and ugliest animal he had seen and recorded its local name, perico ligero.",
+  "historicalNames": [
+   "Ignavus",
+   "Aï",
+   "Perico ligero",
+   "Ouaikaré"
+  ],
+  "funFact": "A meal can take up to a month to pass through a sloth's chambered stomach."
+ },
+ {
+  "slug": "manis-javanica",
+  "scientific": "Manis javanica",
+  "common": "Sunda pangolin",
+  "otherNames": [
+   "Tenggiling (Malay/Indonesian)",
+   "Chuānshānjiǎ 穿山甲, 'pierces-mountain armour' (Chinese)",
+   "Tê tê (Vietnamese)",
+   "Lin (Thai)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Manidae",
+  "shelves": [
+   "endangered",
+   "marvel"
+  ],
+  "summary": "A scaly, toothless ant-eater of Southeast Asian forests and plantations, armoured in overlapping keratin scales. Pangolins are thought to be the most trafficked wild mammals, poached for meat and scales.",
+  "nativeRange": "Myanmar, Thailand, Cambodia, Laos, Vietnam, Peninsular Malaysia, Singapore, Sumatra, Java, Borneo and nearby islands",
+  "regions": [
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Tropical rainforest",
+   "Secondary forest",
+   "Plantations"
+  ],
+  "abilities": [
+   "Rolls into a tight, armoured ball that most predators cannot open",
+   "Rips into ant and termite nests with powerful foreclaws",
+   "Catches insects with a long, sticky tongue anchored deep in the chest",
+   "Seals its nostrils and ears against biting ants while feeding",
+   "Grinds food with swallowed stones and keratin spines in its stomach instead of teeth"
+  ],
+  "animal": {
+   "diet": "Insectivore: ants and termites, including eggs and larvae",
+   "habitat": "Primary and secondary forest, plantations, gardens",
+   "lifespan": "Unknown in the wild; ~20 years recorded in captivity for pangolins",
+   "size": "Body 40–65 cm plus a similar tail; ~4–10 kg",
+   "behaviour": "Mostly nocturnal, it climbs well with its prehensile tail and sleeps in tree hollows or burrows. Mothers carry their single young on the base of the tail.",
+   "fieldMarks": [
+    "Covered in overlapping brown scales",
+    "Small head and long tail used for gripping",
+    "Rolls into a ball when threatened",
+    "Nocturnal and rarely seen"
+   ],
+   "lookalikes": "Chinese pangolin has larger ears and a shorter tail; Philippine pangolin lives only in Palawan.",
+   "season": "Resident; nocturnal",
+   "order": "Pholidota"
+  },
+  "iucn": "CR",
+  "lore": "The English word comes from Malay pengguling, 'one that rolls up'. Pangolin scales have long been used in traditional Chinese medicine; in 2020 China removed them from its official pharmacopoeia and gave pangolins top legal protection.",
+  "historicalNames": [
+   "Manis",
+   "Scaly lizard",
+   "Pangoelling"
+  ],
+  "funFact": "Pangolin scales are made of keratin, the same protein as human fingernails."
+ },
+ {
+  "slug": "ornithorhynchus-anatinus",
+  "scientific": "Ornithorhynchus anatinus",
+  "common": "Platypus",
+  "otherNames": [
+   "Mallangong (Dharug)",
+   "Tambreet (Aboriginal, south-east Australia)",
+   "Yāzuǐshòu 鸭嘴兽 (Chinese)",
+   "Ornitorrinco (Spanish/Portuguese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Ornithorhynchidae",
+  "shelves": [
+   "ancient",
+   "marvel",
+   "toxic"
+  ],
+  "summary": "An egg-laying, duck-billed mammal of eastern Australia's rivers and one of only five living monotremes. It hunts with its eyes, ears and nostrils shut, finding prey by the electrical fields of their muscles.",
+  "nativeRange": "Eastern Australia and Tasmania; introduced to Kangaroo Island",
+  "regions": [
+   "Australia"
+  ],
+  "biomes": [
+   "Rivers and streams",
+   "Freshwater lakes"
+  ],
+  "abilities": [
+   "Detects the electrical fields of moving prey with about 40,000 electroreceptors in its bill",
+   "Males deliver a venom from hind-leg spurs that causes intense, lasting pain in humans",
+   "Lays leathery eggs and feeds young on milk sweated from patches of skin, as it has no nipples",
+   "Its fur glows blue-green under ultraviolet light",
+   "Stores food in cheek pouches and grinds it with horny pads instead of teeth"
+  ],
+  "animal": {
+   "diet": "Carnivore: insect larvae, freshwater shrimp, yabbies, worms",
+   "habitat": "Freshwater streams, rivers and lakes with earth banks for burrows",
+   "lifespan": "Up to ~21 years in the wild",
+   "size": "40–60 cm; 0.7–2.4 kg",
+   "behaviour": "Females dig long nesting burrows and plug them with soil to guard their eggs. Platypuses eat around a fifth of their body weight in a day.",
+   "fieldMarks": [
+    "Small brown furry mammal with a soft duck-like bill",
+    "Flat, beaver-like tail",
+    "Webbed front feet",
+    "Dives briefly, leaving rings on the water"
+   ],
+   "lookalikes": "Australian water-rat (rakali) has a white-tipped tail and a rat-like head. Males have a venomous spur on each hind ankle; never handle one.",
+   "whereToSee": "Broken River, Eungella National Park and the Atherton Tablelands (Queensland); Tasmania's rivers",
+   "season": "Resident; best at dawn and dusk",
+   "order": "Monotremata"
+  },
+  "iucn": "NT",
+  "lore": "When a dried specimen reached the British zoologist George Shaw in 1799, he suspected a hoax and looked for stitches joining a duck's bill to a mammal's body. In Aboriginal stories from New South Wales the platypus is the child of a duck and a water-rat.",
+  "historicalNames": [
+   "Platypus anatinus",
+   "Ornithorhynchus paradoxus",
+   "Water mole",
+   "Duck-mole"
+  ],
+  "funFact": "The platypus has no stomach: its gullet connects directly to its intestine."
+ },
+ {
+  "slug": "phascolarctos-cinereus",
+  "scientific": "Phascolarctos cinereus",
+  "common": "Koala",
+  "otherNames": [
+   "Gula (Dharug)",
+   "Kǎolā 考拉 / Shùdàixióng 树袋熊 (Chinese)",
+   "Koala (Spanish/French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Phascolarctidae",
+  "shelves": [
+   "endangered",
+   "marvel"
+  ],
+  "summary": "A tree-dwelling marsupial that lives almost entirely on eucalyptus leaves, which are tough, low in energy and toxic to most animals. Koalas sleep or rest for up to 20 hours a day to save energy.",
+  "nativeRange": "Eastern and south-eastern Australia (Queensland, New South Wales, Victoria, South Australia)",
+  "regions": [
+   "Australia"
+  ],
+  "biomes": [
+   "Eucalyptus woodland",
+   "Temperate forest"
+  ],
+  "abilities": [
+   "Detoxifies eucalyptus oils with liver enzymes and gut microbes",
+   "Ferments leaves in a caecum up to ~2 m long, the longest relative to body size of any mammal",
+   "Males bellow at a very low pitch using a pair of extra vocal folds above the larynx",
+   "Has fingerprints that closely resemble human ones"
+  ],
+  "animal": {
+   "diet": "Eucalyptus leaves, from a few dozen preferred species; little need to drink",
+   "habitat": "Eucalyptus forests and woodlands",
+   "lifespan": "13–18 years",
+   "size": "4–15 kg (southern koalas larger); 60–85 cm",
+   "behaviour": "Mothers feed joeys a special soft dropping called 'pap', which passes on the gut microbes needed to digest eucalyptus.",
+   "fieldMarks": [
+    "Stocky grey marsupial with a big black nose",
+    "Large furry ears",
+    "No visible tail",
+    "Sits in eucalyptus forks, often asleep"
+   ],
+   "voice": "Males give loud, deep snoring bellows, mostly in the breeding season",
+   "lookalikes": "Unmistakable.",
+   "whereToSee": "Great Otway National Park (Kennett River) and Phillip Island's Koala Conservation Reserve (Victoria); Magnetic Island (Queensland)",
+   "season": "Resident; bellowing Sep–Jan",
+   "order": "Diprotodontia"
+  },
+  "iucn": "VU",
+  "lore": "The name is usually traced to Dharug gula. Millions of koalas were killed for fur in the early 20th century; public outrage at Queensland's 1927 open season led the Commonwealth to stop issuing export permits for koala skins, effectively ending the trade.",
+  "funFact": "The koala is not a bear; its closest living relatives are wombats."
+ },
+ {
+  "slug": "osphranter-rufus",
+  "scientific": "Osphranter rufus",
+  "common": "Red kangaroo",
+  "otherNames": [
+   "Marlu (Western Desert languages)",
+   "Gangurru, source of 'kangaroo' (Guugu Yimithirr)",
+   "Dàishǔ 袋鼠 (Chinese)",
+   "Canguro (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Macropodidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "The largest living marsupial, a long-legged hopper of Australia's dry interior. Hopping is so efficient at speed that a kangaroo uses little more energy going faster.",
+  "nativeRange": "Arid and semi-arid mainland Australia",
+  "regions": [
+   "Australia"
+  ],
+  "biomes": [
+   "Desert",
+   "Arid shrubland",
+   "Grassland"
+  ],
+  "abilities": [
+   "Bounds at up to ~60 km/h and covers 8 m or more in a single leap",
+   "Stores and returns energy in its elastic leg tendons like a spring",
+   "Uses its muscular tail as a fifth leg when moving slowly",
+   "Can pause the development of an embryo (embryonic diapause) until conditions improve",
+   "Can have an embryo, a joey in the pouch and a joey at foot at the same time, producing two kinds of milk from different teats"
+  ],
+  "animal": {
+   "diet": "Herbivore: grasses and forbs; can go long periods without drinking",
+   "habitat": "Open plains, desert and shrubland with scattered shade trees",
+   "lifespan": "Up to ~20 years; often less in the wild",
+   "size": "Males up to ~85 kg and ~1.6 m long plus tail; females ~35 kg",
+   "behaviour": "Rival males 'box', grappling with forearms and kicking with their hind feet while balanced on their tails. Kangaroos lick their forearms to cool off.",
+   "fieldMarks": [
+    "Largest kangaroo",
+    "Males usually red-brown, females blue-grey",
+    "Black and white marks on the muzzle",
+    "Pale underparts"
+   ],
+   "lookalikes": "Eastern and western grey kangaroos lack the black and white muzzle marks and have dark tail tips. Large males can kick and box. Keep a respectful distance.",
+   "whereToSee": "Sturt National Park (NSW), Flinders Ranges (SA) and Mutawintji National Park",
+   "season": "Resident; active at dawn and dusk",
+   "order": "Diprotodontia"
+  },
+  "iucn": "LC",
+  "lore": "Joseph Banks and James Cook recorded the word 'kangaroo' from Guugu Yimithirr speakers at the Endeavour River in 1770 (their animal was a grey kangaroo). The red kangaroo appears on Australia's coat of arms.",
+  "historicalNames": [
+   "Kanguru",
+   "Gangurru"
+  ],
+  "funFact": "Females are often blue-grey while males are red, which is why females are nicknamed 'blue fliers'."
+ },
+ {
+  "slug": "pteropus-vampyrus",
+  "scientific": "Pteropus vampyrus",
+  "common": "Large flying fox",
+  "otherNames": [
+   "Keluang (Malay)",
+   "Kalong (Indonesian/Javanese)",
+   "Paniki (Tagalog)",
+   "Dơi ngựa (Vietnamese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Pteropodidae",
+  "shelves": [
+   "endangered",
+   "pollinator",
+   "keystone"
+  ],
+  "summary": "One of the largest bats in the world, with a wingspan up to about 1.5 m. These fruit- and nectar-eating bats fly long distances each night, spreading pollen and seeds across Southeast Asian forests.",
+  "nativeRange": "Southeast Asia: mainland from southern Myanmar and Vietnam to Malaysia, plus Sumatra, Java, Borneo, the Philippines and Lesser Sundas",
+  "regions": [
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Tropical rainforest",
+   "Mangrove",
+   "Orchards",
+   "Coastal forest"
+  ],
+  "abilities": [
+   "Flies 50 km or more in a night between roosts and feeding trees",
+   "Pollinates night-flowering trees and disperses seeds over long distances",
+   "Finds food by sight and smell rather than echolocation",
+   "Hangs upside down using tendons that lock its claws without effort"
+  ],
+  "animal": {
+   "diet": "Frugivore and nectarivore: fruit, nectar and flowers",
+   "habitat": "Forests, mangroves and orchards; roosts in large colonies in tall trees",
+   "lifespan": "~15 years in the wild; longer in captivity",
+   "size": "0.6–1.1 kg; wingspan up to ~1.5 m",
+   "behaviour": "Colonies of hundreds to thousands roost in the same trees by day and fan out at dusk, often crossing open sea between islands.",
+   "fieldMarks": [
+    "Huge fruit bat with a wingspan up to about 1.5 m",
+    "Fox-like face with large eyes",
+    "Black wings and reddish or brown mantle",
+    "Hangs in large daytime roosts"
+   ],
+   "voice": "Loud squabbling and shrieks at roosts",
+   "lookalikes": "Golden-crowned flying fox (Philippines) has a golden head. Flying foxes can carry viruses; never handle bats.",
+   "whereToSee": "Subic Bay Forest Reserve roost (Philippines)",
+   "season": "Resident; colonies leave at dusk",
+   "order": "Chiroptera"
+  },
+  "iucn": "EN",
+  "lore": "Linnaeus named it Vespertilio vampyrus in 1758, linking it to vampire legends, though it eats only fruit and nectar. In Malaysia it has long been hunted for food and as a folk remedy for asthma.",
+  "historicalNames": [
+   "Vespertilio vampyrus",
+   "Flying cat",
+   "Kalong"
+  ],
+  "funFact": "Flying foxes like this one are natural hosts of Nipah virus, which they carry without getting sick."
+ },
+ {
+  "slug": "heterocephalus-glaber",
+  "scientific": "Heterocephalus glaber",
+  "common": "Naked mole-rat",
+  "otherNames": [
+   "Rat-taupe nu (French)",
+   "Luǒ yǎnshǔ 裸鼹鼠 (Chinese)",
+   "Nacktmull (German)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Heterocephalidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "A nearly hairless, buck-toothed rodent that lives underground in East Africa in colonies run like an insect hive, with a single breeding queen. It is also extraordinarily long-lived and resistant to cancer, making it a major subject of ageing research.",
+  "nativeRange": "Arid grasslands of Somalia, Ethiopia and Kenya",
+  "regions": [
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Arid grassland",
+   "Semi-desert",
+   "Underground burrows"
+  ],
+  "abilities": [
+   "Lives more than 37 years, about ten times longer than a similar-sized mouse",
+   "Survives about 18 minutes without oxygen by switching to fructose-based metabolism",
+   "Very rarely develops cancer",
+   "Feels no pain from acid or from capsaicin, the burning compound in chilli",
+   "Digs tunnels with its large front teeth, which sit outside its lips so it can dig without swallowing soil"
+  ],
+  "animal": {
+   "diet": "Herbivore: large underground tubers and roots",
+   "habitat": "Underground tunnel systems up to several kilometres long in hard, dry soil",
+   "lifespan": "Up to 37+ years",
+   "size": "8–10 cm; 30–35 g (queens larger)",
+   "behaviour": "A colony of up to ~300 has one queen and a few breeding males; the rest are workers and soldiers. Each colony has its own dialect of chirps.",
+   "fieldMarks": [
+    "Almost hairless, wrinkled pink skin",
+    "Large protruding front teeth",
+    "Tiny eyes",
+    "Lives underground in colonies"
+   ],
+   "voice": "Chirps and squeaks; a rich vocal repertoire",
+   "season": "Resident; almost never seen above ground",
+   "order": "Rodentia"
+  },
+  "iucn": "LC",
+  "lore": "Eduard Rüppell described the species in 1842. In 1981 Jennifer Jarvis showed that it is eusocial, the first mammal shown to live like social insects.",
+  "funFact": "Unlike most mammals, it can barely regulate its own body temperature, so colonies huddle together or move to warmer tunnels."
+ },
+ {
+  "slug": "ambystoma-mexicanum",
+  "scientific": "Ambystoma mexicanum",
+  "common": "Axolotl",
+  "otherNames": [
+   "Āxōlōtl (Nahuatl)",
+   "Ajolote (Mexican Spanish)",
+   "Mexican walking fish"
+  ],
+  "kingdom": "Animalia",
+  "form": "Amphibian",
+  "family": "Ambystomatidae",
+  "shelves": [
+   "endangered",
+   "marvel",
+   "sacred"
+  ],
+  "summary": "A salamander that never grows up: it keeps its feathery gills and lives its whole life in water. It can regrow lost limbs, parts of its spinal cord, heart and brain, and is a major subject of regeneration research. In the wild it survives only in the canals of Xochimilco in Mexico City.",
+  "nativeRange": "Lake Xochimilco (and formerly Lake Chalco), Valley of Mexico",
+  "regions": [
+   "Central America"
+  ],
+  "biomes": [
+   "Freshwater lakes",
+   "Canals"
+  ],
+  "abilities": [
+   "Regrows complete limbs, tail, parts of the heart, spinal cord, eyes and brain without scarring",
+   "Keeps juvenile features such as external gills into adulthood and breeds that way (neoteny)",
+   "Breathes through gills, skin and simple lungs",
+   "Accepts transplanted organs from other axolotls with little rejection"
+  ],
+  "animal": {
+   "diet": "Carnivore: worms, insect larvae, crustaceans, small fish",
+   "habitat": "Cool, high-altitude lake and canal water with dense vegetation",
+   "lifespan": "10–15 years",
+   "size": "Usually 15–30 cm; up to ~45 cm",
+   "behaviour": "Wild axolotls are dark mottled brown; the pink and white forms common in aquariums come from captive breeding lines.",
+   "fieldMarks": [
+    "Stays aquatic with feathery external gills",
+    "Wide head and small eyes",
+    "Wild form brown to dark grey with gold speckles",
+    "Long tail fin running from the head"
+   ],
+   "lookalikes": "Larvae of tiger salamanders and other neotenic mole salamanders look very similar. Mudpuppies (Necturus) are also confused with axolotls.",
+   "whereToSee": "Wild animals are very rarely seen in the canals of Xochimilco, Mexico City; widely shown in zoos and aquariums",
+   "season": "Resident",
+   "order": "Urodela (Caudata)"
+  },
+  "iucn": "CR",
+  "lore": "Named for the Aztec god Xolotl, who in legend turned himself into an axolotl to escape being sacrificed. Axolotls were eaten in the Aztec period and the 16th-century Florentine Codex records them as food.",
+  "historicalNames": [
+   "Axolotl",
+   "Lusus aquarum",
+   "Ajolote"
+  ],
+  "funFact": "A 2014 survey found about 36 axolotls per square kilometre in Xochimilco, down from about 6,000 in 1998."
+ },
+ {
+  "slug": "dendrobates-tinctorius",
+  "scientific": "Dendrobates tinctorius",
+  "common": "Dyeing poison frog",
+  "otherNames": [
+   "Okopipi, blue form (Tiriyó)",
+   "Rana flecha tintórea (Spanish)",
+   "Dendrobate à tapirer (French Guiana French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Amphibian",
+  "family": "Dendrobatidae",
+  "shelves": [
+   "toxic",
+   "marvel"
+  ],
+  "summary": "A thumb-sized, brightly patterned frog of the Guiana Shield whose colours warn predators that its skin is laced with alkaloid toxins. Its many colour forms include the electric-blue frogs once treated as a separate species, Dendrobates azureus.",
+  "nativeRange": "Guiana Shield: French Guiana, Suriname, Guyana and adjacent northern Brazil",
+  "regions": [
+   "South America"
+  ],
+  "biomes": [
+   "Tropical rainforest",
+   "Forest floor",
+   "Rock outcrops"
+  ],
+  "abilities": [
+   "Stores alkaloid toxins such as pumiliotoxins in its skin, taken from the ants and mites it eats",
+   "Warns predators with vivid, highly variable colour patterns (aposematism)",
+   "Males carry newly hatched tadpoles on their backs to small pools of water in tree holes or bromeliads",
+   "Captive-bred frogs fed on other insects lose their toxicity"
+  ],
+  "animal": {
+   "diet": "Small invertebrates: ants, mites, termites, small beetles",
+   "habitat": "Humid forest floor near streams, boulders and fallen trees",
+   "lifespan": "5–10 years; up to ~20 in captivity",
+   "size": "3.5–6 cm",
+   "behaviour": "Females compete for males and may wrestle rivals. Toxic species like this one are active by day, relying on their warning colours rather than hiding.",
+   "fieldMarks": [
+    "Small frog with bright, highly variable colours",
+    "Often black with yellow or white stripes",
+    "Bright blue legs",
+    "Large finger discs"
+   ],
+   "voice": "Quiet, buzzing calls",
+   "lookalikes": "Other dendrobatids are similar; colour morphs vary between populations. Its skin toxins can harm — do not touch.",
+   "whereToSee": "Brownsberg Nature Park (Suriname)",
+   "season": "Resident",
+   "order": "Anura"
+  },
+  "iucn": "LC",
+  "lore": "Its name comes from tapirage, an Amazonian practice reported by European travellers: rubbing a frog's secretions onto plucked parrot skin was said to make the new feathers grow yellow or red. Unlike some relatives, this species was not the main source of dart poisons.",
+  "historicalNames": [
+   "Rana tinctoria",
+   "Dendrobates azureus",
+   "Tapirage frog"
+  ],
+  "funFact": "The blue 'Okopipi' frogs of Suriname's Sipaliwini savanna were described as their own species in 1969 but are now considered a colour form of this one."
+ },
+ {
+  "slug": "varanus-komodoensis",
+  "scientific": "Varanus komodoensis",
+  "common": "Komodo dragon",
+  "otherNames": [
+   "Ora (Komodo/Manggarai)",
+   "Buaya darat, 'land crocodile' (Indonesian)",
+   "Biawak komodo (Indonesian)",
+   "Kēmòduō jùxī 科莫多巨蜥 (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Varanidae",
+  "shelves": [
+   "endangered",
+   "deadly",
+   "toxic",
+   "marvel"
+  ],
+  "summary": "The world's largest living lizard, found on only a handful of Indonesian islands. It ambushes deer, pigs and water buffalo, and its bite delivers a venom that stops blood clotting.",
+  "nativeRange": "Komodo, Rinca, Flores, Gili Motang and Nusa Kode (Gili Dasami), Lesser Sunda Islands, Indonesia",
+  "regions": [
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Tropical dry forest",
+   "Savanna",
+   "Monsoon forest"
+  ],
+  "abilities": [
+   "Has venom glands in its lower jaw that release anticoagulant toxins and cause shock",
+   "Picks up the scent of carrion from several kilometres away with its forked tongue",
+   "Females can reproduce without males (parthenogenesis), as two zoo dragons did in 2006",
+   "Can eat up to 80% of its body weight in one meal",
+   "Its serrated teeth have iron-rich orange tips that resist wear"
+  ],
+  "animal": {
+   "diet": "Carnivore: deer, pigs, water buffalo, carrion; young eat insects and geckos",
+   "habitat": "Hot, dry lowland savanna and monsoon forest",
+   "lifespan": "~30 years",
+   "size": "Males up to ~3 m and 70–90 kg; females smaller",
+   "behaviour": "Young dragons live in trees to avoid being eaten by adults and roll in dung to make themselves less appealing.",
+   "fieldMarks": [
+    "Largest lizard, up to 3 m",
+    "Grey-brown with a long tail",
+    "Long forked yellow tongue",
+    "Young are greenish with yellow-black bands and live in trees"
+   ],
+   "lookalikes": "Water monitors are smaller with yellow patterned skin; any large monitor here may be a Komodo. Never approach on foot; visits require park rangers.",
+   "whereToSee": "Loh Liang (Komodo Island) and Loh Buaya (Rinca), Komodo National Park — ranger-led walks only",
+   "season": "Resident; dry season (about Apr–Dec) is the usual visiting season",
+   "order": "Squamata"
+  },
+  "iucn": "EN",
+  "lore": "On Komodo, villagers tell of a princess who gave birth to twins, a human boy and a dragon, Ora, so people and dragons are kin. Western science learned of it in 1910 through Dutch officer J.K.H. van Steyn van Hensbroek, and Peter Ouwens named it in 1912.",
+  "funFact": "IUCN moved the Komodo dragon to Endangered in 2021, partly because rising seas are expected to shrink its small island habitat."
+ },
+ {
+  "slug": "chelonia-mydas",
+  "scientific": "Chelonia mydas",
+  "common": "Green sea turtle",
+  "otherNames": [
+   "Honu (Hawaiian)",
+   "Penyu agar (Malay)",
+   "Tortuga verde (Spanish)",
+   "Aoumigame (Japanese)",
+   "Lǜhǎiguī 绿海龟 (Chinese)",
+   "Fonu (Tongan)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Cheloniidae",
+  "shelves": [
+   "ocean",
+   "migrant",
+   "ancient",
+   "keystone",
+   "sacred"
+  ],
+  "summary": "A large sea turtle of tropical and subtropical seas, named for the greenish fat under its shell. Adults are the only sea turtles that graze mainly on seagrass and algae, keeping seagrass meadows healthy.",
+  "nativeRange": "Tropical and subtropical seas worldwide; nests on beaches in over 80 countries",
+  "regions": [
+   "Atlantic Ocean",
+   "Pacific Ocean",
+   "Indian Ocean",
+   "Caribbean",
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Seagrass meadow",
+   "Coral reef",
+   "Open ocean",
+   "Sandy beach"
+  ],
+  "abilities": [
+   "Navigates thousands of kilometres using Earth's magnetic field and returns to nest near the beach where it hatched",
+   "Swims about 2,000 km from Brazil to nest on tiny Ascension Island",
+   "Mows seagrass beds, which keeps the meadows productive",
+   "Can rest underwater for hours by slowing its heart"
+  ],
+  "animal": {
+   "diet": "Juveniles omnivorous; adults herbivorous: seagrass and algae",
+   "habitat": "Coastal seagrass and reef feeding grounds; open ocean as juveniles; sandy beaches for nesting",
+   "lifespan": "70+ years; matures at 20–40 years",
+   "size": "Shell 0.8–1.2 m (to ~1.5 m); usually 110–190 kg",
+   "behaviour": "Females crawl ashore at night every few years to dig nests, laying around 100 eggs several times a season. Nest temperature decides hatchlings' sex: warmer sand produces more females.",
+   "fieldMarks": [
+    "Large sea turtle with a smooth, heart-shaped shell",
+    "Small, rounded head with one pair of scales between the eyes",
+    "Shell brown, olive or black",
+    "Single claw on each flipper"
+   ],
+   "lookalikes": "Hawksbill has a pointed, hawk-like beak and overlapping shell plates. Loggerhead has a large head and reddish-brown shell.",
+   "whereToSee": "Tortuguero (Costa Rica), Ras al Jinz (Oman) and Heron Island (Great Barrier Reef), with guided night viewing",
+   "season": "Tortuguero nesting Jul–Oct; Ras al Jinz all year, peak Jun–Sep; Heron Island Nov–Mar",
+   "order": "Testudines"
+  },
+  "iucn": "LC",
+  "lore": "In Hawaiian tradition the honu is an ʻaumakua (family guardian), and the turtle Kauila was said to take the form of a girl to watch over children at Punaluʻu. Green turtle soup was a showpiece of London's Lord Mayor's banquets from the 18th century, driving heavy Caribbean harvests.",
+  "historicalNames": [
+   "Testudo mydas",
+   "Tortoise",
+   "Green turtle"
+  ],
+  "funFact": "In October 2025 the IUCN moved the green turtle from Endangered to Least Concern after decades of protecting nesting beaches, though some regional populations remain threatened."
+ },
+ {
+  "slug": "chelonoidis-niger",
+  "scientific": "Chelonoidis niger",
+  "common": "Galápagos giant tortoises",
+  "otherNames": [
+   "Galápago (Spanish)",
+   "Tortue géante des Galápagos (French)",
+   "Jiālāpàgēsī xiàngguī 加拉帕戈斯象龟 (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Testudinidae",
+  "shelves": [
+   "endangered",
+   "ancient",
+   "keystone",
+   "marvel"
+  ],
+  "summary": "The largest living tortoise, gave the Galápagos Islands their name. Different islands have different forms, with domed shells in wet highlands and raised 'saddleback' shells on dry islands, which helped shape Darwin's thinking. The IUCN assesses each island species separately, from Vulnerable to Critically Endangered; strictly, the name Chelonoidis niger now belongs to the Floreana tortoise, which is extinct.",
+  "nativeRange": "Galápagos Islands, Ecuador (Isabela, Santa Cruz, San Cristóbal, Española, Pinzón, Santiago and others)",
+  "regions": [
+   "South America",
+   "Pacific Ocean"
+  ],
+  "biomes": [
+   "Tropical dry forest",
+   "Arid scrub",
+   "Montane cloud forest"
+  ],
+  "abilities": [
+   "Lives well over 100 years",
+   "Survives up to a year without food or water by storing water and fat",
+   "Saddleback forms raise their necks high to reach cactus pads",
+   "Spreads seeds and tramples paths, shaping Galápagos plant communities"
+  ],
+  "animal": {
+   "diet": "Herbivore: grasses, leaves, cactus pads, fruit and lichens",
+   "habitat": "Dry lowlands to humid highlands of volcanic islands",
+   "lifespan": "100+ years",
+   "size": "Up to ~1.5 m shell length and over 400 kg",
+   "behaviour": "Tortoises migrate seasonally between lowlands and highlands, wearing paths used for centuries. Small finches hop in front of them, and tortoises stretch up their necks so the birds can pick off ticks.",
+   "fieldMarks": [
+    "Huge dark grey tortoise",
+    "Shell domed or saddle-backed depending on island",
+    "Long neck and heavy, elephant-like legs",
+    "Wallows in pools in the highlands"
+   ],
+   "voice": "Males make loud, rhythmic groans during mating",
+   "lookalikes": "The different islands' tortoises are now treated as several species; shell shape and island tell them apart.",
+   "whereToSee": "El Chato and Rancho Primicias reserves on Santa Cruz island; the Charles Darwin Research Station",
+   "season": "Resident",
+   "order": "Testudines"
+  },
+  "lore": "Spanish sailors named the islands for the galápago, an old word for tortoise. In 1835 the vice-governor told Darwin he could tell which island a tortoise came from by its shell; whalers took more than 100,000 tortoises (some estimates say 200,000) as live food for their voyages.",
+  "historicalNames": [
+   "Galápago",
+   "Testudo nigra",
+   "Elephant tortoise"
+  ],
+  "funFact": "IUCN assesses each island form separately, from Vulnerable to Critically Endangered; the Floreana and Pinta forms were wiped out, and Pinta's last tortoise, Lonesome George, died in 2012."
+ },
+ {
+  "slug": "ophiophagus-hannah",
+  "scientific": "Ophiophagus hannah",
+  "common": "King cobra",
+  "otherNames": [
+   "Rāj nāg (Hindi)",
+   "Karunagam / Rājanāgam (Tamil)",
+   "Ular tedung selar (Malay)",
+   "Ngu chong ang (Thai)",
+   "Yǎnjìng wáng shé 眼镜王蛇 (Chinese)",
+   "Rắn hổ chúa (Vietnamese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Elapidae",
+  "shelves": [
+   "endangered",
+   "deadly",
+   "toxic",
+   "sacred"
+  ],
+  "summary": "The world's longest venomous snake, up to about 5.5 m, and a hunter that eats mainly other snakes. Females are the only snakes known to build nests, piling leaves into a mound and guarding the eggs.",
+  "nativeRange": "South and Southeast Asia; since a 2024 revision, Ophiophagus hannah in the narrow sense covers eastern Pakistan, northern and eastern India, the Andaman Islands, Myanmar and Indochina south to central Thailand, with the king cobras of the Western Ghats, the Sunda region and Luzon assigned to related species",
+  "regions": [
+   "South Asia",
+   "Southeast Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Tropical rainforest",
+   "Bamboo thicket",
+   "Mangrove",
+   "Plantations"
+  ],
+  "abilities": [
+   "Rears up to about a third of its body length and spreads a narrow hood when threatened",
+   "Makes a low growl-like hiss with air pushed through its windpipe",
+   "Injects large volumes of neurotoxic venom, enough to kill an elephant",
+   "Hunts other snakes, including venomous ones, following their scent"
+  ],
+  "animal": {
+   "diet": "Mostly snakes (rat snakes, pythons, cobras, kraits); occasionally lizards",
+   "habitat": "Forests, mangroves and plantations near streams",
+   "lifespan": "~20 years",
+   "size": "Usually 3–4 m; record about 5.5–5.85 m; 6–12 kg",
+   "behaviour": "Females stay with their nest of 20–40 eggs for weeks, but leave just before hatching, possibly so they won't eat their young.",
+   "fieldMarks": [
+    "Very long, olive to brown snake with pale bands",
+    "Large head with big scales on top",
+    "Raises the front part of its body and spreads a narrow hood",
+    "Pale yellowish throat"
+   ],
+   "voice": "Can give a low growling hiss",
+   "lookalikes": "Rat snakes and other large non-venomous snakes look similar; never try to tell them apart up close. Spectacled and monocled cobras are smaller with marked hoods. Never approach on foot; back away and alert local snake rescuers.",
+   "season": "Resident",
+   "order": "Squamata"
+  },
+  "iucn": "VU",
+  "lore": "Cobras, the nāgas of Hindu and Buddhist tradition, are worshipped on Nag Panchami. In Burma and Thailand, snake charmers perform with king cobras, and in some rituals women kiss the snake's head.",
+  "historicalNames": [
+   "Naja",
+   "Hamadryad",
+   "Naga"
+  ],
+  "funFact": "Its genus name Ophiophagus means 'snake-eater'."
+ },
+ {
+  "slug": "furcifer-pardalis",
+  "scientific": "Furcifer pardalis",
+  "common": "Panther chameleon",
+  "otherNames": [
+   "Caméléon panthère (French)",
+   "Camaleón pantera (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Chamaeleonidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "A big, vividly coloured chameleon of northern and eastern Madagascar. Males of each locality have distinct colour patterns, from turquoise to flame-red, and change colour when they display.",
+  "nativeRange": "Northern and eastern Madagascar and nearby islands; introduced to Réunion and Mauritius",
+  "regions": [
+   "Madagascar",
+   "Indian Ocean"
+  ],
+  "biomes": [
+   "Tropical dry forest",
+   "Coastal scrub",
+   "Plantations"
+  ],
+  "abilities": [
+   "Changes colour by adjusting the spacing of guanine nanocrystals in its skin, which shifts how light reflects",
+   "Fires its tongue out to more than its body length in a fraction of a second",
+   "Moves each eye independently, scanning nearly 360°, then focuses both on prey",
+   "Grips branches with pincer-like feet and a prehensile tail"
+  ],
+  "animal": {
+   "diet": "Insectivore: crickets, grasshoppers, flies, other invertebrates",
+   "habitat": "Bushes and trees in warm, humid lowlands, often near villages",
+   "lifespan": "Females 2–3 years; males 5–7 years",
+   "size": "Males up to ~50 cm including tail; females about half that",
+   "behaviour": "When a rival male approaches, a male inflates his body and flashes brilliant colour. A female signals refusal with dark colours and orange patches.",
+   "fieldMarks": [
+    "Large chameleon with a bony crest on the head",
+    "Males brightly coloured — green, red, blue or orange depending on locality",
+    "Pale stripe along the side",
+    "Females smaller, tan or brown"
+   ],
+   "lookalikes": "Other Furcifer and Calumma chameleons; colours vary by region.",
+   "whereToSee": "Nosy Be (Lokobe), Ankarana and Amber Mountain, northern Madagascar",
+   "season": "Resident; most visible in the warm, wet season",
+   "order": "Squamata"
+  },
+  "iucn": "LC",
+  "lore": "In many Malagasy communities chameleons are fady (taboo), and touching one is unlucky. Georges Cuvier described the species in 1829.",
+  "historicalNames": [
+   "Chamaeleo pardalis",
+   "Chamaeleon"
+  ],
+  "funFact": "A 2015 study on panther chameleons showed that their colour change comes from tuning nanocrystals, not just moving pigments."
+ },
+ {
+  "slug": "crocodylus-porosus",
+  "scientific": "Crocodylus porosus",
+  "common": "Saltwater crocodile",
+  "otherNames": [
+   "Buaya muara (Malay/Indonesian)",
+   "Pukpuk (Tok Pisin)",
+   "Wān'è 湾鳄 (Chinese)",
+   "Kimbula (Sinhala)",
+   "Ginga (Kunwinjku)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Reptile",
+  "family": "Crocodylidae",
+  "shelves": [
+   "deadly",
+   "ancient",
+   "ocean",
+   "marvel"
+  ],
+  "summary": "The largest living reptile, with old males exceeding 6 m and a tonne. It thrives in fresh and salt water and has crossed open sea to colonise islands from India to the Pacific.",
+  "nativeRange": "Eastern India and Sri Lanka through Southeast Asia to northern Australia, New Guinea and the Solomon Islands",
+  "regions": [
+   "South Asia",
+   "Southeast Asia",
+   "Australia",
+   "Oceania",
+   "Indian Ocean",
+   "Pacific Ocean"
+  ],
+  "biomes": [
+   "Mangrove",
+   "Estuaries",
+   "Rivers and streams",
+   "Coastal waters"
+  ],
+  "abilities": [
+   "Has the strongest bite measured in any living animal, about 16,000 newtons",
+   "Rides ocean currents to travel hundreds of kilometres between coasts",
+   "Gets rid of excess salt through glands on its tongue",
+   "Can stay submerged for an hour or more while resting",
+   "Detects tiny ripples with pressure-sensing pits along its jaws and body"
+  ],
+  "animal": {
+   "diet": "Carnivore: fish, crabs, turtles, birds, pigs, buffalo; anything it can overpower",
+   "habitat": "Tidal rivers, mangrove swamps, estuaries and coasts",
+   "lifespan": "70 years or more",
+   "size": "Males usually 4–5 m, exceptionally 6 m+ and 1,000 kg; females ~3 m",
+   "behaviour": "Mothers guard their nest mounds, dig out the chirping hatchlings and carry them to water in their mouths. Nest temperature sets the hatchlings' sex.",
+   "fieldMarks": [
+    "Largest reptile, heavy-bodied and grey-brown",
+    "Broad snout with ridges running from the eyes",
+    "Few or no large scales behind the head",
+    "Often basks on mudbanks"
+   ],
+   "lookalikes": "Freshwater crocodile (Australia) is smaller with a narrow snout. Mugger has a broad snout and large neck scales. Any crocodile here may be a saltie. Never approach on foot; keep well back from the water's edge and obey warning signs.",
+   "whereToSee": "Yellow Water cruises (Kakadu) and the Adelaide River (Northern Territory); Bhitarkanika (Odisha)",
+   "season": "Resident; dry season best for viewing",
+   "order": "Crocodylia"
+  },
+  "iucn": "LC",
+  "lore": "A Timorese legend tells that Timor island is the body of a crocodile who befriended a boy. In Arnhem Land the crocodile is an ancestral being of the Dreaming, painted on bark and rock.",
+  "historicalNames": [
+   "Crocodilus",
+   "Cocodrill",
+   "Krokodeilos"
+  ],
+  "funFact": "Lolong, captured in the Philippines in 2011, measured 6.17 m, the largest crocodile ever measured in captivity."
+ },
+ {
+  "slug": "carcharodon-carcharias",
+  "scientific": "Carcharodon carcharias",
+  "common": "Great white shark",
+  "otherNames": [
+   "Mangō-taniwha (Māori)",
+   "Tiburón blanco (Spanish)",
+   "Hohojirozame (Japanese)",
+   "Dàbáishā 大白鲨 (Chinese)",
+   "Witdoodshaai (Afrikaans)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Lamnidae",
+  "shelves": [
+   "endangered",
+   "deadly",
+   "ocean",
+   "migrant"
+  ],
+  "summary": "The largest predatory fish, a warm-bodied hunter of seals and sea lions in cool coastal seas around the world. Tagging shows these sharks crossing whole ocean basins.",
+  "nativeRange": "Temperate and subtropical coastal and open waters worldwide; hotspots off South Africa, Australia, New Zealand, California, Guadalupe Island and the north-west Atlantic",
+  "regions": [
+   "Atlantic Ocean",
+   "Pacific Ocean",
+   "Indian Ocean",
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Coastal waters",
+   "Open ocean",
+   "Continental shelf"
+  ],
+  "abilities": [
+   "Senses the faint electric fields of living prey with ampullae of Lorenzini on its snout",
+   "Keeps its muscles, eyes and brain warmer than the surrounding water with a heat-exchanging circulation",
+   "Launches fully out of the water when ambushing seals from below",
+   "Migrates across oceans: one female swam from South Africa to Australia and back, about 20,000 km, in nine months"
+  ],
+  "animal": {
+   "diet": "Carnivore: fish, rays and other sharks when young; seals, sea lions, dolphins and whale carcasses as adults",
+   "habitat": "Coastal and offshore waters, usually 12–24 °C, from the surface to over 1,000 m",
+   "lifespan": "70 years or more",
+   "size": "Usually 3.5–5 m; large females to ~6 m and over 2 t",
+   "behaviour": "California white sharks gather each winter and spring at a mid-Pacific spot nicknamed the 'White Shark Café', between Baja California and Hawaii.",
+   "fieldMarks": [
+    "Large, torpedo-shaped shark",
+    "Grey above, white below with a sharp border",
+    "Black tips to the underside of the pectoral fins",
+    "Conical snout and large triangular teeth"
+   ],
+   "lookalikes": "Shortfin mako is slimmer and more blue, with long curved teeth. Basking shark has huge gill slits and a tiny mouth. Avoid swimming where whites are present.",
+   "whereToSee": "Neptune Islands (South Australia, cage diving), Cape Cod (Massachusetts) and the Farallon Islands (California)",
+   "season": "Cape Cod Jul–Oct; Farallones Sep–Nov; Neptune Islands all year",
+   "order": "Lamniformes"
+  },
+  "iucn": "VU",
+  "lore": "Peter Benchley's novel Jaws (1974) and Spielberg's 1975 film made the great white a figure of fear; Benchley later spent years campaigning for shark conservation. Some Māori coastal tribes honour sharks as kaitiaki (guardians).",
+  "historicalNames": [
+   "Lamia",
+   "Canis carcharias",
+   "Sea-dog"
+  ],
+  "funFact": "Orcas off South Africa have been seen killing great whites to eat their livers, and the sharks then abandon the area for months."
+ },
+ {
+  "slug": "rhincodon-typus",
+  "scientific": "Rhincodon typus",
+  "common": "Whale shark",
+  "otherNames": [
+   "Butanding (Filipino)",
+   "Hiu paus (Indonesian)",
+   "Jinbē-zame / Ebisu-zame (Japanese)",
+   "Jīngshā 鲸鲨 (Chinese)",
+   "Tiburón ballena (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Rhincodontidae",
+  "shelves": [
+   "endangered",
+   "ocean",
+   "migrant",
+   "marvel"
+  ],
+  "summary": "The largest living fish, a slow-moving filter feeder that can grow longer than a bus. Despite its size it eats plankton, fish eggs and small fish, and it is harmless to divers.",
+  "nativeRange": "Tropical and warm-temperate seas worldwide; aggregations at Ningaloo (Australia), Yucatán (Mexico), Donsol and Oslob (Philippines), the Maldives and the Gulf of Oman",
+  "regions": [
+   "Indian Ocean",
+   "Pacific Ocean",
+   "Atlantic Ocean",
+   "Caribbean",
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Open ocean",
+   "Coral reef",
+   "Coastal waters"
+  ],
+  "abilities": [
+   "Filters plankton through spongy pads across its gills, swallowing by suction as well as by swimming forward",
+   "Dives to nearly 2,000 m",
+   "Migrates thousands of kilometres to seasonal feeding sites, such as spawning coral and fish",
+   "Each shark's spot pattern is unique and is matched using an algorithm built for mapping stars"
+  ],
+  "animal": {
+   "diet": "Filter feeder: plankton, krill, fish and coral eggs, small fish and squid",
+   "habitat": "Warm open ocean and plankton-rich coasts",
+   "lifespan": "Estimated 80–130 years",
+   "size": "Usually 5–12 m; largest reliably measured about 18–19 m; up to ~20 t",
+   "behaviour": "A female caught off Taiwan in 1995 carried about 300 embryos at different stages, showing that the species hatches eggs inside the mother and gives birth to live young.",
+   "fieldMarks": [
+    "Largest fish; flattened head and wide mouth at the front",
+    "Dark grey with pale spots and stripes",
+    "Ridges along the back",
+    "Swims slowly near the surface"
+   ],
+   "lookalikes": "Basking shark lacks spots and has huge gill slits.",
+   "whereToSee": "Ningaloo Reef (Australia), Isla Holbox and Isla Mujeres (Mexico) and Donsol (Philippines)",
+   "season": "Ningaloo Mar–Jul; Mexico Jun–Sep; Donsol about Dec–May",
+   "order": "Orectolobiformes"
+  },
+  "iucn": "EN",
+  "lore": "Japanese fishermen called it Ebisu-zame after the god of fishing and good fortune, because schools of fish gathered around it.",
+  "historicalNames": [
+   "Rhiniodon typus"
+  ],
+  "funFact": "Its skin can be up to about 10 cm thick, among the thickest of any animal."
+ },
+ {
+  "slug": "mobula-birostris",
+  "scientific": "Mobula birostris",
+  "common": "Giant oceanic manta ray",
+  "otherNames": [
+   "Manta, 'blanket' (Spanish)",
+   "Pari manta (Indonesian)",
+   "Oni-itomakiei (Japanese)",
+   "Shuāngwěn qiánkǒu fúfèn 双吻前口蝠鲼 (Chinese)",
+   "Hāhālua (Hawaiian)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Mobulidae",
+  "shelves": [
+   "endangered",
+   "ocean",
+   "migrant",
+   "marvel"
+  ],
+  "summary": "The largest ray, with a wingspan of up to about 7 m. It glides through the open ocean filtering plankton and visits reef 'cleaning stations' where small fish pick off parasites.",
+  "nativeRange": "Tropical, subtropical and temperate oceans worldwide, mostly offshore and around oceanic islands",
+  "regions": [
+   "Pacific Ocean",
+   "Atlantic Ocean",
+   "Indian Ocean",
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Open ocean",
+   "Coral reef",
+   "Seamounts"
+  ],
+  "abilities": [
+   "Has the largest brain relative to body size of any fish",
+   "Captive mantas reacted to their reflection in ways that suggest self-awareness",
+   "Funnels plankton into its mouth with cephalic fins that unroll like scoops",
+   "Leaps clear of the water and somersaults while feeding",
+   "Each individual's belly spot pattern is unique and lifelong"
+  ],
+  "animal": {
+   "diet": "Filter feeder: zooplankton, krill, fish larvae",
+   "habitat": "Open ocean, upwelling zones, seamounts and offshore reefs",
+   "lifespan": "40+ years",
+   "size": "Wingspan usually 4.5–7 m; up to ~2 t",
+   "behaviour": "Females give birth to a single pup every two to five years, one of the slowest reproductive rates of any fish.",
+   "fieldMarks": [
+    "Huge, diamond-shaped ray",
+    "Two cephalic fins in front of the mouth",
+    "Black above with white shoulder patches",
+    "White below with dark spots"
+   ],
+   "lookalikes": "Reef manta (Mobula alfredi) is smaller with shoulder patches that curve inward. Devil rays are smaller with mouths on the underside.",
+   "whereToSee": "Revillagigedo Islands (Socorro), Mexico; Isla de la Plata (Ecuador)",
+   "season": "Socorro about Nov–Jun",
+   "order": "Myliobatiformes"
+  },
+  "iucn": "EN",
+  "lore": "Spanish-speaking pearl divers named it manta, 'blanket', and sailors' 'devil-fish' tales told of mantas wrapping and drowning divers, which are untrue. Its gill plates are now traded as a modern health tonic, the main threat to the species.",
+  "historicalNames": [
+   "Devil-fish",
+   "Sea devil",
+   "Raja birostris"
+  ],
+  "funFact": "Mantas are close relatives of sharks and have no stinging spine, unlike stingrays."
+ },
+ {
+  "slug": "hippocampus-kuda",
+  "scientific": "Hippocampus kuda",
+  "common": "Spotted seahorse",
+  "otherNames": [
+   "Kuda laut, 'sea horse' (Malay/Indonesian)",
+   "Hǎimǎ 海马 (Chinese)",
+   "Tatsu-no-otoshigo, 'dragon's child' (Japanese)",
+   "Cá ngựa (Vietnamese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Syngnathidae",
+  "shelves": [
+   "endangered",
+   "ocean",
+   "marvel"
+  ],
+  "summary": "A small, upright-swimming fish of Indo-Pacific estuaries and seagrass beds in which the male, not the female, becomes pregnant. Its species name comes from the Malay word for horse.",
+  "nativeRange": "Indo-Pacific from India and the Persian Gulf to Japan, Indonesia, the Philippines and Hawaii",
+  "regions": [
+   "Indian Ocean",
+   "Pacific Ocean",
+   "South Asia",
+   "Southeast Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Seagrass meadow",
+   "Estuaries",
+   "Mangrove",
+   "Coastal waters"
+  ],
+  "abilities": [
+   "Males carry fertilised eggs in a brood pouch, supply them with oxygen and give birth to live young",
+   "Anchors itself with a prehensile tail",
+   "Moves each eye independently",
+   "Sucks prey into its tube-like snout in a few milliseconds",
+   "Changes colour to match its surroundings"
+  ],
+  "animal": {
+   "diet": "Carnivore: copepods, small shrimp and other tiny crustaceans",
+   "habitat": "Shallow seagrass, estuaries, mangroves and harbours, often in murky water",
+   "lifespan": "1–4 years",
+   "size": "Up to ~17 cm",
+   "behaviour": "Paired seahorses often greet each other each morning with a 'dance' of changing colour and linked tails.",
+   "fieldMarks": [
+    "Upright seahorse with a curled tail",
+    "Yellow, black or brown with fine spots",
+    "Low crown and smooth body",
+    "Long snout"
+   ],
+   "lookalikes": "Other Indo-Pacific seahorses are very similar; experts check spines, crown and ring counts.",
+   "season": "Resident",
+   "order": "Syngnathiformes"
+  },
+  "iucn": "VU",
+  "lore": "Its form recalls the hippocampus, the sea-horse that pulled Poseidon's chariot in Greek myth, and Conrad Gessner illustrated seahorses in his Historiae animalium (1558). Dried seahorses (hǎimǎ) are a long-standing ingredient in traditional Chinese medicine, which drives much of the trade in wild seahorses.",
+  "historicalNames": [
+   "Hippocampus",
+   "Equus marinus",
+   "Sea-horse"
+  ],
+  "funFact": "A male can give birth to hundreds of babies at once."
+ },
+ {
+  "slug": "amphiprion-ocellaris",
+  "scientific": "Amphiprion ocellaris",
+  "common": "Ocellaris clownfish",
+  "otherNames": [
+   "Ikan badut (Indonesian/Malay)",
+   "Kakure-kumanomi (Japanese)",
+   "Xiǎochǒuyú 小丑鱼 (Chinese)",
+   "Pez payaso (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Pomacentridae",
+  "shelves": [
+   "ocean",
+   "marvel"
+  ],
+  "summary": "An orange-and-white reef fish that lives unharmed among the stinging tentacles of sea anemones. All clownfish hatch male, and the largest fish in a group becomes the breeding female.",
+  "nativeRange": "Eastern Indian Ocean and western Pacific: Andaman Sea, Indonesia, Malaysia, the Philippines, northern Australia, Taiwan and the Ryukyu Islands",
+  "regions": [
+   "Indian Ocean",
+   "Pacific Ocean",
+   "Southeast Asia",
+   "Australia"
+  ],
+  "biomes": [
+   "Coral reef",
+   "Lagoons"
+  ],
+  "abilities": [
+   "A mucus coat keeps it from triggering the stinging cells of its host anemone",
+   "Changes sex from male to female if the group's female dies",
+   "Defends its anemone, removes parasites and feeds it with scraps and nitrogen from its waste",
+   "Larvae find their way home to reefs by following smell and sound"
+  ],
+  "animal": {
+   "diet": "Omnivore: zooplankton, algae, small invertebrates",
+   "habitat": "Shallow lagoons and reefs, in host anemones such as Heteractis magnifica and Stichodactyla gigantea",
+   "lifespan": "6–10 years in the wild; 20+ in aquariums",
+   "size": "Up to ~11 cm",
+   "behaviour": "Each anemone holds a strict size-ranked group: one breeding female, her male partner and several smaller non-breeders that wait their turn.",
+   "fieldMarks": [
+    "Small orange fish with three white bands",
+    "Thin black edging around the bands and fins",
+    "Rounded tail",
+    "Lives inside sea anemones"
+   ],
+   "lookalikes": "Orange clownfish (A. percula) has thicker black edges around the white bands and usually 10 dorsal spines, versus 11 in A. ocellaris, which has a taller dorsal fin.",
+   "whereToSee": "Coral reefs of Bali (Tulamben and Amed) and the Similan Islands (Thailand)",
+   "season": "Resident",
+   "order": "Blenniiformes"
+  },
+  "iucn": "LC",
+  "lore": "Pixar's Finding Nemo (2003) made this species the world's best-known reef fish and boosted aquarium demand; it was one of the first marine fish bred routinely in captivity.",
+  "funFact": "Clownfish 'talk' to each other with clicks and pops made by snapping their jaws."
+ },
+ {
+  "slug": "latimeria-chalumnae",
+  "scientific": "Latimeria chalumnae",
+  "common": "West Indian Ocean coelacanth",
+  "otherNames": [
+   "Gombessa (Comorian)",
+   "Qiāngjíyú 腔棘鱼 (Chinese)",
+   "Celacanto (Spanish/Portuguese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Latimeriidae",
+  "shelves": [
+   "endangered",
+   "ancient",
+   "ocean",
+   "marvel"
+  ],
+  "summary": "A lobe-finned 'living fossil' known only from fossils and believed extinct for 66 million years until a fisherman's catch in South Africa in 1938. Its fleshy fins and ancient lineage make it a cousin of the fish that first walked onto land.",
+  "nativeRange": "Western Indian Ocean: Comoros, Mozambique, South Africa, Tanzania, Kenya and Madagascar",
+  "regions": [
+   "Indian Ocean",
+   "Sub-Saharan Africa",
+   "Madagascar"
+  ],
+  "biomes": [
+   "Deep reef slope",
+   "Submarine caves"
+  ],
+  "abilities": [
+   "Moves its paired lobed fins in an alternating pattern like the legs of a walking tetrapod",
+   "Senses prey's electric fields with a jelly-filled rostral organ in its snout",
+   "Drifts head-down in 'headstands' while hunting",
+   "Opens its mouth unusually wide thanks to a hinged joint in its skull",
+   "Lives about a century and carries its young for around five years"
+  ],
+  "animal": {
+   "diet": "Carnivore: fish, squid and cuttlefish",
+   "habitat": "Steep volcanic slopes at 150–700 m; shelters in caves by day",
+   "lifespan": "~100 years",
+   "size": "Up to ~2 m and ~90 kg",
+   "behaviour": "By day small groups share the same lava caves, then drift out alone at night to hunt along the slope.",
+   "fieldMarks": [
+    "Large, deep blue fish with white blotches",
+    "Fleshy, limb-like lobed fins",
+    "Three-lobed tail",
+    "Sluggish, drifting swimmer"
+   ],
+   "season": "Resident; hides in caves by day",
+   "order": "Coelacanthiformes"
+  },
+  "iucn": "CR",
+  "lore": "Museum curator Marjorie Courtenay-Latimer spotted one in a trawler's catch at East London, South Africa, in December 1938 and the ichthyologist J.L.B. Smith named it for her. Comorian fishermen had long known the fish, which they called gombessa.",
+  "historicalNames": [
+   "Gombessa"
+  ],
+  "funFact": "A second species, Latimeria menadoensis, was found in an Indonesian fish market in 1997, about 10,000 km away."
+ },
+ {
+  "slug": "octopus-vulgaris",
+  "scientific": "Octopus vulgaris",
+  "common": "Common octopus",
+  "otherNames": [
+   "Pulpo (Spanish)",
+   "Polvo (Portuguese)",
+   "Chtapódi χταπόδι (Greek)",
+   "Ukhṭubūṭ (Arabic)",
+   "Ahtapot (Turkish)",
+   "Tako (Japanese)",
+   "Zhāngyú 章鱼 (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mollusc",
+  "family": "Octopodidae",
+  "shelves": [
+   "ocean",
+   "marvel",
+   "edible"
+  ],
+  "summary": "A clever, short-lived mollusc of the Mediterranean and eastern Atlantic, with three hearts, blue blood and most of its neurons in its arms. It changes colour and skin texture in an instant to vanish against rock or sand.",
+  "nativeRange": "Mediterranean Sea and eastern Atlantic; similar species elsewhere were long included under this name",
+  "regions": [
+   "Atlantic Ocean",
+   "Europe",
+   "North Africa"
+  ],
+  "biomes": [
+   "Rocky reef",
+   "Seagrass meadow",
+   "Coastal waters"
+  ],
+  "abilities": [
+   "Changes colour, pattern and skin texture within a fraction of a second using chromatophores and papillae",
+   "Arms, holding about two-thirds of its neurons, can taste, touch and act semi-independently",
+   "Solves puzzles, unscrews jars and learns by watching another octopus",
+   "Squeezes through any gap larger than its hard beak",
+   "Squirts ink clouds and jets away by water propulsion"
+  ],
+  "animal": {
+   "diet": "Carnivore: crabs, clams, snails, fish",
+   "habitat": "Rocky coasts, reefs and seagrass from shallows to ~200 m",
+   "lifespan": "1–2 years",
+   "size": "Mantle up to ~25 cm; arm span to ~1 m; usually 3–10 kg",
+   "behaviour": "A female guards and cleans her eggs in a den for weeks without eating, and dies soon after they hatch.",
+   "fieldMarks": [
+    "Soft body with eight arms",
+    "Rapid colour and texture change",
+    "Lives in dens with shell piles outside",
+    "Large, golden eyes"
+   ],
+   "lookalikes": "Several similar octopuses elsewhere were long called 'common octopus'.",
+   "whereToSee": "Rocky shores of the Mediterranean and eastern Atlantic",
+   "season": "Resident",
+   "order": "Octopoda"
+  },
+  "iucn": "LC",
+  "lore": "Octopuses sprawl across Minoan 'Marine Style' jars from Crete (c. 1500 BCE), and Aristotle's History of Animals describes their mating and colour change. Pliny tells of an octopus at Carteia in Spain that raided a fish-salting works by night.",
+  "historicalNames": [
+   "Polypus",
+   "Poulpe",
+   "Pourcontrel",
+   "Many-feet"
+  ],
+  "funFact": "Its blood is blue because it carries oxygen with copper-based haemocyanin instead of iron-based haemoglobin."
+ },
+ {
+  "slug": "architeuthis-dux",
+  "scientific": "Architeuthis dux",
+  "common": "Giant squid",
+  "otherNames": [
+   "Daiōika (Japanese)",
+   "Dàwáng wūzéi 大王乌贼 (Chinese)",
+   "Calamar gigante (Spanish)",
+   "Kraken (Norwegian legend)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mollusc",
+  "family": "Architeuthidae",
+  "shelves": [
+   "ocean",
+   "marvel"
+  ],
+  "summary": "A deep-sea squid that can reach about 12–13 m including its long feeding tentacles, almost certainly the source of the kraken legend. It was not photographed alive in its own habitat until 2004.",
+  "nativeRange": "Deep waters of all oceans; most records from Newfoundland, Norway, New Zealand, South Africa, Japan and the Bay of Biscay",
+  "regions": [
+   "Atlantic Ocean",
+   "Pacific Ocean",
+   "Indian Ocean",
+   "Southern Ocean",
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Deep sea",
+   "Continental slope"
+  ],
+  "abilities": [
+   "Has eyes up to ~27 cm across, the largest in the animal kingdom alongside the colossal squid's",
+   "Grips prey with hundreds of suckers lined with toothed rings",
+   "Stays buoyant using ammonium-rich tissues lighter than seawater",
+   "Survives as a staple prey of sperm whales, which bear sucker scars from fighting them"
+  ],
+  "animal": {
+   "diet": "Carnivore: deep-sea fish and other squid",
+   "habitat": "Mid-depths, roughly 300–1,000 m",
+   "lifespan": "Probably about 5 years or less",
+   "size": "Females up to ~12–13 m total length, ~275 kg; males smaller",
+   "behaviour": "Its vast eyes are thought to help it spot the glow that sperm whales stir up in bioluminescent plankton from over 100 m away.",
+   "fieldMarks": [
+    "Huge squid with eight arms and two very long feeding tentacles",
+    "Eyes as large as dinner plates",
+    "Small fins",
+    "Red-brown skin"
+   ],
+   "lookalikes": "Colossal squid (Antarctic) is heavier with hooks on its suckers.",
+   "order": "Oegopsida"
+  },
+  "iucn": "LC",
+  "lore": "Bishop Erik Pontoppidan's Natural History of Norway (1752–53) described the kraken, a sea monster big enough to be mistaken for an island. Japetus Steenstrup named the genus in 1857 from a beak washed ashore in Denmark, and Jules Verne used it in Twenty Thousand Leagues Under the Seas.",
+  "historicalNames": [
+   "Kraken",
+   "Sea-monk"
+  ],
+  "funFact": "Its doughnut-shaped brain surrounds the oesophagus, so swallowing large food could damage it; it cuts food into small pieces with its beak."
+ },
+ {
+  "slug": "odontodactylus-scyllarus",
+  "scientific": "Odontodactylus scyllarus",
+  "common": "Peacock mantis shrimp",
+  "otherNames": [
+   "Udang mantis (Indonesian)",
+   "Mon-hanashako (Japanese)",
+   "Quèwěi tángláng xiā 雀尾螳螂虾 (Chinese)",
+   "Thumb-splitter (aquarists' slang)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Crustacean",
+  "family": "Odontodactylidae",
+  "shelves": [
+   "ocean",
+   "marvel"
+  ],
+  "summary": "A rainbow-coloured crustacean of Indo-Pacific reefs with one of the fastest punches in the animal kingdom. Its spring-loaded clubs smash snail shells and crab armour, and its eyes see colours and light polarisation in ways no other animal is known to.",
+  "nativeRange": "Indo-Pacific from East Africa to Guam, the Philippines and northern Australia",
+  "regions": [
+   "Indian Ocean",
+   "Pacific Ocean",
+   "Southeast Asia",
+   "Australia"
+  ],
+  "biomes": [
+   "Coral reef",
+   "Rubble and sand flats"
+  ],
+  "abilities": [
+   "Strikes with its club at about 23 m/s, with an acceleration comparable to a .22-calibre bullet",
+   "Each strike forms collapsing cavitation bubbles that deliver a second shock to prey",
+   "Has 12–16 types of photoreceptor and sees ultraviolet and circularly polarised light",
+   "Each eye judges depth on its own, using three separate zones",
+   "Its club's spiral (helicoidal) structure absorbs impacts and has inspired new composite materials"
+  ],
+  "animal": {
+   "diet": "Carnivore: snails, crabs, clams, worms",
+   "habitat": "U-shaped burrows in rubble and sand near coral reefs, 3–40 m",
+   "lifespan": "Several years",
+   "size": "3–18 cm",
+   "behaviour": "It lines the entrance of its burrow with rubble and is known to strike at divers' fingers, which is why aquarists call it a 'thumb-splitter'.",
+   "fieldMarks": [
+    "Brightly coloured green, red and blue",
+    "Club-like raptorial limbs folded under the head",
+    "Large stalked eyes",
+    "Lives in burrows"
+   ],
+   "lookalikes": "Other mantis shrimps. Its strike can break aquarium glass and cut fingers; do not handle.",
+   "whereToSee": "Lembeh Strait (Indonesia) and Anilao (Philippines)",
+   "season": "Resident",
+   "order": "Stomatopoda"
+  },
+  "iucn": "NE",
+  "lore": "Linnaeus described it in 1758 as Cancer scyllarus. Hobbyists tell stories of mantis shrimps cracking aquarium glass, and their punch has been studied with high-speed cameras since the 2000s.",
+  "historicalNames": [
+   "Cancer scyllarus",
+   "Squilla"
+  ],
+  "funFact": "A mantis shrimp's club regrows each time the animal moults."
+ },
+ {
+  "slug": "hypsibius-exemplaris",
+  "scientific": "Hypsibius exemplaris",
+  "common": "Water bear (tardigrade)",
+  "otherNames": [
+   "Bärtierchen (German)",
+   "Oso de agua (Spanish)",
+   "Shuǐxióng chóng 水熊虫 (Chinese)",
+   "Kumamushi (Japanese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Other",
+  "family": "Hypsibiidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "A plump, eight-legged micro-animal about a quarter of a millimetre long and the main laboratory model for studying tardigrades. Like many tardigrades it can survive drying out and freezing by shutting its body down almost entirely.",
+  "nativeRange": "Described in 2018 from a long-running laboratory culture originating in the UK; tardigrades as a group occur worldwide",
+  "regions": [
+   "Europe",
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Freshwater ponds",
+   "Moss and sediment"
+  ],
+  "abilities": [
+   "Survives slow drying by curling into a 'tun' and entering cryptobiosis, with metabolism nearly stopped",
+   "Tolerates freezing and recovers when thawed",
+   "Protects its cells while drying with tardigrade-specific disordered proteins that form a glassy state",
+   "Reproduces without males (parthenogenesis), so one animal can found a whole culture"
+  ],
+  "animal": {
+   "diet": "Algae such as Chlorococcum, sucked from cells through a stylet-armed mouth",
+   "habitat": "Freshwater sediment and aquatic plants",
+   "lifespan": "A few weeks to a few months when active",
+   "size": "~0.2–0.3 mm",
+   "behaviour": "It lumbers on eight stubby clawed legs and moults its cuticle as it grows, often laying eggs in the shed skin.",
+   "fieldMarks": [
+    "Microscopic, ~0.2–0.3 mm",
+    "Barrel-shaped body with eight stubby legs",
+    "Claws on each leg",
+    "Transparent body"
+   ],
+   "lookalikes": "Other tardigrades need microscopy to identify.",
+   "order": "Parachela"
+  },
+  "iucn": "NE",
+  "lore": "The pastor Johann Goeze named tardigrades 'kleiner Wasserbär' (little water bear) in 1773, and Lazzaro Spallanzani gave them the name tardigrado, 'slow stepper', in 1776 after reviving them from dust. This species was long misidentified as Hypsibius dujardini until it was described in 2018.",
+  "historicalNames": [
+   "Kleiner Wasserbär",
+   "Il tardigrado"
+  ],
+  "funFact": "Its genome, sequenced in the 2010s, sparked debate over claims that tardigrades had borrowed large amounts of foreign DNA; later analyses found that most of it was contamination."
+ },
+ {
+  "slug": "turritopsis-dohrnii",
+  "scientific": "Turritopsis dohrnii",
+  "common": "Immortal jellyfish",
+  "otherNames": [
+   "Medusa inmortal (Spanish)",
+   "Dēngtǎ shuǐmǔ 灯塔水母, 'lighthouse jellyfish' (Chinese)",
+   "Benikurage (Japanese, for Turritopsis)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Cnidarian",
+  "family": "Oceaniidae",
+  "shelves": [
+   "ocean",
+   "marvel"
+  ],
+  "summary": "A tiny hydrozoan jellyfish, a few millimetres across, that can reverse its own life cycle. When injured, starving or aged, the adult medusa can turn back into a polyp and start again, so in principle it never has to die of old age.",
+  "nativeRange": "Described from the Mediterranean; similar Turritopsis are found in temperate and tropical seas worldwide",
+  "regions": [
+   "Europe",
+   "Atlantic Ocean",
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Coastal waters",
+   "Open ocean"
+  ],
+  "abilities": [
+   "Reverts from adult medusa to an early polyp stage through transdifferentiation, turning specialised cells into other cell types",
+   "Can repeat this rejuvenation many times",
+   "Buds many genetically identical medusae from a single polyp colony",
+   "Catches plankton with stinging tentacles"
+  ],
+  "animal": {
+   "diet": "Zooplankton, fish eggs, small larvae",
+   "habitat": "Coastal plankton; polyps attached to hard surfaces",
+   "lifespan": "Potentially unlimited, though most are eaten or die of disease",
+   "size": "Medusa ~4–5 mm across",
+   "behaviour": "The bell is transparent with a bright red gut and up to about 90 tentacles.",
+   "fieldMarks": [
+    "Tiny bell 4–5 mm across",
+    "Bright red stomach",
+    "Many fine tentacles around the bell rim"
+   ],
+   "lookalikes": "Other Turritopsis species are almost identical; genetics is often needed.",
+   "order": "Anthoathecata"
+  },
+  "iucn": "NE",
+  "lore": "German student Christian Sommer noticed the life-cycle reversal while keeping specimens collected off Rapallo, Italy, in 1988; Ferdinando Boero and Stefano Piraino's team described it in 1996.",
+  "funFact": "A few other jellyfish, including a moon jelly, have since been found to rejuvenate in a similar way, but Turritopsis dohrnii remains the best-studied case."
+ },
+ {
+  "slug": "acropora-cervicornis",
+  "scientific": "Acropora cervicornis",
+  "common": "Staghorn coral",
+  "otherNames": [
+   "Coral cuerno de ciervo (Spanish)",
+   "Corail corne de cerf (French)",
+   "Hertshoornkoraal (Dutch)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Cnidarian",
+  "family": "Acroporidae",
+  "shelves": [
+   "endangered",
+   "keystone",
+   "ocean"
+  ],
+  "summary": "A fast-growing, antler-branched reef-building coral that once formed dense thickets across Caribbean reefs. Since the 1980s disease and bleaching have killed most of it, and it is now a focus of coral nursery restoration.",
+  "nativeRange": "Caribbean Sea, the Bahamas, Florida Keys and southern Gulf of Mexico",
+  "regions": [
+   "Caribbean",
+   "Atlantic Ocean",
+   "Central America",
+   "North America"
+  ],
+  "biomes": [
+   "Coral reef",
+   "Back reef",
+   "Fore reef"
+  ],
+  "abilities": [
+   "Grows 10–20 cm a year in branch length, among the fastest of Atlantic corals",
+   "Lays down a limestone skeleton that builds reef framework",
+   "Hosts photosynthetic algae (Symbiodiniaceae) in its tissues, which supply most of its energy",
+   "Regrows into new colonies from broken branches, the basis of coral 'gardening'",
+   "Releases egg-sperm bundles in mass spawning nights after the summer full moon"
+  ],
+  "animal": {
+   "diet": "Mainly sugars from symbiotic algae; also captures plankton with tiny polyp tentacles",
+   "habitat": "Shallow, clear fore-reef and back-reef zones, typically 5–20 m",
+   "lifespan": "Colonies can persist indefinitely by fragmenting",
+   "size": "Branches 1–3 cm thick; thickets can cover large areas",
+   "behaviour": "Its thickets shelter juvenile fish, lobsters and other reef life.",
+   "fieldMarks": [
+    "Branching coral like deer antlers",
+    "Golden-brown colour",
+    "Branches round in cross-section",
+    "Grows in thickets"
+   ],
+   "lookalikes": "Elkhorn coral (A. palmata) has broad, flattened branches. Fused staghorn (A. prolifera) is a hybrid with thicker, fused branches.",
+   "whereToSee": "Coral Restoration Foundation sites in the Florida Keys and Bonaire",
+   "season": "Resident",
+   "order": "Scleractinia"
+  },
+  "iucn": "CR",
+  "lore": "In 2006 staghorn and elkhorn corals became the first corals listed under the US Endangered Species Act. Restoration groups in Florida and the Caribbean have since grown and planted tens of thousands of nursery fragments.",
+  "historicalNames": [
+   "Madrepora cervicornis"
+  ],
+  "funFact": "White-band disease in the 1980s killed an estimated 80–98% of Caribbean staghorn and elkhorn coral."
+ },
+ {
+  "slug": "limulus-polyphemus",
+  "scientific": "Limulus polyphemus",
+  "common": "Atlantic horseshoe crab",
+  "otherNames": [
+   "Cangrejo herradura (Spanish)",
+   "Límulo (Spanish/Portuguese)",
+   "Měizhōu hòu 美洲鲎 (Chinese)",
+   "Limule (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Other",
+  "family": "Limulidae",
+  "shelves": [
+   "endangered",
+   "ancient",
+   "ocean",
+   "medicinal",
+   "keystone",
+   "marvel"
+  ],
+  "summary": "Not a crab at all but a relative of spiders and scorpions, from a lineage whose body plan has changed little for over 400 million years. Its blue blood is used to test vaccines and medical equipment for bacterial contamination.",
+  "nativeRange": "Atlantic coast of North America from Maine to the Gulf of Mexico and Yucatán; largest spawning in Delaware Bay",
+  "regions": [
+   "North America",
+   "Atlantic Ocean",
+   "Central America"
+  ],
+  "biomes": [
+   "Estuaries",
+   "Sandy beach",
+   "Continental shelf"
+  ],
+  "abilities": [
+   "Blood cells (amoebocytes) clot instantly around bacterial endotoxins, the basis of the LAL test",
+   "Has ten eyes, including large compound eyes that become a million times more sensitive to light at night",
+   "Rights itself with its long tail (telson) when flipped over",
+   "Mass spawning on spring high tides gives migrating shorebirds such as red knots a key food source"
+  ],
+  "animal": {
+   "diet": "Clams, worms, small crustaceans and other bottom invertebrates",
+   "habitat": "Shallow coastal waters and estuaries; spawns on sandy beaches",
+   "lifespan": "20+ years",
+   "size": "Females up to ~60 cm long including tail; males smaller",
+   "behaviour": "On spring nights near new and full moons, females crawl ashore at high tide to lay thousands of eggs, with males clinging behind.",
+   "fieldMarks": [
+    "Rounded, horseshoe-shaped shell",
+    "Long, spike-like tail (telson)",
+    "Brown-green colour",
+    "Spawns in crowds on beaches"
+   ],
+   "whereToSee": "Delaware Bay beaches, e.g. Reeds Beach (New Jersey) and Slaughter Beach (Delaware)",
+   "season": "Spawning May–Jun, on high tides near new and full moons",
+   "order": "Xiphosura"
+  },
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Modern biomedicine",
+     "use": "Limulus amebocyte lysate (LAL) from the blood detects bacterial endotoxins in vaccines, injectable drugs and implants"
+    }
+   ],
+   "compounds": [
+    "Factor C",
+    "coagulogen",
+    "haemocyanin"
+   ],
+   "evidence": "strong",
+   "cautions": "Bled crabs are returned to the sea, but an estimated 10–30% die. Synthetic recombinant Factor C tests are an approved alternative."
+  },
+  "iucn": "VU",
+  "lore": "Coastal Indigenous peoples used the shells to bail canoes and the tails as spear tips, and colonial farmers ground millions of horseshoe crabs into fertiliser. Frederik Bang's discovery in the 1950s that its blood clots on contact with bacteria led to the LAL test.",
+  "historicalNames": [
+   "Monoculus polyphemus",
+   "King crab",
+   "Horsefoot"
+  ],
+  "funFact": "Studies of its large optic nerves helped H. Keffer Hartline win the 1967 Nobel Prize for discoveries about how eyes process images."
+ },
+ {
+  "slug": "salmo-salar",
+  "scientific": "Salmo salar",
+  "common": "Atlantic salmon",
+  "otherNames": [
+   "Bradán (Irish)",
+   "Eog (Welsh)",
+   "Laks (Norwegian/Danish)",
+   "Lohi (Finnish)",
+   "Plamu (Mi'kmaq)",
+   "Saumon (French)",
+   "Dàxīyáng guī 大西洋鲑 (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Salmonidae",
+  "shelves": [
+   "migrant",
+   "ocean",
+   "edible",
+   "sacred",
+   "keystone"
+  ],
+  "summary": "A silver ocean-going fish that is born in cold rivers, feeds in the North Atlantic and returns by smell to spawn in the stream where it hatched. Wild numbers have fallen sharply, even as farmed Atlantic salmon fill supermarkets worldwide.",
+  "nativeRange": "Rivers and seas of the North Atlantic, from Portugal to the Barents Sea, Iceland, Greenland and north-eastern North America",
+  "regions": [
+   "Europe",
+   "North America",
+   "Atlantic Ocean",
+   "Arctic"
+  ],
+  "biomes": [
+   "Rivers and streams",
+   "Open ocean",
+   "Estuaries"
+  ],
+  "abilities": [
+   "Navigates thousands of kilometres back to its home river using the magnetic field and smell",
+   "Leaps waterfalls and weirs over 3 m high",
+   "Switches its body chemistry between fresh and salt water during smoltification",
+   "Unlike Pacific salmon, some survive spawning and return to spawn again",
+   "Carries marine nutrients upstream, feeding river and riverside ecosystems when it dies"
+  ],
+  "animal": {
+   "diet": "Young eat aquatic insects; adults at sea eat fish such as capelin, herring and sand eels, and krill",
+   "habitat": "Clean, cold gravel-bedded rivers for breeding; North Atlantic feeding grounds",
+   "lifespan": "Up to ~13 years; usually 3–8",
+   "size": "Usually 60–110 cm and 2–10 kg; record ~1.5 m and ~46 kg",
+   "behaviour": "Young salmon (parr) stay in fresh water for one to eight years, then turn silver and head out to sea as smolts.",
+   "fieldMarks": [
+    "Streamlined silver fish with small black spots",
+    "Slim tail base and forked tail",
+    "Upper jaw ends below the eye",
+    "Spawning males turn bronze-red with a hooked jaw"
+   ],
+   "lookalikes": "Sea trout (brown trout) has a thicker tail base, a squarer tail and an upper jaw reaching past the eye.",
+   "whereToSee": "Falls of Shin (Scotland) and the River Spey",
+   "season": "Rivers year-round; leaping at Falls of Shin Jun–Sep; spawning Nov–Dec",
+   "order": "Salmoniformes"
+  },
+  "iucn": "NT",
+  "lore": "In Irish legend the young Fionn mac Cumhaill burned his thumb cooking the Salmon of Knowledge (Bradán Feasa) and gained all the world's wisdom. A salmon carved about 25,000 years ago in the rock shelter of Abri du Poisson, France, is one of the oldest fish images known.",
+  "historicalNames": [
+   "Salmo",
+   "Samoun",
+   "Laks"
+  ],
+  "funFact": "IUCN moved the Atlantic salmon to Near Threatened in 2023 after its global population fell by about 23% between 2006 and 2020."
+ },
+ {
+  "slug": "anguilla-anguilla",
+  "scientific": "Anguilla anguilla",
+  "common": "European eel",
+  "otherNames": [
+   "Anguila (Spanish)",
+   "Paling (Dutch)",
+   "Aal (German)",
+   "Ål (Swedish/Danish)",
+   "Ḥanklīs (Arabic)",
+   "Yılan balığı (Turkish)",
+   "Anguille (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Fish",
+  "family": "Anguillidae",
+  "shelves": [
+   "endangered",
+   "migrant",
+   "edible",
+   "ocean",
+   "marvel"
+  ],
+  "summary": "A snake-like fish that lives for decades in European rivers and lakes, then swims some 5,000 km to spawn in the Sargasso Sea and die. No one has yet seen European eels spawn in the wild.",
+  "nativeRange": "Rivers, lakes and coasts of Europe and North Africa, from Iceland and Norway to the Mediterranean and Morocco; spawns in the Sargasso Sea",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "Atlantic Ocean"
+  ],
+  "biomes": [
+   "Rivers and streams",
+   "Freshwater lakes",
+   "Estuaries",
+   "Open ocean"
+  ],
+  "abilities": [
+   "Migrates about 5,000–6,000 km across the Atlantic to spawn",
+   "Changes form several times: leaf-like larva, transparent glass eel, elver, yellow eel and silver eel",
+   "Breathes partly through its skin and can wriggle across wet grass between waters",
+   "Adjusts its eyes and body chemistry for the deep ocean before its final migration"
+  ],
+  "animal": {
+   "diet": "Carnivore and scavenger: insect larvae, worms, crustaceans, fish, carrion",
+   "habitat": "Rivers, lakes, ponds, estuaries and coastal lagoons",
+   "lifespan": "Usually 5–20 years in fresh water; can exceed 80 in captivity",
+   "size": "Females up to ~1.3 m; males usually under 50 cm",
+   "behaviour": "Larvae drift on the Gulf Stream for about one to three years before arriving at European coasts as see-through glass eels.",
+   "fieldMarks": [
+    "Long, snake-like body",
+    "Dorsal fin starts well behind the pectoral fins",
+    "Lower jaw slightly longer than the upper",
+    "Yellow-brown, turning silver before migration"
+   ],
+   "lookalikes": "Conger eel is marine, with the dorsal fin starting just behind the pectoral fins and an upper jaw that projects. Lampreys have no jaws.",
+   "whereToSee": "Elver runs on the River Severn (England)",
+   "season": "Glass eels arrive Feb–May; silver eels leave in autumn on dark nights",
+   "order": "Anguilliformes"
+  },
+  "iucn": "CR",
+  "lore": "Aristotle concluded that eels arose spontaneously from mud, and a young Sigmund Freud dissected hundreds in Trieste in 1876 hunting for their testes. The Danish biologist Johannes Schmidt traced ever-smaller larvae to the Sargasso Sea between 1904 and 1922.",
+  "historicalNames": [
+   "Anguilla",
+   "Ele",
+   "Aal",
+   "Anguille"
+  ],
+  "funFact": "Glass eels arriving in Europe have fallen by over 90% since the 1980s, and illegal trafficking of them to Asia has been called one of the largest wildlife crimes in Europe."
+ },
+ {
+  "slug": "lumbricus-terrestris",
+  "scientific": "Lumbricus terrestris",
+  "common": "Common earthworm (nightcrawler)",
+  "otherNames": [
+   "Regenwurm (German)",
+   "Lombric / Ver de terre (French)",
+   "Lombriz de tierra (Spanish)",
+   "Kenchuā (Hindi)",
+   "Dūdat al-arḍ (Arabic)",
+   "Qiūyǐn 蚯蚓 (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Other",
+  "family": "Lumbricidae",
+  "shelves": [
+   "keystone"
+  ],
+  "summary": "A large European earthworm that digs deep vertical burrows and drags fallen leaves underground at night. Its burrowing mixes and aerates soil, and Charles Darwin spent decades measuring how much earth worms move.",
+  "nativeRange": "Europe; introduced to North America, New Zealand and elsewhere, where it is invasive in some previously worm-free northern forests",
+  "regions": [
+   "Europe",
+   "North America",
+   "Oceania"
+  ],
+  "biomes": [
+   "Temperate grassland",
+   "Temperate forest",
+   "Farmland",
+   "Gardens"
+  ],
+  "abilities": [
+   "Digs permanent vertical burrows up to ~2 m deep that let air and water into the soil",
+   "Pulls leaves into its burrow, mixing organic matter deep into the soil",
+   "Breathes entirely through its moist skin",
+   "Senses light with cells in its skin despite having no eyes",
+   "As a hermaphrodite, each worm both gives and receives sperm when mating"
+  ],
+  "animal": {
+   "diet": "Detritivore: dead leaves, decaying plant matter and soil microbes",
+   "habitat": "Moist, loamy soils of meadows, woods, fields and gardens",
+   "lifespan": "Several years; up to ~6 in captivity",
+   "size": "Usually 15–25 cm; up to ~35 cm",
+   "behaviour": "On damp nights it stretches out of its burrow to feed and mate, keeping its tail anchored inside so it can snap back at the slightest vibration.",
+   "fieldMarks": [
+    "Large earthworm, 11–20 cm",
+    "Reddish-brown front end fading toward the rear",
+    "Flattened, paddle-shaped tail",
+    "Surfaces on wet nights"
+   ],
+   "lookalikes": "Aporrectodea trapezoides is similar in size and dark colour.",
+   "whereToSee": "Lawns and fields after rain",
+   "season": "Active all year in moist soil",
+   "order": "Opisthopora"
+  },
+  "iucn": "NE",
+  "lore": "Darwin's last book, The Formation of Vegetable Mould through the Action of Worms (1881), showed how earthworms slowly bury stones and ancient ruins. It was a bestseller in its day.",
+  "historicalNames": [
+   "Lumbricus",
+   "Angle-twitch",
+   "Dew-worm"
+  ],
+  "funFact": "In northern North American forests that lost their native worms in the last Ice Age, this introduced species eats away the leaf litter that native wildflowers and salamanders depend on."
+ },
+ {
+  "slug": "mellivora-capensis",
+  "scientific": "Mellivora capensis",
+  "common": "Honey badger (ratel)",
+  "otherNames": [
+   "Ratel (Afrikaans)",
+   "Nyegere (Swahili)",
+   "Al-ghurayr (Arabic)",
+   "Bijjū (Hindi)",
+   "Fēngmì huān 蜜獾 (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Mustelidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "A stocky, fearless mustelid of Africa and southern Asia, famed for raiding beehives and fighting off lions. Thick, loose skin lets it twist round and bite an attacker that has hold of it.",
+  "nativeRange": "Sub-Saharan Africa, North Africa's edges, Arabia, Iran, Central Asia and the Indian subcontinent",
+  "regions": [
+   "Sub-Saharan Africa",
+   "North Africa",
+   "West Asia",
+   "Central Asia",
+   "South Asia"
+  ],
+  "biomes": [
+   "Savanna",
+   "Desert",
+   "Dry forest",
+   "Grassland"
+  ],
+  "abilities": [
+   "Resists cobra and other snake venom because of a mutation in its nerve receptors, shared with mongooses",
+   "Rips open beehives, termite mounds and burrows with long, strong foreclaws",
+   "Escapes and solves problems: captive honey badgers have stacked objects to climb out of enclosures",
+   "Releases a foul smell from anal glands when threatened"
+  ],
+  "animal": {
+   "diet": "Omnivore: rodents, snakes, lizards, insects, bee larvae and honey, carrion, fruit",
+   "habitat": "Almost every habitat from desert to forest edge",
+   "lifespan": "7–8 years in the wild; to ~24 in captivity",
+   "size": "Males 9–16 kg, females 5–10 kg; body 55–77 cm",
+   "behaviour": "Mainly a solitary forager, it may travel 10–30 km in a day of digging for prey. Its partnership with honeyguide birds is widely told but poorly documented.",
+   "fieldMarks": [
+    "Stocky, low-slung badger",
+    "Black below with a silver-grey back",
+    "Short legs with long front claws",
+    "Small eyes and ears"
+   ],
+   "voice": "Growls and rattles",
+   "lookalikes": "Zorilla (striped polecat) is smaller with black-and-white stripes. Never approach on foot; watch from a vehicle, boat or hide, or with a licensed guide.",
+   "whereToSee": "Kgalagadi Transfrontier Park (South Africa/Botswana)",
+   "season": "Resident",
+   "order": "Carnivora"
+  },
+  "iucn": "LC",
+  "lore": "Afrikaans-speaking farmers called it the ratel, a name that entered zoology. The 2011 viral video 'The Crazy Nastyass Honey Badger' made its fearlessness an internet legend.",
+  "historicalNames": [
+   "Ratel",
+   "Viverra capensis",
+   "Gulo capensis"
+  ],
+  "funFact": "Bitten by a cobra, a honey badger may collapse, sleep for a couple of hours, then wake up and finish eating the snake."
+ },
+ {
+  "slug": "camelus-dromedarius",
+  "scientific": "Camelus dromedarius",
+  "common": "Dromedary (Arabian camel)",
+  "otherNames": [
+   "Jamal / Nāqa (Arabic)",
+   "Shotor (Persian)",
+   "Ūṇṭ (Hindi/Urdu)",
+   "Geel (Somali)",
+   "Alɣem (Amazigh)",
+   "Dānfēng tuó 单峰驼 (Chinese)",
+   "Rakuda (Japanese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Camelidae",
+  "shelves": [
+   "edible",
+   "dye-fibre",
+   "sacred",
+   "marvel"
+  ],
+  "summary": "The one-humped camel, domesticated in Arabia around 3,000 years ago, made long-distance trade across the Sahara and Arabian deserts possible. It can lose a quarter or more of its body water and recover by drinking over 100 litres in minutes.",
+  "nativeRange": "Domesticated in Arabia; no wild populations survive. Kept across North Africa, the Horn of Africa, Arabia, West and South Asia; large feral population in Australia",
+  "regions": [
+   "North Africa",
+   "Sub-Saharan Africa",
+   "West Asia",
+   "South Asia",
+   "Australia"
+  ],
+  "biomes": [
+   "Desert",
+   "Arid shrubland",
+   "Semi-desert"
+  ],
+  "abilities": [
+   "Lets its body temperature swing by about 6 °C over a day to avoid sweating away water",
+   "Loses up to about 25–30% of its body weight in water and survives",
+   "Has oval red blood cells that keep flowing when it is dehydrated and can swell without bursting when it drinks fast",
+   "Closes its nostrils and shields its eyes with long double lashes during sandstorms",
+   "Stores fat, not water, in its hump, which it uses for energy when food is scarce"
+  ],
+  "animal": {
+   "diet": "Herbivore: thorny shrubs, saltbush, dry grasses; can eat salty plants other livestock avoid",
+   "habitat": "Hot deserts and dry scrub",
+   "lifespan": "40–50 years",
+   "size": "1.8–2 m at the shoulder; 300–600 kg",
+   "behaviour": "Camels walk by moving both legs on the same side together (pacing), which gives a rolling stride. Their broad, padded feet spread out on soft sand.",
+   "fieldMarks": [
+    "One hump",
+    "Long neck and legs",
+    "Sandy-brown coat",
+    "Thick lips and long eyelashes"
+   ],
+   "voice": "Loud groans and roars",
+   "lookalikes": "Bactrian camel has two humps.",
+   "whereToSee": "Desert markets and camps of Arabia and North Africa",
+   "season": "Resident",
+   "order": "Artiodactyla"
+  },
+  "iucn": "NE",
+  "lore": "The Qur'an (88:17) asks 'Do they not look at the camels, how they are created?', and the she-camel of the prophet Salih is a sign of God. Nabataean caravans of dromedaries carried incense from Arabia to Petra and the Mediterranean.",
+  "historicalNames": [
+   "Dromedarius",
+   "Camelus",
+   "Dromedary",
+   "Chamel"
+  ],
+  "funFact": "Camel milk does not curdle easily, so it is hard to make into cheese; a special enzyme was developed to make camel cheese possible."
+ },
+ {
+  "slug": "bison-bison",
+  "scientific": "Bison bison",
+  "common": "American bison",
+  "otherNames": [
+   "Tatanka (Lakota)",
+   "Iinii (Blackfoot)",
+   "Paskwâwi-mostos (Plains Cree)",
+   "Bisonte (Spanish)",
+   "Měizhōu yěniú 美洲野牛 (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Bovidae",
+  "shelves": [
+   "keystone",
+   "sacred",
+   "edible",
+   "dye-fibre",
+   "migrant"
+  ],
+  "summary": "North America's heaviest land animal, which once roamed the Great Plains in herds of tens of millions. Hunted down to fewer than a thousand by the late 1880s, it has recovered to about half a million, though few are wild herds.",
+  "nativeRange": "Great Plains and western North America from Alaska and Canada to northern Mexico; now mostly in parks, reserves and ranches",
+  "regions": [
+   "North America"
+  ],
+  "biomes": [
+   "Temperate grassland",
+   "Prairie",
+   "Boreal forest edge"
+  ],
+  "abilities": [
+   "Runs at up to ~55 km/h despite weighing up to a tonne",
+   "Swings its massive head to clear deep snow and reach grass",
+   "Rolls in dust wallows that become seasonal pools and microhabitats",
+   "Grazing patterns create a patchwork of short and tall grass that benefits prairie dogs, birds and plants"
+  ],
+  "animal": {
+   "diet": "Herbivore: mainly grasses and sedges",
+   "habitat": "Open grassland, prairie and meadow; wood bison in boreal clearings",
+   "lifespan": "15–20 years",
+   "size": "Bulls up to ~1.9 m at the shoulder and ~900–1,000 kg; cows ~450 kg",
+   "behaviour": "Bulls bellow and butt heads during the summer rut. Herds once followed seasonal grazing across hundreds of kilometres.",
+   "fieldMarks": [
+    "Massive, humped shoulders",
+    "Shaggy brown front and short back hair",
+    "Short curved horns in both sexes",
+    "Low-held head"
+   ],
+   "voice": "Bulls bellow during the rut",
+   "lookalikes": "Domestic cattle lack the hump. Stay at least 25 yards away (US park rule).",
+   "whereToSee": "Lamar and Hayden valleys (Yellowstone); Custer State Park and Wind Cave National Park (South Dakota)",
+   "season": "Resident; rut Jul–Aug; calves Apr–May",
+   "order": "Artiodactyla"
+  },
+  "iucn": "NT",
+  "lore": "Lakota tradition tells how White Buffalo Calf Woman brought the sacred pipe, and the birth of a white calf is still seen as a sacred sign. Coronado's 1541 expedition described the 'vacas de Cíbola' covering the plains.",
+  "historicalNames": [
+   "Bos bison",
+   "Vacas de Cíbola",
+   "Buffelo"
+  ],
+  "funFact": "In 2016 the bison became the national mammal of the United States."
+ },
+ {
+  "slug": "ursus-maritimus",
+  "scientific": "Ursus maritimus",
+  "common": "Polar bear",
+  "otherNames": [
+   "Nanuq (Inuktitut)",
+   "Umka (Chukchi)",
+   "Isbjørn (Norwegian/Danish)",
+   "Belyy medved' (Russian)",
+   "Hokkyokuguma (Japanese)",
+   "Běijíxióng 北极熊 (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Ursidae",
+  "shelves": [
+   "endangered",
+   "deadly",
+   "ocean",
+   "marvel"
+  ],
+  "summary": "The largest land carnivore, a bear that lives on Arctic sea ice and hunts seals. It is classed as a marine mammal, and the loss of summer sea ice is its greatest threat.",
+  "nativeRange": "Circumpolar Arctic: Canada, Alaska (USA), Greenland, Norway (Svalbard) and Russia",
+  "regions": [
+   "Arctic",
+   "North America",
+   "Europe"
+  ],
+  "biomes": [
+   "Sea ice",
+   "Tundra",
+   "Arctic coast"
+  ],
+  "abilities": [
+   "Smells seals through snow and ice from about a kilometre away",
+   "Swims for days; one female swam 687 km over nine days without rest",
+   "Survives Arctic cold with up to 11 cm of fat, black skin and hollow, colourless guard hairs",
+   "Fasts for months during ice-free summers, slowing its metabolism"
+  ],
+  "animal": {
+   "diet": "Carnivore: mainly ringed and bearded seals; also walrus, whale carcasses, birds' eggs",
+   "habitat": "Sea ice over continental shelves; coasts in summer",
+   "lifespan": "20–25 years in the wild",
+   "size": "Males 350–700 kg and up to ~2.5–3 m; females 150–300 kg",
+   "behaviour": "Pregnant females dig snow dens and give birth in midwinter, nursing cubs for months without eating before leading them out to the ice in spring.",
+   "fieldMarks": [
+    "Large white bear",
+    "Long neck and small head",
+    "Black nose and skin",
+    "Huge furry paws"
+   ],
+   "lookalikes": "Brown bears have a shoulder hump and brown fur. Never approach on foot; watch from a vehicle, boat or hide, or with a licensed guide.",
+   "whereToSee": "Churchill (Manitoba) by tundra vehicle; Svalbard by boat",
+   "season": "Churchill Oct–Nov",
+   "order": "Carnivora"
+  },
+  "iucn": "VU",
+  "lore": "Inuit hunters treat nanuq with great respect in story and ritual; one Inuit name, Pihoqahiak, means 'the ever-wandering one'. In 1252 King Henry III kept a polar bear, a gift from Norway, at the Tower of London, where it fished in the Thames on a long chain.",
+  "historicalNames": [
+   "Ursus albus",
+   "White bear",
+   "Ice bear"
+  ],
+  "funFact": "Eating polar bear liver can kill a person, because it holds a toxic concentration of vitamin A."
+ },
+ {
+  "slug": "macaca-fuscata",
+  "scientific": "Macaca fuscata",
+  "common": "Japanese macaque (snow monkey)",
+  "otherNames": [
+   "Nihonzaru / Saru (Japanese)",
+   "Rìběn mílóu 日本猕猴 (Chinese)",
+   "Macaco japonés (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Cercopithecidae",
+  "shelves": [
+   "sacred",
+   "marvel"
+  ],
+  "summary": "The northernmost non-human primate, a red-faced monkey that survives snowy winters in the mountains of Japan. Some troops have learned habits, like bathing in hot springs, that spread from monkey to monkey, an early example of animal culture.",
+  "nativeRange": "Honshu, Shikoku, Kyushu and nearby small islands, Japan",
+  "regions": [
+   "East Asia"
+  ],
+  "biomes": [
+   "Temperate forest",
+   "Subalpine forest",
+   "Montane"
+  ],
+  "abilities": [
+   "Survives winters at −15 °C with thick fur and by huddling",
+   "Troops at Jigokudani soak in volcanic hot springs in winter, which lowers their stress hormones",
+   "On Kōshima, a young female named Imo started washing sweet potatoes in the sea in 1953, and the habit spread through the troop",
+   "Some troops roll snowballs for play"
+  ],
+  "animal": {
+   "diet": "Omnivore: fruit, seeds, leaves, bark, insects; bark and buds in winter",
+   "habitat": "Subtropical to subalpine forests",
+   "lifespan": "Females ~25–30 years; males shorter",
+   "size": "Males ~10–14 kg; females ~8–10 kg; short tail",
+   "behaviour": "Troops are organised around ranked lines of related females. Males leave their birth troop and join others.",
+   "fieldMarks": [
+    "Thick grey-brown fur",
+    "Red face and rump",
+    "Short tail",
+    "Bathes in hot springs"
+   ],
+   "voice": "Coos and barks",
+   "lookalikes": "The only monkey in Japan.",
+   "whereToSee": "Jigokudani Monkey Park (Nagano)",
+   "season": "Hot-spring bathing best Dec–Mar",
+   "order": "Primates"
+  },
+  "iucn": "LC",
+  "lore": "The 'see no evil, hear no evil, speak no evil' monkeys carved at the Tōshō-gū shrine in Nikkō (17th century) are Japanese macaques. Monkeys are messengers of the Sannō deity at Hiyoshi Taisha shrine.",
+  "historicalNames": [
+   "Saru",
+   "Simia fuscata"
+  ],
+  "funFact": "The hot-spring bathing began in 1963, when a young female at Jigokudani followed soybeans into a pool and others copied her."
+ },
+ {
+  "slug": "monodon-monoceros",
+  "scientific": "Monodon monoceros",
+  "common": "Narwhal",
+  "otherNames": [
+   "Qilalugaq tuugaalik (Inuktitut)",
+   "Náhvalr, 'corpse whale' (Old Norse)",
+   "Narval (Spanish/French)",
+   "Ikkaku (Japanese)",
+   "Yījiǎojīng 一角鲸 (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Monodontidae",
+  "shelves": [
+   "ocean",
+   "migrant",
+   "marvel"
+  ],
+  "summary": "An Arctic whale whose males grow a spiralled tusk up to about 3 m long, which is actually a tooth that grows through the upper lip. Medieval Europeans sold these tusks as unicorn horns.",
+  "nativeRange": "Arctic waters of Canada, Greenland, Svalbard and Russia, mainly the Atlantic Arctic and Baffin Bay",
+  "regions": [
+   "Arctic",
+   "Atlantic Ocean"
+  ],
+  "biomes": [
+   "Polar seas",
+   "Sea ice",
+   "Fjords"
+  ],
+  "abilities": [
+   "Grows a tusk, usually the left canine, that spirals counter-clockwise and can reach ~3 m",
+   "The tusk has nerve-linked channels that may sense changes in the surrounding water",
+   "Dives to about 1,500 m or more, repeatedly, to hunt halibut in winter",
+   "Hunts and navigates under dense pack ice by echolocation",
+   "Has been filmed tapping Arctic cod with its tusk to stun them"
+  ],
+  "animal": {
+   "diet": "Greenland halibut, Arctic and polar cod, squid, shrimp",
+   "habitat": "Deep fjords and offshore pack ice",
+   "lifespan": "~50 years, possibly longer",
+   "size": "Body 4–5.5 m (not counting tusk); 800–1,600 kg",
+   "behaviour": "Narwhals migrate seasonally between summer fjords and winter feeding grounds under dense pack ice. Males sometimes rub tusks together ('tusking').",
+   "fieldMarks": [
+    "Mottled grey whale",
+    "Males have a long, spiral tusk",
+    "No dorsal fin",
+    "Rounded head"
+   ],
+   "voice": "Clicks, whistles and knocks",
+   "lookalikes": "Beluga is white with no tusk.",
+   "whereToSee": "Floe edge near Pond Inlet and Arctic Bay (Nunavut)",
+   "season": "Floe edge Jun",
+   "order": "Artiodactyla (Cetacea)"
+  },
+  "iucn": "LC",
+  "lore": "The Danish kings' coronation throne at Rosenborg Castle (1660s) is made largely of narwhal tusk, then believed to be unicorn horn. An Inuit story tells of a cruel woman dragged into the sea by a harpooned narwhal, her twisted hair becoming its tusk.",
+  "historicalNames": [
+   "Monoceros",
+   "Unicornu marinum",
+   "Sea-unicorn",
+   "Nahwal"
+  ],
+  "funFact": "About 1 in 500 males grows two tusks, and a few females grow one."
+ },
+ {
+  "slug": "okapia-johnstoni",
+  "scientific": "Okapia johnstoni",
+  "common": "Okapi",
+  "otherNames": [
+   "O'api (Lese/Mbuti)",
+   "Huòjiāpí 㺢㹢狓 (Chinese)",
+   "Okapi (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Giraffidae",
+  "shelves": [
+   "endangered",
+   "marvel"
+  ],
+  "summary": "The only living relative of the giraffe, a shy forest animal with a reddish body and zebra-striped legs, found only in the Democratic Republic of the Congo. It was unknown to Western science until 1901.",
+  "nativeRange": "Rainforests of northern, central and eastern Democratic Republic of the Congo, especially the Ituri Forest",
+  "regions": [
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Tropical rainforest"
+  ],
+  "abilities": [
+   "Strips leaves with a long, dark, prehensile tongue it can also use to clean its eyes and ears",
+   "Calls to its calf with infrasound below human hearing",
+   "Striped hindquarters break up its outline in the dappled forest light",
+   "Eats over a hundred species of plants, including some that are poisonous to people"
+  ],
+  "animal": {
+   "diet": "Herbivore: leaves, buds, shoots, ferns, fruit and fungi; eats clay and charcoal for minerals",
+   "habitat": "Dense tropical rainforest at 500–1,500 m",
+   "lifespan": "20–30 years",
+   "size": "1.5 m at shoulder; 200–350 kg",
+   "behaviour": "Newborn calves hide in a nest for weeks and do not defecate for the first month or two, which may help keep predators from finding them.",
+   "fieldMarks": [
+    "Dark velvety body",
+    "Zebra-striped legs and rump",
+    "Giraffe-like head",
+    "Long blue tongue"
+   ],
+   "lookalikes": "Its striped legs suggest a zebra, but zebras are striped all over; its only close relative, the giraffe, lives in open savanna.",
+   "whereToSee": "Okapi Wildlife Reserve (Epulu)",
+   "season": "Resident",
+   "order": "Artiodactyla"
+  },
+  "iucn": "EN",
+  "lore": "Henry Morton Stanley heard of a forest 'donkey' in the 1890s, and in 1901 Harry Johnston sent skin to London, where it was named for him. The okapi is a national symbol of the DRC and appears on its banknotes.",
+  "historicalNames": [
+   "Equus johnstoni",
+   "Atti",
+   "Forest giraffe"
+  ],
+  "funFact": "It was first named as a horse species, Equus johnstoni, before skulls showed it was a giraffid."
+ },
+ {
+  "slug": "daubentonia-madagascariensis",
+  "scientific": "Daubentonia madagascariensis",
+  "common": "Aye-aye",
+  "otherNames": [
+   "Aye-aye / Hay-hay (Malagasy)",
+   "Zhǐhóu 指猴 (Chinese)",
+   "Ayeaye (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Daubentoniidae",
+  "shelves": [
+   "endangered",
+   "marvel"
+  ],
+  "summary": "A nocturnal lemur of Madagascar with bat-like ears, rodent-like teeth and a strange, skeletal middle finger. It finds grubs by tapping on wood and listening for hollow tunnels.",
+  "nativeRange": "Madagascar, mainly the eastern rainforests and scattered western and northern forests",
+  "regions": [
+   "Madagascar"
+  ],
+  "biomes": [
+   "Tropical rainforest",
+   "Dry deciduous forest",
+   "Mangrove"
+  ],
+  "abilities": [
+   "Taps wood with its thin middle finger and listens to find hollow insect tunnels (percussive foraging)",
+   "Gnaws into wood with ever-growing incisors, then hooks out larvae with that ball-jointed finger",
+   "Has an extra 'pseudothumb' on each wrist",
+   "Turns its large ears independently to locate sounds"
+  ],
+  "animal": {
+   "diet": "Omnivore: wood-boring beetle larvae, seeds, nectar, fungi, coconuts and other fruit",
+   "habitat": "Rainforest, dry forest, mangroves and plantations",
+   "lifespan": "Poorly known in the wild; 20+ years in captivity",
+   "size": "2–2.6 kg; body ~40 cm with a bushy tail of 45–55 cm",
+   "behaviour": "The world's largest nocturnal primate, it spends the day curled in a ball-shaped nest of leaves high in the canopy.",
+   "fieldMarks": [
+    "Shaggy dark fur",
+    "Huge ears",
+    "Long, thin middle finger",
+    "Bushy tail"
+   ],
+   "lookalikes": "Unmistakable.",
+   "whereToSee": "Nosy Mangabe Special Reserve",
+   "season": "Resident; nocturnal",
+   "order": "Primates"
+  },
+  "iucn": "EN",
+  "lore": "In parts of Madagascar, local fady (taboos) hold the aye-aye to be a sign of death and it may be killed on sight. Pierre Sonnerat brought the first description to Europe in 1782, and early naturalists classed it as a squirrel.",
+  "historicalNames": [
+   "Sciurus madagascariensis",
+   "Cheiromys",
+   "Aye-aye"
+  ],
+  "funFact": "It is the only primate known to find food by tapping and listening, a method otherwise used by woodpeckers."
+ },
+ {
+  "slug": "vulpes-zerda",
+  "scientific": "Vulpes zerda",
+  "common": "Fennec fox",
+  "otherNames": [
+   "Fanak (Arabic)",
+   "Fennec (French)",
+   "Ěrkuò hú 耳廓狐 (Chinese)",
+   "Zorro del desierto (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Canidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "The smallest wild canid, a cream-coloured desert fox whose ears can be 15 cm long. Those huge ears give off body heat and pick up prey moving under the sand.",
+  "nativeRange": "Sahara and adjoining deserts of North Africa, from Morocco and Mauritania to Egypt and Sudan; Sinai",
+  "regions": [
+   "North Africa",
+   "West Asia"
+  ],
+  "biomes": [
+   "Desert",
+   "Sand dunes"
+  ],
+  "abilities": [
+   "Hears insects and rodents moving underground with its enormous ears",
+   "Sheds heat through ears full of blood vessels",
+   "Can go long periods without drinking, getting water from its food",
+   "Walks on hot sand with thickly furred soles",
+   "Can dig up to about 6 m of burrow in a single night"
+  ],
+  "animal": {
+   "diet": "Omnivore: insects, rodents, lizards, birds' eggs, roots and fruit",
+   "habitat": "Sandy desert and dune fields",
+   "lifespan": "~10 years in the wild; up to 14+ in captivity",
+   "size": "1–1.5 kg; body 24–40 cm, ears to 15 cm",
+   "behaviour": "Fennecs are nocturnal and live in family groups in sprawling burrows. Pairs often stay together for life.",
+   "fieldMarks": [
+    "Smallest fox",
+    "Huge ears",
+    "Cream fur",
+    "Black-tipped tail"
+   ],
+   "lookalikes": "Rüppell's fox is larger and greyer with smaller ears.",
+   "whereToSee": "Erg Chebbi (Morocco) and Douz (Tunisia)",
+   "season": "Resident; nocturnal",
+   "order": "Carnivora"
+  },
+  "iucn": "LC",
+  "lore": "The name comes from Arabic fanak, 'fox'. Algeria's national football team is nicknamed Les Fennecs, and the fox in Saint-Exupéry's The Little Prince (1943) is thought to have been inspired by fennecs he saw in the Sahara.",
+  "historicalNames": [
+   "Fanak",
+   "Canis zerda",
+   "Fennecus"
+  ],
+  "funFact": "Relative to its body, the fennec has the largest ears of any canid."
+ },
+ {
+  "slug": "acinonyx-jubatus",
+  "scientific": "Acinonyx jubatus",
+  "common": "Cheetah",
+  "otherNames": [
+   "Chītā, from Sanskrit chitraka 'spotted' (Hindi)",
+   "Duma (Swahili)",
+   "Fahd (Arabic)",
+   "Yūz (Persian)",
+   "Ingulule (Zulu)",
+   "Lièbào 猎豹 (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Felidae",
+  "shelves": [
+   "endangered",
+   "marvel"
+  ],
+  "summary": "The fastest land animal, a slender cat built for sprinting down gazelles on open plains. It trades the power of other big cats for speed, and often loses its kills to lions and hyenas.",
+  "nativeRange": "Eastern and southern Africa, scattered Saharan and Sahelian populations; a tiny remnant in Iran; reintroduced to India in 2022",
+  "regions": [
+   "Sub-Saharan Africa",
+   "North Africa",
+   "West Asia",
+   "South Asia"
+  ],
+  "biomes": [
+   "Savanna",
+   "Grassland",
+   "Arid shrubland"
+  ],
+  "abilities": [
+   "Sprints at about 93–104 km/h in short bursts",
+   "Accelerates from a standstill to about 95 km/h in roughly three seconds",
+   "Grips the ground with semi-retractable claws like running spikes",
+   "Uses its long tail as a rudder to turn sharply mid-chase",
+   "Chirps like a bird and purrs, but cannot roar"
+  ],
+  "animal": {
+   "diet": "Carnivore: gazelles, impala, springbok, hares and young antelope",
+   "habitat": "Open savanna, grassland and semi-desert",
+   "lifespan": "10–12 years in the wild",
+   "size": "21–72 kg; body 1.1–1.5 m plus a tail of 60–80 cm",
+   "behaviour": "Females live alone with their cubs, while brothers often stay together for life in male coalitions that hold territories.",
+   "fieldMarks": [
+    "Slim, long-legged cat",
+    "Solid black spots",
+    "Black tear lines from eyes to mouth",
+    "Small round head"
+   ],
+   "voice": "Chirps and purrs",
+   "lookalikes": "Leopard has rosettes, a heavier build and no tear lines. Never approach on foot; watch from a vehicle, boat or hide, or with a licensed guide.",
+   "whereToSee": "Maasai Mara (Kenya), Serengeti (Ndutu) and Kgalagadi",
+   "season": "Resident",
+   "order": "Carnivora"
+  },
+  "iucn": "VU",
+  "lore": "Cheetahs were tamed for hunting from ancient Egypt to medieval Persia and India; the Mughal emperor Akbar was said to keep around a thousand. The black 'tear marks' feature in an African folk tale of a mother weeping for her stolen cubs.",
+  "historicalNames": [
+   "Hunting leopard",
+   "Felis jubata",
+   "Guépard",
+   "Chita"
+  ],
+  "funFact": "Cheetahs have very low genetic diversity, probably from a population crash around 10,000 years ago."
+ },
+ {
+  "slug": "hippopotamus-amphibius",
+  "scientific": "Hippopotamus amphibius",
+  "common": "Common hippopotamus",
+  "otherNames": [
+   "Kiboko (Swahili)",
+   "Imvubu (Zulu)",
+   "Erinmi (Yoruba)",
+   "Faras al-nahr, 'river horse' (Arabic)",
+   "Hémǎ 河马 (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Hippopotamidae",
+  "shelves": [
+   "endangered",
+   "deadly",
+   "keystone",
+   "sacred"
+  ],
+  "summary": "A huge, semi-aquatic grazer that spends its days in rivers and lakes and comes ashore at night to graze. Despite its plant diet it is one of Africa's most dangerous animals to people.",
+  "nativeRange": "Sub-Saharan Africa, in rivers, lakes and swamps from Senegal and Sudan to South Africa; feral population in Colombia",
+  "regions": [
+   "Sub-Saharan Africa",
+   "South America"
+  ],
+  "biomes": [
+   "Rivers and streams",
+   "Freshwater lakes",
+   "Floodplain",
+   "Savanna"
+  ],
+  "abilities": [
+   "Secretes a red 'blood sweat' (hipposudoric acid) that acts as sunscreen and inhibits bacteria",
+   "Holds its breath for about five minutes, walking or bouncing along river bottoms instead of swimming",
+   "Moves huge amounts of grass-derived nutrients into rivers in its dung, fuelling fish and other life",
+   "Opens its mouth to about 150° to show tusks up to ~50 cm long"
+  ],
+  "animal": {
+   "diet": "Herbivore: grazes up to ~40 kg of grass a night",
+   "habitat": "Rivers, lakes and swamps beside grassland",
+   "lifespan": "40–50 years",
+   "size": "Males usually 1,500–3,200 kg; up to ~1.6 m at the shoulder",
+   "behaviour": "Males mark territories by spinning their tails to spray dung. Groups of dozens crowd together in the water by day.",
+   "fieldMarks": [
+    "Huge, barrel-shaped body",
+    "Grey-brown skin with pink areas",
+    "Large head with eyes and nostrils on top",
+    "Spends days in water"
+   ],
+   "voice": "Loud wheezing honks and grunts",
+   "lookalikes": "Pygmy hippo is smaller and lives in West African forests. Never approach on foot; watch from a vehicle, boat or hide, or with a licensed guide.",
+   "whereToSee": "Chobe River (Botswana), South Luangwa (Zambia) and Murchison Falls (Uganda)",
+   "season": "Resident",
+   "order": "Artiodactyla"
+  },
+  "iucn": "VU",
+  "lore": "In ancient Egypt the hippo goddess Taweret protected women in childbirth, and blue faience hippos were placed in tombs. Many scholars think the Behemoth of the Book of Job was inspired by the hippopotamus.",
+  "historicalNames": [
+   "Hippopotamus",
+   "River-horse",
+   "Behemoth",
+   "Equus fluviatilis"
+  ],
+  "funFact": "Pablo Escobar's four hippos in Colombia have grown into a wild herd of over 150, now the largest hippo population outside Africa."
+ },
+ {
+  "slug": "giraffa-camelopardalis",
+  "scientific": "Giraffa camelopardalis",
+  "common": "Giraffe",
+  "otherNames": [
+   "Twiga (Swahili)",
+   "Zarāfa (Arabic)",
+   "Indlulamithi, 'taller than the trees' (Zulu)",
+   "Kirin (Japanese)",
+   "Chángjǐnglù 长颈鹿 (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Giraffidae",
+  "shelves": [
+   "endangered",
+   "marvel"
+  ],
+  "summary": "The tallest living animal, browsing acacia leaves up to nearly 6 m above the ground. Its heart and blood vessels are specially adapted to pump blood all the way up that long neck.",
+  "nativeRange": "Savannas and woodlands of Sub-Saharan Africa, from Niger and Chad to South Africa",
+  "regions": [
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Savanna",
+   "Open woodland"
+  ],
+  "abilities": [
+   "Reaches leaves up to ~5.5–6 m high",
+   "Has a heart of over 10 kg that drives blood pressure about twice a human's",
+   "Tight skin on its legs works like a compression stocking to stop blood pooling",
+   "Strips thorny acacia with a dark, prehensile tongue about 45 cm long",
+   "Can kill a lion with a kick"
+  ],
+  "animal": {
+   "diet": "Herbivore: leaves, shoots and flowers, especially of acacia; up to ~30 kg a day",
+   "habitat": "Savanna and open woodland",
+   "lifespan": "~25 years",
+   "size": "Males up to ~5.5 m tall and ~1,200 kg; females smaller",
+   "behaviour": "Males fight by 'necking', swinging their necks to hit each other with their ossicones. Giraffes sleep only briefly, often standing up.",
+   "fieldMarks": [
+    "Tallest animal",
+    "Patched coat",
+    "Long neck and legs",
+    "Ossicones on the head"
+   ],
+   "lookalikes": "Patterns vary between giraffe species and subspecies.",
+   "whereToSee": "Etosha (Namibia), Maasai Mara (Kenya) and Kruger (South Africa)",
+   "season": "Resident",
+   "order": "Artiodactyla"
+  },
+  "iucn": "VU",
+  "lore": "A giraffe from Malindi reached the Ming court in 1414 with Zheng He's fleets and was hailed as a qilin, an auspicious beast. Lorenzo de' Medici's giraffe caused a sensation in Florence in 1486, as did 'Zarafa', sent by Egypt's ruler to Charles X of France in 1827.",
+  "historicalNames": [
+   "Camelopardalis",
+   "Camelopard",
+   "Zarafa",
+   "Ziraph"
+  ],
+  "funFact": "Despite its length, a giraffe's neck has only seven vertebrae, the same number as a human's."
+ },
+ {
+  "slug": "ceratotherium-simum",
+  "scientific": "Ceratotherium simum",
+  "common": "White rhinoceros",
+  "otherNames": [
+   "Umkhombe (Zulu)",
+   "Kifaru (Swahili)",
+   "Witrenoster (Afrikaans)",
+   "Báixīniú 白犀牛 (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Rhinocerotidae",
+  "shelves": [
+   "keystone",
+   "marvel"
+  ],
+  "summary": "The largest rhinoceros and, after elephants, the heaviest land animal, a grazer with a wide square lip for cropping grass. Southern white rhinos recovered from perhaps fewer than a hundred around 1900 to over 15,000, though poaching for horn remains a constant threat.",
+  "nativeRange": "Southern Africa (mainly South Africa, plus Namibia, Kenya, Zimbabwe, Botswana and others); the northern form once ranged from Uganda to Chad",
+  "regions": [
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Savanna",
+   "Grassland"
+  ],
+  "abilities": [
+   "Mows grass with a broad, square lip, creating short 'grazing lawns' used by other grazers",
+   "Communicates through shared dung middens, which carry information about sex, age and breeding state",
+   "Has a front horn of compacted keratin that can exceed 1 m",
+   "Charges at up to ~40 km/h"
+  ],
+  "animal": {
+   "diet": "Herbivore: short grasses",
+   "habitat": "Open grassland and savanna with water and shade",
+   "lifespan": "40–50 years",
+   "size": "Males up to ~2,300–3,600 kg and ~1.8 m at the shoulder; females ~1,700 kg",
+   "behaviour": "Calves walk ahead of their mothers, unlike black rhino calves, which follow behind.",
+   "fieldMarks": [
+    "Wide, square lip",
+    "Hump on the neck",
+    "Two horns",
+    "Grazes on grass"
+   ],
+   "lookalikes": "Black rhino has a hooked lip, no neck hump and browses; white rhino calves run ahead of their mother, black rhino calves behind. Never approach on foot; watch from a vehicle, boat or hide, or with a licensed guide.",
+   "whereToSee": "Hluhluwe–iMfolozi Park and Kruger (South Africa)",
+   "season": "Resident",
+   "order": "Perissodactyla"
+  },
+  "iucn": "NT",
+  "lore": "Reserves in Zululand, including Hluhluwe-iMfolozi (1895), sheltered the last southern white rhinos, and 'Operation Rhino' in the 1960s moved them to parks across Africa. The name 'white' is often traced, without firm evidence, to Dutch or Afrikaans wijd, 'wide', for its mouth.",
+  "historicalNames": [
+   "Rhinoceros simus",
+   "Square-lipped rhinoceros"
+  ],
+  "funFact": "Only two northern white rhinos, both female, survive; scientists are trying to save the subspecies with IVF and surrogate southern white mothers."
+ },
+ {
+  "slug": "erinaceus-europaeus",
+  "scientific": "Erinaceus europaeus",
+  "common": "European hedgehog",
+  "otherNames": [
+   "Igel (German)",
+   "Hérisson (French)",
+   "Erizo (Spanish)",
+   "Draenog (Welsh)",
+   "Kirpi (Turkish)",
+   "Qunfudh (Arabic)",
+   "Cìwei 刺猬 (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Erinaceidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "A small, spiny insect-eater of western European gardens, hedgerows and woodland edges. It rolls into a prickly ball when threatened and hibernates through winter.",
+  "nativeRange": "Western and northern Europe from Iberia and Italy to Scandinavia and western Russia; introduced to New Zealand",
+  "regions": [
+   "Europe",
+   "Oceania"
+  ],
+  "biomes": [
+   "Temperate forest edge",
+   "Hedgerows",
+   "Gardens",
+   "Grassland"
+  ],
+  "abilities": [
+   "Rolls into a tight ball covered with 5,000–7,000 spines using a ring of muscle under its skin",
+   "Hibernates by dropping its body temperature to a few degrees above freezing",
+   "'Self-anoints' by frothing at the mouth and spreading saliva over its spines",
+   "Partly resists adder venom",
+   "Carries a skin fungus that makes natural antibiotics; a 2022 study found this drove MRSA-type resistance in its bacteria long before human antibiotic use"
+  ],
+  "animal": {
+   "diet": "Insectivore: beetles, caterpillars, earthworms, slugs; eggs and carrion",
+   "habitat": "Woodland edges, hedgerows, parks and suburban gardens",
+   "lifespan": "2–5 years in the wild",
+   "size": "20–30 cm; 600–1,200 g",
+   "behaviour": "Mostly nocturnal, it may roam 1–2 km a night; snuffling and grunting while foraging gave it its name.",
+   "fieldMarks": [
+    "Brown spines",
+    "Pointed snout",
+    "Rolls into a ball",
+    "Nocturnal"
+   ],
+   "voice": "Snuffles and snorts",
+   "lookalikes": "Northern white-breasted hedgehog (E. roumanicus) of eastern Europe has a white chest patch.",
+   "whereToSee": "Gardens, parks and hedgerows at night",
+   "season": "Active Apr–Oct; hibernates Nov–Mar",
+   "order": "Eulipotyphla"
+  },
+  "iucn": "NT",
+  "lore": "Pliny the Elder claimed hedgehogs gather fruit by rolling on it and carrying it off on their spines, a scene copied in medieval bestiaries. Its old English name 'urchin' gave sea urchins their name.",
+  "historicalNames": [
+   "Erinaceus",
+   "Ericius",
+   "Urchin",
+   "Hérisson"
+  ],
+  "funFact": "IUCN moved it from Least Concern to Near Threatened in 2024 after studies showed declines in many European countries."
+ },
+ {
+  "slug": "lycaon-pictus",
+  "scientific": "Lycaon pictus",
+  "common": "African wild dog (painted wolf)",
+  "otherNames": [
+   "Mbwa mwitu (Swahili)",
+   "Wildehond (Afrikaans)",
+   "Painted wolf (English)",
+   "Fēizhōu yěquǎn 非洲野犬 (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Canidae",
+  "shelves": [
+   "endangered",
+   "marvel"
+  ],
+  "summary": "A long-legged, blotch-coated hunting dog of African savannas and one of the most successful pack hunters among large carnivores. Packs care for pups and injured members, feeding them by regurgitating meat.",
+  "nativeRange": "Fragmented populations in eastern and southern Africa (Botswana, Zimbabwe, Tanzania, Zambia, Kenya, South Africa, Mozambique) and a few in West Africa",
+  "regions": [
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Savanna",
+   "Open woodland",
+   "Semi-desert"
+  ],
+  "abilities": [
+   "Runs prey down over several kilometres, at up to ~60 km/h; often succeeds in most chases it starts",
+   "Packs 'vote' to start a hunt by sneezing; the more sneezes, the likelier they set off",
+   "Shares kills with pups and sick or injured pack members",
+   "Its coat pattern of black, yellow and white is unique to each dog"
+  ],
+  "animal": {
+   "diet": "Carnivore: impala, kudu, gazelles, wildebeest calves",
+   "habitat": "Savanna, open woodland and semi-desert, with very large home ranges",
+   "lifespan": "~10 years",
+   "size": "18–36 kg; ~75 cm at shoulder",
+   "behaviour": "Usually only the dominant pair breeds, and the whole pack helps raise the litter of up to 10–20 pups.",
+   "fieldMarks": [
+    "Blotched coat of black, brown, yellow and white",
+    "Large round ears",
+    "White-tipped tail",
+    "Lean, long legs"
+   ],
+   "voice": "Twittering, hoo calls and sneezes",
+   "lookalikes": "Spotted hyena has a sloping back, spots and round ears. Never approach on foot; watch from a vehicle, boat or hide, or with a licensed guide.",
+   "whereToSee": "Kruger (South Africa), Moremi (Okavango Delta) and Mana Pools (Zimbabwe)",
+   "season": "Southern Africa breeding Apr–Jul",
+   "order": "Carnivora"
+  },
+  "iucn": "EN",
+  "lore": "Coenraad Temminck described it in 1820 as Hyaena picta, 'painted hyena'; its genus name Lycaon, after the king turned into a wolf in Greek myth, came later. Conservationists have popularised the name 'painted wolf' to counter its old reputation as vermin.",
+  "historicalNames": [
+   "Hyaena picta",
+   "Cape hunting dog"
+  ],
+  "funFact": "Unlike other dogs, it has only four toes on each front foot."
+ },
+ {
+  "slug": "carlito-syrichta",
+  "scientific": "Carlito syrichta",
+  "common": "Philippine tarsier",
+  "otherNames": [
+   "Mamag / Maomag (Visayan)",
+   "Magô (Boholano)",
+   "Fēilǜbīn yǎnjìnghóu 菲律宾眼镜猴 (Chinese)",
+   "Tarsero (Spanish/Filipino)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Tarsiidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "A palm-sized nocturnal primate of the southern Philippines, with each eye about as large as its brain. It is entirely carnivorous, leaping onto insects in the dark.",
+  "nativeRange": "Southern and eastern Philippines: Bohol, Samar, Leyte, Mindanao and nearby islands",
+  "regions": [
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Tropical rainforest",
+   "Secondary forest",
+   "Bamboo thicket"
+  ],
+  "abilities": [
+   "Turns its head nearly 180° in each direction, since its huge eyes cannot move in their sockets",
+   "Communicates with calls of up to about 70 kHz, in pure ultrasound that predators and people cannot hear",
+   "Leaps several metres between trunks with long hind legs and elongated ankle bones",
+   "Catches insects in mid-air with its hands"
+  ],
+  "animal": {
+   "diet": "Carnivore: insects, spiders, small lizards and birds",
+   "habitat": "Dense lowland forest and scrub, clinging to vertical trunks",
+   "lifespan": "~12 years in the wild; up to ~20 in captivity",
+   "size": "Body 8.5–16 cm, tail 20–25 cm; 80–160 g",
+   "behaviour": "By day it sleeps clinging upright to a stem in dense cover. It stresses easily, which is why it does poorly in captivity and under heavy tourism.",
+   "fieldMarks": [
+    "Tiny primate",
+    "Huge eyes",
+    "Long, thin tail",
+    "Clings to vertical trunks"
+   ],
+   "lookalikes": "Unmistakable.",
+   "whereToSee": "Philippine Tarsier Sanctuary, Corella (Bohol)",
+   "season": "Resident; nocturnal",
+   "order": "Primates"
+  },
+  "iucn": "NT",
+  "lore": "The Jesuit naturalist Georg Joseph Kamel described it from the Philippines around 1700, and Linnaeus named it Simia syrichta in 1758 from that account. It is now a symbol of Bohol and its tourism.",
+  "historicalNames": [
+   "Simia syrichta",
+   "Cercopithecus luzonis minimus"
+  ],
+  "funFact": "Relative to body size, tarsiers have the largest eyes of any mammal."
+ },
+ {
+  "slug": "physeter-macrocephalus",
+  "scientific": "Physeter macrocephalus",
+  "common": "Sperm whale",
+  "otherNames": [
+   "Cachalote (Spanish/Portuguese)",
+   "Cachalot (French)",
+   "Parāoa (Māori)",
+   "Makkō-kujira (Japanese)",
+   "Mǒxiāngjīng 抹香鲸, 'ambergris whale' (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Physeteridae",
+  "shelves": [
+   "endangered",
+   "ocean",
+   "migrant",
+   "marvel"
+  ],
+  "summary": "The largest toothed predator and owner of the largest brain of any animal, which dives into the deep ocean to hunt squid. Its huge, square head holds the spermaceti organ, which focuses the loudest sounds made by any animal.",
+  "nativeRange": "Deep waters of all oceans; females and young in tropical and subtropical seas, adult males ranging to polar waters",
+  "regions": [
+   "Atlantic Ocean",
+   "Pacific Ocean",
+   "Indian Ocean",
+   "Southern Ocean",
+   "Cosmopolitan"
+  ],
+  "biomes": [
+   "Open ocean",
+   "Deep sea",
+   "Continental slope"
+  ],
+  "abilities": [
+   "Makes echolocation clicks of up to ~230 dB, the loudest sounds known from any animal",
+   "Dives to over 2,000 m and stays down for an hour or more",
+   "Has a brain of up to ~8–9 kg, the largest known",
+   "Families share 'codas', click patterns that identify vocal clans and are now studied for structure",
+   "Produces ambergris, a waxy gut secretion formed around indigestible squid beaks"
+  ],
+  "animal": {
+   "diet": "Carnivore: mainly deep-sea squid, including giant squid; also fish",
+   "habitat": "Deep open ocean, especially over canyons and slopes",
+   "lifespan": "70 years or more",
+   "size": "Males 16–20 m and up to ~45–57 t; females ~11 m and ~15 t",
+   "behaviour": "Groups sleep for short periods hanging vertically just below the surface. Females form lifelong family units that babysit each other's calves while mothers dive.",
+   "fieldMarks": [
+    "Huge, square head",
+    "Angled, bushy blow to the left",
+    "Wrinkled skin",
+    "Low hump instead of a dorsal fin"
+   ],
+   "voice": "Loud clicks",
+   "lookalikes": "Humpback whales have long flippers and a different blow.",
+   "whereToSee": "Kaikōura (New Zealand), Andenes (Norway) and Dominica",
+   "season": "Kaikōura year-round; Andenes May–Sep",
+   "order": "Artiodactyla (Cetacea)"
+  },
+  "iucn": "VU",
+  "lore": "In 1820 a sperm whale rammed and sank the Nantucket whaleship Essex, the event that inspired Herman Melville's Moby-Dick (1851). Ambergris, called ʿanbar in Arabic, was prized in medieval Islamic and European perfumery and medicine.",
+  "historicalNames": [
+   "Physeter",
+   "Cachalot",
+   "Trumpo",
+   "Spermaceti whale"
+  ],
+  "funFact": "Whalers named it after the waxy spermaceti in its head, which they mistook for sperm."
+ }
+]

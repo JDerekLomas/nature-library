@@ -1,0 +1,3087 @@
+[
+ {
+  "slug": "platanista-minor",
+  "scientific": "Platanista minor",
+  "common": "Indus river dolphin",
+  "otherNames": [
+   "Bhulan (Sindhi/Saraiki)",
+   "Susu (Urdu/Hindi)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Platanistidae",
+  "shelves": [
+   "freshwater",
+   "endangered",
+   "marvel"
+  ],
+  "summary": "A nearly blind river dolphin that navigates the silt-thick Indus entirely by echolocation, swimming on its side and trailing a flipper along the riverbed. Once spread through the whole Indus system, it is now trapped between irrigation barrages in a few stretches of the Indus in Pakistan, with a tiny remnant in India's Beas River. It was recognised as a separate species from the Ganges dolphin in 2021.",
+  "nativeRange": "Indus River, Pakistan (mainly between Chashma and Kotri barrages); a remnant population in the Beas River, Punjab, India",
+  "regions": [
+   "South Asia"
+  ],
+  "biomes": [
+   "Large silty river",
+   "Freshwater"
+  ],
+  "abilities": [
+   "Its eyes have no crystalline lens; it can probably sense only light and its direction, and relies on near-continuous echolocation clicks",
+   "Swims on its side, sweeping its head and a pectoral flipper across the bottom to find prey in near-zero visibility",
+   "Long, narrow beak with interlocking needle teeth that remain visible when the mouth is closed",
+   "Unfused neck vertebrae let it turn its head sharply, unlike most dolphins"
+  ],
+  "animal": {
+   "diet": "Fish and freshwater prawns, taken from the riverbed and mid-water",
+   "habitat": "Deep channels, confluences and eddies of the turbid main Indus; needs water depth through the dry season",
+   "lifespan": "Up to roughly 30 years (poorly known)",
+   "size": "About 1.5–2.5 m long; females larger than males; roughly 70–110 kg",
+   "behaviour": "Surfaces every minute or two with a brief, low roll and a sneeze-like blow, then vanishes; it rarely leaps or bow-rides. Usually seen singly or in loose groups at channel junctions.",
+   "fieldMarks": [
+    "Silhouette at the surface: a brief low arc showing a long, thin beak, rounded melon and only a low triangular hump instead of a true dorsal fin",
+    "Grey-brown body, often pinkish on the belly; broad, paddle-like flippers",
+    "Blow is a short, audible puff with little visible spray",
+    "Usually seen in muddy main channels below or between barrages, often near confluences"
+   ],
+   "lookalikes": "The Ganges river dolphin (Platanista gangetica) looks almost identical but lives in the Ganges–Brahmaputra–Meghna and Karnaphuli systems; range alone separates them. No other dolphin occurs in the Indus.",
+   "whereToSee": "Indus Dolphin Reserve between Guddu and Sukkur barrages, Sindh, Pakistan; the Taunsa Barrage Wildlife Sanctuary, Punjab; Beas Conservation Reserve near Harike, Punjab, India",
+   "season": "Resident year-round; easiest to see in the low-water months of winter and early spring, when dolphins concentrate in deeper channels",
+   "order": "Artiodactyla (Cetacea)"
+  },
+  "iucn": "EN",
+  "lore": "In Sindhi folklore the bhulan was once a woman, turned into a blind dolphin after she was cursed by a holy man. Since 1992 the Sindh Wildlife Department and WWF-Pakistan have run a programme rescuing dolphins stranded in irrigation canals.",
+  "historicalNames": [
+   "Platanista",
+   "Susu"
+  ],
+  "funFact": "Surveys counted around 1,800–2,000 Indus dolphins in recent years, almost all in a stretch of river shorter than 1,000 km."
+ },
+ {
+  "slug": "capra-falconeri",
+  "scientific": "Capra falconeri",
+  "common": "Markhor",
+  "otherNames": [
+   "Mārkhor (Pashto/Urdu/Persian, 'snake-eater')",
+   "Rezh (Wakhi)",
+   "Mārkhōr (Balochi)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Bovidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "A great wild goat of the western Himalaya, Hindu Kush and Karakoram, whose males carry immense corkscrew horns and a flowing ruff. It is Pakistan's national animal and a conservation success story: community-run trophy-hunting programmes helped populations recover enough for the species to move from Endangered to Near Threatened in 2015.",
+  "nativeRange": "Northern Pakistan, eastern Afghanistan, Kashmir (India), southern Tajikistan, Uzbekistan and Turkmenistan",
+  "regions": [
+   "South Asia",
+   "Central Asia"
+  ],
+  "biomes": [
+   "Mountain scrub forest",
+   "Cliffs and crags",
+   "Open montane woodland"
+  ],
+  "abilities": [
+   "Climbs near-vertical cliffs and even into holm-oak trees to browse",
+   "Males' spiralling horns can exceed 1.5 m along the curve",
+   "Feeds at high altitude in summer and descends to lower slopes in winter, tracking snowline"
+  ],
+  "animal": {
+   "diet": "Grasses and herbs in spring and summer; browses leaves and twigs of oak, juniper and shrubs in winter",
+   "habitat": "Steep, rugged terrain with scrub or open woodland, roughly 600–3,600 m",
+   "lifespan": "About 12–13 years in the wild",
+   "size": "Shoulder height 65–115 cm; males up to about 110 kg, females much smaller",
+   "behaviour": "Males live apart from females and young for most of the year and join them for the winter rut, when they clash horns and rear up in contests on steep ground.",
+   "fieldMarks": [
+    "Silhouette: stocky goat with outward-twisting corkscrew horns (males) — the spiral, not a backward arc, is diagnostic",
+    "Adult males have a long ruff of shaggy hair on the throat, chest and shins",
+    "Coat greyish-tan, paler in winter; females are reddish, short-horned and lack the ruff",
+    "Signs: goat-type pellet piles on ledges and cloven, blunt-tipped hoofprints on cliff paths"
+   ],
+   "lookalikes": "Siberian ibex has long, scimitar-shaped horns sweeping back with knobbly ridges, not corkscrews. Urial (wild sheep) have curling horns that circle beside the face and lack a goat beard.",
+   "whereToSee": "Chitral Gol National Park and Tooshi-Shasha Conservancy, Chitral; Kargah and Gilgit-Baltistan community conservancies; Torghar Hills, Balochistan; Kazinag National Park, Kashmir",
+   "season": "Resident; males are easiest to see near villages and lower slopes during the winter rut (November–January)",
+   "order": "Artiodactyla"
+  },
+  "iucn": "NT",
+  "lore": "The name is popularly read as Persian 'snake-eater', and in Hindu Kush folklore markhor were said to kill snakes and leave a foam whose dried residue was used to draw out snake venom. The Torghar Conservation Project, begun by Pashtun tribesmen in 1985, is a celebrated model of community-led wildlife recovery.",
+  "historicalNames": [
+   "Capra megaceros",
+   "Mar-khor"
+  ],
+  "funFact": "A Pakistani markhor trophy-hunting permit has sold for more than US$100,000, with most of the fee going to the local community."
+ },
+ {
+  "slug": "panthera-leo",
+  "scientific": "Panthera leo",
+  "common": "Lion",
+  "otherNames": [
+   "Sher (Urdu/Hindi)",
+   "Sinh (Gujarati)",
+   "Siṃha (Sanskrit)",
+   "Simba (Swahili)",
+   "Asad (Arabic)",
+   "Shir (Persian)",
+   "Ngonyama (Zulu)",
+   "León (Spanish)",
+   "Leão (Portuguese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Felidae",
+  "shelves": [
+   "endangered",
+   "keystone",
+   "sacred",
+   "deadly"
+  ],
+  "summary": "The only truly social cat, living in prides of related females with one or a few resident males. Lions once ranged from southern Europe and the Middle East to India and across Africa; today they survive in sub-Saharan Africa and one small Asian outpost, the Gir forest and surrounding lands of Gujarat, India. Asiatic lions (Panthera leo leo, in the current northern subspecies) grew from a few dozen around 1900 to 891 counted in Gujarat's 2025 census.",
+  "nativeRange": "Sub-Saharan Africa; in Asia only the Saurashtra peninsula of Gujarat, India (Gir National Park and surrounding districts)",
+  "regions": [
+   "Sub-Saharan Africa",
+   "South Asia"
+  ],
+  "biomes": [
+   "Savanna",
+   "Dry grassland",
+   "Dry deciduous forest",
+   "Scrub"
+  ],
+  "abilities": [
+   "Cooperative hunters: lionesses fan out and ambush to bring down buffalo, zebra and even young elephants",
+   "Roar audible to people up to about 8 km away, used to advertise territory",
+   "Can eat over 30 kg of meat in a single sitting, then rest for most of a day",
+   "As apex predators they shape the behaviour and numbers of large grazers"
+  ],
+  "animal": {
+   "diet": "Carnivore: wildebeest, zebra, buffalo, antelope in Africa; in Gir mainly chital, sambar, nilgai, wild boar and livestock",
+   "habitat": "Open savanna, grassland, dry woodland and scrub with water; in Gir, dry teak forest, scrub and farmland",
+   "lifespan": "Females about 15–18 years, males often 10–12 in the wild",
+   "size": "Males 150–250 kg, about 2.5–3.3 m including tail; females 110–180 kg",
+   "behaviour": "Prides defend territories for generations; incoming males often kill young cubs to bring females back into breeding. In Gir, prides are smaller and males and females usually associate only to mate or share large kills.",
+   "fieldMarks": [
+    "Silhouette: large, plain tawny cat with a tufted black tail-tip — the only cat with a tail tuft",
+    "Adult males with a mane; Asiatic males' manes are usually shorter, showing the ears",
+    "Asiatic lions typically have a longitudinal fold of skin along the belly, rare in African lions",
+    "Tracks: round prints about 11–14 cm across, four toes, no claw marks, a three-lobed rear edge to the heel pad"
+   ],
+   "voice": "A deep, rolling series of moaning roars that fade into grunts, given most at dusk and before dawn, often by several pride members together.",
+   "lookalikes": "Female lions can be confused with pumas in zoos or photos, but the two never overlap in the wild; lionesses are much larger and have the tail tuft. Leopards are spotted with rosettes.",
+   "whereToSee": "Gir National Park and Devalia Safari Park, Gujarat; Serengeti and Ngorongoro (Tanzania); Maasai Mara (Kenya); Okavango Delta (Botswana); Kruger (South Africa)",
+   "season": "Resident year-round; Gir is closed to safaris 16 June–15 October for the monsoon, and dry seasons give the best sightings in Africa",
+   "order": "Carnivora"
+  },
+  "iucn": "VU",
+  "lore": "The lion capital of Ashoka at Sarnath, four lions back to back, is the national emblem of India. The Nawab of Junagadh protected Gir's last lions in the early 1900s, saving the Asian population from extinction.",
+  "historicalNames": [
+   "Leo",
+   "Lyoun",
+   "Lioun"
+  ],
+  "funFact": "In 2025 about 57% of Gujarat's lions were counted outside Gir's protected core, living among farms and coastal villages."
+ },
+ {
+  "slug": "rhinoceros-unicornis",
+  "scientific": "Rhinoceros unicornis",
+  "common": "Indian rhinoceros",
+  "otherNames": [
+   "Gaiṇḍā (Hindi/Urdu)",
+   "Gaḍā (Nepali)",
+   "Gor (Assamese)",
+   "Khaḍgamṛga (Sanskrit)",
+   "Greater one-horned rhinoceros"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Rhinocerotidae",
+  "shelves": [
+   "endangered",
+   "keystone",
+   "freshwater"
+  ],
+  "summary": "A single-horned rhino with skin folded like riveted armour plates, living in the tall floodplain grasslands of the Brahmaputra and the Nepal terai. From fewer than 200 animals in the early 1900s it has recovered to over 4,000, one of Asia's great conservation comebacks, about two-thirds of them in Kaziranga National Park.",
+  "nativeRange": "Northeast India (Assam, West Bengal, Uttar Pradesh) and lowland Nepal; formerly across the Indus and Ganges plains",
+  "regions": [
+   "South Asia"
+  ],
+  "biomes": [
+   "Tall floodplain grassland",
+   "Riverine forest",
+   "Wetland"
+  ],
+  "abilities": [
+   "Grazes tall elephant grass, keeping floodplain grasslands open for other species",
+   "Strong swimmer that crosses rivers and wallows for hours",
+   "Defends itself mainly with sharp lower tusks (incisors) rather than its horn",
+   "Uses communal dung heaps (middens) that act as scent noticeboards"
+  ],
+  "animal": {
+   "diet": "Grasses, reeds, aquatic plants, fruit, leaves and crops",
+   "habitat": "Alluvial floodplain grassland, swamps and adjoining forest",
+   "lifespan": "About 35–45 years",
+   "size": "1.7–2 m at shoulder; males about 2,000–2,700 kg",
+   "behaviour": "Mostly solitary, but gathers at wallows and grazing lawns. Feeds mainly in the morning and evening and lies in mud or water through the heat of the day.",
+   "fieldMarks": [
+    "Silhouette: massive grey body with deep skin folds at shoulder, flank and rump giving an 'armour-plated' look",
+    "Single horn, usually 20–30 cm, on the nose",
+    "Skin covered with wart-like bumps on the shoulders and legs",
+    "Signs: large dung middens along trails, three-toed tracks about 25 cm across, wallows in mud"
+   ],
+   "lookalikes": "The Javan rhino (also one-horned) survives only in Ujung Kulon, Java, and has finer, mosaic-like skin texture without warts. The African white and black rhinos have two horns.",
+   "whereToSee": "Kaziranga, Pobitora and Manas national parks (Assam); Jaldapara and Gorumara (West Bengal); Dudhwa (Uttar Pradesh); Chitwan and Bardia (Nepal)",
+   "season": "Resident; Kaziranga is open roughly November–April, closed through the monsoon floods",
+   "order": "Perissodactyla"
+  },
+  "iucn": "VU",
+  "lore": "Rhinos appear on several Indus Valley Civilisation seals from Mohenjo-daro, and the Mughal emperor Babur recorded hunting them near Peshawar in the early 1500s. Albrecht Dürer's famous 1515 woodcut depicts an Indian rhino sent from Gujarat to Lisbon.",
+  "historicalNames": [
+   "Rhinoceros",
+   "Rinoceronte",
+   "Abada"
+  ],
+  "funFact": "Dürer never saw the animal he drew: his armour-plated rhino, based on a sketch and a letter, remained Europe's standard image of a rhino into the 18th century."
+ },
+ {
+  "slug": "vulpes-bengalensis",
+  "scientific": "Vulpes bengalensis",
+  "common": "Bengal fox",
+  "otherNames": [
+   "Lomṛī (Hindi/Urdu)",
+   "Indian fox"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Canidae",
+  "shelves": [],
+  "summary": "A small, slender fox of open plains, found only on the Indian subcontinent. It favours short grassland and semi-desert, avoiding dense forest, and hunts insects and rodents mostly at dusk and night.",
+  "nativeRange": "India, Pakistan, Nepal and Bangladesh, from the Himalayan foothills to Tamil Nadu",
+  "regions": [
+   "South Asia"
+  ],
+  "biomes": [
+   "Short grassland",
+   "Semi-arid scrub",
+   "Farmland"
+  ],
+  "abilities": [
+   "Digs complex dens with several entrances, reused over many years",
+   "Eats large numbers of rodents, termites and crop pests",
+   "Pairs bond and both parents provision the pups"
+  ],
+  "animal": {
+   "diet": "Omnivore: insects, rodents, reptiles, birds' eggs and fruits such as ber and neem",
+   "habitat": "Open short grassland, scrub and semi-desert; avoids dense forest and steep terrain",
+   "lifespan": "About 6–8 years in the wild",
+   "size": "Body 45–60 cm plus a 25–35 cm tail; 2–4 kg",
+   "behaviour": "Rests in dens through the heat of day and is most active at dusk and early morning; pups are born in the dry season, around February–March.",
+   "fieldMarks": [
+    "Small, long-legged grey fox with rufous legs",
+    "Bushy tail with a distinct black tip",
+    "Dark smudge on the muzzle in front of the eyes; ears dark-backed",
+    "Signs: dens with several entrances on low mounds in open ground, with scats full of insect parts and seeds"
+   ],
+   "lookalikes": "Red fox (desert subspecies in the Thar and Pakistan) is larger, redder above and has a white tail tip. Golden jackal is larger, heavier, and has a less bushy tail without a black tip.",
+   "whereToSee": "Velavadar Blackbuck National Park and Little Rann of Kutch (Gujarat); Tal Chhapar and Desert National Park (Rajasthan); Rollapadu (Andhra Pradesh); Deccan grasslands around Pune and Bengaluru",
+   "season": "Resident; pups visible at dens around March–May",
+   "order": "Carnivora"
+  },
+  "iucn": "LC",
+  "lore": "Foxes and jackals play the cunning roles in the Panchatantra and Jataka tales. The species was described by George Shaw in 1800, hence the name, though it is now rare there.",
+  "historicalNames": [
+   "Canis bengalensis"
+  ],
+  "funFact": "Despite its name, the Bengal fox is now scarce in Bengal itself; its strongholds are the dry grasslands of western and peninsular India."
+ },
+ {
+  "slug": "antilope-cervicapra",
+  "scientific": "Antilope cervicapra",
+  "common": "Blackbuck",
+  "otherNames": [
+   "Kālā hiran (Hindi/Urdu)",
+   "Kṛṣṇamṛga (Sanskrit)",
+   "Indian antelope"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Bovidae",
+  "shelves": [
+   "sacred",
+   "marvel"
+  ],
+  "summary": "One of the fastest land mammals, a slim antelope of the Indian plains whose mature males are glossy black and white with long spiralled horns. Once among the most numerous large mammals of South Asia, it survives in protected grasslands and among communities such as the Bishnoi who refuse to harm it.",
+  "nativeRange": "India and Nepal; extinct in the wild in Bangladesh and Pakistan (reintroduced to Lal Suhanra, Pakistan); introduced in Texas and Argentina",
+  "regions": [
+   "South Asia"
+  ],
+  "biomes": [
+   "Open grassland",
+   "Semi-arid plains",
+   "Farmland"
+  ],
+  "abilities": [
+   "Can run at up to about 80 km/h and sustain high speeds over long distances",
+   "Leaps high in the air while fleeing ('stotting' or pronking)",
+   "Males defend small mating territories (leks) in some populations"
+  ],
+  "animal": {
+   "diet": "Grasses; also pods, flowers and crops",
+   "habitat": "Open short grassland and plains with little tree cover",
+   "lifespan": "About 10–15 years",
+   "size": "Shoulder height 74–84 cm; 20–57 kg; horns of males up to about 70 cm",
+   "behaviour": "Lives in herds of females and young with territorial males. Dominant males hold their heads up and back, horns laid along the neck, in displays to rivals.",
+   "fieldMarks": [
+    "Mature males: dark brown to black upperparts sharply divided from white belly; white eye-ring and chin",
+    "Corkscrew horns with 3–5 spiral turns (males only)",
+    "Females and young males: tan-yellow above, white below, hornless",
+    "Signs: territorial males leave large dung middens on their patch"
+   ],
+   "lookalikes": "Chinkara (Indian gazelle) is sandy, both sexes have short, near-straight ridged horns, and it has a dark side-stripe. Nilgai is far larger and grey.",
+   "whereToSee": "Velavadar Blackbuck National Park (Gujarat); Tal Chhapar Sanctuary and Bishnoi villages around Jodhpur (Rajasthan); Point Calimere (Tamil Nadu); Ranibennur (Karnataka); Lal Suhanra National Park (Pakistan)",
+   "season": "Resident; displays peak in the rut (roughly March–April and August–October, varying by region)",
+   "order": "Artiodactyla"
+  },
+  "iucn": "LC",
+  "lore": "In Hindu tradition the blackbuck is the mount of Chandra, the moon, and Vayu, and its skin was prescribed in Vedic texts for ritual seats. Its hunting by a Bollywood actor near a Bishnoi village in 1998 led to a celebrated conviction.",
+  "historicalNames": [
+   "Capra cervicapra",
+   "Antilope"
+  ],
+  "funFact": "The blackbuck is the only living member of the genus Antilope, the genus that gives the antelope subfamily Antilopinae its name."
+ },
+ {
+  "slug": "boselaphus-tragocamelus",
+  "scientific": "Boselaphus tragocamelus",
+  "common": "Nilgai",
+  "otherNames": [
+   "Nīlgāy (Hindi/Urdu, 'blue cow')",
+   "Rojh (Rajasthani/Punjabi)",
+   "Blue bull"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Bovidae",
+  "shelves": [],
+  "summary": "The largest antelope in Asia, a sloping-backed, horse-like animal of dry plains and farmland in northern and central India. Because many Hindus associate it with the cow, it is widely tolerated, and it has become abundant enough to be a notorious crop raider.",
+  "nativeRange": "India, eastern Pakistan and southern Nepal; extinct in Bangladesh; introduced in Texas, USA",
+  "regions": [
+   "South Asia"
+  ],
+  "biomes": [
+   "Dry deciduous forest",
+   "Scrub",
+   "Grassland",
+   "Farmland"
+  ],
+  "abilities": [
+   "Can go long periods without drinking, getting moisture from plants",
+   "Thrives alongside agriculture, feeding on crops at night",
+   "Males spar on their knees, pushing neck-to-neck"
+  ],
+  "animal": {
+   "diet": "Grasses, herbs, leaves, fruits and pods (e.g. of Prosopis and Acacia) and crops",
+   "habitat": "Open scrub, dry forest and agricultural land; avoids dense forest",
+   "lifespan": "About 10 years in the wild",
+   "size": "1–1.5 m at shoulder; males up to about 280 kg",
+   "behaviour": "Herds use shared dung heaps, sometimes dozens of piles at a site, which mark ranges. Females and calves form small herds while bulls live alone or in bachelor groups.",
+   "fieldMarks": [
+    "Silhouette: horse-like, with high shoulders sloping down to lower hindquarters",
+    "Adult bulls blue-grey with a white throat patch and a tuft of black hair (a 'beard') on the throat",
+    "Females and young tawny-brown; white spots on cheeks and white rings above the hooves",
+    "Bulls have short, straight conical horns (about 20 cm); signs include large communal dung middens"
+   ],
+   "lookalikes": "Sambar deer is darker, has branched antlers (stags) and a bushy tail, and lives in forest. Gaur is a much heavier, black bovine with curved horns and white 'socks'.",
+   "whereToSee": "Ranthambore, Keoladeo (Bharatpur) and Tal Chhapar (Rajasthan); Gir and Little Rann of Kutch (Gujarat); farmland across Haryana and Uttar Pradesh",
+   "season": "Resident year-round",
+   "order": "Artiodactyla"
+  },
+  "iucn": "LC",
+  "lore": "The Mughal emperor Jahangir recorded hunting nilgai in his memoir, the Jahangirnama, and his court painter Ustad Mansur painted the animal from life. Its association with the sacred cow has long protected it, though India's environment ministry declared it vermin in Bihar in December 2015 to allow culling.",
+  "historicalNames": [
+   "Antilope tragocamelus",
+   "Nylghau"
+  ],
+  "funFact": "The nilgai is the only living species in its genus, and with the four-horned antelope it forms a tribe (Boselaphini) whose relatives once roamed Europe."
+ },
+ {
+  "slug": "melursus-ursinus",
+  "scientific": "Melursus ursinus",
+  "common": "Sloth bear",
+  "otherNames": [
+   "Bhālū (Hindi)",
+   "Rīch (Hindi/Urdu)",
+   "Karadi (Tamil/Kannada)",
+   "Valaha (Sinhala)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Ursidae",
+  "shelves": [
+   "endangered",
+   "deadly"
+  ],
+  "summary": "A shaggy, termite-eating bear of India and Sri Lanka that vacuums insects out of their mounds. It lacks upper front incisors, can close its nostrils, and uses its protrusible lips like a suction tube. Despite its insect diet it is one of the most dangerous animals in India, attacking when surprised at close range.",
+  "nativeRange": "India, Sri Lanka, Nepal and Bhutan; possibly extinct in Bangladesh",
+  "regions": [
+   "South Asia"
+  ],
+  "biomes": [
+   "Dry deciduous forest",
+   "Scrub",
+   "Rocky hills",
+   "Grassland"
+  ],
+  "abilities": [
+   "Sucks termites from mounds with a whooshing noise audible 100 m away",
+   "Long, curved claws dig out termite mounds and bee nests",
+   "Mothers carry cubs on their backs for months, a habit not regularly seen in other bears"
+  ],
+  "animal": {
+   "diet": "Termites, ants and other insects; fruit such as mahua flowers, ber and figs; honey",
+   "habitat": "Dry and moist forest, scrub and rocky hills with boulder caves, generally below 1,500 m",
+   "lifespan": "About 20 years in the wild; up to 40 in captivity",
+   "size": "Males 80–145 kg, females 55–95 kg; about 1.5–1.9 m long",
+   "behaviour": "Largely nocturnal where disturbed. Does not hibernate. Charges when startled, a defensive reaction that accounts for many human injuries.",
+   "fieldMarks": [
+    "Shaggy, unkempt black coat, longest on the shoulders and neck",
+    "Pale, mobile muzzle with a long lower lip",
+    "White or yellowish U- or Y-shaped chest mark",
+    "Signs: termite mounds torn open with scattered soil; tracks show long claw marks well ahead of the toes; scats packed with termite remains"
+   ],
+   "lookalikes": "Asiatic black bear has a neat short coat, a V-shaped crescent on the chest, round ears and lives mainly in the Himalaya and northeast. Wild boar from a distance is smaller-headed with a bristly crest.",
+   "whereToSee": "Daroji Bear Sanctuary (Karnataka); Satpura, Kanha and Tadoba (central India); Ranthambore (Rajasthan); Yala and Wilpattu (Sri Lanka)",
+   "season": "Resident; mahua flowering (March–April) draws bears into the open",
+   "order": "Carnivora"
+  },
+  "iucn": "VU",
+  "lore": "For centuries the Kalandar community trained sloth bears as 'dancing bears'; through a rehabilitation programme led by Wildlife SOS and partners, the practice ended in India around 2009. Kipling's Baloo in The Jungle Book is a sloth bear.",
+  "historicalNames": [
+   "Bradypus ursinus",
+   "Ursine sloth"
+  ],
+  "funFact": "European naturalists first classified it as a kind of sloth, naming it Bradypus ursinus in 1791 on the strength of its long curved claws and missing upper incisors; the name 'sloth bear' stuck."
+ },
+ {
+  "slug": "ursus-arctos",
+  "scientific": "Ursus arctos",
+  "common": "Brown bear",
+  "otherNames": [
+   "Bhūrā bhālū (Hindi/Urdu)",
+   "Grizzly (North American English)",
+   "Oso pardo (Spanish)",
+   "Urso-pardo (Portuguese)",
+   "Medved' (Russian)",
+   "Higuma (Japanese)",
+   "Xióng 熊 (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Ursidae",
+  "shelves": [
+   "keystone",
+   "sacred",
+   "deadly"
+  ],
+  "summary": "The most widespread bear, from Spain and Scandinavia across Siberia to Alaska and the Rockies, including the grizzly and the giant Kodiak bear. In South Asia it survives as the pale, rare Himalayan brown bear (U. a. isabellinus) of Deosai, Ladakh and the Karakoram, a lineage genetically distinct from other brown bears.",
+  "nativeRange": "Northern Eurasia and northwestern North America; isolated populations in the Pyrenees, Apennines, Carpathians, Caucasus, Himalaya, Karakoram and Hindu Kush",
+  "regions": [
+   "Europe",
+   "West Asia",
+   "Central Asia",
+   "South Asia",
+   "East Asia",
+   "North America",
+   "Arctic"
+  ],
+  "biomes": [
+   "Boreal forest",
+   "Tundra",
+   "Temperate forest",
+   "Alpine meadow"
+  ],
+  "abilities": [
+   "Hibernates for up to 7 months without eating, drinking or urinating",
+   "Can smell carcasses from several kilometres away",
+   "Salmon-eating bears carry marine nitrogen into forests when they drag fish inland"
+  ],
+  "animal": {
+   "diet": "Omnivore: grasses, roots, berries, nuts, insects, salmon, rodents and large mammals; Himalayan bears dig marmots and graze alpine plants",
+   "habitat": "Forest, tundra, alpine meadows and high plateaus",
+   "lifespan": "About 20–30 years in the wild",
+   "size": "Highly variable: about 80–600 kg; coastal Alaskan and Kodiak males are largest",
+   "behaviour": "Solitary except mothers with cubs and gatherings at food sources such as salmon falls. Excavates its own winter den on slopes.",
+   "fieldMarks": [
+    "Silhouette: prominent shoulder hump (digging muscle) and a dished face in profile",
+    "Coat ranges from near-black to blond; Himalayan bears are sandy-reddish or pale",
+    "Short, round ears",
+    "Tracks: hind print up to ~30 cm with long claw marks 5 cm or more ahead of toes, toes in a fairly straight row; signs include dug-out marmot burrows and overturned rocks"
+   ],
+   "lookalikes": "American black bear and Asiatic black bear lack the shoulder hump, have a straighter face profile, larger ears and short curved claws. In the Himalaya, the Asiatic black bear has a white chest crescent.",
+   "whereToSee": "Deosai National Park (Gilgit-Baltistan, Pakistan); Katmai and Denali (Alaska); Yellowstone (USA); Kamchatka (Russia); Shiretoko (Hokkaido); Cantabrian Mountains (Spain); Finnish–Russian border hides",
+   "season": "Active roughly April–November; best viewed at salmon runs (July–September) and on Deosai in July–August",
+   "order": "Carnivora"
+  },
+  "iucn": "LC",
+  "lore": "The Ainu of Hokkaido held the iyomante ceremony to send a bear's spirit back to the gods. The Greek name Arktos for the bear gave us 'Arctic', the land beneath the Great Bear constellation.",
+  "historicalNames": [
+   "Ursus",
+   "Bere",
+   "Arctos"
+  ],
+  "funFact": "Deosai National Park was created in 1993 largely to protect Pakistan's Himalayan brown bears, which numbered only around 20 there at the time."
+ },
+ {
+  "slug": "vulpes-vulpes",
+  "scientific": "Vulpes vulpes",
+  "common": "Red fox",
+  "otherNames": [
+   "Lomṛī (Urdu/Hindi)",
+   "Ruvāh (Persian)",
+   "Tha'lab (Arabic)",
+   "Zorro rojo (Spanish)",
+   "Raposa-vermelha (Portuguese)",
+   "Kitsune (Japanese)",
+   "Renard roux (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Canidae",
+  "shelves": [
+   "sacred"
+  ],
+  "summary": "The most widely distributed wild carnivore on Earth, from the Arctic to the deserts of Pakistan and the suburbs of London. Its South Asian forms include the pale desert fox of the Thar and Balochistan and the thick-furred Himalayan red fox. Introduced in Australia, it has helped drive many small marsupials to extinction.",
+  "nativeRange": "Across the Northern Hemisphere (Europe, Asia including northern South Asia, North Africa, North America); introduced to Australia",
+  "regions": [
+   "Europe",
+   "North Africa",
+   "West Asia",
+   "Central Asia",
+   "South Asia",
+   "East Asia",
+   "North America",
+   "Arctic",
+   "Australia"
+  ],
+  "biomes": [
+   "Temperate forest",
+   "Grassland",
+   "Desert",
+   "Tundra",
+   "Farmland",
+   "Urban"
+  ],
+  "abilities": [
+   "Hears rodents moving beneath snow and dives on them in a high arcing pounce",
+   "Caches surplus food and relocates it later by memory and smell",
+   "Adapts to cities, raising cubs under sheds and in railway embankments"
+  ],
+  "animal": {
+   "diet": "Omnivore: rodents, rabbits, birds, insects, earthworms, fruit and scavenged food",
+   "habitat": "Almost any habitat with cover, from tundra to desert to city centres",
+   "lifespan": "Usually 2–4 years in the wild; up to about 14",
+   "size": "Body 45–90 cm, tail 30–55 cm; 3–14 kg; desert forms smallest",
+   "behaviour": "Mostly nocturnal and crepuscular. Pairs share a territory and may be helped by non-breeding young from previous litters.",
+   "fieldMarks": [
+    "Rusty-orange coat with white throat and black-backed ears",
+    "Black 'stockings' on the lower legs",
+    "Long, bushy tail usually with a white tip",
+    "Tracks: neat oval prints about 5 cm long in a near-straight line; strong musky scent at scent posts and dens"
+   ],
+   "voice": "Vixens give an eerie, drawn-out scream in winter; both sexes use a sharp triple bark, 'wow-wow-wow'.",
+   "lookalikes": "Bengal fox is smaller and greyer with a black (not white) tail tip. Golden jackal is larger, greyer, with a shorter tail and longer legs. Arctic fox is smaller-eared and white or blue-grey.",
+   "whereToSee": "Cities such as London and Bristol; Deosai and Khunjerab (Pakistan) and Ladakh for Himalayan foxes; Desert National Park and the Rann of Kutch for desert foxes; Hokkaido (Japan)",
+   "season": "Resident; cubs at dens April–June; vixen screams in mating season, December–February",
+   "order": "Carnivora"
+  },
+  "iucn": "LC",
+  "lore": "In Japan the kitsune is the messenger of the rice deity Inari, and fox statues guard thousands of Inari shrines. The medieval European beast-epic of Reynard the Fox satirised courts and clergy.",
+  "historicalNames": [
+   "Vulpes",
+   "Volpe",
+   "Tod",
+   "Reynard"
+  ],
+  "funFact": "The Soviet geneticist Dmitry Belyaev bred tame foxes from 1959; within decades they wagged tails, had floppy ears and piebald coats."
+ },
+ {
+  "slug": "urva-edwardsii",
+  "scientific": "Urva edwardsii",
+  "common": "Indian grey mongoose",
+  "otherNames": [
+   "Nevlā (Hindi)",
+   "Neolā (Urdu)",
+   "Nakula (Sanskrit)",
+   "Kīri (Tamil)",
+   "Mungūsi (Telugu)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Herpestidae",
+  "shelves": [
+   "sacred"
+  ],
+  "summary": "The famous snake-fighting mongoose of South Asia, a grizzled grey hunter of gardens, scrub and fields. Speed, a thick coat and modified acetylcholine receptors that resist cobra neurotoxins let it tackle venomous snakes, though most of its diet is rodents, insects and lizards.",
+  "nativeRange": "India, Pakistan, Nepal, Sri Lanka and Bangladesh, west through Afghanistan and Iran to the Arabian Gulf",
+  "regions": [
+   "South Asia",
+   "West Asia"
+  ],
+  "biomes": [
+   "Scrub",
+   "Dry forest",
+   "Farmland",
+   "Urban gardens"
+  ],
+  "abilities": [
+   "Partially resistant to snake neurotoxins, owing to altered receptor proteins",
+   "Moves so fast it can dodge a striking cobra, then bites the back of the head",
+   "Hunts by darting in and out of reach, often seizing prey such as rats and lizards with a single bite to the head"
+  ],
+  "animal": {
+   "diet": "Rodents, insects, snakes, lizards, birds, eggs, carrion and fruit",
+   "habitat": "Open forest, scrub, cultivated land and edges of villages and towns",
+   "lifespan": "About 7–8 years in the wild; to 12 in captivity",
+   "size": "Body 36–45 cm, tail 45 cm; about 0.9–1.7 kg",
+   "behaviour": "Diurnal, unlike many mongooses; usually alone or in pairs. Fluffs its fur to look larger when facing a snake.",
+   "fieldMarks": [
+    "Low, long-bodied grey animal with a grizzled, salt-and-pepper coat",
+    "Tail as long as the body, tapering, with a pale or reddish tip",
+    "Reddish legs and face around the eyes",
+    "Runs with tail held out or slightly raised; tracks show five toes with claws"
+   ],
+   "lookalikes": "Small Indian mongoose (Urva auropunctata) is smaller with golden-flecked fur; ruddy mongoose (Urva smithii) has a black tail tip; stripe-necked mongoose has a black neck stripe. Squirrels have bushy tails and climb.",
+   "whereToSee": "Common in gardens, farmland and parks across India and Pakistan; Sariska and Ranthambore (Rajasthan); Gir (Gujarat); Margalla Hills (Islamabad)",
+   "season": "Resident; active in daylight year-round",
+   "order": "Carnivora"
+  },
+  "iucn": "LC",
+  "lore": "Kubera, Hindu god of wealth, and the Buddhist Jambhala are depicted holding a mongoose that spits jewels. The Panchatantra tells of a loyal mongoose killed by a Brahmin who mistook the blood of a slain snake for that of his baby; Kipling's Rikki-Tikki-Tavi is usually taken to be this species.",
+  "historicalNames": [
+   "Herpestes edwardsii",
+   "Ichneumon",
+   "Mungo"
+  ],
+  "funFact": "The English word 'mongoose' comes from Marathi/Telugu names such as mangūs and mungisa."
+ },
+ {
+  "slug": "canis-aureus",
+  "scientific": "Canis aureus",
+  "common": "Golden jackal",
+  "otherNames": [
+   "Gīdaṛ (Urdu/Hindi)",
+   "Shṛgāla (Sanskrit)",
+   "Shaghal (Persian)",
+   "Ibn āwā (Arabic)",
+   "Chacal dorado (Spanish)",
+   "Chacal-dourado (Portuguese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Canidae",
+  "shelves": [],
+  "summary": "A medium-sized wild dog of South Asia, the Middle East and southeastern Europe, known for its wailing dusk chorus. It is spreading rapidly across Europe, now reaching the Baltic states and beyond. Since 2015 the African populations once called golden jackals are treated as a separate species, the African golden wolf.",
+  "nativeRange": "South and Southeast Asia, Middle East, Caucasus, Central Asia and southeastern Europe, expanding north and west",
+  "regions": [
+   "South Asia",
+   "Southeast Asia",
+   "West Asia",
+   "Central Asia",
+   "Europe"
+  ],
+  "biomes": [
+   "Scrub",
+   "Farmland",
+   "Dry forest",
+   "Wetland edge",
+   "Urban fringe"
+  ],
+  "abilities": [
+   "Scavenges and hunts, cleaning up carcasses and refuse around villages",
+   "Coordinates in pairs to hunt rodents, hares and young deer",
+   "Expanding its range rapidly as wolves decline and farmland spreads"
+  ],
+  "animal": {
+   "diet": "Omnivore: rodents, hares, birds, fish, insects, carrion, fruit (ber, figs) and human food waste",
+   "habitat": "Dry open country, scrub, farmland, wetlands and forest edges, often near settlements",
+   "lifespan": "About 8–9 years in the wild",
+   "size": "Body 70–85 cm, tail 20–30 cm; 7–15 kg",
+   "behaviour": "Mated pairs are long-lasting and defend a territory; older pups may stay to help raise the next litter.",
+   "fieldMarks": [
+    "Medium dog shape, golden to tawny-grey coat with darker saddle",
+    "Bushy tail with a black tip, held low",
+    "Pale throat; narrow muzzle and pointed ears",
+    "Tracks: dog-like, about 5–6 cm, with the two middle toes' pads often fused at the rear"
+   ],
+   "voice": "A rising chorus of wails and yips at dusk and night, often set off by sirens; one call starts others across a village.",
+   "lookalikes": "Indian wolf is larger, longer-legged and greyer. Red fox is smaller with a white tail tip and black-backed ears. Feral dogs vary in colour and lack the black tail tip.",
+   "whereToSee": "Keoladeo (Bharatpur) and Ranthambore (Rajasthan); Velavadar (Gujarat); Sundarbans; outskirts of Lahore, Karachi and Delhi; Danube Delta (Romania)",
+   "season": "Resident; most vocal in winter",
+   "order": "Carnivora"
+  },
+  "iucn": "LC",
+  "lore": "The two jackals Karataka and Damanaka narrate the first book of the Panchatantra; its Arabic translation is titled Kalila wa-Dimna after them. In Hindu iconography jackals accompany the goddess Chamunda.",
+  "historicalNames": [
+   "Lupus aureus",
+   "Thos",
+   "Chakal"
+  ],
+  "funFact": "The word 'jackal' comes via Turkish from Persian shaghāl, ultimately from Sanskrit śṛgāla."
+ },
+ {
+  "slug": "manis-crassicaudata",
+  "scientific": "Manis crassicaudata",
+  "common": "Indian pangolin",
+  "otherNames": [
+   "Thick-tailed pangolin",
+   "Alungu (Tamil)",
+   "Scaly anteater"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Manidae",
+  "shelves": [
+   "endangered",
+   "marvel"
+  ],
+  "summary": "An armour-plated ant- and termite-eater of the Indian subcontinent, covered in overlapping keratin scales and able to roll into a near-impregnable ball. It is one of the most trafficked mammals in the world, poached for its scales and meat, and is protected under Schedule I of India's Wildlife Protection Act.",
+  "nativeRange": "India, Pakistan, Sri Lanka, Nepal and possibly Bangladesh",
+  "regions": [
+   "South Asia"
+  ],
+  "biomes": [
+   "Dry deciduous forest",
+   "Scrub",
+   "Grassland",
+   "Farmland"
+  ],
+  "abilities": [
+   "Toothless; a sticky tongue about 40 cm long, extending some 25 cm from the mouth, reaches deep into termite galleries",
+   "Rolls into a tight ball, protected by sharp-edged scales, when threatened",
+   "Digs burrows several metres long with powerful foreclaws",
+   "Can close its nostrils and ears against biting ants"
+  ],
+  "animal": {
+   "diet": "Ants and termites, including their eggs and larvae",
+   "habitat": "Grassland, dry and moist forest, scrub and farmland, including hilly and semi-desert terrain",
+   "lifespan": "Poorly known; up to about 19 years in captivity",
+   "size": "Head and body 45–75 cm, tail 33–47 cm; about 9–16 kg",
+   "behaviour": "Nocturnal and solitary, sleeping by day in burrows or rock crevices. Walks on its knuckles and hind feet, sometimes rearing up on its back legs.",
+   "fieldMarks": [
+    "Silhouette: low, tapering body like a walking pine cone, with a broad, thick tail",
+    "11–13 rows of large, overlapping yellowish-brown scales on the body",
+    "Tiny conical head with small eyes and no visible teeth",
+    "Signs: burrows with fresh soil at the entrance, dug-open termite mounds and ant nests, a tail-drag line between footprints"
+   ],
+   "lookalikes": "Chinese pangolin (in the northeast Himalayan foothills) has smaller scales, prominent external ears and a shorter tail. Sunda pangolin occurs only in Southeast Asia. No other South Asian mammal has scales.",
+   "whereToSee": "Rarely seen; nocturnal surveys in Kanha and Satpura (central India), Pothohar Plateau (Pakistan), dry zone of Sri Lanka, and Similipal (Odisha)",
+   "season": "Resident; active at night year-round",
+   "order": "Pholidota"
+  },
+  "iucn": "EN",
+  "lore": "A suit of armour made from Indian pangolin scales was presented to King George III in 1820 by the Marquess of Hastings and is now displayed at the Royal Armouries in Leeds. Demand for its scales in traditional Chinese medicine, which have no proven medicinal effect, drives most poaching.",
+  "historicalNames": [
+   "Manis",
+   "Pholidotus",
+   "Scaly lizard"
+  ],
+  "funFact": "Pangolin scales are made of keratin, the same protein as human fingernails."
+ },
+ {
+  "slug": "macaca-mulatta",
+  "scientific": "Macaca mulatta",
+  "common": "Rhesus macaque",
+  "otherNames": [
+   "Bandar (Hindi/Urdu)",
+   "Markaṭa (Sanskrit)",
+   "Bāndor (Bengali)",
+   "Mihóu 猕猴 (Chinese)",
+   "Mono rhesus (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Cercopithecidae",
+  "shelves": [
+   "sacred"
+  ],
+  "summary": "The familiar temple and street monkey of northern South Asia and China, with the widest range of any non-human primate. It has shaped modern medicine: the Rh blood factor is named after it, and rhesus monkeys were central to polio vaccine development and early spaceflight.",
+  "nativeRange": "Afghanistan and Pakistan east through northern India, Nepal, Bangladesh, Myanmar, Thailand and Indochina to China; introduced in Florida and Puerto Rico",
+  "regions": [
+   "South Asia",
+   "Southeast Asia",
+   "East Asia",
+   "Central Asia"
+  ],
+  "biomes": [
+   "Temperate and tropical forest",
+   "Mangrove",
+   "Farmland",
+   "Urban"
+  ],
+  "abilities": [
+   "Lives from sea-level mangroves to Himalayan forests above 3,000 m and in big cities",
+   "Swims well and readily crosses rivers",
+   "Stores food in cheek pouches to eat later in safety"
+  ],
+  "animal": {
+   "diet": "Omnivore: fruits, seeds, leaves, roots, insects and human food",
+   "habitat": "Forests of many kinds, farmland, temples and towns",
+   "lifespan": "About 25 years; up to 40 in captivity",
+   "size": "Body 45–64 cm, tail 20–30 cm; males about 7–12 kg",
+   "behaviour": "Lives in multi-male, multi-female troops with strict female dominance hierarchies inherited from mothers to daughters.",
+   "fieldMarks": [
+    "Brown-grey monkey with an orange-red rump and lower back",
+    "Bare pink to red face and rump",
+    "Medium-length tail (shorter than body)",
+    "Signs: bold troops around temples, roadsides and picnic spots"
+   ],
+   "lookalikes": "Bonnet macaque (south India) has a cap of hair parted in the middle and a longer tail. Assamese macaque is darker and lacks the orange rump. Langurs have black faces and very long tails.",
+   "whereToSee": "Temples of Vrindavan and Varanasi; Delhi Ridge; Murree and Margalla Hills (Pakistan); Corbett and Kaziranga national parks; Cayo Santiago, Puerto Rico (free-ranging research colony)",
+   "season": "Resident year-round",
+   "order": "Primates"
+  },
+  "iucn": "LC",
+  "lore": "Monkeys around Hindu temples are fed as associates of Hanuman, the monkey-god of the Ramayana. India banned the export of rhesus monkeys in 1978 after decades of supplying laboratories worldwide.",
+  "historicalNames": [
+   "Simia mulatta",
+   "Macacus rhesus",
+   "Bunder"
+  ],
+  "funFact": "A rhesus monkey named Albert II became the first primate in space in June 1949, aboard a V-2 rocket launched from New Mexico."
+ },
+ {
+  "slug": "hoolock-hoolock",
+  "scientific": "Hoolock hoolock",
+  "common": "Western hoolock gibbon",
+  "otherNames": [
+   "Ulluk (Bengali)",
+   "Holou bāndor (Assamese)",
+   "Hoolock (Hindi)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Hylobatidae",
+  "shelves": [
+   "endangered",
+   "marvel"
+  ],
+  "summary": "One of India's two apes (with the eastern hoolock), a long-armed gibbon of the forests of northeast India, Bangladesh and western Myanmar that swings through the canopy by its arms. Pairs greet each morning with loud duets that carry kilometres through the hills. Its range has shrunk sharply with forest clearance.",
+  "nativeRange": "Northeast India south of the Brahmaputra, eastern Bangladesh and western Myanmar (west of the Chindwin River)",
+  "regions": [
+   "South Asia",
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Tropical evergreen forest",
+   "Semi-evergreen forest"
+  ],
+  "abilities": [
+   "Moves by brachiation, swinging arm-over-arm and leaping gaps of several metres",
+   "Duets can be heard about 1–2 km away",
+   "Disperses seeds of many forest fruit trees"
+  ],
+  "animal": {
+   "diet": "Mainly ripe fruits, especially figs; also leaves, flowers and insects",
+   "habitat": "Tall evergreen and semi-evergreen forest with a continuous canopy",
+   "lifespan": "About 25 years in the wild",
+   "size": "Head and body about 60–90 cm; 6–9 kg; no tail",
+   "behaviour": "Lives in small family groups of a pair and their young, defending a territory with song. Almost never comes to the ground.",
+   "fieldMarks": [
+    "Silhouette in canopy: tailless ape with very long arms, swinging under branches",
+    "Adult males black with conspicuous white eyebrows",
+    "Adult females buff to golden-brown with a darker face ringed paler",
+    "Signs: loud morning duets, fruit drop under fig trees"
+   ],
+   "voice": "Pairs duet in the early morning with escalating whooping calls, often rendered 'hoo-kau, hoo-kau', the female's notes rising into a climax.",
+   "lookalikes": "Eastern hoolock gibbon (east of the Chindwin, and in Arunachal Pradesh) is very similar; males have separated white brows and females paler. Monkeys such as capped langurs have long tails.",
+   "whereToSee": "Hollongapar Gibbon Sanctuary (Assam); Lawachara National Park (Bangladesh); Nokrek and Balpakram (Meghalaya); Dampa Tiger Reserve (Mizoram)",
+   "season": "Resident; best heard in early mornings, especially in the dry season",
+   "order": "Primates"
+  },
+  "iucn": "EN",
+  "lore": "Richard Harlan described the species in 1834 from Assam, using a local name for the animal. In Meghalaya, community-protected sacred groves still shelter some hoolock groups.",
+  "historicalNames": [
+   "Simia hoolock",
+   "Hylobates hoolock",
+   "Bunopithecus"
+  ],
+  "funFact": "Hoolocks have 38 chromosomes, the fewest of any gibbon (others have 44–52), which is one reason they were placed in their own genus, Hoolock, in 2005."
+ },
+ {
+  "slug": "elephas-maximus",
+  "scientific": "Elephas maximus",
+  "common": "Asian elephant",
+  "otherNames": [
+   "Hāthī (Hindi/Urdu)",
+   "Gaja (Sanskrit)",
+   "Yānai (Tamil)",
+   "Aliya (Sinhala)",
+   "Chāng (Thai)",
+   "Gajah (Malay/Indonesian)",
+   "Xiàng 象 (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Elephantidae",
+  "shelves": [
+   "endangered",
+   "keystone",
+   "sacred",
+   "deadly"
+  ],
+  "summary": "The largest land animal in Asia, a forest elephant that has worked, fought and worshipped alongside people for more than 4,000 years. Fewer than about 50,000 remain in 13 countries, the largest share in India, increasingly squeezed into fragmented forest where conflict with farmers kills both people and elephants.",
+  "nativeRange": "India, Sri Lanka, Nepal, Bhutan, Bangladesh, Myanmar, Thailand, Laos, Cambodia, Vietnam, southern China, Malaysia, Sumatra and Borneo",
+  "regions": [
+   "South Asia",
+   "Southeast Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Tropical forest",
+   "Grassland",
+   "Scrub",
+   "Riverine forest"
+  ],
+  "abilities": [
+   "Trunk contains tens of thousands of muscle fascicles and ends in one finger-like tip that can pick up a single fruit",
+   "Communicates with low-frequency rumbles partly below human hearing",
+   "Opens forest, digs waterholes in dry riverbeds and disperses large seeds",
+   "Females lead herds using decades of remembered routes and water sources"
+  ],
+  "animal": {
+   "diet": "Grasses, bark, roots, leaves, bamboo and fruit; also crops such as paddy, sugarcane and banana",
+   "habitat": "Forest, grassland and scrub with access to water",
+   "lifespan": "About 60 years",
+   "size": "Shoulder height 2–3.2 m; males up to about 5,000 kg",
+   "behaviour": "Herds of related females and young are led by a matriarch; adult males roam alone or in loose groups and enter musth, a period of high testosterone and aggression marked by fluid from the temple glands.",
+   "fieldMarks": [
+    "Smaller, rounded ears than African elephants; head with twin domes on top",
+    "Back level or arched (convex), highest in the middle",
+    "Single finger-like projection on the trunk tip",
+    "Only some males have tusks; many males (makhnas) and all females have none or tiny tushes",
+    "Signs: large round footprints 40–50 cm across, fibrous dung boli, debarked and broken trees"
+   ],
+   "voice": "Trumpets when excited or alarmed; also deep rumbles, roars, and high squeaks and chirps.",
+   "lookalikes": "African savanna and forest elephants have huge ears, a saddle-backed profile and two finger tips on the trunk. Only captive animals could be confused.",
+   "whereToSee": "Nagarhole–Kabini and Bandipur (Karnataka); Corbett (Uttarakhand); Kaziranga (Assam); Periyar (Kerala); Minneriya and Kaudulla 'Gathering' (Sri Lanka, July–September); Udawalawe (Sri Lanka); Kui Buri (Thailand)",
+   "season": "Resident; dry-season gatherings near reservoirs and rivers",
+   "order": "Proboscidea"
+  },
+  "iucn": "EN",
+  "lore": "Ganesha, the elephant-headed Hindu god of beginnings, and Airavata, the white elephant of Indra, make it a sacred animal across India. Elephants appear on Indus Valley seals, and an elephant is carved from the rock above Ashoka's edicts at Dhauli in Odisha.",
+  "historicalNames": [
+   "Elephas indicus",
+   "Olifant",
+   "Elefant"
+  ],
+  "funFact": "In Sri Lanka fewer than one in ten male elephants carries tusks."
+ },
+ {
+  "slug": "bubalus-arnee",
+  "scientific": "Bubalus arnee",
+  "common": "Wild water buffalo",
+  "otherNames": [
+   "Arnā bhaiṃsā (Hindi)",
+   "Asian buffalo"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Bovidae",
+  "shelves": [
+   "endangered",
+   "freshwater"
+  ],
+  "summary": "The wild ancestor of the domestic water buffalo, a massive bovine of floodplain grasslands with the longest horn span of any living bovid. Fewer than 4,000 are thought to survive, most of them in Assam, and many are at risk of hybridising with domestic buffalo.",
+  "nativeRange": "Northeast India (Assam, Arunachal), Chhattisgarh, Nepal (Koshi Tappu), Bhutan, Myanmar, Thailand and Cambodia",
+  "regions": [
+   "South Asia",
+   "Southeast Asia"
+  ],
+  "biomes": [
+   "Floodplain grassland",
+   "Swamp",
+   "Riverine forest"
+  ],
+  "abilities": [
+   "Spends hot hours submerged in rivers and wallows with only head and horns showing",
+   "Horns can span up to about 2 m tip to tip",
+   "Herds defend themselves from tigers by charging together"
+  ],
+  "animal": {
+   "diet": "Grasses, sedges, aquatic plants, herbs and crops",
+   "habitat": "Wet grassland, swamps and river valleys with dense vegetation and water",
+   "lifespan": "About 25 years",
+   "size": "Shoulder height 1.5–1.9 m; 600–1,200 kg",
+   "behaviour": "Females and calves live in herds of 10–30; bulls form bachelor groups and join herds in the rut, after the monsoon.",
+   "fieldMarks": [
+    "Silhouette: huge, dark grey-black bovine with very wide, crescent-shaped horns swept out and back",
+    "Horns flattened and ridged near the base",
+    "Pale chevron on the throat and whitish lower legs ('socks')",
+    "Sparse coat; signs include mud wallows and trampled reedbed trails"
+   ],
+   "lookalikes": "Domestic and feral water buffalo are smaller, with shorter horns and often a sagging belly; hybrids are hard to separate. Gaur has a high shoulder ridge, white socks and shorter upcurved horns.",
+   "whereToSee": "Kaziranga and Manas national parks, Dibru-Saikhowa (Assam); Koshi Tappu Wildlife Reserve (Nepal); Udanti-Sitanadi Tiger Reserve (Chhattisgarh); Huai Kha Khaeng (Thailand)",
+   "season": "Resident; best in Kaziranga's dry season (November–April)",
+   "order": "Artiodactyla"
+  },
+  "iucn": "EN",
+  "lore": "The buffalo is the vahana (mount) of Yama, the Hindu god of death, and the demon Mahishasura took buffalo form before Durga slew him. It is the state animal of Chhattisgarh.",
+  "historicalNames": [
+   "Bos arnee",
+   "Bubalus",
+   "Arna"
+  ],
+  "funFact": "Domestic water buffalo, descended from this species, now number around 200 million worldwide, while their wild ancestor is endangered."
+ },
+ {
+  "slug": "bos-gaurus",
+  "scientific": "Bos gaurus",
+  "common": "Gaur",
+  "otherNames": [
+   "Gaur (Hindi)",
+   "Kāṭṭerumai (Tamil)",
+   "Seladang (Malay)",
+   "Indian bison"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Bovidae",
+  "shelves": [
+   "endangered"
+  ],
+  "summary": "The largest and tallest of all wild cattle, a black-brown forest giant with white stockings and a muscular ridge over its shoulders. India holds the great majority of the world's gaur, and in the Western Ghats herds have learned to graze tea estates and village edges.",
+  "nativeRange": "India, Nepal, Bhutan, Bangladesh, Myanmar, Thailand, Laos, Cambodia, Vietnam, Peninsular Malaysia and southern China",
+  "regions": [
+   "South Asia",
+   "Southeast Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Tropical forest",
+   "Moist deciduous forest",
+   "Forest-edge grassland"
+  ],
+  "abilities": [
+   "Adult bulls are so large that even tigers usually avoid them, taking calves instead",
+   "Shoulder ridge formed by tall spines on the vertebrae",
+   "Climbs steep forested hills up to about 2,800 m"
+  ],
+  "animal": {
+   "diet": "Grasses, bamboo, shoots, leaves, bark and fruit",
+   "habitat": "Evergreen and deciduous forest with glades and water, usually hilly",
+   "lifespan": "About 20–25 years",
+   "size": "Shoulder height 1.7–2.2 m; bulls 650–1,500 kg",
+   "behaviour": "Herds of cows and young are led by an old female; bulls display by standing side-on to show their bulk, a broadside stance.",
+   "fieldMarks": [
+    "Silhouette: huge dark bovine with a high shoulder hump falling to the middle of the back",
+    "White or yellowish 'stockings' from hooves to knees",
+    "Pale grey-buff boss of hair between the horns; horns curve up and inward",
+    "Tracks: large cloven hoofprints about 13 cm long; dung like domestic cattle pats"
+   ],
+   "lookalikes": "Banteng (Southeast Asia) has a white rump patch and lacks the strong dorsal ridge. Wild water buffalo has flat, enormous swept-back horns and sparse grey coat. Mithun (domestic Bos frontalis of northeast India) is smaller with straighter horns.",
+   "whereToSee": "Nagarhole, Bandipur (Karnataka); Kanha and Pench (Madhya Pradesh); Tadoba (Maharashtra); Periyar and Eravikulam (Kerala); Taman Negara (Malaysia); Kui Buri (Thailand)",
+   "season": "Resident; herds visit forest meadows and salt licks in the dry season",
+   "order": "Artiodactyla"
+  },
+  "iucn": "VU",
+  "lore": "Gaur was the British 'Indian bison' of colonial hunting literature, and is the state animal of Goa and Bihar. Domesticated gaur, the mithun, are a measure of wealth and a sacrificial animal among Naga, Mizo and Adi communities.",
+  "historicalNames": [
+   "Bos gaurus",
+   "Bison gaurus",
+   "Gour"
+  ],
+  "funFact": "A bull gaur can stand over 2 m at the shoulder, taller than an average man."
+ },
+ {
+  "slug": "panthera-pardus",
+  "scientific": "Panthera pardus",
+  "common": "Leopard",
+  "otherNames": [
+   "Tenduā / Guldār (Hindi)",
+   "Chītā (Urdu, traditional)",
+   "Palang (Persian)",
+   "Namir (Arabic)",
+   "Chui (Swahili)",
+   "Ingwe (Zulu)",
+   "Leopardo (Spanish/Portuguese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Felidae",
+  "shelves": [
+   "endangered",
+   "deadly"
+  ],
+  "summary": "The most adaptable big cat, found from the Cape to the Russian Far East and from rainforest to desert and the edges of Mumbai. A stealthy, solitary hunter, it is strong enough to drag prey heavier than itself up into trees. It has lost much of its historic range, and some subspecies, such as the Amur and Arabian leopards, are critically endangered.",
+  "nativeRange": "Sub-Saharan Africa, scattered in North Africa and Arabia, Caucasus and Iran, South Asia, Southeast Asia, China and the Russian Far East",
+  "regions": [
+   "Sub-Saharan Africa",
+   "North Africa",
+   "West Asia",
+   "Central Asia",
+   "South Asia",
+   "Southeast Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Savanna",
+   "Tropical forest",
+   "Dry forest",
+   "Mountains",
+   "Desert edge",
+   "Urban fringe"
+  ],
+  "abilities": [
+   "Hoists carcasses of antelope and young giraffe into trees to keep them from lions and hyenas",
+   "Eats prey from dung beetles to eland; one of the broadest diets of any cat",
+   "Lives in and around large cities such as Mumbai, hunting dogs and pigs at night"
+  ],
+  "animal": {
+   "diet": "Carnivore: antelope, deer, monkeys, wild pigs, rodents, birds, dogs and livestock",
+   "habitat": "Almost any habitat with cover: forests, savanna, rocky hills, mountains and farmland",
+   "lifespan": "About 12–17 years in the wild",
+   "size": "Males 37–90 kg, females 28–60 kg; 1.6–2.9 m including tail",
+   "behaviour": "Solitary and mainly nocturnal, stalking to close range before pouncing. Females raise cubs alone, moving them between hidden dens.",
+   "fieldMarks": [
+    "Golden to tawny coat with black rosettes (rings without central spots) on the body, solid spots on head and legs",
+    "Long tail, often with white underside of the tip, used as a signal",
+    "Compact, low-slung build; relatively large head",
+    "Tracks: rounded, about 7–10 cm wide, four toes and no claw marks; signs include kills cached in trees and scratch marks on trunks"
+   ],
+   "voice": "A harsh, repeated rasping cough like a saw cutting wood, given to advertise territory.",
+   "lookalikes": "Cheetah has solid round spots (not rosettes), black 'tear lines' and a slender build. Jaguar (Americas only) is heavier with larger rosettes containing central spots. Snow leopard is grey-white with a very thick tail.",
+   "whereToSee": "Yala National Park (Sri Lanka); Jhalana Leopard Reserve (Jaipur); Sanjay Gandhi National Park (Mumbai); Bera (Rajasthan); Margalla Hills (Islamabad); Sabi Sands (South Africa); Maasai Mara (Kenya); South Luangwa (Zambia)",
+   "season": "Resident year-round",
+   "order": "Carnivora"
+  },
+  "iucn": "VU",
+  "lore": "Jim Corbett's 'The Man-eating Leopard of Rudraprayag' tells of a leopard that killed over 120 people in Garhwal before he shot it in 1926. The leopard-skin was the regalia of many African kings and chiefs.",
+  "historicalNames": [
+   "Pardus",
+   "Leopardus",
+   "Panther",
+   "Libbard"
+  ],
+  "funFact": "Black panthers are melanistic leopards (or jaguars): in strong light the rosettes still show through the black coat."
+ },
+ {
+  "slug": "panthera-onca",
+  "scientific": "Panthera onca",
+  "common": "Jaguar",
+  "otherNames": [
+   "Yaguareté (Guaraní)",
+   "Onça-pintada (Portuguese)",
+   "Otorongo (Quechua)",
+   "Balam (Maya)",
+   "Ocelotl (Nahuatl, for jaguar)",
+   "Tigre (Latin American Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Felidae",
+  "shelves": [
+   "keystone",
+   "sacred",
+   "freshwater"
+  ],
+  "summary": "The largest cat of the Americas and the only living Panthera there, a powerfully built hunter of rivers and forests. Its bite is so strong for its size that it kills by piercing the skull or crushing turtle shells. The Brazilian Pantanal holds one of the densest jaguar populations anywhere.",
+  "nativeRange": "Mexico through Central America to northern Argentina; occasional wanderers into Arizona and New Mexico",
+  "regions": [
+   "North America",
+   "Central America",
+   "South America"
+  ],
+  "biomes": [
+   "Tropical rainforest",
+   "Wetland",
+   "Dry forest",
+   "Mangrove"
+  ],
+  "abilities": [
+   "Bite pierces turtle and caiman skulls; it often kills by biting through the back of the skull",
+   "Excellent swimmer that hunts caiman and fish in rivers",
+   "Top predator whose presence regulates capybara, peccary and caiman populations"
+  ],
+  "animal": {
+   "diet": "Carnivore: capybara, peccaries, deer, caiman, turtles, armadillos, fish and livestock",
+   "habitat": "Dense forest, swamps and seasonally flooded wetlands, generally near water",
+   "lifespan": "About 12–15 years in the wild",
+   "size": "56–96 kg typically; Pantanal males can exceed 120 kg; 1.6–2.7 m including tail",
+   "behaviour": "Solitary, mostly crepuscular, and hunts both by stalking on land and by ambush from riverbanks.",
+   "fieldMarks": [
+    "Large, deep-chested cat with a broad head and short, thick legs",
+    "Rosettes large and angular, often enclosing one or more black spots",
+    "Tail relatively short compared with a leopard's",
+    "Tracks: broad, round pugmarks 9–12 cm along riverbanks; signs include tree scratching and scrapes"
+   ],
+   "voice": "A deep, hoarse series of grunts, often likened to sawing wood; also called 'roncar' in Brazil.",
+   "lookalikes": "Leopard (Old World only) is lighter-built with smaller rosettes without central spots. Ocelot is much smaller with chain-like stripes. Puma is plain tawny.",
+   "whereToSee": "Porto Jofre and the Cuiabá, Piquiri and Three Brothers rivers (northern Pantanal, Brazil); Cockscomb Basin Wildlife Sanctuary (Belize); Iwokrama (Guyana); Calakmul (Mexico); Corcovado (Costa Rica)",
+   "season": "Resident; Pantanal river sightings peak in the dry season, roughly July–October",
+   "order": "Carnivora"
+  },
+  "iucn": "NT",
+  "lore": "The Olmec carved were-jaguar figures over 3,000 years ago, and Maya kings took jaguar names such as Yaxuun Bahlam (Bird Jaguar). Aztec elite warriors were the 'jaguar knights' (ocelomeh).",
+  "historicalNames": [
+   "Felis onca",
+   "Onça",
+   "Yaguar"
+  ],
+  "funFact": "Belize's Cockscomb Basin, made a no-hunting forest reserve in 1984 and a wildlife sanctuary in 1986, is widely credited as the world's first protected area set aside for jaguars."
+ },
+ {
+  "slug": "puma-concolor",
+  "scientific": "Puma concolor",
+  "common": "Puma",
+  "otherNames": [
+   "Cougar",
+   "Mountain lion",
+   "Panther (Florida)",
+   "León de montaña (Spanish)",
+   "Suçuarana / Onça-parda (Portuguese)",
+   "Pangi (Mapudungun)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Felidae",
+  "shelves": [
+   "keystone"
+  ],
+  "summary": "A large, plain-coated cat with the widest range of any wild land mammal in the Americas, from the Yukon to the Strait of Magellan. It cannot roar, but purrs, chirps and screams. Pumas kill deer and guanaco and leave scraps that feed scavengers from condors to beetles.",
+  "nativeRange": "Western Canada and the western USA (plus Florida), Mexico, Central America and all of South America to Patagonia",
+  "regions": [
+   "North America",
+   "Central America",
+   "South America"
+  ],
+  "biomes": [
+   "Mountains",
+   "Temperate forest",
+   "Desert",
+   "Rainforest",
+   "Patagonian steppe"
+  ],
+  "abilities": [
+   "Leaps up to about 5 m vertically and much farther horizontally",
+   "Kills prey several times its size with a bite to the neck",
+   "Young males disperse hundreds of kilometres; one travelled about 2,900 km from the Black Hills of South Dakota to Connecticut"
+  ],
+  "animal": {
+   "diet": "Carnivore: deer, elk, guanaco, peccary, rodents and hares",
+   "habitat": "Any terrain with cover and prey, from sea level to 5,800 m in the Andes",
+   "lifespan": "8–13 years in the wild",
+   "size": "Males 53–100 kg, females 29–64 kg; 1.5–2.75 m including tail",
+   "behaviour": "Solitary and territorial. Caches kills under leaves and earth and returns to feed over several days.",
+   "fieldMarks": [
+    "Plain tawny-grey to reddish coat, pale underneath",
+    "Small rounded head; long, heavy tail with a dark tip",
+    "Dark marks on the sides of the muzzle; kittens are spotted",
+    "Tracks: round, 7–10 cm, three-lobed heel pad, no claw marks; signs include kills covered with litter and scrapes under trees"
+   ],
+   "voice": "Does not roar; gives whistles, chirps, purrs and, in breeding season, piercing screams.",
+   "lookalikes": "Jaguar is spotted and stockier. Jaguarundi is much smaller with a weasel-like body. Bobcat and lynx have short bobbed tails.",
+   "whereToSee": "Torres del Paine National Park (Chile, the best place to watch them); Patagonia Park (Chile); Big Bend and the Rocky Mountains (USA, rarely seen); Florida Panther National Wildlife Refuge",
+   "season": "Resident; Torres del Paine tracking tours run most of the year, best in autumn and winter (April–September)",
+   "order": "Carnivora"
+  },
+  "iucn": "LC",
+  "lore": "Tradition holds that the Inca city of Cusco was laid out in the shape of a puma, with Sacsayhuamán as its head.",
+  "historicalNames": [
+   "Felis concolor",
+   "Catamount",
+   "Painter"
+  ],
+  "funFact": "The puma holds a Guinness World Record for the animal with the most names: over 40 in English alone."
+ },
+ {
+  "slug": "lynx-lynx",
+  "scientific": "Lynx lynx",
+  "common": "Eurasian lynx",
+  "otherNames": [
+   "Rys' (Russian)",
+   "Ilves (Finnish)",
+   "Gaupe (Norwegian)",
+   "Lince boreal (Spanish)",
+   "Lince-euroasiático (Portuguese)",
+   "Shīlūsī 猞猁 (Chinese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Felidae",
+  "shelves": [
+   "keystone"
+  ],
+  "summary": "The largest lynx and Europe's third-largest predator, a long-legged, tuft-eared cat of forest and mountain from Scandinavia to the Tibetan Plateau. Reintroductions have returned it to Switzerland, Germany and France, and the pale Himalayan form lives in Ladakh and northern Pakistan.",
+  "nativeRange": "Northern and central Europe, Russia, Central Asia, the Caucasus, Ladakh, Gilgit-Baltistan, Tibet and northeastern China",
+  "regions": [
+   "Europe",
+   "Central Asia",
+   "South Asia",
+   "East Asia",
+   "West Asia"
+  ],
+  "biomes": [
+   "Boreal forest",
+   "Temperate forest",
+   "Alpine scrub",
+   "Cold desert"
+  ],
+  "abilities": [
+   "Kills deer such as roe deer and even reindeer, prey several times its weight",
+   "Large, fur-padded paws act as snowshoes",
+   "Ear tufts and facial ruff help in visual communication"
+  ],
+  "animal": {
+   "diet": "Roe deer, chamois, musk deer, reindeer, hares, marmots and birds",
+   "habitat": "Dense forest and rocky mountain terrain; in Ladakh, arid rocky slopes and willow scrub",
+   "lifespan": "About 15 years in the wild",
+   "size": "18–30 kg (males larger); body 80–130 cm, short tail 11–25 cm",
+   "behaviour": "Solitary hunter that ambushes from cover or stalks; returns to large kills for several nights.",
+   "fieldMarks": [
+    "Silhouette: long legs, short body and short bob tail with a black tip",
+    "Black ear tufts and a broad facial ruff",
+    "Coat greyish to reddish with varying dark spots; Himalayan lynx pale sandy and faintly spotted",
+    "Tracks: round, 7–9 cm, no claw marks; in snow very wide due to hairy feet; signs include roe-deer kills covered with snow or leaves"
+   ],
+   "voice": "Mostly silent; in the late-winter breeding season gives far-carrying, mournful calls and hisses.",
+   "lookalikes": "Iberian lynx (Spain and Portugal only) is smaller with bold dark spots. Caracal (Pakistan and India lowlands) is plain tawny with very long ear tufts and no ruff or bob tail. Wildcat has a long, ringed tail.",
+   "whereToSee": "Bohemian Forest (Czechia–Germany); Swiss Jura and Alps; Carpathians (Slovakia, Romania); Białowieża (Poland); Hemis and Changthang (Ladakh); Finnish taiga hides",
+   "season": "Resident; winter snow makes tracking easiest (January–March is breeding season)",
+   "order": "Carnivora"
+  },
+  "iucn": "LC",
+  "lore": "Greek legend linked the lynx to Lynceus, the Argonaut who could see through walls, and the 'lynx-eyed' ideal named Rome's Accademia dei Lincei (founded 1603). Theophrastus described 'lyngurium', a gem supposedly formed from hardened lynx urine.",
+  "historicalNames": [
+   "Lynx",
+   "Lupus cervarius",
+   "Luchs"
+  ],
+  "funFact": "The Accademia dei Lincei, named after the lynx's keen sight, counted Galileo among its early members."
+ },
+ {
+  "slug": "gulo-gulo",
+  "scientific": "Gulo gulo",
+  "common": "Wolverine",
+  "otherNames": [
+   "Jerv (Norwegian)",
+   "Ahma (Finnish)",
+   "Rosomakha (Russian)",
+   "Carcajou (Canadian French)",
+   "Glotón (Spanish)",
+   "Qavvik (Inuktitut)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Mustelidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "A bear-like giant weasel of the far north, famous for its endurance and strength. Wolverines travel tens of kilometres a day over mountains, crunch frozen carcasses with powerful jaws and store food in snow and rock crevices.",
+  "nativeRange": "Circumpolar: Scandinavia, northern Russia, Siberia, Alaska, Canada and the high Rockies and Cascades of the northwestern USA",
+  "regions": [
+   "Europe",
+   "Arctic",
+   "Central Asia",
+   "East Asia",
+   "North America"
+  ],
+  "biomes": [
+   "Boreal forest",
+   "Tundra",
+   "Alpine"
+  ],
+  "abilities": [
+   "Crushes frozen meat and bone with a strong jaw and a molar turned sideways in the upper jaw",
+   "Covers huge home ranges, over 1,000 km² for some males",
+   "Climbed some 1,500 m up Mount Cleveland, Glacier National Park, in about 90 minutes in winter (a radio-collared male)"
+  ],
+  "animal": {
+   "diet": "Scavenged carcasses of reindeer, moose and other ungulates; also hunts hares, rodents, birds and sometimes reindeer in deep snow",
+   "habitat": "Remote tundra, taiga and alpine areas with deep spring snow cover for dens",
+   "lifespan": "About 7–12 years in the wild",
+   "size": "Males 11–18 kg, females 7–12 kg; body 65–105 cm",
+   "behaviour": "Solitary and wide-ranging. Females dig dens in deep snow to give birth in late winter.",
+   "fieldMarks": [
+    "Silhouette: small bear-like body, arched back, short legs and bushy tail",
+    "Dark brown coat with a pale buff band along each flank from shoulders to tail",
+    "Pale mask across the forehead",
+    "Tracks: five-toed, about 10–13 cm, often in a bounding '2–1–2' or '3–4' pattern in snow"
+   ],
+   "lookalikes": "Bear cubs lack the pale side-stripe and have smaller tails; badgers are greyer with a striped face; fishers and martens are slimmer and smaller.",
+   "whereToSee": "Kuhmo and Lieksa wildlife hides, eastern Finland; Norwegian and Swedish mountains (e.g. Dovrefjell); Denali (Alaska); Kluane (Yukon)",
+   "season": "Resident; hides in Finland give sightings April–September",
+   "order": "Carnivora"
+  },
+  "iucn": "LC",
+  "lore": "Olaus Magnus, in his 1555 History of the Northern Peoples, claimed the 'gulo' gorged until it had to squeeze between two trees to empty its belly. Its Latin name means 'glutton'.",
+  "historicalNames": [
+   "Gulo",
+   "Glutton",
+   "Jerf",
+   "Rosomaka"
+  ],
+  "funFact": "Wolverine fur resists frost, so Inuit and other northern peoples trimmed parka hoods with it."
+ },
+ {
+  "slug": "vulpes-lagopus",
+  "scientific": "Vulpes lagopus",
+  "common": "Arctic fox",
+  "otherNames": [
+   "Fjällräv (Swedish)",
+   "Tófa (Icelandic)",
+   "Tiriganiaq (Inuktitut)",
+   "Pestsy (Russian)",
+   "Zorro ártico (Spanish)",
+   "Raposa-do-ártico (Portuguese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Canidae",
+  "shelves": [
+   "marvel",
+   "migrant"
+  ],
+  "summary": "A small fox of the high Arctic with the warmest fur of any mammal, turning white in winter and brown-grey in summer (or bluish-grey year-round in the 'blue' morph). Arctic foxes follow polar bears to scavenge, cache lemmings and seabird eggs, and some cross sea ice for thousands of kilometres.",
+  "nativeRange": "Circumpolar tundra of Eurasia and North America, Greenland, Iceland, Svalbard and the Commander and Pribilof Islands",
+  "regions": [
+   "Arctic",
+   "Europe",
+   "North America",
+   "East Asia"
+  ],
+  "biomes": [
+   "Tundra",
+   "Sea ice",
+   "Coastal cliffs"
+  ],
+  "abilities": [
+   "Does not begin to shiver until the temperature falls to about −70 °C",
+   "A young female walked 3,500 km from Svalbard to Ellesmere Island, Canada, in 76 days across sea ice (2018)",
+   "Can have litters of up to about 20 pups in good lemming years"
+  ],
+  "animal": {
+   "diet": "Lemmings and voles, seabirds and eggs, fish, carrion including polar-bear kill leftovers, berries",
+   "habitat": "Tundra, mountain plateaus, sea-ice margins and coastal cliffs",
+   "lifespan": "3–4 years in the wild",
+   "size": "Body 46–68 cm, tail 25–42 cm; 2.5–9 kg",
+   "behaviour": "Dens are dug in sandy mounds and some are reused for centuries. Pairs raise pups together.",
+   "fieldMarks": [
+    "Small, compact fox with short legs, short rounded ears and a short muzzle",
+    "Winter: pure white (white morph) or slate blue-grey (blue morph); summer: brownish-grey with paler belly",
+    "Very bushy tail and furred soles",
+    "Signs: dens on mounds with many entrances and lush green vegetation, fertilised by prey remains"
+   ],
+   "lookalikes": "Red fox, increasingly moving north, is larger, redder, with larger pointed ears and longer legs. In white, distant snowshoe hare or ptarmigan may be mistaken briefly.",
+   "whereToSee": "Hornstrandir Nature Reserve (Iceland); Svalbard; Dovrefjell–Sunndalsfjella (Norway); Churchill (Manitoba); Commander Islands (Russia)",
+   "season": "Resident; white coat October–May",
+   "order": "Carnivora"
+  },
+  "iucn": "LC",
+  "lore": "The Arctic fox was Iceland's only native land mammal when the Norse arrived around 870 CE. In Finnish folklore, the aurora is 'revontulet', 'fox fires', said to be sparks from a fox's tail brushing the snow.",
+  "historicalNames": [
+   "Canis lagopus",
+   "Alopex lagopus",
+   "Fjallrev",
+   "Isatis"
+  ],
+  "funFact": "Its species name lagopus means 'hare-foot', for the dense fur that covers the soles of its feet."
+ },
+ {
+  "slug": "alces-alces",
+  "scientific": "Alces alces",
+  "common": "Moose",
+  "otherNames": [
+   "Elk (British English)",
+   "Älg (Swedish)",
+   "Elg (Norwegian)",
+   "Hirvi (Finnish)",
+   "Los' (Russian)",
+   "Mos (Abenaki/Eastern Algonquian, origin of 'moose')",
+   "Alce (Spanish/Portuguese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Cervidae",
+  "shelves": [
+   "freshwater"
+  ],
+  "summary": "The largest living deer, a long-legged browser of northern forests and lakes. Bulls grow broad, palmate antlers that can span more than 1.5 m and are shed each winter. Moose wade and even dive in lakes to feed on water plants rich in sodium.",
+  "nativeRange": "Boreal and mixed forests of northern Europe, Russia and Siberia, Mongolia, northeastern China, Canada, Alaska and the northern USA",
+  "regions": [
+   "Europe",
+   "Central Asia",
+   "East Asia",
+   "North America",
+   "Arctic"
+  ],
+  "biomes": [
+   "Boreal forest",
+   "Temperate forest",
+   "Wetland",
+   "Lakeshore"
+  ],
+  "abilities": [
+   "Dives to about 5–6 m and stays under for nearly a minute to graze aquatic plants",
+   "Can close its nostrils underwater",
+   "Long legs let it wade through deep snow and step over fallen trees",
+   "Grows a new set of antlers, up to about 30 kg, every spring and summer"
+  ],
+  "animal": {
+   "diet": "Browse: willow, birch, aspen shoots and bark; aquatic plants in summer",
+   "habitat": "Northern forest with lakes, bogs, rivers and young regrowth",
+   "lifespan": "About 15–20 years",
+   "size": "Shoulder height 1.4–2.1 m; bulls 380–700 kg",
+   "behaviour": "Mostly solitary. In the autumn rut bulls spar and call, and cows with calves are fiercely protective.",
+   "fieldMarks": [
+    "Silhouette: very tall humped shoulders, long legs, short neck and a long, overhanging muzzle",
+    "Dewlap ('bell') of skin hanging from the throat",
+    "Bulls' antlers broad and palm-shaped (palmate), less often branching",
+    "Tracks: cloven hoofprints 13–15 cm long; signs include stripped bark, browsed tops of young trees and large piles of oval pellets"
+   ],
+   "voice": "Cows give a long, nasal, moaning call in the rut; bulls answer with deep grunts or croaks.",
+   "lookalikes": "Wapiti/elk (Cervus canadensis) is reddish with a pale rump patch and branched (not palmate) antlers. Reindeer are smaller, with white necks and antlers in both sexes.",
+   "whereToSee": "Algonquin Provincial Park (Ontario); Denali (Alaska); Grand Teton (Wyoming); Baxter State Park (Maine); Biebrza National Park (Poland); forests of central Sweden and Norway",
+   "season": "Resident; rut in September–October; summer sightings in lakes and ponds at dawn and dusk",
+   "order": "Artiodactyla"
+  },
+  "iucn": "LC",
+  "lore": "Paintings and carvings of moose (elk) appear in Stone Age rock art across Scandinavia and Russia, including the Alta rock carvings in Norway. Julius Caesar's Gallic War records a tale that 'alces' had no knee joints and slept leaning against trees.",
+  "historicalNames": [
+   "Alces",
+   "Elk",
+   "Elend",
+   "Alce"
+  ],
+  "funFact": "The word 'moose' comes from an Eastern Algonquian name, often glossed as 'twig-eater' or 'he strips off bark'."
+ },
+ {
+  "slug": "rangifer-tarandus",
+  "scientific": "Rangifer tarandus",
+  "common": "Reindeer",
+  "otherNames": [
+   "Caribou (North America; from Mi'kmaq qalipu)",
+   "Boazu (Northern Sámi)",
+   "Tuktu (Inuktitut)",
+   "Severny olen' (Russian)",
+   "Ren (Swedish)",
+   "Reno (Spanish)",
+   "Rena (Portuguese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Cervidae",
+  "shelves": [
+   "migrant",
+   "endangered",
+   "marvel",
+   "sacred"
+  ],
+  "summary": "The only deer in which both sexes grow antlers, adapted to Arctic tundra and boreal forest. Wild caribou herds make some of the longest overland migrations on Earth, while domestic reindeer have been central to Sámi, Nenets and Evenki life for centuries. Many wild herds have declined steeply, and the species is listed as Vulnerable.",
+  "nativeRange": "Circumpolar: Scandinavia, Russia, Siberia, Greenland, Alaska and Canada; introduced to South Georgia (since removed) and Kerguelen",
+  "regions": [
+   "Arctic",
+   "Europe",
+   "East Asia",
+   "North America"
+  ],
+  "biomes": [
+   "Tundra",
+   "Boreal forest",
+   "Alpine"
+  ],
+  "abilities": [
+   "Some herds travel over 1,000 km a year between winter range and calving grounds",
+   "Eyes see ultraviolet light, helping them spot lichen and predators against snow",
+   "Its tapetum changes from gold in summer to deep blue in winter, improving vision in the long dark",
+   "Digs through snow ('cratering') with broad hooves to reach lichens"
+  ],
+  "animal": {
+   "diet": "Lichens ('reindeer moss', Cladonia) in winter; grasses, sedges, willow leaves and mushrooms in summer",
+   "habitat": "Arctic tundra, mountain plateaus and northern taiga",
+   "lifespan": "About 15 years",
+   "size": "Shoulder height 0.8–1.5 m; 80–180 kg (males larger)",
+   "behaviour": "Gathers in vast herds on migration and at calving grounds, where most calves are born within a few weeks in late May–June. Calves can follow their mothers within hours of birth.",
+   "fieldMarks": [
+    "Both sexes carry long, sweeping antlers with a forward-projecting 'shovel' brow tine",
+    "Greyish-brown body with pale neck and white rump and tail",
+    "Large, broad, concave hooves",
+    "Signs: lichen grazing craters in snow, trails worn through tundra; tracks crescent-shaped and almost round"
+   ],
+   "lookalikes": "Moose is far larger with a long overhanging muzzle and palmate antlers only on bulls. Musk ox is shaggy with horns, not antlers.",
+   "whereToSee": "Arctic National Wildlife Refuge and Denali (Alaska); Hardangervidda and Snøhetta (Norway, wild reindeer); Finnish and Swedish Lapland (herded reindeer); Western Greenland around Kangerlussuaq",
+   "season": "Resident or migratory: spring migration April–June; autumn rut September–October",
+   "order": "Artiodactyla"
+  },
+  "iucn": "VU",
+  "lore": "Reindeer herding has defined Sámi culture for centuries, and Nenets herders of the Yamal peninsula still migrate with their herds over 1,000 km a year. A single reindeer first pulled Santa's sleigh in the 1821 poem 'Old Santeclaus with Much Delight'; 'A Visit from St. Nicholas' (1823, attributed to Clement Clarke Moore) raised the team to eight and named them.",
+  "historicalNames": [
+   "Tarandus",
+   "Rangifer",
+   "Reen-deer"
+  ],
+  "funFact": "A tendon slipping over a bone in the foot makes walking reindeer give off a clicking sound that helps herds stay together."
+ },
+ {
+  "slug": "ovibos-moschatus",
+  "scientific": "Ovibos moschatus",
+  "common": "Musk ox",
+  "otherNames": [
+   "Umingmak (Inuktitut, 'the bearded one')",
+   "Moskusokse (Norwegian/Danish)",
+   "Ovtsebyk (Russian)",
+   "Buey almizclero (Spanish)",
+   "Boi-almiscarado (Portuguese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Bovidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "An Ice Age survivor of the high Arctic, a shaggy, short-legged bovid more closely related to goats than to cattle. Its underwool, qiviut, is among the warmest natural fibres. Facing wolves, herds form a tight circle with calves in the middle and horns outward.",
+  "nativeRange": "Arctic Canada and Greenland; reintroduced or introduced to Alaska, Norway (Dovrefjell), Sweden, Siberia (Taymyr, Wrangel Island)",
+  "regions": [
+   "Arctic",
+   "North America",
+   "Europe",
+   "East Asia"
+  ],
+  "biomes": [
+   "Tundra",
+   "Polar desert"
+  ],
+  "abilities": [
+   "Qiviut underwool is warmer than sheep's wool by weight and is shed each spring",
+   "Defensive ring formation repels wolves, though not human hunters",
+   "Survives winters of −40 °C on frozen sedges and willows dug from snow"
+  ],
+  "animal": {
+   "diet": "Grasses, sedges, Arctic willow, herbs and lichens",
+   "habitat": "Arctic tundra and river valleys with thin snow cover",
+   "lifespan": "About 12–20 years",
+   "size": "Shoulder height 1.1–1.5 m; bulls 270–410 kg",
+   "behaviour": "Bulls charge each other head-on in the late-summer rut, colliding with a crash audible far away. Herds of 10–30 are typical.",
+   "fieldMarks": [
+    "Silhouette: low, boxy dark-brown animal with long skirt of guard hair reaching near the ground",
+    "Horns with a massive central 'boss' across the forehead, curving down then up beside the face",
+    "Pale saddle and pale lower legs",
+    "Signs: tufts of shed qiviut on willows and rocks in early summer; rounded hoofprints"
+   ],
+   "lookalikes": "Bison (not in Arctic) has a tall hump and short upturned horns. Reindeer are slimmer with antlers. Takin (Himalaya) is golden with differently curved horns.",
+   "whereToSee": "Dovrefjell–Sunndalsfjella National Park (Norway); Kangerlussuaq (Greenland); Nunivak Island and Nome (Alaska); Banks Island, Aulavik National Park (Canada); Wrangel Island (Russia)",
+   "season": "Resident year-round; summer is best for access",
+   "order": "Artiodactyla"
+  },
+  "iucn": "LC",
+  "lore": "Musk oxen were hunted out of Alaska by the early 1900s; a few dozen animals brought from Greenland and released on Nunivak Island in 1935–36 founded most of today's Alaskan herds. Inuit traditionally used the horns for ladles, bows and fish spears.",
+  "historicalNames": [
+   "Bos moschatus",
+   "Musk-bull"
+  ],
+  "funFact": "Despite its name, the musk ox is not an ox: its closest living relatives are goats and sheep."
+ },
+ {
+  "slug": "megaptera-novaeangliae",
+  "scientific": "Megaptera novaeangliae",
+  "common": "Humpback whale",
+  "otherNames": [
+   "Ballena jorobada (Spanish)",
+   "Baleia-jubarte (Portuguese)",
+   "Koholā (Hawaiian)",
+   "Zatōkujira (Japanese)",
+   "Keporkak (Greenlandic)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Balaenopteridae",
+  "shelves": [
+   "ocean",
+   "migrant",
+   "marvel",
+   "songbird"
+  ],
+  "summary": "An acrobatic baleen whale with enormous wing-like flippers, known for breaching, bubble-net feeding and some of the most complex songs in the animal kingdom. After commercial whaling ended, most populations have recovered strongly. It migrates thousands of kilometres between cold feeding grounds and tropical breeding grounds every year.",
+  "nativeRange": "All oceans, from polar feeding grounds to tropical breeding grounds; a non-migratory population lives in the Arabian Sea",
+  "regions": [
+   "Atlantic Ocean",
+   "Pacific Ocean",
+   "Indian Ocean",
+   "Southern Ocean",
+   "Arctic"
+  ],
+  "biomes": [
+   "Open ocean",
+   "Coastal waters",
+   "Coral reef lagoons"
+  ],
+  "abilities": [
+   "Groups blow spiralling 'bubble nets' to herd fish into a tight ball, then lunge through it",
+   "Males sing complex, structured songs that change over seasons and spread between populations across ocean basins",
+   "Migrations of up to about 8,000 km one way, among the longest of any mammal",
+   "Flippers up to a third of body length, with knobbly leading edges that improve lift"
+  ],
+  "animal": {
+   "diet": "Krill and small schooling fish such as herring, capelin, anchovies and sand lance",
+   "habitat": "Coastal and continental-shelf waters; tropical shallows for breeding",
+   "lifespan": "About 45–50 years, possibly longer",
+   "size": "12–16 m; 25–30 tonnes (females larger)",
+   "behaviour": "Breaches, slaps flippers and tails, and travels in loose groups. Mothers and calves stay together for about a year.",
+   "fieldMarks": [
+    "Very long white or partly white flippers",
+    "Small, stubby dorsal fin on a hump, two-thirds of the way back",
+    "Knobbly tubercles on the head and jaw",
+    "Raises the tail flukes high before a deep dive; black-and-white underside pattern of each fluke is unique",
+    "Bushy blow, 3–4 m tall"
+   ],
+   "voice": "Males' songs are long sequences of moans, groans, whoops and squeals arranged in repeated themes, lasting up to half an hour and repeated for hours.",
+   "lookalikes": "Gray whale lacks a dorsal fin and long flippers and is mottled grey. Fin and minke whales have tall, sickle-shaped dorsal fins and seldom raise their flukes. Right whales lack a dorsal fin and have white callosities.",
+   "whereToSee": "Hervey Bay (Queensland); Maui (Hawaii); Vava'u (Tonga); Silver Bank (Dominican Republic); Stellwagen Bank (Massachusetts); Monterey Bay (California); Juneau (Alaska); Húsavík (Iceland); Gulf of Masirah and the Dhofar coast (Oman) for Arabian Sea whales",
+   "season": "Northern breeding grounds January–April; northern feeding grounds May–October; Australia and Tonga July–October",
+   "order": "Artiodactyla (Cetacea)"
+  },
+  "iucn": "LC",
+  "lore": "Roger Payne and Scott McVay's 1971 paper and the album 'Songs of the Humpback Whale' (1970) helped spark the 'Save the Whales' movement; a recording flew on the Voyager Golden Records in 1977.",
+  "historicalNames": [
+   "Balaena novaeangliae",
+   "Hump-backed whale",
+   "Megaptera"
+  ],
+  "funFact": "Its genus name Megaptera means 'big-winged', for flippers that can reach 5 m long."
+ },
+ {
+  "slug": "eschrichtius-robustus",
+  "scientific": "Eschrichtius robustus",
+  "common": "Gray whale",
+  "otherNames": [
+   "Ballena gris (Spanish)",
+   "Baleia-cinzenta (Portuguese)",
+   "Kokukujira (Japanese)",
+   "California gray whale",
+   "Devil fish (19th-century whalers)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Eschrichtiidae",
+  "shelves": [
+   "ocean",
+   "migrant",
+   "marvel"
+  ],
+  "summary": "A mottled, barnacle-encrusted baleen whale that feeds on the seafloor by sucking up mud and straining out tiny crustaceans. Eastern Pacific gray whales migrate some 15,000–20,000 km a year between the Arctic and the lagoons of Baja California, where mothers famously approach small boats. The Atlantic population was hunted to extinction by the 18th century.",
+  "nativeRange": "North Pacific: eastern population from the Bering and Chukchi seas to Baja California; a small western population off Sakhalin and Kamchatka",
+  "regions": [
+   "Pacific Ocean",
+   "Arctic"
+  ],
+  "biomes": [
+   "Coastal waters",
+   "Shallow shelf seas",
+   "Lagoons"
+  ],
+  "abilities": [
+   "Rolls on its side and sucks sediment from the seafloor, filtering amphipods through short baleen",
+   "Leaves feeding pits on the seabed that recycle sediments and nutrients",
+   "A tagged western gray whale, 'Varvara', swam about 22,500 km from Sakhalin to Mexico and back in 2011–12, the longest mammal migration then recorded"
+  ],
+  "animal": {
+   "diet": "Benthic amphipods, ghost shrimp, crab larvae and other small invertebrates",
+   "habitat": "Shallow coastal waters; warm lagoons for calving",
+   "lifespan": "About 50–70 years",
+   "size": "13–15 m; up to about 35 tonnes",
+   "behaviour": "Travels close to shore on migration. In Baja lagoons some mothers bring calves to be touched by people in small boats.",
+   "fieldMarks": [
+    "Mottled grey skin covered with white-orange barnacle and whale-lice patches",
+    "No dorsal fin: a low hump followed by a series of 'knuckles' along the tail stock",
+    "Heart-shaped or V-shaped blow, 3–4 m high",
+    "Narrow, slightly arched head; flukes often lifted on deep dives, with a notch and pale scarring"
+   ],
+   "lookalikes": "Humpback has a dorsal fin and very long white flippers. Bowhead and right whales are black with no barnacle mottling (right whales have callosities).",
+   "whereToSee": "Laguna San Ignacio, Ojo de Liebre (Scammon's) Lagoon and Magdalena Bay (Baja California, Mexico); Monterey Bay and Point Reyes (California); Depoe Bay (Oregon); Tofino (British Columbia)",
+   "season": "Baja lagoons January–April; migration along California December–May; some 'resident' whales stay off Oregon and British Columbia in summer",
+   "order": "Artiodactyla (Cetacea)"
+  },
+  "iucn": "LC",
+  "lore": "Whalers called mothers 'devil fish' for their violent defence of calves in Scammon's lagoon in the 1850s. The Makah of Washington State have a treaty right to hunt gray whales, central to their culture.",
+  "historicalNames": [
+   "Rhachianectes glaucus",
+   "Devil fish",
+   "Scrag whale"
+  ],
+  "funFact": "A gray whale seen off Israel and Spain in 2010 was the first in the Atlantic basin for centuries, likely having crossed the ice-reduced Arctic."
+ },
+ {
+  "slug": "balaena-mysticetus",
+  "scientific": "Balaena mysticetus",
+  "common": "Bowhead whale",
+  "otherNames": [
+   "Aġviq (Iñupiaq)",
+   "Arviq (Inuktitut)",
+   "Greenland right whale",
+   "Ballena de Groenlandia (Spanish)",
+   "Baleia-da-groenlândia (Portuguese)",
+   "Grønlandshval (Danish/Norwegian)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Balaenidae",
+  "shelves": [
+   "ocean",
+   "migrant",
+   "marvel",
+   "ancient",
+   "sacred"
+  ],
+  "summary": "The only baleen whale that lives in the Arctic year-round, a black giant with a massive bow-shaped skull that can smash through sea ice to breathe. Bowheads are the longest-lived mammals known: harpoon points from the 1800s found in living whales, and eye-lens dating, indicate ages of over 200 years.",
+  "nativeRange": "Arctic and sub-Arctic seas: Bering–Chukchi–Beaufort, Baffin Bay, Hudson Bay, East Greenland–Svalbard–Barents, Sea of Okhotsk",
+  "regions": [
+   "Arctic",
+   "Pacific Ocean",
+   "Atlantic Ocean"
+  ],
+  "biomes": [
+   "Sea ice",
+   "Polar seas"
+  ],
+  "abilities": [
+   "Can break through sea ice at least 60 cm thick with its head",
+   "Longest-lived mammal: one individual was estimated at about 211 years old",
+   "Longest baleen of any whale, up to about 4 m",
+   "Thickest blubber of any animal, up to about 50 cm"
+  ],
+  "animal": {
+   "diet": "Copepods, krill and other small zooplankton, skimmed at the surface or near the bottom",
+   "habitat": "Ice-edge waters, leads and polynyas of the Arctic",
+   "lifespan": "Often over 100 years; 200+ in some individuals",
+   "size": "14–18 m; 75–100 tonnes",
+   "behaviour": "Migrates along leads in the sea ice in spring and back south in autumn. Male bowheads sing diverse, ever-changing songs in winter: nearly 200 distinct song types were recorded off Svalbard over three years.",
+   "fieldMarks": [
+    "Huge, black body with no dorsal fin",
+    "Strongly arched, bow-shaped mouthline; head up to a third of body length",
+    "White chin patch, often with black spots; pale band near the tail",
+    "V-shaped blow from two widely spaced blowholes; two humps (head and back) visible when surfacing"
+   ],
+   "voice": "Highly varied songs of whoops, moans and trills, likened to jazz because new songs appear each year.",
+   "lookalikes": "North Atlantic and North Pacific right whales lack the white chin and have rough white callosities on the head. Gray whale is mottled with barnacles.",
+   "whereToSee": "Disko Bay (West Greenland, spring); Isabella Bay/Igaliqtuuq (Baffin Island, late summer); Utqiaġvik, Alaska (spring migration); Shantar Islands (Sea of Okhotsk); Svalbard (rare)",
+   "season": "Spring migration April–June; late-summer feeding in Baffin and Beaufort seas; wintering in the Bering Sea",
+   "order": "Artiodactyla (Cetacea)"
+  },
+  "iucn": "LC",
+  "lore": "For Iñupiat whaling communities of northern Alaska, the spring bowhead hunt and the Nalukataq festival that follows are the heart of the year. Basque, Dutch and British whalers hunted 'Greenland whales' at Svalbard from the early 1600s.",
+  "historicalNames": [
+   "Balaena mysticetus",
+   "Greenland whale",
+   "Right whale",
+   "Whalebone whale"
+  ],
+  "funFact": "In 2007 a fragment of a harpoon made in New Bedford in the 1880s was found embedded in a bowhead caught off Alaska."
+ },
+ {
+  "slug": "delphinapterus-leucas",
+  "scientific": "Delphinapterus leucas",
+  "common": "Beluga",
+  "otherNames": [
+   "Qilalugaq (Inuktitut)",
+   "Belukha (Russian)",
+   "White whale",
+   "Sea canary",
+   "Ballena blanca (Spanish)",
+   "Baleia-branca (Portuguese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Monodontidae",
+  "shelves": [
+   "ocean",
+   "migrant",
+   "freshwater"
+  ],
+  "summary": "A pure-white Arctic whale with a bulbous, shape-changing forehead, so talkative that sailors called it the 'sea canary'. Thousands gather each summer in warm river estuaries to calve, feed and moult their skin against the gravel. Some even travel far up rivers.",
+  "nativeRange": "Arctic and sub-Arctic waters: Hudson Bay, Baffin Bay, Beaufort and Bering seas, White Sea, Svalbard, Sea of Okhotsk; isolated populations in the St Lawrence estuary and Cook Inlet",
+  "regions": [
+   "Arctic",
+   "Atlantic Ocean",
+   "Pacific Ocean"
+  ],
+  "biomes": [
+   "Polar seas",
+   "Estuaries",
+   "Sea ice"
+  ],
+  "abilities": [
+   "Unfused neck vertebrae let it nod and turn its head, unusual among whales",
+   "Changes the shape of its fatty melon to focus echolocation and perhaps to signal",
+   "Navigates and finds breathing holes in dense pack ice using echolocation",
+   "Has entered rivers far inland, e.g. hundreds of kilometres up the Yukon, Amur and Rhine"
+  ],
+  "animal": {
+   "diet": "Fish (cod, salmon, capelin), squid, shrimp, crabs and worms",
+   "habitat": "Coastal Arctic waters, estuaries and ice edges",
+   "lifespan": "Typically 35–50 years; some estimated to reach 80",
+   "size": "3–5.5 m; up to about 1,600 kg (males larger)",
+   "behaviour": "Social, travelling in pods that can merge into gatherings of thousands in estuaries. Calves are born grey and whiten over several years.",
+   "fieldMarks": [
+    "All-white adult (grey young) with no dorsal fin — only a low ridge along the back",
+    "Rounded, mobile melon and short beak",
+    "Broad, paddle-shaped flippers that curl at the tips in older males",
+    "Small, low blow; often seen in shallow, muddy estuary water"
+   ],
+   "voice": "A wide repertoire of whistles, chirps, squeals, clicks and bell-like trills audible through boat hulls, giving the name 'sea canary'.",
+   "lookalikes": "Narwhal is mottled grey-black, and males carry a spiral tusk. In poor light, a white wave crest or ice floe can be mistaken for a beluga's back.",
+   "whereToSee": "Churchill River estuary, Manitoba (Hudson Bay, tens of thousands in July–August); Saguenay–St. Lawrence Marine Park, Tadoussac (Quebec); Cunningham Inlet, Somerset Island (Nunavut); Solovetsky Islands, White Sea (Russia); Turnagain Arm, Alaska",
+   "season": "Estuary gatherings late June–August; winter at the pack-ice edge",
+   "order": "Artiodactyla (Cetacea)"
+  },
+  "iucn": "LC",
+  "lore": "Inuit communities hunt belugas for muktuk (skin and blubber), a key source of vitamin C in the traditional Arctic diet. In the 1980s a US Navy beluga named NOC was recorded imitating human speech patterns.",
+  "historicalNames": [
+   "Delphinus leucas",
+   "White fish",
+   "Belouga"
+  ],
+  "funFact": "Belugas moult each summer, rubbing off old yellowed skin on estuary gravel to reveal fresh white skin beneath."
+ },
+ {
+  "slug": "trichechus-manatus",
+  "scientific": "Trichechus manatus",
+  "common": "West Indian manatee",
+  "otherNames": [
+   "Manatí (Spanish, from Taíno/Carib)",
+   "Peixe-boi-marinho (Portuguese)",
+   "Lamantin (French Caribbean)",
+   "Sea cow",
+   "Florida manatee / Antillean manatee (subspecies)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Trichechidae",
+  "shelves": [
+   "ocean",
+   "freshwater",
+   "endangered"
+  ],
+  "summary": "A slow, gentle aquatic grazer of warm coasts and rivers from Florida to Brazil, related more closely to elephants than to seals. Manatees cannot tolerate cold water, so Florida's population crowds into warm springs and power-plant outflows each winter. Boat strikes and seagrass loss are its main threats.",
+  "nativeRange": "Southeastern USA (Florida, occasionally north to Virginia and the Gulf coast), Gulf of Mexico, Caribbean, Central America and northeastern South America to Brazil",
+  "regions": [
+   "North America",
+   "Central America",
+   "Caribbean",
+   "South America",
+   "Atlantic Ocean"
+  ],
+  "biomes": [
+   "Seagrass beds",
+   "Rivers",
+   "Springs",
+   "Mangrove",
+   "Estuaries"
+  ],
+  "abilities": [
+   "Molars are replaced continuously from the back, moving forward like a conveyor belt as worn teeth fall out",
+   "Eats about 10% of its body weight in plants each day",
+   "Moves freely between fresh and salt water",
+   "Prehensile split upper lip grasps vegetation"
+  ],
+  "animal": {
+   "diet": "Seagrasses, freshwater plants, algae and mangrove leaves",
+   "habitat": "Shallow coastal waters, rivers, estuaries and springs warmer than about 20 °C",
+   "lifespan": "Up to about 60 years",
+   "size": "2.7–3.5 m; 400–550 kg (exceptionally 1,500 kg)",
+   "behaviour": "Mostly solitary or in mother–calf pairs, but aggregates in warm-water refuges. Surfaces every few minutes to breathe, more often when active.",
+   "fieldMarks": [
+    "Large, grey-brown, wrinkled body, often scarred by boat propellers and coated with algae",
+    "Broad, rounded, paddle-shaped tail",
+    "Flippers with three or four fingernails",
+    "Signs: 'footprints' (smooth circles of water) on the surface as the tail pushes down, and a nose-only breath"
+   ],
+   "lookalikes": "Dugong (Indo-Pacific only) has a whale-like fluked tail. Amazonian manatee (fresh water only) lacks nails and usually has a white chest patch. West African manatee is very similar but lives only off West Africa.",
+   "whereToSee": "Crystal River and Three Sisters Springs, Blue Spring State Park and Manatee Lagoon (Florida); Swallow Caye (Belize); Puerto Rico; Laguna de Términos (Mexico)",
+   "season": "Florida springs November–March (cold fronts bring the biggest gatherings); year-round in the Caribbean",
+   "order": "Sirenia"
+  },
+  "iucn": "VU",
+  "lore": "In January 1493 Columbus recorded seeing three 'sirens' off Hispaniola that were 'not as pretty as they are painted'. Taíno peoples carved manatee bone into ritual objects such as vomiting spatulas.",
+  "historicalNames": [
+   "Manati",
+   "Manatus",
+   "Sea-cow",
+   "Siren"
+  ],
+  "funFact": "A manatee's lungs lie along its back and help it control buoyancy, letting it hang motionless in the water."
+ },
+ {
+  "slug": "dugong-dugon",
+  "scientific": "Dugong dugon",
+  "common": "Dugong",
+  "otherNames": [
+   "Duyung (Malay/Indonesian)",
+   "Kadal pasu (Tamil, 'sea cow')",
+   "Nguva (Swahili)",
+   "Sea cow"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Dugongidae",
+  "shelves": [
+   "ocean",
+   "endangered"
+  ],
+  "summary": "The only strictly marine herbivorous mammal, a seagrass grazer of warm Indo-Pacific shallows with a whale-like fluked tail. Dugongs plough seagrass meadows like underwater cows, leaving feeding trails across the seabed. Australia holds most of the world's population; in India they survive in tiny numbers in the Gulf of Mannar, Palk Bay, Gulf of Kutch and Andaman Islands.",
+  "nativeRange": "Coastal Indo-West Pacific from East Africa and the Red Sea through the Arabian Gulf, South and Southeast Asia to northern Australia, New Guinea and Vanuatu",
+  "regions": [
+   "Indian Ocean",
+   "Pacific Ocean",
+   "Australia",
+   "South Asia",
+   "Southeast Asia",
+   "Sub-Saharan Africa",
+   "West Asia"
+  ],
+  "biomes": [
+   "Seagrass meadows",
+   "Shallow bays",
+   "Coral reef lagoons"
+  ],
+  "abilities": [
+   "Uproots whole seagrass plants, leaving feeding trails that can promote regrowth of fast-growing, more nutritious seagrasses",
+   "Can live over 70 years",
+   "Mature males and some old females grow short tusks"
+  ],
+  "animal": {
+   "diet": "Seagrasses, especially roots and rhizomes; occasionally invertebrates",
+   "habitat": "Shallow, sheltered, warm coastal waters with seagrass",
+   "lifespan": "Up to about 70 years",
+   "size": "2.4–3 m; 250–500 kg",
+   "behaviour": "Feeds by rooting through the sediment with its muscular, downturned snout. Mothers nurse a single calf for about 18 months.",
+   "fieldMarks": [
+    "Grey to brown, smooth fusiform body",
+    "Whale-like fluked tail with a median notch (not a rounded paddle)",
+    "Broad, downturned snout with a bristly upper lip disc",
+    "Signs: meandering, sandy 'feeding trails' through seagrass beds; surfaces showing only nostrils"
+   ],
+   "lookalikes": "Manatees (Atlantic only) have rounded paddle tails. Sea turtles also graze seagrass but have shells and heads that stay up longer.",
+   "whereToSee": "Shark Bay and Moreton Bay (Australia); Marsa Alam and Marsa Abu Dabbab (Red Sea, Egypt); Marawah Marine Reserve (Abu Dhabi); Coron, Palawan (Philippines); Bazaruto Archipelago (Mozambique); Palk Bay Dugong Conservation Reserve (Tamil Nadu, India)",
+   "season": "Resident year-round",
+   "order": "Sirenia"
+  },
+  "iucn": "VU",
+  "lore": "Dugongs and manatees, the order Sirenia, are named for the sirens of Greek myth, and seafarers' tales of mermaids are often traced to them. In 2022 Tamil Nadu declared India's first Dugong Conservation Reserve in Palk Bay.",
+  "historicalNames": [
+   "Trichechus dugon",
+   "Halicore dugong",
+   "Sea-cow",
+   "Mermaid"
+  ],
+  "funFact": "The dugong's closest living relatives on land are elephants."
+ },
+ {
+  "slug": "odobenus-rosmarus",
+  "scientific": "Odobenus rosmarus",
+  "common": "Walrus",
+  "otherNames": [
+   "Aiviq (Inuktitut/Iñupiaq)",
+   "Morzh (Russian)",
+   "Hvalross (Norwegian)",
+   "Rostungur (Icelandic)",
+   "Morsa (Spanish/Portuguese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Odobenidae",
+  "shelves": [
+   "ocean",
+   "endangered",
+   "marvel"
+  ],
+  "summary": "A gigantic, tusked pinniped of the Arctic, gathering in haul-outs of thousands on ice floes and beaches. Walruses find clams by touch with hundreds of sensitive whiskers and suck them out of their shells. Loss of summer sea ice now forces enormous crowds onto shore, where stampedes kill calves.",
+  "nativeRange": "Arctic seas: Pacific walrus in the Bering and Chukchi seas; Atlantic walrus from Canadian Arctic and Greenland to Svalbard and the Kara Sea",
+  "regions": [
+   "Arctic",
+   "Pacific Ocean",
+   "Atlantic Ocean"
+  ],
+  "biomes": [
+   "Sea ice",
+   "Polar seas",
+   "Shallow continental shelf"
+  ],
+  "abilities": [
+   "Uses tusks up to about 1 m long as ice picks to haul out — 'Odobenus' means 'tooth-walker'",
+   "Hundreds of stiff, sensitive whiskers detect clams in seafloor mud",
+   "Produces powerful suction that pulls clam bodies from their shells, and jets water to dig them out",
+   "Can slow its heart rate on dives; most feeding dives last under 10 minutes, though dives of about 25 minutes have been recorded"
+  ],
+  "animal": {
+   "diet": "Mainly bivalve molluscs; also worms, snails, crabs; occasionally seals",
+   "habitat": "Shallow continental-shelf waters with sea ice; land haul-outs when ice is absent",
+   "lifespan": "About 30–40 years",
+   "size": "Males 2.7–3.6 m and up to about 1,500 kg; females smaller",
+   "behaviour": "Extremely gregarious, lying in dense heaps. Males sing underwater courtship songs of knocks, taps and bell-like tones for days in winter.",
+   "fieldMarks": [
+    "Huge, wrinkled cinnamon-brown to pinkish body (pinker when warm)",
+    "Two long ivory tusks in both sexes (longer in males)",
+    "Broad, bristly 'moustache' of whiskers",
+    "No external ears; hind flippers can turn forward to walk on land",
+    "Signs: haul-out beaches with flattened gravel, shells and tusk-gouged ice"
+   ],
+   "voice": "Loud roars, grunts and barks on haul-outs; underwater, males produce knocks, clicks and a ringing bell-like sound.",
+   "lookalikes": "Bearded seal has long whiskers but no tusks and is far smaller. Elephant seals (not Arctic) have a trunk-like nose and no tusks.",
+   "whereToSee": "Round Island, Walrus Islands State Game Sanctuary (Alaska); Svalbard (Poolepynten, Torellneset); Point Lay, Alaska; Cape Serdtse-Kamen and Wrangel Island (Chukotka); Igloolik and Foxe Basin (Nunavut)",
+   "season": "Svalbard and Round Island haul-outs June–September",
+   "order": "Carnivora"
+  },
+  "iucn": "VU",
+  "lore": "The 12th-century Lewis chessmen, found in Scotland, were carved mainly from walrus ivory, likely traded from Norway and Greenland. Norse Greenlanders paid tithes and trade in walrus tusks.",
+  "historicalNames": [
+   "Rosmarus",
+   "Morse",
+   "Sea-horse",
+   "Hvalross"
+  ],
+  "funFact": "Walruses can sleep while floating vertically, inflating air sacs in their necks like built-in life jackets."
+ },
+ {
+  "slug": "hydrurga-leptonyx",
+  "scientific": "Hydrurga leptonyx",
+  "common": "Leopard seal",
+  "otherNames": [
+   "Foca leopardo (Spanish)",
+   "Leopardo-marinho (Portuguese)",
+   "Sea leopard"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Phocidae",
+  "shelves": [
+   "ocean"
+  ],
+  "summary": "The apex predator among Antarctic seals, a sleek, reptilian-headed hunter famous for ambushing penguins at the ice edge. It also sieves huge quantities of krill through intricately lobed cheek teeth. It is the only seal that regularly hunts other warm-blooded animals.",
+  "nativeRange": "Antarctic and sub-Antarctic waters, especially the pack ice; vagrants reach South America, South Africa, Australia and New Zealand",
+  "regions": [
+   "Antarctica",
+   "Southern Ocean"
+  ],
+  "biomes": [
+   "Pack ice",
+   "Polar seas"
+  ],
+  "abilities": [
+   "Huge gape and long canines for seizing penguins and young seals",
+   "Interlocking three-pointed cheek teeth strain krill from water like a sieve",
+   "Patrols penguin colonies and catches birds as they enter or leave the water"
+  ],
+  "animal": {
+   "diet": "Krill, penguins, fish, squid and other seals (especially crabeater pups)",
+   "habitat": "Edge of the Antarctic pack ice and sub-Antarctic islands",
+   "lifespan": "About 26 years",
+   "size": "2.5–3.5 m; up to about 600 kg; females larger than males",
+   "behaviour": "Solitary. During the breeding season (November–January) males hang upside-down underwater and sing loud trills and moans.",
+   "fieldMarks": [
+    "Long, slender, serpentine body with a large, reptile-like head",
+    "Dark grey back and pale, black-spotted underside and throat",
+    "Wide mouth that appears to 'smile'",
+    "Long fore-flippers used for swimming; often seen lounging alone on ice floes"
+   ],
+   "voice": "Underwater, males produce loud, long trills and low moans during the breeding season, audible to hydrophones far away.",
+   "lookalikes": "Weddell seal is chubbier with a small rounded head and short muzzle. Crabeater seal is paler, smaller-headed and usually in groups. Southern elephant seal is massive and shorter-flippered.",
+   "whereToSee": "Antarctic Peninsula: Pléneau Island, Paradise Bay, Cuverville Island and Brown Bluff penguin colonies; South Georgia; occasionally New Zealand coasts in winter",
+   "season": "Antarctic cruise season November–March; highest at penguin colonies when chicks fledge (January–February)",
+   "order": "Carnivora"
+  },
+  "iucn": "LC",
+  "lore": "On Shackleton's Endurance expedition in 1916 a leopard seal chased Thomas Orde-Lees across the sea ice until Frank Wild shot it. In 2003 a leopard seal drowned British marine biologist Kirsty Brown while she was snorkelling at Rothera Station.",
+  "historicalNames": [
+   "Phoca leptonyx",
+   "Sea leopard"
+  ],
+  "funFact": "Photographer Paul Nicklen described a female leopard seal repeatedly bringing him penguins, as if teaching him to hunt."
+ },
+ {
+  "slug": "hydrochoerus-hydrochaeris",
+  "scientific": "Hydrochoerus hydrochaeris",
+  "common": "Capybara",
+  "otherNames": [
+   "Kapiÿva / Ka'apiûara (Tupi–Guaraní, 'grass-eater')",
+   "Capivara (Portuguese)",
+   "Carpincho (Argentine/Uruguayan Spanish)",
+   "Chigüire (Venezuelan Spanish)",
+   "Ronsoco (Peruvian Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Caviidae",
+  "shelves": [
+   "freshwater",
+   "marvel"
+  ],
+  "summary": "The world's largest rodent, a semi-aquatic grazer of South American wetlands that lives in social groups and seldom strays far from water. With partly webbed feet and eyes, ears and nostrils set high on its head, it can lie almost submerged. Birds, monkeys and other animals often perch on or lounge beside it.",
+  "nativeRange": "South America east of the Andes, from Colombia and Venezuela to northeastern Argentina and Uruguay; also Panama",
+  "regions": [
+   "South America",
+   "Central America"
+  ],
+  "biomes": [
+   "Wetland",
+   "Seasonally flooded savanna",
+   "Riverbank",
+   "Gallery forest"
+  ],
+  "abilities": [
+   "Can stay submerged for about five minutes and sleep in the water with only its nose exposed",
+   "Re-ingests its own soft droppings to extract more nutrients from grass",
+   "Teeth grow continuously to cope with abrasive grasses"
+  ],
+  "animal": {
+   "diet": "Grasses, aquatic plants, bark and fruit; selective grazer",
+   "habitat": "Marshes, rivers, lakes and flooded grasslands with nearby dry ground",
+   "lifespan": "About 8–10 years",
+   "size": "1–1.3 m; 35–66 kg",
+   "behaviour": "Lives in groups of 10–20 led by a dominant male; groups merge into hundreds in the dry season around remaining water.",
+   "fieldMarks": [
+    "Silhouette: barrel-shaped, tailless, blunt-headed rodent the size of a large dog",
+    "Coarse, sparse reddish-brown to grey hair",
+    "Dominant males have a large, bare scent gland ('morrillo') on the top of the snout",
+    "Tracks: four toes on front feet, three on hind, partly webbed; signs include grazing lawns and droppings near water"
+   ],
+   "voice": "Barks sharply in alarm; also whistles, clicks, purrs and grunts within the group.",
+   "lookalikes": "Lowland paca is smaller with white spotted rows on its flanks. Coypu (nutria) is much smaller with a long rat-like tail and orange incisors.",
+   "whereToSee": "Esteros del Iberá (Argentina); Pantanal (Brazil); Los Llanos, e.g. Hato El Cedral (Venezuela); Lago Paranoá and city parks in Brasília and Curitiba (Brazil)",
+   "season": "Resident year-round; dry-season gatherings around shrinking water bodies (roughly July–October in the Pantanal)",
+   "order": "Rodentia"
+  },
+  "iucn": "LC",
+  "lore": "Venezuelan Catholics traditionally eat salted capybara (chigüire) during Lent, a custom said to rest on a colonial-era church ruling that the semi-aquatic animal counted as fish. Its name comes from Tupi ka'apiûara, usually translated 'grass-eater'.",
+  "historicalNames": [
+   "Sus hydrochaeris",
+   "Cabiai",
+   "Water hog"
+  ],
+  "funFact": "The Brazilian city of Curitiba and the wealthy Nordelta suburb of Buenos Aires both have well-known urban capybara populations."
+ },
+ {
+  "slug": "myrmecophaga-tridactyla",
+  "scientific": "Myrmecophaga tridactyla",
+  "common": "Giant anteater",
+  "otherNames": [
+   "Tamanduá-bandeira (Portuguese)",
+   "Oso hormiguero (Spanish)",
+   "Yurumí (Guaraní)",
+   "Ant bear"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Myrmecophagidae",
+  "shelves": [
+   "endangered",
+   "marvel"
+  ],
+  "summary": "A toothless insect-eater with a tubular snout, a tongue about 60 cm long and a huge, flag-like tail. It raids termite mounds and ant nests for just a minute or so each, flicking its tongue up to 150 times a minute, and moves on before the colony's soldiers mount a defence. Fire, roads and habitat loss have made it Vulnerable.",
+  "nativeRange": "Central America (rare, Honduras southward) and South America east of the Andes to northern Argentina; extinct in Uruguay and much of Central America",
+  "regions": [
+   "Central America",
+   "South America"
+  ],
+  "biomes": [
+   "Savanna (cerrado)",
+   "Grassland",
+   "Wetland",
+   "Tropical forest"
+  ],
+  "abilities": [
+   "Eats around 30,000 ants and termites a day",
+   "Forelimb claws up to 10 cm tear open concrete-hard termite mounds and can disable a jaguar in defence",
+   "Has one of the lowest body temperatures of any land mammal, about 33 °C",
+   "Walks on its knuckles to protect its long claws"
+  ],
+  "animal": {
+   "diet": "Ants and termites; occasionally beetle larvae and fruit",
+   "habitat": "Open grassland, savanna, wetlands and forest edges",
+   "lifespan": "About 15 years in the wild; over 30 in captivity",
+   "size": "Body about 1–1.2 m plus a 65–90 cm tail; 27–50 kg",
+   "behaviour": "Solitary. Mothers carry the single young on their back for months, its dark stripe lining up with hers as camouflage.",
+   "fieldMarks": [
+    "Silhouette: long tubular head, low body and enormous bushy tail held level or over the body like a blanket",
+    "Bold black diagonal stripe edged with white running from throat over the shoulder",
+    "Pale front legs with a black band above huge curved claws",
+    "Signs: termite mounds with fresh, fist-sized holes torn in the side; knuckle-walking tracks turned inward"
+   ],
+   "lookalikes": "Southern and northern tamanduas are much smaller, climb trees and have a short, naked prehensile tail. No other animal in its range has the long snout and huge tail together.",
+   "whereToSee": "Serra da Canastra and Emas national parks (Brazilian cerrado); Pantanal (Brazil); Esteros del Iberá (Argentina, reintroduced); Los Llanos (Venezuela, Colombia)",
+   "season": "Resident; often active in daylight in cool weather, nocturnal in hot weather",
+   "order": "Pilosa"
+  },
+  "iucn": "VU",
+  "lore": "In Guaraní the animal is yurumí, and the giant anteater appears in Indigenous stories across the Gran Chaco and cerrado. Since 2007 a rewilding programme in Argentina has reintroduced giant anteaters to the Iberá wetlands, where they had disappeared.",
+  "historicalNames": [
+   "Myrmecophaga jubata",
+   "Tamandua-guaçu",
+   "Ant-bear"
+  ],
+  "funFact": "The anteater's tongue is anchored to its sternum, not its mouth, allowing it to extend so far."
+ },
+ {
+  "slug": "dasypus-novemcinctus",
+  "scientific": "Dasypus novemcinctus",
+  "common": "Nine-banded armadillo",
+  "otherNames": [
+   "Tatu-galinha (Portuguese)",
+   "Armadillo de nueve bandas (Spanish)",
+   "Ayotochtli (Nahuatl, 'turtle-rabbit')",
+   "Tatú (Guaraní)",
+   "Cachicamo (Venezuelan Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Dasypodidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "A bony-shelled digger of the Americas that has spread steadily north through the USA since the 19th century. Females almost always give birth to genetically identical quadruplets, all from one fertilised egg. It is also one of the few animals other than humans that naturally carries leprosy.",
+  "nativeRange": "South America (to northern Argentina), Central America, Mexico and the southern and central USA (expanding north)",
+  "regions": [
+   "South America",
+   "Central America",
+   "North America"
+  ],
+  "biomes": [
+   "Tropical forest",
+   "Grassland",
+   "Scrub",
+   "Farmland"
+  ],
+  "abilities": [
+   "Gives birth to identical quadruplets from a single egg (polyembryony)",
+   "Can hold its breath for about six minutes, walking across stream bottoms or gulping air to float",
+   "Leaps about 1 m into the air when startled",
+   "Digs dozens of burrows used later by other animals"
+  ],
+  "animal": {
+   "diet": "Insects and other invertebrates (beetles, ants, termites, larvae), small vertebrates, eggs and fruit",
+   "habitat": "Forest, scrub and grassland with soft soil",
+   "lifespan": "About 7–15 years",
+   "size": "Body 38–58 cm, tail 26–45 cm; 3–7 kg",
+   "behaviour": "Mostly nocturnal in summer and active by day in cool weather. Digs for food with its nose to the ground, sniffing out prey.",
+   "fieldMarks": [
+    "Leathery, armoured shell with a shoulder shield, a hip shield and 7–11 (usually 8–9) movable bands in between",
+    "Long, armoured, tapering tail",
+    "Small, pointed head and large upright ears",
+    "Signs: shallow conical feeding holes 'snout-pokes' in lawns and leaf litter; burrows about 20 cm wide"
+   ],
+   "lookalikes": "Other Dasypus species in South America are very similar; seven-banded and southern long-nosed armadillos differ in band count and range. Six-banded armadillo is yellowish with fewer, wider bands.",
+   "whereToSee": "Florida and Texas, e.g. Aransas National Wildlife Refuge and Big Thicket; Pantanal (Brazil); Los Llanos (Venezuela)",
+   "season": "Resident year-round",
+   "order": "Cingulata"
+  },
+  "iucn": "LC",
+  "lore": "The Aztecs called it ayotochtli, 'turtle-rabbit', and Andean musicians made the charango, a small lute, from armadillo shells. It is the state small mammal of Texas.",
+  "historicalNames": [
+   "Tatou",
+   "Tatu",
+   "Armadillo"
+  ],
+  "funFact": "Its startle leap is so high that it often strikes the undersides of cars, a major cause of roadkill."
+ },
+ {
+  "slug": "gorilla-beringei",
+  "scientific": "Gorilla beringei",
+  "common": "Eastern gorilla (incl. mountain gorilla)",
+  "otherNames": [
+   "Ingagi (Kinyarwanda)",
+   "Mountain gorilla",
+   "Grauer's gorilla",
+   "Gorila de montaña (Spanish)",
+   "Gorila-da-montanha (Portuguese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Hominidae",
+  "shelves": [
+   "endangered",
+   "keystone"
+  ],
+  "summary": "The largest living primate, found in two subspecies: Grauer's gorilla of the lowland forests of eastern DR Congo, and the famous mountain gorilla of the Virunga volcanoes and Bwindi. Mountain gorillas, studied since Dian Fossey's work in the 1960s, have increased to just over 1,000 and were downlisted from Critically Endangered to Endangered in 2018, while the species as a whole remains Critically Endangered because Grauer's gorillas have declined sharply.",
+  "nativeRange": "Virunga Mountains (Rwanda, Uganda, DR Congo), Bwindi Impenetrable Forest (Uganda) and eastern DR Congo lowland and montane forests",
+  "regions": [
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Montane forest",
+   "Bamboo forest",
+   "Lowland rainforest"
+  ],
+  "abilities": [
+   "Silverback males can weigh over 200 kg and are several times stronger than people",
+   "Builds a fresh nest of leaves and branches to sleep in every night",
+   "Disperses seeds and opens gaps in forest through feeding and movement"
+  ],
+  "animal": {
+   "diet": "Mainly leaves, stems, shoots and pith (wild celery, nettles, bamboo shoots); fruit when available; occasional ants",
+   "habitat": "Montane and bamboo forest (mountain gorillas, up to about 4,000 m) and lowland rainforest (Grauer's)",
+   "lifespan": "About 35–40 years in the wild",
+   "size": "Males 1.5–1.8 m standing, 140–220 kg; females about half as heavy",
+   "behaviour": "Lives in groups led by one or more silverbacks. Males display by standing upright and beating their chests with cupped hands, a sound carrying over 1 km.",
+   "fieldMarks": [
+    "Very large black ape; mountain gorillas have long, thick, black hair",
+    "Adult males with a silver saddle on the back",
+    "Massive head with a prominent sagittal crest in males; broad nostrils",
+    "Signs: night nests on the ground with dung, trails of trampled vegetation and broken celery stems; knuckle prints"
+   ],
+   "voice": "Chest-beating 'pok-pok' drumming, hoots, roars and soft, contented 'belch' grumbles between group members.",
+   "lookalikes": "Western gorillas (Gorilla gorilla) of West and Central Africa are browner-grey, with a reddish crown and shorter hair. Chimpanzees are much smaller, with large ears and long arms.",
+   "whereToSee": "Volcanoes National Park (Rwanda); Bwindi Impenetrable and Mgahinga Gorilla national parks (Uganda); Virunga National Park (DR Congo); Kahuzi-Biega National Park (DR Congo, Grauer's gorilla)",
+   "season": "Resident; trekking runs year-round, drier months June–September and December–February are easiest",
+   "order": "Primates"
+  },
+  "iucn": "CR",
+  "lore": "Dian Fossey founded the Karisoke Research Center in Rwanda in 1967 and wrote 'Gorillas in the Mist' (1983) before her murder in 1985. Rwanda's annual Kwita Izina ceremony names each newborn mountain gorilla.",
+  "historicalNames": [
+   "Gorilla gorilla beringei",
+   "Gorilla graueri"
+  ],
+  "funFact": "The species is named for German officer Robert von Beringe, who shot two on Mount Sabyinyo in 1902, the first known to science."
+ },
+ {
+  "slug": "pan-paniscus",
+  "scientific": "Pan paniscus",
+  "common": "Bonobo",
+  "otherNames": [
+   "Pygmy chimpanzee",
+   "Bonobo (Spanish/Portuguese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Hominidae",
+  "shelves": [
+   "endangered",
+   "marvel"
+  ],
+  "summary": "One of humans' two closest living relatives, found only south of the Congo River in DR Congo. Unlike chimpanzees, bonobo societies are led by alliances of females, and they defuse tension with sexual and social contact rather than violence. They will even share food with strangers.",
+  "nativeRange": "Lowland rainforests of the Congo Basin south of the Congo River, DR Congo only",
+  "regions": [
+   "Sub-Saharan Africa"
+  ],
+  "biomes": [
+   "Lowland rainforest",
+   "Swamp forest"
+  ],
+  "abilities": [
+   "Shares DNA with humans at roughly the same level (about 98.7%) as chimpanzees",
+   "Shows empathy, consolation and sharing with unfamiliar individuals in experiments",
+   "Captive bonobo Kanzi learned to communicate with hundreds of lexigram symbols"
+  ],
+  "animal": {
+   "diet": "Fruit, leaves, pith, seeds, insects and occasionally small mammals",
+   "habitat": "Humid lowland forest and mosaic forest–savanna south of the Congo River",
+   "lifespan": "About 40 years",
+   "size": "70–83 cm sitting; males about 39 kg, females about 31 kg",
+   "behaviour": "Lives in fission–fusion communities of 30–80. Females form strong bonds and collectively dominate males.",
+   "fieldMarks": [
+    "Slender ape with long legs and a relatively small, round head",
+    "Black face from birth and pink lips",
+    "Long black hair parted neatly in the middle on the crown",
+    "Signs: night nests high in trees; high-pitched calls distinguish them from chimpanzee pant-hoots"
+   ],
+   "voice": "Higher-pitched hoots and whistles than chimpanzees, including a sharp, bird-like 'hi-hi' call.",
+   "lookalikes": "Chimpanzee (north of the Congo River) is more robust, with a paler face in youth, larger ears and no central hair parting. Ranges do not overlap.",
+   "whereToSee": "Lola ya Bonobo Sanctuary (near Kinshasa); Wamba and the Luo Scientific Reserve; LuiKotale and Salonga National Park; Lomako-Yokokala Faunal Reserve (all DR Congo)",
+   "season": "Resident year-round",
+   "order": "Primates"
+  },
+  "iucn": "EN",
+  "lore": "The bonobo was recognised as a distinct species only in 1929, from a skull in a Belgian museum. In the Wamba region, a Mongandu taboo against eating bonobos, who are seen as ancestral kin, helped protect them.",
+  "historicalNames": [
+   "Pan satyrus paniscus",
+   "Pygmy chimpanzee"
+  ],
+  "funFact": "Bonobos were not recognised as a species until 1929, more than 150 years after chimpanzees, because they look so similar."
+ },
+ {
+  "slug": "lemur-catta",
+  "scientific": "Lemur catta",
+  "common": "Ring-tailed lemur",
+  "otherNames": [
+   "Maky (Malagasy)",
+   "Hira (Malagasy)",
+   "Lémur catta (French)",
+   "Lémur de cola anillada (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Lemuridae",
+  "shelves": [
+   "endangered",
+   "marvel"
+  ],
+  "summary": "Madagascar's most familiar lemur, a sun-loving primate of dry forests and rocky canyons in the island's south and southwest. Troops are led by females, and males fight 'stink fights' by wiping their tails with scent and waving them at rivals. Although common in zoos, wild numbers have fallen steeply with forest loss and the pet trade.",
+  "nativeRange": "Southern and southwestern Madagascar",
+  "regions": [
+   "Madagascar"
+  ],
+  "biomes": [
+   "Dry deciduous forest",
+   "Spiny forest",
+   "Gallery forest",
+   "Rocky canyons"
+  ],
+  "abilities": [
+   "Sunbathes in a 'yoga' posture, belly and arms open to the morning sun",
+   "Males hold 'stink fights', anointing their tails with scent from wrist and chest glands",
+   "Spends more time on the ground than any other lemur"
+  ],
+  "animal": {
+   "diet": "Fruit (especially tamarind), leaves, flowers, bark, sap and insects",
+   "habitat": "Gallery forest along rivers, dry scrub, spiny forest and rocky outcrops",
+   "lifespan": "About 16–19 years in the wild",
+   "size": "Body about 40 cm, tail 55–62 cm; 2.2 kg",
+   "behaviour": "Lives in troops of up to about 30 with female dominance. Troop members huddle in 'lemur balls' to keep warm on cold nights.",
+   "fieldMarks": [
+    "Long black-and-white ringed tail (about 13 alternating black and white bands) held up like a flag when walking",
+    "Grey back and paler underside",
+    "White face with black eye-patches and a dark nose",
+    "Signs: troops on the ground and rocks; scent marks on saplings"
+   ],
+   "voice": "Cat-like mews to keep contact, loud yelps and wails as alarm calls, and a purring 'contented' call.",
+   "lookalikes": "No other lemur has a ringed tail. Brown and red-fronted lemurs are browner with plain tails.",
+   "whereToSee": "Anja Community Reserve; Isalo National Park; Berenty Private Reserve; Andringitra National Park; Tsimanampesotse National Park (all Madagascar)",
+   "season": "Resident; births in September–October, so young are seen clinging to mothers in spring",
+   "order": "Primates"
+  },
+  "iucn": "EN",
+  "lore": "Many Malagasy communities hold fady (taboos) against harming lemurs, and in Anja the community-run reserve has turned the species into a source of tourism income. Linnaeus described it in 1758 as the type of the genus Lemur, after the Roman spirits of the dead (lemures).",
+  "historicalNames": [
+   "Prosimia",
+   "Mococo",
+   "Maucauco"
+  ],
+  "funFact": "Surveys published in 2016–2017 counted only about 2,000–2,400 ring-tailed lemurs at the sites studied, raising fears the wild population had crashed; the true total is debated because many sites remain unsurveyed."
+ },
+ {
+  "slug": "loris-tardigradus",
+  "scientific": "Loris tardigradus",
+  "common": "Red slender loris",
+  "otherNames": [
+   "Unahapuluwa (Sinhala)",
+   "Thevāngu (Tamil, for slender lorises)",
+   "Slender loris"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Lorisidae",
+  "shelves": [
+   "endangered",
+   "marvel"
+  ],
+  "summary": "A tiny, pencil-limbed nocturnal primate of Sri Lanka's wet southwest, with enormous forward-facing eyes for hunting insects at night. It moves slowly and silently along branches, then lunges with both hands. The related grey slender loris lives in drier Sri Lanka and southern India.",
+  "nativeRange": "Endemic to the wet zone of southwestern Sri Lanka, including a highland form in the central hills",
+  "regions": [
+   "South Asia"
+  ],
+  "biomes": [
+   "Tropical lowland rainforest",
+   "Montane forest",
+   "Home gardens"
+  ],
+  "abilities": [
+   "Huge eyes with a reflective tapetum for vision in near darkness",
+   "Grasp so strong it can hang for long periods, aided by special blood vessels (retia mirabilia) in its limbs",
+   "Eats toxic or bad-tasting insects that other predators avoid"
+  ],
+  "animal": {
+   "diet": "Mostly insects (including ants and beetles), plus other invertebrates, small lizards, eggs and some plant matter",
+   "habitat": "Wet lowland and submontane forest and nearby gardens with dense vine tangles",
+   "lifespan": "About 15–18 years in captivity",
+   "size": "Body about 17–26 cm, no external tail; 85–170 g",
+   "behaviour": "Strictly nocturnal and arboreal. Sleeps by day curled up in a ball among dense foliage, often in small groups.",
+   "fieldMarks": [
+    "Very thin limbs and tiny body with no tail",
+    "Huge round eyes ringed with dark patches and divided by a white stripe down the nose",
+    "Reddish-brown fur (redder than the grey slender loris)",
+    "At night, eyes show bright orange-red eyeshine in torchlight; moves hand over hand slowly"
+   ],
+   "lookalikes": "Grey slender loris (Loris lydekkerianus) of Sri Lanka's dry zone and southern India is greyer with a paler underside. Slow lorises (northeast India and Southeast Asia) are much stockier.",
+   "whereToSee": "Masmullah Proposed Forest Reserve; Kottawa Forest and Kanneliya Forest Reserve; Sinharaja Forest Reserve (all Sri Lanka); best with a guided night walk",
+   "season": "Resident; active at night year-round",
+   "order": "Primates"
+  },
+  "iucn": "EN",
+  "lore": "In Sri Lankan and South Indian folk belief, loris eyes and body parts were used in charms and remedies, which, with the pet trade, has long contributed to their persecution.",
+  "historicalNames": [
+   "Lemur tardigradus",
+   "Loris",
+   "Lory"
+  ],
+  "funFact": "Its species name tardigradus means 'slow-stepping', the same root as the microscopic tardigrades."
+ },
+ {
+  "slug": "sarcophilus-harrisii",
+  "scientific": "Sarcophilus harrisii",
+  "common": "Tasmanian devil",
+  "otherNames": [
+   "Devil",
+   "Diablo de Tasmania (Spanish)",
+   "Diabo-da-tasmânia (Portuguese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Dasyuridae",
+  "shelves": [
+   "endangered",
+   "keystone",
+   "marvel"
+  ],
+  "summary": "The largest surviving carnivorous marsupial, a stocky, black scavenger with a bone-crushing bite and a spine-tingling screech. Since the 1990s a transmissible cancer, devil facial tumour disease, has killed the majority of wild devils, spread directly by bites. Insurance populations on Maria Island and in mainland sanctuaries now help safeguard the species.",
+  "nativeRange": "Tasmania; extinct on the Australian mainland for about 3,000 years (small reintroduced populations in New South Wales sanctuaries since 2020)",
+  "regions": [
+   "Australia"
+  ],
+  "biomes": [
+   "Temperate forest",
+   "Coastal scrub",
+   "Woodland",
+   "Farmland"
+  ],
+  "abilities": [
+   "Among the strongest bites for its size of any living mammal, crushing bone and eating almost every part of a carcass",
+   "Clears carcasses and suppresses feral cats, helping protect small native mammals",
+   "Travels up to about 16 km a night foraging"
+  ],
+  "animal": {
+   "diet": "Mainly carrion (wallabies, possums, wombats, livestock); also hunts small animals",
+   "habitat": "Forest, woodland, coastal heath and farmland across Tasmania",
+   "lifespan": "About 5–6 years in the wild",
+   "size": "Body 52–80 cm, tail 23–30 cm; 6–12 kg (males larger)",
+   "behaviour": "Solitary but gathers noisily at carcasses, sorting out feeding order with screams, growls and gaping displays. Young spend about 100 days in the pouch.",
+   "fieldMarks": [
+    "Stocky, dog-sized black marsupial with a large head and short legs",
+    "White band across the chest and often white patches on the rump",
+    "Ears flush pink-red when the animal is stressed",
+    "Tracks: five-toed front, four-toed hind; signs include large scats full of bone and fur fragments on tracks"
+   ],
+   "voice": "Unearthly screeches, growls and high-pitched screams, especially at shared carcasses at night.",
+   "lookalikes": "Spotted-tailed quoll is smaller, slimmer and covered in white spots. Feral cats have pointed ears and long tails.",
+   "whereToSee": "Cradle Mountain–Lake St Clair National Park and Narawntapu National Park (Tasmania); Maria Island (insurance population); Bonorong and Devils@Cradle sanctuaries; Aussie Ark, Barrington Tops (NSW)",
+   "season": "Resident; breeding in March; juveniles disperse in late summer",
+   "order": "Dasyuromorphia"
+  },
+  "iucn": "EN",
+  "lore": "Early European settlers in Tasmania named it the 'devil' after its unearthly nocturnal screams. With the extinction of the thylacine in 1936, it became the world's largest surviving carnivorous marsupial.",
+  "historicalNames": [
+   "Didelphis ursina",
+   "Native devil",
+   "Dasyurus ursinus"
+  ],
+  "funFact": "Devil facial tumour disease is one of very few known contagious cancers: the tumour cells themselves are transmitted between animals."
+ },
+ {
+  "slug": "vombatus-ursinus",
+  "scientific": "Vombatus ursinus",
+  "common": "Common wombat",
+  "otherNames": [
+   "Bare-nosed wombat",
+   "Wambad (Dharug, origin of 'wombat')",
+   "Wombat común (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Vombatidae",
+  "shelves": [
+   "marvel",
+   "keystone"
+  ],
+  "summary": "A sturdy, burrowing marsupial of southeastern Australia and Tasmania, famous for its cube-shaped droppings. Its backward-facing pouch keeps soil out while digging, and its burrows give shelter to many other animals, notably during bushfires.",
+  "nativeRange": "Southeastern Australia (New South Wales, Victoria, southeastern South Australia and Queensland border), Tasmania and Flinders Island",
+  "regions": [
+   "Australia"
+  ],
+  "biomes": [
+   "Temperate forest",
+   "Woodland",
+   "Heath",
+   "Alpine grassland"
+  ],
+  "abilities": [
+   "Produces cube-shaped scats, shaped by varying elasticity of the intestinal wall",
+   "Backward-facing pouch prevents soil entering when digging",
+   "Digs burrow systems up to about 20 m long",
+   "Tough cartilage plate on the rump blocks burrow entrances against predators"
+  ],
+  "animal": {
+   "diet": "Grasses, sedges, roots and tubers",
+   "habitat": "Forest, woodland, heath and grassland with suitable digging soil",
+   "lifespan": "About 15 years in the wild",
+   "size": "About 1 m long; 20–35 kg",
+   "behaviour": "Mostly nocturnal; grazes slowly, but can sprint at about 40 km/h. Leaves scats on rocks and logs as territorial markers.",
+   "fieldMarks": [
+    "Silhouette: low, barrel-shaped, almost tailless animal with a broad head",
+    "Coarse fur, grey-brown to sandy or black",
+    "Large, hairless, granular nose; short rounded ears",
+    "Signs: cube-shaped scats placed on rocks, logs and track edges; large burrow entrances with spoil heaps"
+   ],
+   "lookalikes": "Southern hairy-nosed wombat has a furry nose, longer pointed ears and silkier fur, and lives in drier South Australia. Echidnas are spiny.",
+   "whereToSee": "Maria Island and Cradle Mountain (Tasmania); Wilsons Promontory (Victoria); Bendeela Recreation Area, Kangaroo Valley (New South Wales); Kosciuszko National Park",
+   "season": "Resident; often active by day in cool winter weather",
+   "order": "Diprotodontia"
+  },
+  "iucn": "LC",
+  "lore": "The word 'wombat' comes from the Dharug language of the Sydney area. The Pre-Raphaelite poet Dante Gabriel Rossetti kept a pet wombat in London in 1869.",
+  "historicalNames": [
+   "Didelphis ursina",
+   "Wombach",
+   "Phascolomys"
+  ],
+  "funFact": "A wombat can produce around 80–100 cube-shaped scats a night."
+ },
+ {
+  "slug": "tachyglossus-aculeatus",
+  "scientific": "Tachyglossus aculeatus",
+  "common": "Short-beaked echidna",
+  "otherNames": [
+   "Spiny anteater",
+   "Equidna (Spanish/Portuguese)",
+   "Échidné à nez court (French)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Tachyglossidae",
+  "shelves": [
+   "ancient",
+   "marvel"
+  ],
+  "summary": "One of only five living monotremes, the egg-laying mammals. A spine-covered ant- and termite-eater with a sticky tongue, it is found across almost all of Australia and in New Guinea. Females lay a single leathery egg into a temporary pouch and suckle the hatchling from milk patches, without nipples.",
+  "nativeRange": "Australia (all states including Tasmania and Kangaroo Island) and lowland southern New Guinea",
+  "regions": [
+   "Australia",
+   "Oceania"
+  ],
+  "biomes": [
+   "Forest",
+   "Woodland",
+   "Desert",
+   "Alpine",
+   "Grassland"
+  ],
+  "abilities": [
+   "Lays eggs; the young ('puggle') hatches in the pouch after about 10 days",
+   "Snout carries electroreceptors that may detect insects in moist soil",
+   "Digs straight down into soil within minutes to escape predators, leaving only spines exposed",
+   "Enters torpor and hibernation, dropping its body temperature to a few degrees above the surroundings"
+  ],
+  "animal": {
+   "diet": "Ants, termites, beetle larvae and earthworms",
+   "habitat": "Almost every terrestrial habitat in Australia, from snowfields to deserts",
+   "lifespan": "Up to about 45 years in the wild",
+   "size": "30–45 cm; 2–7 kg",
+   "behaviour": "Solitary. In winter, 'echidna trains' form, with up to 10 or more males following a female nose-to-tail for days.",
+   "fieldMarks": [
+    "Round, spine-covered body with cream, black-tipped spines among brown fur",
+    "Slim, tube-like hairless snout (beak)",
+    "Short legs with powerful digging claws; hind feet point backwards",
+    "Signs: snout-sized holes in soil, torn open termite mounds and ant nests, scats full of ant remains and soil; tracks show backward-pointing hind claws"
+   ],
+   "lookalikes": "No other Australian mammal has spines. Introduced hedgehogs do not occur in Australia. Long-beaked echidnas (New Guinea highlands) are larger with longer, downcurved snouts.",
+   "whereToSee": "Kangaroo Island (South Australia); Tasmania, e.g. Freycinet and Cradle Mountain; Wilsons Promontory (Victoria); Royal National Park (New South Wales); widespread in bushland",
+   "season": "Resident; most active on mild days in spring; echidna trains June–September",
+   "order": "Monotremata"
+  },
+  "iucn": "LC",
+  "lore": "An echidna appears on the Australian five-cent coin. In many Aboriginal traditions stories explain how the echidna got its spines, often through a fight or punishment involving spears.",
+  "historicalNames": [
+   "Myrmecophaga aculeata",
+   "Echidna",
+   "Porcupine anteater"
+  ],
+  "funFact": "When first described in 1792 it was thought to be a type of anteater; its egg-laying was confirmed only in 1884."
+ },
+ {
+  "slug": "desmodus-rotundus",
+  "scientific": "Desmodus rotundus",
+  "common": "Common vampire bat",
+  "otherNames": [
+   "Vampiro común (Spanish)",
+   "Morcego-vampiro (Portuguese)",
+   "Murciélago vampiro (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Phyllostomidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "The only mammals that feed exclusively on blood, vampire bats make a tiny cut in sleeping livestock or wild mammals and lap the flowing blood. Heat-sensing pits on the nose guide them to blood vessels near the skin, and their saliva contains anticoagulants studied for stroke drugs. Roostmates famously share regurgitated blood with those who failed to feed.",
+  "nativeRange": "Mexico through Central America to northern Chile, Argentina and Uruguay; Trinidad and Margarita islands",
+  "regions": [
+   "North America",
+   "Central America",
+   "South America",
+   "Caribbean"
+  ],
+  "biomes": [
+   "Tropical forest",
+   "Dry forest",
+   "Grassland with livestock",
+   "Caves"
+  ],
+  "abilities": [
+   "Senses infrared heat with nose pits, using a specially modified TRPV1 receptor",
+   "Saliva anticoagulant (draculin and plasminogen activators) keeps blood flowing; a derivative, desmoteplase, was trialled as a stroke drug",
+   "Runs and leaps on the ground on its forelimbs, unusual for a bat",
+   "Shares blood with hungry roostmates, preferring those who shared with them before"
+  ],
+  "animal": {
+   "diet": "Blood of mammals, mainly cattle, horses and pigs; also wild mammals",
+   "habitat": "Caves, hollow trees, mines and buildings within reach of mammal prey",
+   "lifespan": "Up to about 29 years in captivity; about 9 in the wild",
+   "size": "Body 7–9 cm, wingspan about 35–40 cm; 25–40 g",
+   "behaviour": "Leaves the roost after full darkness, often avoiding bright moonlight. Drinks about half its own body weight in blood in a 20–30 minute feed.",
+   "fieldMarks": [
+    "Short, flat, pug-like snout with a small U-shaped nose-leaf",
+    "Long, strong thumbs used for walking",
+    "No tail; grey-brown fur",
+    "Sharp, blade-like upper incisors; signs include small cuts and blood trickles on livestock, and roosts that smell of ammonia with dark, tarry droppings"
+   ],
+   "lookalikes": "White-winged and hairy-legged vampire bats (Diaemus, Diphylla) feed mainly on birds and have white wing-tips or furry legs. Fruit-eating leaf-nosed bats have tall spear-shaped nose leaves.",
+   "whereToSee": "Lamanai Archaeological Reserve (Belize, night bat tours); caves of Mexico's Yucatán; Pantanal and Amazon cattle ranches (Brazil)",
+   "season": "Resident year-round",
+   "order": "Chiroptera"
+  },
+  "iucn": "LC",
+  "lore": "European naturalists named it after the vampire of Slavic folklore; in turn, Bram Stoker's Dracula (1897) gave the bat a central place in vampire fiction. Rabies spread by vampire bats is a major veterinary problem across Latin America.",
+  "historicalNames": [
+   "Phyllostoma rotundum",
+   "Vampyr"
+  ],
+  "funFact": "A vampire bat that misses two nights of blood meals can starve, which is why sharing among roostmates matters so much."
+ },
+ {
+  "slug": "plecotus-auritus",
+  "scientific": "Plecotus auritus",
+  "common": "Brown long-eared bat",
+  "otherNames": [
+   "Oreillard roux (French)",
+   "Braunes Langohr (German)",
+   "Langøre (Danish)",
+   "Murciélago orejudo dorado (Spanish)",
+   "Morcego-orelhudo-castanho (Portuguese)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Vespertilionidae",
+  "shelves": [
+   "marvel"
+  ],
+  "summary": "A small woodland bat with ears almost as long as its body, which it uses to hear the rustling of insects on leaves. It 'whispers' its echolocation calls and often picks moths and spiders off foliage, hovering in the canopy. It commonly roosts in the roof spaces of old houses, barns and churches.",
+  "nativeRange": "Europe from Ireland and Iberia to the Urals, the Caucasus and western Siberia",
+  "regions": [
+   "Europe",
+   "West Asia",
+   "Central Asia"
+  ],
+  "biomes": [
+   "Temperate forest",
+   "Parkland",
+   "Gardens",
+   "Buildings"
+  ],
+  "abilities": [
+   "Ears about three-quarters the length of its head and body",
+   "Very quiet, low-intensity echolocation, plus passive listening to prey sounds",
+   "Gleans prey off leaves and can hover",
+   "Hibernates in caves, cellars and trees, sometimes with ears tucked under the wings"
+  ],
+  "animal": {
+   "diet": "Moths, beetles, earwigs, spiders and other arthropods",
+   "habitat": "Woodland, wooded gardens and parks; roosts in attics, barns, churches and tree holes",
+   "lifespan": "Usually 4–5 years; up to about 30",
+   "size": "Body 4–5 cm, wingspan 23–28 cm; 6–12 g",
+   "behaviour": "Often carries large moths to a favourite perch to eat, leaving discarded wings in piles beneath.",
+   "fieldMarks": [
+    "Enormous ears joined at the base over the forehead",
+    "At rest, ears folded back under the wings, leaving the long pointed tragus showing",
+    "Fluffy brown fur, pale below; pinkish-brown face",
+    "Signs: piles of moth and butterfly wings under porches or barn rafters (feeding perches); droppings in attics"
+   ],
+   "lookalikes": "Grey long-eared bat (Plecotus austriacus) is greyer, with a darker face and longer tragus; reliable separation often needs measurements. Other bats have much shorter ears.",
+   "whereToSee": "Old churches, barns and country houses in Britain and Ireland; woodlands across Scandinavia and central Europe; Bat Conservation Trust and similar guided bat walks",
+   "season": "Active roughly April–October; hibernates November–March",
+   "order": "Chiroptera"
+  },
+  "iucn": "LC",
+  "lore": "Long-eared bats in church roofs are a classic part of English rural life; in the UK all bat species and roosts are protected by law. In medieval Europe bats were linked with witchcraft and the night.",
+  "historicalNames": [
+   "Vespertilio auritus",
+   "Rere-mouse",
+   "Flittermouse"
+  ],
+  "funFact": "It can hear a ladybird walking on a leaf, using sound alone to find prey."
+ },
+ {
+  "slug": "condylura-cristata",
+  "scientific": "Condylura cristata",
+  "common": "Star-nosed mole",
+  "otherNames": [
+   "Condylure étoilé (French)",
+   "Topo de nariz estrellada (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Talpidae",
+  "shelves": [
+   "marvel",
+   "freshwater"
+  ],
+  "summary": "A wetland mole whose nose is ringed by 22 pink, fleshy tentacles, the most sensitive touch organ known in any mammal. It touches its surroundings about 10 times a second and can identify and eat a prey item in a fraction of a second. It also swims and forages underwater.",
+  "nativeRange": "Eastern Canada and northeastern USA, south along the Appalachians to Georgia; also coastal Carolinas",
+  "regions": [
+   "North America"
+  ],
+  "biomes": [
+   "Wetland",
+   "Wet meadow",
+   "Stream banks",
+   "Bogs"
+  ],
+  "abilities": [
+   "Its star carries about 25,000 touch receptors (Eimer's organs) served by over 100,000 nerve fibres",
+   "Identifies and eats prey in as little as about 120 milliseconds, among the fastest foragers known",
+   "Smells underwater by blowing out air bubbles and re-inhaling them",
+   "Swims well and tunnels into stream banks and under ice"
+  ],
+  "animal": {
+   "diet": "Aquatic insects, worms, small crustaceans, molluscs and small fish",
+   "habitat": "Poorly drained wet soils of marshes, bogs, wet meadows and stream banks",
+   "lifespan": "About 3–4 years",
+   "size": "Body 10–13 cm, tail 6–8 cm; 35–75 g",
+   "behaviour": "Active day and night year-round, foraging in tunnels, on the surface and underwater, even under winter ice.",
+   "fieldMarks": [
+    "Unmistakable ring of 22 pink fleshy rays around the nostrils",
+    "Dark, dense, water-repellent fur",
+    "Long hairy tail (thickens in winter as fat is stored)",
+    "Broad digging forefeet; signs include molehills in wet soil and tunnels leading into water"
+   ],
+   "lookalikes": "Eastern and hairy-tailed moles lack the star and live in drier soils; shrews are smaller with pointed snouts.",
+   "whereToSee": "Rarely seen; wet meadows and bog edges in Nova Scotia and Quebec; Great Smoky Mountains National Park; Adirondacks (New York); often found by cats or in pitfall surveys",
+   "season": "Resident; active year-round",
+   "order": "Eulipotyphla"
+  },
+  "iucn": "LC",
+  "lore": "It was described by Linnaeus in 1758 as Sorex cristatus; neuroscientist Kenneth Catania's studies since the 1990s made the star a model for how brains map touch.",
+  "historicalNames": [
+   "Sorex cristatus",
+   "Talpa cristata"
+  ],
+  "funFact": "Despite its appearance, the star is not used to grab food; it is purely a touch organ, while the mole's teeth do the eating."
+ },
+ {
+  "slug": "nycticebus-bengalensis",
+  "scientific": "Nycticebus bengalensis",
+  "common": "Bengal slow loris",
+  "otherNames": [
+   "Lajjābatī bānor (Bengali, 'shy monkey')",
+   "Northern slow loris",
+   "Lori perezoso de Bengala (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Lorisidae",
+  "shelves": [
+   "venomous",
+   "endangered",
+   "marvel"
+  ],
+  "summary": "The largest slow loris and one of the world's few venomous primates. When threatened it raises its arms over its head, licks a gland on the inner elbow, and mixes the secretion with saliva to deliver a painful, sometimes dangerous bite. It is the only slow loris in India and is heavily hunted for the pet and traditional-medicine trades.",
+  "nativeRange": "Northeast India, Bangladesh, Myanmar, southern China, Thailand, Laos, Cambodia and Vietnam",
+  "regions": [
+   "South Asia",
+   "Southeast Asia",
+   "East Asia"
+  ],
+  "biomes": [
+   "Tropical evergreen forest",
+   "Semi-evergreen forest",
+   "Bamboo forest"
+  ],
+  "abilities": [
+   "Brachial (elbow) gland secretion combined with saliva makes a toxic bite that can cause severe swelling and anaphylactic shock in people",
+   "Its grip can hold for hours, aided by networks of blood vessels in the limbs",
+   "Feeds on tree gum by gouging bark with its tooth-comb, an important dry-season food"
+  ],
+  "animal": {
+   "diet": "Plant gum and sap, nectar, fruit, insects, snails, birds' eggs",
+   "habitat": "Evergreen and semi-evergreen forest and bamboo groves with continuous canopy",
+   "lifespan": "About 20 years in captivity",
+   "size": "Body 26–38 cm; 1–2.1 kg; tail vestigial",
+   "behaviour": "Nocturnal and slow-moving, but capable of quick lunges. Sleeps curled in a ball in dense foliage by day.",
+   "fieldMarks": [
+    "Stocky, woolly primate with a round head and almost no tail",
+    "Dark brown stripe along the spine reaching the crown",
+    "Large eyes encircled by dark rings with a white stripe between",
+    "Bright orange eyeshine in torchlight at night; slow, deliberate climbing"
+   ],
+   "lookalikes": "Pygmy slow loris (Indochina) is much smaller and redder. Slender lorises are thin-limbed and live only in southern India and Sri Lanka.",
+   "whereToSee": "Hollongapar Gibbon Sanctuary (Assam); Lawachara National Park (Bangladesh); Dampa Tiger Reserve (Mizoram); Khao Yai National Park (Thailand); night walks with guides",
+   "season": "Resident year-round",
+   "order": "Primates"
+  },
+  "iucn": "EN",
+  "lore": "In Bengali it is called the 'shy monkey' (lajjabati banor) because it covers its face with its hands when caught in light. Its body parts have been sold in markets in Southeast Asia and China for traditional remedies.",
+  "historicalNames": [
+   "Lori bengalensis",
+   "Slow-paced lemur"
+  ],
+  "funFact": "Slow lorises are the only primates confirmed to produce venom."
+ },
+ {
+  "slug": "solenodon-paradoxus",
+  "scientific": "Solenodon paradoxus",
+  "common": "Hispaniolan solenodon",
+  "otherNames": [
+   "Solenodonte (Spanish)",
+   "Solenodon de La Española (Spanish)"
+  ],
+  "kingdom": "Animalia",
+  "form": "Mammal",
+  "family": "Solenodontidae",
+  "shelves": [
+   "venomous",
+   "ancient",
+   "marvel"
+  ],
+  "summary": "A nocturnal, shrew-like insectivore of Hispaniola that injects venom through grooves in its lower incisors, one of very few venomous mammals. Its lineage split from other insectivores around 70–78 million years ago, before the asteroid that ended the dinosaurs, making it a living link to the Cretaceous mammal fauna.",
+  "nativeRange": "Hispaniola (Dominican Republic and Haiti)",
+  "regions": [
+   "Caribbean"
+  ],
+  "biomes": [
+   "Tropical dry forest",
+   "Moist forest",
+   "Karst limestone forest",
+   "Scrub"
+  ],
+  "abilities": [
+   "Delivers toxic saliva through a deep groove in each second lower incisor ('solenodon' means 'grooved tooth')",
+   "Lineage survived the end-Cretaceous mass extinction",
+   "Long, flexible snout supported by a ball-and-socket joint probes crevices"
+  ],
+  "animal": {
+   "diet": "Insects, spiders, millipedes, worms, small vertebrates and some fruit",
+   "habitat": "Forest and scrub with limestone crevices, caves and hollow logs for shelter",
+   "lifespan": "Several years; up to about 11 in captivity",
+   "size": "Body 28–33 cm, tail 17–26 cm; 0.6–1 kg",
+   "behaviour": "Nocturnal. Females have teats far back near the hips, and young may be dragged along clinging to them.",
+   "fieldMarks": [
+    "Large, rat-sized shrew-like animal with a very long, naked, flexible snout",
+    "Small eyes and coarse brown fur with reddish sides of the head",
+    "Long, naked, scaly tail",
+    "Signs: conical 'nose-pokes' in leaf litter and soil where it has probed for invertebrates"
+   ],
+   "lookalikes": "Cuban solenodon (Atopogale cubana) lives only in eastern Cuba. Introduced rats and mongooses lack the long probing snout and odd, waddling gait.",
+   "whereToSee": "Very hard to see; nocturnal surveys in Sierra de Bahoruco and Jaragua national parks, Los Haitises and Pedernales (Dominican Republic); Massif de la Hotte (Haiti)",
+   "season": "Resident year-round",
+   "order": "Eulipotyphla"
+  },
+  "iucn": "LC",
+  "lore": "The Hispaniolan solenodon was described by Johann Friedrich Brandt in 1833 from a specimen sent from Haiti, and was so unusual it was named 'paradoxus'. Long listed as Endangered, it was downlisted to Least Concern by the IUCN in 2020 as surveys showed it to be more widespread than feared.",
+  "historicalNames": [
+   "Solenodon paradoxus"
+  ],
+  "funFact": "Introduced dogs, cats and small Indian mongooses are its main predators: the solenodon evolved without fast-moving carnivores."
+ }
+]
