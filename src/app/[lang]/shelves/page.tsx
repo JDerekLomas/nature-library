@@ -31,9 +31,9 @@ export default async function ShelvesPage({ params }: { params: Promise<{ lang: 
                   <span className="block mt-2 text-ink-2 leading-relaxed max-w-[60ch]">{s.blurb}</span>
                   <span className="block mt-2 label text-ink-2">{t.volumes(items.length)}</span>
                 </span>
-                <span className="flex gap-1.5 justify-end">
+                <span className="flex gap-1.5 md:justify-end min-w-0">
                   {items.slice(0, 5).map((e) => (
-                    <span key={e.slug} className="w-[72px] h-[92px] bg-paper-3 overflow-hidden shrink-0 border rule">
+                    <span key={e.slug} className="flex-1 max-w-[72px] aspect-[72/92] bg-paper-3 overflow-hidden border rule">
                       {e.photos?.[0] && (
                         // eslint-disable-next-line @next/next/no-img-element
                         <img src={e.photos[0].square || e.photos[0].url} alt="" loading="lazy" className="w-full h-full object-cover saturate-[.8] group-hover:saturate-100" />

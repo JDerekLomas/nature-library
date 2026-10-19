@@ -8,7 +8,6 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
   return { title: t.metaTitle, description: t.metaDesc };
 }
 
-export const dynamic = "force-dynamic";
 
 export default async function IdentifyPage({ params }: { params: Promise<{ lang: string }> }) {
   const t = dict(asLang((await params).lang)).identify;

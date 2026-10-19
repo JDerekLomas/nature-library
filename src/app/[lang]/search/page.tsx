@@ -15,7 +15,9 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
 
 export default async function SearchPage({ params, searchParams }: { params: Promise<{ lang: string }>; searchParams: Promise<{ q?: string }> }) {
   const lang = asLang((await params).lang);
-  const tt = dict(lang).rooms.search;
+  const T = dict(lang);
+  const tt = T.rooms.search;
+  const R = T.common.ranks;
   const L = (p: string) => lp(lang, p);
   const q = ((await searchParams).q ?? "").trim();
   const local = q ? searchCodex(q, codexIn(lang)) : [];
@@ -48,7 +50,7 @@ export default async function SearchPage({ params, searchParams }: { params: Pro
           )}
           <section className="mt-12">
             <p className="label text-ink-2 border-b border-ink pb-2">{tt.inInat(open.length)}</p>
-            <ul className="grid sm:grid-cols-2 lg:grid-cols-3 gap-x-8 mt-2">
+            <ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-8 mt-2">
               {open.map((t) => (
                 <li key={t.id} className="border-b rule">
                   <Link href={L(`/taxon/${t.id}`)} className="flex items-center gap-4 py-3 group">
@@ -61,7 +63,7 @@ export default async function SearchPage({ params, searchParams }: { params: Pro
                     <span className="min-w-0">
                       <span className="block group-hover:text-moss truncate">{t.preferred_common_name || t.name}</span>
                       <span className="block text-sm text-ink-2 truncate">
-                        <i>{t.name}</i> · {t.rank} · {t.observations_count.toLocaleString(LOCALE[lang])} obs.
+                        <i>{t.name}</i> · {(R[t.rank] ?? t.rank).toLowerCase()} · {T.common.observations(t.observations_count.toLocaleString(LOCALE[lang]))}
                       </span>
                     </span>
                   </Link>
@@ -72,7 +74,7 @@ export default async function SearchPage({ params, searchParams }: { params: Pro
           {catalogued.length > 0 && (
             <section className="mt-12">
               <p className="label text-ink-2 border-b border-ink pb-2">{tt.inGbif(catalogued.length)}</p>
-              <ul className="grid sm:grid-cols-2 lg:grid-cols-3 gap-x-8 mt-2">
+              <ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-8 mt-2">
                 {catalogued.map((g) => (
                   <li key={g.key} className="border-b rule">
                     <Link href={L(`/gbif/${g.key}?stay=1`)} className="block py-3 group">
@@ -80,7 +82,7 @@ export default async function SearchPage({ params, searchParams }: { params: Pro
                         <i>{g.canonicalName}</i> <span className="text-ink-2 text-sm">{g.authorship}</span>
                       </span>
                       <span className="block text-sm text-ink-2">
-                        {g.rank.toLowerCase()} · {[g.kingdom, g.class, g.family].filter(Boolean).join(" › ")}
+                        {(R[g.rank.toLowerCase()] ?? g.rank).toLowerCase()} · {[g.kingdom, g.class, g.family].filter(Boolean).join(" › ")}
                       </span>
                     </Link>
                   </li>

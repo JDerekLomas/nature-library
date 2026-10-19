@@ -30,7 +30,7 @@ export default async function Corrections({ params }: { params: Promise<{ lang: 
           {log.summary && <p className="label text-ink-2 mt-3">{log.summary}</p>}
           <ol className="mt-4 space-y-4">
             {log.changes.map((c, i) => (
-              <li key={i} className="grid md:grid-cols-[220px_1fr] gap-x-6 gap-y-1 border-b rule pb-4" id={resolve(c.species)}>
+              <li key={i} className="grid grid-cols-1 md:grid-cols-[220px_1fr] gap-x-6 gap-y-1 border-b rule pb-4" id={resolve(c.species)}>
                 <div>
                   {resolve(c.species) ? (
                     <Link href={L(`/species/${resolve(c.species)}`)} className="hover:text-moss">

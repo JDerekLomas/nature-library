@@ -127,7 +127,8 @@
   "shelves": [
    "medicinal",
    "pollinator-plant",
-   "toxic"
+   "toxic",
+   "edible"
   ],
   "summary": "A feathery-leaved perennial of meadows and roadsides found across most of the Northern Hemisphere, named for Achilles, who by legend used it to stop his soldiers' bleeding. Its flat-topped white flower clusters are visited by hundreds of insect species.",
   "nativeRange": "Circumboreal: Europe, temperate Asia and North America (where both native and introduced forms occur)",
@@ -1323,7 +1324,7 @@
    "One plant bears several very different seed shapes (heterocarpy), spreading its bets on dispersal",
    "Flowers open in sunshine and close in dull weather"
   ],
-  "edibility": "edible",
+  "edibility": "edible-with-care",
   "edibleParts": [
    "petals",
    "young leaves"
@@ -4091,7 +4092,8 @@
   "form": "Herb",
   "family": "Plantaginaceae",
   "shelves": [
-   "medicinal"
+   "medicinal",
+   "edible"
   ],
   "summary": "A small, creeping, succulent-leaved marsh herb found in wetlands across the tropics. Ayurveda prizes it as a medhya rasayana, a tonic for memory and learning, and it is one of the better-studied herbal 'nootropics'.",
   "nativeRange": "Pantropical and warm-temperate wetlands of Asia, Africa, Australia and the Americas (including the southern USA)",
@@ -4341,7 +4343,7 @@
    "Sterile triploid: every plant is a clone, multiplied only by daughter corms",
    "Flowers in autumn, before its leaves fully emerge"
   ],
-  "edibility": "edible",
+  "edibility": "edible-with-care",
   "edibleParts": [
    "dried stigmas (spice)"
   ],

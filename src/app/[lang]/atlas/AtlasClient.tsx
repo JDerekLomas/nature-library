@@ -38,15 +38,15 @@ interface Hit {
 
 const fmt = (lon: number, lat: number) => `${Math.abs(lat).toFixed(3)}°${lat >= 0 ? "N" : "S"}, ${Math.abs(lon).toFixed(3)}°${lon >= 0 ? "E" : "W"}`;
 
-const PLACES: { name: string; q: string; ll: [number, number] }[] = [
-  { name: "Amazon basin", q: "Amazon basin", ll: [-62, -3.5] },
-  { name: "Indus delta", q: "Indus delta", ll: [67.5, 24.4] },
-  { name: "Great Barrier Reef", q: "Great Barrier Reef", ll: [146.5, -18] },
-  { name: "Madagascar", q: "Madagascar", ll: [46.9, -19] },
-  { name: "Hunza", q: "Hunza", ll: [74.66, 36.32] },
-  { name: "Borneo", q: "Borneo", ll: [114, 1] },
-  { name: "Serengeti", q: "Serengeti", ll: [34.8, -2.3] },
-  { name: "Galápagos", q: "Galápagos", ll: [-90.5, -0.7] },
+const PLACES: { name: string; es: string; ll: [number, number] }[] = [
+  { name: "Amazon basin", es: "Cuenca amazónica", ll: [-62, -3.5] },
+  { name: "Indus delta", es: "Delta del Indo", ll: [67.5, 24.4] },
+  { name: "Great Barrier Reef", es: "Gran Barrera de Coral", ll: [146.5, -18] },
+  { name: "Madagascar", es: "Madagascar", ll: [46.9, -19] },
+  { name: "Hunza", es: "Hunza", ll: [74.66, 36.32] },
+  { name: "Borneo", es: "Borneo", ll: [114, 1] },
+  { name: "Serengeti", es: "Serengeti", ll: [34.8, -2.3] },
+  { name: "Galápagos", es: "Galápagos", ll: [-90.5, -0.7] },
 ];
 
 const RADII = [2, 5, 10, 25, 50, 200];
@@ -141,6 +141,12 @@ export default function AtlasClient() {
   const [resolving, setResolving] = useState(false);
   const [copied, setCopied] = useState(false);
   const box = useRef<HTMLDivElement>(null);
+  const [listErr, setListErr] = useState(false);
+  const [retry, setRetry] = useState(0);
+  const skipSearch = useRef(false); // a place was just chosen: don't reopen the suggestions for its label
+  const req = useRef(0); // latest boundary lookup wins
+  // the species list depends on where (as a search scope) and what, not on the place's display label
+  const scope = where ? (where.placeId ? `place_id=${where.placeId}` : `lat=${where.lat}&lng=${where.lon}&radius=${where.radius}`) : null;
 
   // restore a shared view from the URL
   useEffect(() => {
@@ -187,25 +193,40 @@ export default function AtlasClient() {
 
   // species list
   useEffect(() => {
-    if (!where) return;
+    if (!scope) return;
     const ctl = new AbortController();
     if (page === 1) setList(null);
+    setListErr(false);
     const iconic = layer.inat ? `&taxon_id=${layer.inat}` : "";
-    const scope = where.placeId ? `place_id=${where.placeId}` : `lat=${where.lat}&lng=${where.lon}&radius=${where.radius}`;
     fetch(`https://api.inaturalist.org/v1/observations/species_counts?${scope}&verifiable=true&per_page=60&page=${page}${iconic}&locale=${lang}`, { signal: ctl.signal })
-      .then((r) => r.json())
+      .then((r) => {
+        if (!r.ok) throw new Error(String(r.status));
+        return r.json();
+      })
       .then((j) => {
-        setList((prev) => (page === 1 ? j.results || [] : [...(prev ?? []), ...(j.results || [])]));
+        setList((prev) => {
+          if (page === 1) return j.results || [];
+          const have = new Set((prev ?? []).map((x) => x.taxon.id));
+          return [...(prev ?? []), ...(j.results || []).filter((x: SpeciesCount) => !have.has(x.taxon.id))];
+        });
         setTotal(j.total_results || 0);
       })
-      .catch(() => {});
+      .catch((e) => {
+        if (e?.name === "AbortError") return;
+        setListErr(true);
+        setList((prev) => prev ?? []);
+      });
     return () => ctl.abort();
-  }, [where, layer, page]);
+  }, [scope, layer.inat, page, lang, retry]);
 
   // place search
   useEffect(() => {
     if (q.trim().length < 2) {
       setHits([]);
+      return;
+    }
+    if (skipSearch.current) {
+      skipSearch.current = false;
       return;
     }
     const ctl = new AbortController();
@@ -228,7 +249,9 @@ export default function AtlasClient() {
   }, []);
 
   const goTo = useCallback(async (h: Hit) => {
+    const id = ++req.current;
     setOpen(false);
+    skipSearch.current = true;
     setQ(h.label);
     setPage(1);
     setFocus([h.lon, h.lat]);
@@ -236,6 +259,7 @@ export default function AtlasClient() {
     if (h.admin !== undefined) {
       setResolving(true);
       const b = await boundaryAt(h.lat, h.lon, h.admin);
+      if (id !== req.current) return; // a newer choice was made while this one resolved
       setResolving(false);
       if (b) return setWhere({ ...base, placeId: b.id, placeName: b.name });
       base.radius = radiusFor(h.kind, h.extent);
@@ -244,6 +268,8 @@ export default function AtlasClient() {
   }, []);
 
   const pickPoint = async (lon: number, lat: number) => {
+    ++req.current;
+    setResolving(false);
     setPage(1);
     const w: Where = { label: fmt(lon, lat), lon, lat, radius: where && !where.placeId ? where.radius : 25 };
     setWhere(w);
@@ -312,7 +338,7 @@ export default function AtlasClient() {
           </div>
 
           {/* the filter is a tree of life: each choice opens its branches beneath it */}
-          <div className="mt-5 space-y-2" role="tree">
+          <div className="mt-5 space-y-2" role="group" aria-label={t.filterAria}>
             {trail
               .filter((n) => n.children.length)
               .map((n, row) => (
@@ -324,8 +350,7 @@ export default function AtlasClient() {
                     return (
                       <button
                         key={l.id}
-                        role="treeitem"
-                        aria-selected={on}
+                        aria-pressed={on}
                         aria-expanded={l.children.length ? on || onPath : undefined}
                         onClick={() => {
                           setLayer(l);
@@ -354,14 +379,16 @@ export default function AtlasClient() {
               <button
                 key={p.name}
                 onClick={() => {
+                  ++req.current;
                   setPage(1);
                   setFocus(p.ll);
-                  setQ(p.name);
-                  setWhere({ label: p.name, lon: p.ll[0], lat: p.ll[1], radius: 50 });
+                  skipSearch.current = true;
+                  setQ(lang === "es" ? p.es : p.name);
+                  setWhere({ label: lang === "es" ? p.es : p.name, lon: p.ll[0], lat: p.ll[1], radius: 50 });
                 }}
                 className="hover:text-glow"
               >
-                {p.name}
+                {lang === "es" ? p.es : p.name}
               </button>
             ))}
           </div>
@@ -381,7 +408,11 @@ export default function AtlasClient() {
               {where.placeId ? (
                 <p className="mt-4 text-sm text-[#c9c2a8]">
                   {t.boundary} <span className="text-glow">{where.placeName}</span>.{" "}
-                  <button onClick={() => setWhere({ ...where, placeId: undefined, radius: 25 })} className="underline underline-offset-4 hover:text-glow">
+                  <button
+                    onClick={() => {
+                      setPage(1);
+                      setWhere({ ...where, placeId: undefined, radius: 25 });
+                    }} className="underline underline-offset-4 hover:text-glow">
                     {t.useRadius}
                   </button>
                 </p>
@@ -415,6 +446,14 @@ export default function AtlasClient() {
               <p className="mt-5 text-sm text-[#a9a28a]">
                 {list === null ? t.reading : t.recordedHere(total.toLocaleString(LOCALE[lang]), layer.label.toLowerCase())}
               </p>
+              {listErr && (
+                <p className="mt-3 text-sm text-[#e8b0a0]">
+                  {t.listError}{" "}
+                  <button onClick={() => setRetry((n) => n + 1)} className="underline underline-offset-4 hover:text-glow">
+                    {t.retry}
+                  </button>
+                </p>
+              )}
               <ul className="mt-4 grid grid-cols-3 sm:grid-cols-4 xl:grid-cols-3 gap-3">
                 {(list ?? []).map((s) => (
                   <li key={s.taxon.id}>

@@ -24,7 +24,7 @@ export default async function HerballRoom({ params, searchParams }: { params: Pr
   return (
     <div className="mx-auto max-w-[1320px] px-4 sm:px-6 pt-10">
       <p className="label text-ink-2">{t.kicker}</p>
-      <div className="grid lg:grid-cols-[minmax(0,1fr)_320px] gap-10 items-end">
+      <div className="grid grid-cols-1 lg:grid-cols-[minmax(0,1fr)_320px] gap-10 items-end">
         <div>
           <h1 className="font-display text-[clamp(2.6rem,6vw,4.8rem)] leading-none mt-2">{t.title}</h1>
           <p className="mt-5 max-w-[66ch] text-lg leading-relaxed text-ink-2">{t.intro}</p>
@@ -41,7 +41,7 @@ export default async function HerballRoom({ params, searchParams }: { params: Pr
       {books.map(([b, chs]) => (
         <section key={b} className="mt-12">
           <h2 className="font-display text-2xl border-b-[3px] border-double border-ink pb-2">{t.books[b]}</h2>
-          <ul className="grid sm:grid-cols-2 lg:grid-cols-3 gap-x-8">
+          <ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-8">
             {chs.map((c) => {
               const e0 = c.codex ? getEntry(c.codex) : undefined;
               const e = e0 ? localize(e0, lang) : undefined;

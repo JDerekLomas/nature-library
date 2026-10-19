@@ -33,7 +33,7 @@ export default async function ExhibitionPage({ params }: { params: Promise<{ lan
   return (
     <div className="mx-auto max-w-[1320px] px-4 sm:px-6 pt-10">
       <Link href={L("/exhibitions")} className="label text-ink-2 hover:text-moss">{t.back}</Link>
-      <div className="grid lg:grid-cols-[minmax(0,1fr)_380px] gap-12 mt-6">
+      <div className="grid grid-cols-1 lg:grid-cols-[minmax(0,1fr)_380px] gap-12 mt-6">
         <div>
           <h1 className="font-display text-[clamp(2.8rem,6vw,5.2rem)] leading-[0.95]">{x.title}</h1>
           <p className="mt-4 text-xl text-moss font-display italic">{x.dek}</p>

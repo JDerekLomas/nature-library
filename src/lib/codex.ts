@@ -44,6 +44,7 @@ export const KINGDOM_LABEL: Record<string, string> = {
   Animalia: "Animals",
   Fungi: "Fungi",
   Protista: "Protists",
+  Protozoa: "Protozoa",
   Chromista: "Chromists",
 };
 
@@ -70,5 +71,12 @@ export function localize(e: Entry, lang: Lang): Entry {
   const o = ES[e.slug];
   return o ? { ...overlay(e, o), translated: true } as Entry : e;
 }
-export const codexIn = (lang: Lang) => (lang === "en" ? CODEX : CODEX.map((e) => localize(e, lang)));
+// translated once per language per server instance, not on every request
+const BY_LANG = new Map<Lang, Entry[]>();
+export const codexIn = (lang: Lang) => {
+  if (lang === "en") return CODEX;
+  let list = BY_LANG.get(lang);
+  if (!list) BY_LANG.set(lang, (list = CODEX.map((e) => localize(e, lang))));
+  return list;
+};
 export const hasTranslation = (slug: string) => !!ES[slug];

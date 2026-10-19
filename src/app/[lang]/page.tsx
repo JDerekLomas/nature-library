@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { CODEX, GERARD, gerardPage, codexIn } from "@/lib/codex";
-import { asLang, lp, LOCALE } from "@/i18n/config";
+import { asLang, lp, LOCALE, type Lang } from "@/i18n/config";
 import { dict } from "@/i18n/dict";
 import { PLATES } from "@/lib/plates";
 import { shelvesFor } from "@/lib/shelves";
@@ -11,7 +11,7 @@ import SpecimenCard from "@/components/SpecimenCard";
 import { toCard } from "@/lib/cards";
 import LibraryPlan, { type Room } from "@/components/LibraryPlan";
 import { libraryStats } from "@/lib/stats";
-import { gbifTaxon } from "@/lib/gbif";
+import { gbifTaxonQuiet } from "@/lib/gbif";
 import { correctionLogs, makeResolver } from "@/lib/corrections";
 
 export const revalidate = 86400;
@@ -65,13 +65,14 @@ const BESTIARY: [string, string, string][] = [
   ["Elasmobranchii", "Sharks & rays", "/bestiary#Elasmobranchii"],
 ];
 
-const fmtBig = (n: number) => (n >= 1e6 ? `${(n / 1e6).toFixed(1)}M` : n >= 1e4 ? `${Math.round(n / 1000)},000` : n.toLocaleString());
-const LEDGER = (st: ReturnType<typeof libraryStats>, names: number, plates: number, L: string[]): [string, string, string][] => [
-  [fmtBig(names), L[0], "/catalogue"],
+// compact in the reader's language: 2.6M / 2,6 M; 10,000 / 10.000
+const fmtBig = (n: number, lang: Lang) => new Intl.NumberFormat(LOCALE[lang], n >= 1e6 ? { notation: "compact", maximumFractionDigits: 1 } : { maximumSignificantDigits: n >= 1e4 ? 2 : 21 }).format(n);
+const LEDGER = (st: ReturnType<typeof libraryStats>, names: number, plates: number, L: string[], lang: Lang): [string, string, string][] => [
+  [fmtBig(names, lang), L[0], "/catalogue"],
   [String(st.codex), L[1], "/shelves"],
   [String(st.birds), L[2], "/aviary"],
-  [fmtBig(st.identify), L[3], "/identify"],
-  [fmtBig(plates), L[4], "/plates"],
+  [fmtBig(st.identify, lang), L[3], "/identify"],
+  [fmtBig(plates, lang), L[4], "/plates"],
   [String(st.gerard), L[5], "/herball"],
   [String(st.countries), L[6], "/catalogue"],
   [String(st.corrections), L[7], "/about/corrections"],
@@ -90,7 +91,7 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
   const c = await counts();
   const shown = new Set<string>();
   const st = libraryStats();
-  const kingdoms = await Promise.all(KINGDOMS.map(([k]) => gbifTaxon(k)));
+  const kingdoms = await Promise.all(KINGDOMS.map(([k]) => gbifTaxonQuiet(k)));
   const kingdomTotal = kingdoms.reduce((n, k) => n + (k?.numDescendants ?? 0), 0);
   const ph = (e?: (typeof CODEX)[number]) => e?.photos?.[0]?.medium ?? e?.photos?.[0]?.url;
   const birds = CX.filter((e) => e.form === "Bird").sort((a, b) => (b.observations ?? 0) - (a.observations ?? 0));
@@ -175,7 +176,7 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
           <span className="label text-ink-2 hidden sm:inline">{t.register} · {new Date().getFullYear()}</span>
         </div>
         <dl className="grid grid-cols-2 sm:grid-cols-4 border-l rule">
-          {LEDGER(st, kingdomTotal, PLATES.length, t.ledger).map(([n, label, href]) => (
+          {LEDGER(st, kingdomTotal, PLATES.length, t.ledger, lang).map(([n, label, href]) => (
             <Link key={label} href={L(href)} className="group border-r border-b rule p-5 hover:bg-card transition-colors">
               <dd className="font-display text-[clamp(1.9rem,3.4vw,2.8rem)] leading-none group-hover:text-moss">{n}</dd>
               <dt className="label text-ink-2 mt-2 leading-snug">{label}</dt>
@@ -197,7 +198,7 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
       {sotd && (
         <section className="mx-auto max-w-[1320px] px-4 sm:px-6 mt-24">
           <p className="label text-ink-2">{t.sotd} · {sotd.nl}</p>
-          <div className="grid lg:grid-cols-[minmax(0,1.1fr)_minmax(0,1fr)_minmax(0,0.8fr)] gap-10 mt-4 items-center">
+          <div className="grid grid-cols-1 lg:grid-cols-[minmax(0,1.1fr)_minmax(0,1fr)_minmax(0,0.8fr)] gap-10 mt-4 items-center">
             <Link href={L(`/species/${sotd.slug}`)} className="mount block">
               {sotd.photos?.[0] && (
                 // eslint-disable-next-line @next/next/no-img-element
@@ -236,7 +237,7 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
 
       {/* ——— Room I: the Aviary ——— */}
       <section className="mx-auto max-w-[1320px] px-4 sm:px-6 mt-24">
-        <div className="grid lg:grid-cols-[minmax(0,360px)_minmax(0,1fr)] gap-10 items-end">
+        <div className="grid grid-cols-1 lg:grid-cols-[minmax(0,360px)_minmax(0,1fr)] gap-10 items-end">
           <div>
             <p className="label text-rust">{t.roomN("I")}</p>
             <h2 className="font-display text-[clamp(2.4rem,4.5vw,3.6rem)] leading-[0.95] mt-1">{t.aviaryTitle}</h2>
@@ -295,7 +296,7 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
           <h2 className="font-display text-[2.2rem] leading-none"><span className="label text-rust mr-3 align-middle">{t.roomN("IX")}</span>{t.catalogueCard}</h2>
           <Link href={L("/shelves")} className="label text-moss hover:text-rust">{t.allShelves(SHELVES.length)}</Link>
         </div>
-        <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-px bg-rule border-x border-b rule">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-px bg-rule border-x border-b rule">
           {SHELVES.slice(0, 8).map((s) => {
             const items = onShelf(s.id);
             // faces for the card: well-observed members not already shown on an earlier card
@@ -349,7 +350,7 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
 
       {/* ——— Room VII: Catalogue of All Life ——— */}
       <section className="mx-auto max-w-[1320px] px-4 sm:px-6 mt-24">
-        <div className="grid lg:grid-cols-[minmax(0,420px)_minmax(0,1fr)] gap-12">
+        <div className="grid grid-cols-1 lg:grid-cols-[minmax(0,420px)_minmax(0,1fr)] gap-12">
           <div>
             <p className="label text-rust">{t.roomN("VII")}</p>
             <h2 className="font-display text-[clamp(2.4rem,4.5vw,3.6rem)] leading-[0.95] mt-1">{t.catalogueTitle}</h2>
@@ -408,7 +409,7 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
       {/* ——— Gerard ——— */}
       {GERARD.length > 0 && (
         <section className="mx-auto max-w-[1320px] px-4 sm:px-6 mt-24">
-          <div className="grid lg:grid-cols-[minmax(0,1fr)_minmax(0,1.3fr)] gap-12 items-center">
+          <div className="grid grid-cols-1 lg:grid-cols-[minmax(0,1fr)_minmax(0,1.3fr)] gap-12 items-center">
             <div>
               <p className="label text-rust">{t.herballKicker}</p>
               <h2 className="font-display text-[clamp(2.2rem,4vw,3.4rem)] leading-[0.98] mt-2">{t.herballTitle}</h2>
@@ -459,7 +460,7 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
           <h2 className="font-display text-[2.2rem] leading-none"><span className="label text-rust mr-3 align-middle">{t.roomN("X")}</span>{t.exhibitions}</h2>
           <Link href={L("/exhibitions")} className="label text-moss hover:text-rust">{t.allExhibitions}</Link>
         </div>
-        <div className="grid md:grid-cols-3 gap-x-10">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-x-10">
           {EXHIBITIONS.slice(0, 3).map((x) => {
             const m = CX.filter((e) => x.members.includes(e.scientific));
             return (
@@ -497,7 +498,7 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
 
       {/* ——— Room XI: Corrections ——— */}
       <section className="mx-auto max-w-[1320px] px-4 sm:px-6 mt-24">
-        <div className="grid lg:grid-cols-[minmax(0,380px)_minmax(0,1fr)] gap-10">
+        <div className="grid grid-cols-1 lg:grid-cols-[minmax(0,380px)_minmax(0,1fr)] gap-10">
           <div>
             <p className="label text-rust">{t.roomN("XI")}</p>
             <h2 className="font-display text-[clamp(2.2rem,4vw,3.2rem)] leading-[0.98] mt-1">{t.errataTitle}</h2>

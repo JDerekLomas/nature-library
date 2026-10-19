@@ -26,7 +26,6 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
     twitter: { card: "summary_large_image" },
     title: { default: t.siteName, template: `%s · ${t.siteName}` },
     description: t.siteDescription,
-    alternates: { languages: { en: "/", es: "/es" } },
   };
 }
 

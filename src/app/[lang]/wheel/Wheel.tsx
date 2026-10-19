@@ -28,9 +28,17 @@ interface Node {
 
 const API = "https://api.inaturalist.org/v1";
 const cache = new Map<string, unknown>();
-async function get<R>(url: string): Promise<R> {
+// only successful answers are remembered; a rate-limit (429) is retried once, then reported
+async function get<R>(url: string, tries = 2): Promise<R> {
   if (cache.has(url)) return cache.get(url) as R;
   const r = await fetch(url);
+  if (!r.ok) {
+    if (tries > 1 && (r.status === 429 || r.status >= 500)) {
+      await new Promise((res) => setTimeout(res, 1500));
+      return get<R>(url, tries - 1);
+    }
+    throw new Error(String(r.status));
+  }
   const j = await r.json();
   cache.set(url, j);
   return j;
@@ -72,10 +80,13 @@ export default function Wheel() {
   const [hover, setHover] = useState<T | null>(null);
   const [lineage, setLineage] = useState<T[]>([]);
   const [loading, setLoading] = useState(true);
+  const [failed, setFailed] = useState(false);
+  const [attempt, setAttempt] = useState(0);
 
   useEffect(() => {
     let dead = false;
     setLoading(true);
+    setFailed(false);
     (async () => {
       const f = (await get<{ results: (T & { ancestors?: T[] })[] }>(`${API}/taxa/${focusId}?locale=${lang}`)).results[0];
       const kids = (await get<{ results: T[] }>(`${API}/taxa?parent_id=${focusId}&is_active=true&per_page=24&order_by=observations_count&order=desc&locale=${lang}`)).results.filter(
@@ -103,11 +114,15 @@ export default function Wheel() {
       setLineage((f.ancestors ?? []).filter((a) => a.rank !== "stateofmatter"));
       setTree(root);
       setLoading(false);
-    })().catch(() => setLoading(false));
+    })().catch(() => {
+      if (dead) return;
+      setLoading(false);
+      setFailed(true);
+    });
     return () => {
       dead = true;
     };
-  }, [focusId, lang]);
+  }, [focusId, lang, attempt]);
 
   const nodes = useMemo(() => {
     if (!tree) return [];
@@ -127,7 +142,7 @@ export default function Wheel() {
   const shown = hover ?? focus;
 
   return (
-    <div className="grid xl:grid-cols-[minmax(0,1fr)_340px] gap-10 items-start">
+    <div className="grid grid-cols-1 xl:grid-cols-[minmax(0,1fr)_340px] gap-10 items-start">
       <div className="relative w-full max-w-[860px] mx-auto">
         <svg viewBox={`${-SIZE / 2} ${-SIZE / 2} ${SIZE} ${SIZE}`} className={`w-full h-auto transition-opacity ${loading ? "opacity-40" : ""}`}>
           {/* engraved outer rings */}
@@ -179,7 +194,11 @@ export default function Wheel() {
           </defs>
           <g
             className={focus?.parent_id ? "cursor-pointer" : ""}
-            onClick={() => focus && lineage.length > 0 && go(lineage[lineage.length - 1].id)}
+            onClick={() => {
+              if (!focus) return;
+              const up = lineage.length ? lineage[lineage.length - 1].id : focus.parent_id;
+              if (up && up !== focus.id) go(up);
+            }}
           >
             <circle r={R0 - 4} fill="#f4efe2" stroke="#1b1d16" strokeWidth={1} />
             {focus?.default_photo && (
@@ -191,7 +210,7 @@ export default function Wheel() {
             <text y={12} textAnchor="middle" style={{ font: "24px var(--font-fell), serif" }} fill="#1b1d16">
               {cap(focus?.preferred_common_name || focus?.name || "…").slice(0, 18)}
             </text>
-            {lineage.length > 0 && (
+            {focus?.parent_id && focus.rank !== "stateofmatter" && (
               <text y={38} textAnchor="middle" style={{ font: "10px var(--font-plex-mono), monospace", letterSpacing: "0.1em" }} fill="#a4472b">
                 {t.upOne}
               </text>
@@ -201,11 +220,19 @@ export default function Wheel() {
       </div>
 
       <aside className="xl:sticky xl:top-24">
+        {failed && (
+          <p className="mb-4 text-stamp text-sm">
+            {t.failed}{" "}
+            <button onClick={() => setAttempt((n) => n + 1)} className="underline underline-offset-4">
+              {t.retry}
+            </button>
+          </p>
+        )}
         <ol className="flex flex-wrap gap-x-1 gap-y-1 text-sm text-ink-2">
           <li>
             <button onClick={() => go(48460)} className="hover:text-moss">{t.life}</button>
           </li>
-          {lineage.slice(1).map((a) => (
+          {lineage.map((a) => (
             <li key={a.id}>
               <span className="mx-1">›</span>
               <button onClick={() => go(a.id)} className="hover:text-moss">

@@ -4,7 +4,7 @@ import { useEffect, useRef, useState } from "react";
 import Link from "next/link";
 import { loadIdentifier, identify, speciesNear, type Result } from "./bioclip";
 import { useLang, useT } from "@/i18n/LangProvider";
-import { lp } from "@/i18n/config";
+import { lp, LOCALE } from "@/i18n/config";
 
 interface AiCandidate {
   scientific: string;
@@ -96,13 +96,28 @@ export default function IdentifyDesk({ ai }: { ai: boolean }) {
   const [aiRes, setAiRes] = useState<AiResult | null>(null);
   const [aiBusy, setAiBusy] = useState(false);
 
-  // start fetching the model as soon as the desk opens
-  useEffect(() => {
-    loadIdentifier((f) => setProgress(f)).catch((e) => setErr((e as Error).message));
-  }, []);
+  const runId = useRef(0); // only the latest photo's run may write results
+  const camera = useRef<HTMLInputElement>(null);
+  const [modelFailed, setModelFailed] = useState(false);
+
+  // start fetching the model as soon as the desk opens (a second visit gets the cached copy, which reports no progress)
+  const loadModel = () => {
+    setModelFailed(false);
+    setProgress((p) => p ?? 0);
+    loadIdentifier((f) => setProgress(f))
+      .then(() => setProgress(1))
+      .catch(() => {
+        setProgress(null);
+        setModelFailed(true);
+      });
+  };
+  useEffect(loadModel, []);
 
   const take = async (f?: File | null) => {
     if (!f) return;
+    runId.current++; // abandon any comparison still running for the previous photo
+    setBusy(false);
+    setStage(null);
     setRes(null);
     setAiRes(null);
     setErr(null);
@@ -124,11 +139,13 @@ export default function IdentifyDesk({ ai }: { ai: boolean }) {
 
   const run = async (bmp = bitmap, near = nearby?.ids) => {
     if (!bmp) return;
+    const my = ++runId.current;
     setBusy(true);
     setErr(null);
     try {
       setStage(t.stageCore);
-      const r = await identify(bmp, near, (gs) => setStage(t.stageDeeper(gs.map((g) => t.groupNames[g] ?? g).join(` ${t.and} `))));
+      const r = await identify(bmp, near, (gs) => my === runId.current && setStage(t.stageDeeper(gs.map((g) => t.groupNames[g] ?? g).join(` ${t.and} `))));
+      if (my !== runId.current) return;
       setStage(null);
       setRes(r);
       const ids = r.guesses.slice(0, 6).map((g) => g.id);
@@ -136,10 +153,10 @@ export default function IdentifyDesk({ ai }: { ai: boolean }) {
         .then((x) => x.json())
         .then((j) => setPhotos(Object.fromEntries((j.results ?? []).map((t: { id: number; default_photo?: { medium_url: string } }) => [t.id, t.default_photo?.medium_url ?? ""]))))
         .catch(() => {});
-    } catch (e) {
-      setErr((e as Error).message);
+    } catch {
+      if (my === runId.current) setErr(t.failed);
     } finally {
-      setBusy(false);
+      if (my === runId.current) setBusy(false);
     }
   };
 
@@ -147,7 +164,7 @@ export default function IdentifyDesk({ ai }: { ai: boolean }) {
   useEffect(() => {
     if (bitmap && progress === 1 && !res && !busy) run(bitmap);
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [bitmap, progress]);
+  }, [bitmap, progress, busy]);
 
   const useLocation = () => {
     if (!navigator.geolocation) return;
@@ -180,7 +197,7 @@ export default function IdentifyDesk({ ai }: { ai: boolean }) {
       c.getContext("2d")!.drawImage(bmp, 0, 0, c.width, c.height);
       const r = await fetch("/api/identify", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ image: c.toDataURL("image/jpeg", 0.86) }) });
       const j = await r.json();
-      if (!r.ok) throw new Error(j.error || "Failed");
+      if (!r.ok) throw new Error(j.error || t.failed);
       setAiRes(j);
     } catch (e) {
       setErr((e as Error).message);
@@ -194,7 +211,7 @@ export default function IdentifyDesk({ ai }: { ai: boolean }) {
   const loadingModel = progress !== null && progress < 1;
 
   return (
-    <div className="grid lg:grid-cols-[minmax(0,460px)_minmax(0,1fr)] gap-10 lg:gap-14">
+    <div className="grid grid-cols-1 lg:grid-cols-[minmax(0,460px)_minmax(0,1fr)] gap-10 lg:gap-14">
       <div>
         <div
           onDragOver={(e) => {
@@ -229,7 +246,17 @@ export default function IdentifyDesk({ ai }: { ai: boolean }) {
             </div>
           )}
         </div>
-        <input ref={input} type="file" accept="image/*,.heic,.heif" capture="environment" className="hidden" onChange={(e) => take(e.target.files?.[0])} />
+        {/* two inputs: the library (no capture, so phones offer existing photos) and the camera */}
+        <input ref={input} type="file" accept="image/*,.heic,.heif" className="hidden" onChange={(e) => take(e.target.files?.[0])} />
+        <input ref={camera} type="file" accept="image/*" capture="environment" className="hidden" onChange={(e) => take(e.target.files?.[0])} />
+        {modelFailed && (
+          <p className="mt-4 text-stamp">
+            {t.modelFailed}{" "}
+            <button onClick={loadModel} className="underline underline-offset-4">
+              {t.retry}
+            </button>
+          </p>
+        )}
 
         {loadingModel && (
           <div className="mt-5">
@@ -249,11 +276,14 @@ export default function IdentifyDesk({ ai }: { ai: boolean }) {
           >
             {busy ? t.comparing : bitmap ? t.again : t.choose}
           </button>
+          <button onClick={() => camera.current?.click()} className="px-4 py-3 border border-ink text-sm hover:bg-paper-2 sm:hidden">
+            {t.takePhoto}
+          </button>
           <button onClick={useLocation} disabled={locating} className="px-4 py-3 border border-ink text-sm hover:bg-paper-2 disabled:opacity-50">
             {nearby ? t.usingNear(nearby.place) : locating ? t.findingNear : t.favourNear}
           </button>
         </div>
-        {nearby && <p className="text-xs text-ink-2 mt-2">{t.nearNote(nearby.ids.size.toLocaleString(lang))}</p>}
+        {nearby && <p className="text-xs text-ink-2 mt-2">{t.nearNote(nearby.ids.size.toLocaleString(LOCALE[lang]))}</p>}
         {err && <p className="mt-4 text-stamp">{err}</p>}
       </div>
 
@@ -299,7 +329,7 @@ export default function IdentifyDesk({ ai }: { ai: boolean }) {
             )}
             {caution && (
               <div className="mt-5 border border-stamp/70 bg-stamp/[0.05] px-4 py-3">
-                <span className="label text-stamp mr-2">Caution</span>
+                <span className="label text-stamp mr-2">{t.cautionWord}</span>
                 {caution}
               </div>
             )}

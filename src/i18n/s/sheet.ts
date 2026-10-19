@@ -1,4 +1,11 @@
 export const en = {
+  forms: {} as Record<string, string>,
+  danger: {
+    deadly: ["Deadly", "Eating any part can kill. Never eat a wild plant or fungus on the strength of a photo, an app or a website, this one included."],
+    toxic: ["Poisonous", "Harmful if eaten, and sometimes on contact. Keep from children and animals."],
+    venomous: ["Venomous", "A bite or sting can need urgent medical care. Watch from a distance."],
+    emergency: "Suspected poisoning or envenomation is a medical emergency: call your local emergency number or poison centre.",
+  },
   eaten: "Eaten",
   iucnTitle: "IUCN Red List status",
   evidence: {
@@ -42,6 +49,19 @@ export const en = {
 };
 
 export const es: typeof en = {
+  forms: {
+    Bird: "Ave", Fish: "Pez", Mammal: "Mamífero", Tree: "Árbol", Herb: "Hierba", Insect: "Insecto", Reptile: "Reptil", Shrub: "Arbusto", Mushroom: "Seta",
+    Amphibian: "Anfibio", Vine: "Trepadora", Mollusc: "Molusco", Other: "Otro", Arachnid: "Arácnido", Grass: "Gramínea", Crustacean: "Crustáceo", Succulent: "Suculenta",
+    "Bracket fungus": "Hongo yesquero", Cnidarian: "Cnidario", Lichen: "Liquen", "Lycophyte (spikemoss)": "Licófito (selaginela)", Moss: "Musgo", Mould: "Moho",
+    "Jelly fungus": "Hongo gelatinoso", "Sclerotium (grain parasite)": "Esclerocio (parásito del grano)", "Entomopathogenic fungus": "Hongo entomopatógeno", Yeast: "Levadura",
+    Truffle: "Trufa", Alga: "Alga", "Slime mould": "Mixomiceto",
+  } as Record<string, string>,
+  danger: {
+    deadly: ["Mortal", "Comer cualquier parte puede matar. Nunca comas una planta u hongo silvestre fiándote de una foto, una aplicación o una web, tampoco esta."],
+    toxic: ["Venenosa", "Dañina si se ingiere, y a veces al tocarla. Mantenla lejos de niños y animales."],
+    venomous: ["Venenoso", "Una mordedura o picadura puede requerir atención médica urgente. Obsérvalo a distancia."],
+    emergency: "Una sospecha de intoxicación o envenenamiento es una urgencia médica: llama al número de emergencias o al centro de toxicología de tu país.",
+  },
   eaten: "Se come",
   iucnTitle: "Estado en la Lista Roja de la UICN",
   evidence: {

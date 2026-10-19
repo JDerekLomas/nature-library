@@ -43,7 +43,7 @@ export default function LibraryPlan({ rooms }: { rooms: Room[] }) {
   const room = active !== null ? rooms[active] : null;
 
   return (
-    <div className="grid lg:grid-cols-[minmax(0,1fr)_380px] gap-10 items-center">
+    <div className="grid grid-cols-1 lg:grid-cols-[minmax(0,1fr)_380px] gap-10 items-center">
       {/* the plan */}
       <div className="relative w-full max-w-[760px] mx-auto hidden sm:block">
         <svg viewBox="0 0 1000 1000" className="w-full h-auto" role="img" aria-label={t.aria}>
@@ -113,7 +113,7 @@ export default function LibraryPlan({ rooms }: { rooms: Room[] }) {
         </svg>
         {/* the live globe under the dome */}
         <Link href={lp(lang, "/atlas")} className="absolute" style={{ left: "35.5%", top: "35.5%", width: "29%", height: "29%" }} aria-label={t.atlas} onMouseEnter={() => setActive(null)}>
-          <Globe gbif="" step={2} ring={false} initial={[60, 15]} />
+          <Globe gbif="" palette="green" step={2} ring={false} initial={[60, 15]} />
         </Link>
       </div>
 

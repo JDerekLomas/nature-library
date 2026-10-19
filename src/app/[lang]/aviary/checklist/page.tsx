@@ -31,7 +31,7 @@ export default async function Checklist({ params }: { params: Promise<{ lang: st
               {T.aviary.orders[o] ?? o}
               <span className="block latin text-base text-ink-2">{o}</span>
             </h2>
-            <ul className="grid sm:grid-cols-2 lg:grid-cols-3 gap-x-6">
+            <ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-6">
               {fams
                 .filter((f) => f.order === o)
                 .map((f) => (

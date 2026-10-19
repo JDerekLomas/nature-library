@@ -86,14 +86,63 @@ for (const e of entries) {
 }
 
 // ---------- 2. enrich ----------
+const OVERRIDES = JSON.parse(fs.readFileSync(path.join(ROOT, "data/id-overrides.json"), "utf8"));
+// iNaturalist ids of the kingdoms: a match must sit in the entry's own kingdom
+const INAT_KINGDOM = { Animalia: 1, Plantae: 47126, Fungi: 47170, Chromista: 48222, Protozoa: 47686, Bacteria: 67333, Archaea: 151817 };
+const inKingdom = (t, e) => !e.kingdom || !INAT_KINGDOM[e.kingdom] || (t.ancestor_ids || []).includes(INAT_KINGDOM[e.kingdom]);
+
+/** An exact name (or a synonym iNat matched on), in the right kingdom; a species before a "complex" of the same name. Never a near miss. */
+function pickInat(res, e) {
+  const lc = e.scientific.toLowerCase();
+  const ok = res.filter((t) => inKingdom(t, e) && (t.name.toLowerCase() === lc || t.matched_term?.toLowerCase() === lc));
+  const order = ["species", "hybrid", "subspecies", "variety", "complex"];
+  return ok.sort((a, b) => (order.indexOf(a.rank) + 99) % 99 - (order.indexOf(b.rank) + 99) % 99)[0];
+}
+
+// REVALIDATE=1: re-check every cached iNaturalist id in batches (name, rank, kingdom) and drop the ones that fail
+async function revalidate(list) {
+  const ids = list.map((e) => cache[e.scientific]?.inat?.id).filter(Boolean);
+  const info = new Map();
+  for (let i = 0; i < ids.length; i += 30) {
+    const j = await getJSON(`https://api.inaturalist.org/v1/taxa/${ids.slice(i, i + 30).join(",")}`);
+    for (const t of j?.results || []) info.set(t.id, t);
+    await sleep(1000);
+  }
+  const dropped = [];
+  for (const e of list) {
+    const c = cache[e.scientific];
+    const t = c?.inat?.id && info.get(c.inat.id);
+    if (!t || OVERRIDES[e.scientific]?.inat) continue;
+    let bad = !inKingdom(t, e) ? "kingdom" : t.rank === "complex" ? "complex" : null;
+    if (!bad && t.name.toLowerCase() !== e.scientific.toLowerCase()) {
+      // a different name is fine only if it is what iNaturalist itself resolves our name to (a synonym or rename)
+      const q = await getJSON(`https://api.inaturalist.org/v1/taxa?q=${encodeURIComponent(e.scientific)}&per_page=30&is_active=true`);
+      await sleep(1000);
+      const pick = pickInat(q?.results || [], e);
+      if (pick?.id !== t.id) bad = `name, search resolves to ${pick ? pick.name + " " + pick.id : "nothing"}`;
+    }
+    if (bad) {
+      dropped.push(`${e.scientific} (${bad}: ${t.name} ${t.rank})`);
+      delete c.inat;
+    }
+  }
+  saveCache();
+  console.log(`revalidated ${info.size} ids; re-fetching ${dropped.length}${dropped.length ? ": " + dropped.join("; ") : ""}`);
+}
+
 async function enrich(e) {
   const c = (cache[e.scientific] ??= {});
+  const ov = OVERRIDES[e.scientific] || {};
+  if (ov.inat && c.inat?.id !== ov.inat) delete c.inat;
+  if (ov.gbif && c.gbif !== ov.gbif) delete c.gbif;
   if (!c.inat) {
-    const q = await getJSON(`https://api.inaturalist.org/v1/taxa?q=${encodeURIComponent(e.scientific)}&per_page=10&is_active=true&locale=en`);
-    await sleep(900);
-    const res = q?.results || [];
-    const lc = e.scientific.toLowerCase();
-    const hit = res.find((t) => t.name.toLowerCase() === lc) || res.find((t) => t.rank === "species" || t.rank === "hybrid") || res[0];
+    let hit;
+    if (ov.inat) hit = { id: ov.inat };
+    else {
+      const q = await getJSON(`https://api.inaturalist.org/v1/taxa?q=${encodeURIComponent(e.scientific)}&per_page=30&is_active=true&locale=en`);
+      await sleep(900);
+      hit = pickInat(q?.results || [], e);
+    }
     if (hit) {
       const full = await getJSON(`https://api.inaturalist.org/v1/taxa/${hit.id}?locale=en`);
       await sleep(900);
@@ -120,11 +169,25 @@ async function enrich(e) {
     saveCache();
   }
   if (c.gbif === undefined) {
-    const g = await getJSON(`https://api.gbif.org/v1/species/match?name=${encodeURIComponent(e.scientific)}${e.kingdom ? `&kingdom=${e.kingdom}` : ""}`);
-    c.gbif = g?.usageKey && g.matchType !== "NONE" ? (g.acceptedUsageKey ?? g.usageKey) : null;
+    if (ov.gbif) {
+      // follow a synonym to its accepted name: occurrence maps are filed under the accepted key
+      const g = await getJSON(`https://api.gbif.org/v1/species/${ov.gbif}`);
+      c.gbif = g?.acceptedKey ?? ov.gbif;
+    } else {
+      // species rank and an exact or fuzzy match only: a HIGHERRANK match (genus, family, kingdom) maps the wrong thing
+      const g = await getJSON(`https://api.gbif.org/v1/species/match?name=${encodeURIComponent(e.scientific)}${e.kingdom ? `&kingdom=${e.kingdom}` : ""}`);
+      const good = g?.usageKey && ["EXACT", "FUZZY"].includes(g.matchType) && ["SPECIES", "SUBSPECIES", "VARIETY", "FORM"].includes(g.rank) && (!e.kingdom || g.kingdom === e.kingdom);
+      c.gbif = good ? (g.acceptedUsageKey ?? g.usageKey) : null;
+    }
     saveCache();
   }
+  // the summary belongs to the taxon it was fetched for: a corrected id means a fresh summary
+  if (c.wiki !== undefined && c.wikiFor !== (c.inat?.id ?? null)) {
+    delete c.wiki;
+    delete c.wikiImageMeta;
+  }
   if (c.wiki === undefined) {
+    c.wikiFor = c.inat?.id ?? null;
     const title = c.inat?.wiki?.split("/wiki/")[1] || encodeURIComponent(e.scientific.replace(/ /g, "_"));
     const w = await getJSON(`https://en.wikipedia.org/api/rest_v1/page/summary/${title}`);
     c.wiki = w?.extract ? { url: w.content_urls?.desktop?.page, extract: w.extract, image: w.originalimage?.source } : null;
@@ -138,7 +201,21 @@ async function enrich(e) {
     out.photos = c.inat.photos.filter((p) => p.license);
     out.ancestors = c.inat.ancestors;
   }
-  if (!out.photos?.length && c.wiki?.image) out.photos = [{ url: c.wiki.image, attribution: "Wikimedia Commons", source: "Wikimedia" }];
+  if (!out.photos?.length && c.wiki?.image) {
+    // credit the photographer and licence, as CC BY-SA requires (Commons imageinfo, cached)
+    if (c.wikiImageMeta === undefined) {
+      const file = decodeURIComponent(c.wiki.image.split("?")[0].split("/").pop()).replace(/^\d+px-/, "");
+      const j = await getJSON(`https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=extmetadata&format=json&titles=File:${encodeURIComponent(file)}`);
+      const m = Object.values(j?.query?.pages ?? {})[0]?.imageinfo?.[0]?.extmetadata;
+      const strip = (h) =>
+        (h || "").replace(/<[^>]+>/g, "").replace(/&amp;/g, "&").replace(/&quot;/g, '"').replace(/&#0?39;/g, "'").replace(/\s+/g, " ").trim()
+          .replace(/\s*(Copyright|Published|Publicada)\b.*$/i, "").slice(0, 90);
+      c.wikiImageMeta = m ? { artist: strip(m.Artist?.value), license: strip(m.LicenseShortName?.value), page: `https://commons.wikimedia.org/wiki/File:${encodeURIComponent(file)}` } : null;
+      saveCache();
+    }
+    const m = c.wikiImageMeta;
+    out.photos = [{ url: c.wiki.image, attribution: m?.artist ? `${m.artist}${m.license ? ` (${m.license})` : ""}, Wikimedia Commons` : "Wikimedia Commons", source: "Wikimedia", ...(m?.page && { page: m.page }) }];
+  }
   if (c.gbif) out.gbifKey = c.gbif;
   // a Commons photo must name this species (binomial or full common name), and not be pollen, an unidentified seed, etc.
   const BAD = /pollen|unidentified|civet|scat|seedling|herbarium|section \(|diagram|EB1911/i;
@@ -159,10 +236,17 @@ async function enrich(e) {
 
 const todo = entries.filter((e) => !cache[e.scientific]?.inat || cache[e.scientific]?.wiki === undefined).length;
 console.log(`enriching (${todo} not yet cached)…`);
+if (process.env.REVALIDATE) await revalidate(entries);
 const enriched = [];
 for (const [i, e] of entries.entries()) {
   enriched.push(await enrich(e));
   if ((i + 1) % 25 === 0) console.log(`  ${i + 1}/${entries.length}`);
+}
+// a sheet whose lineage disagrees with its own kingdom is showing another organism's photos: refuse to build
+const wrongKingdom = enriched.filter((e) => e.ancestors?.length && e.kingdom && e.ancestors.find((a) => a.rank === "kingdom")?.name !== e.kingdom);
+if (wrongKingdom.length) {
+  console.error("KINGDOM MISMATCH (fix data/id-overrides.json):\n" + wrongKingdom.map((e) => `  ${e.scientific} → iNat ${e.inatId} in ${e.ancestors.find((a) => a.rank === "kingdom")?.name}`).join("\n"));
+  process.exit(1);
 }
 
 // ---------- 3. plates ----------

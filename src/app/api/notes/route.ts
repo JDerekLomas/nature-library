@@ -1,3 +1,4 @@
+import { guard } from "@/lib/guard";
 import Anthropic from "@anthropic-ai/sdk";
 import { NextResponse } from "next/server";
 import { getTaxon } from "@/lib/inat";
@@ -61,9 +62,11 @@ Rules:
 
 export async function GET(req: Request) {
   const id = Number(new URL(req.url).searchParams.get("taxon"));
-  if (!Number.isFinite(id)) return NextResponse.json({ error: "taxon required" }, { status: 400 });
+  if (!Number.isInteger(id) || id <= 0) return NextResponse.json({ error: "taxon required" }, { status: 400 });
   if (cache.has(id)) return NextResponse.json(cache.get(id), { headers: cacheHeaders });
   if (!process.env.ANTHROPIC_API_KEY) return NextResponse.json({ error: "no-key" }, { status: 503 });
+  const blocked = guard(req, 40);
+  if (blocked) return NextResponse.json({ error: blocked }, { status: blocked === "forbidden" ? 403 : 429 });
 
   const t = await getTaxon(id);
   const title = t?.wikipedia_url?.split("/wiki/")[1];
@@ -73,7 +76,7 @@ export async function GET(req: Request) {
     `https://en.wikipedia.org/w/api.php?action=query&prop=extracts&explaintext=1&redirects=1&format=json&titles=${title}`,
     { headers: { "User-Agent": "NatureLibrary/0.1 (educational)" }, next: { revalidate: 604800 } }
   );
-  const wj = await wr.json();
+  const wj = wr.ok ? await wr.json().catch(() => ({})) : {};
   const page = Object.values(wj.query?.pages ?? {})[0] as { extract?: string; title?: string } | undefined;
   const article = page?.extract;
   if (!article || article.length < 300) return NextResponse.json({ error: "no-article" }, { status: 404 });

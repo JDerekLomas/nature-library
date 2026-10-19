@@ -69,7 +69,7 @@ export function Medicinal({ m }: { m: NonNullable<Entry["medicinal"]> }) {
   const t = useT().sheet;
   const ev = m.evidence && EVIDENCE_N[m.evidence] ? { n: EVIDENCE_N[m.evidence], ...t.evidence[m.evidence] } : undefined;
   return (
-    <div className="grid md:grid-cols-[1fr_240px] gap-8">
+    <div className="grid grid-cols-1 md:grid-cols-[1fr_240px] gap-8">
       <table className="w-full text-[0.95rem]">
         <thead>
           <tr className="border-b border-ink">
@@ -161,7 +161,7 @@ export function Grow({ g }: { g: NonNullable<Entry["grow"]> }) {
         <p className="label text-ink-2 mb-2">{t.hardiness}</p>
         <ZoneStrip zones={g.zones} />
       </div>
-      <dl className="grid sm:grid-cols-2 gap-x-8">
+      <dl className="grid grid-cols-1 sm:grid-cols-2 gap-x-8">
         {facts
           .filter(([, v]) => v)
           .map(([k, v]) => (
@@ -172,7 +172,7 @@ export function Grow({ g }: { g: NonNullable<Entry["grow"]> }) {
           ))}
       </dl>
       {g.steps && g.steps.length > 0 && (
-        <ol className="grid sm:grid-cols-2 gap-x-8 gap-y-4">
+        <ol className="grid grid-cols-1 sm:grid-cols-2 gap-x-8 gap-y-4">
           {g.steps.map((s, i) => (
             <li key={i} className="flex gap-3">
               <span className="font-display text-3xl leading-none text-ochre w-7 shrink-0">{i + 1}</span>
@@ -203,7 +203,7 @@ export function FruitSeed({ fruit, seed, fungal, seedPhotos, fruitPhotos }: { fr
   const t = useT().sheet;
   if (!fruit && !seed) return null;
   return (
-    <div className="grid md:grid-cols-2 gap-6 items-start">
+    <div className="grid grid-cols-1 md:grid-cols-2 gap-6 items-start">
       {fruit && (
         <div className="specimen-label p-5">
           <PhotoRow photos={fruitPhotos} label={t.fruit} />
@@ -235,7 +235,7 @@ export function FruitSeed({ fruit, seed, fungal, seedPhotos, fruitPhotos }: { fr
           </dl>
         </div>
       )}
-      {(seedPhotos?.length || fruitPhotos?.length) && (
+      {!!(seedPhotos?.length || fruitPhotos?.length) && (
         <p className="md:col-span-2 text-xs text-ink-2">{t.commonsNote}</p>
       )}
     </div>
@@ -244,7 +244,7 @@ export function FruitSeed({ fruit, seed, fungal, seedPhotos, fruitPhotos }: { fr
 
 export function Abilities({ items }: { items: string[] }) {
   return (
-    <ol className="grid sm:grid-cols-2 gap-x-10">
+    <ol className="grid grid-cols-1 sm:grid-cols-2 gap-x-10">
       {items.map((a, i) => (
         <li key={i} className="flex gap-4 py-3 border-b rule">
           <span className="font-mono text-xs text-rust pt-1.5 w-6 shrink-0">{toRoman(i + 1)}</span>
@@ -265,7 +265,7 @@ export function AnimalFacts({ a }: { a: NonNullable<Entry["animal"]> }) {
   ];
   return (
     <div>
-      <dl className="grid sm:grid-cols-2 gap-x-8">
+      <dl className="grid grid-cols-1 sm:grid-cols-2 gap-x-8">
         {rows
           .filter(([, v]) => v)
           .map(([k, v]) => (
@@ -343,7 +343,7 @@ export function FieldGuide({ a }: { a: NonNullable<Entry["animal"]> }) {
   const t = useT().sheet;
   if (!a.fieldMarks?.length && !a.voice && !a.lookalikes && !a.whereToSee) return null;
   return (
-    <div className="grid md:grid-cols-[minmax(0,1.1fr)_minmax(0,1fr)] gap-8">
+    <div className="grid grid-cols-1 md:grid-cols-[minmax(0,1.1fr)_minmax(0,1fr)] gap-8">
       {a.fieldMarks && a.fieldMarks.length > 0 && (
         <div className="specimen-label p-5">
           <p className="label text-ink-2">{t.fieldMarks}</p>

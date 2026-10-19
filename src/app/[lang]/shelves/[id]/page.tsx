@@ -42,7 +42,7 @@ export default async function ShelfPage({ params, searchParams }: { params: Prom
       <Link href={L("/shelves")} className="label text-ink-2 hover:text-moss">
         {t.all}
       </Link>
-      <div className="grid md:grid-cols-[120px_1fr] gap-6 mt-4 items-end">
+      <div className="grid grid-cols-1 md:grid-cols-[120px_1fr] gap-6 mt-4 items-end">
         <span className="font-display text-[5.5rem] leading-none text-ochre">{s.numeral}</span>
         <div>
           <h1 className="font-display text-[clamp(2.4rem,5vw,4.2rem)] leading-none">{s.title}</h1>

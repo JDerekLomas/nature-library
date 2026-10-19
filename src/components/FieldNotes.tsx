@@ -88,7 +88,7 @@ export default function FieldNotes({ taxonId, name }: { taxonId: number; name: s
         )}
         {(notes.fruit || notes.seed) && (
           <Section n={s()} title="Fruit & seed">
-            <div className="grid md:grid-cols-2 gap-6">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               {notes.fruit && (
                 <div className="specimen-label p-5">
                   <p className="label text-ink-2">Fruit</p>

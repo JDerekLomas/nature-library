@@ -38,7 +38,7 @@ function loadScript(src: string) {
     s.src = src;
     s.async = true;
     s.onload = () => res();
-    s.onerror = () => rej(new Error("Could not load the vision runtime"));
+    s.onerror = () => rej(new Error("runtime"));
     document.head.appendChild(s);
   });
 }
@@ -53,7 +53,7 @@ async function fetchModel(onProgress?: (f: number) => void): Promise<ArrayBuffer
     }
   } catch {}
   const res = await fetch(MODEL_URL);
-  if (!res.ok || !res.body) throw new Error("Could not download the vision model");
+  if (!res.ok || !res.body) throw new Error("model");
   const total = Number(res.headers.get("content-length")) || 87_384_964;
   const reader = res.body.getReader();
   const chunks: Uint8Array[] = [];
@@ -79,6 +79,8 @@ async function fetchModel(onProgress?: (f: number) => void): Promise<ArrayBuffer
   return buf.buffer;
 }
 
+const V = process.env.NEXT_PUBLIC_IDENTIFY_VERSION ?? "1";
+
 export function loadIdentifier(onProgress?: (f: number) => void) {
   loading ??= (async () => {
     await loadScript(`${ORT_BASE}ort.min.js`);
@@ -87,8 +89,8 @@ export function loadIdentifier(onProgress?: (f: number) => void) {
     ort.env.wasm.numThreads = (self as any).crossOriginIsolated ? Math.min(4, navigator.hardwareConcurrency || 2) : 1;
     const [model, meta, bin] = await Promise.all([
       fetchModel(onProgress),
-      fetch("/identify/labels.json").then((r) => r.json()),
-      fetch("/identify/embeddings.bin").then((r) => r.arrayBuffer()),
+      fetch(`/identify/labels.json?v=${V}`).then((r) => r.json()),
+      fetch(`/identify/embeddings.bin?v=${V}`).then((r) => r.arrayBuffer()),
     ]);
     const n = meta.count as number;
     const session = await ort.InferenceSession.create(new Uint8Array(model), { executionProviders: ["wasm"], graphOptimizationLevel: "all" });
@@ -127,7 +129,7 @@ function loadGroup(g: string) {
   if (!groupCache.has(g))
     groupCache.set(
       g,
-      Promise.all([fetch(`/identify/ext/${g}.json`).then((r) => (r.ok ? r.json() : null)), fetch(`/identify/ext/${g}.bin`).then((r) => (r.ok ? r.arrayBuffer() : null))])
+      Promise.all([fetch(`/identify/ext/${g}.json?v=${V}`).then((r) => (r.ok ? r.json() : null)), fetch(`/identify/ext/${g}.bin?v=${V}`).then((r) => (r.ok ? r.arrayBuffer() : null))])
         .then(([meta, bin]) => (meta && bin ? { labels: meta.labels as Label[], scales: new Float32Array(bin, 0, meta.count), vecs: new Int8Array(bin, meta.count * 4) } : null))
         .catch(() => null)
     );

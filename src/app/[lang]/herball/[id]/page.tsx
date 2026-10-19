@@ -41,7 +41,7 @@ export default async function GerardChapterPage({ params }: { params: Promise<{ 
         <span>{t.booke(c.book.charAt(0) + c.book.slice(1).toLowerCase())} · {t.chap} {c.chap}</span>
         {c.printed && <span>p. {c.printed}</span>}
       </div>
-      <div className="grid lg:grid-cols-[minmax(0,1fr)_minmax(0,460px)] gap-12 mt-8">
+      <div className="grid grid-cols-1 lg:grid-cols-[minmax(0,1fr)_minmax(0,460px)] gap-12 mt-8">
         <div className="min-w-0">
           <h1 className="font-display text-[clamp(2.4rem,5vw,4.2rem)] leading-[0.95]">{c.title}.</h1>
           <div className="mt-8 space-y-7 max-w-[70ch]">
@@ -60,7 +60,7 @@ export default async function GerardChapterPage({ params }: { params: Promise<{ 
         <aside className="lg:sticky lg:top-24 self-start space-y-8">
           <a href={gerardUrl(c.page)} target="_blank" rel="noreferrer" className="block bg-[#efe6cf] p-3 border rule hover:border-ink">
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src={gerardPage(c.page)} alt={`Gerard's Herball, page ${c.printed ?? c.page}`} className="w-full mix-blend-multiply" />
+            <img src={gerardPage(c.page)} alt={lang === "es" ? `Herball de Gerard, página ${c.printed ?? c.page}` : `Gerard's Herball, page ${c.printed ?? c.page}`} className="w-full mix-blend-multiply" />
           </a>
           {e && (
             <div>

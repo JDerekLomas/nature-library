@@ -1,5 +1,6 @@
 "use client";
 
+import { useLang } from "@/i18n/LangProvider";
 import { useEffect, useRef, useState } from "react";
 import { geoOrthographic, geoPath, geoGraticule10 } from "d3-geo";
 import { feature } from "topojson-client";
@@ -25,6 +26,8 @@ interface Props {
   onStats?: (s: { cells: number }) => void;
   /** turn to face the weighted centre of the density layer once loaded */
   autoCenter?: boolean;
+  /** dot colour: the default (rust on paper, gold at night) or "green", the living-planet palette of the entrance */
+  palette?: "default" | "green";
 }
 
 const LAND = feature(
@@ -95,7 +98,9 @@ export default function Globe({
   step = 2,
   onStats,
   autoCenter = false,
+  palette = "default",
 }: Props) {
+  const lang = useLang();
   const wrap = useRef<HTMLDivElement>(null);
   const canvas = useRef<HTMLCanvasElement>(null);
   const state = useRef({
@@ -189,7 +194,19 @@ export default function Globe({
     ro.observe(wrap.current!);
 
     let raf = 0;
+    // draw only while the globe is on screen (and the tab visible): the entrance has three of them
+    let visible = true;
+    const io = new IntersectionObserver(([en]) => {
+      const was = visible;
+      visible = en.isIntersecting && en.boundingClientRect.width > 0;
+      if (visible && !was && !raf) raf = requestAnimationFrame(draw);
+    });
+    io.observe(wrap.current!);
     const draw = () => {
+      if (!visible || document.hidden) {
+        raf = 0;
+        return;
+      }
       const s = state.current;
       const W = s.size * dpr;
       const r = (W / 2) * (ring ? 0.86 : 0.98);
@@ -261,7 +278,13 @@ export default function Globe({
           if (!p) continue;
           const v = pts[i + 2];
           const size = dot * (s.sparse ? 1.5 : 0.7 + v * 0.9) * dpr;
-          if (night) {
+          if (palette === "green" && night) {
+            // pale leaf-light: sparse records dim, dense ones glowing
+            ctx.fillStyle = `rgba(${Math.round(120 + v * 70)},${Math.round(205 + v * 35)},${Math.round(110 + v * 40)},${(s.sparse ? 0.5 : 0.05) + Math.pow(v, 1.3) * 0.55})`;
+          } else if (palette === "green") {
+            // fresh leaf green where records are few, deep moss where they crowd
+            ctx.fillStyle = `rgba(${Math.round(104 - v * 64)},${Math.round(146 - v * 62)},${Math.round(64 - v * 18)},${(s.sparse ? 0.55 : 0.08) + Math.pow(v, 0.9) * (s.sparse ? 0.45 : 0.85)})`;
+          } else if (night) {
             ctx.fillStyle = `rgba(231,196,107,${(s.sparse ? 0.5 : 0.05) + Math.pow(v, 1.3) * 0.5})`;
           } else {
             ctx.fillStyle = `rgba(${Math.round(120 + v * 44)},${Math.round(70 - v * 10)},40,${(s.sparse ? 0.55 : 0.06) + Math.pow(v, 0.9) * (s.sparse ? 0.45 : 0.85)})`;
@@ -352,11 +375,15 @@ export default function Globe({
       raf = requestAnimationFrame(draw);
     };
     raf = requestAnimationFrame(draw);
+    const wake = () => !document.hidden && visible && !raf && (raf = requestAnimationFrame(draw));
+    document.addEventListener("visibilitychange", wake);
     return () => {
       cancelAnimationFrame(raf);
       ro.disconnect();
+      io.disconnect();
+      document.removeEventListener("visibilitychange", wake);
     };
-  }, [theme, autoRotate, ring, step]);
+  }, [theme, autoRotate, ring, step, palette]);
 
   const toLonLat = (e: React.PointerEvent): [number, number] | null => {
     const s = state.current;
@@ -408,7 +435,7 @@ export default function Globe({
       />
       {loading && gbif !== null && (
         <div className={`absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 label ${theme === "night" ? "text-glow" : "text-ink-2"}`}>
-          Plotting records…
+          {lang === "es" ? "Trazando registros…" : "Plotting records…"}
         </div>
       )}
     </div>

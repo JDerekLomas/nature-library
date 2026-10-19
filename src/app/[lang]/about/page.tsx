@@ -128,7 +128,7 @@ export default async function About({ params }: { params: Promise<{ lang: string
       <h2 className="font-display text-3xl mt-14 border-b-[3px] border-double border-ink pb-2">{t.sources}</h2>
       <dl className="mt-2">
         {SOURCES[lang].map(([name, url, text]) => (
-          <div key={name} className="grid sm:grid-cols-[240px_1fr] gap-2 sm:gap-6 py-4 border-b rule">
+          <div key={name} className="grid grid-cols-1 sm:grid-cols-[240px_1fr] gap-2 sm:gap-6 py-4 border-b rule">
             <dt>
               <a href={url} className="link-ink" target="_blank" rel="noreferrer">
                 {name}

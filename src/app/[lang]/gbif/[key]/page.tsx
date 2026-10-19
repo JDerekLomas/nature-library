@@ -20,11 +20,17 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
 const RANK_ORDER = ["KINGDOM", "PHYLUM", "CLASS", "ORDER", "FAMILY", "GENUS", "SPECIES"];
 const PER = 100;
 
-async function inatMatch(name: string) {
+// iNaturalist ids of the kingdoms, so a name shared across kingdoms (Morus: gannets and mulberries) resolves to the right one
+const INAT_KINGDOM: Record<string, number> = { Animalia: 1, Plantae: 47126, Fungi: 47170, Chromista: 48222, Protozoa: 47686, Bacteria: 67333, Archaea: 151817, Viruses: 131236 };
+
+async function inatMatch(name: string, rank: string, kingdom?: string) {
   try {
-    const r = await fetch(`https://api.inaturalist.org/v1/taxa?q=${encodeURIComponent(name)}&per_page=5&is_active=true`, { next: { revalidate: 2592000 }, signal: AbortSignal.timeout(6000) });
+    const r = await fetch(`https://api.inaturalist.org/v1/taxa?q=${encodeURIComponent(name)}&per_page=10&is_active=true`, { next: { revalidate: 2592000 }, signal: AbortSignal.timeout(6000) });
     const j = await r.json();
-    return (j.results as { id: number; name: string }[]).find((x) => x.name.toLowerCase() === name.toLowerCase())?.id;
+    const k = kingdom ? INAT_KINGDOM[kingdom] : undefined;
+    return (j.results as { id: number; name: string; rank: string; ancestor_ids?: number[] }[]).find(
+      (x) => x.name.toLowerCase() === name.toLowerCase() && x.rank === rank.toLowerCase() && (!k || x.ancestor_ids?.includes(k))
+    )?.id;
   } catch {
     return undefined;
   }
@@ -49,7 +55,7 @@ export default async function GbifPage({ params, searchParams }: { params: Promi
 
   // the iNaturalist page is richer (photos, sounds), so prefer it when the same name exists there
   if (!sp.stay) {
-    const inat = await inatMatch(name);
+    const inat = await inatMatch(name, t.rank, t.kingdom);
     if (inat) {
       const c = getByInat(inat);
       redirect(L(c ? `/species/${c.slug}` : `/taxon/${inat}`));
@@ -79,7 +85,7 @@ export default async function GbifPage({ params, searchParams }: { params: Promi
     <article className="mx-auto max-w-[1320px] px-4 sm:px-6 pt-8">
       <div className="flex flex-wrap items-center gap-x-5 gap-y-1 label text-ink-2 border-b border-ink pb-2">
         <span className="text-ink">GBIF·{key}</span>
-        <span>{t.rank.toLowerCase()}</span>
+        <span>{(T.common.ranks[t.rank.toLowerCase()] ?? t.rank).toLowerCase()}</span>
         {t.kingdom && <span>{t.kingdom}</span>}
         <span>{g.records(nf(records))}</span>
         {t.extinct && <span className="text-stamp">{g.extinct}</span>}
@@ -91,7 +97,7 @@ export default async function GbifPage({ params, searchParams }: { params: Promi
             <li key={a.key} className="flex items-center">
               {i > 0 && <span className="mx-1.5">›</span>}
               <Link href={L(`/gbif/${a.key}?stay=1`)} className="hover:text-moss">
-                <span className="label !text-[0.55rem] mr-1">{a.rank.toLowerCase()}</span>
+                <span className="label !text-[0.55rem] mr-1">{(T.common.ranks[a.rank.toLowerCase()] ?? a.rank).toLowerCase()}</span>
                 {a.rank === "GENUS" ? <i>{a.canonicalName}</i> : a.canonicalName}
               </Link>
             </li>
@@ -99,7 +105,7 @@ export default async function GbifPage({ params, searchParams }: { params: Promi
         </ol>
       )}
 
-      <div className="grid lg:grid-cols-[minmax(0,420px)_minmax(0,1fr)] gap-10 lg:gap-16 mt-8">
+      <div className="grid grid-cols-1 lg:grid-cols-[minmax(0,420px)_minmax(0,1fr)] gap-10 lg:gap-16 mt-8">
         <div className="self-start">
           {wd && (
             <figure className="mb-3">
@@ -115,7 +121,7 @@ export default async function GbifPage({ params, searchParams }: { params: Promi
               {images.slice(0, 6).map((im, i) => (
                 <a key={im.url} href={`https://www.gbif.org/occurrence/${im.occurrence}`} target="_blank" rel="noreferrer" className={`block bg-paper-3 overflow-hidden ${i === 0 ? "col-span-2 aspect-[4/3]" : "aspect-square"}`}>
                   {/* eslint-disable-next-line @next/next/no-img-element */}
-                  <img src={im.url} alt={`${name}: ${im.basis === "PRESERVED_SPECIMEN" ? "museum specimen" : "record photograph"}`} loading={i ? "lazy" : "eager"} className="w-full h-full object-cover" />
+                  <img src={im.url} alt={`${name}: ${im.basis === "PRESERVED_SPECIMEN" ? g.specimens : g.fieldPhotos}`} loading={i ? "lazy" : "eager"} className="w-full h-full object-cover" />
                 </a>
               ))}
             </div>
@@ -194,7 +200,7 @@ export default async function GbifPage({ params, searchParams }: { params: Promi
               <p className="label text-ink-2 mb-3">
                 {g.branches(t.numDescendants ? g.namesBelow(nf(t.numDescendants), (T.common.ranks[t.rank.toLowerCase()] ?? t.rank).toLowerCase()) : "", "", page)}
               </p>
-              <ul className="grid sm:grid-cols-2 lg:grid-cols-3 gap-x-6">
+              <ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-6">
                 {children.results
                   .filter((c) => c.taxonomicStatus === "ACCEPTED" || !c.taxonomicStatus)
                   .map((c) => (
@@ -204,7 +210,7 @@ export default async function GbifPage({ params, searchParams }: { params: Promi
                           {c.rank === "SPECIES" || c.rank === "GENUS" ? <i>{c.canonicalName}</i> : c.canonicalName}
                           {c.vernacularName ? <span className="text-ink-2 text-sm"> · {c.vernacularName}</span> : null}
                         </span>
-                        <span className="label text-ink-2 !text-[0.55rem] shrink-0 pt-1">{c.rank.toLowerCase()}</span>
+                        <span className="label text-ink-2 !text-[0.55rem] shrink-0 pt-1">{(T.common.ranks[c.rank.toLowerCase()] ?? c.rank).toLowerCase()}</span>
                       </Link>
                     </li>
                   ))}

@@ -20,7 +20,7 @@ export default function GerardPanel({ g, name }: { g: GerardRef; name: string })
     [R[4], g.names, false],
   ];
   return (
-    <div className="grid lg:grid-cols-[minmax(0,380px)_minmax(0,1fr)] gap-10">
+    <div className="grid grid-cols-1 lg:grid-cols-[minmax(0,380px)_minmax(0,1fr)] gap-10">
       <a href={gerardUrl(g.page)} target="_blank" rel="noreferrer" className="block group self-start">
         <div className="bg-[#efe6cf] p-3 border rule group-hover:border-ink transition-colors">
           {/* eslint-disable-next-line @next/next/no-img-element */}
@@ -40,7 +40,7 @@ export default function GerardPanel({ g, name }: { g: GerardRef; name: string })
           {rows
             .filter(([, v]) => v)
             .map(([k, v, big]) => (
-              <div key={k} className="grid sm:grid-cols-[130px_1fr] gap-1 sm:gap-5">
+              <div key={k} className="grid grid-cols-1 sm:grid-cols-[130px_1fr] gap-1 sm:gap-5">
                 <dt className="label text-rust pt-1.5">{k}</dt>
                 <dd className={`leading-relaxed ${big ? "font-display text-[1.25rem] leading-[1.45]" : "text-ink-2"}`}>{v}</dd>
               </div>

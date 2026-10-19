@@ -3,9 +3,10 @@
 import { useEffect, useState } from "react";
 import Globe from "./Globe";
 import { useLang, useT } from "@/i18n/LangProvider";
+import { LOCALE } from "@/i18n/config";
 
 /** Globe of GBIF occurrence records for one taxon, with record count and top countries. */
-export default function WhereItLives({ gbifKey, name, nativeRange }: { gbifKey?: number; name: string; nativeRange?: string }) {
+export default function WhereItLives({ gbifKey, name, nativeRange, kingdom, rank }: { gbifKey?: number; name: string; nativeRange?: string; kingdom?: string; rank?: string }) {
   const lang = useLang();
   const t = useT().widgets;
   const [key, setKey] = useState<number | undefined>(gbifKey);
@@ -14,11 +15,13 @@ export default function WhereItLives({ gbifKey, name, nativeRange }: { gbifKey?:
 
   useEffect(() => {
     if (key) return;
-    fetch(`https://api.gbif.org/v1/species/match?name=${encodeURIComponent(name)}`)
+    // kingdom and rank keep homonyms apart (Morus the gannet, Morus the mulberry)
+    const extra = `${kingdom ? `&kingdom=${kingdom}` : ""}${rank ? `&rank=${rank.toUpperCase()}` : ""}`;
+    fetch(`https://api.gbif.org/v1/species/match?name=${encodeURIComponent(name)}${extra}`)
       .then((r) => r.json())
-      .then((j) => j.usageKey && setKey(j.usageKey))
+      .then((j) => j.usageKey && j.matchType !== "NONE" && (!kingdom || j.kingdom === kingdom) && setKey(j.acceptedUsageKey ?? j.usageKey))
       .catch(() => {});
-  }, [key, name]);
+  }, [key, name, kingdom, rank]);
 
   useEffect(() => {
     if (!key) return;
@@ -44,7 +47,7 @@ export default function WhereItLives({ gbifKey, name, nativeRange }: { gbifKey?:
   }, [key]);
 
   return (
-    <div className="grid md:grid-cols-[minmax(0,1fr)_260px] gap-8 items-center">
+    <div className="grid grid-cols-1 md:grid-cols-[minmax(0,1fr)_260px] gap-8 items-center">
       <div className="max-w-[560px] w-full mx-auto">
         {key ? (
           <Globe gbif={`taxonKey=${key}`} initial={[20, 25]} step={2} autoRotate autoCenter />
@@ -54,7 +57,7 @@ export default function WhereItLives({ gbifKey, name, nativeRange }: { gbifKey?:
       </div>
       <div>
         <p className="label text-ink-2">{t.recordedSightings}</p>
-        <p className="font-display text-5xl mt-1">{count == null ? "—" : count.toLocaleString()}</p>
+        <p className="font-display text-5xl mt-1">{count == null ? "—" : count.toLocaleString(LOCALE[lang])}</p>
         <p className="text-sm text-ink-2 mt-1">{t.georef}</p>
         {nativeRange && (
           <>
@@ -72,7 +75,7 @@ export default function WhereItLives({ gbifKey, name, nativeRange }: { gbifKey?:
                     <span className="font-mono text-ink-2 mr-2">{String(i + 1).padStart(2, "0")}</span>
                     {c.name}
                   </span>
-                  <span className="font-mono text-ink-2">{c.count.toLocaleString()}</span>
+                  <span className="font-mono text-ink-2">{c.count.toLocaleString(LOCALE[lang])}</span>
                 </li>
               ))}
             </ol>

@@ -53,12 +53,27 @@ export default async function SpeciesPage({ params }: { params: Promise<{ lang: 
         <span className="text-ink">{e.nl}</span>
         <Link href={L("/wheel")} className="hover:text-moss">{T.common.kingdoms[e.kingdom] ?? e.kingdom}</Link>
         {e.family && <span>{e.family}</span>}
-        {e.form && <span>{e.form}</span>}
+        {e.form && <span>{T.sheet.forms[e.form] ?? e.form}</span>}
         {e.observations ? <span>{T.common.observations(e.observations.toLocaleString(LOCALE[lang]))}</span> : null}
         <span className="ml-auto hidden sm:inline">{t.codex}</span>
       </div>
 
-      <div className="grid lg:grid-cols-[minmax(0,420px)_minmax(0,1fr)] gap-10 lg:gap-16 mt-8">
+      {(() => {
+        // the first thing on the sheet of anything that can kill or poison, above the photograph, on every screen size
+        const level = e.edibility === "deadly" || raw.shelves?.includes("deadly") ? "deadly" : e.edibility === "toxic" || raw.shelves?.includes("toxic") ? "toxic" : raw.shelves?.includes("venomous") ? "venomous" : null;
+        if (!level) return null;
+        const D = T.sheet.danger;
+        const [word, line] = D[level];
+        return (
+          <div role="alert" className="mt-4 border-2 border-stamp bg-stamp/[0.07] px-4 py-3 flex flex-wrap items-baseline gap-x-4 gap-y-1">
+            <span className="stamp text-stamp border-stamp shrink-0">{word}</span>
+            <span className="text-[0.98rem] leading-snug">{line}</span>
+            <span className="text-xs text-ink-2 w-full">{D.emergency}</span>
+          </div>
+        );
+      })()}
+
+      <div className="grid grid-cols-1 lg:grid-cols-[minmax(0,420px)_minmax(0,1fr)] gap-10 lg:gap-16 mt-8">
         <div className="lg:sticky lg:top-24 self-start">
           <PhotoPlate photos={e.photos ?? []} alt={e.common} nl={e.nl} />
           <div className="specimen-label mt-8 p-4 text-sm">
@@ -197,7 +212,7 @@ export default async function SpeciesPage({ params }: { params: Promise<{ lang: 
 
       {(e.lore || e.funFact) && (
         <Section n={sec()} title={t.s.marginalia}>
-          <div className="grid md:grid-cols-2 gap-10">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
             {e.lore && (
               <blockquote className="font-display text-[1.45rem] leading-snug border-l-2 border-moss pl-6">{e.lore}</blockquote>
             )}

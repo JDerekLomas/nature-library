@@ -1249,7 +1249,7 @@
    "Mallee scrub"
   ],
   "abilities": [
-   "Drinks through its skin: fine channels between its scales draw water to its mouth",
+   "Wicks water to its mouth: fine channels between its scales draw dew and damp from sand up to the corners of its jaws, where it swallows it",
    "Eats only small ants, licking them up one at a time",
    "Has a knob on the back of its neck that acts as a 'false head' when it dips its real head",
    "Changes colour between yellow, red and brown with temperature and mood"
@@ -1273,7 +1273,7 @@
   },
   "iucn": "LC",
   "lore": "John Edward Gray named it in 1841 after Moloch, the Canaanite god associated with child sacrifice, a reference to its fearsome look.",
-  "funFact": "A thorny devil can eat thousands of ants in a single meal."
+  "funFact": "A thorny devil can eat thousands of ants in a single day, licking them up one at a time."
  },
  {
   "slug": "chlamydosaurus-kingii",

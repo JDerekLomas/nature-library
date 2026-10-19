@@ -194,7 +194,7 @@
    "germination": "Sembrar en superficie sobre sustrato húmedo, con calor y luz; 2–4 semanas"
   },
   "grow": {
-   "zones": "Tropical only (USDA 10–12)",
+   "zones": "Solo trópico (USDA 10–12)",
    "climates": [
     "Tropical",
     "Subtropical"
@@ -259,7 +259,7 @@
    "germination": "Sembrar en superficie sobre sustrato húmedo, con calor y luz"
   },
   "grow": {
-   "zones": "Tropical only (USDA 10–12)",
+   "zones": "Solo trópico (USDA 10–12)",
    "climates": [
     "Tropical",
     "Subtropical"
@@ -372,7 +372,7 @@
    "germination": "Sembrar fresca en sustrato arenoso a 25–30 °C; la podredumbre por hongos es la principal causa de muerte"
   },
   "grow": {
-   "zones": "USDA 10–11 (or glasshouse)",
+   "zones": "USDA 10–11 (o invernadero)",
    "climates": [
     "Árido"
    ],
@@ -511,7 +511,7 @@
    "germination": "Sembrar fresca (las semillas no se conservan) en sustrato cálido y húmedo"
   },
   "grow": {
-   "zones": "Tropical only (USDA 11–12) or heated glasshouse",
+   "zones": "Solo trópico (USDA 11–12) o invernadero climatizado",
    "climates": [
     "Tropical"
    ],
@@ -560,7 +560,7 @@
    "germination": "Sembrar en superficie sobre turba y arena húmedas; 2–4 semanas con luz y calor"
   },
   "grow": {
-   "zones": "USDA 7–10 outdoors (needs winter dormancy)",
+   "zones": "USDA 7–10 al aire libre (necesita reposo invernal)",
    "climates": [
     "Subtropical",
     "Templado"
@@ -609,7 +609,7 @@
    "germination": "Sembrar fresca en superficie sobre esfagno triturado, con humedad alta y noches frescas"
   },
   "grow": {
-   "zones": "Glasshouse/terrarium only (highland conditions)",
+   "zones": "Solo en invernadero o terrario (condiciones de montaña)",
    "climates": [
     "Tropical de montaña"
    ],
@@ -1080,7 +1080,7 @@
    "germination": "Alternar remojo y secado al sol de los frutos durante 1–2 semanas para romper la latencia; la germinación es irregular"
   },
   "grow": {
-   "zones": "Tropical only (USDA 10–12)",
+   "zones": "Solo trópico (USDA 10–12)",
    "climates": [
     "Tropical",
     "Monzónico"
@@ -1142,7 +1142,7 @@
    "germination": "Sembrar fresca (viabilidad corta); 2–4 semanas con calor"
   },
   "grow": {
-   "zones": "Tropical only (USDA 10–12)",
+   "zones": "Solo trópico (USDA 10–12)",
    "climates": [
     "Tropical"
    ],
@@ -1240,7 +1240,7 @@
    "germination": "Se propaga sobre todo por fragmentos; coloque hebras vivas sobre turba húmeda"
   },
   "grow": {
-   "zones": "USDA 3–8 (outdoors)",
+   "zones": "USDA 3–8 (al aire libre)",
    "climates": [
     "Templado",
     "Boreal",
@@ -1389,7 +1389,7 @@
    "germination": "Limar la cubierta dura por el extremo no puntiagudo y remojar en agua tibia; brota en pocos días"
   },
   "grow": {
-   "zones": "USDA 4–11 (rhizome must not freeze)",
+   "zones": "USDA 4–11 (el rizoma no debe helarse)",
    "climates": [
     "Tropical",
     "Subtropical",
@@ -1442,7 +1442,7 @@
    "germination": "Conservar en agua (mueren si se secan); germinar a unos 30 °C"
   },
   "grow": {
-   "zones": "Tropical only (USDA 11–12) or heated glasshouse pool",
+   "zones": "Solo trópico (USDA 11–12) o estanque en invernadero climatizado",
    "climates": [
     "Tropical"
    ],
@@ -1670,7 +1670,7 @@
    "germination": "Remojar en agua caliente durante la noche; sembrar a 20–30 °C, 1–3 semanas"
   },
   "grow": {
-   "zones": "USDA 9–11 (houseplant elsewhere)",
+   "zones": "USDA 9–11 (planta de interior en otros lugares)",
    "climates": [
     "Tropical",
     "Subtropical"
@@ -1719,7 +1719,7 @@
    "germination": "Sembrar en superficie sobre sustrato con grava, mantener húmedo a 15–25 °C; 1–3 semanas"
   },
   "grow": {
-   "zones": "USDA 10–11 (or sunny windowsill)",
+   "zones": "USDA 10–11 (o en un alféizar soleado)",
    "climates": [
     "Árido",
     "Semiárido"
@@ -1874,7 +1874,7 @@
    "germination": "Sembrar a 1 cm de profundidad a 20–25 °C; 3–7 días"
   },
   "grow": {
-   "zones": "Annual; any frost-free season",
+   "zones": "Anual; cualquier temporada sin heladas",
    "climates": [
     "Templado",
     "Subtropical",
@@ -2140,7 +2140,7 @@
    "germination": "Remojar una noche y sembrar con calor (con guantes); 1–3 semanas"
   },
   "grow": {
-   "zones": "USDA 9–11 perennial; annual elsewhere",
+   "zones": "Perenne en USDA 9–11; anual en otros lugares",
    "climates": [
     "Tropical",
     "Subtropical",
@@ -2667,7 +2667,7 @@
    "germination": "Normalmente se cultiva a partir de esquejes"
   },
   "grow": {
-   "zones": "USDA 9–11 (container plant elsewhere)",
+   "zones": "USDA 9–11 (en maceta en otros lugares)",
    "climates": [
     "Subtropical",
     "Tropical",
@@ -2781,7 +2781,7 @@
    "germination": "Sembrar a 2–3 cm de profundidad en suelo a más de 18 °C; 1–2 semanas"
   },
   "grow": {
-   "zones": "Annual in USDA 7–11; perennial in frost-free areas",
+   "zones": "Anual en USDA 7–11; perenne en zonas sin heladas",
    "climates": [
     "Subtropical",
     "Tropical",
@@ -2843,7 +2843,7 @@
    "germination": "Remojar o escarificar la semilla; sembrar con calor, 1–2 semanas"
   },
   "grow": {
-   "zones": "Tropical (USDA 10–12); annual elsewhere",
+   "zones": "Tropical (USDA 10–12); anual en otros lugares",
    "climates": [
     "Tropical",
     "Subtropical"
@@ -2912,7 +2912,7 @@
    "germination": "Sembrar a 1–2 cm de profundidad en suelo fresco de primavera; 5–10 días"
   },
   "grow": {
-   "zones": "Annual; USDA 4–10",
+   "zones": "Anual; USDA 4–10",
    "climates": [
     "Templado",
     "Continental",

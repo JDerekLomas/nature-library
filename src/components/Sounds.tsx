@@ -35,7 +35,7 @@ export default function Sounds({ inatId, name }: { inatId?: number; name: string
   if (recs === null) return <p className="label text-ink-2">{t.lookingRecordings}</p>;
   if (!recs.length) return <p className="text-sm text-ink-2">{t.noRecordings(name.toLowerCase())}</p>;
   return (
-    <div className="grid sm:grid-cols-2 gap-4">
+    <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
       {recs.map((r) => (
         <figure key={r.url} className="border rule bg-card p-3">
           <audio controls preload="none" className="w-full h-9">

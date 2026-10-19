@@ -67,7 +67,7 @@
     "Recoja las cabezuelas una mañana seca, cuando los pétalos blancos estén planos o empiecen a doblarse hacia atrás",
     "Séquelas sobre rejillas, sin sol directo, y guárdelas en recipientes herméticos"
    ],
-   "zones": "Annual; grown in USDA 2–10"
+   "zones": "Anual; se cultiva en USDA 2–10"
   },
   "lore": "Dioscórides la describió como anthemis en De Materia Medica (siglo I d. C.), y el bābūnaj se convirtió en un elemento fijo de la farmacia árabe medieval y unani. En El cuento de Perico, el conejo travieso (1902), de Beatrix Potter, la madre de Perico le da manzanilla.",
   "funFact": "Para distinguir la verdadera manzanilla de su parecida, la manzanilla bastarda inodora, corte la cabezuela: el receptáculo cónico de la manzanilla es hueco."
@@ -212,7 +212,7 @@
     "Coseche cuando el follaje se seque; guarde algunos rizomas para replantar",
     "Hierva, seque al sol y muela el resto para obtener la especia"
    ],
-   "zones": "USDA 8–12 (rhizomes lifted or protected where winters freeze)"
+   "zones": "USDA 8–12 (los rizomas se desentierran o se protegen donde los inviernos hielan)"
   },
   "lore": "En la ceremonia hindú del haldi, antes de la boda, se aplica pasta de cúrcuma a los novios. Las túnicas de color azafrán de los monjes budistas theravada se teñían tradicionalmente con cúrcuma o con duramen de yaca.",
   "funFact": "Un estudio de 2019 dirigido por Stanford descubrió que parte de la cúrcuma de Bangladés se había avivado con cromato de plomo, un pigmento industrial tóxico. Se identificó como probable fuente del plomo en la sangre de la población."
@@ -282,7 +282,7 @@
     "Coseche las raíces cuando maduren las bayas y las hojas empiecen a secarse",
     "Lave, corte y seque al sol las raíces"
    ],
-   "zones": "USDA 8–11 (annual elsewhere)"
+   "zones": "USDA 8–11 (anual en otros lugares)"
   },
   "lore": "La Charaka Samhita (h. siglos I–II d. C.) incluye la ashwagandha entre las hierbas fortalecedoras. Se dice que su nombre sánscrito, “olor a caballo”, describe tanto el olor de la raíz como la fuerza que se creía que daba.",
   "funFact": "Linneo situó primero la planta en el género Physalis, junto a los tomatillos y el alquequenje del Perú (uchuva), por la envoltura en forma de farolillo que rodea su baya."
@@ -431,7 +431,7 @@
     "Despunte los brotes para que crezca frondosa",
     "Coseche las hojas a menudo; deje florecer algunas plantas para las abejas y la semilla"
    ],
-   "zones": "USDA 10–12 (summer annual elsewhere)"
+   "zones": "USDA 10–12 (anual de verano en otros lugares)"
   },
   "lore": "En los Puranas, Tulsi es la consorte de Visnú, y la fiesta anual de Tulsi Vivah casa ritualmente la planta con Visnú, en forma de piedra shaligram, o con Krishna. Los devotos vaisnavas llevan cuentas de oración (kanthi mala) talladas en tallos de tulsi.",
   "funFact": "Gran parte de la literatura médica sigue llamando a la albahaca sagrada Ocimum sanctum. Pero Linneo ya la había llamado O. tenuiflorum en 1753, catorce años antes, así que ese nombre tiene prioridad."
@@ -895,7 +895,7 @@
     "Recoja las flores cada pocos días para que siga produciendo",
     "Seque los pétalos a la sombra para infusiones, aceites o colorante"
    ],
-   "zones": "Hardy annual; grown in USDA 2–11"
+   "zones": "Anual resistente; se cultiva en USDA 2–11"
   },
   "lore": "El Complete Herbal (1653) de Nicholas Culpeper apreciaba las flores de caléndula por 'comforting the heart' (confortar el corazón). Los cocineros medievales usaban los pétalos como sustituto barato del azafrán.",
   "funFact": "Su nombre procede del latín calendae, el primer día del mes, porque en climas suaves parecía estar en flor al comienzo de cada mes."
@@ -1176,7 +1176,7 @@
     "Manténgalo cálido (más de 20 °C) y húmedo a media sombra",
     "Coseche cuando las hojas amarilleen, o arranque antes el “jengibre tierno”"
    ],
-   "zones": "USDA 9–12 (container elsewhere)"
+   "zones": "USDA 9–12 (en maceta en otros lugares)"
   },
   "lore": "Las Analectas cuentan que Confucio 'nunca comía sin jengibre'. El zanjabil se menciona en el Corán (76:17) como aromatizante de la bebida del paraíso.",
   "funFact": "El nombre del jengibre ha viajado desde el sánscrito śṛṅgavera (“en forma de cuerno”), pasando por el griego zingiberis y el latín zingiber, hasta el castellano."
@@ -1589,7 +1589,7 @@
     "Cubra las cabezuelas con bolsas de papel mientras se secan para no perder las semillas",
     "Use guantes gruesos para cosechar y limpiar la semilla"
    ],
-   "zones": "Annual/biennial; USDA 5–9"
+   "zones": "Anual o bienal; USDA 5–9"
   },
   "lore": "Dioscórides recomendaba las semillas de cardo para las mordeduras de serpiente, y en la Europa medieval la planta se dedicó a la Virgen María, lo que le dio el nombre de Carduus Mariae. Culpeper escribió que era buena contra 'the jaundice' (la ictericia) y las obstrucciones del hígado.",
   "funFact": "La silimarina no es un compuesto, sino una mezcla de al menos siete flavonolignanos más el flavonoide taxifolina. La silibinina, el principal, es la forma que se administra por goteo en la intoxicación por setas."
@@ -1650,7 +1650,7 @@
     "Coseche las hojas en la fase de botón temprano, cuando la artemisinina alcanza su máximo",
     "Séquelas a la sombra"
    ],
-   "zones": "Annual; USDA 4–10"
+   "zones": "Anual; USDA 4–10"
   },
   "lore": "El Zhouhou Beiji Fang (Manual de recetas para urgencias, h. 340 d. C.) de Ge Hong indicaba a los lectores remojar un puñado de qinghao en agua y beber el jugo para las fiebres. En 1971, Tu Youyou, del programa secreto chino contra la malaria, el Proyecto 523, leyó esa línea y pasó a una extracción a baja temperatura que conservaba el compuesto activo.",
   "funFact": "La artemisinina también la producen levaduras modificadas genéticamente. Sanofi lanzó en 2013 la producción de artemisinina semisintética, pero le costó competir en precio con las plantas cultivadas en el campo."
@@ -1712,7 +1712,7 @@
     "Trasplante a laderas frescas, brumosas y libres de heladas",
     "Tradicionalmente la corteza se arrancaba por secciones o se recepaban los árboles"
    ],
-   "zones": "USDA 10–11 (frost-free highland climates)"
+   "zones": "USDA 10–11 (climas de montaña sin heladas)"
   },
   "lore": "Linneo dio nombre al género en 1742 en honor a la condesa de Chinchón, que según la leyenda se curó de unas fiebres en Lima hacia 1638, una historia de la que hoy dudan los historiadores. Además, escribió mal su título. Un árbol de la quina figura en el escudo nacional del Perú.",
   "funFact": "La quinina emite un brillo azul intenso bajo la luz ultravioleta; por eso un gin-tonic fluoresce bajo una luz negra."
@@ -1784,7 +1784,7 @@
     "Aclare a 15–20 cm, porque las amapolas toleran mal el trasplante",
     "Para semilla ornamental, corte las cápsulas cuando estén secas y suenen al agitarlas"
    ],
-   "zones": "Hardy annual; USDA 3–10"
+   "zones": "Anual resistente; USDA 3–10"
   },
   "lore": "Se han hallado semillas y cápsulas en el poblado lacustre neolítico de La Marmotta, cerca de Roma (h. 5600 a. C.). Entre 1804 y 1817, el farmacéutico alemán Friedrich Sertürner aisló y describió la morfina, a la que llamó morphium por Morfeo, el dios de los sueños. El comercio británico de opio desencadenó las guerras del Opio con China (1839–42, 1856–60).",
   "funFact": "La morfina fue el primer alcaloide aislado de una planta, lo que inauguró la química de los fármacos de origen vegetal."
@@ -1986,7 +1986,7 @@
     "Riegue solo en sequías prolongadas",
     "Recórtelo después de la floración, nunca hasta la madera desnuda"
    ],
-   "zones": "USDA 7–10 (some cultivars to 6)"
+   "zones": "USDA 7–10 (algunos cultivares llegan a 6)"
   },
   "lore": "En Hamlet, Ofelia dice 'There's rosemary, that's for remembrance' (“Aquí hay romero, que es para el recuerdo”). En la Inglaterra medieval y Tudor se llevaban ramitas tanto en las bodas como en los funerales. El “agua de la reina de Hungría”, un alcohol a base de romero, fue uno de los primeros perfumes alcohólicos de Europa.",
   "funFact": "El extracto de romero está autorizado en la UE como antioxidante alimentario con el código E 392."
@@ -2546,7 +2546,7 @@
     "Acolche y escarde durante varios años",
     "Arranque toda la masa de raíces a los 3–5 años, guardando tallos para replantar"
    ],
-   "zones": "Tropical only (USDA 11–12)"
+   "zones": "Solo trópico (USDA 11–12)"
   },
   "lore": "En la ceremonia real tongana del kava (taumafa kava), la disposición de los asientos y el orden de servicio muestran el rango de cada jefe, y es parte esencial de la coronación de un rey. Los naturalistas del capitán Cook, entre ellos Georg Forster, describieron la bebida en 1777.",
   "funFact": "Como el kava cultivado no puede producir semilla, todas las plantas de kava del Pacífico descienden de esquejes transportados por personas, algunos a lo largo de miles de kilómetros de océano abierto."
@@ -2693,7 +2693,7 @@
     "Despunte los brotes con regularidad para que crezca frondosa",
     "Use solo agua limpia"
    ],
-   "zones": "USDA 8–11 (or indoors/aquarium)"
+   "zones": "USDA 8–11 (o en interior o acuario)"
   },
   "lore": "La Charaka Samhita incluye la brahmi entre los rasayanas medhya (que favorecen el intelecto). Los especialistas aún debaten si algunas referencias clásicas a la “brahmi” se referían a esta planta o a Centella asiatica.",
   "funFact": "La bacopa es una planta de acuario común, y esa misma especie se vende en herbolarios como tónico para la memoria."
@@ -2767,7 +2767,7 @@
     "Coseche con regularidad las hojas exteriores con su pecíolo",
     "Cultívela en un recipiente o bancal delimitado para que no se extienda"
    ],
-   "zones": "USDA 9–12 (or indoors)"
+   "zones": "USDA 9–12 (o en interior)"
   },
   "lore": "El jixuecao figura en el Shennong Bencao Jing, y la mandukaparni en la Charaka Samhita. El nombre farmacéutico francés Madécassol procede de 'Madécasse', el antiguo nombre francés de Madagascar, una de las primeras fuentes de suministro.",
   "funFact": "Aunque parece un diminuto nenúfar, la centella pertenece a la familia de la zanahoria, las apiáceas."
@@ -2900,7 +2900,7 @@
     "Recoja las vainas justo antes de la plena madurez, cada pocas semanas",
     "Seque las vainas lentamente para conservar su color verde"
    ],
-   "zones": "Tropical only (USDA 10–12)"
+   "zones": "Solo trópico (USDA 10–12)"
   },
   "lore": "La qahwa aromatizada con cardamomo es un símbolo de hospitalidad en toda la península arábiga. Guatemala se convirtió en el mayor exportador del mundo después de que un cafetalero alemán introdujera allí la planta hacia 1914.",
   "funFact": "La mayor parte del cardamomo verde del mundo ya no procede de la India, sino de Guatemala, donde apenas se consume."
@@ -2973,7 +2973,7 @@
     "Corte los tallos cuando las cápsulas se vuelvan pardas y secas",
     "Séquelas en bolsas de papel y sacúdalas para sacar las semillas"
    ],
-   "zones": "Hardy annual; USDA 3–10"
+   "zones": "Anual resistente; USDA 3–10"
   },
   "lore": "El Sahih al-Bujari recoge que el profeta Mahoma dijo que la semilla negra es cura de toda enfermedad salvo la muerte. Dioscórides la llamaba melanthion y la recomendaba para el dolor de cabeza y el catarro.",
   "funFact": "Pese al nombre de “comino negro”, Nigella no tiene parentesco con el comino: pertenece a la familia de los ranúnculos, y su prima de jardín es la arañuela o damasquina (Nigella damascena)."
@@ -3048,7 +3048,7 @@
     "Para semilla, deje que las vainas se sequen y amarilleen en la planta",
     "Trille y guarde las semillas en seco"
    ],
-   "zones": "Annual; USDA 4–11"
+   "zones": "Anual; USDA 4–11"
   },
   "lore": "Columela y Catón escribieron sobre el fenogreco como forraje para el ganado. El Capitulare de villis de Carlomagno (h. 800) lo incluía entre las plantas que debían cultivarse en sus fincas.",
   "funFact": "Un misterioso olor a sirope de arce que flotó varias veces sobre Manhattan a partir de 2005 se atribuyó en 2009 a una fábrica de Nueva Jersey que procesaba semilla de fenogreco."
@@ -3187,7 +3187,7 @@
     "Coseche cuando las espigas se vuelvan pardo rojizas, con tiempo seco (la lluvia en la maduración hace que las semillas se hinchen y se desgranen)",
     "Trille y muela para separar la cutícula"
    ],
-   "zones": "Annual; cool-season crop in warm climates (USDA 8–11)"
+   "zones": "Anual; cultivo de temporada fresca en climas cálidos (USDA 8–11)"
   },
   "lore": "Los médicos persas la llamaron asp-ghol, “oreja de caballo”, por la forma de la semilla. Entró en la práctica india a través de la medicina unani bajo los mogoles, y hoy la India cultiva la mayor parte del suministro mundial.",
   "funFact": "Mezclada con agua, la cutícula de psilio cuaja en un gel espeso en pocos minutos; por eso los panaderos la usan como aglutinante en el pan sin gluten."
@@ -3318,7 +3318,7 @@
     "Despunte las flores para mejorar el crecimiento de la raíz, salvo si quiere guardar semilla",
     "Arranque las raíces en el invierno del segundo año"
    ],
-   "zones": "Tropical only (USDA 10–12)"
+   "zones": "Solo trópico (USDA 10–12)"
   },
   "lore": "El género honra al médico y botánico alemán del siglo XVI Leonhard Rauwolf. En 1949, el cardiólogo de Bombay Rustom Jal Vakil describió su efecto hipotensor en el British Heart Journal, y en 1952 químicos de Ciba aislaron la reserpina.",
   "funFact": "La reserpina causó depresión en algunos pacientes al vaciar el cerebro de monoaminas, lo que ayudó a inspirar la “hipótesis monoaminérgica” de la depresión."
@@ -3388,7 +3388,7 @@
     "Riegue solo cuando esté seco; el exceso de riego pudre las raíces",
     "Manténgala lejos de mascotas y niños"
    ],
-   "zones": "USDA 10–12 (summer annual elsewhere)"
+   "zones": "USDA 10–12 (anual de verano en otros lugares)"
   },
   "lore": "En la década de 1950, Robert Noble y Charles Beer, de la Universidad de Western Ontario, analizaron hojas enviadas desde Jamaica como remedio para la diabetes. No encontraron efecto sobre la glucemia, pero sí un fuerte descenso de los glóbulos blancos, y aislaron la vinblastina. Eli Lilly desarrolló por su cuenta la vincristina.",
   "funFact": "Las hojas solo contienen trazas de vinblastina (a menudo se cita alrededor de 1 g por cada 500 kg de hojas secas), por lo que los químicos llevan mucho tiempo intentando fabricarla a partir de sus precursores más abundantes, la catarantina y la vindolina."

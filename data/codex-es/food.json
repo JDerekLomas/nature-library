@@ -45,7 +45,7 @@
    "germination": "Necesita 60–90 días de estratificación en frío húmedo a 1–5 °C; las plántulas no se parecerán a la planta madre"
   },
   "grow": {
-   "zones": "USDA 3–8 (varies by cultivar; some low-chill types to 9–10)",
+   "zones": "USDA 3–8 (varía según el cultivar; algunos tipos de bajo requerimiento de frío llegan a 9–10)",
    "climates": [
     "Templado",
     "Continental",
@@ -115,7 +115,7 @@
    "germination": "Siembra en fresco a los pocos días de comer el fruto; retira la cubierta y planta la almendra a 2–3 cm de profundidad, con la joroba hacia arriba; brota en 2–4 semanas a 25–30 °C"
   },
   "grow": {
-   "zones": "USDA 10–12 (young trees killed at about −1 °C)",
+   "zones": "USDA 10–12 (los árboles jóvenes mueren a unos −1 °C)",
    "climates": [
     "Tropical",
     "Subtropical",
@@ -189,7 +189,7 @@
    "germination": "Semilla silvestre: escarificar y remojar, sembrar en calor (25–30 °C); irregular, de 2 semanas a varios meses"
   },
   "grow": {
-   "zones": "USDA 9b–12 (fruits reliably only in 10–12)",
+   "zones": "USDA 9b–12 (solo fructifica de forma fiable en 10–12)",
    "climates": [
     "Tropical",
     "Subtropical húmedo"
@@ -335,7 +335,7 @@
    "germination": "Solo brota la semilla fértil (polinizada por la avispa); sembrar en superficie sobre sustrato húmedo a 20–25 °C, 1–3 semanas"
   },
   "grow": {
-   "zones": "USDA 7–11 (to 6 with winter protection; dies back but resprouts)",
+   "zones": "USDA 7–11 (hasta 6 con protección invernal; la parte aérea muere, pero rebrota)",
    "climates": [
     "Mediterráneo",
     "Templado cálido",
@@ -409,7 +409,7 @@
    "germination": "Limpia el arilo y siembra en fresco a 0,5 cm de profundidad a 20–25 °C; brota en 2–6 semanas"
   },
   "grow": {
-   "zones": "USDA 7–11 (some Russian and Central Asian varieties to 6)",
+   "zones": "USDA 7–11 (algunas variedades rusas y de Asia Central llegan a 6)",
    "climates": [
     "Mediterráneo",
     "Semiárido",
@@ -482,7 +482,7 @@
    "germination": "Lenta e irregular: cascar o recortar el hueso, estratificar en frío 1–2 meses y luego sembrar en calor; 1–3 meses"
   },
   "grow": {
-   "zones": "USDA 8–11 (most cultivars damaged below −10 °C)",
+   "zones": "USDA 8–11 (la mayoría de los cultivares sufren daños por debajo de −10 °C)",
    "climates": [
     "Mediterráneo",
     "Semiárido",
@@ -555,7 +555,7 @@
    "germination": "Estratificar en frío 2–3 meses a 2–4 °C y luego sembrar a 20–25 °C; 2–8 semanas. La descendencia difiere de la planta madre"
   },
   "grow": {
-   "zones": "USDA 6–10 (vinifera); hybrids and American species to 4",
+   "zones": "USDA 6–10 (vinifera); los híbridos y las especies americanas llegan a 4",
    "climates": [
     "Mediterráneo",
     "Templado",
@@ -627,7 +627,7 @@
    "germination": "Siembra en fresco, nunca seca, a 1 cm de profundidad a 25–30 °C; brota en 2–4 semanas. A menudo salen varios brotes por semilla"
   },
   "grow": {
-   "zones": "USDA 9–11 (damaged below about −4 °C)",
+   "zones": "USDA 9–11 (sufre daños por debajo de unos −4 °C)",
    "climates": [
     "Subtropical",
     "Mediterráneo",
@@ -699,7 +699,7 @@
    "germination": "Siembra en fresco a 1 cm de profundidad a 22–28 °C; brota en 2–3 semanas. Las plántulas tardan 5–10 años en dar fruto"
   },
   "grow": {
-   "zones": "USDA 9–11 ('Meyer' to about 8b with protection)",
+   "zones": "USDA 9–11 ('Meyer' hasta aproximadamente 8b con protección)",
    "climates": [
     "Mediterráneo",
     "Subtropical"
@@ -765,7 +765,7 @@
    "germination": "Recalcitrante: siembra antes de una semana tras abrir la mazorca, a 1 cm de profundidad, a 25–30 °C en sombra húmeda; brota en 1–2 semanas"
   },
   "grow": {
-   "zones": "Tropical only (USDA 11–12; damaged below about 10 °C)",
+   "zones": "Solo trópico (USDA 11–12; sufre daños por debajo de unos 10 °C)",
    "climates": [
     "Tropical húmedo",
     "Ecuatorial"
@@ -836,7 +836,7 @@
    "germination": "Retira la pulpa y siembra semilla fresca con pergamino a 1 cm de profundidad a 25–30 °C a la sombra; lenta, 6–10 semanas"
   },
   "grow": {
-   "zones": "USDA 10–12; best in frost-free tropical highlands (900–2,000 m)",
+   "zones": "USDA 10–12; prospera mejor en tierras altas tropicales sin heladas (900–2000 m)",
    "climates": [
     "Tierras altas tropicales",
     "Subtropical"
@@ -974,7 +974,7 @@
    "germination": "Limpia la semilla y plántala con el extremo ancho hacia abajo y la parte superior al descubierto en sustrato húmedo (o suspendida sobre agua); enraíza en 2–6 semanas a 20–25 °C. Las plántulas tardan 7–15 años en fructificar y no se parecen a la planta madre"
   },
   "grow": {
-   "zones": "USDA 9b–11 (Mexican types to about −5 °C; West Indian to 0 °C)",
+   "zones": "USDA 9b–11 (los tipos mexicanos aguantan hasta unos −5 °C; los antillanos, hasta 0 °C)",
    "climates": [
     "Mediterráneo",
     "Subtropical",
@@ -1047,7 +1047,7 @@
    "germination": "Lava el saco gelatinoso y siembra a 1 cm de profundidad en un sustrato cálido (25–32 °C) y bien drenado; brota en 1–3 semanas"
   },
   "grow": {
-   "zones": "USDA 10–12 (killed by frost)",
+   "zones": "USDA 10–12 (muere con las heladas)",
    "climates": [
     "Tropical",
     "Subtropical cálido"
@@ -1114,7 +1114,7 @@
    "germination": "Recalcitrante: siembra en fresco a los pocos días, a 1–2 cm de profundidad, a 25–30 °C; brota en 1–3 semanas"
   },
   "grow": {
-   "zones": "Tropical only (USDA 11–12; damaged below about 10 °C)",
+   "zones": "Solo trópico (USDA 11–12; sufre daños por debajo de unos 10 °C)",
    "climates": [
     "Tropical ecuatorial húmedo"
    ],
@@ -1181,7 +1181,7 @@
    "germination": "Recalcitrante: sembrar fresca antes de un mes, a 2 cm de profundidad y a 25–30 °C; brota en 2–6 semanas. La raíz pivotante tolera mal el trasplante"
   },
   "grow": {
-   "zones": "USDA 10–12 (young trees killed near 0 °C)",
+   "zones": "USDA 10–12 (los árboles jóvenes mueren cerca de 0 °C)",
    "climates": [
     "Tropical húmedo",
     "Tropical monzónico",
@@ -1249,7 +1249,7 @@
    "germination": "Las semillas son recalcitrantes y de vida corta; la mayoría de los cultivares se propagan por hijuelos de raíz"
   },
   "grow": {
-   "zones": "Tropical only (USDA 11–12)",
+   "zones": "Solo trópico (USDA 11–12)",
    "climates": [
     "Tropical húmedo",
     "Ecuatorial",
@@ -1388,7 +1388,7 @@
    "germination": "Rara vez se usa semilla; las coronas, los hijuelos del pedúnculo y los retoños enraízan con facilidad"
   },
   "grow": {
-   "zones": "USDA 10–12 (11–12 outdoors year-round; also grown in pots indoors)",
+   "zones": "USDA 10–12 (11–12 al aire libre todo el año; también se cultiva en maceta en interior)",
    "climates": [
     "Tropical",
     "Subtropical cálido"
@@ -1454,7 +1454,7 @@
    "germination": "Estratificar en frío 2–4 semanas y sembrar en superficie (necesita luz) a 18–22 °C; 1–6 semanas. Las plántulas difieren de la planta madre, salvo en las variedades F1 obtenidas de semilla"
   },
   "grow": {
-   "zones": "USDA 3–10 (varies by cultivar)",
+   "zones": "USDA 3–10 (varía según el cultivar)",
    "climates": [
     "Templado",
     "Mediterráneo",
@@ -1521,7 +1521,7 @@
    "germination": "Sembrar en superficie sobre esfagno o turba húmedos a 20 °C (la luz ayuda); 1–2 meses. Rara vez se usa fuera de la mejora genética"
   },
   "grow": {
-   "zones": "USDA 4–7 (southern highbush hybrids to 8–10)",
+   "zones": "USDA 4–7 (los híbridos de arándano alto del sur llegan a 8–10)",
    "climates": [
     "Templado",
     "Continental húmedo",
@@ -1656,7 +1656,7 @@
    "germination": "Extraer la semilla o cascar el hueso, estratificar en frío 60–90 días a 2–5 °C y sembrar en primavera; las plántulas suelen dar fruta aceptable"
   },
   "grow": {
-   "zones": "USDA 5–9 (low-chill varieties to 10)",
+   "zones": "USDA 5–9 (las variedades de bajo requerimiento de frío llegan a 10)",
    "climates": [
     "Templado",
     "Mediterráneo",
@@ -1725,7 +1725,7 @@
    "germination": "Estratificar el hueso en frío 60–90 días a 2–5 °C y sembrar en primavera a 3 cm de profundidad; las plántulas son variables, pero suelen dar fruta aceptable"
   },
   "grow": {
-   "zones": "USDA 5–8 (some Manchurian types to 4)",
+   "zones": "USDA 5–8 (algunos tipos manchúes llegan a 4)",
    "climates": [
     "Continental",
     "Mediterráneo",
@@ -1924,7 +1924,7 @@
    "germination": "Recalcitrante: sembrar en pocos días, a 1–2 cm de profundidad y a 25–30 °C; brota en 1–3 semanas; las plántulas tardan 8–12 años en dar fruto"
   },
   "grow": {
-   "zones": "USDA 10–11 (mature trees survive brief −2 °C)",
+   "zones": "USDA 10–11 (los árboles adultos sobreviven a breves descensos a −2 °C)",
    "climates": [
     "Subtropical húmedo",
     "Tropical monzónico con invierno fresco"
@@ -2060,7 +2060,7 @@
    "germination": "Limpiar la pulpa, remojar 1–2 días y sembrar a 0,5 cm de profundidad a 20–30 °C; 2–4 semanas"
   },
   "grow": {
-   "zones": "USDA 9b–11 (purple form tolerates light frost)",
+   "zones": "USDA 9b–11 (la forma púrpura tolera heladas ligeras)",
    "climates": [
     "Subtropical",
     "Tropical de altura",
@@ -2332,7 +2332,7 @@
    "germination": "Escarifique o remoje en agua caliente toda la noche y siembre a 2 cm de profundidad a 25–30 °C; brota en 1–2 semanas"
   },
   "grow": {
-   "zones": "USDA 10–12 (mature trees tolerate brief light frost)",
+   "zones": "USDA 10–12 (los árboles adultos toleran heladas ligeras y breves)",
    "climates": [
     "Tropical seco",
     "Tropical semiárido",
@@ -2670,7 +2670,7 @@
    "germination": "Estratifique en frío en arena húmeda 90–120 días (o siembre al aire libre en otoño) a 5 cm de profundidad; protéjalas de las ardillas"
   },
   "grow": {
-   "zones": "USDA 5–9 (Carpathian strains to 4)",
+   "zones": "USDA 5–9 (las variedades de los Cárpatos llegan a 4)",
    "climates": [
     "Templado",
     "Continental",
@@ -2872,7 +2872,7 @@
    "germination": "Siembre a 2,5–4 cm de profundidad a 4–25 °C; emerge en 5–10 días. Las variedades de invierno necesitan semanas de frío para florecer"
   },
   "grow": {
-   "zones": "Annual crop: winter wheat in USDA 3–8; spring wheat in short-summer regions",
+   "zones": "Cultivo anual: trigo de invierno en USDA 3–8; trigo de primavera en regiones de verano corto",
    "climates": [
     "Templado",
     "Continental",
@@ -2947,7 +2947,7 @@
    "germination": "Remoje 24 horas y mantenga húmedo y cálido (25–35 °C); brota en 2–4 días"
   },
   "grow": {
-   "zones": "Annual warm-season crop; needs 3–6 frost-free months above about 20 °C",
+   "zones": "Cultivo anual de temporada cálida; necesita de 3 a 6 meses sin heladas por encima de unos 20 °C",
    "climates": [
     "Tropical",
     "Monzónico",
@@ -3017,7 +3017,7 @@
    "germination": "Siembre a 3–5 cm de profundidad cuando el suelo supere los 10–12 °C; emerge en 5–10 días"
   },
   "grow": {
-   "zones": "Annual warm-season crop; frost-free season of 70–120+ days",
+   "zones": "Cultivo anual de temporada cálida; necesita de 70 a 120+ días sin heladas",
    "climates": [
     "Templado",
     "Subtropical",
@@ -3084,7 +3084,7 @@
    "germination": "Semilla sexual: siembre en superficie a 15–20 °C; 1–2 semanas. Patata de siembra: haga brotar (pregerminar) a la luz durante 4–6 semanas"
   },
   "grow": {
-   "zones": "Annual cool-season crop; grown in USDA 3–10 by adjusting planting time",
+   "zones": "Cultivo anual de temporada fresca; se cultiva en USDA 3–10 ajustando la época de siembra",
    "climates": [
     "Templado",
     "Tropical de altura",
@@ -3150,7 +3150,7 @@
    "germination": "Siembre a 0,5 cm de profundidad a 20–28 °C; brota en 5–10 días. Deje fermentar en su gelatina la semilla que vaya a guardar durante 2–3 días; luego enjuáguela y séquela"
   },
   "grow": {
-   "zones": "Annual warm-season crop; frost-tender perennial in USDA 10–12",
+   "zones": "Cultivo anual de temporada cálida; perenne sensible a las heladas en USDA 10–12",
    "climates": [
     "Templado (verano)",
     "Mediterráneo",
@@ -3218,7 +3218,7 @@
    "germination": "Siembre a 0,5 cm de profundidad a 25–30 °C (el calor de fondo ayuda); brota en 7–21 días"
   },
   "grow": {
-   "zones": "Annual in temperate zones; short-lived perennial in USDA 10–12",
+   "zones": "Anual en zonas templadas; perenne de vida corta en USDA 10–12",
    "climates": [
     "Tropical",
     "Subtropical",
@@ -3286,7 +3286,7 @@
    "germination": "La semilla se usa sobre todo en mejora genética; necesita calor (30–35 °C). Los agricultores plantan estacas de tallo"
   },
   "grow": {
-   "zones": "Tropical only (USDA 10–12); annual in warm subtropics",
+   "zones": "Solo trópico (USDA 10–12); anual en los subtrópicos cálidos",
    "climates": [
     "Tropical",
     "Monzónico",
@@ -3354,7 +3354,7 @@
    "germination": "Siembre a 2–4 cm de profundidad cuando el suelo supere unos 15 °C; emerge en 4–10 días"
   },
   "grow": {
-   "zones": "Annual warm-season crop (needs 90–120+ hot days)",
+   "zones": "Cultivo anual de temporada cálida (necesita de 90 a 120+ días calurosos)",
    "climates": [
     "Tropical semiárido",
     "Sabana",
@@ -3418,7 +3418,7 @@
    "germination": "Muy rápida: siembre a poca profundidad (1 cm) en suelo fresco a 5–20 °C; brota en 1–4 días, incluso en un plato con agua"
   },
   "grow": {
-   "zones": "Annual; best in regions where summer days stay below about 32 °C",
+   "zones": "Anual; prospera mejor en regiones donde los días de verano no superan unos 32 °C",
    "climates": [
     "Templado fresco",
     "Montaña tropical",
@@ -3486,7 +3486,7 @@
    "germination": "Siembre a 2,5–4 cm de profundidad en suelo cálido (más de 15 °C); emerge en 5–10 días. Inocule la semilla con Bradyrhizobium donde la soja sea nueva"
   },
   "grow": {
-   "zones": "Annual warm-season crop; choose maturity group for your latitude",
+   "zones": "Cultivo anual de temporada cálida; elige el grupo de madurez adecuado a tu latitud",
    "climates": [
     "Templado (verano)",
     "Subtropical húmedo",
@@ -3554,7 +3554,7 @@
    "germination": "Siembre a 2–5 cm de profundidad en suelo fresco (desde 5 °C); emerge en 7–10 días"
   },
   "grow": {
-   "zones": "Annual cool-season crop; spring sowing in cold regions, winter crop in subtropics (e.g. India's rabi season)",
+   "zones": "Cultivo anual de temporada fresca; siembra de primavera en regiones frías, cultivo de invierno en los subtrópicos (p. ej., la temporada rabi de la India)",
    "climates": [
     "Mediterráneo",
     "Semiárido",
@@ -3627,7 +3627,7 @@
    "germination": "Siembre a 4–8 cm de profundidad en suelo a más de unos 10 °C; emerge en 7–14 días"
   },
   "grow": {
-   "zones": "Annual cool-season crop (spring in temperate areas, winter in subtropics)",
+   "zones": "Cultivo anual de temporada fresca (en primavera en zonas templadas, en invierno en los subtrópicos)",
    "climates": [
     "Mediterráneo",
     "Semiárido",
@@ -3694,7 +3694,7 @@
    "germination": "Solo para mejora genética: siembre la pelusa en superficie a 30 °C con humedad alta; los agricultores plantan esquejes de tallo"
   },
   "grow": {
-   "zones": "USDA 9–11 (best 10–11; frost kills top growth)",
+   "zones": "USDA 9–11 (mejor en 10–11; las heladas matan la parte aérea)",
    "climates": [
     "Tropical",
     "Subtropical húmedo"
@@ -3764,7 +3764,7 @@
    "germination": "Solo para mejora genética: escarifique (con un corte o ácido) y siembre a 25–30 °C. Los horticultores usan brotes enraizados"
   },
   "grow": {
-   "zones": "Annual warm-season crop (USDA 4–11 with 90–150 frost-free days); perennial in tropics",
+   "zones": "Cultivo anual de temporada cálida (USDA 4–11 con 90–150 días sin heladas); perenne en el trópico",
    "climates": [
     "Tropical",
     "Subtropical",
@@ -3830,7 +3830,7 @@
    "germination": "Necesita hongos simbióticos o cultivo estéril en laboratorio; prácticamente imposible en casa. Se cultiva por esquejes"
   },
   "grow": {
-   "zones": "Tropical only (USDA 11–12); greenhouse elsewhere",
+   "zones": "Solo trópico (USDA 11–12); en invernadero en otros lugares",
    "climates": [
     "Tropical húmedo",
     "Ecuatorial"
@@ -3900,7 +3900,7 @@
    "germination": "Siembre bayas rojas maduras y frescas (sin pulpa) a 1 cm de profundidad, a 25–30 °C y a la sombra; lenta e irregular, 3–6 semanas. Se prefieren los esquejes"
   },
   "grow": {
-   "zones": "Tropical only (USDA 11–12); houseplant elsewhere",
+   "zones": "Solo trópico (USDA 11–12); como planta de interior en otros lugares",
    "climates": [
     "Tropical húmedo",
     "Tropical monzónico"
@@ -3971,7 +3971,7 @@
    "germination": "Recalcitrante: límpiela y siémbrela fresca, a 1 cm de profundidad, en sombra cálida a 25–30 °C; brota en 2–4 semanas"
   },
   "grow": {
-   "zones": "Tropical only (USDA 10–12)",
+   "zones": "Solo trópico (USDA 10–12)",
    "climates": [
     "Tropical húmedo",
     "Tropical monzónico"
@@ -4042,7 +4042,7 @@
    "germination": "Recalcitrante: siémbrela fresca, con cáscara, a 2 cm de profundidad, a la sombra y a 25–30 °C; lenta, 4–8 semanas"
   },
   "grow": {
-   "zones": "Tropical only (USDA 11–12)",
+   "zones": "Solo trópico (USDA 11–12)",
    "climates": [
     "Tropical ecuatorial húmedo",
     "Islas tropicales"
@@ -4112,7 +4112,7 @@
    "germination": "Recalcitrante: siembre bayas maduras frescas a la sombra a 25–30 °C; 2–5 semanas"
   },
   "grow": {
-   "zones": "Tropical only (USDA 11–12)",
+   "zones": "Solo trópico (USDA 11–12)",
    "climates": [
     "Tropical húmedo",
     "Islas tropicales"

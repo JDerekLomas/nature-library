@@ -17,7 +17,9 @@ interface Hit {
 export default function SearchBox({ autoFocus = false, big = false }: { autoFocus?: boolean; big?: boolean }) {
   const router = useRouter();
   const lang = useLang();
-  const t = useT().common.search;
+  const TC = useT().common;
+  const t = TC.search;
+  const ranks = TC.ranks;
   const [q, setQ] = useState("");
   const [hits, setHits] = useState<Hit[]>([]);
   const [open, setOpen] = useState(false);
@@ -110,7 +112,7 @@ export default function SearchBox({ autoFocus = false, big = false }: { autoFocu
                 <span className="min-w-0">
                   <span className="block text-sm truncate">{h.preferred_common_name || h.name}</span>
                   <span className="block text-xs text-ink-2 truncate">
-                    <i className="latin">{h.name}</i> · {h.rank}
+                    <i className="latin">{h.name}</i> · {(ranks[h.rank] ?? h.rank).toLowerCase()}
                     {h.iconic_taxon_name ? ` · ${h.iconic_taxon_name}` : ""}
                   </span>
                 </span>

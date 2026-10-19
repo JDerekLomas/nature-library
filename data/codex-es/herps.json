@@ -795,13 +795,13 @@
    "Matorral de mallee"
   ],
   "abilities": [
-   "Bebe a través de la piel: finos canales entre sus escamas llevan el agua hasta la boca",
+   "Lleva el agua hasta la boca: finos canales entre sus escamas conducen el rocío y la humedad de la arena hasta las comisuras de la boca, donde la traga",
    "Solo come hormigas pequeñas, que atrapa una a una con la lengua",
    "Tiene en la nuca una protuberancia que funciona como 'cabeza falsa' cuando agacha la verdadera",
    "Cambia de color entre amarillo, rojo y pardo según la temperatura y su estado de ánimo"
   ],
   "lore": "John Edward Gray lo bautizó en 1841 en honor de Moloch, el dios cananeo asociado al sacrificio de niños, en alusión a su aspecto temible.",
-  "funFact": "Un diablo espinoso puede comer miles de hormigas en una sola comida.",
+  "funFact": "Un diablo espinoso puede comer miles de hormigas en un solo día, lamiéndolas una a una.",
   "animal": {
    "diet": "Pequeñas hormigas negras, sobre todo Iridomyrmex y Ochetellus",
    "habitat": "Desierto arenoso, pastizales de spinifex y matorral de mallee",

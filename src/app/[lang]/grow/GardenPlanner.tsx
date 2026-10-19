@@ -52,7 +52,7 @@ export default function GardenPlanner({ items }: { items: GrowItem[] }) {
           <GardenPicker />
         </div>
       ) : (
-        <div className="grid md:grid-cols-[1fr_auto] gap-6 items-end border border-ink p-6 bg-card">
+        <div className="grid grid-cols-1 md:grid-cols-[1fr_auto] gap-6 items-end border border-ink p-6 bg-card">
           <div>
             <p className="label text-ink-2">{t.yourGarden} · {g.lat.toFixed(2)}°, {g.lon.toFixed(2)}°</p>
             <p className="font-display text-4xl mt-1 leading-tight">{g.place}</p>
@@ -111,7 +111,7 @@ export default function GardenPlanner({ items }: { items: GrowItem[] }) {
                   <span className="label text-ink-2">{t.plants(list.length)}</span>
                 </div>
                 <p className="text-ink-2 mt-2">{bed.note}</p>
-                <ul className="grid sm:grid-cols-2 lg:grid-cols-3 gap-x-8 mt-4">
+                <ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-8 mt-4">
                   {list.map(({ it, fit }) => (
                     <li key={it.slug} className="border-b rule">
                       <Link href={lp(lang, `/species/${it.slug}`)} className="flex gap-4 py-3 group">

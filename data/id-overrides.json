@@ -1,0 +1,19 @@
+{
+  "_note": "Hand-checked identifiers the build must use instead of a name search. inat = iNaturalist taxon id, gbif = GBIF backbone key. Each was verified against the API (name and kingdom) on 2026-10-18.",
+  "Huso huso": { "inat": 102975 },
+  "Bison bison": { "inat": 208700 },
+  "Mola mola": { "inat": 49601 },
+  "Gulo gulo": { "inat": 41852 },
+  "Bubo bubo": { "inat": 20059 },
+  "Lynx lynx": { "inat": 41979 },
+  "Achillea millefolium": { "inat": 52821 },
+  "Urtica dioica": { "inat": 51884 },
+  "Sambucus nigra": { "inat": 765394 },
+  "Pleurotus ostreatus": { "inat": 48494 },
+  "Trametes versicolor": { "inat": 54134 },
+  "Natrix natrix": { "inat": 966787 },
+  "Micropterus nigricans": { "gbif": 2394563 },
+  "Piper methysticum": { "gbif": 3086358 },
+  "Scarabaeus satyrus": { "gbif": 7442953 },
+  "Tachyspiza badia": { "gbif": 2480610 }
+}

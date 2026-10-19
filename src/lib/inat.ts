@@ -1,5 +1,6 @@
 // Thin server-side helpers over the public iNaturalist API (https://api.inaturalist.org/v1/docs/)
 import type { Photo } from "./types";
+import { fetchJson } from "./fetch-json";
 
 const API = "https://api.inaturalist.org/v1";
 
@@ -24,18 +25,13 @@ export interface ITaxon {
 }
 
 export async function getTaxon(id: number, locale = "en"): Promise<ITaxon | null> {
-  const r = await fetch(`${API}/taxa/${id}?locale=${locale}`, { next: { revalidate: 604800 } });
-  if (!r.ok) return null;
-  const j = await r.json();
-  return j.results?.[0] ?? null;
+  const j = await fetchJson<{ results?: ITaxon[] }>(`${API}/taxa/${id}?locale=${locale}`);
+  return j?.results?.[0] ?? null;
 }
 
 export async function getChildren(id: number, perPage = 60, locale = "en"): Promise<ITaxon[]> {
-  const r = await fetch(`${API}/taxa?parent_id=${id}&is_active=true&per_page=${perPage}&order_by=observations_count&order=desc&locale=${locale}`, {
-    next: { revalidate: 604800 },
-  });
-  if (!r.ok) return [];
-  return (await r.json()).results ?? [];
+  const j = await fetchJson<{ results?: ITaxon[] }>(`${API}/taxa?parent_id=${id}&is_active=true&per_page=${perPage}&order_by=observations_count&order=desc&locale=${locale}`);
+  return j?.results ?? [];
 }
 
 export async function searchTaxa(q: string, perPage = 30, locale = "en"): Promise<ITaxon[]> {

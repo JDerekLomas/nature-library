@@ -33,7 +33,7 @@ export const en = {
     aria: "Search species",
     allResults: (q: string) => `All results for “${q}” →`,
   },
-  kingdoms: { Plantae: "Plants", Animalia: "Animals", Fungi: "Fungi", Protista: "Protists", Chromista: "Chromists" } as Record<string, string>,
+  kingdoms: { Plantae: "Plants", Animalia: "Animals", Fungi: "Fungi", Protista: "Protists", Protozoa: "Protozoa", Chromista: "Chromists" } as Record<string, string>,
   ranks: {
     stateofmatter: "Life", kingdom: "Kingdom", phylum: "Phylum", subphylum: "Subphylum", class: "Class", subclass: "Subclass", order: "Order",
     suborder: "Suborder", superfamily: "Superfamily", family: "Family", subfamily: "Subfamily", tribe: "Tribe", genus: "Genus", species: "Species",
@@ -82,7 +82,7 @@ export const es: typeof en = {
     aria: "Buscar especies",
     allResults: (q: string) => `Todos los resultados para «${q}» →`,
   },
-  kingdoms: { Plantae: "Plantas", Animalia: "Animales", Fungi: "Hongos", Protista: "Protistas", Chromista: "Cromistas" },
+  kingdoms: { Plantae: "Plantas", Animalia: "Animales", Fungi: "Hongos", Protista: "Protistas", Protozoa: "Protozoos", Chromista: "Cromistas" },
   ranks: {
     stateofmatter: "Vida", kingdom: "Reino", phylum: "Filo", subphylum: "Subfilo", class: "Clase", subclass: "Subclase", order: "Orden",
     suborder: "Suborden", superfamily: "Superfamilia", family: "Familia", subfamily: "Subfamilia", tribe: "Tribu", genus: "Género", species: "Especie",

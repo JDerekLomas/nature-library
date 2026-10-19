@@ -39,7 +39,10 @@ export default function Stacks({ names, scientific }: { names: string[]; scienti
         )
       )
       .catch(() => [] as Book[]);
-    const clause = names.map((n) => `title:("${n}") OR subject:("${n}")`).join(" OR ");
+    // The scientific name is unambiguous; a common name ("cougar", "jaguar") only counts when the book is catalogued under natural history
+    const NATURE = "natural history OR zoology OR botany OR biology OR ornithology OR birds OR mammals OR animals OR wildlife OR plants OR flora OR fauna OR insects OR fishes OR fungi OR mushrooms OR gardening OR horticulture OR herbs OR herbals OR trees OR nature";
+    const common = names.filter((n) => n.toLowerCase() !== scientific.toLowerCase());
+    const clause = [`title:("${scientific}") OR subject:("${scientific}")`, ...common.map((n) => `(title:("${n}") AND subject:(${NATURE}))`)].join(" OR ");
     const ia = fetch(
       `https://archive.org/advancedsearch.php?q=${encodeURIComponent(`(${clause}) AND mediatype:texts`)}&fl[]=identifier&fl[]=title&fl[]=creator&fl[]=year&rows=10&sort[]=downloads+desc&output=json`
     )
@@ -69,7 +72,7 @@ export default function Stacks({ names, scientific }: { names: string[]; scienti
       {quotes.length > 0 && (
         <div className="mb-10">
           <p className="label text-ink-2 mb-4">{t.oldBooksSay}</p>
-          <div className="grid md:grid-cols-2 gap-x-10 gap-y-6">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-x-10 gap-y-6">
             {quotes.map((b) => (
               <a key={b.url} href={b.url} target="_blank" rel="noreferrer" className="group block border-l-2 border-ochre pl-5">
                 <p className="font-display text-[1.2rem] leading-snug text-ink">“{b.snippet!.replace(/^\.+\s*/, "…").replace(/\s*\.+$/, "…")}”</p>
@@ -89,9 +92,9 @@ export default function Stacks({ names, scientific }: { names: string[]; scienti
       ) : shelf.length === 0 ? (
         <p className="text-ink-2">{t.noBooks}</p>
       ) : (
-        <ul className="grid sm:grid-cols-2 lg:grid-cols-3 gap-x-8">
+        <ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-8">
           {shelf.map((b) => (
-            <li key={b.url} className="border-b rule">
+            <li key={b.url} className="border-b rule min-w-0">
               <a href={b.url} target="_blank" rel="noreferrer" className="flex gap-3 py-3 group">
                 {b.thumb ? (
                   // eslint-disable-next-line @next/next/no-img-element
@@ -101,7 +104,7 @@ export default function Stacks({ names, scientific }: { names: string[]; scienti
                     <span className="font-mono text-[8px] text-ink-2">SL</span>
                   </span>
                 )}
-                <span className="min-w-0">
+                <span className="min-w-0 flex-1">
                   <span className="leading-snug group-hover:text-moss line-clamp-2">{b.title}</span>
                   <span className="block label text-ink-2 !text-[0.58rem] mt-1 truncate">
                     {b.source}

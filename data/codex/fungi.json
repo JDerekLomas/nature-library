@@ -191,7 +191,7 @@
    "Highly resistant to insect larvae, so it rarely turns maggoty",
    "Can keep fruiting from the same spot for decades"
   ],
-  "edibility": "edible",
+  "edibility": "edible-with-care",
   "edibleParts": [
    "whole fruiting body (cooked)"
   ],
@@ -246,7 +246,7 @@
    "Can produce fruiting bodies weighing over 3 kg",
    "Accumulates selenium and, in polluted areas, radiocaesium from the soil"
   ],
-  "edibility": "edible",
+  "edibility": "edible-with-care",
   "edibleParts": [
    "whole fruiting body (cooked or dried)"
   ],
@@ -462,7 +462,7 @@
    "Its varnished surface comes from a resinous crust that forms as the bracket grows",
    "Grows into antler shapes instead of caps when kept in high carbon dioxide"
   ],
-  "edibility": "edible-with-care",
+  "edibility": "not-edible",
   "edibleParts": [
    "sliced fruiting body (decoction or tea)",
    "extracts"
@@ -651,7 +651,7 @@
    "Naturally contains lovastatin, a cholesterol-lowering statin drug",
    "Grows on almost any lignocellulose waste, from straw to spent coffee grounds"
   ],
-  "edibility": "edible",
+  "edibility": "edible-with-care",
   "edibleParts": [
    "caps and tender stems (cooked)"
   ],
@@ -811,7 +811,7 @@
    "The black crust is rich in melanin; the interior concentrates betulin and betulinic acid from birch bark",
    "Fruits only once, as a thin pore layer under the bark after the host tree dies"
   ],
-  "edibility": "edible-with-care",
+  "edibility": "not-edible",
   "edibleParts": [
    "sterile conk (ground, as decoction or tea)"
   ],
@@ -975,7 +975,7 @@
    "Releases volatile compounds including dimethyl sulphide that animals can smell through soil",
    "Has two mating types and needs both to fruit, a finding (2011) now used in managing plantations"
   ],
-  "edibility": "edible",
+  "edibility": "edible-with-care",
   "edibleParts": [
    "whole fruiting body (raw shaved or lightly heated)"
   ],
@@ -1047,7 +1047,7 @@
    "Its aroma comes mainly from 1-octen-3-ol and methyl cinnamate",
    "Thrives on poor, disturbed mineral soils, which humans maintained in old Japanese satoyama woodland"
   ],
-  "edibility": "edible",
+  "edibility": "edible-with-care",
   "edibleParts": [
    "whole fruiting body (cooked)"
   ],
@@ -1868,7 +1868,7 @@
    "Can push through hard ground and thin tarmac by growth pressure",
    "Accumulates heavy metals and arsenic from polluted soil"
   ],
-  "edibility": "edible",
+  "edibility": "edible-with-care",
   "edibleParts": [
    "young white caps (cooked soon after picking)"
   ],
@@ -2235,7 +2235,7 @@
    "Many-headed slime (English)",
    "Nenkin 粘菌 (Japanese, slime mould)"
   ],
-  "kingdom": "Protista",
+  "kingdom": "Protozoa",
   "form": "Slime mould",
   "family": "Physaraceae",
   "shelves": [

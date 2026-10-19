@@ -1,6 +1,6 @@
 import Link from "next/link";
 import type { Metadata } from "next";
-import { gbifTaxon } from "@/lib/gbif";
+import { gbifTaxonQuiet } from "@/lib/gbif";
 import { COUNTRY_CODES, countryName, GROUPS } from "@/lib/countries";
 import SearchBox from "@/components/SearchBox";
 import { asLang, lp, LOCALE } from "@/i18n/config";
@@ -28,7 +28,7 @@ export default async function Catalogue({ params }: { params: Promise<{ lang: st
   const t = dict(lang).rooms.catalogue;
   const L = (p: string) => lp(lang, p);
   const nf = (n?: number) => (n == null ? "—" : n.toLocaleString(LOCALE[lang]));
-  const [kingdoms, groups] = await Promise.all([Promise.all(KINGDOMS.map(([k]) => gbifTaxon(k))), Promise.all(GROUPS.map((g) => gbifTaxon(g.key)))]);
+  const [kingdoms, groups] = await Promise.all([Promise.all(KINGDOMS.map(([k]) => gbifTaxonQuiet(k))), Promise.all(GROUPS.map((g) => gbifTaxonQuiet(g.key)))]);
   const countries = COUNTRY_CODES.map((c) => [c, countryName(c, lang)] as const).sort((a, b) => a[1].localeCompare(b[1], LOCALE[lang]));
   const total = kingdoms.reduce((s, k) => s + (k?.numDescendants ?? 0), 0);
 
@@ -43,7 +43,7 @@ export default async function Catalogue({ params }: { params: Promise<{ lang: st
 
       <section className="mt-14">
         <h2 className="font-display text-3xl border-b-[3px] border-double border-ink pb-2">{t.byKinship}</h2>
-        <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-px bg-rule border-x border-b rule">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-px bg-rule border-x border-b rule">
           {KINGDOMS.map(([k, label], i) => (
             <Link key={k} href={L(`/gbif/${k}?stay=1`)} className="bg-paper p-5 hover:bg-card group">
               <p className="label text-ink-2">{kingdoms[i]?.canonicalName}</p>
@@ -56,7 +56,7 @@ export default async function Catalogue({ params }: { params: Promise<{ lang: st
 
       <section className="mt-14">
         <h2 className="font-display text-3xl border-b-[3px] border-double border-ink pb-2">{t.greatGroups}</h2>
-        <ul className="grid sm:grid-cols-2 lg:grid-cols-3 gap-x-8">
+        <ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-8">
           {GROUPS.map((g, i) => (
             <li key={g.key} className="border-b rule">
               <Link href={L(`/gbif/${g.key}?stay=1`)} className="flex justify-between py-3 hover:text-moss">

@@ -1,3 +1,4 @@
+import { guard } from "@/lib/guard";
 import Anthropic from "@anthropic-ai/sdk";
 import { NextResponse } from "next/server";
 import { getByInat } from "@/lib/codex";
@@ -58,7 +59,9 @@ async function resolve(name: string): Promise<Taxon | null> {
 
 export async function POST(req: Request) {
   if (!process.env.ANTHROPIC_API_KEY) return NextResponse.json({ error: "The identify desk needs an ANTHROPIC_API_KEY." }, { status: 503 });
-  const { image, note } = (await req.json()) as { image?: string; note?: string };
+  const blocked = guard(req, 20);
+  if (blocked) return NextResponse.json({ error: blocked }, { status: blocked === "forbidden" ? 403 : 429 });
+  const { image, note } = (await req.json().catch(() => ({}))) as { image?: string; note?: string };
   const m = image?.match(/^data:(image\/(jpeg|png|webp|gif));base64,(.+)$/);
   if (!m) return NextResponse.json({ error: "Send a JPEG, PNG or WebP image." }, { status: 400 });
   if (m[3].length > 7_000_000) return NextResponse.json({ error: "Image too large." }, { status: 413 });

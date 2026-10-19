@@ -2,13 +2,14 @@
 // GBIF's backbone taxonomy lists every accepted species catalogued by the world's museums, herbaria and checklists.
 
 const API = "https://api.gbif.org/v1";
+import { fetchJson } from "./fetch-json";
+
 export const BACKBONE = "d7dddbf4-2cf0-4f39-9b2a-bb099caae36c";
 
+// secondary lookups (names, images, counts) degrade quietly; the taxon itself must not
 async function get<T>(path: string, revalidate = 2592000): Promise<T | null> {
   try {
-    const r = await fetch(`${API}${path}`, { next: { revalidate }, signal: AbortSignal.timeout(10000) });
-    if (!r.ok) return null;
-    return (await r.json()) as T;
+    return await fetchJson<T>(`${API}${path}`, { revalidate, tries: 2 });
   } catch {
     return null;
   }
@@ -40,7 +41,9 @@ export interface GTaxon {
   publishedIn?: string;
 }
 
-export const gbifTaxon = (key: number) => get<GTaxon>(`/species/${key}`);
+/** The taxon itself: throws on an outage rather than letting the page cache a "not found". */
+export const gbifTaxon = (key: number) => fetchJson<GTaxon>(`${API}/species/${key}`, { revalidate: 2592000 });
+export const gbifTaxonQuiet = (key: number) => get<GTaxon>(`/species/${key}`);
 export const gbifParents = (key: number) => get<GTaxon[]>(`/species/${key}/parents`);
 
 export async function gbifChildren(key: number, offset = 0, limit = 100) {
@@ -61,11 +64,12 @@ export async function gbifVernacular(key: number) {
 }
 
 /** The English name most of GBIF's source checklists agree on (skipping banding codes and stray transliterations). */
-export async function gbifEnglishName(key: number) {
+/** The most-attested common name in a language (ISO 639-2: "eng", "spa"), voted across GBIF's checklists. */
+export async function gbifEnglishName(key: number, language = "eng") {
   const r = await get<{ results: { vernacularName: string; language?: string }[] }>(`/species/${key}/vernacularNames?limit=200`);
   const votes = new Map<string, { n: number; name: string }>();
   for (const v of r?.results ?? []) {
-    if (v.language !== "eng") continue;
+    if (v.language !== language) continue;
     const name = v.vernacularName.trim();
     if (/^[A-Z]{3,6}$/.test(name) || name.length < 3) continue;
     const k = name.toLowerCase().replace(/[-\s]+/g, " ");
@@ -133,20 +137,22 @@ function hash(s: string) {
 }
 
 /** Every species recorded in a country, most-recorded first, via GBIF occurrence facets. */
-export async function speciesInCountry(iso2: string, offset = 0, limit = 60, taxonKey?: number) {
+export async function speciesInCountry(iso2: string, offset = 0, limit = 60, taxonKey?: number, language = "eng") {
   const r = await get<{ count: number; facets: { counts: { name: string; count: number }[] }[] }>(
     `/occurrence/search?country=${iso2}${taxonKey ? `&taxonKey=${taxonKey}` : ""}&limit=0&facet=speciesKey&speciesKey.facetLimit=${limit}&speciesKey.facetOffset=${offset}`,
     604800
   );
   const counts = r?.facets?.[0]?.counts ?? [];
   const [taxa, english] = await Promise.all([
-    Promise.all(counts.map((c) => gbifTaxon(Number(c.name)))),
-    Promise.all(counts.map((c) => gbifEnglishName(Number(c.name)))),
+    Promise.all(counts.map((c) => gbifTaxonQuiet(Number(c.name)))),
+    Promise.all(counts.map((c) => gbifEnglishName(Number(c.name), language))),
   ]);
   return {
     records: r?.count ?? 0,
+    // how many species this page of the facet held, before any failed lookups were dropped (decides whether there is a next page)
+    pageSize: counts.length,
     species: counts
-      .map((c, i) => ({ key: Number(c.name), records: c.count, t: taxa[i] ? { ...taxa[i]!, vernacularName: english[i] ?? taxa[i]!.vernacularName } : null }))
+      .map((c, i) => ({ key: Number(c.name), records: c.count, n: offset + i + 1, t: taxa[i] ? { ...taxa[i]!, vernacularName: english[i] ?? (language === "eng" ? taxa[i]!.vernacularName : undefined) } : null }))
       .filter((x) => x.t),
   };
 }

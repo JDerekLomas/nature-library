@@ -85,7 +85,7 @@ export default async function TaxonPage({ params }: { params: Promise<{ lang: st
         </ol>
       )}
 
-      <div className="grid lg:grid-cols-[minmax(0,420px)_minmax(0,1fr)] gap-10 lg:gap-16 mt-8">
+      <div className="grid grid-cols-1 lg:grid-cols-[minmax(0,420px)_minmax(0,1fr)] gap-10 lg:gap-16 mt-8">
         <div className="lg:sticky lg:top-24 self-start">
           <PhotoPlate photos={photos} alt={name} />
           {iucn && (
@@ -162,7 +162,7 @@ export default async function TaxonPage({ params }: { params: Promise<{ lang: st
                     </div>
                     <p className="text-sm mt-1.5 leading-tight group-hover:text-moss">{c.preferred_common_name || c.name}</p>
                     <p className="text-xs text-ink-2">
-                      <span className="label !text-[0.55rem] mr-1">{c.rank}</span>
+                      <span className="label !text-[0.55rem] mr-1">{(RANK_LABEL[c.rank] ?? c.rank).toLowerCase()}</span>
                       <i>{c.name}</i>
                     </p>
                   </Link>
@@ -183,7 +183,7 @@ export default async function TaxonPage({ params }: { params: Promise<{ lang: st
       )}
 
       <Section n="·" title={tr.where}>
-        <WhereItLives name={t.name} />
+        <WhereItLives name={t.name} rank={t.rank} kingdom={(t.ancestors ?? []).find((a) => a.rank === "kingdom")?.name ?? (t.rank === "kingdom" ? t.name : undefined)} />
       </Section>
 
       {plates.length > 0 && (
