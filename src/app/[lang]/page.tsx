@@ -12,7 +12,6 @@ import { toCard } from "@/lib/cards";
 import LibraryPlan, { type Room } from "@/components/LibraryPlan";
 import { libraryStats } from "@/lib/stats";
 import { gbifTaxonQuiet } from "@/lib/gbif";
-import { BIRD_COUNT } from "@/lib/birds";
 
 export const revalidate = 86400;
 
@@ -65,19 +64,6 @@ const BESTIARY: [string, string, string][] = [
   ["Elasmobranchii", "Sharks & rays", "/bestiary#Elasmobranchii"],
 ];
 
-// in the reader's language, as the frontispiece figures are: 4.4 million / 4,4 millones; 10,000 / 10.000
-const fmtBig = (n: number, lang: Lang) => new Intl.NumberFormat(LOCALE[lang], n >= 1e6 ? { notation: "compact", compactDisplay: "long", maximumFractionDigits: 1 } : { maximumSignificantDigits: n >= 1e4 ? 2 : 21 }).format(n);
-// the living collections first, then the instruments for finding your way among them
-const LEDGER = (st: ReturnType<typeof libraryStats>, names: number, plates: number, L: string[], lang: Lang): [string, string, string][] => [
-  [String(st.animals), L[0], "/bestiary"],
-  [BIRD_COUNT.toLocaleString(LOCALE[lang]), L[1], "/aviary/checklist"],
-  [String(st.plants), L[2], "/herbarium#plants"],
-  [String(st.fungi), L[3], "/herbarium#fungi"],
-  [fmtBig(names, lang), L[4], "/catalogue"],
-  [fmtBig(st.identify, lang), L[5], "/identify"],
-  [fmtBig(plates, lang), L[6], "/plates"],
-  [String(st.countries), L[7], "/catalogue"],
-];
 // the Herbarium's tiles on the entrance: growth form → its section on the Herbarium page
 const HERBARIUM: [string, string][] = [
   ["Tree", "tree"], ["Herb", "herb"], ["Shrub", "shrub"], ["Vine", "vine"], ["Grass", "grass"], ["Mushroom", "mushroom"], ["Bracket fungus", "bracket"], ["Lichen", "lichen"],
@@ -174,22 +160,6 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
         <div className="relative">
           <HomeGlobe />
         </div>
-      </section>
-
-      {/* ——— The holdings ——— */}
-      <section className="mx-auto max-w-[1320px] px-4 sm:px-6 mt-20">
-        <div className="flex items-baseline justify-between border-b-[3px] border-double border-ink pb-3">
-          <h2 className="font-display text-[2.2rem] leading-none">{t.holdings}</h2>
-          <span className="label text-ink-2 hidden sm:inline">{t.register} · {new Date().getFullYear()}</span>
-        </div>
-        <dl className="grid grid-cols-2 sm:grid-cols-4 border-l rule">
-          {LEDGER(st, kingdomTotal, PLATES.length, t.ledger, lang).map(([n, label, href]) => (
-            <Link key={label} href={L(href)} className="group border-r border-b rule p-5 hover:bg-card transition-colors">
-              <dd className="font-display text-[clamp(1.9rem,3.4vw,2.8rem)] leading-none group-hover:text-moss">{n}</dd>
-              <dt className="label text-ink-2 mt-2 leading-snug">{label}</dt>
-            </Link>
-          ))}
-        </dl>
       </section>
 
       {/* ——— The plan ——— */}

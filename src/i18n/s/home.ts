@@ -1,5 +1,5 @@
 export const en = {
-  kicker: "A library of living things · sister to the Source Library",
+  kicker: "A library of living things",
   titleLines: ["The Nature", "Library"],
   intro:
     "Every plant, animal and fungus that people have recorded, on one turning planet. Read each one as the old herbalists did, by what it can heal, feed or poison, and as naturalists do now, by where it lives and what it is kin to.",
@@ -110,7 +110,7 @@ export const en = {
 };
 
 export const es: typeof en = {
-  kicker: "Una biblioteca de los seres vivos · hermana de la Source Library",
+  kicker: "Una biblioteca de los seres vivos",
   titleLines: ["La Biblioteca de", "la Naturaleza"],
   intro:
     "Cada planta, animal y hongo que la gente ha registrado, sobre un solo planeta que gira. Lee cada uno como lo hacían los viejos herbolarios, por lo que puede curar, alimentar o envenenar, y como lo hacen hoy los naturalistas, por dónde vive y con quién está emparentado.",
