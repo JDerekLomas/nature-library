@@ -1,9 +1,9 @@
 import { guard } from "@/lib/guard";
-import Anthropic from "@anthropic-ai/sdk";
 import { NextResponse } from "next/server";
 import { getTaxon } from "@/lib/inat";
+import { geminiJson, GeminiError } from "@/lib/gemini";
 
-// The librarian's field notes: Claude reads the species' full Wikipedia article and pulls out
+// The librarian's field notes: Gemini reads the species' full Wikipedia article and pulls out
 // only what the article says about uses, edibility, medicine, cultivation and behaviour.
 export const maxDuration = 120;
 
@@ -64,7 +64,7 @@ export async function GET(req: Request) {
   const id = Number(new URL(req.url).searchParams.get("taxon"));
   if (!Number.isInteger(id) || id <= 0) return NextResponse.json({ error: "taxon required" }, { status: 400 });
   if (cache.has(id)) return NextResponse.json(cache.get(id), { headers: cacheHeaders });
-  if (!process.env.ANTHROPIC_API_KEY) return NextResponse.json({ error: "no-key" }, { status: 503 });
+  if (!process.env.GEMINI_API_KEY) return NextResponse.json({ error: "no-key" }, { status: 503 });
   const blocked = guard(req, 40);
   if (blocked) return NextResponse.json({ error: blocked }, { status: blocked === "forbidden" ? 403 : 429 });
 
@@ -81,33 +81,23 @@ export async function GET(req: Request) {
   const article = page?.extract;
   if (!article || article.length < 300) return NextResponse.json({ error: "no-article" }, { status: 404 });
 
-  const client = new Anthropic();
   try {
-    const msg = await client.beta.messages.create({
-      model: "claude-opus-5-5",
-      max_tokens: 6000,
-      betas: ["server-side-fallback-2026-07-01"],
-      // @ts-expect-error -- "default" scalar form of fallbacks (beta server-side-fallback-2026-07-01)
-      fallbacks: "default",
-      system: SYSTEM,
-      output_config: { effort: "low", format: { type: "json_schema", schema: SCHEMA } },
-      messages: [
-        {
-          role: "user",
-          content: `<article title="${page?.title}" organism="${t.name}" common_name="${t.preferred_common_name ?? ""}">\n${article}\n</article>`,
-        },
-      ],
-    });
-    if (msg.stop_reason === "refusal") return NextResponse.json({ error: "declined" }, { status: 422 });
-    const text = msg.content.find((b) => b.type === "text");
-    if (!text || text.type !== "text") return NextResponse.json({ error: "empty" }, { status: 502 });
-    const notes = { ...JSON.parse(text.text), source: { title: page?.title, url: t.wikipedia_url } };
+    const notes = {
+      ...(await geminiJson<Record<string, unknown>>({
+        system: SYSTEM,
+        schema: SCHEMA,
+        maxTokens: 4000,
+        parts: [{ text: `<article title="${page?.title}" organism="${t.name}" common_name="${t.preferred_common_name ?? ""}">\n${article}\n</article>` }],
+      })),
+      source: { title: page?.title, url: t.wikipedia_url },
+    };
     cache.set(id, notes);
     return NextResponse.json(notes, { headers: cacheHeaders });
   } catch (err) {
-    if (err instanceof Anthropic.AuthenticationError) return NextResponse.json({ error: "The desk needs a valid ANTHROPIC_API_KEY." }, { status: 503 });
-    if (err instanceof Anthropic.RateLimitError) return NextResponse.json({ error: "busy" }, { status: 429 });
-    if (err instanceof Anthropic.APIError) return NextResponse.json({ error: err.message }, { status: 502 });
+    if (err instanceof GeminiError) {
+      const error = err.status === 422 ? "declined" : err.status === 429 ? "busy" : err.status === 503 ? "The desk needs a valid GEMINI_API_KEY." : err.message;
+      return NextResponse.json({ error }, { status: err.status });
+    }
     throw err;
   }
 }

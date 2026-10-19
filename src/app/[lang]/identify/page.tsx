@@ -16,7 +16,7 @@ export default async function IdentifyPage({ params }: { params: Promise<{ lang:
       <h1 className="font-display text-[clamp(2.6rem,6vw,4.8rem)] leading-none mt-2">{t.title}</h1>
       <p className="mt-4 max-w-[62ch] text-lg text-ink-2 leading-relaxed">{t.intro}</p>
       <div className="double-rule mt-8 pt-10">
-        <IdentifyDesk ai={!!process.env.ANTHROPIC_API_KEY} />
+        <IdentifyDesk ai={!!process.env.GEMINI_API_KEY} />
       </div>
     </div>
   );

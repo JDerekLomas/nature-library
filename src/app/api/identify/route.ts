@@ -1,7 +1,7 @@
 import { guard } from "@/lib/guard";
-import Anthropic from "@anthropic-ai/sdk";
 import { NextResponse } from "next/server";
 import { getByInat } from "@/lib/codex";
+import { geminiJson, GeminiError } from "@/lib/gemini";
 
 export const maxDuration = 120;
 
@@ -58,7 +58,7 @@ async function resolve(name: string): Promise<Taxon | null> {
 }
 
 export async function POST(req: Request) {
-  if (!process.env.ANTHROPIC_API_KEY) return NextResponse.json({ error: "The identify desk needs an ANTHROPIC_API_KEY." }, { status: 503 });
+  if (!process.env.GEMINI_API_KEY) return NextResponse.json({ error: "The identify desk needs a GEMINI_API_KEY." }, { status: 503 });
   const blocked = guard(req, 20);
   if (blocked) return NextResponse.json({ error: blocked }, { status: blocked === "forbidden" ? 403 : 429 });
   const { image, note } = (await req.json().catch(() => ({}))) as { image?: string; note?: string };
@@ -66,30 +66,16 @@ export async function POST(req: Request) {
   if (!m) return NextResponse.json({ error: "Send a JPEG, PNG or WebP image." }, { status: 400 });
   if (m[3].length > 7_000_000) return NextResponse.json({ error: "Image too large." }, { status: 413 });
 
-  const client = new Anthropic();
   try {
-    const msg = await client.beta.messages.create({
-      model: "claude-opus-5-5",
-      max_tokens: 8000,
-      betas: ["server-side-fallback-2026-07-01"],
-      // @ts-expect-error -- "default" scalar form of fallbacks (beta server-side-fallback-2026-07-01)
-      fallbacks: "default",
+    const out = await geminiJson<{ candidates: { scientific: string; common: string; confidence: number }[] }>({
       system: SYSTEM,
-      output_config: { effort: "medium", format: { type: "json_schema", schema: SCHEMA } },
-      messages: [
-        {
-          role: "user",
-          content: [
-            { type: "image", source: { type: "base64", media_type: m[1] as "image/jpeg", data: m[3] } },
-            { type: "text", text: note ? `Visitor's note: ${note.slice(0, 500)}` : "What is this?" },
-          ],
-        },
+      schema: SCHEMA,
+      maxTokens: 4000,
+      parts: [
+        { inlineData: { mimeType: m[1], data: m[3] } },
+        { text: note ? `Visitor's note: ${note.slice(0, 500)}` : "What is this?" },
       ],
     });
-    if (msg.stop_reason === "refusal") return NextResponse.json({ error: "The desk could not identify this image." }, { status: 422 });
-    const text = msg.content.find((b) => b.type === "text");
-    if (!text || text.type !== "text") return NextResponse.json({ error: "No answer." }, { status: 502 });
-    const out = JSON.parse(text.text) as { candidates: { scientific: string; common: string; confidence: number }[] };
     const matched = await Promise.all(
       out.candidates.slice(0, 4).map(async (c) => {
         const t = await resolve(c.scientific).catch(() => null);
@@ -104,9 +90,10 @@ export async function POST(req: Request) {
     );
     return NextResponse.json({ ...out, candidates: matched });
   } catch (err) {
-    if (err instanceof Anthropic.AuthenticationError) return NextResponse.json({ error: "The desk needs a valid ANTHROPIC_API_KEY." }, { status: 503 });
-    if (err instanceof Anthropic.RateLimitError) return NextResponse.json({ error: "The desk is busy. Try again in a minute." }, { status: 429 });
-    if (err instanceof Anthropic.APIError) return NextResponse.json({ error: err.message }, { status: 502 });
+    if (err instanceof GeminiError) {
+      const error = err.status === 422 ? "The desk could not identify this image." : err.status === 429 ? "The desk is busy. Try again in a minute." : err.status === 503 ? "The desk needs a valid GEMINI_API_KEY." : err.message;
+      return NextResponse.json({ error }, { status: err.status });
+    }
     throw err;
   }
 }

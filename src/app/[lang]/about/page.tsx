@@ -93,8 +93,8 @@ export default async function About({ params }: { params: Promise<{ lang: string
             </p>
             <p>
               The <b className="font-semibold">open stacks</b> are everything else: any of the more than two million named species can be looked up, and its page is
-              assembled live from the sources below, including the relevant sections of its Wikipedia article quoted as written. Where an Anthropic API key is
-              configured, a librarian (Claude, an AI model) also reads the whole article and extracts structured field notes, leaving a field blank when the article is
+              assembled live from the sources below, including the relevant sections of its Wikipedia article quoted as written. A
+              librarian (Gemini, an AI model) also reads the whole article and extracts structured field notes, leaving a field blank when the article is
               silent rather than filling it in.
             </p>
             <p>

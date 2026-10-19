@@ -63,7 +63,7 @@ export default async function TaxonPage({ params }: { params: Promise<{ lang: st
   // iNaturalist omits wikipedia_url for non-English locales; the scientific name finds the English article, and langlinks the rest
   const enWiki = t.wikipedia_url || `https://en.wikipedia.org/wiki/${encodeURIComponent(t.name.replace(/ /g, "_"))}`;
   const wiki = (lang !== "en" ? await wikiSections(enWiki, lang) : null) ?? (await wikiSections(enWiki));
-  const aiOn = !!process.env.ANTHROPIC_API_KEY;
+  const aiOn = !!process.env.GEMINI_API_KEY;
   const iucn = t.conservation_status?.authority?.includes("IUCN") ? statusCode(t.conservation_status.status) : undefined;
 
   return (

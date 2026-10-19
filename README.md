@@ -57,7 +57,7 @@ npm install
 npm run dev
 ```
 
-Optional: set `ANTHROPIC_API_KEY` in `.env.local`. This adds an AI "second opinion" on the Identify desk and structured field notes on open-stacks pages. Everything else works without it.
+Optional: set `GEMINI_API_KEY` in `.env.local` (Gemini 3.1 Flash Lite, `src/lib/gemini.ts`). This adds an AI "second opinion" on the Identify desk and structured field notes on open-stacks pages. Everything else works without it.
 
 ## Licences and attribution
 
