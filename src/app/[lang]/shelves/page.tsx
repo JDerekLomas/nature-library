@@ -23,8 +23,8 @@ export default async function ShelvesPage({ params }: { params: Promise<{ lang: 
           const items = onShelf(s.id);
           return (
             <li key={s.id} className="border-b rule">
-              <Link href={lp(lang, `/shelves/${s.id}`)} className="group grid md:grid-cols-[90px_minmax(0,1fr)_minmax(0,420px)] gap-x-8 gap-y-3 py-7 items-center">
-                <span className="font-display text-4xl text-ochre">{s.numeral}</span>
+              <Link href={lp(lang, `/shelves/${s.id}`)} className="group grid md:grid-cols-[8.5rem_minmax(0,1fr)_minmax(0,420px)] gap-x-8 gap-y-3 py-7 items-center">
+                <span className="font-display text-4xl text-ochre whitespace-nowrap">{s.numeral}</span>
                 <span>
                   <span className="block font-display text-3xl leading-tight group-hover:text-moss">{s.title}</span>
                   <span className="block mt-2 text-ink-2 leading-relaxed max-w-[60ch]">{s.blurb}</span>
