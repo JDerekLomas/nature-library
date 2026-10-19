@@ -129,7 +129,6 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
       {/* ——— Frontispiece ——— */}
       <section className="mx-auto max-w-[1320px] px-4 sm:px-6 pt-10 lg:pt-14 grid lg:grid-cols-[minmax(0,1fr)_minmax(0,600px)] gap-8 lg:gap-12 items-center">
         <div className="fade-up">
-          <p className="label text-ink-2">{t.kicker}</p>
           <h1 className="font-display text-[clamp(3.4rem,8.4vw,7.4rem)] leading-[0.86] tracking-[-0.02em] mt-5">
             {t.titleLines[0]}
             <br />
@@ -175,7 +174,7 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
       <section className="mx-auto max-w-[1320px] px-4 sm:px-6 mt-24">
         <div className="flex items-baseline justify-between border-b-[3px] border-double border-ink pb-3">
           <h2 className="font-display text-[2.2rem] leading-none">
-            <span className="label text-rust mr-3 align-middle">{t.roomN("I")}</span>{t.bestiaryTitle}
+            {t.bestiaryTitle}
           </h2>
           <Link href={L("/bestiary")} className="label text-moss hover:text-rust">{t.animalsArrow(st.animals)}</Link>
         </div>
@@ -202,7 +201,6 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
       <section className="mx-auto max-w-[1320px] px-4 sm:px-6 mt-20">
         <div className="grid grid-cols-1 lg:grid-cols-[minmax(0,360px)_minmax(0,1fr)] gap-10 items-end">
           <div>
-            <p className="label text-rust">{t.roomN("II")}</p>
             <h2 className="font-display text-[clamp(2.4rem,4.5vw,3.6rem)] leading-[0.95] mt-1">{t.aviaryTitle}</h2>
             <p className="mt-4 text-ink-2 leading-relaxed">
               {t.aviaryText(st.birds)}
@@ -230,7 +228,7 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
       <section className="mx-auto max-w-[1320px] px-4 sm:px-6 mt-20">
         <div className="flex flex-wrap items-baseline justify-between gap-3 border-b-[3px] border-double border-ink pb-3">
           <h2 className="font-display text-[2.2rem] leading-none">
-            <span className="label text-rust mr-3 align-middle">{t.roomN("III")}</span>{t.herbariumTitle}
+            {t.herbariumTitle}
           </h2>
           <Link href={L("/herbarium")} className="label text-moss hover:text-rust">{t.enterHerbarium} →</Link>
         </div>
@@ -255,7 +253,7 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
       {/* ——— Card catalogue ——— */}
       <section className="mx-auto max-w-[1320px] px-4 sm:px-6 mt-24">
         <div className="flex items-baseline justify-between border-b-[3px] border-double border-ink pb-3">
-          <h2 className="font-display text-[2.2rem] leading-none"><span className="label text-rust mr-3 align-middle">{t.roomN("IV")}</span>{t.catalogueCard}</h2>
+          <h2 className="font-display text-[2.2rem] leading-none">{t.catalogueCard}</h2>
           <Link href={L("/shelves")} className="label text-moss hover:text-rust">{t.allShelves(SHELVES.length)}</Link>
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-px bg-rule border-x border-b rule">
@@ -295,7 +293,6 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
       <section className="mx-auto max-w-[1320px] px-4 sm:px-6 mt-24">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-px bg-rule border rule">
         <Link href={L("/grow")} className="group bg-paper p-8 hover:bg-card">
-          <p className="label text-rust">{t.roomN("V")}</p>
           <p className="font-display text-4xl mt-1 group-hover:text-moss">{t.gardenTitle}</p>
           <p className="mt-3 text-ink-2 leading-relaxed max-w-[48ch]">
             {t.gardenText}
@@ -303,7 +300,6 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
           <p className="mt-5 label text-moss">{t.planGarden}</p>
         </Link>
         <Link href={L("/identify")} className="group bg-paper p-8 hover:bg-card">
-          <p className="label text-rust">{t.roomN("VI")}</p>
           <p className="font-display text-4xl mt-1 group-hover:text-moss">{t.idTitle}</p>
           <p className="mt-3 text-ink-2 leading-relaxed max-w-[48ch]">
             {t.idText(nf(st.identify))}
@@ -317,7 +313,6 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
       <section className="night mt-28">
         <div className="mx-auto max-w-[1320px] px-4 sm:px-6 py-20 grid lg:grid-cols-2 gap-12 items-center">
           <div>
-            <p className="label text-glow/80">{t.atlasKicker}</p>
             <h2 className="font-display text-[clamp(2.4rem,5vw,4rem)] leading-[0.95] mt-3 text-[#f1ebd8]">{t.atlasTitle}</h2>
             <p className="mt-6 text-lg leading-relaxed text-[#c9c2a8] max-w-[54ch]">
               {t.atlasText}
@@ -336,7 +331,6 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
       <section className="mx-auto max-w-[1320px] px-4 sm:px-6 mt-24">
         <div className="grid grid-cols-1 lg:grid-cols-[minmax(0,420px)_minmax(0,1fr)] gap-12">
           <div>
-            <p className="label text-rust">{t.roomN("VIII")}</p>
             <h2 className="font-display text-[clamp(2.4rem,4.5vw,3.6rem)] leading-[0.95] mt-1">{t.catalogueTitle}</h2>
             <p className="mt-4 text-ink-2 leading-relaxed">
               {t.catalogueText((kingdomTotal / 1e6).toLocaleString(LOCALE[lang], { maximumFractionDigits: 1 }), st.countries)}
@@ -352,7 +346,7 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
                 {T.rooms.checklists.title}
               </Link>
               <Link href={L("/wheel")} className="px-4 py-2.5 border border-ink hover:bg-paper-2">
-                {t.seeWheel} <span className="label text-rust ml-1">{t.roomN("VII")}</span>
+                {t.seeWheel}
               </Link>
             </div>
           </div>
@@ -375,7 +369,7 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
       {/* ——— Plate room ——— */}
       <section className="mx-auto max-w-[1320px] px-4 sm:px-6 mt-24">
         <div className="flex items-baseline justify-between border-b-[3px] border-double border-ink pb-3">
-          <h2 className="font-display text-[2.2rem] leading-none"><span className="label text-rust mr-3 align-middle">{t.roomN("IX")}</span>{t.plateRoom}</h2>
+          <h2 className="font-display text-[2.2rem] leading-none">{t.plateRoom}</h2>
           <Link href={L("/plates")} className="label text-moss hover:text-rust">{t.platesArrow(nf(PLATES.length))}</Link>
         </div>
         <div className="scroll-x mt-6 -mx-4 px-4">
@@ -401,7 +395,6 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
         <section className="mx-auto max-w-[1320px] px-4 sm:px-6 mt-24">
           <div className="grid grid-cols-1 lg:grid-cols-[minmax(0,1fr)_minmax(0,1.3fr)] gap-12 items-center">
             <div>
-              <p className="label text-rust">{t.herballKicker}</p>
               <h2 className="font-display text-[clamp(2.2rem,4vw,3.4rem)] leading-[0.98] mt-2">{t.herballTitle}</h2>
               <p className="mt-5 text-lg leading-relaxed text-ink-2 max-w-[54ch]">
                 {t.herballText(GERARD.length)}
@@ -427,7 +420,7 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
       {/* ——— Exhibitions ——— */}
       <section className="mx-auto max-w-[1320px] px-4 sm:px-6 mt-24">
         <div className="flex items-baseline justify-between border-b-[3px] border-double border-ink pb-3">
-          <h2 className="font-display text-[2.2rem] leading-none"><span className="label text-rust mr-3 align-middle">{t.roomN("XI")}</span>{t.exhibitions}</h2>
+          <h2 className="font-display text-[2.2rem] leading-none">{t.exhibitions}</h2>
           <Link href={L("/exhibitions")} className="label text-moss hover:text-rust">{t.allExhibitions}</Link>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-x-10">

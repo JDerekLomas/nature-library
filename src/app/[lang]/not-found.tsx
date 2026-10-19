@@ -15,7 +15,6 @@ export default function NotFound() {
   const t = T[lang];
   return (
     <div className="mx-auto max-w-[760px] px-4 sm:px-6 pt-20 pb-10">
-      <p className="label text-ink-2">{t.kicker} · 404</p>
       <h1 className="font-display text-[clamp(2.2rem,5vw,3.6rem)] leading-tight mt-2">{t.title}</h1>
       <p className="mt-4 text-lg text-ink-2 leading-relaxed">{t.body}</p>
       <div className="mt-6">

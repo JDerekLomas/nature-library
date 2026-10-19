@@ -37,7 +37,6 @@ export default async function PlatesPage({ params, searchParams }: { params: Pro
 
   return (
     <div className="mx-auto max-w-[1440px] px-4 sm:px-6 pt-10">
-      <p className="label text-ink-2">{t.door}</p>
       <h1 className="font-display text-[clamp(2.6rem,6vw,4.8rem)] leading-none mt-2">{t.heading}</h1>
       <p className="mt-4 max-w-[66ch] text-lg text-ink-2 leading-relaxed">
         {t.intro(PLATES.length.toLocaleString(LOCALE[lang]))}{" "}

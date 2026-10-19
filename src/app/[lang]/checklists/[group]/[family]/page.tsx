@@ -36,7 +36,6 @@ export default async function FamilyPage({ params, searchParams }: { params: Pro
       <Link href={L(`/checklists/${g}${qsOf(f)}`)} className="label text-ink-2 hover:text-moss">
         ← {groupTitle(g, lang)}
       </Link>
-      <p className="label text-ink-2 mt-4">{t.familyOf(fam.order)}</p>
       <h1 className="font-display text-[clamp(2.4rem,5vw,4.2rem)] leading-none mt-2 latin">{fam.family}</h1>
       {fam.common && <p className="text-xl text-moss mt-2">{fam.common}</p>}
       <p className="label text-ink-2 mt-3">{list.length !== all.length ? t.shown(nf(list.length), nf(all.length)) : t.species(nf(all.length))}</p>

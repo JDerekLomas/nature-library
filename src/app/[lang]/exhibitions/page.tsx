@@ -16,7 +16,6 @@ export default async function ExhibitionsPage({ params }: { params: Promise<{ la
   const byName = new Map(CODEX.map((e) => [e.scientific, e]));
   return (
     <div className="mx-auto max-w-[1320px] px-4 sm:px-6 pt-10">
-      <p className="label text-ink-2">{t.kicker}</p>
       <h1 className="font-display text-[clamp(2.6rem,6vw,4.8rem)] leading-none mt-2">{t.heading}</h1>
       <div className="double-rule mt-8 grid md:grid-cols-2 gap-x-12">
         {exhibitionsFor(lang).map((x, i) => {

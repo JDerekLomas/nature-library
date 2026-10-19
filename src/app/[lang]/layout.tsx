@@ -42,9 +42,9 @@ export default async function RootLayout({ children, params }: Readonly<{ childr
           <header className="sticky top-0 z-50 border-b rule bg-paper/92 backdrop-blur-sm">
             <div className="mx-auto flex max-w-[1320px] items-center gap-4 px-4 sm:px-6 py-3">
               <Link href={L("/")} className="group flex items-center gap-2.5 shrink-0" aria-label={t.siteName}>
-                <Mark size={38} className="text-moss shrink-0 transition-colors group-hover:text-rust" />
+                <Mark size={38} className="text-moss shrink-0 w-[30px] h-[30px] sm:w-[38px] sm:h-[38px] transition-colors group-hover:text-rust" />
                 <span className="flex flex-col">
-                  <span className="font-display text-[1.35rem] leading-none tracking-tight">{t.siteName}</span>
+                  <span className="font-display text-[1.05rem] sm:text-[1.35rem] leading-none tracking-tight">{t.siteName}</span>
                   <span className="label text-ink-2 !text-[0.56rem] mt-1 tracking-[0.2em] hidden sm:block">{t.imprint}</span>
                 </span>
               </Link>
@@ -112,13 +112,14 @@ export default async function RootLayout({ children, params }: Readonly<{ childr
               <FooterCol title={t.footerLibrary} links={t.footerLinks.map(([h, l]) => [L(h), l])} />
             </div>
             <div className="mx-auto max-w-[1320px] px-4 sm:px-6 pb-8 flex flex-col sm:flex-row sm:items-baseline sm:justify-between gap-3 border-t rule pt-5">
-              <p className="text-sm">
-                {t.poweredBy[0]}{" "}
-                <a className="link-ink" href="https://sourcelibrary.org" target="_blank" rel="noreferrer">
-                  Source Library
-                </a>{" "}
-                {t.poweredBy[1]}{" "}
-                <a className="link-ink" href="https://wisdomfrontiers.com" target="_blank" rel="noreferrer">
+              <p className="text-sm flex flex-wrap items-center gap-x-2.5 gap-y-2">
+                <span>{t.poweredBy[0]}</span>
+                <a href="https://sourcelibrary.org" target="_blank" rel="noreferrer" className="inline-flex opacity-90 hover:opacity-100 transition-opacity" aria-label="Source Library">
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img src="/brand/source-library.svg" alt="Source Library" width={143} height={22} className="h-[22px] w-auto" />
+                </a>
+                <span>{t.poweredBy[1]}</span>
+                <a className="link-ink" href="https://wisdom-frontiers.com/" target="_blank" rel="noreferrer">
                   Wisdom Frontiers
                 </a>
               </p>

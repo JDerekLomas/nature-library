@@ -23,7 +23,6 @@ export default async function HerballRoom({ params, searchParams }: { params: Pr
 
   return (
     <div className="mx-auto max-w-[1320px] px-4 sm:px-6 pt-10">
-      <p className="label text-ink-2">{t.kicker}</p>
       <div className="grid grid-cols-1 lg:grid-cols-[minmax(0,1fr)_320px] gap-10 items-end">
         <div>
           <h1 className="font-display text-[clamp(2.6rem,6vw,4.8rem)] leading-none mt-2">{t.title}</h1>

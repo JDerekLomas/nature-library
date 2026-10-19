@@ -16,7 +16,6 @@ export default async function ShelvesPage({ params }: { params: Promise<{ lang: 
   const onShelf = (id: string) => CODEX.filter((e) => e.shelves?.includes(id));
   return (
     <div className="mx-auto max-w-[1320px] px-4 sm:px-6 pt-10">
-      <p className="label text-ink-2">{t.door}</p>
       <h1 className="font-display text-[clamp(2.6rem,6vw,4.8rem)] leading-none mt-2">{t.title}</h1>
       <p className="mt-4 max-w-[62ch] text-lg text-ink-2 leading-relaxed">{t.intro}</p>
       <ul className="double-rule mt-8">

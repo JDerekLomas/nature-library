@@ -294,7 +294,6 @@ export default function AtlasClient() {
         <div>
           <div className="flex flex-wrap items-end gap-x-8 gap-y-3">
             <div>
-              <p className="label text-glow/80">{t.door}</p>
               <h1 className="font-display text-[clamp(2.4rem,5vw,4rem)] leading-none mt-1">{t.heading}</h1>
             </div>
             <p className="text-[#c9c2a8] max-w-[52ch] text-sm leading-relaxed">{t.intro(cells ? t.cells(cells.toLocaleString(LOCALE[lang])) : "")}</p>

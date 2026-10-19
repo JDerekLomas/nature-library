@@ -73,4 +73,4 @@ Each page credits its sources. Medicinal and edibility content is historical and
 
 ---
 
-Powered by [Source Library](https://sourcelibrary.org) and [Wisdom Frontiers](https://wisdomfrontiers.com).
+Powered by [Source Library](https://sourcelibrary.org) and [Wisdom Frontiers](https://wisdom-frontiers.com/).

@@ -23,7 +23,6 @@ export default async function Checklists({ params }: { params: Promise<{ lang: s
   const total = rows.reduce((n, r) => n + r.data!.species.length, 0);
   return (
     <div className="mx-auto max-w-[1100px] px-4 sm:px-6 pt-10">
-      <p className="label text-ink-2">{t.kicker}</p>
       <h1 className="font-display text-[clamp(2.6rem,6vw,4.6rem)] leading-none mt-2">{t.title}</h1>
       <p className="mt-4 max-w-[68ch] text-lg text-ink-2 leading-relaxed">{t.intro}</p>
       <p className="mt-3 label text-ink-2">{t.species(nf(total))}</p>

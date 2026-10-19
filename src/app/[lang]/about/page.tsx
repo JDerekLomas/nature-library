@@ -49,7 +49,6 @@ export default async function About({ params }: { params: Promise<{ lang: string
   const es = lang === "es";
   return (
     <div className="mx-auto max-w-[900px] px-4 sm:px-6 pt-10">
-      <p className="label text-ink-2">{t.kicker}</p>
       <h1 className="font-display text-[clamp(2.6rem,6vw,4.6rem)] leading-none mt-2">{t.heading}</h1>
       <div className="mt-8 space-y-5 text-[1.12rem] leading-[1.7]">
         {es ? (

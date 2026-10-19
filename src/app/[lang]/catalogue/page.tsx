@@ -34,7 +34,6 @@ export default async function Catalogue({ params }: { params: Promise<{ lang: st
 
   return (
     <div className="mx-auto max-w-[1320px] px-4 sm:px-6 pt-10">
-      <p className="label text-ink-2">{t.kicker}</p>
       <h1 className="font-display text-[clamp(2.6rem,6vw,4.8rem)] leading-none mt-2">{t.title}</h1>
       <p className="mt-5 max-w-[68ch] text-lg text-ink-2 leading-relaxed">{t.intro(total ? t.someMillion((total / 1e6).toLocaleString(LOCALE[lang], { maximumFractionDigits: 1 })) : "")}</p>
       <div className="max-w-[640px] mt-6">
