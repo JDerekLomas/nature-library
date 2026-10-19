@@ -7,6 +7,7 @@ import { dict } from "@/i18n/dict";
 import { wikiSummaryIn } from "@/lib/wikipedia";
 import PhotoPlate from "@/components/PhotoPlate";
 import EBirdCard from "@/components/EBirdCard";
+import ShareButton from "@/components/ShareButton";
 import WhereItLives from "@/components/WhereItLives";
 import Stacks from "@/components/Stacks";
 import SpecimenCard from "@/components/SpecimenCard";
@@ -55,7 +56,10 @@ export default async function SpeciesPage({ params }: { params: Promise<{ lang: 
         {e.family && <span>{e.family}</span>}
         {e.form && <span>{T.sheet.forms[e.form] ?? e.form}</span>}
         {e.observations ? <span>{T.common.observations(e.observations.toLocaleString(LOCALE[lang]))}</span> : null}
-        <span className="ml-auto hidden sm:inline">{t.codex}</span>
+        <span className="ml-auto flex items-center gap-4">
+          <span className="hidden sm:inline">{t.codex}</span>
+          <ShareButton name={e.common} scientific={e.scientific} />
+        </span>
       </div>
 
       {(() => {

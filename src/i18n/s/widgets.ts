@@ -1,4 +1,14 @@
 export const en = {
+  share: {
+    button: "Share",
+    aria: (n: string) => `Share ${n}`,
+    title: "Share this page",
+    copy: "Copy link",
+    copied: "Link copied",
+    email: "Email",
+    text: (n: string) => `${n}, in The Nature Library`,
+    close: "Close",
+  },
   noPhoto: "No photograph on file",
   photograph: (k: number) => `Photograph ${k}`,
   plateOf: (i: number, n: number) => `Plate ${i} of ${n}.`,
@@ -50,6 +60,16 @@ export const en = {
 };
 
 export const es: typeof en = {
+  share: {
+    button: "Compartir",
+    aria: (n: string) => `Compartir ${n}`,
+    title: "Compartir esta página",
+    copy: "Copiar enlace",
+    copied: "Enlace copiado",
+    email: "Correo",
+    text: (n: string) => `${n}, en La Biblioteca de la Naturaleza`,
+    close: "Cerrar",
+  },
   noPhoto: "Sin fotografía en el archivo",
   photograph: (k: number) => `Fotografía ${k}`,
   plateOf: (i: number, n: number) => `Lámina ${i} de ${n}.`,

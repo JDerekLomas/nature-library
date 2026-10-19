@@ -8,6 +8,7 @@ import WhereItLives from "@/components/WhereItLives";
 import Stacks from "@/components/Stacks";
 import WikiText from "@/components/WikiText";
 import FoundGallery from "@/components/FoundGallery";
+import ShareButton from "@/components/ShareButton";
 import { findImages } from "@/lib/images";
 import { asLang, lp, LOCALE } from "@/i18n/config";
 import { dict } from "@/i18n/dict";
@@ -77,7 +78,10 @@ export default async function ColPage({ params, searchParams }: { params: Promis
         <span>{rankLabel(rank)}</span>
         {u.extinct && <span className="text-stamp">{t.extinct}</span>}
         {u.status === "provisionally accepted" && <span>{t.provisional}</span>}
-        <span className="ml-auto hidden sm:inline">{t.kicker("2026")}</span>
+        <span className="ml-auto flex items-center gap-4">
+          <span className="hidden sm:inline">{t.kicker("2026")}</span>
+          <ShareButton name={mine ? mine.name.charAt(0).toUpperCase() + mine.name.slice(1) : name} scientific={name} />
+        </span>
       </div>
       <nav className="mt-3 text-sm text-ink-2 flex flex-wrap gap-x-1.5">
         {lineage.map((a, i) => (

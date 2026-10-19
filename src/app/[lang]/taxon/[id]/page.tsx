@@ -8,6 +8,7 @@ import { asLang, lp, LOCALE } from "@/i18n/config";
 import { dict } from "@/i18n/dict";
 import PhotoPlate from "@/components/PhotoPlate";
 import EBirdCard from "@/components/EBirdCard";
+import ShareButton from "@/components/ShareButton";
 import WikiText from "@/components/WikiText";
 import { commonsImages } from "@/lib/images";
 import WhereItLives from "@/components/WhereItLives";
@@ -73,7 +74,10 @@ export default async function TaxonPage({ params }: { params: Promise<{ lang: st
         {t.iconic_taxon_name && <span>{t.iconic_taxon_name}</span>}
         <span>{T.common.observations(t.observations_count.toLocaleString(LOCALE[lang]))}</span>
         {t.extinct && <span className="text-stamp">{tr.extinct}</span>}
-        <span className="ml-auto hidden sm:inline">{tr.openStacks}</span>
+        <span className="ml-auto flex items-center gap-4">
+          <span className="hidden sm:inline">{tr.openStacks}</span>
+          <ShareButton name={name} scientific={t.name} />
+        </span>
       </div>
 
       {ancestors.length > 0 && (

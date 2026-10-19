@@ -5,6 +5,7 @@ import { GROUPS, findSpecies, groupTitle, loadGroup, familySlug, type GroupId } 
 import { findImages } from "@/lib/images";
 import { wikiSections } from "@/lib/wikipedia";
 import FoundGallery from "@/components/FoundGallery";
+import ShareButton from "@/components/ShareButton";
 import WikiText from "@/components/WikiText";
 import WhereItLives from "@/components/WhereItLives";
 import Stacks from "@/components/Stacks";
@@ -45,6 +46,7 @@ export default async function ChecklistSpecies({ params }: { params: Promise<{ l
         <span className="latin normal-case">{s.order}</span>
         <Link href={L(`/checklists/${g}/${familySlug(s.family)}`)} className="latin normal-case hover:text-moss">{s.family}</Link>
         {s.extinct && <span className="text-stamp">{T.rooms.gbif.extinct}</span>}
+        <ShareButton name={s.en || s.sci} scientific={s.sci} className="ml-auto" />
       </div>
       <div className="grid lg:grid-cols-[minmax(0,420px)_minmax(0,1fr)] gap-10 lg:gap-16 mt-8">
         <div className="lg:sticky lg:top-24 self-start">

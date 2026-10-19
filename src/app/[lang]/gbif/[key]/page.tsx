@@ -6,6 +6,7 @@ import { getByInat } from "@/lib/codex";
 import { wikiSections } from "@/lib/wikipedia";
 import { findImages } from "@/lib/images";
 import FoundGallery from "@/components/FoundGallery";
+import ShareButton from "@/components/ShareButton";
 import { asLang, lp, LOCALE } from "@/i18n/config";
 import { dict } from "@/i18n/dict";
 import WhereItLives from "@/components/WhereItLives";
@@ -93,7 +94,10 @@ export default async function GbifPage({ params, searchParams }: { params: Promi
         {t.kingdom && <span>{t.kingdom}</span>}
         <span>{g.records(nf(records))}</span>
         {t.extinct && <span className="text-stamp">{g.extinct}</span>}
-        <span className="ml-auto hidden sm:inline">{g.catalogue}</span>
+        <span className="ml-auto flex items-center gap-4">
+          <span className="hidden sm:inline">{g.catalogue}</span>
+          <ShareButton name={english ?? name} scientific={name} />
+        </span>
       </div>
       {parents && parents.length > 0 && (
         <ol className="flex flex-wrap items-center gap-y-1 text-sm mt-3 text-ink-2">
