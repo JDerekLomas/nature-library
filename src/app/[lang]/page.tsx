@@ -12,7 +12,7 @@ import { toCard } from "@/lib/cards";
 import LibraryPlan, { type Room } from "@/components/LibraryPlan";
 import { libraryStats } from "@/lib/stats";
 import { gbifTaxonQuiet } from "@/lib/gbif";
-import { correctionLogs, makeResolver } from "@/lib/corrections";
+import { BIRD_COUNT } from "@/lib/birds";
 
 export const revalidate = 86400;
 
@@ -65,17 +65,22 @@ const BESTIARY: [string, string, string][] = [
   ["Elasmobranchii", "Sharks & rays", "/bestiary#Elasmobranchii"],
 ];
 
-// compact in the reader's language: 2.6M / 2,6 M; 10,000 / 10.000
-const fmtBig = (n: number, lang: Lang) => new Intl.NumberFormat(LOCALE[lang], n >= 1e6 ? { notation: "compact", maximumFractionDigits: 1 } : { maximumSignificantDigits: n >= 1e4 ? 2 : 21 }).format(n);
+// in the reader's language, as the frontispiece figures are: 4.4 million / 4,4 millones; 10,000 / 10.000
+const fmtBig = (n: number, lang: Lang) => new Intl.NumberFormat(LOCALE[lang], n >= 1e6 ? { notation: "compact", compactDisplay: "long", maximumFractionDigits: 1 } : { maximumSignificantDigits: n >= 1e4 ? 2 : 21 }).format(n);
+// the living collections first, then the instruments for finding your way among them
 const LEDGER = (st: ReturnType<typeof libraryStats>, names: number, plates: number, L: string[], lang: Lang): [string, string, string][] => [
-  [fmtBig(names, lang), L[0], "/catalogue"],
-  [String(st.codex), L[1], "/shelves"],
-  [String(st.birds), L[2], "/aviary"],
-  [fmtBig(st.identify, lang), L[3], "/identify"],
-  [fmtBig(plates, lang), L[4], "/plates"],
-  [String(st.gerard), L[5], "/herball"],
-  [String(st.countries), L[6], "/catalogue"],
-  [String(st.corrections), L[7], "/about/corrections"],
+  [String(st.animals), L[0], "/bestiary"],
+  [BIRD_COUNT.toLocaleString(LOCALE[lang]), L[1], "/aviary/checklist"],
+  [String(st.plants), L[2], "/herbarium#plants"],
+  [String(st.fungi), L[3], "/herbarium#fungi"],
+  [fmtBig(names, lang), L[4], "/catalogue"],
+  [fmtBig(st.identify, lang), L[5], "/identify"],
+  [fmtBig(plates, lang), L[6], "/plates"],
+  [String(st.countries), L[7], "/catalogue"],
+];
+// the Herbarium's tiles on the entrance: growth form → its section on the Herbarium page
+const HERBARIUM: [string, string][] = [
+  ["Tree", "tree"], ["Herb", "herb"], ["Shrub", "shrub"], ["Vine", "vine"], ["Grass", "grass"], ["Mushroom", "mushroom"], ["Bracket fungus", "bracket"], ["Lichen", "lichen"],
 ];
 
 
@@ -99,9 +104,11 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
   const classOf = (name: string) => CX.filter((e) => e.ancestors?.some((a) => a.name === name)).sort((a, b) => (b.observations ?? 0) - (a.observations ?? 0));
   const bestiary = BESTIARY.map(([taxon, , href]) => ({ taxon, label: t.bestiaryClasses[taxon] ?? taxon, href: L(href), list: classOf(taxon) })).filter((x) => x.list.length);
   const shelfFace = (id: string) => onShelf(id).filter((e) => e.photos?.length).sort((a, b) => (b.observations ?? 0) - (a.observations ?? 0)).slice(0, 4).map((e) => ph(e)!);
+  const green = HERBARIUM.map(([form, id]) => ({ form, id, list: CX.filter((e) => e.form === form && (e.kingdom === "Plantae" || e.kingdom === "Fungi")).sort((a, b) => (b.observations ?? 0) - (a.observations ?? 0)) })).filter((g) => g.list.length);
   const IMG: Record<string, string[]> = {
     aviary: birds.slice(0, 4).map((e) => ph(e)!),
     bestiary: bestiary.slice(0, 4).map((x) => ph(x.list[0])!).filter(Boolean),
+    herbarium: green.slice(0, 4).map((g) => ph(g.list[0])!).filter(Boolean),
     herball: GERARD.filter((g) => g.codex).slice(0, 4).map((g) => gerardPage(g.page).replace(".jpg", "-thumb.jpg")),
     plates: PLATES.slice(0, 4).map((p) => p.th),
     identify: shelfFace("toxic").slice(0, 2).concat(birds.slice(4, 6).map((e) => ph(e)!)),
@@ -110,23 +117,23 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
     wheel: shelfFace("ancient"),
     shelves: shelfFace("medicinal"),
     exhibitions: shelfFace("spice"),
-    corrections: [],
   };
   const COUNT: Record<string, number> = {
-    aviary: st.birds, bestiary: st.animals, herball: st.gerard, plates: Math.round(PLATES.length / 1000), identify: Math.round(st.identify / 1000), grow: 0,
-    catalogue: Number((kingdomTotal / 1e6).toFixed(1)), wheel: 0, shelves: st.shelves, exhibitions: st.exhibitions, corrections: st.corrections,
+    aviary: st.birds, bestiary: st.animals, herbarium: st.plants + st.fungi, herball: st.gerard, plates: Math.round(PLATES.length / 1000), identify: Math.round(st.identify / 1000), grow: 0,
+    catalogue: Number((kingdomTotal / 1e6).toFixed(1)), wheel: 0, shelves: st.shelves, exhibitions: st.exhibitions,
   };
-  const ROOM_HREF: Record<string, string> = { aviary: "/aviary", bestiary: "/bestiary", herball: "/herball", plates: "/plates", identify: "/identify", grow: "/grow", catalogue: "/catalogue", wheel: "/wheel", shelves: "/shelves", exhibitions: "/exhibitions", corrections: "/about/corrections" };
+  // walking order: the living collections, what they do for us, how to find your way, the old books, and the exhibitions by the door
+  const ROOM_HREF: Record<string, string> = {
+    bestiary: "/bestiary", aviary: "/aviary", herbarium: "/herbarium", shelves: "/shelves", grow: "/grow", identify: "/identify",
+    wheel: "/wheel", catalogue: "/catalogue", plates: "/plates", herball: "/herball", exhibitions: "/exhibitions",
+  };
   const NUMERALS = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X", "XI"];
   const rooms: Room[] = Object.keys(ROOM_HREF).map((k, i) => {
     const [name, count, blurb] = t.rooms[k];
     return { href: L(ROOM_HREF[k]), numeral: NUMERALS[i], name, count: count(COUNT[k]), blurb, images: IMG[k] };
   });
 
-  const corr = correctionLogs().flatMap((l) => l.changes).filter((x) => x.was && x.now && x.was.length < 140 && x.now.length < 160);
-  const resolve = makeResolver(CODEX);
   const nf = (n: number) => n.toLocaleString(LOCALE[lang]);
-  const sampleCorr = [corr[3], corr[Math.floor(corr.length / 2)], corr[corr.length - 8]].filter(Boolean);
   const sotdRaw = specimenOfTheDay();
   const sotd = sotdRaw ? CX.find((e) => e.slug === sotdRaw.slug) ?? sotdRaw : sotdRaw;
   const plates = PLATES.filter((p) => p.cat === "plants").slice(0, 3).concat(PLATES.filter((p) => p.cat === "birds").slice(0, 2), PLATES.filter((p) => p.cat === "fungi").slice(0, 1), PLATES.filter((p) => p.cat === "animals").slice(0, 2));
@@ -194,52 +201,38 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
         <LibraryPlan rooms={rooms} />
       </section>
 
-      {/* ——— Specimen of the day ——— */}
-      {sotd && (
-        <section className="mx-auto max-w-[1320px] px-4 sm:px-6 mt-24">
-          <p className="label text-ink-2">{t.sotd} · {sotd.nl}</p>
-          <div className="grid grid-cols-1 lg:grid-cols-[minmax(0,1.1fr)_minmax(0,1fr)_minmax(0,0.8fr)] gap-10 mt-4 items-center">
-            <Link href={L(`/species/${sotd.slug}`)} className="mount block">
-              {sotd.photos?.[0] && (
-                // eslint-disable-next-line @next/next/no-img-element
-                <img src={sotd.photos[0].url} alt={sotd.common} className="w-full aspect-[5/4] object-cover" />
-              )}
-            </Link>
-            <div>
-              <h2 className="font-display text-[clamp(2.4rem,4.5vw,3.8rem)] leading-[0.95]">{sotd.common}</h2>
-              <p className="latin text-xl text-moss mt-2">{sotd.scientific}</p>
-              <p className="mt-6 text-lg leading-relaxed">{sotd.summary}</p>
-              {sotd.abilities?.[0] && (
-                <p className="mt-5 text-ink-2 border-l-2 border-ochre pl-4 leading-relaxed">
-                  <span className="label mr-2">{t.itCan}</span>
-                  {sotd.abilities[0]}
-                </p>
-              )}
-              <Link href={L(`/species/${sotd.slug}`)} className="inline-block mt-6 label text-moss hover:text-rust">
-                {t.readSheet}
-              </Link>
-            </div>
-            {sotd.plates?.[0] && (
-              <figure>
-                <div className="bg-[#efe6cf] p-4 border rule">
-                  {/* eslint-disable-next-line @next/next/no-img-element */}
-                  <img src={sotd.plates[0].img} alt="" className="w-full max-h-[420px] object-contain mix-blend-multiply" />
-                </div>
-                <figcaption className="text-xs text-ink-2 mt-2 leading-snug">
-                  {t.asDrawnIn} <i>{sotd.plates[0].title}</i>
-                  {sotd.plates[0].author !== "Unknown" ? `, ${sotd.plates[0].author}` : ""}, {sotd.plates[0].year}
-                </figcaption>
-              </figure>
-            )}
-          </div>
-        </section>
-      )}
-
-      {/* ——— Room I: the Aviary ——— */}
+      {/* ——— Room I: the Bestiary ——— */}
       <section className="mx-auto max-w-[1320px] px-4 sm:px-6 mt-24">
+        <div className="flex items-baseline justify-between border-b-[3px] border-double border-ink pb-3">
+          <h2 className="font-display text-[2.2rem] leading-none">
+            <span className="label text-rust mr-3 align-middle">{t.roomN("I")}</span>{t.bestiaryTitle}
+          </h2>
+          <Link href={L("/bestiary")} className="label text-moss hover:text-rust">{t.animalsArrow(st.animals)}</Link>
+        </div>
+        <div className="grid grid-cols-2 sm:grid-cols-4 gap-px bg-rule border-x border-b rule">
+          {bestiary.map((x) => (
+            <Link key={x.taxon} href={x.href} className="group relative block aspect-[4/3] overflow-hidden bg-paper-3">
+              {ph(x.list[0]) && (
+                // eslint-disable-next-line @next/next/no-img-element
+                <img src={ph(x.list[0])} alt="" loading="lazy" className="absolute inset-0 w-full h-full object-cover saturate-[.85] group-hover:scale-105 group-hover:saturate-100 transition duration-700" />
+              )}
+              <span className="absolute inset-0 bg-gradient-to-t from-[#0d1310cc] via-transparent to-transparent" />
+              <span className="absolute left-4 bottom-3 text-[#f4efe2]">
+                <span className="block font-display text-2xl leading-none">{x.label}</span>
+                <span className="block label !text-[0.58rem] mt-1 text-[#e7dfc6]">
+                  {t.sheets(x.list.length)} · <i className="normal-case tracking-normal">{x.taxon}</i>
+                </span>
+              </span>
+            </Link>
+          ))}
+        </div>
+      </section>
+
+      {/* ——— Room II: the Aviary ——— */}
+      <section className="mx-auto max-w-[1320px] px-4 sm:px-6 mt-20">
         <div className="grid grid-cols-1 lg:grid-cols-[minmax(0,360px)_minmax(0,1fr)] gap-10 items-end">
           <div>
-            <p className="label text-rust">{t.roomN("I")}</p>
+            <p className="label text-rust">{t.roomN("II")}</p>
             <h2 className="font-display text-[clamp(2.4rem,4.5vw,3.6rem)] leading-[0.95] mt-1">{t.aviaryTitle}</h2>
             <p className="mt-4 text-ink-2 leading-relaxed">
               {t.aviaryText(st.birds)}
@@ -263,27 +256,26 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
         </div>
       </section>
 
-      {/* ——— Room II: the Bestiary ——— */}
+      {/* ——— Room III: the Herbarium ——— */}
       <section className="mx-auto max-w-[1320px] px-4 sm:px-6 mt-20">
-        <div className="flex items-baseline justify-between border-b-[3px] border-double border-ink pb-3">
+        <div className="flex flex-wrap items-baseline justify-between gap-3 border-b-[3px] border-double border-ink pb-3">
           <h2 className="font-display text-[2.2rem] leading-none">
-            <span className="label text-rust mr-3 align-middle">{t.roomN("II")}</span>{t.bestiaryTitle}
+            <span className="label text-rust mr-3 align-middle">{t.roomN("III")}</span>{t.herbariumTitle}
           </h2>
-          <Link href={L("/bestiary")} className="label text-moss hover:text-rust">{t.animalsArrow(st.animals)}</Link>
+          <Link href={L("/herbarium")} className="label text-moss hover:text-rust">{t.enterHerbarium} →</Link>
         </div>
-        <div className="grid grid-cols-2 sm:grid-cols-4 gap-px bg-rule border-x border-b rule">
-          {bestiary.map((x) => (
-            <Link key={x.taxon} href={x.href} className="group relative block aspect-[4/3] overflow-hidden bg-paper-3">
-              {ph(x.list[0]) && (
+        <p className="mt-4 text-ink-2 leading-relaxed max-w-[70ch]">{t.herbariumText(st.plants, st.fungi)}</p>
+        <div className="grid grid-cols-2 sm:grid-cols-4 gap-px bg-rule border rule mt-5">
+          {green.map((g) => (
+            <Link key={g.id} href={L(`/herbarium#${g.id}`)} className="group relative block aspect-[4/3] overflow-hidden bg-paper-3">
+              {ph(g.list[0]) && (
                 // eslint-disable-next-line @next/next/no-img-element
-                <img src={ph(x.list[0])} alt="" loading="lazy" className="absolute inset-0 w-full h-full object-cover saturate-[.85] group-hover:scale-105 group-hover:saturate-100 transition duration-700" />
+                <img src={ph(g.list[0])} alt="" loading="lazy" className="absolute inset-0 w-full h-full object-cover saturate-[.85] group-hover:scale-105 group-hover:saturate-100 transition duration-700" />
               )}
               <span className="absolute inset-0 bg-gradient-to-t from-[#0d1310cc] via-transparent to-transparent" />
               <span className="absolute left-4 bottom-3 text-[#f4efe2]">
-                <span className="block font-display text-2xl leading-none">{x.label}</span>
-                <span className="block label !text-[0.58rem] mt-1 text-[#e7dfc6]">
-                  {t.sheets(x.list.length)} · <i className="normal-case tracking-normal">{x.taxon}</i>
-                </span>
+                <span className="block font-display text-2xl leading-none">{t.herbariumGroups[g.form] ?? g.form}</span>
+                <span className="block label !text-[0.58rem] mt-1 text-[#e7dfc6]">{t.sheets(g.list.length)}</span>
               </span>
             </Link>
           ))}
@@ -293,7 +285,7 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
       {/* ——— Card catalogue ——— */}
       <section className="mx-auto max-w-[1320px] px-4 sm:px-6 mt-24">
         <div className="flex items-baseline justify-between border-b-[3px] border-double border-ink pb-3">
-          <h2 className="font-display text-[2.2rem] leading-none"><span className="label text-rust mr-3 align-middle">{t.roomN("IX")}</span>{t.catalogueCard}</h2>
+          <h2 className="font-display text-[2.2rem] leading-none"><span className="label text-rust mr-3 align-middle">{t.roomN("IV")}</span>{t.catalogueCard}</h2>
           <Link href={L("/shelves")} className="label text-moss hover:text-rust">{t.allShelves(SHELVES.length)}</Link>
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-px bg-rule border-x border-b rule">
@@ -329,6 +321,28 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
         </div>
       </section>
 
+      {/* ——— Rooms V & VI: the Garden and Identify ——— */}
+      <section className="mx-auto max-w-[1320px] px-4 sm:px-6 mt-24">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-px bg-rule border rule">
+        <Link href={L("/grow")} className="group bg-paper p-8 hover:bg-card">
+          <p className="label text-rust">{t.roomN("V")}</p>
+          <p className="font-display text-4xl mt-1 group-hover:text-moss">{t.gardenTitle}</p>
+          <p className="mt-3 text-ink-2 leading-relaxed max-w-[48ch]">
+            {t.gardenText}
+          </p>
+          <p className="mt-5 label text-moss">{t.planGarden}</p>
+        </Link>
+        <Link href={L("/identify")} className="group bg-paper p-8 hover:bg-card">
+          <p className="label text-rust">{t.roomN("VI")}</p>
+          <p className="font-display text-4xl mt-1 group-hover:text-moss">{t.idTitle}</p>
+          <p className="mt-3 text-ink-2 leading-relaxed max-w-[48ch]">
+            {t.idText(nf(st.identify))}
+          </p>
+          <p className="mt-5 label text-moss">{t.bringPhoto}</p>
+        </Link>
+        </div>
+      </section>
+
       {/* ——— Night: the Atlas ——— */}
       <section className="night mt-28">
         <div className="mx-auto max-w-[1320px] px-4 sm:px-6 py-20 grid lg:grid-cols-2 gap-12 items-center">
@@ -348,11 +362,11 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
         </div>
       </section>
 
-      {/* ——— Room VII: Catalogue of All Life ——— */}
+      {/* ——— Room VIII: Catalogue of All Life ——— */}
       <section className="mx-auto max-w-[1320px] px-4 sm:px-6 mt-24">
         <div className="grid grid-cols-1 lg:grid-cols-[minmax(0,420px)_minmax(0,1fr)] gap-12">
           <div>
-            <p className="label text-rust">{t.roomN("VII")}</p>
+            <p className="label text-rust">{t.roomN("VIII")}</p>
             <h2 className="font-display text-[clamp(2.4rem,4.5vw,3.6rem)] leading-[0.95] mt-1">{t.catalogueTitle}</h2>
             <p className="mt-4 text-ink-2 leading-relaxed">
               {t.catalogueText((kingdomTotal / 1e6).toLocaleString(LOCALE[lang], { maximumFractionDigits: 1 }), st.countries)}
@@ -363,6 +377,9 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
               </Link>
               <Link href={L("/catalogue/country/pk")} className="px-4 py-2.5 border border-ink hover:bg-paper-2">
                 {t.lifeInPakistan}
+              </Link>
+              <Link href={L("/wheel")} className="px-4 py-2.5 border border-ink hover:bg-paper-2">
+                {t.seeWheel} <span className="label text-rust ml-1">{t.roomN("VII")}</span>
               </Link>
             </div>
           </div>
@@ -385,7 +402,7 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
       {/* ——— Plate room ——— */}
       <section className="mx-auto max-w-[1320px] px-4 sm:px-6 mt-24">
         <div className="flex items-baseline justify-between border-b-[3px] border-double border-ink pb-3">
-          <h2 className="font-display text-[2.2rem] leading-none"><span className="label text-rust mr-3 align-middle">{t.roomN("IV")}</span>{t.plateRoom}</h2>
+          <h2 className="font-display text-[2.2rem] leading-none"><span className="label text-rust mr-3 align-middle">{t.roomN("IX")}</span>{t.plateRoom}</h2>
           <Link href={L("/plates")} className="label text-moss hover:text-rust">{t.platesArrow(nf(PLATES.length))}</Link>
         </div>
         <div className="scroll-x mt-6 -mx-4 px-4">
@@ -434,30 +451,10 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
         </section>
       )}
 
-      {/* ——— Rooms V & VI: Identify and the Garden ——— */}
-      <section className="mx-auto max-w-[1320px] px-4 sm:px-6 mt-24 grid md:grid-cols-2 gap-px bg-rule border rule">
-        <Link href={L("/identify")} className="group bg-paper p-8 hover:bg-card">
-          <p className="label text-rust">{t.roomN("V")}</p>
-          <p className="font-display text-4xl mt-1 group-hover:text-moss">{t.idTitle}</p>
-          <p className="mt-3 text-ink-2 leading-relaxed max-w-[48ch]">
-            {t.idText(nf(st.identify))}
-          </p>
-          <p className="mt-5 label text-moss">{t.bringPhoto}</p>
-        </Link>
-        <Link href={L("/grow")} className="group bg-paper p-8 hover:bg-card">
-          <p className="label text-rust">{t.roomN("VI")}</p>
-          <p className="font-display text-4xl mt-1 group-hover:text-moss">{t.gardenTitle}</p>
-          <p className="mt-3 text-ink-2 leading-relaxed max-w-[48ch]">
-            {t.gardenText}
-          </p>
-          <p className="mt-5 label text-moss">{t.planGarden}</p>
-        </Link>
-      </section>
-
       {/* ——— Exhibitions ——— */}
       <section className="mx-auto max-w-[1320px] px-4 sm:px-6 mt-24">
         <div className="flex items-baseline justify-between border-b-[3px] border-double border-ink pb-3">
-          <h2 className="font-display text-[2.2rem] leading-none"><span className="label text-rust mr-3 align-middle">{t.roomN("X")}</span>{t.exhibitions}</h2>
+          <h2 className="font-display text-[2.2rem] leading-none"><span className="label text-rust mr-3 align-middle">{t.roomN("XI")}</span>{t.exhibitions}</h2>
           <Link href={L("/exhibitions")} className="label text-moss hover:text-rust">{t.allExhibitions}</Link>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-x-10">
@@ -483,6 +480,47 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
         </div>
       </section>
 
+      {/* ——— Specimen of the day ——— */}
+      {sotd && (
+        <section className="mx-auto max-w-[1320px] px-4 sm:px-6 mt-24">
+          <p className="label text-ink-2">{t.sotd} · {sotd.nl}</p>
+          <div className="grid grid-cols-1 lg:grid-cols-[minmax(0,1.1fr)_minmax(0,1fr)_minmax(0,0.8fr)] gap-10 mt-4 items-center">
+            <Link href={L(`/species/${sotd.slug}`)} className="mount block">
+              {sotd.photos?.[0] && (
+                // eslint-disable-next-line @next/next/no-img-element
+                <img src={sotd.photos[0].url} alt={sotd.common} className="w-full aspect-[5/4] object-cover" />
+              )}
+            </Link>
+            <div>
+              <h2 className="font-display text-[clamp(2.4rem,4.5vw,3.8rem)] leading-[0.95]">{sotd.common}</h2>
+              <p className="latin text-xl text-moss mt-2">{sotd.scientific}</p>
+              <p className="mt-6 text-lg leading-relaxed">{sotd.summary}</p>
+              {sotd.abilities?.[0] && (
+                <p className="mt-5 text-ink-2 border-l-2 border-ochre pl-4 leading-relaxed">
+                  <span className="label mr-2">{t.itCan}</span>
+                  {sotd.abilities[0]}
+                </p>
+              )}
+              <Link href={L(`/species/${sotd.slug}`)} className="inline-block mt-6 label text-moss hover:text-rust">
+                {t.readSheet}
+              </Link>
+            </div>
+            {sotd.plates?.[0] && (
+              <figure>
+                <div className="bg-[#efe6cf] p-4 border rule">
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img src={sotd.plates[0].img} alt="" className="w-full max-h-[420px] object-contain mix-blend-multiply" />
+                </div>
+                <figcaption className="text-xs text-ink-2 mt-2 leading-snug">
+                  {t.asDrawnIn} <i>{sotd.plates[0].title}</i>
+                  {sotd.plates[0].author !== "Unknown" ? `, ${sotd.plates[0].author}` : ""}, {sotd.plates[0].year}
+                </figcaption>
+              </figure>
+            )}
+          </div>
+        </section>
+      )}
+
       {/* ——— Recently catalogued ——— */}
       <section className="mx-auto max-w-[1320px] px-4 sm:px-6 mt-24">
         <div className="flex items-baseline justify-between border-b-[3px] border-double border-ink pb-3">
@@ -493,33 +531,6 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
           {pickVaried(CX, 12).map((e) => (
             <SpecimenCard key={e.slug} e={toCard(e)} />
           ))}
-        </div>
-      </section>
-
-      {/* ——— Room XI: Corrections ——— */}
-      <section className="mx-auto max-w-[1320px] px-4 sm:px-6 mt-24">
-        <div className="grid grid-cols-1 lg:grid-cols-[minmax(0,380px)_minmax(0,1fr)] gap-10">
-          <div>
-            <p className="label text-rust">{t.roomN("XI")}</p>
-            <h2 className="font-display text-[clamp(2.2rem,4vw,3.2rem)] leading-[0.98] mt-1">{t.errataTitle}</h2>
-            <p className="mt-4 text-ink-2 leading-relaxed">
-              {t.errataText(st.corrections)} {t.errataLangNote}
-            </p>
-            <Link href={L("/about/corrections")} className="inline-block mt-5 label text-moss hover:text-rust">
-              {t.readCorrections(st.corrections)}
-            </Link>
-          </div>
-          <ul className="space-y-5">
-            {sampleCorr.map((x, i) => (
-              <li key={i} className="border-l-2 border-ochre pl-5">
-                <p className="label text-ink-2">
-                  {resolve(x.species) ? <Link href={L(`/species/${resolve(x.species)}`)} className="hover:text-moss">{x.species}</Link> : x.species} · {x.field}
-                </p>
-                <p className="mt-1 text-ink-2 line-through decoration-stamp/40">{x.was}</p>
-                <p className="mt-1">{x.now}</p>
-              </li>
-            ))}
-          </ul>
         </div>
       </section>
 

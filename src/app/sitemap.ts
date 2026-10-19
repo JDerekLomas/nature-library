@@ -16,7 +16,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority,
     alternates: { languages: { en: `${BASE}${p}`, es: `${BASE}/es${p === "/" ? "" : p}` } },
   });
-  const rooms = ["/", "/atlas", "/wheel", "/catalogue", "/shelves", "/bestiary", "/aviary", "/plates", "/herball", "/identify", "/aviary/checklist", "/grow", "/exhibitions", "/about"].map((p) => u(p, 0.9));
+  const rooms = ["/", "/atlas", "/wheel", "/catalogue", "/shelves", "/bestiary", "/aviary", "/plates", "/herball", "/identify", "/herbarium", "/aviary/checklist", "/grow", "/exhibitions", "/about"].map((p) => u(p, 0.9));
   // most-observed species from the identifier's label table (≈10,000)
   let top: MetadataRoute.Sitemap = [];
   try {

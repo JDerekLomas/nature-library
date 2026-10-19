@@ -1,7 +1,7 @@
 export const en = {
   shelves: {
     metaDesc: "The codex arranged by what living things do: heal, feed, poison, pollinate, endure.",
-    door: "Door III · By use",
+    door: "Room IV · By use",
     title: "The Shelves",
     intro: "The old herbals arranged plants by their virtues. These shelves do the same for every kingdom: by what a living thing can do for us, or to us.",
     volumes: (n: number) => `${n} volumes`,
@@ -10,6 +10,7 @@ export const en = {
   },
   exhibitions: {
     title: "Exhibitions",
+    kicker: "Room XI · Exhibitions",
     metaDesc: "Small selections with an argument to make.",
     heading: "Small selections with an argument",
     no: (n: string, k: number) => `No. ${n} · ${k} specimens`,
@@ -18,6 +19,7 @@ export const en = {
   },
   bestiary: {
     title: "The Bestiary",
+    kicker: "Room I · Animals",
     metaDesc: "Every animal in the codex, by class: mammals, birds, fish, reptiles, amphibians, insects and the rest.",
     intro: (n: number) =>
       `The medieval bestiaries mixed the elephant with the unicorn. This one keeps to animals that exist: ${n} with full field-guide sheets, and every other animal species on Earth one click away in the open stacks.`,
@@ -30,10 +32,28 @@ export const en = {
     everySpecies: "Every species →",
     rest: "And the rest of the animal kingdom",
   },
+  herbarium: {
+    title: "The Herbarium",
+    metaDesc: "Every plant and fungus in the codex, by how it grows: trees, shrubs, herbs, vines, grasses, mushrooms, lichens and moulds.",
+    kicker: "Room III · Plants & fungi",
+    intro: (p: number, f: number) =>
+      `A herbarium is a library of pressed plants. This one holds ${p} plants and ${f} fungi with full sheets, from what they are good for to how to grow them, sorted by how each one grows. Every other plant and fungus on Earth is a click away in the open stacks.`,
+    plants: "Plants",
+    fungi: "Fungi",
+    neither: "Neither plant nor fungus",
+    neitherNote: "Slime moulds and seaweeds were long shelved with the plants and fungi; they belong to other kingdoms.",
+    groups: {
+      tree: "Trees", shrub: "Shrubs", herb: "Herbs", vine: "Vines & climbers", grass: "Grasses & grains", succulent: "Succulents & cacti", lower: "Mosses, spikemosses & the rest",
+      mushroom: "Mushrooms", bracket: "Brackets & polypores", lichen: "Lichens", otherFungi: "Moulds, yeasts, truffles & the rest",
+    } as Record<string, string>,
+    everyPlant: "Every plant species →",
+    everyFungus: "Every fungus species →",
+    sheets: (n: number) => (n === 1 ? "1 sheet" : `${n} sheets`),
+  },
   aviary: {
     title: "The Aviary",
     metaDesc: "A birding room: field marks, songs and look-alikes for the world's birds, and what is singing near you this month.",
-    kicker: "The Bestiary · birds",
+    kicker: "Room II · Birds",
     intro: (n: number) =>
       `A birding room. Every sheet has the field marks that clinch an identification, the song written out and recorded, the look-alikes and how to separate them, and where and when to go. ${n} birds have full sheets; the rest of the world's eleven thousand are in`,
     openStacks: "the open stacks",
@@ -63,7 +83,7 @@ export const en = {
   checklist: {
     title: "Every bird on Earth",
     metaDesc: "The complete eBird/Clements checklist of the world's birds, family by family, each with its page in the library.",
-    kicker: "The Aviary · the world checklist",
+    kicker: "Room II · The world checklist",
     intro: (n: string, f: number) =>
       `All ${n} bird species recognised by the eBird/Clements Checklist, the taxonomy used by eBird and the Cornell Lab of Ornithology, in ${f} families arranged in evolutionary order, from ostriches to buntings. Every species opens a page in this library; the eBird link beside it leads to live sightings, range maps and recordings.`,
     species: (n: number) => (n === 1 ? "1 species" : `${n} species`),
@@ -80,7 +100,7 @@ export const en = {
   plates: {
     title: "Plates",
     metaDesc: "Woodcuts and engravings of plants, fungi and animals from five centuries of herbals and bestiaries, via the Source Library.",
-    door: "Door IV · The old books",
+    door: "Room IX · The old books",
     heading: "The Plate Room",
     intro: (n: string) =>
       `${n} woodcuts, engravings and hand-coloured plates of living things, cut from the pages of herbals, bestiaries and natural histories scanned by the world's libraries and gathered in the`,
@@ -97,7 +117,7 @@ export const en = {
   herball: {
     title: "The Herball Room",
     metaDesc: "John Gerard's Herball of 1597, chapter by chapter, with his own words on the vertues, places and names of plants.",
-    kicker: "The old books · Gerard, 1597",
+    kicker: "Room X · Gerard, 1597",
     intro:
       "John Gerard's Herball, or Generall Historie of Plantes (London, 1597) was the largest herbal yet printed in English: some 1,400 pages and more than 1,800 woodcuts, built on Rembert Dodoens' Latin herbal and on Gerard's own garden in Holborn. Here it is chapter by chapter, from the Source Library's transcription, in Gerard's spelling: what each plant looks like, where it grows, when it flowers, what it is called in a dozen languages, and its “vertues”.",
     count: (n: number, l: number) => `${n} chapters transcribed so far, ${l} linked to codex sheets. The Source Library is still transcribing the rest of the book; chapters appear here as they do.`,
@@ -121,7 +141,7 @@ export const en = {
   catalogue: {
     title: "Catalogue of All Life",
     metaDesc: "Every species catalogued on Earth, browsable by kinship from the kingdoms down, by group, and by country.",
-    kicker: "The open stacks",
+    kicker: "Room VIII · The open stacks",
     intro: (m: string) =>
       `Every species the world's museums, herbaria, checklists and naturalists have catalogued, ${m}from the GBIF Backbone Taxonomy and iNaturalist. Each has a page in this library. Walk down the tree from a kingdom, open a great group, or see every species ever recorded in a country.`,
     someMillion: (m: string) => `some ${m} million names in all, `,
@@ -196,7 +216,7 @@ export const en = {
   wheel: {
     title: "Wheel of Life",
     metaDesc: "Walk the tree of life as a wheel, from all living things down to a single species.",
-    door: "Door II · By kinship",
+    door: "Room VII · By kinship",
     heading: "The Wheel of Life",
     intro: "Linnaeus drew life as a ladder, Darwin as a branching tree. Here it is a wheel: every living thing at the centre, and each ring a step closer to a single species.",
     loading: "Loading the wheel…",
@@ -215,7 +235,7 @@ export const en = {
   atlas: {
     title: "Atlas of Life",
     metaDesc: "A turning globe of every recorded living thing. Search a place or tap anywhere to see what lives there.",
-    door: "Door I · By place",
+    door: "The Reading Room · By place",
     heading: "The Atlas of Life",
     intro: (cells: string) =>
       `Every gold point is a place where living things have been recorded, drawn from ${cells}more than three billion GBIF records. Search for a country, province, city or village, or tap anywhere on Earth, to see what lives there.`,
@@ -245,7 +265,7 @@ export const en = {
   grow: {
     title: "Garden Planner",
     metaDesc: "Tell the library where you live; it reads ten years of your weather and lists the plants you can grow there.",
-    door: "Door VI · By climate",
+    door: "Room V · By climate",
     heading: "The Garden Planner",
     intro:
       "Tell the library where your garden is. It will read ten years of your local weather, work out how cold your winters really get, and list every plant in the codex you can grow there: physic bed, orchard, kitchen garden and nectary.",
@@ -297,7 +317,7 @@ export const en = {
 export const es: typeof en = {
   shelves: {
     metaDesc: "El códice ordenado por lo que hacen los seres vivos: curar, alimentar, envenenar, polinizar, resistir.",
-    door: "Puerta III · Por uso",
+    door: "Sala IV · Por uso",
     title: "Los Estantes",
     intro: "Los viejos herbarios ordenaban las plantas por sus virtudes. Estos estantes hacen lo mismo con todos los reinos: por lo que un ser vivo puede hacer por nosotros, o contra nosotros.",
     volumes: (n: number) => `${n} volúmenes`,
@@ -306,6 +326,7 @@ export const es: typeof en = {
   },
   exhibitions: {
     title: "Exposiciones",
+    kicker: "Sala XI · Exposiciones",
     metaDesc: "Pequeñas selecciones con una tesis.",
     heading: "Pequeñas selecciones con una tesis",
     no: (n: string, k: number) => `N.º ${n} · ${k} especímenes`,
@@ -314,6 +335,7 @@ export const es: typeof en = {
   },
   bestiary: {
     title: "El Bestiario",
+    kicker: "Sala I · Animales",
     metaDesc: "Cada animal del códice, por clase: mamíferos, aves, peces, reptiles, anfibios, insectos y el resto.",
     intro: (n: number) =>
       `Los bestiarios medievales mezclaban el elefante con el unicornio. Este se limita a los animales que existen: ${n} con ficha completa de guía de campo, y todas las demás especies animales de la Tierra a un clic, en los depósitos abiertos.`,
@@ -326,10 +348,28 @@ export const es: typeof en = {
     everySpecies: "Todas las especies →",
     rest: "Y el resto del reino animal",
   },
+  herbarium: {
+    title: "El Herbario",
+    metaDesc: "Cada planta y hongo del códice, según cómo crece: árboles, arbustos, hierbas, trepadoras, gramíneas, setas, líquenes y mohos.",
+    kicker: "Sala III · Plantas y hongos",
+    intro: (p: number, f: number) =>
+      `Un herbario es una biblioteca de plantas prensadas. Este guarda ${p} plantas y ${f} hongos con ficha completa, de para qué sirven a cómo cultivarlos, ordenados según cómo crece cada uno. Todas las demás plantas y hongos de la Tierra están a un clic, en los depósitos abiertos.`,
+    plants: "Plantas",
+    fungi: "Hongos",
+    neither: "Ni planta ni hongo",
+    neitherNote: "Los mixomicetos y las algas pardas se clasificaron durante mucho tiempo con plantas y hongos; pertenecen a otros reinos.",
+    groups: {
+      tree: "Árboles", shrub: "Arbustos", herb: "Hierbas", vine: "Trepadoras", grass: "Gramíneas y cereales", succulent: "Suculentas y cactus", lower: "Musgos, selaginelas y el resto",
+      mushroom: "Setas", bracket: "Yesqueros y políporos", lichen: "Líquenes", otherFungi: "Mohos, levaduras, trufas y el resto",
+    },
+    everyPlant: "Todas las especies de plantas →",
+    everyFungus: "Todas las especies de hongos →",
+    sheets: (n: number) => (n === 1 ? "1 ficha" : `${n} fichas`),
+  },
   aviary: {
     title: "El Aviario",
     metaDesc: "Una sala de aves: rasgos de campo, cantos y parecidos de las aves del mundo, y qué canta cerca de ti este mes.",
-    kicker: "El Bestiario · aves",
+    kicker: "Sala II · Aves",
     intro: (n: number) =>
       `Una sala de aves. Cada ficha tiene los rasgos de campo que zanjan una identificación, el canto descrito y grabado, los parecidos y cómo distinguirlos, y dónde y cuándo ir. ${n} aves tienen ficha completa; el resto de las once mil del mundo están en`,
     openStacks: "los depósitos abiertos",
@@ -364,7 +404,7 @@ export const es: typeof en = {
   checklist: {
     title: "Todas las aves de la Tierra",
     metaDesc: "La lista completa eBird/Clements de las aves del mundo, familia a familia, cada una con su página en la biblioteca.",
-    kicker: "El Aviario · la lista mundial",
+    kicker: "Sala II · La lista mundial",
     intro: (n: string, f: number) =>
       `Las ${n} especies de aves reconocidas por la lista eBird/Clements, la taxonomía que usan eBird y el Laboratorio de Ornitología de Cornell, en ${f} familias ordenadas por evolución, de los avestruces a los escribanos. Cada especie abre una página en esta biblioteca; el enlace a eBird lleva a avistamientos en directo, mapas de distribución y grabaciones.`,
     species: (n: number) => (n === 1 ? "1 especie" : `${n} especies`),
@@ -381,7 +421,7 @@ export const es: typeof en = {
   plates: {
     title: "Láminas",
     metaDesc: "Xilografías y grabados de plantas, hongos y animales de cinco siglos de herbarios y bestiarios, a través de la Source Library.",
-    door: "Puerta IV · Los libros antiguos",
+    door: "Sala IX · Los libros antiguos",
     heading: "La Sala de Láminas",
     intro: (n: string) =>
       `${n} xilografías, grabados y láminas coloreadas a mano de seres vivos, recortados de las páginas de herbarios, bestiarios e historias naturales digitalizados por las bibliotecas del mundo y reunidos en la`,
@@ -398,7 +438,7 @@ export const es: typeof en = {
   herball: {
     title: "La Sala del Herball",
     metaDesc: "El Herball de John Gerard de 1597, capítulo a capítulo, con sus propias palabras sobre las virtudes, lugares y nombres de las plantas.",
-    kicker: "Los libros antiguos · Gerard, 1597",
+    kicker: "Sala X · Gerard, 1597",
     intro:
       "The Herball, or Generall Historie of Plantes de John Gerard (Londres, 1597) fue el mayor herbario impreso hasta entonces en inglés: unas 1.400 páginas y más de 1.800 xilografías, basado en el herbario latino de Rembert Dodoens y en el propio jardín de Gerard en Holborn. Aquí está capítulo a capítulo, según la transcripción de la Source Library, en la ortografía original en inglés: cómo es cada planta, dónde crece, cuándo florece, cómo se llama en una docena de lenguas, y sus «vertues» (virtudes).",
     count: (n: number, l: number) => `${n} capítulos transcritos hasta ahora, ${l} enlazados con fichas del códice. La Source Library sigue transcribiendo el resto del libro; los capítulos aparecen aquí a medida que lo hace.`,
@@ -425,7 +465,7 @@ export const es: typeof en = {
   catalogue: {
     title: "Catálogo de Toda la Vida",
     metaDesc: "Cada especie catalogada de la Tierra, explorable por parentesco desde los reinos, por grupo y por país.",
-    kicker: "Los depósitos abiertos",
+    kicker: "Sala VIII · Los depósitos abiertos",
     intro: (m: string) =>
       `Cada especie que los museos, herbarios, listas y naturalistas del mundo han catalogado, ${m}de la taxonomía troncal de GBIF y de iNaturalist. Cada una tiene su página en esta biblioteca. Baja por el árbol desde un reino, abre un gran grupo o mira cada especie registrada en un país.`,
     someMillion: (m: string) => `unos ${m} millones de nombres en total, `,
@@ -500,7 +540,7 @@ export const es: typeof en = {
   wheel: {
     title: "Rueda de la Vida",
     metaDesc: "Recorre el árbol de la vida como una rueda, desde todos los seres vivos hasta una sola especie.",
-    door: "Puerta II · Por parentesco",
+    door: "Sala VII · Por parentesco",
     heading: "La Rueda de la Vida",
     intro: "Linneo dibujó la vida como una escalera; Darwin, como un árbol que se ramifica. Aquí es una rueda: todos los seres vivos en el centro, y cada anillo un paso más cerca de una sola especie.",
     loading: "Cargando la rueda…",
@@ -519,7 +559,7 @@ export const es: typeof en = {
   atlas: {
     title: "Atlas de la Vida",
     metaDesc: "Un globo que gira con cada ser vivo registrado. Busca un lugar o toca cualquier punto para ver qué vive allí.",
-    door: "Puerta I · Por lugar",
+    door: "La Sala de Lectura · Por lugar",
     heading: "El Atlas de la Vida",
     intro: (cells: string) =>
       `Cada punto dorado es un lugar donde se han registrado seres vivos, a partir de ${cells}más de tres mil millones de registros de GBIF. Busca un país, provincia, ciudad o pueblo, o toca cualquier punto de la Tierra, para ver qué vive allí.`,
@@ -552,7 +592,7 @@ export const es: typeof en = {
   grow: {
     title: "Planificador del Jardín",
     metaDesc: "Dile a la biblioteca dónde vives: lee diez años de tu clima y te muestra las plantas que puedes cultivar.",
-    door: "Puerta VI · Por clima",
+    door: "Sala V · Por clima",
     heading: "El Planificador del Jardín",
     intro:
       "Dile a la biblioteca dónde está tu jardín. Leerá diez años del clima de tu zona, calculará cuánto frío hace de verdad en tus inviernos y te mostrará cada planta del códice que puedes cultivar allí: bancal medicinal, frutales, huerta y nectario.",

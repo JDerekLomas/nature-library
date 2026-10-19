@@ -1,7 +1,7 @@
 export const en = {
   metaTitle: "Identify",
   metaDesc: "Photograph a plant, animal or fungus and the library will suggest what it is.",
-  door: "Door V · By sight",
+  door: "Room VI · By sight",
   title: "The Identification Desk",
   intro: "Bring a photograph of a plant, animal or fungus. The desk runs a tree-of-life vision model in your own browser and tells you what it might be, and what else it could be.",
   caution: {
@@ -60,7 +60,7 @@ export const en = {
 export const es: typeof en = {
   metaTitle: "Identificar",
   metaDesc: "Fotografía una planta, un animal o un hongo y la biblioteca te sugerirá qué es.",
-  door: "Puerta V · Por la vista",
+  door: "Sala VI · Por la vista",
   title: "El Mostrador de Identificación",
   intro: "Trae una fotografía de una planta, un animal o un hongo. El mostrador ejecuta en tu propio navegador un modelo de visión entrenado con todo el árbol de la vida y te dice qué podría ser, y qué más podría ser.",
   caution: {
