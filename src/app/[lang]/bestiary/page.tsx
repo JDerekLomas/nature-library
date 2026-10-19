@@ -12,13 +12,13 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
 }
 
 const CLASSES: [string, string][] = [
-  ["Mammalia", "/taxon/40151"],
+  ["Mammalia", "/checklists/mammals"],
   ["Aves", "/aviary"],
-  ["Actinopterygii", "/taxon/47178"],
-  ["Elasmobranchii", "/taxon/47273"],
-  ["Sarcopterygii", "/gbif/238?stay=1"],
-  ["Reptilia", "/taxon/26036"],
-  ["Amphibia", "/taxon/20978"],
+  ["Actinopterygii", "/checklists/fishes"],
+  ["Elasmobranchii", "/checklists/fishes"],
+  ["Sarcopterygii", "/checklists/fishes"],
+  ["Reptilia", "/checklists/reptiles"],
+  ["Amphibia", "/checklists/amphibians"],
   ["Insecta", "/taxon/47158"],
   ["Arachnida", "/taxon/47119"],
   ["Malacostraca", "/taxon/47187"],
@@ -45,6 +45,9 @@ export default async function Bestiary({ params }: { params: Promise<{ lang: str
       <p className="label text-ink-2">{t.kicker}</p>
       <h1 className="font-display text-[clamp(2.6rem,6vw,4.8rem)] leading-none mt-2">{t.title}</h1>
       <p className="mt-4 max-w-[66ch] text-lg text-ink-2 leading-relaxed">{t.intro(animals.length)}</p>
+      <Link href={L("/checklists")} className="group mt-6 flex items-center justify-between gap-4 border border-ink bg-card px-5 py-4 hover:bg-paper-2">
+        <span className="font-display text-2xl group-hover:text-moss">{dict(lang).rooms.checklists.banner}</span>
+      </Link>
       <nav className="double-rule mt-8 pt-4 flex flex-wrap gap-x-4 gap-y-2 text-sm">
         {groups
           .filter((g) => g.list.length)

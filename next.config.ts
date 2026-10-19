@@ -6,7 +6,7 @@ import path from "node:path";
 // a fingerprint of the identifier's label tables, so a deploy that changes them can never pair new labels with cached old embeddings
 function identifyVersion() {
   const h = crypto.createHash("sha1");
-  const dir = path.join(process.cwd(), "public/identify");
+  const dir = path.join(/*turbopackIgnore: true*/ process.cwd(), "public/identify");
   const walk = (d: string) => {
     for (const f of fs.readdirSync(d).sort()) {
       const p = path.join(d, f);
@@ -22,6 +22,8 @@ function identifyVersion() {
 
 const nextConfig: NextConfig = {
   env: { NEXT_PUBLIC_IDENTIFY_VERSION: identifyVersion() },
+  // the world checklists are read from disk at request time; make sure they ship with the server
+  outputFileTracingIncludes: { "/**": ["./data/checklists/*.json"] },
   async headers() {
     return [
       {

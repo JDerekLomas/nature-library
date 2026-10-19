@@ -348,6 +348,9 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
               <Link href={L("/catalogue/country/pk")} className="px-4 py-2.5 border border-ink hover:bg-paper-2">
                 {t.lifeInPakistan}
               </Link>
+              <Link href={L("/checklists")} className="px-4 py-2.5 border border-ink hover:bg-paper-2">
+                {T.rooms.checklists.title}
+              </Link>
               <Link href={L("/wheel")} className="px-4 py-2.5 border border-ink hover:bg-paper-2">
                 {t.seeWheel} <span className="label text-rust ml-1">{t.roomN("VII")}</span>
               </Link>

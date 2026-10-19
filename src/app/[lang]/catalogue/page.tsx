@@ -44,7 +44,8 @@ export default async function Catalogue({ params }: { params: Promise<{ lang: st
       <section className="mt-14">
         <h2 className="font-display text-3xl border-b-[3px] border-double border-ink pb-2">{t.byKinship}</h2>
         <p className="mt-2 text-sm">
-          <Link href={L("/col")} className="link-ink text-moss">{dict(lang).rooms.col.browse}</Link>
+          <Link href={L("/col")} className="link-ink text-moss">{dict(lang).rooms.col.browse}</Link> ·{" "}
+          <Link href={L("/checklists")} className="link-ink text-moss">{dict(lang).rooms.checklists.banner}</Link>
         </p>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-px bg-rule border-x border-b rule">
           {KINGDOMS.map(([k, label], i) => (

@@ -1,5 +1,6 @@
 // Finding pictures for species that have none in the usual places: iNaturalist's photos, then Wikimedia Commons
-// (photographs and old natural-history plates). Only openly licensed files that name the species, each with its credit.
+// (photographs and old natural-history plates), then the figures of the paper that described it (Plazi's
+// Biodiversity Literature Repository on Zenodo) — often the only pictures of a species named last year. Only openly licensed files that name the species, each with its credit.
 
 export interface FoundImage {
   url: string; // display size
@@ -7,7 +8,7 @@ export interface FoundImage {
   page: string; // where the credit and licence live
   attribution: string;
   license: string;
-  source: "iNaturalist" | "Wikimedia Commons";
+  source: "iNaturalist" | "Wikimedia Commons" | "Plazi / Biodiversity Literature Repository";
 }
 
 const UA = { "User-Agent": "NatureLibrary/0.1 (https://nature-library.vercel.app)" };
@@ -46,7 +47,7 @@ export async function commonsImages(name: string, limit = 6): Promise<FoundImage
   try {
     const u =
       `https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20` +
-      `&gsrsearch=${encodeURIComponent(`"${name}"`)}&prop=imageinfo&iiprop=url|mime|extmetadata&iiurlwidth=900`;
+      `&gsrsearch=${encodeURIComponent(`"${name}"`)}&prop=imageinfo&iiprop=url|mime|extmetadata&iiurlwidth=960`;
     const j = await fetch(u, { headers: UA, next: { revalidate: 2592000 }, signal: AbortSignal.timeout(9000) }).then((r) => r.json());
     const pages = Object.values(j.query?.pages ?? {}) as { title: string; index: number; imageinfo?: { thumburl?: string; url: string; descriptionurl: string; mime: string; extmetadata?: Record<string, { value: string }> }[] }[];
     return pages
@@ -65,11 +66,57 @@ export async function commonsImages(name: string, limit = 6): Promise<FoundImage
         const artist = strip(m.Artist?.value).replace(/\s*(Copyright|Published|Publicada)\b.*$/i, "").slice(0, 90);
         return {
           url: i!.thumburl ?? i!.url,
-          thumb: (i!.thumburl ?? i!.url).replace(/\/\d+px-/, "/240px-"),
+          thumb: (i!.thumburl ?? i!.url).replace(/\/\d+px-/, "/250px-"),
           page: i!.descriptionurl,
           attribution: artist ? `${artist} (${license})` : license,
           license,
           source: "Wikimedia Commons" as const,
+        };
+      });
+  } catch {
+    return [];
+  }
+}
+
+// figures that show the organism, not the analysis of it
+const NOT_THE_ANIMAL = /phylogen|cladogram|dendrogram|bayesian|maximum[- ]likelihood|principal component|\bpca\b|scatter|morphospace|\bmap\b|distribution of|localit|habitat|sonogram|spectrogram|oscillogram|waveform|\bchart|\bgraph|haplotype|network/i;
+
+/** Figures from the open-access paper that described the species, via Plazi's Biodiversity Literature Repository. */
+export async function plaziFigures(name: string, limit = 6): Promise<FoundImage[]> {
+  const epithet = name.split(/\s+/).at(-1)!.toLowerCase();
+  try {
+    const j = await fetch(`https://zenodo.org/api/records?communities=biosyslit&type=image&size=25&q=${encodeURIComponent(`"${name}"`)}`, {
+      headers: UA,
+      next: { revalidate: 2592000 },
+      signal: AbortSignal.timeout(10000),
+    }).then((r) => r.json());
+    type Rec = { id: number; links?: { self_html?: string }; metadata: { description?: string; title?: string; license?: { id?: string }; creators?: { name: string }[]; publication_date?: string }; files?: { key: string; links?: { self?: string } }[] };
+    const scored = ((j.hits?.hits ?? []) as Rec[])
+      .map((r) => {
+        const cap = strip(r.metadata.description ?? r.metadata.title ?? "");
+        const lic = r.metadata.license?.id ?? "";
+        const file = r.files?.find((f) => /\.(jpe?g|png)$/i.test(f.key));
+        let score = /in life|\blive\b|living/i.test(cap) ? 4 : 0;
+        if (/holotype|paratype|allotype|lectotype/i.test(cap)) score += 2;
+        if (/dorsal|lateral|habitus|general view/i.test(cap)) score += 1;
+        const ok = file && /^cc-by|^cc0|^cc-zero/i.test(lic) && cap.toLowerCase().includes(epithet) && !NOT_THE_ANIMAL.test(cap);
+        return ok ? { r, cap, lic, file: file!, score } : null;
+      })
+      .filter(Boolean) as { r: Rec; cap: string; lic: string; file: { key: string; links?: { self?: string } }; score: number }[];
+    return scored
+      .sort((a, b) => b.score - a.score)
+      .slice(0, limit)
+      .map(({ r, cap, lic, file }) => {
+        const url = file.links?.self ?? `https://zenodo.org/records/${r.id}/files/${encodeURIComponent(file.key)}`;
+        const who = (r.metadata.creators ?? []).slice(0, 3).map((c) => c.name.split(",")[0]).join(", ");
+        const year = r.metadata.publication_date?.slice(0, 4);
+        return {
+          url,
+          thumb: url,
+          page: r.links?.self_html ?? `https://zenodo.org/records/${r.id}`,
+          attribution: `${cap.split(/(?<=\.)\s/).slice(0, 2).join(" ").slice(0, 120)} ${who}${year ? `, ${year}` : ""} (${lic.toUpperCase().replace(/-/g, " ")})`,
+          license: lic,
+          source: "Plazi / Biodiversity Literature Repository" as const,
         };
       });
   } catch {
@@ -82,5 +129,7 @@ export async function findImages(name: string, limit = 6): Promise<FoundImage[]>
   const a = await inatPhotosByName(name, limit);
   if (a.length >= 2) return a;
   const b = await commonsImages(name, limit);
-  return [...a, ...b].slice(0, limit);
+  if (a.length + b.length >= 2) return [...a, ...b].slice(0, limit);
+  const c = await plaziFigures(name, limit);
+  return [...a, ...b, ...c].slice(0, limit);
 }
