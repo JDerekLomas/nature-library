@@ -19,13 +19,14 @@ export const en = {
   footerSources: "Sources",
   footerLibrary: "Library",
   footerLinks: [
-    ["/aviary", "The Aviary"],
+    ["/wheel", "The Wheel of Life"],
     ["/catalogue", "Catalogue of All Life"],
     ["/herball", "Gerard's Herball, 1597"],
     ["/exhibitions", "Exhibitions"],
     ["/shelves", "All shelves"],
     ["/about", "About & licences"],
   ],
+  poweredBy: ["Powered by", "and"],
   disclaimer: "Nothing here is medical advice. Never eat a wild plant or fungus on the strength of a website or a photo match.",
   language: "Language",
   search: {
@@ -69,13 +70,14 @@ export const es: typeof en = {
   footerSources: "Fuentes",
   footerLibrary: "Biblioteca",
   footerLinks: [
-    ["/aviary", "El Aviario"],
+    ["/wheel", "La Rueda de la Vida"],
     ["/catalogue", "Catálogo de Toda la Vida"],
     ["/herball", "El Herball de Gerard, 1597"],
     ["/exhibitions", "Exposiciones"],
     ["/shelves", "Todos los estantes"],
     ["/about", "Acerca de y licencias"],
   ],
+  poweredBy: ["Con la tecnología de", "y"],
   disclaimer: "Nada de lo que aquí aparece es consejo médico. Nunca comas una planta u hongo silvestre fiándote de una web o de una identificación por foto.",
   language: "Idioma",
   search: {

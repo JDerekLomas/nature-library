@@ -70,3 +70,7 @@ The site's text and data come from sources with their own licences:
 - BioCLIP: MIT.
 
 Each page credits its sources. Medicinal and edibility content is historical and educational, not advice.
+
+---
+
+Powered by [Source Library](https://sourcelibrary.org) and [Wisdom Frontiers](https://wisdomfrontiers.com).

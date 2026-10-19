@@ -104,7 +104,19 @@ export default async function RootLayout({ children, params }: Readonly<{ childr
               />
               <FooterCol title={t.footerLibrary} links={t.footerLinks.map(([h, l]) => [L(h), l])} />
             </div>
-            <div className="mx-auto max-w-[1320px] px-4 sm:px-6 pb-8 label text-ink-2/70">{t.disclaimer}</div>
+            <div className="mx-auto max-w-[1320px] px-4 sm:px-6 pb-8 flex flex-col sm:flex-row sm:items-baseline sm:justify-between gap-3 border-t rule pt-5">
+              <p className="text-sm">
+                {t.poweredBy[0]}{" "}
+                <a className="link-ink" href="https://sourcelibrary.org" target="_blank" rel="noreferrer">
+                  Source Library
+                </a>{" "}
+                {t.poweredBy[1]}{" "}
+                <a className="link-ink" href="https://wisdomfrontiers.com" target="_blank" rel="noreferrer">
+                  Wisdom Frontiers
+                </a>
+              </p>
+              <p className="label text-ink-2/70 sm:text-right sm:max-w-[60ch]">{t.disclaimer}</p>
+            </div>
           </footer>
         </LangProvider>
       </body>
