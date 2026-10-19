@@ -1,7 +1,7 @@
 import sys, json, os, time, urllib.request, urllib.parse
 from concurrent.futures import ThreadPoolExecutor
 D=sys.argv[1]
-UA="NatureLibrary/0.1 (https://nature-library.vercel.app)"
+UA="NatureLibrary/0.1 (https://thenaturelibrary.org)"
 names=[]
 for l in open(D+'/gbif.jsonl'):
     j=json.loads(l)

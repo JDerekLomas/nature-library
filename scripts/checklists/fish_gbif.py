@@ -2,7 +2,7 @@ import sys, json, os, time, urllib.request, urllib.parse
 from concurrent.futures import ThreadPoolExecutor
 import pandas as pd
 D=sys.argv[1]
-UA="NatureLibrary/0.1 (https://nature-library.vercel.app)"
+UA="NatureLibrary/0.1 (https://thenaturelibrary.org)"
 CMAP={'Teleostei':'Actinopterygii','Chondrostei':'Actinopterygii','Holostei':'Actinopterygii','Cladistii':'Actinopterygii','Dipneusti':'Sarcopterygii','Coelacanthi':'Sarcopterygii'}
 s=pd.read_parquet(D+'/dl/species.parquet',columns=['SpecCode','Genus','Species','FamCode'])
 f=pd.read_parquet(D+'/dl/families.parquet',columns=['FamCode','Class'])

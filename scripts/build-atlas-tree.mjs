@@ -2,7 +2,7 @@
 // Run: node scripts/build-atlas-tree.mjs → src/lib/atlas-tree.json
 import fs from "node:fs";
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
-const UA = { "User-Agent": "NatureLibrary/0.1 (https://nature-library.vercel.app)" };
+const UA = { "User-Agent": "NatureLibrary/0.1 (https://thenaturelibrary.org)" };
 
 // [id, scientific name, rank, English, Spanish, children]
 const T = [

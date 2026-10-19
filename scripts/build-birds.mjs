@@ -2,7 +2,7 @@
 // Run: node scripts/build-birds.mjs  → data/birds.json
 import fs from "node:fs";
 
-const UA = { "User-Agent": "NatureLibrary/0.1 (https://nature-library.vercel.app)" };
+const UA = { "User-Agent": "NatureLibrary/0.1 (https://thenaturelibrary.org)" };
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 const csv = (text) => {
   const rows = [];

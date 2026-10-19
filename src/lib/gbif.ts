@@ -172,7 +172,7 @@ export async function wikidataImage(key: number): Promise<{ url: string; page: s
   const q = `SELECT ?t ?img WHERE { ?t wdt:P846 "${key}". OPTIONAL { ?t wdt:P18 ?img } } LIMIT 1`;
   try {
     const r = await fetch(`https://query.wikidata.org/sparql?format=json&query=${encodeURIComponent(q)}`, {
-      headers: { "User-Agent": "NatureLibrary/0.1 (educational; https://nature-library.vercel.app)", Accept: "application/sparql-results+json" },
+      headers: { "User-Agent": "NatureLibrary/0.1 (educational; https://thenaturelibrary.org)", Accept: "application/sparql-results+json" },
       next: { revalidate: 2592000 },
       signal: AbortSignal.timeout(8000),
     });

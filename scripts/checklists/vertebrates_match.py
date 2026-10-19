@@ -1,6 +1,6 @@
 import json,sys,urllib.request,urllib.parse,time,os,threading
 from concurrent.futures import ThreadPoolExecutor
-UA={"User-Agent":"NatureLibrary/0.1 (https://nature-library.vercel.app)"}
+UA={"User-Agent":"NatureLibrary/0.1 (https://thenaturelibrary.org)"}
 grp=sys.argv[1]
 rows=json.load(open(f"col_{grp}.json"))
 prog=f"gbif_{grp}.jsonl"

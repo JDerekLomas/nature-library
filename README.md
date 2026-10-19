@@ -1,6 +1,6 @@
 # The Nature Library
 
-**Live:** https://nature-library.vercel.app
+**Live:** https://thenaturelibrary.org
 
 A library of living things, built as a sister to the [Source Library](https://sourcelibrary.org). Every catalogued species on Earth has a page. A hand-edited codex goes deep on the ones people most need. Each living thing is set beside the herbals and bestiaries that first tried to name it.
 

@@ -1,6 +1,6 @@
 import json,sys,urllib.request,time,collections
 from concurrent.futures import ThreadPoolExecutor
-UA={"User-Agent":"NatureLibrary/0.1 (https://nature-library.vercel.app)"}
+UA={"User-Agent":"NatureLibrary/0.1 (https://thenaturelibrary.org)"}
 def get(u):
     for i in range(6):
         try:

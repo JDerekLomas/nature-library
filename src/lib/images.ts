@@ -11,7 +11,7 @@ export interface FoundImage {
   source: "iNaturalist" | "Wikimedia Commons" | "Plazi / Biodiversity Literature Repository";
 }
 
-const UA = { "User-Agent": "NatureLibrary/0.1 (https://nature-library.vercel.app)" };
+const UA = { "User-Agent": "NatureLibrary/0.1 (https://thenaturelibrary.org)" };
 const OPEN = /^(cc0|public domain|pd|cc by(-sa)?( \d\.\d)?|cc-by(-sa)?-\d\.\d|attribution|no restrictions)/i;
 const NOT_THE_ORGANISM = /\b(map|range|distribution|locator|stamp|coin|logo|graph|chart|diagram|skeleton|herbarium sheet label|label)\b/i;
 const strip = (h = "") => h.replace(/<[^>]+>/g, "").replace(/&amp;/g, "&").replace(/&quot;/g, '"').replace(/&#0?39;/g, "'").replace(/\s+/g, " ").trim();

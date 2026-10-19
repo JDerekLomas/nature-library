@@ -8,7 +8,7 @@ const P = (...a) => path.join(ROOT, ...a);
 const OUT = P("data/raw/commons-cache.json");
 const cache = fs.existsSync(OUT) ? JSON.parse(fs.readFileSync(OUT, "utf8")) : {};
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
-const UA = { "User-Agent": "NatureLibrary/0.1 (educational; https://nature-library.vercel.app)" };
+const UA = { "User-Agent": "NatureLibrary/0.1 (educational; https://thenaturelibrary.org)" };
 const OPEN = /^(cc0|cc by|cc-by|public domain|pd)/i;
 const strip = (s = "") => s.replace(/<[^>]+>/g, "").replace(/\s+/g, " ").trim();
 

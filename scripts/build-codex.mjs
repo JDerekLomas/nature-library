@@ -13,7 +13,7 @@ const commons = fs.existsSync(P("data/raw/commons-cache.json")) ? JSON.parse(fs.
 const cache = fs.existsSync(CACHE_FILE) ? JSON.parse(fs.readFileSync(CACHE_FILE, "utf8")) : {};
 const saveCache = () => fs.writeFileSync(CACHE_FILE, JSON.stringify(cache));
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
-const UA = { "User-Agent": "NatureLibrary/0.1 (educational; https://nature-library.vercel.app)" };
+const UA = { "User-Agent": "NatureLibrary/0.1 (educational; https://thenaturelibrary.org)" };
 
 async function getJSON(url, tries = 4) {
   for (let i = 0; i < tries; i++) {

@@ -22,7 +22,7 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
   const { lang } = await params;
   const t = dict(isLang(lang) ? lang : "en").common;
   return {
-    metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL ?? "https://nature-library.vercel.app"),
+    metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL ?? "https://thenaturelibrary.org"),
     twitter: { card: "summary_large_image" },
     title: { default: t.siteName, template: `%s · ${t.siteName}` },
     description: t.siteDescription,

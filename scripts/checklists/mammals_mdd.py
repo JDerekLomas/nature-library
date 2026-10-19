@@ -1,7 +1,7 @@
 # Rebuild the mammal checklist from the Mammal Diversity Database (the list mammalogists use), keeping links to GBIF / COL.
 import csv, json, sys, time, urllib.request, urllib.parse, concurrent.futures as cf
 mdd, old_path, out_path = sys.argv[1], sys.argv[2], sys.argv[3]
-UA = {"User-Agent": "NatureLibrary/0.1 (https://nature-library.vercel.app)"}
+UA = {"User-Agent": "NatureLibrary/0.1 (https://thenaturelibrary.org)"}
 rows = list(csv.DictReader(open(mdd, encoding="utf-8-sig")))
 rows.sort(key=lambda r: float(r.get("phylosort") or 0))
 old = json.load(open(old_path))
