@@ -1,0 +1,1947 @@
+[
+ {
+  "scientific": "Apis mellifera",
+  "common": "Abeja melífera (abeja europea)",
+  "summary": "Abeja social que vive en colonias de decenas de miles de individuos, gobernadas por una única reina ponedora y por sus hijas obreras estériles. Las pecoreadoras indican a sus compañeras dónde está el alimento mediante una danza codificada, y el néctar que almacenan se convirtió en la miel, uno de los edulcorantes más antiguos de la humanidad.",
+  "nativeRange": "África, Europa y Asia occidental; introducida en todo el mundo por los apicultores",
+  "biomes": [
+   "Pradera templada",
+   "Sabana",
+   "Bosque",
+   "Tierras de cultivo"
+  ],
+  "abilities": [
+   "La danza del contoneo codifica la dirección y la distancia del alimento con respecto al sol",
+   "Las obreras ventilan con las alas y evaporan agua para transformar el néctar en miel con un 18 % de humedad aproximadamente",
+   "Las colonias mantienen la cría cerca de 35 °C haciendo vibrar los músculos de vuelo en invierno y mediante enfriamiento por evaporación en verano",
+   "Los enjambres eligen un nuevo hogar mediante un «debate» entre exploradoras basado en el quórum",
+   "Percibe la luz polarizada y ultravioleta, lo que le permite orientarse con el cielo nublado",
+   "Produce miel, cera, propóleo y jalea real"
+  ],
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Tratamiento moderno de heridas",
+     "use": "Miel de grado médico (p. ej., apósitos de miel de Leptospermum/manuka) utilizada en quemaduras y heridas"
+    },
+    {
+     "tradition": "Medicina del antiguo Egipto",
+     "use": "La miel figura como ungüento para heridas en los papiros Edwin Smith y Ebers"
+    },
+    {
+     "tradition": "Medicina profética (islámica)",
+     "use": "La miel se describe como «curación para los hombres» en el Corán (sura An-Nahl 16:69)"
+    },
+    {
+     "tradition": "Medicina popular y apiterapia",
+     "use": "El propóleo como resina antiséptica; terapia con veneno de abeja para el dolor articular"
+    }
+   ],
+   "cautions": "Nunca se debe dar miel a lactantes menores de 12 meses (botulismo del lactante). Las picaduras y los productos apícolas pueden causar reacciones alérgicas graves, incluida la anafilaxia; la terapia con veneno de abeja ha causado muertes."
+  },
+  "animal": {
+   "diet": "Néctar y polen; las larvas se alimentan de papilla de cría y jalea real",
+   "habitat": "Huecos de árboles, grietas en rocas y colmenas gestionadas cerca de vegetación en flor",
+   "lifespan": "Obreras, 5–7 semanas en verano y hasta 5 meses en invierno; reinas, 2–5 años",
+   "size": "Obreras, ~12–15 mm; reinas, ~18–20 mm",
+   "behaviour": "Una pecoreadora que regresa de una fuente rica de alimento ejecuta una danza en forma de ocho sobre el panal vertical; el ángulo de su recorrido de contoneo respecto a la vertical equivale al ángulo del alimento respecto al sol.",
+   "fieldMarks": [
+    "Obrera esbelta y vellosa de unos 12–15 mm, de pardo ambarino a oscuro, con bandas abdominales más claras",
+    "Dos pares de alas; las patas traseras llevan cestillas de polen aplanadas, a menudo cargadas de polen de colores",
+    "Antenas acodadas; vuela en línea recta entre las flores y la colmena",
+    "Las obreras de una misma colonia visitan un solo tipo de flor en cada salida"
+   ],
+   "voice": "Un zumbido constante producido por el batir de las alas; una colonia alterada eleva el sonido a un zumbido más agudo y áspero",
+   "lookalikes": "Los sírfidos imitan a las abejas, pero solo tienen un par de alas, antenas muy cortas y ojos grandes, y se quedan suspendidos en el aire. Las avispas (Vespula) son brillantes, casi sin pelo y de un amarillo y negro vivos. Los abejorros son más grandes, más redondeados y mucho más peludos.",
+   "whereToSee": "Huertos frutales, jardines y prados en flor casi en cualquier lugar donde se críen abejas; las colonias también anidan en estado silvestre en huecos de árboles",
+   "season": "En regiones templadas, pecorea desde principios de primavera hasta el otoño en días cálidos y permanece agrupada en la colmena durante el invierno; activa todo el año en los trópicos",
+   "order": "Hymenoptera"
+  },
+  "lore": "La recolección de miel aparece pintada en las rocas mesolíticas de las Cuevas de la Araña, en España (hace ~8000 años), y los faraones egipcios usaron la abeja como jeroglífico del Bajo Egipto. Karl von Frisch compartió el Premio Nobel de 1973 por descifrar su danza.",
+  "funFact": "Para producir un kilogramo de miel, las pecoreadoras recorren en conjunto aproximadamente la distancia de varias vueltas a la Tierra y visitan millones de flores."
+ },
+ {
+  "scientific": "Danaus plexippus",
+  "common": "Mariposa monarca",
+  "summary": "Mariposa naranja y negra cuya población del este de Norteamérica vuela hasta unos 4800 km para invernar en unos pocos bosques de oyamel de montaña en el centro de México. Ningún individuo completa el viaje de ida y vuelta: el regreso al norte lo completan varias generaciones de sus descendientes.",
+  "nativeRange": "Norteamérica, Centroamérica y Sudamérica; establecida en Australia, Nueva Zelanda, islas del Pacífico, la península ibérica y Canarias",
+  "biomes": [
+   "Pradera templada",
+   "Prado",
+   "Bosque de oyamel (invierno)",
+   "Márgenes de cultivos"
+  ],
+  "abilities": [
+   "Se orienta con una brújula solar compensada en el tiempo, alojada en sus antenas y su cerebro",
+   "Puede percibir el campo magnético terrestre como brújula de reserva",
+   "Las orugas acumulan cardenólidos tóxicos de las asclepias, lo que hace que los adultos resulten desagradables para las aves",
+   "La «supergeneración» otoñal vive hasta ~8 meses, frente a las 2–6 semanas de las generaciones estivales",
+   "Se agrupa por millones en árboles concretos de los bosques de oyamel de México"
+  ],
+  "animal": {
+   "diet": "Las larvas comen asclepias (Asclepias); los adultos liban néctar",
+   "habitat": "Campos abiertos y prados con asclepias; inverna en bosques de abetos de alta montaña o en arboledas costeras de California",
+   "lifespan": "2–6 semanas los adultos estivales; hasta 8 meses los migrantes",
+   "size": "Envergadura de 8,9–10,2 cm",
+   "behaviour": "Los migrantes entran en diapausa reproductiva, viajan hacia el sur aprovechando las térmicas y los vientos de cola, y se posan en densas agrupaciones que los mantienen frescos pero por encima del punto de congelación durante todo el invierno.",
+   "fieldMarks": [
+    "Mariposa grande y anaranjada con gruesas venas negras",
+    "Bordes de las alas negros con dos hileras de puntos blancos",
+    "Los machos tienen una pequeña mancha odorífera negra sobre una vena de cada ala posterior",
+    "Oruga con bandas amarillas, negras y blancas, sobre asclepias"
+   ],
+   "lookalikes": "La virrey (Limenitis archippus) es más pequeña y tiene una línea negra que cruza las venas del ala posterior. La reina (Danaus gilippus) es de un castaño más oscuro, con puntos blancos dispersos en el ala anterior y venas negras mucho más finas.",
+   "whereToSee": "Reserva de la Biosfera Mariposa Monarca en Michoacán, México (El Rosario, Sierra Chincua); arboledas de Pacific Grove y Pismo Beach en California; Point Pelee y Cape May durante la migración otoñal",
+   "season": "Dormideros de México, nov–mar; arboledas de California, nov–feb; reproducción en EE. UU. y Canadá en verano; migración hacia el sur, ago–oct",
+   "order": "Lepidoptera"
+  },
+  "lore": "Los pueblos purépecha y mazahua de Michoacán asociaron desde antiguo la llegada de las mariposas a principios de noviembre con el Día de Muertos y el regreso de las almas de los antepasados. Los científicos no localizaron las zonas de invernada mexicanas hasta 1975, con ayuda de los habitantes locales.",
+  "funFact": "La subespecie migratoria norteamericana fue catalogada En Peligro por la UICN en 2022 y reevaluada como Vulnerable en 2023; la especie en su conjunto figura como Preocupación Menor."
+ },
+ {
+  "scientific": "Bombus terrestris",
+  "common": "Abejorro común (abejorro de cola anteada)",
+  "summary": "Abeja social grande y peluda capaz de volar con frío, que se cría comercialmente para polinizar tomates de invernadero. Hace vibrar las flores a una frecuencia precisa para desprender el polen que las abejas melíferas no pueden alcanzar.",
+  "nativeRange": "Europa, norte de África y Asia occidental; introducido en Chile, Argentina, Tasmania, Nueva Zelanda y Japón",
+  "biomes": [
+   "Pradera templada",
+   "Linde de bosque",
+   "Jardines",
+   "Tierras de cultivo"
+  ],
+  "abilities": [
+   "Sonicación («polinización por zumbido»): hace vibrar los músculos de vuelo para desprender el polen de las flores del tomate y del arándano",
+   "Calienta el tórax por encima de 30 °C tiritando, lo que le permite volar con temperaturas cercanas a la congelación",
+   "Detecta el débil campo eléctrico de las flores para reconocer las visitadas recientemente",
+   "En experimentos de laboratorio aprendió a tirar de cuerdas y a hacer rodar bolas a cambio de recompensas",
+   "Deja marcas olorosas para que sus compañeras eviten las flores ya vaciadas"
+  ],
+  "animal": {
+   "diet": "Néctar y polen de una gran variedad de flores",
+   "habitat": "Praderas, brezales, jardines y tierras de cultivo; anida bajo tierra en antiguas madrigueras de roedores",
+   "lifespan": "Obreras, unas pocas semanas; reinas, alrededor de un año, incluida la hibernación",
+   "size": "Obreras, 11–17 mm; reinas, 20–27 mm",
+   "behaviour": "Las reinas salen de la hibernación a principios de primavera y fundan solas una colonia, incubando su primera cría sobre un cántaro de cera como un ave sobre sus huevos.",
+   "fieldMarks": [
+    "Abejorro grande y peludo, negro con dos bandas de color amarillo oscuro (una en el collar y otra en el abdomen)",
+    "Las reinas tienen la punta del abdomen de color ante a blanquecino",
+    "Las obreras tienen la punta del abdomen blanca, a menudo con una tenue línea ante donde se une con el negro",
+    "La banda del collar es de un amarillo más oscuro y anaranjado que en especies similares"
+   ],
+   "voice": "Un zumbido grave y fuerte; poliniza algunas flores (p. ej., tomates) por zumbido con una vibración más aguda",
+   "lookalikes": "El abejorro de cola blanca (Bombus lucorum) tiene el collar de un amarillo limón más limpio y la punta del abdomen de un blanco intenso; las obreras de ambas especies son difíciles de distinguir con seguridad en el campo. El abejorro de jardín (B. hortorum) tiene una banda amarilla adicional en la parte posterior del tórax y una cara muy alargada.",
+   "whereToSee": "Jardines, parques y tierras de cultivo de toda Europa; frecuente en lavanda, consuelda y arbustos de floración invernal",
+   "season": "Las reinas emergen en feb–mar; las colonias alcanzan su máximo en verano; en el sur de Gran Bretaña algunas colonias permanecen activas en invierno gracias a las flores de los jardines",
+   "order": "Hymenoptera"
+  },
+  "lore": "Desde finales de la década de 1980, criadores belgas y neerlandeses envían colonias a todo el mundo para la polinización en invernaderos, en sustitución de la vibración manual de las flores del tomate. Su introducción en Sudamérica ha perjudicado al abejorro gigante nativo Bombus dahlbomii.",
+  "funFact": "El viejo mito de que «la ciencia dice que los abejorros no pueden volar» surgió de aplicar la aerodinámica de ala fija; sus alas batientes generan sustentación a partir de vórtices no estacionarios."
+ },
+ {
+  "scientific": "Attacus atlas",
+  "common": "Mariposa atlas",
+  "summary": "Una de las polillas más grandes del mundo, con una superficie alar de hasta unos 400 cm². El adulto carece de boca funcional y vive solo de la grasa acumulada cuando era oruga, por lo que muere en una o dos semanas.",
+  "nativeRange": "Sur y sudeste de Asia, desde la India hasta el sur de China e Indonesia",
+  "biomes": [
+   "Selva tropical",
+   "Bosque secundario"
+  ],
+  "abilities": [
+   "Las puntas de las alas anteriores recuerdan la cabeza de una cobra, lo que quizá disuade a los depredadores cuando la polilla se deja caer y aletea",
+   "Los machos detectan desde muy lejos la feromona de la hembra con sus grandes antenas plumosas",
+   "Los adultos sobreviven exclusivamente gracias a las reservas de grasa larvarias, con piezas bucales vestigiales",
+   "Las orugas rocían un líquido defensivo de olor penetrante",
+   "Los capullos están tejidos con una seda parda y basta"
+  ],
+  "animal": {
+   "diet": "Las larvas comen hojas de cítricos, canelo, guayabo, guanábano y otros árboles; los adultos no se alimentan",
+   "habitat": "Bosques tropicales de tierras bajas y bosques secundarios",
+   "lifespan": "Adultos, 1–2 semanas",
+   "size": "Envergadura de hasta ~25 cm; las hembras son más grandes",
+   "behaviour": "Cuando se la molesta, la polilla cae al suelo y aletea lentamente, mostrando las puntas de sus alas con forma de cabeza de serpiente.",
+   "fieldMarks": [
+    "Polilla enorme con alas de color pardo rojizo con bandas blancas, rosadas y púrpuras",
+    "Una «ventana» triangular translúcida y sin escamas en cada ala",
+    "Puntas de las alas anteriores ganchudas y con un dibujo como de cabeza de serpiente",
+    "Los machos tienen antenas anchas y plumosas; las hembras son más grandes y tienen antenas más finas"
+   ],
+   "lookalikes": "Attacus taprobanis, del sur de la India y Sri Lanka, es muy parecida y antes se consideraba una subespecie; otras especies de Attacus también se llaman «mariposas atlas». Las polillas Rothschildia del Nuevo Mundo son similares, pero viven solo en América.",
+   "season": "Los adultos pueden aparecer todo el año, pero son más numerosos en nov–ene; cada adulto vive solo una o dos semanas",
+   "order": "Lepidoptera"
+  },
+  "lore": "En Taiwán, los capullos vacíos se han usado como pequeños monederos, y su seda basta se ha hilado de forma experimental. Su nombre puede aludir al titán Atlas o a los dibujos de sus alas, que parecen mapas.",
+  "funFact": "Su nombre en cantonés significa «polilla cabeza de serpiente», por el dibujo de las puntas de sus alas."
+ },
+ {
+  "scientific": "Photinus pyralis",
+  "common": "Luciérnaga común del este (Photinus pyralis)",
+  "summary": "La luciérnaga más conocida de Norteamérica, un escarabajo que corteja con destellos de luz fría de color amarillo verdoso. Los machos trazan una «J» en el aire mientras destellan, y las hembras les responden desde la hierba.",
+  "nativeRange": "Este y centro de Norteamérica, hacia el sur hasta el norte de Sudamérica",
+  "biomes": [
+   "Prado",
+   "Céspedes",
+   "Linde de bosque",
+   "Márgenes de humedales"
+  ],
+  "abilities": [
+   "Produce luz mediante la reacción luciferina–luciferasa, con muy poco calor",
+   "Los machos emiten un patrón de destellos temporizado propio de la especie; las hembras responden tras un intervalo fijo",
+   "Las larvas también brillan y cazan caracoles, babosas y gusanos",
+   "Contiene lucibufaginas defensivas que la hacen desagradable para los depredadores"
+  ],
+  "animal": {
+   "diet": "Las larvas comen invertebrados de cuerpo blando; los adultos comen poco o nada",
+   "habitat": "Campos abiertos, céspedes, lindes de bosque y suelos húmedos",
+   "lifespan": "Unos 1–2 años, la mayor parte como larva; los adultos, unas pocas semanas",
+   "size": "11–14 mm",
+   "behaviour": "Al anochecer, el macho asciende mientras destella, dibujando una J en el aire; una hembra receptiva responde con un único destello unos dos segundos después.",
+   "fieldMarks": [
+    "Escarabajo plano y de cuerpo blando de 1–1,4 cm, con élitros oscuros ribeteados de amarillo",
+    "Escudo cefálico (pronoto) amarillo con una mancha central negra rodeada de rosa o rojo",
+    "Los machos tienen linternas en los tres últimos segmentos abdominales; las hembras, una pequeña linterna en un solo segmento",
+    "Los machos vuelan bajo describiendo una J y destellan en el tramo ascendente"
+   ],
+   "voice": "Silenciosa; se comunica con luz. El destello amarillo del macho se repite cada 5–7 segundos y la hembra responde desde la hierba 1–2 segundos después",
+   "lookalikes": "Las luciérnagas Photuris son más alargadas y de patas más largas, destellan más entrada la noche con patrones distintos, y sus hembras imitan las respuestas de Photinus para comerse a los machos. Muchas otras especies de Photinus se diferencian sobre todo por el ritmo de sus destellos.",
+   "whereToSee": "Céspedes, prados y lindes de bosque del este y el centro de Estados Unidos, incluidos los jardines de las zonas residenciales",
+   "season": "Finales de primavera y verano (sobre todo jun–jul), destellando desde el anochecer durante aproximadamente una hora",
+   "order": "Coleoptera"
+  },
+  "lore": "El gen de la luciferasa de luciérnaga, clonado a partir de esta especie en 1985, se convirtió en una herramienta estándar de la biología molecular para informar de la actividad génica y detectar ATP. Las luciérnagas depredadoras Photuris, «femmes fatales», imitan la respuesta de su hembra para atraer y devorar a los machos.",
+  "funFact": "Su reacción luminosa apenas desprende calor, y alrededor del 40 % de las reacciones produce un fotón (Ando et al., 2008): mucho menos que el ~90 % que se citaba antes, pero aun así una de las reacciones productoras de luz más eficientes de la naturaleza."
+ },
+ {
+  "scientific": "Scarabaeus satyrus",
+  "common": "Escarabajo pelotero (pelotero sudafricano)",
+  "summary": "Escarabajo pelotero africano y nocturno que da forma de bola al estiércol y la hace rodar en línea recta. Es el primer animal del que se sabe que se orienta por la franja de la Vía Láctea.",
+  "nativeRange": "África austral",
+  "biomes": [
+   "Sabana",
+   "Pradera"
+  ],
+  "abilities": [
+   "Mantiene un rumbo recto guiándose por el gradiente de luz de la Vía Láctea en noches sin luna",
+   "Se sube a su bola y «baila» para tomar una instantánea del cielo antes de echarla a rodar",
+   "Entierra el estiércol, con lo que recicla nutrientes y airea el suelo",
+   "Reduce la cría de moscas y la carga de parásitos en los pastizales"
+  ],
+  "animal": {
+   "diet": "Estiércol de herbívoros",
+   "habitat": "Sabanas abiertas y praderas con grandes mamíferos de pastoreo",
+   "size": "Unos 2–3 cm",
+   "behaviour": "Cada escarabajo se aleja a toda prisa en línea recta del montón de estiércol en disputa, la forma más rápida de escapar de los ladrones de bolas.",
+   "fieldMarks": [
+    "Escarabajo negro mate de unos 2–3 cm de largo",
+    "Cabeza ancha en forma de pala, con el borde dentado",
+    "Patas delanteras aplanadas y dentadas para cavar y modelar el estiércol",
+    "Hace rodar la bola de estiércol hacia atrás con las patas traseras"
+   ],
+   "lookalikes": "En África austral hay muchas especies de Scarabaeus peloteras similares; distinguirlas requiere examinar con detalle la cabeza, las patas y la escultura del cuerpo.",
+   "season": "Activo durante el verano austral y la estación lluviosa, cuando abunda el estiércol fresco",
+   "order": "Coleoptera"
+  },
+  "lore": "Los antiguos egipcios veían en el escarabajo que hace rodar su bola a Jepri empujando el sol por el cielo, y tallaron amuletos de escarabeo por miles. En 2013, Marie Dacke y sus colaboradores demostraron que esta especie se orienta por la Vía Láctea, poniéndola a prueba en el planetario de Johannesburgo.",
+  "funFact": "Los investigadores colocaron a los escarabajos diminutas gorras de cartón para taparles la vista del cielo; los que llevaban gorra deambulaban en círculos."
+ },
+ {
+  "scientific": "Atta cephalotes",
+  "common": "Hormiga cortadora de hojas (zompopo, bachaco)",
+  "summary": "Hormiga neotropical que corta hojas frescas no para comérselas, sino para alimentar un jardín de hongos subterráneo que cultiva. Una colonia madura puede albergar millones de obreras y es una de las sociedades animales más complejas, aparte de la humana.",
+  "nativeRange": "Desde México, a través de Centroamérica, hasta el norte de Sudamérica y Trinidad",
+  "biomes": [
+   "Selva tropical",
+   "Bosque tropical seco",
+   "Plantaciones"
+  ],
+  "abilities": [
+   "Cultiva el hongo Leucoagaricus gongylophorus, dentro de una agricultura de hormigas con decenas de millones de años de antigüedad",
+   "Secreta compuestos antimicrobianos y elimina hongos parásitos como Escovopsis para proteger sus jardines",
+   "Las obreras tienen tamaños que van desde diminutas jardineras hasta grandes soldados, cada una con su propia tarea",
+   "Mueve enormes volúmenes de tierra y construye nidos de varios metros de profundidad",
+   "Despeja senderos en el suelo del bosque para miles de forrajeadoras"
+  ],
+  "animal": {
+   "diet": "Hongo cultivado sobre hojas y flores cortadas",
+   "habitat": "Bosque tropical y claros; anida bajo tierra",
+   "lifespan": "Reinas, 10–20 años; obreras, meses",
+   "size": "Obreras, 2–14 mm; reina, ~2,5 cm",
+   "behaviour": "Diminutas obreras «mínimas» viajan a menudo sobre las hojas cortadas, protegiendo a las porteadoras de las moscas parásitas que intentan ponerles huevos encima.",
+   "fieldMarks": [
+    "Hormigas espinosas de color pardo rojizo en largos senderos despejados, que llevan trozos de hoja sostenidos sobre la cabeza",
+    "En una misma columna hay obreras desde diminutas hasta grandes soldados de cabeza enorme",
+    "Tres pares de espinas en el tórax",
+    "Enormes montículos de nido de tierra desnuda excavada, con muchas entradas"
+   ],
+   "lookalikes": "Las cortadoras Acromyrmex también acarrean hojas, pero tienen cuatro pares de espinas en el tórax y carecen de los soldados de cabeza gigante de Atta. Los soldados muerden con fuerza; observe los senderos sin manipular las hormigas.",
+   "whereToSee": "Selvas y claros de Centroamérica, p. ej., La Selva y Corcovado en Costa Rica, Tikal en Guatemala y la isla de Barro Colorado en Panamá",
+   "season": "Residente; los senderos tienen más actividad de noche y a primera hora de la mañana; las reinas aladas vuelan al comienzo de la estación lluviosa",
+   "order": "Hymenoptera"
+  },
+  "lore": "Las cortadoras de hojas son desde hace mucho una plaga agrícola en América Latina, y sus reinas aladas se tuestan y se comen en Colombia como «hormigas culonas». Los contemporáneos de Darwin se asombraban de sus senderos, y Thomas Belt fue el primero en sostener, en 1874, que cultivaban hongos.",
+  "funFact": "Ni la hormiga ni el hongo pueden vivir el uno sin el otro: el hongo ya no crece en estado silvestre separado de sus cultivadoras."
+ },
+ {
+  "scientific": "Macrotermes michaelseni",
+  "common": "Termita constructora de montículos",
+  "summary": "Termita de África austral cuyas colonias levantan montículos de varios metros de altura sobre un nido subterráneo. El montículo funciona como un pulmón que intercambia gases con el aire exterior mientras la colonia cultiva hongos en su interior.",
+  "nativeRange": "África austral y oriental, incluidos Namibia, Botsuana y Kenia",
+  "biomes": [
+   "Sabana",
+   "Pradera semiárida"
+  ],
+  "abilities": [
+   "Construye montículos altos con redes de túneles que aprovechan las oscilaciones diarias de temperatura para impulsar el flujo de aire",
+   "Cultiva el hongo Termitomyces para digerir madera y hierba",
+   "Crea islas ricas en nutrientes que sustentan plantas y animales característicos",
+   "Las obreras detectan y reparan las brechas en la pared del montículo en cuestión de horas"
+  ],
+  "animal": {
+   "diet": "Hierba seca, madera y hojarasca, digeridas mediante jardines de hongos",
+   "habitat": "Sabana y pradera seca",
+   "lifespan": "Las colonias pueden perdurar décadas",
+   "size": "Obreras, ~5 mm; la reina, varios centímetros cuando está hinchada",
+   "behaviour": "La reina puede poner muchos miles de huevos al día, atendida por obreras en una cámara real sellada.",
+   "fieldMarks": [
+    "Altos montículos de tierra con una chimenea central, a menudo de varios metros de altura",
+    "Pequeñas obreras pálidas y soldados más grandes con cabeza oscura y mandíbulas fuertes",
+    "Montículos construidos con tierra rojiza o pálida, del mismo color que el suelo local"
+   ],
+   "whereToSee": "Sabana del norte y el centro de Namibia, donde se han estudiado los montículos cerca de Otjiwarongo",
+   "season": "Montículos visibles todo el año; los reproductores alados enjambran tras las primeras lluvias fuertes del verano",
+   "order": "Blattodea"
+  },
+  "lore": "Los estudios de J. Scott Turner sobre los montículos de esta especie en Namibia cambiaron las ideas sobre cómo se ventilan los termiteros e inspiraron diseños arquitectónicos «biomiméticos». Las setas de Termitomyces que brotan de los montículos son un alimento muy apreciado en toda África.",
+  "funFact": "Las termitas no viven en el montículo propiamente dicho: es una estructura de climatización situada sobre el nido, que está debajo."
+ },
+ {
+  "scientific": "Anax junius",
+  "common": "Libélula emperador verde (Anax junius)",
+  "summary": "Gran libélula de Norteamérica cuyas poblaciones realizan una migración multigeneracional, revelada en 2018 gracias a marcadores químicos en sus alas. Los adultos cazan otros insectos en el aire con un éxito muy elevado.",
+  "nativeRange": "Norteamérica, desde Canadá hasta Centroamérica y el Caribe; también Hawái y partes de Asia oriental",
+  "biomes": [
+   "Charcas",
+   "Marismas",
+   "Prados"
+  ],
+  "abilities": [
+   "Migra hacia el sur cada otoño y hacia el norte cada primavera a lo largo de tres generaciones",
+   "Captura presas en vuelo con una alta tasa de éxito, interceptándolas en lugar de perseguirlas",
+   "Tiene una visión de casi 360° gracias a sus ojos compuestos",
+   "Las ninfas acuáticas cazan con un labio inferior articulado y extensible"
+  ],
+  "animal": {
+   "diet": "Insectos voladores; las ninfas comen insectos acuáticos, renacuajos y peces pequeños",
+   "habitat": "Charcas, lagos y arroyos de corriente lenta",
+   "lifespan": "Hasta un año aproximadamente, la mayor parte como ninfa",
+   "size": "Longitud de ~7–8 cm; envergadura de hasta 10 cm",
+   "behaviour": "Las parejas suelen volar en tándem mientras la hembra pone los huevos en tallos de plantas sumergidos.",
+   "fieldMarks": [
+    "Libélula grande con el tórax de un verde intenso",
+    "Los machos tienen el abdomen azul; las hembras y los machos jóvenes, de verdoso a pardo purpúreo",
+    "Una mancha oscura en forma de «diana» en la parte superior de la cara, delante de los ojos",
+    "Patrulla las charcas con aleteos largos y regulares"
+   ],
+   "lookalikes": "Anax longipes tiene, en los machos, el abdomen rojo intenso y carece de la diana. Anax walsinghami es más grande y de cuerpo más largo. Otras libélulas del género Aeshna tienen el tórax listado.",
+   "whereToSee": "Charcas y lagos de toda Norteamérica; espectacular migración otoñal a lo largo de las costas, p. ej., en Cape May Point (Nueva Jersey)",
+   "season": "Las poblaciones residentes se reproducen en verano; los migrantes llegan al norte en primavera y vuelan hacia el sur en ago–oct",
+   "order": "Odonata"
+  },
+  "lore": "Es el insecto oficial del estado de Washington. Los isótopos de hidrógeno de sus alas, estudiados en 2018, revelaron un ciclo anual de tres generaciones desde Canadá hasta México y de vuelta.",
+  "funFact": "A algunos ejemplares se les colocaron diminutos radiotransmisores y se los siguió con avionetas durante la migración."
+ },
+ {
+  "scientific": "Coccinella septempunctata",
+  "common": "Mariquita de siete puntos (catarina, chinita)",
+  "summary": "La clásica mariquita roja con siete puntos negros, voraz depredadora de pulgones. Los jardineros la acogen como uno de los métodos naturales de control de plagas más antiguos.",
+  "nativeRange": "Europa, Asia y norte de África; introducida en Norteamérica",
+  "biomes": [
+   "Prado",
+   "Tierras de cultivo",
+   "Jardines",
+   "Linde de bosque"
+  ],
+  "abilities": [
+   "Una sola larva puede comer cientos de pulgones antes de pupar",
+   "Cuando la atacan, practica el sangrado reflejo: expulsa por las articulaciones de las patas un líquido amarillo amargo y cargado de alcaloides",
+   "Sus vivos colores de advertencia anuncian su mal sabor",
+   "Inverna en grandes agregaciones"
+  ],
+  "animal": {
+   "diet": "Pulgones y otros insectos de cuerpo blando; algo de polen",
+   "habitat": "Praderas, cultivos, jardines y setos",
+   "lifespan": "Alrededor de un año",
+   "size": "7–8 mm",
+   "behaviour": "Los adultos se agrupan en la hojarasca o en matas de hierba para hibernar durante el invierno.",
+   "fieldMarks": [
+    "Élitros rojos y abombados con siete puntos negros (tres a cada lado y uno compartido en la parte delantera)",
+    "Pronoto negro con una mancha blanquecina en cada esquina delantera",
+    "Patas negras",
+    "Unos 7–8 mm de largo"
+   ],
+   "lookalikes": "La mariquita arlequín (Harmonia axyridis) es más grande y muy variable; a menudo tiene una marca en forma de M o W sobre un pronoto blanco y patas pardas o anaranjadas. La mariquita de dos puntos es más pequeña y solo tiene dos puntos.",
+   "whereToSee": "Jardines, praderas, cultivos y setos allí donde abundan los pulgones",
+   "season": "Activa en mar–oct; inverna como adulto en la hojarasca y en vegetación densa",
+   "order": "Coleoptera"
+  },
+  "lore": "Sus nombres inglés y alemán honran a la Virgen María ('Our Lady's bird' [el ave de Nuestra Señora], Marienkäfer), cuyo manto rojo y siete dolores supuestamente evocaban sus colores y puntos. En EE. UU. se liberó repetidamente para controlar los pulgones, y en la década de 1970 ya había poblaciones silvestres establecidas.",
+  "funFact": "Sus siete puntos no cambian en toda su vida; no indican la edad, pese a la creencia popular."
+ },
+ {
+  "scientific": "Bombyx mori",
+  "common": "Gusano de seda (mariposa de la seda)",
+  "summary": "Polilla tan profundamente domesticada a lo largo de unos 5000 años que ya no puede sobrevivir en estado silvestre: los adultos no pueden volar y las orugas apenas buscan alimento. Cada capullo está hilado con un único hilo de seda continuo de hasta unos 900 m de longitud.",
+  "nativeRange": "Domesticado en China a partir del silvestre Bombyx mandarina; hoy se cría en sericultura en todo el mundo",
+  "biomes": [
+   "Doméstico (instalaciones de sericultura)"
+  ],
+  "abilities": [
+   "Hila un capullo a partir de un único filamento de fibroína unido por sericina, de hasta ~900 m de longitud",
+   "La seda es una de las fibras naturales más resistentes en relación con su peso",
+   "Los adultos no vuelan ni se alimentan",
+   "El macho detecta la feromona bombicol, la primera feromona de insecto identificada (1959)",
+   "Su genoma se ha modificado para producir seda de araña y proteínas de uso médico"
+  ],
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Cirugía moderna",
+     "use": "Suturas de seda trenzada, usadas durante siglos y todavía habituales en cirugía"
+    },
+    {
+     "tradition": "Medicina tradicional china",
+     "use": "Jiāngcán (僵蚕), larvas muertas por el hongo Beauveria bassiana, usadas para las convulsiones y el dolor de garganta"
+    },
+    {
+     "tradition": "Investigación biomédica",
+     "use": "Andamiajes de fibroína de seda para ingeniería de tejidos y administración de fármacos"
+    }
+   ],
+   "cautions": "La evidencia sólida se aplica únicamente a las suturas de seda como material quirúrgico; el uso tradicional del jiangcan tiene poca evidencia clínica. Las pupas del gusano de seda y la sericina pueden causar alergias."
+  },
+  "animal": {
+   "diet": "Las larvas comen hojas de morera (Morus); los adultos no se alimentan",
+   "habitat": "Solo existe bajo cuidado humano",
+   "lifespan": "Unas 6–8 semanas, incluidas ~4 semanas como oruga",
+   "size": "Oruga de hasta ~7,5 cm; envergadura del adulto de ~4–5 cm",
+   "behaviour": "La oruga hila su capullo con un movimiento en forma de ocho durante dos o tres días, balanceando la cabeza cientos de miles de veces.",
+   "fieldMarks": [
+    "Polilla peluda de color blanco cremoso, con alas cortas e incapaz de volar",
+    "Antenas plumosas",
+    "Oruga pálida con un pequeño cuerno en la cola, que se alimenta de hojas de morera",
+    "Hila un capullo con un único hilo de seda continuo"
+   ],
+   "lookalikes": "Su antepasado silvestre, Bombyx mandarina, es pardo y puede volar; el gusano de seda doméstico solo existe en cautividad.",
+   "order": "Lepidoptera"
+  },
+  "lore": "La leyenda china atribuye a Leizu, esposa del Emperador Amarillo, el descubrimiento de la seda cuando un capullo cayó en su té. China guardó el secreto durante siglos hasta que, según el relato de Procopio, unos monjes introdujeron huevos de contrabando en Bizancio dentro de cañas huecas hacia el año 552 d. C.",
+  "funFact": "La Ruta de la Seda toma su nombre del hilo de este insecto; el término lo acuñó Ferdinand von Richthofen en 1877."
+ },
+ {
+  "scientific": "Morpho menelaus",
+  "common": "Morfo azul (Morpho menelaus)",
+  "summary": "Gran mariposa de la selva cuyo azul eléctrico no contiene ningún pigmento azul. El color procede de crestas nanométricas en las escamas de sus alas que producen interferencia con la luz.",
+  "nativeRange": "Centroamérica y norte de Sudamérica, incluida la cuenca del Amazonas",
+  "biomes": [
+   "Selva tropical"
+  ],
+  "abilities": [
+   "Color estructural: nanoestructuras con forma de árbol de Navidad reflejan la luz azul por interferencia",
+   "El reverso es pardo con ocelos, por lo que destella y desaparece al aletear",
+   "Las escamas repelen el agua y se estudian para tintas antifalsificación y sensores",
+   "Los adultos se alimentan de fruta fermentada en descomposición"
+  ],
+  "animal": {
+   "diet": "Las larvas comen leguminosas; los adultos beben jugos de fruta en descomposición, savia y hongos",
+   "habitat": "Selva tropical, sobre todo a lo largo de arroyos y claros",
+   "lifespan": "Adultos, unas 2–3 semanas",
+   "size": "Envergadura de 12–15 cm",
+   "behaviour": "Los machos patrullan los corredores fluviales soleados; sus alas destellantes se ven desde muy lejos, incluso desde aviones que vuelan bajo.",
+   "fieldMarks": [
+    "Mariposa muy grande, con el anverso de un azul iridiscente brillante ribeteado de negro",
+    "Reverso pardo con hileras de ocelos, lo que produce un parpadeo azul en vuelo",
+    "Las hembras son más apagadas por encima",
+    "Sube y baja con un vuelo lento y aleteante a lo largo de los arroyos"
+   ],
+   "season": "Se ve todo el año en los trópicos; activa sobre todo con el sol de media mañana",
+   "order": "Lepidoptera"
+  },
+  "lore": "Las alas de morfo se utilizaron en joyas y bandejas europeas del siglo XIX y principios del XX. El nombre del género evoca a Morfo, un epíteto de Afrodita.",
+  "funFact": "Si se deja caer alcohol sobre un ala de morfo, se vuelve verde hasta que el líquido se evapora, porque los huecos de la nanoestructura se llenan de un medio distinto."
+ },
+ {
+  "scientific": "Hymenopus coronatus",
+  "common": "Mantis orquídea",
+  "summary": "Mantis rosa y blanca con patas en forma de pétalo que parece una flor. No se esconde en las orquídeas, sino que se sitúa a la vista y atrae hacia sí a los insectos polinizadores.",
+  "nativeRange": "Malasia, Indonesia, Tailandia y regiones cercanas del sudeste asiático",
+  "biomes": [
+   "Selva tropical"
+  ],
+  "abilities": [
+   "Mimetismo agresivo de una flor genérica que atrae a los polinizadores",
+   "En experimentos de campo atrajo más polinizadores que las flores reales (O'Hanlon et al., 2014)",
+   "Para los ojos de abejas y moscas, su color es difícil de distinguir del de las flores reales",
+   "Puede variar ligeramente de color entre el rosa y el blanco"
+  ],
+  "animal": {
+   "diet": "Abejas, moscas, mariposas y otros insectos que visitan flores",
+   "habitat": "Arbustos y flores de la selva",
+   "lifespan": "Unos 6–8 meses",
+   "size": "Hembras, ~6–7 cm; machos, ~2,5 cm",
+   "behaviour": "Las hembras duplican con creces el tamaño de los machos; los diminutos machos evitan ser devorados acercándose con cautela.",
+   "fieldMarks": [
+    "Mantis de blanca a rosada con forma de pétalo de orquídea",
+    "Patas locomotoras con lóbulos anchos semejantes a pétalos",
+    "Hembras mucho más grandes que los machos",
+    "Permanece inmóvil sobre las flores o cerca de ellas"
+   ],
+   "order": "Mantodea"
+  },
+  "lore": "Un relato de 1879 del viajero James Hingston describía una mantis de Java que cazaba mariposas haciéndose pasar por una orquídea, lo que avivó la fascinación victoriana por el mimetismo.",
+  "funFact": "Las ninfas jóvenes son rojas y negras e imitan a un chinche asesino de mal sabor antes de volverse rosadas."
+ },
+ {
+  "scientific": "Pantala flavescens",
+  "common": "Libélula viajera (Pantala flavescens)",
+  "summary": "Libélula dorada presente en todos los continentes salvo la Antártida, que ostenta el récord de la migración más larga de un insecto. Sus generaciones cruzan el océano Índico entre la India y África oriental aprovechando los vientos monzónicos.",
+  "nativeRange": "Zonas tropicales y templadas cálidas de todo el mundo",
+  "biomes": [
+   "Charcas de lluvia",
+   "Pradera",
+   "Llanuras costeras",
+   "Mar abierto (en tránsito)"
+  ],
+  "abilities": [
+   "Migración multigeneracional estimada en 14 000–18 000 km de ida y vuelta a través del océano Índico",
+   "Vuela durante días con poco esfuerzo, planeando sobre sus anchas alas posteriores",
+   "Se reproduce en charcas temporales de lluvia, donde las larvas se desarrollan en ~5 semanas",
+   "Los estudios genéticos muestran un flujo génico casi global entre continentes"
+  ],
+  "animal": {
+   "diet": "Pequeños insectos voladores; las larvas acuáticas comen larvas de mosquito y otros invertebrados",
+   "habitat": "Zonas abiertas cercanas a charcas temporales de agua dulce",
+   "lifespan": "Varios meses",
+   "size": "Unos 4,5–5 cm de largo; envergadura de ~8 cm",
+   "behaviour": "Los enjambres se concentran por delante de los frentes de lluvia y siguen los vientos hacia nuevas lluvias donde se formarán charcas.",
+   "fieldMarks": [
+    "Libélula de color amarillo dorado a anaranjado, de unos 4,5 cm de largo",
+    "Alas transparentes y muy anchas en la base de las alas posteriores",
+    "Grandes ojos rojizos que ocupan la mayor parte de la cabeza",
+    "Vuela durante horas, planeando alto sobre terreno abierto"
+   ],
+   "lookalikes": "Pantala hymenaea tiene una evidente mancha parda en la base de cada ala posterior y es algo más oscura; las Tramea tienen una banda oscura en la base de las alas posteriores.",
+   "whereToSee": "Terrenos abiertos y arrozales de todo el trópico; notable en las Maldivas durante su travesía oceánica entre la India y África oriental",
+   "season": "Sigue a las lluvias; en la India los enjambres llegan con los monzones, y el regreso desde África alcanza la costa occidental india a partir de mayo",
+   "order": "Odonata"
+  },
+  "lore": "El biólogo Charles Anderson observó que cada octubre llegaban enjambres a las Maldivas, donde no hay agua dulce para reproducirse, y en 2009 propuso la migración transoceánica. En Japón se asocia con la festividad de Obon como «libélula de los espíritus».",
+  "funFact": "Es la libélula registrada a mayor altitud: se ha observado a unos 6200 m en el Himalaya."
+ },
+ {
+  "scientific": "Schistocerca gregaria",
+  "common": "Langosta del desierto",
+  "summary": "Saltamontes que se transforma cuando hay aglomeración: cambia de color, de comportamiento y de forma corporal, y forma enjambres que pueden cubrir cientos de kilómetros cuadrados. Un enjambre puede comer en un día tanto como millones de personas.",
+  "nativeRange": "Desiertos desde África occidental, a través de la península arábiga, hasta la India",
+  "biomes": [
+   "Desierto",
+   "Pradera semiárida"
+  ],
+  "abilities": [
+   "Cambio de fase: la aglomeración desencadena la liberación de serotonina, que la hace pasar de la forma solitaria a la gregaria",
+   "Los enjambres recorren hasta ~150 km al día empujados por el viento",
+   "En 1988 cruzó el Atlántico desde África occidental hasta el Caribe",
+   "Una langosta come cada día aproximadamente su propio peso en alimento fresco"
+  ],
+  "animal": {
+   "diet": "Casi cualquier vegetación verde, incluidos los cultivos",
+   "habitat": "Desierto y semidesierto; los enjambres llegan mucho más allá, hasta las tierras de cultivo",
+   "lifespan": "Unos 3–5 meses",
+   "size": "Adultos, 6–8 cm",
+   "behaviour": "Las ninfas verdes solitarias se evitan entre sí; cuando se aglomeran se vuelven amarillas y negras, marchan en bandas y buscan compañía.",
+   "fieldMarks": [
+    "Saltamontes grande, de 6–8 cm, con alas largas que sobrepasan la punta del abdomen",
+    "Fase solitaria de color arena, gris o verdoso",
+    "Fase gregaria: adultos inmaduros rosados, machos maduros amarillo intenso; ninfas amarillas y negras",
+    "Alas anteriores con grandes manchas oscuras irregulares"
+   ],
+   "season": "Se reproduce tras las lluvias; los enjambres son impredecibles y siguen a precipitaciones inusuales",
+   "order": "Orthoptera"
+  },
+  "lore": "La octava plaga de Egipto en el Éxodo es la de las langostas, y Juan el Bautista se alimentaba de «langostas y miel silvestre». Las langostas son de los pocos insectos declarados kosher en el Levítico, y todavía se comen en partes de Yemen y Marruecos.",
+  "funFact": "Las formas solitaria y gregaria parecían tan distintas que durante mucho tiempo se clasificaron como especies diferentes, hasta que Boris Uvarov demostró en 1921 que eran fases de una sola."
+ },
+ {
+  "scientific": "Deilephila elpenor",
+  "common": "Esfinge de la vid (esfinge elefante)",
+  "summary": "Esfinge rosa y verde oliva que se cierne ante las flores al anochecer. Fue el primer animal del que se demostró que ve los colores con la tenue luz de las estrellas, cuando los humanos solo vemos gris.",
+  "nativeRange": "Europa y Asia templada hasta Japón",
+  "biomes": [
+   "Jardines",
+   "Linde de bosque",
+   "Terrenos baldíos",
+   "Márgenes de humedales"
+  ],
+  "abilities": [
+   "Visión en color bajo la luz de las estrellas gracias a ojos de superposición muy sensibles (Kelber et al., 2002)",
+   "Se cierne en el aire mientras liba néctar con una larga espiritrompa",
+   "La oruga hincha sus ocelos para imitar a una pequeña serpiente"
+  ],
+  "animal": {
+   "diet": "Las larvas comen adelfillas (Chamaenerion) y galios (Galium); los adultos liban néctar de madreselva y flores similares",
+   "habitat": "Jardines, terrenos incultos, brezales y lindes de bosque",
+   "lifespan": "Adultos, unas pocas semanas",
+   "size": "Envergadura de 45–60 mm",
+   "behaviour": "Cuando se la molesta, la oruga retrae la cabeza e hincha sus segmentos delanteros, mostrando cuatro ocelos como una serpiente.",
+   "fieldMarks": [
+    "Polilla verde oliva y rosa de cuerpo aerodinámico",
+    "Bandas rosas que cruzan el ala anterior verde oliva y cuerpo rosa",
+    "Oruga de color pardo grisáceo con dos pares de ocelos detrás de una cabeza en forma de trompa",
+    "Visita las flores al anochecer"
+   ],
+   "lookalikes": "La esfinge menor de la vid (Deilephila porcellus) es más pequeña y principalmente rosa y pardo amarillenta, sin las bandas verde oliva.",
+   "whereToSee": "Jardines con madreselva, terrenos incultos con adelfilla, brezales y lindes de bosque de toda Europa",
+   "season": "Adultos en may–jul; orugas en jul–sep sobre adelfillas, galios y fucsias",
+   "order": "Lepidoptera"
+  },
+  "lore": "Su nombre común inglés (elephant hawk-moth) alude a la oruga con forma de trompa. Linneo le dio el nombre de Elpénor, el compañero de Odiseo que cayó del tejado de Circe.",
+  "funFact": "Es una visitante habitual de los jardines británicos y, sin embargo, su visión nocturna en color no se descubrió hasta 2002."
+ },
+ {
+  "scientific": "Xylocopa violacea",
+  "common": "Abeja carpintera violeta",
+  "summary": "La abeja más grande de Europa, de un negro brillante con alas de reflejos violáceos. Las hembras excavan con las mandíbulas túneles de nidificación en la madera muerta.",
+  "nativeRange": "Europa meridional y central, norte de África, Asia occidental y central",
+  "biomes": [
+   "Matorral mediterráneo",
+   "Jardines",
+   "Lindes de bosque"
+  ],
+  "abilities": [
+   "Excava túneles de nidificación en madera muerta con sus potentes mandíbulas",
+   "Poliniza algunas flores por vibración",
+   "Roba néctar abriendo orificios en la base de las flores largas",
+   "Los adultos pasan el invierno y pueden vivir alrededor de un año"
+  ],
+  "animal": {
+   "diet": "Néctar y polen de muchas plantas, como glicinia, lavanda y leguminosas",
+   "habitat": "Zonas cálidas y abiertas con madera muerta",
+   "lifespan": "Alrededor de un año",
+   "size": "2–3 cm",
+   "behaviour": "Una hembra solitaria construye en su túnel una hilera de celdas, cada una sellada con pulpa de madera masticada y aprovisionada de polen.",
+   "fieldMarks": [
+    "Abeja grande y robusta, de 2–3 cm, negra brillante con reflejos azul violáceo",
+    "Alas oscuras con una intensa iridiscencia violeta",
+    "Vuelo pesado y ruidoso entre las flores",
+    "Perfora agujeros redondos en la madera muerta"
+   ],
+   "voice": "Un zumbido grave e intenso",
+   "lookalikes": "Otras abejas carpinteras europeas (X. valga, X. iris) son parecidas y requieren un examen detallado para distinguirlas. Los abejorros son más peludos y tienen bandas de color.",
+   "whereToSee": "Jardines cálidos, viñedos y estructuras de madera antiguas del sur y el centro de Europa",
+   "season": "Los adultos invernan y emergen en primavera (normalmente abr–may); los nuevos adultos aparecen a finales del verano",
+   "order": "Hymenoptera"
+  },
+  "lore": "En las últimas décadas se ha extendido hacia el norte, hasta Gran Bretaña y los Países Bajos, a medida que se calienta el clima.",
+  "funFact": "Pese a su tamaño y su sonoro zumbido, es dócil, y los machos no tienen aguijón."
+ },
+ {
+  "scientific": "Archilochus colubris",
+  "common": "Colibrí garganta de rubí",
+  "summary": "El único colibrí que cría de forma extendida en el este de Norteamérica. Con unos 3 g de peso, muchos cruzan el golfo de México sin escalas, unos 800 km, cada primavera y cada otoño.",
+  "nativeRange": "Cría en el este de Norteamérica; inverna en México y Centroamérica",
+  "biomes": [
+   "Bosque caducifolio",
+   "Lindes de bosque",
+   "Jardines"
+  ],
+  "abilities": [
+   "Cruza el golfo de México sin escalas, tras casi duplicar antes su peso en grasa",
+   "Bate las alas unas 50–80 veces por segundo y puede cernirse y volar hacia atrás",
+   "Entra cada noche en letargo y baja su temperatura corporal para ahorrar energía",
+   "Poliniza flores tubulares rojas como la trompeta trepadora y la lobelia cardenal"
+  ],
+  "animal": {
+   "diet": "Néctar, además de pequeños insectos y arañas",
+   "habitat": "Bosque abierto, lindes de bosque, jardines",
+   "lifespan": "Normalmente 3–5 años; récord de más de 9 años",
+   "size": "7–9 cm; ~3 g",
+   "behaviour": "Los machos realizan picados de exhibición en forma de U, como un péndulo, ante las hembras posadas.",
+   "fieldMarks": [
+    "Colibrí diminuto con el dorso verde esmeralda brillante",
+    "El macho tiene una garganta rojo rubí resplandeciente que puede parecer negra con poca luz",
+    "La hembra tiene la garganta blanca y las plumas de la cola con la punta blanca",
+    "Cola oscura y ahorquillada en los machos"
+   ],
+   "voice": "Suaves y rápidos reclamos 'chiu' y un parloteo chillón; las alas del macho producen un zumbido agudo",
+   "lookalikes": "El macho del colibrí barbinegro (sobre todo occidental) tiene la barbilla negra con una estrecha banda violeta; las hembras de ambas especies son muy difíciles de distinguir. El colibrí rufo es anaranjado.",
+   "whereToSee": "Comederos de jardín en todo el este de Norteamérica; migrantes primaverales en la costa de Texas, por ejemplo en High Island",
+   "season": "Visitante estival de abr a sep en el este; inverna en México y Centroamérica",
+   "order": "Apodiformes"
+  },
+  "lore": "Para los aztecas, los colibríes estaban vinculados a Huitzilopochtli, cuyo nombre significa 'colibrí del sur', y se creía que los guerreros caídos regresaban convertidos en colibríes.",
+  "funFact": "En vuelo, su corazón puede latir más de 1200 veces por minuto."
+ },
+ {
+  "scientific": "Selasphorus rufus",
+  "common": "Colibrí rufo",
+  "summary": "Un colibrí de un naranja encendido que realiza una de las migraciones más largas de cualquier ave en relación con su tamaño corporal: unos 6000 km entre Alaska y México. Es famoso por su agresividad en flores y comederos.",
+  "nativeRange": "Cría desde Oregón hasta el sur de Alaska; inverna principalmente en México, y cada vez más en la costa del golfo de Estados Unidos",
+  "biomes": [
+   "Bosque de coníferas",
+   "Pradera de montaña",
+   "Jardines"
+  ],
+  "abilities": [
+   "Migra unos 6000 km en un solo sentido, aproximadamente 78 millones de veces la longitud de su cuerpo",
+   "Sigue una ruta en bucle en el sentido de las agujas del reloj: hacia el norte por la costa del Pacífico y hacia el sur por las Rocosas, siguiendo la floración",
+   "Cría más al norte que cualquier otro colibrí",
+   "Recuerda flores concretas y cuándo las vació por última vez"
+  ],
+  "animal": {
+   "diet": "Néctar y pequeños insectos",
+   "habitat": "Bosque abierto de coníferas, praderas y jardines",
+   "lifespan": "Hasta unos 8 años",
+   "size": "7–9 cm; ~3–4 g",
+   "behaviour": "Los machos defienden con ferocidad sus parches de flores y ahuyentan a aves mucho mayores y a otros colibríes.",
+   "fieldMarks": [
+    "Colibrí pequeño de color naranja rojizo brillante",
+    "El macho tiene la garganta rojo anaranjada iridiscente y el dorso rojizo",
+    "La hembra es verde por encima, con los flancos y la base de la cola rojizos",
+    "Agresivo en flores y comederos"
+   ],
+   "voice": "Duros reclamos 'chiup'; las alas del macho adulto producen un trino metálico",
+   "lookalikes": "El colibrí de Allen es casi idéntico; los machos suelen tener el dorso verde, pero algunos machos de colibrí rufo también muestran verde, por lo que muchas hembras y jóvenes solo pueden identificarse en mano por la forma de las plumas de la cola.",
+   "whereToSee": "Bosques y jardines del noroeste del Pacífico y de Alaska; praderas de montaña de las Rocosas durante el paso otoñal",
+   "season": "Cría de mar a ago en el noroeste; se desplaza hacia el sur por las Rocosas de jul a sep",
+   "order": "Apodiformes"
+  },
+  "lore": "Fue descrito a partir de ejemplares de Nootka Sound, en la isla de Vancouver, durante los viajes de James Cook en 1778.",
+  "funFact": "Su población ha caído más de la mitad desde 1970, y la UICN la reclasificó como Casi Amenazada en 2018."
+ },
+ {
+  "scientific": "Calypte anna",
+  "common": "Colibrí de Anna",
+  "summary": "Un colibrí de cabeza rosada de la costa del Pacífico cuyo picado de cortejo es, en relación con la longitud de su cuerpo, uno de los movimientos más rápidos conocidos en cualquier vertebrado. Al final del picado, las plumas de su cola cantan.",
+  "nativeRange": "Oeste de Norteamérica, desde la Columbia Británica hasta Baja California y Arizona",
+  "biomes": [
+   "Chaparral",
+   "Jardines",
+   "Matorral costero",
+   "Bosque de robles"
+  ],
+  "abilities": [
+   "Su picado de exhibición alcanza ~385 veces la longitud de su cuerpo por segundo (Clark 2009)",
+   "Las plumas externas de la cola vibran y producen un fuerte chirrido al final del picado",
+   "Soporta unos 9 g de aceleración al salir del picado",
+   "Permanece todo el invierno en el norte, ayudado por los comederos de jardín y las plantas exóticas"
+  ],
+  "animal": {
+   "diet": "Néctar, insectos y savia de los orificios que abren los chupasavias",
+   "habitat": "Jardines, parques, chaparral y bosque abierto",
+   "lifespan": "Hasta unos 8 años",
+   "size": "10 cm; ~4–5 g",
+   "behaviour": "El macho asciende hasta 40 m y se lanza en un picado en forma de J junto a una hembra, que termina con un agudo chirrido de las plumas de la cola.",
+   "fieldMarks": [
+    "Colibrí de tamaño medio, verde por encima y grisáceo por debajo",
+    "El macho tiene el píleo y la garganta de un rosa intenso iridiscente",
+    "La hembra suele mostrar una pequeña mancha rosa en el centro de la garganta",
+    "Pico corto y recto"
+   ],
+   "voice": "El macho emite desde una percha un canto áspero y zumbante; el picado de exhibición termina con un fuerte chirrido producido por las plumas de la cola",
+   "lookalikes": "El colibrí de Costa es más pequeño, con el píleo morado y una mancha gular que se prolonga hacia los lados. El colibrí rufo y el de Allen son anaranjados.",
+   "whereToSee": "Jardines, parques y chaparral a lo largo de la costa del Pacífico, desde Vancouver hasta Baja California",
+   "season": "Residente; cría en invierno y primavera",
+   "order": "Apodiformes"
+  },
+  "lore": "Debe su nombre a Anna Masséna, duquesa de Rivoli, coleccionista francesa de ejemplares de colibríes del siglo XIX.",
+  "funFact": "Desde mediados del siglo XX su área de distribución se ha extendido hacia el norte, hasta Vancouver y más allá."
+ },
+ {
+  "scientific": "Mellisuga helenae",
+  "common": "Colibrí zunzuncito (pájaro mosca)",
+  "summary": "El ave más pequeña del mundo, de unos 5–6 cm de longitud y menos de 2 g, exclusiva de Cuba. Sus huevos tienen el tamaño de granos de café.",
+  "nativeRange": "Endémico de Cuba y la Isla de la Juventud",
+  "biomes": [
+   "Bosque tropical",
+   "Lindes de bosque",
+   "Matorral costero"
+  ],
+  "abilities": [
+   "Es el ave más pequeña del mundo, con un peso de unos 1,6–2 g",
+   "Tiene una de las tasas metabólicas más altas de cualquier animal de sangre caliente",
+   "Visita hasta 1500 flores en un día"
+  ],
+  "animal": {
+   "diet": "Néctar y pequeños insectos",
+   "habitat": "Bosques, lindes de bosque y jardines con plantas en flor",
+   "lifespan": "Alrededor de 7 años",
+   "size": "5–6 cm; 1,6–2 g",
+   "behaviour": "Las hembras construyen un nido en forma de copa de unos 2,5 cm de diámetro, tejido con telarañas, líquenes y corteza.",
+   "fieldMarks": [
+    "El ave más pequeña del mundo, de unos 5–6 cm",
+    "El macho reproductor tiene la cabeza y la garganta de un rojo rosado encendido e iridiscente, con largas plumas laterales",
+    "Partes superiores azuladas; la hembra es verde por encima y clara por debajo, con la cola de puntas blancas",
+    "Cola muy corta y cuerpo diminuto"
+   ],
+   "voice": "Un gorjeo agudo y desordenado, a menudo emitido desde la copa de un árbol",
+   "lookalikes": "El zunzún (esmeralda cubana) es mucho mayor, enteramente verde y con la cola ahorquillada.",
+   "whereToSee": "Ciénaga de Zapata, Cuba (por ejemplo, en los alrededores de Bermejas y Playa Larga); también el Parque Nacional Alejandro de Humboldt",
+   "season": "Residente; cría principalmente de mar a jun",
+   "order": "Apodiformes"
+  },
+  "lore": "Fue descrito en la década de 1840 a partir de ejemplares cubanos y aparece en sellos de Cuba; los cubanos lo llaman zunzuncito por su zumbido.",
+  "funFact": "Es más pequeño que algunas de las polillas que visitan sus mismas flores."
+ },
+ {
+  "scientific": "Falco peregrinus",
+  "common": "Halcón peregrino",
+  "summary": "El animal más rápido de la Tierra: supera los 320 km/h cuando se lanza en picado sobre sus presas. El DDT lo hizo desaparecer de gran parte de su área de distribución en la década de 1960, pero se ha recuperado y hoy anida en los rascacielos de las ciudades.",
+  "nativeRange": "Todos los continentes excepto la Antártida",
+  "biomes": [
+   "Acantilados",
+   "Costas",
+   "Tundra",
+   "Ciudades"
+  ],
+  "abilities": [
+   "Se lanza en picado a velocidades registradas de hasta unos 389 km/h",
+   "Unos tubérculos óseos en las narinas desvían el aire para que pueda respirar en los picados a gran velocidad",
+   "Las poblaciones que crían en el Ártico migran hasta ~25 000 km al año",
+   "Tiene un tercer párpado que le protege los ojos durante los picados"
+  ],
+  "animal": {
+   "diet": "Principalmente aves capturadas en vuelo, como palomas, patos y limícolas",
+   "habitat": "Acantilados, costas, campo abierto y edificios altos en las ciudades",
+   "lifespan": "Hasta unos 15–20 años",
+   "size": "34–58 cm; envergadura de 74–120 cm",
+   "behaviour": "Se eleva muy por encima de la presa, pliega las alas y se deja caer en un picado vertiginoso, golpeándola con las garras cerradas.",
+   "fieldMarks": [
+    "Halcón robusto de alas largas y puntiagudas y cola mediana",
+    "El adulto es gris azulado por encima, con un 'casco' oscuro y una ancha bigotera",
+    "Partes inferiores claras con un fino barrado",
+    "Los jóvenes son pardos por encima, con las partes inferiores listadas"
+   ],
+   "voice": "Un 'kak-kak-kak' áspero y rasposo cerca del nido",
+   "lookalikes": "El halcón mexicano es pardo claro, con las 'axilas' oscuras. El halcón borní tiene el píleo rojizo y una bigotera más fina. El halcón gerifalte es más corpulento y de alas más anchas. El alcotán europeo es más pequeño, con los 'calzones' rojizos.",
+   "whereToSee": "Acantilados marinos y edificios urbanos; muchos nidos urbanos cuentan con cámaras web públicas (por ejemplo, la catedral de Derby, Reino Unido); migrantes en Cape May y Falsterbo",
+   "season": "Residente en gran parte de su área de distribución; las poblaciones que crían en el Ártico realizan largas migraciones",
+   "order": "Falconiformes"
+  },
+  "lore": "Muy apreciado en cetrería desde Mongolia hasta el mundo árabe; el Boke of St Albans, del siglo XV, lo asignaba a los condes. Su desplome a causa de las cáscaras de huevo adelgazadas por el DDT contribuyó a la prohibición del DDT en Estados Unidos en 1972.",
+  "funFact": "Su nombre significa 'viajero' o 'errante', porque los halconeros capturaban a los jóvenes durante la migración en lugar de sacarlos de los nidos."
+ },
+ {
+  "scientific": "Haliaeetus leucocephalus",
+  "common": "Pigargo americano (águila calva)",
+  "summary": "Un pigargo de Norteamérica, ave nacional de Estados Unidos. Construye los nidos más grandes de cualquier ave norteamericana, que utiliza y amplía durante décadas.",
+  "nativeRange": "Gran parte de Norteamérica, desde Alaska y Canadá hasta el norte de México",
+  "biomes": [
+   "Lagos",
+   "Ríos",
+   "Costas",
+   "Bosque"
+  ],
+  "abilities": [
+   "Construye nidos de hasta ~3 m de ancho y más de una tonelada de peso",
+   "Atrapa peces de la superficie del agua con las garras",
+   "Roba presas a águilas pescadoras y otras aves (cleptoparasitismo)",
+   "Se congrega por miles junto a los ríos con salmones en invierno"
+  ],
+  "animal": {
+   "diet": "Principalmente peces; también aves acuáticas y carroña",
+   "habitat": "Cerca de grandes masas de agua con árboles altos",
+   "lifespan": "Alrededor de 20 años en libertad; récord de unos 38",
+   "size": "70–102 cm; envergadura de 1,8–2,3 m",
+   "behaviour": "Las parejas realizan vuelos nupciales en voltereta: entrelazan las garras y descienden girando juntas.",
+   "fieldMarks": [
+    "El adulto tiene la cabeza y la cola blancas y el cuerpo pardo oscuro",
+    "Enorme pico amarillo y ganchudo",
+    "Los jóvenes presentan un moteado pardo y blanco durante 4–5 años",
+    "Alas planas, como tablones, al planear"
+   ],
+   "voice": "Un parloteo débil y agudo, sorprendente para su tamaño",
+   "lookalikes": "El águila real (frente al pigargo americano joven) tiene la nuca dorada, la cabeza y el pico más pequeños y las patas emplumadas hasta los dedos; las águilas reales jóvenes muestran manchas alares blancas bien definidas y la base de la cola blanca, no un moteado irregular.",
+   "whereToSee": "Reserva de Pigargos de Chilkat, cerca de Haines (Alaska); presa de Conowingo (Maryland); esclusas y presas del río Misisipi en invierno",
+   "season": "Residente en muchas zonas; grandes concentraciones invernales de nov a feb en aguas libres de hielo y remontes de salmón",
+   "order": "Accipitriformes"
+  },
+  "lore": "Sagrado para muchas naciones nativas americanas, sus plumas son centrales en sus ceremonias y su uso tribal está regulado por la ley estadounidense. Se convirtió en emblema nacional en 1782, y su recuperación tras el DDT permitió retirarlo de la lista de especies en peligro en 2007.",
+  "funFact": "El nombre inglés 'bald' procede de un antiguo sentido de 'piebald', es decir, de cabeza blanca, no 'sin pelo'."
+ },
+ {
+  "scientific": "Aquila chrysaetos",
+  "common": "Águila real",
+  "summary": "El águila más extendida del mundo, presente en todo el hemisferio norte. Los cazadores kazajos de Mongolia aún vuelan hembras adiestradas para cazar zorros.",
+  "nativeRange": "Norteamérica, Europa, norte de África y Asia",
+  "biomes": [
+   "Montañas",
+   "Estepa",
+   "Tundra",
+   "Páramo abierto"
+  ],
+  "abilities": [
+   "Captura presas tan grandes como crías de ciervo y zorros",
+   "Puede lanzarse en picado a unos 240 km/h",
+   "Su vista es varias veces más aguda que la humana",
+   "Sus territorios pueden superar los 100 km²"
+  ],
+  "animal": {
+   "diet": "Liebres, conejos, marmotas, ardillas terrestres, aves; carroña en invierno",
+   "habitat": "Montañas abiertas, estepas y páramos",
+   "lifespan": "Alrededor de 20–30 años en libertad",
+   "size": "66–102 cm; envergadura de 1,8–2,3 m",
+   "behaviour": "Las parejas realizan vuelos ondulantes de 'danza aérea', subiendo y cayendo en picado sobre su territorio.",
+   "fieldMarks": [
+    "Águila muy grande, pardo oscura, con la nuca de color ocre dorado",
+    "Patas emplumadas hasta los dedos",
+    "Los juveniles tienen manchas blancas en las alas y la base de la cola blanca con la punta oscura",
+    "Planea con las alas en una V poco marcada"
+   ],
+   "voice": "Generalmente silenciosa; ocasionalmente emite gañidos o maullidos",
+   "lookalikes": "Los pigargos americanos jóvenes tienen la cabeza y el pico más grandes, la parte inferior de las patas desnuda y un moteado blanco irregular. El pigargo europeo tiene un pico enorme, una cola corta en forma de cuña y unas alas anchas 'como puertas'.",
+   "whereToSee": "Tierras Altas e islas de Escocia (por ejemplo, Mull, Cairngorms), los Alpes, Denali y las montañas del oeste de Norteamérica",
+   "season": "Residente en la mayor parte de su área de distribución; las aves del norte se desplazan al sur en invierno",
+   "order": "Accipitriformes"
+  },
+  "lore": "Los berkutchi kazajos cazan con águilas reales desde hace siglos, una tradición que se celebra en el Festival anual del Águila Real de Bayan-Ölgii. Es el ave nacional de México, Alemania, Albania y Kazajistán.",
+  "funFact": "Los cazadores kazajos con águila han utilizado águilas reales adiestradas para capturar lobos."
+ },
+ {
+  "scientific": "Aptenodytes forsteri",
+  "common": "Pingüino emperador",
+  "summary": "El pingüino más grande y el único animal que cría sobre el hielo marino antártico durante el invierno polar. Los machos incuban un único huevo sobre las patas durante unos dos meses sin comer.",
+  "nativeRange": "Costa y hielo marino de la Antártida",
+  "biomes": [
+   "Hielo marino",
+   "Océano Austral"
+  ],
+  "abilities": [
+   "Bucea a más de 500 m (récord de 564 m) y aguanta la respiración más de 27 minutos",
+   "Los machos ayunan hasta ~115 días durante el cortejo y la incubación",
+   "Los grupos apiñados de miles de individuos rotan para que cada ave pase por turnos por el centro cálido",
+   "Sobrevive a temperaturas inferiores a −40 °C y a vientos de más de 140 km/h"
+  ],
+  "animal": {
+   "diet": "Peces, kril y calamares",
+   "habitat": "Hielo fijo alrededor de la Antártida; se alimenta en aguas abiertas",
+   "lifespan": "Alrededor de 20 años",
+   "size": "Hasta 1,2–1,3 m; 22–45 kg",
+   "behaviour": "En la oscuridad del invierno, los machos se apiñan en masas compactas y se van desplazando para que ninguno permanezca mucho tiempo en el borde frío.",
+   "fieldMarks": [
+    "El pingüino más grande, de hasta unos 1,2 m de altura",
+    "Cabeza y dorso negros, vientre blanco",
+    "Manchas auriculares amarillo pálido que se difuminan en la parte alta del pecho, blanquecina",
+    "Franja de color naranja rosado en la mandíbula inferior"
+   ],
+   "voice": "Fuertes reclamos de contacto, como de trompeta; la llamada de cada ave es reconocible individualmente",
+   "lookalikes": "El pingüino rey es más pequeño y esbelto, con manchas auriculares de un naranja intenso en forma de coma, rodeadas de negro.",
+   "whereToSee": "Colonia de la isla Snow Hill, en el mar de Weddell (en rompehielos y helicóptero), y la bahía de Atka; rara vez accesible para turistas",
+   "season": "Cría durante el invierno antártico; los polluelos son visibles de oct a dic",
+   "order": "Sphenisciformes"
+  },
+  "lore": "En 1911, Edward Wilson, Apsley Cherry-Garrard y Henry Bowers realizaron 'the worst journey in the world' (el peor viaje del mundo) en pleno invierno antártico para recoger huevos de pingüino emperador en el cabo Crozier.",
+  "funFact": "Las imágenes de satélite de las manchas marrones de guano sobre el hielo han revelado colonias hasta entonces desconocidas."
+ },
+ {
+  "scientific": "Apteryx mantelli",
+  "common": "Kiwi pardo de la isla Norte",
+  "summary": "Un ave no voladora y nocturna de Nueva Zelanda que caza con las narinas situadas en la punta de su largo pico. Las hembras ponen un huevo de alrededor de una quinta parte de su propio peso, uno de los mayores en relación con el tamaño corporal de cualquier ave.",
+  "nativeRange": "Isla Norte de Nueva Zelanda",
+  "biomes": [
+   "Selva templada",
+   "Matorral",
+   "Plantación forestal"
+  ],
+  "abilities": [
+   "Es la única ave con las narinas en la punta del pico, con las que huele presas bajo tierra",
+   "Unas fosetas sensoriales en la punta del pico detectan las vibraciones de los invertebrados",
+   "El huevo pesa alrededor del 15–20 % del peso de la madre",
+   "Tiene una temperatura corporal más baja que la mayoría de las aves, de unos 38 °C",
+   "Plumas parecidas a pelos y alas vestigiales diminutas"
+  ],
+  "animal": {
+   "diet": "Lombrices de tierra, larvas de escarabajo, cigarras, arañas y fruta caída",
+   "habitat": "Bosque nativo y exótico, matorral y lindes de tierras de cultivo",
+   "lifespan": "Alrededor de 30–40 años o más",
+   "size": "Unos 40 cm; 2–3,5 kg",
+   "behaviour": "Las parejas defienden sus territorios por la noche con reclamos estridentes, y el macho incuba el huevo durante unos tres meses.",
+   "fieldMarks": [
+    "Ave no voladora con forma de pera, sin alas ni cola visibles",
+    "Plumaje desgreñado y listado, de color pardo rojizo",
+    "Pico largo, claro y ligeramente curvo, con las narinas en la punta",
+    "Nocturno; sondea el suelo"
+   ],
+   "voice": "El macho emite un silbido agudo y ascendente repetido muchas veces; la hembra, un grito más grave y ronco",
+   "lookalikes": "Es el único kiwi silvestre en la mayor parte de la isla Norte; el kiwi moteado menor (en algunas islas y santuarios vallados) es más pequeño y gris pálido, con un fino moteado.",
+   "whereToSee": "Paseos nocturnos en el Trounson Kauri Park (Northland); casas de kiwis nocturnas como la Otorohanga Kiwi House",
+   "season": "Residente",
+   "order": "Apterygiformes"
+  },
+  "lore": "Los kiwis son un taonga (tesoro) para los maoríes, y las capas de plumas de kiwi (kahu kiwi) las llevaban personas de alto rango. El ave dio a los neozelandeses su apodo.",
+  "funFact": "Sin control de depredadores, alrededor del 95 % de los polluelos de kiwi mueren antes de alcanzar la edad reproductora, sobre todo a manos de armiños y gatos."
+ },
+ {
+  "scientific": "Struthio camelus",
+  "common": "Avestruz común",
+  "summary": "El ave viva más grande, de hasta unos 2,7 m de altura, y el corredor bípedo más rápido. Pone los huevos más grandes de todas las aves actuales.",
+  "nativeRange": "África subsahariana; antiguamente el norte de África y Oriente Medio",
+  "biomes": [
+   "Sabana",
+   "Semidesierto",
+   "Pastizal"
+  ],
+  "abilities": [
+   "Corre a unos 70 km/h, con zancadas de hasta 5 m",
+   "Pone huevos de unos 15 cm de longitud y 1,4 kg",
+   "Tiene los ojos más grandes de cualquier vertebrado terrestre, de unos 5 cm de diámetro",
+   "Solo tiene dos dedos, una adaptación a la carrera",
+   "Una patada hacia delante puede matar a un león"
+  ],
+  "animal": {
+   "diet": "Plantas, semillas y raíces; también insectos y animales pequeños",
+   "habitat": "Sabana abierta, semidesierto y pastizal",
+   "lifespan": "30–40 años en libertad",
+   "size": "Hasta 2,7 m de altura; 63–145 kg",
+   "behaviour": "Varias hembras ponen en un mismo nido compartido; la hembra dominante y el macho se turnan para incubar, él de noche y ella de día.",
+   "fieldMarks": [
+    "El ave más alta, no voladora, con el cuello y las patas largos y desnudos",
+    "Machos negros con alas y cola blancas; hembras de color pardo grisáceo",
+    "Cuello y patas del macho rosados, que se vuelven rojos en las espinillas durante la época de cría",
+    "Dos dedos en cada pata"
+   ],
+   "voice": "Los machos reproductores emiten un rugido grave y retumbante",
+   "lookalikes": "El avestruz somalí (especie aparte del Cuerno de África) tiene la piel del cuello y los muslos de color gris azulado. Los avestruces patean con fuerza; obsérvelos desde un vehículo o a distancia.",
+   "whereToSee": "Etosha (Namibia), Masái Mara y Serengueti, y el sector del cabo de Buena Esperanza del Parque Nacional de Table Mountain",
+   "season": "Residente",
+   "order": "Struthioniformes"
+  },
+  "lore": "En el abrigo rocoso de Diepkloof, en Sudáfrica, hace unos 60 000 años, se grabaron cáscaras de huevo de avestruz, que los pueblos san utilizaban como cantimploras y cuentas. Las plumas de avestruz causaron furor en la moda de la Europa eduardiana.",
+  "funFact": "La historia de que los avestruces esconden la cabeza en la arena es un mito, quizá surgido al verlos girar los huevos en sus nidos excavados en el suelo."
+ },
+ {
+  "scientific": "Diomedea exulans",
+  "common": "Albatros viajero",
+  "summary": "El ave viva con mayor envergadura, de hasta unos 3,5 m. Puede dar la vuelta al océano Austral y recorrer miles de kilómetros casi sin batir las alas.",
+  "nativeRange": "Océano Austral; cría en las islas Georgia del Sur, Crozet, Kerguelen, Príncipe Eduardo y Macquarie",
+  "biomes": [
+   "Océano abierto",
+   "Islas subantárticas"
+  ],
+  "abilities": [
+   "Envergadura de hasta ~3,5 m, la mayor de cualquier ave viva",
+   "Vuelo dinámico: aprovecha la energía de los gradientes de viento sobre las olas",
+   "Un bloqueo del hombro mantiene las alas extendidas con poco esfuerzo muscular",
+   "Puede recorrer más de 10 000 km en un solo viaje de alimentación",
+   "Huele presas y manchas oleosas desde muy lejos gracias a sus narinas tubulares"
+  ],
+  "animal": {
+   "diet": "Calamares, peces y carroña capturados en la superficie",
+   "habitat": "Océano abierto; anida en islas subantárticas cubiertas de hierba",
+   "lifespan": "Más de 50 años",
+   "size": "1,07–1,35 m de longitud; 6–12 kg",
+   "behaviour": "Las parejas se unen de por vida tras años de elaboradas danzas con alas desplegadas y castañeteo de picos, y crían un pollo cada dos años.",
+   "fieldMarks": [
+    "Envergadura enorme, a menudo de 2,5–3,5 m",
+    "Los machos adultos son los más blancos de los grandes albatros, con negro solo en las puntas y el borde posterior de las alas",
+    "Pico grande y rosado",
+    "Juveniles de color pardo chocolate con la cara blanca, que van blanqueando a lo largo de muchos años"
+   ],
+   "voice": "En el nido: rebuznos, chillidos, silbidos y fuerte castañeteo de picos durante las danzas de cortejo",
+   "lookalikes": "Los albatros reales tienen el borde cortante de la mandíbula superior negro; en los adultos, la cara superior del ala blanquea desde el borde de ataque hacia atrás, no desde el centro. Otros albatros del 'grupo viajero' (de Tristán, de las Antípodas, de Ámsterdam) son más pardos.",
+   "whereToSee": "Isla Prion, Georgia del Sur (pasarela, desembarcos de cruceros); en el mar, en el paso de Drake y el océano Austral",
+   "season": "Pone de dic a principios de ene; los pollos permanecen en el nido durante el invierno austral. La isla Prion está cerrada del 20 nov al 7 ene",
+   "order": "Procellariiformes"
+  },
+  "lore": "En 'Rime of the Ancient Mariner' (La balada del viejo marinero, 1798), de Coleridge, matar a un albatros atrae una maldición sobre el barco. Durante mucho tiempo los marineros creyeron que los albatros llevaban las almas de los marinos ahogados.",
+  "funFact": "Decenas de miles de albatros han muerto ahogados en los anzuelos de la pesca con palangre, la principal amenaza para la especie."
+ },
+ {
+  "scientific": "Sterna paradisaea",
+  "common": "Charrán ártico",
+  "summary": "El ave con la migración más larga conocida: vuela cada año desde sus zonas de cría árticas hasta la Antártida y regresa. Probablemente ve más horas de luz que cualquier otro animal.",
+  "nativeRange": "Cría en las regiones árticas y subárticas; inverna en aguas antárticas",
+  "biomes": [
+   "Tundra",
+   "Costas",
+   "Océano abierto",
+   "Banquisa"
+  ],
+  "abilities": [
+   "Migración de ida y vuelta de unos ~70 000 km anuales de media, hasta ~96 000 km",
+   "Lo que recorre en toda su vida puede equivaler a unos tres viajes de ida y vuelta a la Luna",
+   "Sigue rutas en forma de S para aprovechar los vientos dominantes sobre los océanos",
+   "Se zambulle en picado para capturar peces pequeños",
+   "Acosa con ferocidad a los intrusos en los nidos, incluidos los humanos"
+  ],
+  "animal": {
+   "diet": "Peces pequeños y crustáceos",
+   "habitat": "Tundra costera, islas y océano abierto",
+   "lifespan": "Más de 30 años",
+   "size": "33–36 cm; envergadura de 76–85 cm",
+   "behaviour": "Vive dos veranos cada año, siguiendo al sol de un polo al otro.",
+   "fieldMarks": [
+    "Charrán esbelto, gris y blanco, con capirote negro",
+    "Pico enteramente rojo, sin punta oscura",
+    "Patas rojas muy cortas",
+    "Largas rectrices externas y plumas de vuelo translúcidas vistas desde abajo"
+   ],
+   "voice": "Un 'kii-arr' áspero y agudo y reclamos de alarma como matracas; se lanza en picado sobre los intrusos en las colonias",
+   "lookalikes": "El charrán común tiene el pico rojo anaranjado con la punta negra, las patas más largas, una cuña más oscura en la parte externa del ala y las rectrices externas más cortas.",
+   "whereToSee": "Islas Farne, Northumberland (lleve sombrero: las aves golpean la cabeza), Islandia y las Shetland",
+   "season": "Colonias septentrionales de may a ago; inverna en aguas antárticas",
+   "order": "Charadriiformes"
+  },
+  "lore": "El seguimiento realizado en 2010 por Carsten Egevang y sus colegas con geolocalizadores de 1,4 g permitió cartografiar por primera vez su migración completa. En Islandia y Groenlandia sus huevos se recolectaban tradicionalmente.",
+  "funFact": "Un charrán anillado de pollo en Gran Bretaña fue hallado en Australia, a más de 22 000 km, al cabo de pocos meses."
+ },
+ {
+  "scientific": "Bubo scandiacus",
+  "common": "Búho nival",
+  "summary": "Un gran búho blanco de la tundra ártica que caza de día bajo la luz continua del verano polar. Su número y su reproducción suben y bajan con los ciclos de los lemmings.",
+  "nativeRange": "Ártico circumpolar; en invierno llega al sur hasta Canadá, el norte de Estados Unidos, Europa y Asia",
+  "biomes": [
+   "Tundra",
+   "Pastizal abierto",
+   "Costas"
+  ],
+  "abilities": [
+   "Caza con luz diurna las 24 horas, a diferencia de la mayoría de los búhos",
+   "Su denso plumaje, incluso en los dedos, lo aísla frente a −50 °C",
+   "Nómada: se desplaza grandes distancias para criar donde abundan los lemmings",
+   "El tamaño de la puesta varía de 0 a más de 10 huevos según las presas",
+   "Periódicamente realiza 'irrupciones' muy al sur en invierno"
+  ],
+  "animal": {
+   "diet": "Lemmings y topillos; también liebres, aves y peces",
+   "habitat": "Tundra abierta; inverna en praderas, costas y aeródromos",
+   "lifespan": "Alrededor de 10 años en libertad",
+   "size": "52–71 cm; envergadura de 1,25–1,5 m",
+   "behaviour": "Un adulto puede comer más de 1600 lemmings al año.",
+   "fieldMarks": [
+    "Búho grande y blanco de ojos amarillos",
+    "Los machos adultos son casi enteramente blancos",
+    "Hembras y jóvenes densamente barrados de negro",
+    "Cabeza redonda sin penachos visibles"
+   ],
+   "voice": "En las zonas de cría, los machos emiten un ulular grave y retumbante; normalmente silencioso en invierno",
+   "lookalikes": "La lechuza común es más pequeña, con el disco facial en forma de corazón, los ojos oscuros y las partes superiores de color ocre dorado.",
+   "whereToSee": "Boundary Bay (Columbia Británica) y la isla Amherst (Ontario) en invierno; tundra cerca de Utqiaġvik (Alaska) en verano",
+   "season": "Cría en la tundra; visitante invernal más al sur de nov a mar, con grandes irrupciones algunos años",
+   "order": "Strigiformes"
+  },
+  "lore": "Su imagen aparece en el arte paleolítico de la cueva de Trois-Frères, en Francia, y es el ave oficial de Quebec. Hedwig, de las historias de Harry Potter, lo hizo famoso en todo el mundo.",
+  "funFact": "Los machos adultos se vuelven más blancos con la edad, y algunos machos viejos son casi completamente blancos."
+ },
+ {
+  "scientific": "Strigops habroptila",
+  "common": "Kakapo",
+  "summary": "El único loro no volador del mundo y el loro más pesado, un ave nocturna de color verde musgo de Nueva Zelanda. Cada individuo superviviente tiene nombre y está estrechamente vigilado.",
+  "nativeRange": "Nueva Zelanda; hoy solo sobrevive en islas libres de depredadores como Whenua Hou y la isla Anchor",
+  "biomes": [
+   "Selva templada",
+   "Matorral"
+  ],
+  "abilities": [
+   "Es el loro más pesado, de hasta ~4 kg",
+   "Los machos emiten un 'retumbo' que puede oírse a varios kilómetros",
+   "Solo cría en los años en que los rimus fructifican en abundancia",
+   "Puede vivir 60–90 años, entre las aves más longevas",
+   "Trepa a los árboles y desciende planeando con sus cortas alas"
+  ],
+  "animal": {
+   "diet": "Hojas, brotes, semillas, frutos y polen; fruto del rimu en los años de cría",
+   "habitat": "Bosque y matorral nativos en islas libres de depredadores",
+   "lifespan": "Se estima en 60–90 años",
+   "size": "58–64 cm; machos de 2–4 kg",
+   "behaviour": "Los machos se reúnen en leks y excavan hoyos en forma de cuenco desde los que retumban cada noche durante meses para atraer a las hembras.",
+   "fieldMarks": [
+    "Loro grande, no volador, verde musgo con un fino barrado negro y amarillo",
+    "Disco facial de plumas como bigotes, parecido al de un búho",
+    "Pico gris y robusto",
+    "Nocturno; trepa a los árboles y camina"
+   ],
+   "voice": "Los machos emiten un 'retumbo' grave y resonante que se oye a kilómetros, seguido de un 'ching' metálico",
+   "lookalikes": "El kea y el kaka son loros voladores; el kea es verde oliva con la cara inferior de las alas naranja y vive en las montañas.",
+   "whereToSee": "Sus islas de cría libres de depredadores están cerradas al público",
+   "season": "Solo cría en los años en que los rimus fructifican en abundancia; los machos retumban en verano (aprox. dic–mar) de esos años",
+   "order": "Psittaciformes"
+  },
+  "lore": "Los maoríes cazaban kakapos para alimentarse y confeccionaban capas de plumas (kahu kākāpō). En 1995 solo quedaban 51 aves; desde entonces, un programa nacional de recuperación ha multiplicado la población por más de cuatro.",
+  "funFact": "Un macho llamado Sirocco se hizo famoso en 2009 por intentar aparearse con la cabeza de un zoólogo ante las cámaras de televisión."
+ },
+ {
+  "scientific": "Menura novaehollandiae",
+  "common": "Ave lira soberbia",
+  "summary": "Un ave canora del tamaño de un faisán del sureste de Australia y uno de los mayores imitadores vocales de la Tierra. Los machos copian los cantos de decenas de otras especies y, en ocasiones, sonidos de origen humano.",
+  "nativeRange": "Sureste de Australia; introducida en Tasmania",
+  "biomes": [
+   "Selva templada",
+   "Bosque de eucaliptos"
+  ],
+  "abilities": [
+   "Imita los cantos de muchas otras aves con una precisión casi perfecta",
+   "Se la ha grabado imitando obturadores de cámaras, motosierras y alarmas de coche",
+   "Los machos coreografían sus cantos con movimientos de danza concretos",
+   "Remueve enormes volúmenes de hojarasca, por lo que es un importante ingeniero del ecosistema"
+  ],
+  "animal": {
+   "diet": "Lombrices de tierra, insectos, arañas y otros invertebrados del suelo del bosque",
+   "habitat": "Bosques húmedos y barrancos",
+   "lifespan": "Hasta unos 30 años",
+   "size": "Machos de hasta ~1 m, cola incluida",
+   "behaviour": "Los machos cantan sobre montículos despejados y despliegan sobre la cabeza su cola en forma de lira en una exhibición resplandeciente.",
+   "fieldMarks": [
+    "Ave terrestre parda del tamaño de un faisán",
+    "Los machos tienen una cola larga de 16 plumas, incluidas dos plumas externas en forma de lira",
+    "Las hembras tienen una cola larga y más sencilla",
+    "Patas fuertes; escarba la hojarasca"
+   ],
+   "voice": "Canto fuerte y potente, lleno de imitaciones casi perfectas de otras aves y a veces de sonidos mecánicos, mezcladas con sus propios reclamos sonoros",
+   "lookalikes": "El ave lira de Alberto, de las selvas de la frontera entre Nueva Gales del Sur y Queensland, es más rojiza y los machos carecen de las plumas externas de la cola en forma de lira.",
+   "whereToSee": "Bosque de Sherbrooke (cordillera de Dandenong), cerca de Melbourne; las Montañas Azules y el Parque Nacional Real, cerca de Sídney",
+   "season": "Residente; la mayor parte del canto y las exhibiciones tiene lugar en invierno (jun–ago)",
+   "order": "Passeriformes"
+  },
+  "lore": "Aparece en el reverso de la moneda australiana de 10 centavos. Se dice que una población de aves lira del Parque Nacional de New England canta una melodía de flauta enseñada a aves cautivas en la década de 1930.",
+  "funFact": "Una sola ave lira puede remover unas 155 toneladas de tierra y hojarasca por hectárea al año."
+ },
+ {
+  "scientific": "Pharomachrus mocinno",
+  "common": "Quetzal guatemalteco (quetzal mesoamericano)",
+  "summary": "Un trogón de verde iridiscente de los bosques nubosos de Centroamérica cuyos machos reproductores desarrollan unas plumas cobertoras de la cola de hasta unos 65 cm, de modo que el ave alcanza cerca de 1 m de longitud. Fue sagrado para mayas y aztecas y es el ave nacional de Guatemala.",
+  "nativeRange": "Bosques nubosos desde el sur de México hasta el oeste de Panamá",
+  "biomes": [
+   "Bosque nuboso montano"
+  ],
+  "abilities": [
+   "Los machos desarrollan largas cobertoras caudales más largas que su cuerpo",
+   "Traga enteros los aguacates silvestres y regurgita los huesos, dispersando las semillas de lauráceas",
+   "Su verde es un color estructural que cambia del dorado al azul",
+   "Realiza migraciones altitudinales siguiendo a los árboles en fruto"
+  ],
+  "animal": {
+   "diet": "Frutos, sobre todo aguacates silvestres (lauráceas); también insectos y ranas pequeñas",
+   "habitat": "Bosque nuboso montano húmedo",
+   "size": "36–40 cm, más las plumas caudales del macho de hasta ~65 cm",
+   "behaviour": "Las parejas anidan en huecos de árboles podridos; la cola del macho suele asomar por la entrada mientras incuba.",
+   "fieldMarks": [
+    "Macho de un verde esmeralda brillante con el vientre carmesí",
+    "Largas plumas caudales verdes del macho, de hasta unos 65 cm",
+    "Cresta en forma de casco y pico amarillo",
+    "Hembra de un verde más apagado, con el pecho gris y sin plumas largas en la cola"
+   ],
+   "voice": "Un «kiou» suave y repetido y un «ki-u» silbado",
+   "lookalikes": "El quetzal cabecidorado vive solo en Sudamérica. Los trogones de los mismos bosques son más pequeños y carecen de plumas caudales largas.",
+   "whereToSee": "Monteverde y San Gerardo de Dota (Costa Rica) y los bosques nubosos de las Verapaces (Guatemala)",
+   "season": "Residente; más fácil de ver durante la reproducción, de marzo a junio, a menudo cerca de aguacates silvestres (lauráceas)",
+   "order": "Trogoniformes"
+  },
+  "lore": "Sus plumas estaban reservadas a la nobleza y los sacerdotes mayas y aztecas, y el dios Quetzalcóatl era la «serpiente emplumada». La moneda de Guatemala es el quetzal.",
+  "funFact": "Según la leyenda, el pecho rojo del quetzal quedó teñido con la sangre del héroe quiché Tecún Umán."
+ },
+ {
+  "scientific": "Ara macao",
+  "common": "Guacamayo macao (guacamaya roja)",
+  "summary": "Un gran loro rojo, amarillo y azul de los bosques tropicales de América. En la Amazonia se congrega en las colpas de arcilla de las orillas de los ríos para comer tierra.",
+  "nativeRange": "Desde el sur de México, a través de Centroamérica, hasta la cuenca del Amazonas",
+  "biomes": [
+   "Selva tropical",
+   "Bosque de galería",
+   "Sabana arbolada"
+  ],
+  "abilities": [
+   "Su pico parte nueces y semillas extremadamente duras",
+   "Come arcilla de las orillas de los ríos, posiblemente para obtener sodio y neutralizar toxinas vegetales",
+   "Vuela a unos 55 km/h",
+   "Puede vivir más de 40 años y forma parejas de por vida"
+  ],
+  "animal": {
+   "diet": "Semillas, nueces, frutos, flores y néctar",
+   "habitat": "Bosque húmedo de tierras bajas, sobre todo cerca de ríos",
+   "lifespan": "40–50 años; más en cautividad",
+   "size": "81–96 cm incluida la cola; ~1 kg",
+   "behaviour": "Las parejas vuelan ala con ala y al amanecer se reúnen en bandadas ruidosas en las colpas.",
+   "fieldMarks": [
+    "Gran loro escarlata con una cola larguísima y puntiaguda",
+    "Banda amarilla en la parte superior del ala y plumas de vuelo azules",
+    "Piel facial desnuda y blanca",
+    "Mandíbula superior clara"
+   ],
+   "voice": "Chillidos fuertes, ásperos y de largo alcance, a menudo emitidos en vuelo",
+   "lookalikes": "El guacamayo aliverde tiene las cobertoras alares verdes en lugar de amarillas y líneas de diminutas plumas rojas en la cara blanca.",
+   "whereToSee": "Colpas de Tambopata (Perú); Parque Nacional Carara y península de Osa (Costa Rica)",
+   "season": "Residente",
+   "order": "Psittaciformes"
+  },
+  "lore": "Hacia 900–1150 d. C. se comerciaban guacamayos macao vivos desde México hacia el norte, hasta los ancestrales pueblo del cañón del Chaco, por sus plumas. Es el ave nacional de Honduras.",
+  "funFact": "Los esqueletos de guacamayos hallados en Pueblo Bonito indican que hace mil años estas aves se mantenían muy lejos de su área de distribución natural."
+ },
+ {
+  "scientific": "Corvus corax",
+  "common": "Cuervo grande",
+  "summary": "El mayor de los paseriformes, un córvido completamente negro cuya capacidad para resolver problemas rivaliza con la de los grandes simios. Vive en todo el hemisferio norte, desde los desiertos hasta el Ártico.",
+  "nativeRange": "Hemisferio norte: Norteamérica, Europa, Asia y norte de África",
+  "biomes": [
+   "Montañas",
+   "Tundra",
+   "Desierto",
+   "Bosque",
+   "Costas"
+  ],
+  "abilities": [
+   "Planifica a futuro y guarda herramientas para usarlas más tarde (Kabadayi y Osvath, 2017)",
+   "Esconde comida y la vuelve a ocultar si lo observan sus rivales",
+   "Imita el habla humana y otros sonidos",
+   "Se asocia con lobos y cazadores humanos para aprovechar los restos de sus presas",
+   "Juega; por ejemplo, se desliza por tejados nevados"
+  ],
+  "animal": {
+   "diet": "Omnívoro: carroña, pequeños animales, huevos, grano y desperdicios",
+   "habitat": "Casi cualquier hábitat abierto o arbolado",
+   "lifespan": "10–15 años en libertad; más de 40 en cautividad",
+   "size": "54–67 cm; envergadura de hasta 1,5 m",
+   "behaviour": "En invierno, los cuervos jóvenes se reúnen en dormideros y comparten información sobre las fuentes de alimento.",
+   "fieldMarks": [
+    "Ave completamente negra y brillante, parecida a una corneja pero mucho mayor",
+    "Pico grueso y alto",
+    "Plumas de la garganta hirsutas",
+    "Cola en forma de cuña en vuelo; a menudo planea y hace piruetas"
+   ],
+   "voice": "Un graznido grave y resonante, «prruk», además de una gran variedad de golpeteos y gorgoteos",
+   "lookalikes": "La corneja negra y el cuervo americano son más pequeños, con el pico más fino, la cola cuadrada y reclamos tipo «cra»; rara vez planean.",
+   "whereToSee": "Acantilados de montaña y costeros (p. ej., Snowdonia, Gales); Yellowstone; un grupo cautivo en la Torre de Londres",
+   "season": "Residente",
+   "order": "Passeriformes"
+  },
+  "lore": "Los cuervos de Odín, Huginn y Muninn («pensamiento» y «memoria»), sobrevolaban el mundo para traerle noticias, y Cuervo es el embaucador creador que liberó el sol en los relatos haida y tlingit. Según la leyenda, Gran Bretaña caerá si los cuervos de la Torre de Londres se marchan.",
+  "funFact": "En el Génesis, Noé suelta un cuervo antes que la paloma."
+ },
+ {
+  "scientific": "Phoenicopterus roseus",
+  "common": "Flamenco común",
+  "summary": "El flamenco más grande y más extendido, que se congrega por decenas de miles en lagos salados y lagunas. Su color rosa procede de los pigmentos carotenoides de las algas y crustáceos que come.",
+  "nativeRange": "África, el Mediterráneo, Oriente Medio y el sur de Asia",
+  "biomes": [
+   "Lagos salados",
+   "Lagunas",
+   "Llanuras de fango",
+   "Salinas"
+  ],
+  "abilities": [
+   "Se alimenta por filtración con la cabeza invertida, bombeando agua a través de las laminillas del pico",
+   "Tolera lagos muy salinos y alcalinos",
+   "Se vuelve rosa por los carotenoides de la dieta, como la cantaxantina",
+   "En época de cría se frota en las plumas el pigmento del aceite de la glándula uropigia a modo de «maquillaje»",
+   "Ambos progenitores alimentan a los pollos con una «leche» del buche"
+  ],
+  "animal": {
+   "diet": "Artemias, pequeños moluscos, larvas de insectos y algas",
+   "habitat": "Humedales someros salinos y alcalinos",
+   "lifespan": "Más de 30 años en libertad; más de 80 en cautividad",
+   "size": "110–150 cm; 2–4 kg",
+   "behaviour": "Antes de la reproducción, los grupos realizan exhibiciones sincronizadas de «desfile», con la cabeza erguida y girándola.",
+   "fieldMarks": [
+    "Zancuda muy alta, de color rosa pálido, con cuello y patas largos",
+    "Pico rosa con la punta negra, fuertemente curvado hacia abajo",
+    "Alas de un rojo vivo y negro en vuelo",
+    "Se alimenta con la cabeza invertida"
+   ],
+   "voice": "Graznidos y gruñidos parecidos a los de los gansos en las bandadas",
+   "lookalikes": "El flamenco enano es más pequeño y de un rosa más intenso, con el pico carmín oscuro que de lejos parece totalmente oscuro.",
+   "whereToSee": "Camarga (Pont de Gau), Francia; Rann de Kutch, India; bahía de Walvis, Namibia",
+   "season": "Presente todo el año en muchos humedales; las colonias de cría y los efectivos varían con el nivel del agua",
+   "order": "Phoenicopteriformes"
+  },
+  "lore": "Plinio el Viejo registró que el gastrónomo romano Apicio apreciaba la lengua de flamenco como un manjar. El Gran Rann de Kutch, en la India, alberga una de las mayores colonias de cría, llamada «Ciudad de los Flamencos».",
+  "funFact": "Un flamenco común cautivo del zoológico de Adelaida vivió al menos 83 años."
+ },
+ {
+  "scientific": "Balaeniceps rex",
+  "common": "Picozapato",
+  "summary": "Un ave alta y gris de los pantanos africanos, con un enorme pico en forma de zueco. Permanece inmóvil durante largos periodos antes de abalanzarse para atrapar peces pulmonados.",
+  "nativeRange": "Pantanos de África oriental y central, desde Sudán del Sur hasta Zambia",
+  "biomes": [
+   "Pantano de papiro",
+   "Marisma de agua dulce"
+  ],
+  "abilities": [
+   "Pico de hasta ~24 cm de largo y ~10 cm de ancho, con una punta afilada en forma de gancho",
+   "Permanece quieto durante periodos muy largos para emboscar a sus presas",
+   "Se desploma hacia delante en una embestida para atrapar peces pulmonados y peces gato",
+   "Castañetea ruidosamente el pico a modo de saludo",
+   "Vierte picos llenos de agua sobre los huevos para enfriarlos"
+  ],
+  "animal": {
+   "diet": "Peces pulmonados, peces gato, tilapias, ranas, serpientes de agua y crías de cocodrilo",
+   "habitat": "Extensos pantanos de papiro y carrizo",
+   "lifespan": "Hasta ~35 años",
+   "size": "110–140 cm de altura; envergadura de ~2,5 m",
+   "behaviour": "Suelen eclosionar dos huevos, pero normalmente solo sobrevive un pollo, pues el mayor supera al menor en la competencia.",
+   "fieldMarks": [
+    "Ave gris muy alta, parecida a una cigüeña",
+    "Enorme pico en forma de zapato con la punta en gancho",
+    "Ojos amarillo pálido",
+    "Permanece inmóvil durante largos periodos"
+   ],
+   "voice": "Mayormente silencioso; los adultos castañetean el pico en el nido",
+   "lookalikes": "Inconfundible de cerca; de lejos, la garza goliat es más esbelta, con el pico largo y fino y el cuello rufo.",
+   "whereToSee": "Pantano de Mabamba, cerca de Entebbe, y delta de las cataratas Murchison (Uganda); pantanos de Bangweulu (Zambia)",
+   "season": "Residente",
+   "order": "Pelecaniformes"
+  },
+  "lore": "Es posible que el arte del antiguo Egipto represente aves parecidas al picozapato. John Gould lo describió científicamente en 1850 a partir de ejemplares del Nilo Blanco.",
+  "funFact": "Pese a su aspecto de cigüeña, sus parientes más cercanos son los pelícanos."
+ },
+ {
+  "scientific": "Opisthocomus hoazin",
+  "common": "Hoacín",
+  "summary": "Un ave amazónica con cresta que digiere las hojas fermentándolas en el buche, como una vaca. Sus pollos tienen garras en las alas y pueden trepar de vuelta al nido tras escapar al agua.",
+  "nativeRange": "Cuencas del Amazonas y del Orinoco, en Sudamérica",
+  "biomes": [
+   "Bosque inundado",
+   "Manglares",
+   "Riberas"
+  ],
+  "abilities": [
+   "Fermentación pregástrica de las hojas por bacterias en un buche agrandado",
+   "Los pollos usan dos garras de las alas para trepar por las ramas",
+   "Los pollos se dejan caer al agua para escapar de los depredadores y vuelven nadando",
+   "Huele fuertemente a estiércol por la fermentación del buche",
+   "Único representante vivo de un linaje antiguo"
+  ],
+  "animal": {
+   "diet": "Hojas, brotes y flores de plantas palustres",
+   "habitat": "Pantanos, riberas y lagos de meandro",
+   "size": "Unos 65 cm; ~800 g",
+   "behaviour": "Los grupos anidan en común en ramas que cuelgan sobre el agua, y ayudantes de nidadas anteriores colaboran con los padres.",
+   "fieldMarks": [
+    "Ave del tamaño de un faisán con una cresta puntiaguda y desgreñada",
+    "Piel facial desnuda azul y ojos rojos",
+    "Pardo por encima, pecho anteado, vientre y alas castaños",
+    "Vuelo torpe sobre el agua"
+   ],
+   "voice": "Siseos, gruñidos y resuellos roncos",
+   "lookalikes": "Sin especies parecidas; su forma extraña y su cara azul son inconfundibles.",
+   "whereToSee": "Lagos de meandro y ríos de la Amazonia, p. ej., el lago Sandoval (Tambopata, Perú) y Cuyabeno (Ecuador)",
+   "season": "Residente",
+   "order": "Opisthocomiformes"
+  },
+  "lore": "Es el ave nacional de Guyana. Sus pollos con garras en las alas se compararon en su día con Archaeopteryx, aunque esas garras evolucionaron de forma independiente.",
+  "funFact": "Rara vez se caza, porque se dice que su carne sabe y huele fatal."
+ },
+ {
+  "scientific": "Limosa lapponica",
+  "common": "Aguja colipinta",
+  "summary": "Un ave limícola de pico largo que ostenta el récord del vuelo sin escalas más largo de cualquier ave. Las agujas vuelan desde Alaska hasta Nueva Zelanda y Australia sobre el Pacífico sin comer, beber ni descansar.",
+  "nativeRange": "Cría en la Eurasia ártica y Alaska; inverna en las costas de Europa, África, Asia, Australia y Nueva Zelanda",
+  "biomes": [
+   "Tundra",
+   "Llanuras de fango",
+   "Estuarios"
+  ],
+  "abilities": [
+   "Vuelo sin escalas registrado de 13 560 km en unos 11 días (de Alaska a Tasmania, 2022)",
+   "Reduce sus órganos digestivos antes de la migración para cargar más grasa",
+   "La grasa puede suponer más de la mitad de su peso corporal al partir",
+   "Sincroniza la partida para aprovechar los vientos favorables de los sistemas de tormentas",
+   "Sondea a fondo el fango en busca de gusanos con un pico sensible"
+  ],
+  "animal": {
+   "diet": "Gusanos marinos, moluscos y crustáceos; insectos en las zonas de cría",
+   "habitat": "Tundra ártica en verano; llanuras mareales de fango en invierno",
+   "lifespan": "Más de 20 años",
+   "size": "37–41 cm; las hembras tienen el pico más largo",
+   "behaviour": "En otoño, las bandadas dejan Alaska con vientos del norte y vuelan sobre el Pacífico abierto durante más de una semana.",
+   "fieldMarks": [
+    "Limícola grande con el pico largo y ligeramente curvado hacia arriba",
+    "Macho reproductor de color rojo ladrillo por debajo",
+    "Aves invernales de color pardo grisáceo, listadas",
+    "Cola barrada y sin franja alar en vuelo"
+   ],
+   "voice": "Un «kirruk» o «kiu-kiu» nasal",
+   "lookalikes": "La aguja colinegra tiene el pico más recto, las patas más largas, una llamativa franja alar blanca y una banda negra en la cola.",
+   "whereToSee": "Miranda (estuario del Támesis) y Farewell Spit, Nueva Zelanda; The Wash y la bahía de Morecambe, Inglaterra",
+   "season": "Cría en el Ártico en junio–julio; Nueva Zelanda de septiembre a marzo; Europa principalmente en invierno",
+   "order": "Charadriiformes"
+  },
+  "lore": "Los maoríes conocían a los kuaka como aves que volaban a Hawaiki y más allá, y su partida marcaba las estaciones. Sus vuelos épicos se demostraron con marcas satelitales en 2007, cuando una hembra llamada E7 voló 11 680 km sin escalas.",
+  "funFact": "El ave del récord, marcada como «234684», tenía solo cinco meses cuando realizó su vuelo."
+ },
+ {
+  "scientific": "Upupa epops",
+  "common": "Abubilla",
+  "summary": "Un ave de color canela con una cresta en abanico y alas listadas como una cebra, que debe su nombre a su suave reclamo «up-up-up». Las hembras que anidan y los pollos se defienden con una secreción maloliente producida con ayuda de bacterias simbióticas.",
+  "nativeRange": "Europa, Asia y África; las aves europeas invernan en el África subsahariana",
+  "biomes": [
+   "Bosque abierto",
+   "Huertos frutales",
+   "Sabana",
+   "Tierras de cultivo"
+  ],
+  "abilities": [
+   "La secreción de la glándula uropigia alberga bacterias Enterococcus que producen antimicrobianos y protegen los huevos",
+   "Los pollos lanzan chorros de heces y sisean como serpientes ante los intrusos",
+   "Sondea el suelo con su largo pico curvo en busca de larvas y grillotalpas",
+   "Levanta y despliega la cresta cuando se alarma y al posarse"
+  ],
+  "animal": {
+   "diet": "Insectos y larvas, sobre todo larvas de escarabajo y grillos; pequeños reptiles",
+   "habitat": "Terreno abierto con árboles dispersos, huertos frutales y viñedos",
+   "lifespan": "Unos 10 años",
+   "size": "25–32 cm; envergadura de 44–48 cm",
+   "behaviour": "Anida en huecos de árboles o muros, donde la secreción aceitosa de la hembra impregna el nido de un fuerte hedor.",
+   "fieldMarks": [
+    "Ave de color canela rosado con una cresta en abanico de puntas negras",
+    "Alas y cola barradas de blanco y negro",
+    "Pico largo, fino y curvado hacia abajo",
+    "Vuelo ondulante, como de mariposa"
+   ],
+   "voice": "Un «up-up-up» suave y hueco",
+   "lookalikes": "Inconfundible; no hay ninguna ave similar en su área de distribución.",
+   "whereToSee": "Extremadura (España), el Algarve (Portugal) y huertos y pueblos de todo el sur de Europa y el sur de Asia",
+   "season": "Europa: estival, de marzo a septiembre; residente en las zonas meridionales de su área",
+   "order": "Bucerotiformes"
+  },
+  "lore": "En el Corán (sura An-Naml) la abubilla trae al rey Salomón noticias de la reina de Saba, y en «La conferencia de los pájaros» de Attar (siglo XII) guía a las aves en su viaje espiritual. Fue declarada ave nacional de Israel en 2008.",
+  "funFact": "Tanto el Levítico como el Deuteronomio incluyen la abubilla entre las aves que no deben comerse y, aun así, se convirtió en el ave nacional de Israel."
+ },
+ {
+  "scientific": "Pavo cristatus",
+  "common": "Pavo real común",
+  "summary": "Un gran faisánido del sur de Asia cuyos machos levantan y hacen vibrar una cola de unas 200 plumas con ocelos. Es el ave nacional de la India y desde hace tres mil años se ha llevado por todo el mundo como ornamento real.",
+  "nativeRange": "India, Sri Lanka, Nepal, Pakistán y Bangladés; introducido en muchas regiones",
+  "biomes": [
+   "Bosque seco caducifolio",
+   "Tierras de cultivo",
+   "Alrededores de aldeas"
+  ],
+  "abilities": [
+   "Cola formada por cobertoras supracaudales alargadas con ocelos iridiscentes de color estructural",
+   "Durante las exhibiciones, los machos hacen vibrar la cola y producen infrasonidos de baja frecuencia",
+   "Mata y come cobras jóvenes y otras serpientes",
+   "Sus fuertes reclamos de alarma advierten a otros animales de la presencia de tigres y leopardos"
+  ],
+  "animal": {
+   "diet": "Semillas, grano, insectos, pequeños reptiles y serpientes",
+   "habitat": "Lindes de bosque, tierras de cultivo y aldeas cerca del agua",
+   "lifespan": "Unos 15–20 años",
+   "size": "Machos de hasta ~2,25 m incluida la cola; hembras ~1 m",
+   "behaviour": "Las pavas eligen pareja en parte según el vigor con que el macho hace vibrar la cola en su exhibición.",
+   "fieldMarks": [
+    "Macho: cuello y pecho azul iridiscente, larga cola verde con ocelos",
+    "Cresta en abanico de plumas con la punta en forma de espátula",
+    "Hembra parda con el cuello verde y el vientre blanco",
+    "Grande; se ve a menudo en el suelo"
+   ],
+   "voice": "Un fuerte grito lastimero, «mei-ao», a menudo al anochecer y antes de la lluvia",
+   "lookalikes": "El pavo real cuelliverde (Sudeste Asiático) tiene el cuello verde y escamado y una cresta erguida en forma de penacho.",
+   "whereToSee": "Ranthambore y Keoladeo (Bharatpur), India; Yala, Sri Lanka",
+   "season": "Residente; los machos se exhiben sobre todo en la época de cría, antes del monzón y durante él, y después mudan la cola",
+   "order": "Galliformes"
+  },
+  "lore": "En la tradición hindú, el pavo real es la montura de Kartikeya, y en la fe yazidí es Melek Taus, el Ángel Pavo Real; los emperadores mogoles se sentaban en el Trono del Pavo Real. Los griegos decían que Hera colocó en su cola los cien ojos de Argos.",
+  "funFact": "Darwin escribió que «the sight of a feather in a peacock's tail, whenever I gaze at it, makes me sick» («la visión de una pluma de la cola de un pavo real, siempre que la contemplo, me pone enfermo»), porque la selección natural por sí sola no podía explicarla."
+ },
+ {
+  "scientific": "Hirundo rustica",
+  "common": "Golondrina común",
+  "summary": "La golondrina más extendida del mundo, que cría en todo el hemisferio norte e inverna en el sur. Desde la Antigüedad, su llegada marca la primavera para los agricultores.",
+  "nativeRange": "Cría en Norteamérica, Europa, el norte de África y Asia; inverna en Sudamérica, África, el sur de Asia y Australasia",
+  "biomes": [
+   "Tierras de cultivo",
+   "Pastizales",
+   "Humedales",
+   "Pueblos"
+  ],
+  "abilities": [
+   "Migra hasta ~10 000 km; por ejemplo, de Gran Bretaña a Sudáfrica",
+   "Caza insectos en un vuelo rápido, bajo y ágil",
+   "Construye nidos en forma de taza con cientos de bolitas de barro que transporta en el pico",
+   "Las hembras prefieren machos con las plumas caudales más largas y simétricas"
+  ],
+  "animal": {
+   "diet": "Insectos voladores",
+   "habitat": "Campo abierto cerca del agua; anida en establos y bajo los aleros",
+   "lifespan": "Normalmente unos 4 años; récord de más de 11",
+   "size": "17–19 cm incluidas las plumas caudales",
+   "behaviour": "Las parejas suelen regresar cada año al mismo establo, y los jóvenes de la primera nidada ayudan a alimentar a las siguientes.",
+   "fieldMarks": [
+    "Partes superiores y banda pectoral de un azul acero brillante",
+    "Frente y garganta rojas",
+    "Cola con largas plumas exteriores y profundamente ahorquillada",
+    "Vuelo rápido, bajo y lleno de quiebros"
+   ],
+   "voice": "Un alegre canto gorjeado con un trino áspero; reclamo, un «vit» agudo",
+   "lookalikes": "El avión común tiene el obispillo blanco y la cola corta y ahorquillada. El avión zapador es pardo. La golondrina dáurica tiene el obispillo rufo pálido.",
+   "whereToSee": "Corrales, establos y campo abierto cerca del agua",
+   "season": "Europa y Norteamérica: estival, de abril a septiembre",
+   "order": "Passeriformes"
+  },
+  "lore": "Aristóteles escribió que 'one swallow does not make a spring' («una golondrina no hace primavera»), y en el siglo XVIII Gilbert White todavía se preguntaba si las golondrinas hibernaban en el barro. Tradicionalmente, los marineros se tatuaban una golondrina por cada 5000 millas náuticas recorridas.",
+  "funFact": "Es el ave nacional de Austria y de Estonia."
+ },
+ {
+  "scientific": "Cacatua galerita",
+  "common": "Cacatúa galerita (cacatúa de moño amarillo)",
+  "summary": "Una gran cacatúa blanca de Australia y Nueva Guinea con una cresta amarilla brillante. En Sídney, las cacatúas han aprendido a abrir las tapas de los contenedores de basura, una habilidad que se ha propagado de barrio en barrio por aprendizaje social.",
+  "nativeRange": "Este y norte de Australia, Tasmania, Nueva Guinea e islas cercanas; introducida en Nueva Zelanda",
+  "biomes": [
+   "Bosque abierto",
+   "Tierras de cultivo",
+   "Ciudades"
+  ],
+  "abilities": [
+   "La apertura de contenedores, aprendida, se propagó socialmente con «estilos» locales (Klump et al., 2021)",
+   "Un ejemplar cautivo llamado Snowball (Cacatua galerita eleonora) baila al compás de la música, lo que demuestra sincronización con el ritmo",
+   "Las bandadas apostan centinelas que lanzan chillidos de alarma",
+   "Puede vivir 70 años o más en cautividad"
+  ],
+  "animal": {
+   "diet": "Semillas, raíces, frutos secos, bulbos, bayas y larvas de insectos",
+   "habitat": "Terreno arbolado, tierras de cultivo y parques urbanos",
+   "lifespan": "20–40 años en libertad; más de 70 en cautividad",
+   "size": "45–55 cm",
+   "behaviour": "Grandes bandadas estridentes buscan alimento en el suelo mientras algunas aves montan guardia en los árboles.",
+   "fieldMarks": [
+    "Gran cacatúa blanca",
+    "Cresta amarilla larga y curvada hacia delante",
+    "Tinte amarillo pálido bajo las alas y la cola",
+    "Pico gris oscuro"
+   ],
+   "voice": "Chillidos ásperos y muy fuertes",
+   "lookalikes": "La cacatúa sanguínea y la cacatúa picofina no tienen cresta amarilla y muestran piel desnuda azulada alrededor del ojo.",
+   "whereToSee": "Real Jardín Botánico de Sídney y parques de las ciudades del este de Australia",
+   "season": "Residente",
+   "order": "Psittaciformes"
+  },
+  "lore": "Una cacatúa aparece en un manuscrito del siglo XIII del tratado de cetrería del emperador Federico II, a quien se la había regalado el sultán de Babilonia; es uno de los registros europeos más antiguos de un ave de Australasia.",
+  "funFact": "Algunas cacatúas de Sídney también han aprendido a abrir los grifos de las fuentes de agua potable."
+ },
+ {
+  "scientific": "Sturnus vulgaris",
+  "common": "Estornino pinto",
+  "summary": "Un paseriforme brillante y moteado cuyas bandadas invernales giran al anochecer en «murmuraciones» de cientos de miles de aves. Introducido en Norteamérica en 1890, hoy se cuenta allí por decenas de millones.",
+  "nativeRange": "Europa, Asia occidental y norte de África; introducido en Norteamérica, Australia, Nueva Zelanda y Sudáfrica",
+  "biomes": [
+   "Tierras de cultivo",
+   "Pastizales",
+   "Ciudades"
+  ],
+  "abilities": [
+   "Murmuraciones: cada ave sigue a unos siete vecinos, lo que permite que las ondas recorran la bandada",
+   "Hábil imitador de otras aves, teléfonos y el habla humana",
+   "Se orienta mediante una brújula solar y un sentido magnético",
+   "Abre el pico dentro del suelo para hacer palanca y extraer presas («sondeo con el pico abierto»)"
+  ],
+  "animal": {
+   "diet": "Insectos, larvas, frutos y semillas",
+   "habitat": "Campos abiertos, tierras de cultivo, pueblos y ciudades",
+   "lifespan": "Unos 2–3 años de media; récord de más de 22",
+   "size": "19–23 cm",
+   "behaviour": "Los machos decoran el nido con hierbas verdes aromáticas, que pueden ahuyentar a los parásitos.",
+   "fieldMarks": [
+    "Ave negra brillante de cola corta con reflejos verdes y púrpuras",
+    "Con motas claras en el plumaje invernal fresco",
+    "Pico amarillo en la época de cría",
+    "Alas puntiagudas y triangulares en vuelo"
+   ],
+   "voice": "Canto variado de silbidos, chasquidos, carracas e imitaciones precisas",
+   "lookalikes": "El mirlo común tiene la cola más larga, carece de brillo y motas y salta en lugar de caminar. El estornino negro (península ibérica) no tiene motas en verano.",
+   "whereToSee": "Murmuraciones invernales en el Palace Pier de Brighton y en la reserva RSPB Ham Wall (Somerset Levels), Inglaterra",
+   "season": "Residente en gran parte de Europa; murmuraciones de noviembre a febrero",
+   "order": "Passeriformes"
+  },
+  "lore": "En 1784, Mozart compró un estornino como mascota que sabía cantar un tema de su Concierto para piano K. 453, y lo enterró con un poema. Eugene Schieffelin liberó unos 100 en el Central Park de Nueva York en 1890–91.",
+  "funFact": "En «Enrique IV, primera parte», de Shakespeare, Hotspur planea enseñar a un estornino a decir «Mortimer» para fastidiar al rey."
+ },
+ {
+  "scientific": "Columba livia",
+  "common": "Paloma bravía (paloma doméstica asilvestrada)",
+  "summary": "El antepasado silvestre de la paloma doméstica y urbana, probablemente la primera ave domesticada por el ser humano. Las palomas mensajeras saben regresar desde cientos de kilómetros de distancia y durante milenios llevaron mensajes para los ejércitos.",
+  "nativeRange": "Europa, norte de África y Asia occidental y meridional; poblaciones asilvestradas en todo el mundo",
+  "biomes": [
+   "Acantilados marinos",
+   "Ciudades",
+   "Tierras de cultivo"
+  ],
+  "abilities": [
+   "Regresa a su palomar desde más de 1000 km gracias a una brújula solar, un sentido magnético y puntos de referencia",
+   "Posiblemente usa infrasonidos de baja frecuencia para orientarse",
+   "Ambos progenitores alimentan a los pollos con «leche del buche»",
+   "Se la ha entrenado para distinguir cuadros de Monet de los de Picasso (Watanabe et al., 1995)",
+   "Puede reconocer rostros humanos concretos"
+  ],
+  "animal": {
+   "diet": "Semillas y grano; restos de comida en las ciudades",
+   "habitat": "Acantilados y cornisas; edificios y puentes",
+   "lifespan": "3–5 años en las ciudades; hasta más de 15 en cautividad",
+   "size": "29–37 cm",
+   "behaviour": "Las parejas crían hasta seis nidadas al año, en casi cualquier estación.",
+   "fieldMarks": [
+    "Paloma gris azulada con el cuello iridiscente verde y púrpura",
+    "Dos anchas franjas negras en cada ala",
+    "Obispillo blanco (forma silvestre)",
+    "Las aves asilvestradas presentan muchos colores"
+   ],
+   "voice": "Un arrullo suave, «u-ru-cu»",
+   "lookalikes": "La paloma zurita no tiene el obispillo blanco y solo muestra cortas franjas negras en el ala. La paloma torcaz es más grande, con una mancha blanca en el cuello y bandas alares blancas.",
+   "whereToSee": "Aves de tipo silvestre en los acantilados marinos del oeste de Escocia e Irlanda; bandadas asilvestradas en casi todas las ciudades",
+   "season": "Residente",
+   "order": "Columbiformes"
+  },
+  "lore": "El correo de palomas transmitía noticias para persas, romanos y mogoles, y una paloma llamada Cher Ami salvó a casi 200 soldados estadounidenses en 1918. Darwin criaba palomas de raza para ilustrar la selección artificial en «El origen de las especies».",
+  "funFact": "Reuters empezó en 1850 utilizando palomas para llevar las cotizaciones bursátiles entre Aquisgrán y Bruselas."
+ },
+ {
+  "scientific": "Gallus gallus",
+  "common": "Gallo bankiva (y gallina doméstica)",
+  "summary": "Un faisánido forestal silvestre del sur y el Sudeste de Asia y antepasado de la gallina doméstica. Con más de 20 000 millones de ejemplares vivos en todo momento, las gallinas son el ave más numerosa de la Tierra.",
+  "nativeRange": "Forma silvestre desde el norte de la India hasta el sur de China e Indonesia; gallinas domésticas en todo el mundo",
+  "biomes": [
+   "Lindes de bosque tropical",
+   "Matorrales de bambú",
+   "Tierras de cultivo"
+  ],
+  "abilities": [
+   "Emite más de una docena de reclamos de alarma y de comida distintos, algunos referenciales (depredador aéreo frente a terrestre)",
+   "Las gallinas domésticas pueden poner más de 300 huevos al año",
+   "Los gallos realizan el «tidbitting»: llaman a las gallinas hacia la comida",
+   "Puede correr, posarse a dormir en los árboles y realizar breves arranques de vuelo"
+  ],
+  "animal": {
+   "diet": "Semillas, insectos, frutos caídos y pequeños animales",
+   "habitat": "Lindes de bosque, matorral y claros",
+   "lifespan": "Silvestre, 3–5 años; doméstica, hasta ~10",
+   "size": "Machos ~70 cm; hembras ~45 cm",
+   "behaviour": "El gallo emite reclamos de alarma distintos para los halcones que sobrevuelan y para los depredadores terrestres, y las gallinas responden en consecuencia.",
+   "fieldMarks": [
+    "Macho: plumas del cuello de color dorado anaranjado, cresta y barbillas rojas, larga cola arqueada de color verde oscuro",
+    "Hembra parda con una cresta pequeña",
+    "Los machos silvestres tienen las patas gris pizarra",
+    "Tras la cría, los machos silvestres mudan a un plumaje de eclipse apagado"
+   ],
+   "voice": "El canto es como el de un gallo doméstico, pero más corto y termina bruscamente",
+   "lookalikes": "Las gallinas asilvestradas y domésticas se cruzan con él; las aves híbridas suelen tener las patas amarillas o claras y no presentan la muda de eclipse. El gallo de Sonnerat, de la India peninsular, tiene las plumas del cuello grises y moteadas.",
+   "whereToSee": "Parque Nacional Jim Corbett (India), Khao Yai y Kaeng Krachan (Tailandia)",
+   "season": "Residente",
+   "order": "Galliformes"
+  },
+  "lore": "Domesticadas en el Sudeste Asiático hace unos 3500 años, las gallinas se criaron primero para peleas de gallos y rituales y solo después como alimento. Los generales romanos consultaban a los pollos sagrados antes de la batalla, y las últimas palabras de Sócrates pidieron que se ofreciera un gallo a Asclepio.",
+  "funFact": "La mayoría de las vacunas contra la gripe del mundo todavía se cultivan en huevos de gallina fecundados."
+ },
+ {
+  "scientific": "Ptilonorhynchus violaceus",
+  "common": "Pergolero satinado",
+  "summary": "Un ave australiana cuyos machos construyen un pasillo de palitos de dos paredes y lo decoran con objetos azules para cortejar a las hembras. La hembra elige pareja inspeccionando su glorieta y su exhibición.",
+  "nativeRange": "Este y sudeste de Australia",
+  "biomes": [
+   "Lindes de selva",
+   "Bosque de eucaliptos",
+   "Jardines periurbanos"
+  ],
+  "abilities": [
+   "Construye una glorieta en forma de pasillo con cientos de palitos",
+   "Recoge objetos azules como plumas, flores, tapones de botella y pajitas",
+   "Pinta las paredes de la glorieta con jugo vegetal masticado, a veces usando un taco de corteza como herramienta",
+   "Imita los reclamos de otras aves durante la exhibición"
+  ],
+  "animal": {
+   "diet": "Frutos, hojas e insectos",
+   "habitat": "Bosque húmedo y bosques abiertos y jardines adyacentes",
+   "lifespan": "Unos 20 años",
+   "size": "27–33 cm",
+   "behaviour": "Los machos tardan siete años en adquirir su brillante plumaje negro azulado, y los machos jóvenes construyen glorietas de práctica cuando aún son verdes.",
+   "fieldMarks": [
+    "Macho adulto de un negro azulado brillante con ojos azul violáceo",
+    "Hembra y machos jóvenes de color verde oliva con las partes inferiores escamadas",
+    "Pico amarillento claro",
+    "Los machos construyen una glorieta de palitos en forma de pasillo decorada con objetos azules"
+   ],
+   "voice": "Fuertes silbidos, zumbidos y sonidos mecánicos, e imitaciones en la glorieta",
+   "lookalikes": "Durante varios años, los machos jóvenes se parecen a las hembras. El macho del pergolero regente es negro y dorado.",
+   "whereToSee": "Parque Nacional Lamington (O'Reilly's), Queensland; Montañas Azules, Nueva Gales del Sur; Jardín Botánico Nacional de Australia, en Canberra",
+   "season": "Residente; glorietas más activas en primavera y a comienzos del verano",
+   "order": "Passeriformes"
+  },
+  "lore": "Naturalistas del siglo XIX como John Gould se desconcertaban ante las glorietas, a las que llamaban 'playing-places' («lugares de juego»), y Darwin las trató en «El origen del hombre» (1871) como prueba de la elección estética en la selección sexual.",
+  "funFact": "Los machos roban decoraciones azules de las glorietas de sus rivales y a veces las destrozan."
+ },
+ {
+  "scientific": "Paradisaea raggiana",
+  "common": "Ave del paraíso de Raggi",
+  "summary": "El ave nacional de Papúa Nueva Guinea, que figura en su bandera. Los machos se reúnen en leks forestales, batiendo las alas y sacudiendo la cabeza mientras levantan cascadas de plumas de los flancos de color rojo anaranjado para cortejar a las hembras.",
+  "nativeRange": "Sur y nordeste de Nueva Guinea",
+  "biomes": [
+   "Selva de tierras bajas y de colinas"
+  ],
+  "abilities": [
+   "Los machos se exhiben en grupo en leks, levantando y sacudiendo las plumas",
+   "Levanta las plumas en un abanico erguido mientras emite fuertes reclamos",
+   "Dispersa las semillas de muchos árboles de la selva",
+   "Se hibrida con otras especies de Paradisaea donde sus áreas se encuentran"
+  ],
+  "animal": {
+   "diet": "Frutos, sobre todo higos; también artrópodos",
+   "habitat": "Selva y lindes de bosque",
+   "size": "Unos 34 cm, más los filamentos caudales del macho",
+   "behaviour": "Una docena o más de machos se exhiben en el mismo árbol, y las hembras los visitan para elegir entre ellos.",
+   "fieldMarks": [
+    "Macho: cuerpo pardo granate, píleo y collar amarillos, garganta esmeralda oscura",
+    "Largas plumas de los flancos de color rojo a anaranjado",
+    "Dos largos filamentos caudales negros",
+    "Hembra de un pardo granate apagado, sin plumas ornamentales ni filamentos"
+   ],
+   "lookalikes": "El ave del paraíso menor tiene las plumas amarillas; ambas se hibridan donde se encuentran. El color de las plumas varía entre las subespecies de ave del paraíso de Raggi, del rojo intenso al albaricoque.",
+   "whereToSee": "Parque Nacional Varirata, cerca de Port Moresby, Papúa Nueva Guinea",
+   "season": "Residente; exhibiciones en leks matinales",
+   "order": "Passeriformes"
+  },
+  "lore": "Desde hace siglos, sus plumas se lucen en los tocados de Nueva Guinea y se comerciaban con Asia; en el siglo XVI llegaron a Europa pieles sin patas, lo que dio origen al mito de que las aves del paraíso nunca se posaban. Papúa Nueva Guinea la adoptó como emblema de su bandera en 1971.",
+  "funFact": "Su nombre honra a Francesco Raggi, un marqués italiano de Génova."
+ },
+ {
+  "scientific": "Buceros bicornis",
+  "common": "Cálao bicorne",
+  "summary": "Un enorme cálao de los bosques del sur y el Sudeste de Asia, con un casco amarillo sobre el pico. Durante la nidificación, la hembra se encierra en una cavidad de un árbol y depende del macho, que la alimenta a través de una rendija.",
+  "nativeRange": "India, Nepal, Bután y el Sudeste Asiático hasta Sumatra",
+  "biomes": [
+   "Bosque tropical perennifolio",
+   "Bosque húmedo caducifolio"
+  ],
+  "abilities": [
+   "La hembra se empareda en el nido con barro y excrementos durante meses",
+   "El macho le entrega frutos regurgitados de uno en uno a través de la rendija",
+   "Gran dispersor de árboles de la selva de semillas grandes, sobre todo higueras",
+   "Sus sonoros aleteos se oyen desde muy lejos"
+  ],
+  "animal": {
+   "diet": "Principalmente higos y otros frutos; también pequeños animales",
+   "habitat": "Bosque primario alto",
+   "lifespan": "Hasta unos 50 años en cautividad",
+   "size": "95–130 cm; envergadura de ~1,5 m",
+   "behaviour": "Las aves se frotan el casco y las alas con secreciones de la glándula uropigia, que les dan su color amarillo.",
+   "fieldMarks": [
+    "Cálao blanco y negro de gran tamaño",
+    "Enorme pico amarillo con un casco ancho y cóncavo",
+    "Cola blanca con una banda negra",
+    "Aleteos sonoros, como un silbido de viento"
+   ],
+   "voice": "Las parejas cantan a dúo con una rápida mezcla de fuertes rugidos y ladridos, que empieza con un «kok» regular",
+   "lookalikes": "El cálao rinoceronte (región de la Sonda) tiene un casco rojo y naranja curvado hacia arriba. El cálao gorginudo no tiene casco y su cola blanca carece de banda.",
+   "whereToSee": "Reserva de Tigres de Pakke (Arunachal Pradesh) y Valparai, en las colinas Anamalai (India); Khao Yai (Tailandia)",
+   "season": "Residente; cría de enero a abril, cuando las parejas están más activas vocalmente",
+   "order": "Bucerotiformes"
+  },
+  "lore": "Es el ave del estado de Kerala y de Arunachal Pradesh, y los pueblos naga utilizaban tradicionalmente sus plumas y cascos en los tocados; el Festival del Cálao de Nagaland lleva su nombre.",
+  "funFact": "Su casco es en gran parte hueco y ligero, a diferencia del casco macizo, parecido al marfil, de su pariente el cálao de yelmo."
+ },
+ {
+  "scientific": "Gyps fulvus",
+  "common": "Buitre leonado",
+  "summary": "Un enorme buitre de color pardo claro que planea en las térmicas sobre las montañas y localiza los cadáveres observando a otros buitres. Sus colonias eliminan el ganado y la fauna muertos, lo que reduce las enfermedades.",
+  "nativeRange": "Sur de Europa, norte de África, Oriente Medio y Asia central hasta la India",
+  "biomes": [
+   "Montañas",
+   "Estepa",
+   "Matorral mediterráneo"
+  ],
+  "abilities": [
+   "Planea durante horas en las térmicas casi sin batir las alas",
+   "Un grupo puede dejar limpio un cadáver en menos de una hora",
+   "Su estómago, extremadamente ácido, mata muchos patógenos de la carne en descomposición",
+   "Detecta a otros buitres alimentándose a kilómetros de distancia y los sigue"
+  ],
+  "animal": {
+   "diet": "Carroña de grandes mamíferos",
+   "habitat": "Terreno montañoso abierto con cortados para anidar",
+   "lifespan": "Hasta ~40 años",
+   "size": "93–122 cm; envergadura de 2,3–2,8 m",
+   "behaviour": "Anida en colonias en cortados y pone un único huevo al año.",
+   "fieldMarks": [
+    "Buitre enorme con el cuerpo pardo arenoso claro",
+    "Gorguera blanca y esponjosa en el cuello y cabeza clara",
+    "Plumas de vuelo oscuras que contrastan con las cobertoras alares más claras",
+    "Planea con alas largas y anchas, con las primarias separadas como «dedos»"
+   ],
+   "voice": "Siseos, gruñidos y cacareos junto a los cadáveres",
+   "lookalikes": "El buitre negro es más oscuro en todo el cuerpo. El buitre moteado (África) tiene plumas escamadas con bordes claros. El alimoche común es más pequeño y blanco, con las plumas de vuelo negras.",
+   "whereToSee": "Parque Nacional de Monfragüe (España), Gargantas del Verdon (Francia) y el estrecho de Gibraltar durante la migración",
+   "season": "Residente; los jóvenes cruzan el estrecho de Gibraltar en otoño",
+   "order": "Accipitriformes"
+  },
+  "lore": "El «águila» (nésher) de la Biblia hebrea es probablemente el buitre leonado, y los entierros celestes tibetanos y zoroastrianos dependían de los buitres. Se reintrodujo en los Grands Causses de Francia en la década de 1980.",
+  "funFact": "El fármaco veterinario diclofenaco, mortal para los buitres del género Gyps, acabó con más del 95 % de los buitres emparentados de la India en la década de 1990."
+ },
+ {
+  "scientific": "Cygnus olor",
+  "common": "Cisne vulgar",
+  "summary": "Un gran cisne blanco con el pico anaranjado y un tubérculo negro. Es una de las aves voladoras más pesadas; es menos vocal que otros cisnes, pero sisea con fiereza cuando se defiende.",
+  "nativeRange": "Europa y Asia; introducido en Norteamérica, Sudáfrica, Australia y Nueva Zelanda",
+  "biomes": [
+   "Lagos",
+   "Ríos",
+   "Estuarios"
+  ],
+  "abilities": [
+   "Una de las aves voladoras más pesadas, con hasta unos 15 kg",
+   "Sus aleteos producen un fuerte sonido vibrante que se oye desde lejos",
+   "Se sumerge de medio cuerpo para pastar plantas acuáticas hasta a un metro de profundidad",
+   "Defiende el nido agresivamente con exhibiciones de las alas («busking»)"
+  ],
+  "animal": {
+   "diet": "Plantas acuáticas; algunos invertebrados",
+   "habitat": "Lagos, ríos, estuarios y estanques de parques",
+   "lifespan": "Normalmente 10–20 años",
+   "size": "125–170 cm; envergadura de 2–2,4 m",
+   "behaviour": "Las parejas suelen permanecer juntas muchos años, y los pollos viajan sobre el lomo de sus padres.",
+   "fieldMarks": [
+    "Cisne blanco muy grande",
+    "Pico anaranjado con un tubérculo negro en la base",
+    "Cuello en forma de S",
+    "Cuando se siente amenazado, suele levantar las alas en arco"
+   ],
+   "voice": "Mayormente silencioso; sisea y resopla; las alas producen un fuerte sonido vibrante en vuelo",
+   "lookalikes": "El cisne cantor tiene el pico amarillo y negro y el cuello recto. El cisne trompetero y el cisne chico de Norteamérica tienen el pico negro.",
+   "whereToSee": "Colonia de cisnes de Abbotsbury (Dorset); lagos de parques y ríos de toda Europa",
+   "season": "Residente; pollos en mayo–junio",
+   "order": "Anseriformes"
+  },
+  "lore": "El monarca británico reclama la propiedad de los cisnes vulgares sin marcar en aguas abiertas, y cada año se cuentan en el Támesis durante el «Swan Upping». En el mito griego, Zeus se acercó a Leda en forma de cisne.",
+  "funFact": "La leyenda del «canto del cisne», según la cual solo canta al morir, se remonta a los antiguos griegos."
+ },
+ {
+  "scientific": "Grus japonensis",
+  "common": "Grulla de Manchuria (grulla japonesa)",
+  "summary": "Una de las grullas más raras, famosa por sus danzas de cortejo en pareja sobre la nieve. En Asia oriental simboliza la longevidad y la fidelidad.",
+  "nativeRange": "Cría en el sudeste de Rusia y el nordeste de China; inverna en Corea y el este de China; residente en Hokkaido (Japón)",
+  "biomes": [
+   "Marisma",
+   "Carrizales",
+   "Humedal"
+  ],
+  "abilities": [
+   "Las parejas realizan dúos sincronizados y danzas con saltos",
+   "Migra entre las marismas de Siberia y los humedales de Corea y China",
+   "La población de Hokkaido no es migratoria",
+   "Puede vivir más de 30 años"
+  ],
+  "animal": {
+   "diet": "Peces, cangrejos, insectos, anfibios y arroz",
+   "habitat": "Humedales con carrizos altos y aguas someras",
+   "lifespan": "30–40 años",
+   "size": "~1,5 m de altura; envergadura de hasta 2,5 m",
+   "behaviour": "Las parejas se unen de por vida y se saludan con reverencias, saltos y fuertes reclamos al unísono.",
+   "fieldMarks": [
+    "Grulla blanca y alta con una mancha roja en el píleo",
+    "Cuello y cara negros",
+    "Plumas secundarias negras, que en el ave posada parecen una cola negra",
+    "Plumas primarias de un blanco puro"
+   ],
+   "voice": "Fuertes reclamos al unísono, como de trompeta, emitidos por las parejas",
+   "lookalikes": "La grulla siberiana tiene la cara roja y las primarias negras. La grulla cuelliblanca tiene el cuerpo gris.",
+   "whereToSee": "Santuario de Grullas Tancho de Tsurui-Ito y Centro Internacional de la Grulla de Akan, Hokkaido; Reserva Natural de Zhalong (China)",
+   "season": "Las grullas de Hokkaido son residentes y se concentran en comederos invernales de noviembre a marzo",
+   "order": "Gruiformes"
+  },
+  "lore": "En Japón, plegar 1000 grullas de papel (senbazuru) concede un deseo, costumbre que popularizó Sadako Sasaki tras Hiroshima; la grulla aparece en el logotipo de Japan Airlines. En China se asocia con los inmortales y la longevidad.",
+  "funFact": "La población de Hokkaido se redujo a unas 20 aves en la década de 1920; la alimentación invernal por parte de los agricultores locales ayudó a que se recuperara hasta superar las 1800."
+ }
+]

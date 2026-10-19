@@ -95,6 +95,7 @@ export interface Entry {
   plates?: Plate[];
   seedPhotos?: CommonsPhoto[];
   gerard?: GerardRef;
+  translated?: boolean;
   fruitPhotos?: CommonsPhoto[];
 }
 

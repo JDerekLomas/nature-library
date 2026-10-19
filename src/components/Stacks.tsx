@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import { useT } from "@/i18n/LangProvider";
 
 interface Book {
   source: string;
@@ -15,6 +16,7 @@ interface Book {
 
 /** Books about this organism from the Internet Archive and the Source Library, plus a BHL link. */
 export default function Stacks({ names, scientific }: { names: string[]; scientific: string }) {
+  const t = useT().widgets;
   const [books, setBooks] = useState<Book[] | null>(null);
   // Fetched from the visitor's browser (both APIs allow cross-origin), so each reader uses their own Source Library quota
   const key = names.join("|");
@@ -66,7 +68,7 @@ export default function Stacks({ names, scientific }: { names: string[]; scienti
     <div>
       {quotes.length > 0 && (
         <div className="mb-10">
-          <p className="label text-ink-2 mb-4">What the old books say · translated pages in the Source Library</p>
+          <p className="label text-ink-2 mb-4">{t.oldBooksSay}</p>
           <div className="grid md:grid-cols-2 gap-x-10 gap-y-6">
             {quotes.map((b) => (
               <a key={b.url} href={b.url} target="_blank" rel="noreferrer" className="group block border-l-2 border-ochre pl-5">
@@ -83,9 +85,9 @@ export default function Stacks({ names, scientific }: { names: string[]; scienti
         </div>
       )}
       {books === null ? (
-        <p className="label text-ink-2">Searching the stacks…</p>
+        <p className="label text-ink-2">{t.searchingStacks}</p>
       ) : shelf.length === 0 ? (
-        <p className="text-ink-2">No digitised books found by title. Try the Biodiversity Heritage Library below.</p>
+        <p className="text-ink-2">{t.noBooks}</p>
       ) : (
         <ul className="grid sm:grid-cols-2 lg:grid-cols-3 gap-x-8">
           {shelf.map((b) => (
@@ -114,7 +116,7 @@ export default function Stacks({ names, scientific }: { names: string[]; scienti
       )}
       <p className="mt-5 text-sm">
         <a className="link-ink" target="_blank" rel="noreferrer" href={`https://www.biodiversitylibrary.org/name/${scientific.replace(/ /g, "_")}`}>
-          Every page naming <i>{scientific}</i> in the Biodiversity Heritage Library →
+          {t.bhl[0]} <i>{scientific}</i> {t.bhl[1]}
         </a>
       </p>
     </div>

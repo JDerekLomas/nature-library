@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import { CLIMATE_KEY, fetchClimate, type Climate } from "@/lib/climate";
+import { useLang, useT } from "@/i18n/LangProvider";
 
 /** Remembers the visitor's garden (in this browser only) across pages. */
 export function useGarden() {
@@ -35,6 +36,8 @@ interface Place {
 
 export default function GardenPicker({ compact = false, dark = false }: { compact?: boolean; dark?: boolean }) {
   const [, save] = useGarden();
+  const lang = useLang();
+  const t = useT().widgets;
   const [q, setQ] = useState("");
   const [hits, setHits] = useState<Place[]>([]);
   const [busy, setBusy] = useState<string | null>(null);
@@ -47,7 +50,7 @@ export default function GardenPicker({ compact = false, dark = false }: { compac
     }
     const ctl = new AbortController();
     const t = setTimeout(() => {
-      fetch(`https://geocoding-api.open-meteo.com/v1/search?name=${encodeURIComponent(q)}&count=6&language=en`, { signal: ctl.signal })
+      fetch(`https://geocoding-api.open-meteo.com/v1/search?name=${encodeURIComponent(q)}&count=6&language=${lang}`, { signal: ctl.signal })
         .then((r) => r.json())
         .then((j) => setHits(j.results ?? []))
         .catch(() => {});
@@ -72,14 +75,14 @@ export default function GardenPicker({ compact = false, dark = false }: { compac
   };
 
   const locate = () => {
-    if (!navigator.geolocation) return setErr("This browser cannot share its location.");
-    setBusy("your location");
+    if (!navigator.geolocation) return setErr(t.noGeo);
+    setBusy(t.yourLocation);
     navigator.geolocation.getCurrentPosition(
       async (p) => {
         const { latitude: la, longitude: lo } = p.coords;
-        let place = "Your garden";
+        let place = t.yourGarden;
         try {
-          const r = await fetch(`https://api.bigdatacloud.net/data/reverse-geocode-client?latitude=${la}&longitude=${lo}&localityLanguage=en`);
+          const r = await fetch(`https://api.bigdatacloud.net/data/reverse-geocode-client?latitude=${la}&longitude=${lo}&localityLanguage=${lang}`);
           const j = await r.json();
           place = [j.city || j.locality, j.principalSubdivision, j.countryName].filter(Boolean).join(", ") || place;
         } catch {}
@@ -87,7 +90,7 @@ export default function GardenPicker({ compact = false, dark = false }: { compac
       },
       () => {
         setBusy(null);
-        setErr("Location was not shared. Type a town instead.");
+        setErr(t.notShared);
       },
       { timeout: 10000 }
     );
@@ -101,9 +104,9 @@ export default function GardenPicker({ compact = false, dark = false }: { compac
           <input
             value={q}
             onChange={(e) => setQ(e.target.value)}
-            placeholder="Type your town or city"
+            placeholder={t.typeTown}
             className={`w-full bg-transparent border-b ${line} py-2 outline-none focus:border-moss ${compact ? "text-sm" : "text-lg font-display"}`}
-            aria-label="Town or city"
+            aria-label={t.townAria}
           />
           {hits.length > 0 && (
             <ul className="absolute z-30 mt-1 w-full bg-card border border-ink/70 text-ink shadow-[0_18px_40px_-20px_#0006]">
@@ -120,12 +123,12 @@ export default function GardenPicker({ compact = false, dark = false }: { compac
             </ul>
           )}
         </div>
-        <span className="label text-ink-2 pb-2.5">or</span>
+        <span className="label text-ink-2 pb-2.5">{t.or}</span>
         <button onClick={locate} className={`border ${dark ? "border-glow text-glow" : "border-ink"} px-4 py-2 text-sm hover:bg-moss hover:text-paper hover:border-moss transition-colors`}>
-          Use my location
+          {t.useMyLocation}
         </button>
       </div>
-      {busy && <p className="label text-ink-2 mt-3">Reading ten years of weather for {busy}…</p>}
+      {busy && <p className="label text-ink-2 mt-3">{t.readingWeather(busy)}</p>}
       {err && <p className="text-sm text-stamp mt-3">{err}</p>}
     </div>
   );

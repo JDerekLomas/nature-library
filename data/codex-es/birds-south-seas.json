@@ -1,0 +1,1886 @@
+[
+ {
+  "scientific": "Sagittarius serpentarius",
+  "common": "Secretario (serpentario)",
+  "summary": "Una rapaz sobre zancos: un ave con cabeza de águila que caza a pie por las praderas africanas, recorriendo hasta 20–30 km al día y matando serpientes y roedores con patadas precisas y fulminantes. Es el único miembro vivo de su familia.",
+  "nativeRange": "África subsahariana, desde Senegal y Sudán hasta El Cabo",
+  "biomes": [
+   "Sabana",
+   "Pastizal tropical",
+   "Matorral semidesértico"
+  ],
+  "abilities": [
+   "Mata a sus presas a pisotones; una patada medida descargó unas cinco veces el peso corporal del ave en unos 15 milisegundos",
+   "Caza casi exclusivamente a pie, recorriendo largos transectos entre la hierba para hacer salir a las presas",
+   "Captura serpientes venenosas, protegido por la parte inferior de las patas, cubierta de gruesas escamas, y por sus golpes rapidísimos",
+   "Vuela con potencia y se remonta, aunque pasa la mayor parte del día caminando"
+  ],
+  "animal": {
+   "diet": "Saltamontes y otros insectos grandes, roedores, lagartos, serpientes, pájaros pequeños y huevos",
+   "habitat": "Pastizales abiertos y sabanas poco arboladas; evita los bosques densos",
+   "lifespan": "Unos 10–15 años en libertad; más en cautividad",
+   "size": "Unos 1,2–1,5 m de altura; envergadura de unos 2 m; 3–4 kg",
+   "behaviour": "Las parejas patrullan su territorio una junto a otra, pisoteando las matas para hacer salir a las presas, que inmovilizan con golpes repetidos de las patas antes de tragarlas enteras.",
+   "fieldMarks": [
+    "Patas muy largas, con «pantalones» negros (muslos emplumados) y la parte inferior desnuda y rosácea",
+    "Cuerpo gris pálido con las plumas de vuelo negras",
+    "Piel facial desnuda rojo anaranjada alrededor del ojo",
+    "Cresta laxa de largas plumas con la punta negra en la parte posterior de la cabeza",
+    "Dos plumas centrales de la cola muy largas que sobresalen de la cola en vuelo"
+   ],
+   "voice": "Normalmente silencioso; emite un graznido o gemido grave, como de rana, sobre todo en las exhibiciones o en el nido.",
+   "lookalikes": "A distancia puede tomarse por una grulla o una cigüeña caminando entre la hierba, pero ninguna tiene el pico ganchudo de rapaz, la cara naranja, los muslos emplumados de negro ni la cresta de plumas. En vuelo, tanto las largas patas como las plumas centrales alargadas sobresalen por detrás de la cola, una combinación que no muestra ningún águila.",
+   "whereToSee": "Pastizales abiertos del Serengeti y el Masái Mara, las llanuras meridionales de Kruger, el Parque Transfronterizo de Kgalagadi, Etosha y el Karoo",
+   "season": "Residente todo el año; las parejas anidan en acacias de copa plana casi todos los meses",
+   "order": "Accipitriformes"
+  },
+  "lore": "El secretario figura en el escudo de Sudáfrica adoptado en 2000, con las alas alzadas como símbolo de protección, y en el escudo de Sudán. Su nombre se relaciona a menudo con su cresta de plumas, que recuerda a las plumas de escribir que un escribiente llevaba tras la oreja.",
+  "funFact": "La filmación a alta velocidad de un macho en cautividad mostró que cada patada dura unos 15 milisegundos, menos que un parpadeo humano, por lo que el ave debe apuntar antes de golpear."
+ },
+ {
+  "scientific": "Coracias caudatus",
+  "common": "Carraca lila",
+  "summary": "Una de las aves más fotografiadas de África: un cazador al acecho robusto, pintado de turquesa, azul ultramar, lila y canela, con dos largas plumas en la cola. Se posa a la vista en ramas secas y se deja caer sobre insectos y lagartos en el suelo.",
+  "nativeRange": "África oriental y meridional, desde Etiopía y Somalia hasta el norte de Sudáfrica y Namibia",
+  "biomes": [
+   "Sabana",
+   "Bosque abierto"
+  ],
+  "abilities": [
+   "Cazador al acecho que localiza pequeñas presas desde posaderos expuestos",
+   "Realiza un vuelo nupcial con volteretas y giros que da nombre a las carracas en inglés («rollers»)",
+   "Defiende con agresividad los huecos de nidificación, lanzándose en picado contra rapaces y otros intrusos"
+  ],
+  "animal": {
+   "diet": "Insectos grandes, escorpiones, ciempiés, lagartos pequeños, ranas y ocasionalmente pájaros pequeños",
+   "habitat": "Sabanas de acacias y bosques abiertos con posaderos dispersos",
+   "size": "Unos 36 cm incluidas las plumas largas de la cola; 100–130 g",
+   "behaviour": "En la exhibición, el ave asciende en fuerte pendiente y luego se lanza en picado balanceándose de lado a lado mientras emite ásperos reclamos.",
+   "fieldMarks": [
+    "Garganta y pecho lilas (azules en la subespecie norteña lorti)",
+    "Vientre turquesa, píleo verdoso y dorso pardo canela",
+    "Alas de un azul ultramar y turquesa brillantes, que destellan en vuelo",
+    "Dos plumas externas de la cola largas, finas y oscuras",
+    "Pico negro y robusto"
+   ],
+   "voice": "Reclamos ásperos y chirriantes, «rac» o «caac», que se encadenan en una serie crepitante durante el vuelo nupcial.",
+   "lookalikes": "La carraca europea (invernante) tiene la cabeza y el pecho azules y carece de plumas largas en la cola. La carraca abisinia tiene las partes inferiores enteramente azules y las plumas de la cola aún más largas, y vive al norte del ecuador. La carraca de raquetas tiene el pecho azul y las puntas de las plumas largas en forma de espátula. La carraca coroniparda es mayor, con las partes inferiores pardo púrpuras listadas y la cola recta.",
+   "whereToSee": "Masái Mara, Serengeti, Kruger, delta del Okavango, Chobe y Etosha; a menudo en árboles secos junto a las carreteras",
+   "season": "Residente todo el año",
+   "order": "Coraciiformes"
+  },
+  "lore": "Las carracas reciben su nombre inglés del vuelo nupcial con volteretas; el nombre del género, Coracias, procede del griego korakias, una especie de córvido.",
+  "funFact": "En la subespecie Coracias caudatus lorti de Etiopía y Somalia el pecho «lila» es azul, de modo que no todas las carracas lilas lo tienen."
+ },
+ {
+  "scientific": "Bucorvus leadbeateri",
+  "common": "Cálao terrestre sureño",
+  "summary": "Un cálao negro del tamaño de un pavo, con carúnculas faciales escarlatas, que recorre la sabana en grupos familiares cazando de todo, desde escarabajos hasta tortugas y serpientes. Es una de las aves de reproducción más lenta del mundo: los grupos sacan adelante de media un pollo cada nueve años.",
+  "nativeRange": "África oriental y meridional, desde Kenia y Burundi hasta Sudáfrica",
+  "biomes": [
+   "Sabana",
+   "Pastizal",
+   "Bosque abierto"
+  ],
+  "abilities": [
+   "Reproductor cooperativo: una pareja dominante recibe la ayuda de hijos mayores y otros miembros del grupo",
+   "Su retumbante coro al alba se oye a varios kilómetros a través de la sabana",
+   "Mata serpientes, liebres y tortugas a golpes de su enorme pico",
+   "Puede vivir varias décadas, en consonancia con su tasa reproductora muy lenta"
+  ],
+  "animal": {
+   "diet": "Insectos, reptiles como serpientes y tortugas, ranas, pequeños mamíferos y aves",
+   "habitat": "Sabanas y pastizales con árboles grandes que ofrezcan cavidades para anidar",
+   "lifespan": "Varias décadas; aves en cautividad han superado los 40 años",
+   "size": "Unos 90–130 cm de longitud; 3–6 kg",
+   "behaviour": "Un grupo de 2–10 aves mantiene un gran territorio, camina junto todo el día y emite un coro retumbante al amanecer para proclamar su posesión.",
+   "fieldMarks": [
+    "Ave muy grande, enteramente negra, con primarias blancas visibles en vuelo",
+    "Piel desnuda rojo vivo en la cara y carúncula gular hinchable",
+    "Las hembras tienen una mancha azul violácea en la garganta",
+    "Pico negro, robusto y curvado hacia abajo, con un casco bajo",
+    "Pestañas largas; camina por el suelo como un pavo"
+   ],
+   "voice": "Un dúo retumbante, grave y resonante, «umf umf-umf», emitido sobre todo al amanecer y audible a varios kilómetros.",
+   "lookalikes": "El cálao terrestre norteño, al norte del ecuador, tiene la piel desnuda azul y roja y un casco tubular abierto por delante. A distancia, las aves en el suelo se confunden a veces con pavos o buitres, pero la carúncula facial roja es inconfundible.",
+   "whereToSee": "Parque Nacional Kruger, Hluhluwe-iMfolozi, el Okavango y el Serengeti; a menudo caminando por la hierba abierta",
+   "season": "Residente todo el año; cría durante las lluvias del verano austral",
+   "order": "Bucerotiformes"
+  },
+  "lore": "Entre los pueblos zulú y xhosa el ave se asocia con la lluvia y las tormentas y está tradicionalmente protegida por un tabú; se dice que su retumbo anuncia la lluvia, y algunas comunidades solo mataban uno en épocas de sequía.",
+  "funFact": "Normalmente solo sale adelante uno de los dos huevos; el segundo pollo eclosiona días después y suele morir de hambre, por lo que los conservacionistas «recolectan» los segundos pollos para criarlos en cautividad y reintroducirlos."
+ },
+ {
+  "scientific": "Balearica regulorum",
+  "common": "Grulla coronada cuelligrís",
+  "summary": "Una grulla coronada por un halo de rígidas plumas doradas, famosa por sus exuberantes danzas. Ave nacional de Uganda, es una de las dos únicas grullas capaces de dormir en los árboles.",
+  "nativeRange": "África oriental y meridional, desde Uganda y Kenia hasta Sudáfrica",
+  "biomes": [
+   "Humedales",
+   "Pastizal",
+   "Tierras de cultivo"
+  ],
+  "abilities": [
+   "Su largo dedo posterior le permite aferrarse a las ramas y dormir en los árboles, a diferencia de la mayoría de las grullas",
+   "Elaboradas danzas con reverencias, saltos y aleteos refuerzan el vínculo de pareja",
+   "Hincha un saco gular rojo para producir un reclamo retumbante"
+  ],
+  "animal": {
+   "diet": "Omnívora: semillas, hierbas, insectos, ranas, lagartos y peces pequeños",
+   "habitat": "Marismas, pastizales húmedos y campos de cultivo cercanos a humedales",
+   "lifespan": "Más de 20 años en libertad",
+   "size": "Alrededor de 1 m de altura; envergadura de unos 2 m; 3–4 kg",
+   "behaviour": "Parejas y bandos danzan todo el año, cabeceando, haciendo reverencias y saltando muy alto mientras lanzan hierba al aire.",
+   "fieldMarks": [
+    "Corona dorada de plumas rígidas, como cerdas",
+    "Mancha desnuda blanca en la mejilla, rematada de rojo, y una pequeña carúncula roja en la garganta",
+    "Cuello y cuerpo gris pálido",
+    "Alas blancas con plumas doradas y castañas",
+    "Frente negra aterciopelada"
+   ],
+   "voice": "Un reclamo de dos notas, como un graznido de ganso, «mu-jem» o «ia-u»; también un retumbo grave emitido con el saco gular hinchado.",
+   "lookalikes": "La grulla coronada cuellinegra (África occidental y central, que coincide con ella en Uganda y Sudán del Sur) tiene el cuello y el cuerpo de gris oscuro a negro y una mancha en la mejilla blanca por arriba y roja por abajo (el rojo es más extenso en la subespecie oriental), mientras que la mejilla de la grulla coronada cuelligrís es casi toda blanca, con solo una pequeña mancha roja en la parte superior. La grulla carunculada es mayor, carece de corona dorada y tiene largas carúnculas emplumadas blancas.",
+   "whereToSee": "Humedales de Uganda (Mabamba, lago Mburo), el cráter del Ngorongoro, Amboseli y las Midlands de KwaZulu-Natal",
+   "season": "Residente; cría sobre todo durante las lluvias",
+   "order": "Gruiformes"
+  },
+  "lore": "La grulla coronada cuelligrís es el ave nacional de Uganda y figura en la bandera y el escudo del país. Su nombre afrikáans, «mahem», imita su reclamo.",
+  "funFact": "Su población se redujo a menos de la mitad en unos 45 años, en gran parte por la desecación de humedales y la captura para el comercio de aves vivas."
+ },
+ {
+  "scientific": "Icthyophaga vocifer",
+  "common": "Pigargo vocinglero",
+  "summary": "Un pigargo de cabeza blanca de los ríos y lagos africanos cuyo sonoro reclamo se conoce como «la voz de África». Atrapa peces de la superficie con un golpe de sus garras y es el ave nacional de Zambia, Zimbabue, Namibia y Sudán del Sur.",
+  "nativeRange": "África subsahariana, allí donde haya aguas abiertas dulces o costeras",
+  "biomes": [
+   "Lagos y ríos",
+   "Humedales",
+   "Estuario"
+  ],
+  "abilities": [
+   "Atrapa peces justo por debajo de la superficie; unas escamas espinosas en los dedos sujetan las presas resbaladizas",
+   "Puede nadar ayudándose de las alas cuando un pez es demasiado pesado para levantarlo",
+   "Roba presas a garzas, cigüeñas y otras aves",
+   "Las parejas cantan a dúo echando la cabeza hacia atrás y refuerzan así su territorio a lo largo de un tramo de orilla"
+  ],
+  "animal": {
+   "diet": "Principalmente peces; también aves acuáticas, flamencos, carroña y varanos jóvenes",
+   "habitat": "Grandes ríos, lagos, embalses, pantanos y lagunas costeras con posaderos altos",
+   "lifespan": "Unos 20–24 años en libertad",
+   "size": "63–75 cm de longitud; envergadura 2–2,4 m; las hembras son mayores",
+   "behaviour": "Vigila desde un árbol, desciende planeando y en el último momento adelanta las patas para atrapar un pez a menos de unos 15 cm de la superficie.",
+   "fieldMarks": [
+    "Cabeza, pecho, dorso y cola corta de un blanco níveo",
+    "Vientre y hombros castaño intenso",
+    "Alas negras",
+    "Cara desnuda amarilla y patas amarillas",
+    "Juveniles jaspeados de pardo y blanco, que tardan unos cinco años en adquirir el plumaje adulto"
+   ],
+   "voice": "Un reclamo potente, sonoro y a modo de gañido, «uiii-a, jio-jio-jio», emitido con la cabeza echada hacia atrás sobre los hombros, a menudo como dúo de la pareja.",
+   "lookalikes": "El buitre palmero es blanco con las alas negras, pero tiene el vientre blanco, la cara desnuda rojiza y la cola con la punta negra. El pigargo malgache (solo en Madagascar) tiene la cabeza y el cuerpo pardos. Los inmaduros se parecen a otras grandes águilas pardas, pero suelen mostrar algo de blanco en el pecho y la cola.",
+   "whereToSee": "Lagos Naivasha y Baringo (Kenia), río Chobe, delta del Okavango, lago Malaui, lago Kariba y Murchison Falls",
+   "season": "Residente todo el año",
+   "order": "Accipitriformes"
+  },
+  "lore": "El pigargo vocinglero figura en los escudos de Zambia, Namibia y Sudán del Sur, y la bandera de Zambia lo muestra en vuelo; su nombre zulú, Inkwazi, se dio al avión presidencial sudafricano.",
+  "funFact": "Antes incluido en Haliaeetus junto al pigargo cabeciblanco, en 2023 la Lista Mundial de Aves del IOC lo trasladó a Icthyophaga, con los pigargos tropicales más pequeños, aunque no todas las listas han seguido este cambio."
+ },
+ {
+  "scientific": "Lamprotornis superbus",
+  "common": "Estornino soberbio",
+  "summary": "Un estornino brillante de África oriental cuyas partes superiores iridiscentes azul verdosas y su vientre anaranjado están separados por una pulcra banda blanca. Atrevido y sociable, vive en grupos de cría cooperativa y es un habitual de los alojamientos de safari.",
+  "nativeRange": "África oriental: Etiopía, Somalia, Sudán del Sur, Uganda, Kenia y Tanzania",
+  "biomes": [
+   "Sabana",
+   "Matorral espinoso seco",
+   "Bosque abierto"
+  ],
+  "abilities": [
+   "Reproductor cooperativo en el que ayudantes, a menudo parientes, alimentan a los pollos",
+   "Su iridiscencia es estructural, producida por disposiciones de gránulos de melanina en las plumas",
+   "Los grupos de climas secos e impredecibles dependen más de los ayudantes, una relación estudiada como motor de la cría cooperativa"
+  ],
+  "animal": {
+   "diet": "Insectos, sobre todo termitas y escarabajos, además de frutos y semillas",
+   "habitat": "Sabanas secas de acacias, matorral espinoso, aldeas y recintos de alojamientos",
+   "size": "Unos 18 cm; 55–70 g",
+   "behaviour": "Los grupos buscan alimento en el suelo en partidas laxas y construyen voluminosos nidos abovedados de hierba en acacias espinosas.",
+   "fieldMarks": [
+    "Partes superiores y pecho azul verdoso metálico",
+    "Estrecha banda blanca que cruza el pecho",
+    "Vientre castaño anaranjado intenso",
+    "Ojo blanco cremoso",
+    "Infracoberteras caudales blancas"
+   ],
+   "voice": "Un gorjeo largo y divagante de frases parloteadas y silbadas, que a menudo incluye imitaciones; alarma: un áspero «chi-er».",
+   "lookalikes": "El estornino de Hildebrandt carece de la banda pectoral blanca y tiene el ojo rojo anaranjado. El estornino de Shelley tiene el vientre castaño más oscuro, sin banda pectoral blanca, y el ojo naranja. El estornino real tiene las partes inferiores amarillo doradas y la cola larga.",
+   "whereToSee": "Samburu, Tsavo, Amboseli y Masái Mara (Kenia), Serengeti y Tarangire (Tanzania) y el valle del Rift etíope",
+   "season": "Residente todo el año",
+   "order": "Passeriformes"
+  },
+  "lore": "Fue descrito por Eduard Rüppell en 1845 a partir de ejemplares recolectados en Etiopía, y su mansedumbre en campamentos y alojamientos lo ha convertido en una de las aves más fotografiadas de África oriental.",
+  "funFact": "Estudios a largo plazo en Kenia descubrieron que, entre años buenos y malos, los estorninos soberbios alternan entre más y menos ayudantes, una forma de protegerse frente a un clima impredecible."
+ },
+ {
+  "scientific": "Scopus umbretta",
+  "common": "Avemartillo",
+  "summary": "Una zancuda de un pardo uniforme con la cabeza en forma de martillo y el nido más extravagante de cualquier ave de su tamaño: un montículo abovedado de ramas de más de un metro de diámetro. Es el único miembro de su familia.",
+  "nativeRange": "África subsahariana, Madagascar y el suroeste de Arabia",
+  "biomes": [
+   "Humedales",
+   "Lagos y ríos",
+   "Sabana"
+  ],
+  "abilities": [
+   "Construye un nido abovedado de miles de ramas, revocado con barro, con una entrada lateral y una cámara interior",
+   "Las parejas pueden construir varios nidos así al año incluso cuando no crían",
+   "Los nidos abandonados son ocupados por rapaces nocturnas, ginetas, serpientes, abejas y otros animales"
+  ],
+  "animal": {
+   "diet": "Principalmente ranas y renacuajos; también peces pequeños, camarones e insectos",
+   "habitat": "Orillas someras de ríos, embalses, charcas y marismas con árboles cerca",
+   "size": "Unos 56 cm de longitud; 400–500 g",
+   "behaviour": "Los grupos realizan rituales de «falsa monta», subiéndose unos a la espalda de otros, un comportamiento no ligado al apareamiento.",
+   "fieldMarks": [
+    "Plumaje pardo apagado uniforme",
+    "Cresta dirigida hacia atrás que contrapesa un pico robusto, lo que le da un perfil de martillo",
+    "Pico negro aplanado y ligeramente ganchudo",
+    "Patas negras bastante cortas para una zancuda",
+    "Vuela con el cuello ligeramente extendido, a menudo con un vuelo ligero y planeado"
+   ],
+   "voice": "Un agudo y nasal «yip» o «kek» en vuelo; los grupos emiten coros excitados y ascendentes, «yip-purrr».",
+   "lookalikes": "Su silueta es única. A distancia puede recordar a una garza pequeña o a un martinete inmaduro, pero ninguna garza tiene la silueta de martillo formada por la gruesa cresta y el pico, ni el plumaje pardo uniforme.",
+   "whereToSee": "Casi cualquier humedal africano con árboles: Kruger, delta del Okavango, lago Naivasha, Murchison Falls; también el oeste de Madagascar",
+   "season": "Residente todo el año",
+   "order": "Pelecaniformes"
+  },
+  "lore": "En gran parte de África el avemartillo es un ave de presagio: una creencia zulú y xhosa advierte que dañarlo a él o a su nido atrae el rayo o la desgracia, y en Madagascar se asocia con la mala suerte.",
+  "funFact": "Un solo nido de avemartillo puede tardar meses en construirse, contener miles de ramas y, según se dice, es lo bastante resistente para soportar el peso de una persona."
+ },
+ {
+  "scientific": "Phoeniconaias minor",
+  "common": "Flamenco enano",
+  "summary": "El flamenco más pequeño y, con diferencia, el más numeroso, que se reúne en balsas rosadas de cientos de miles de aves en los lagos alcalinos (de sosa) de África. Se alimenta casi exclusivamente de cianobacterias microscópicas que filtra del agua superficial.",
+  "nativeRange": "Valle del Rift y salinas de África oriental y meridional; África occidental; noroeste de la India y Pakistán",
+  "biomes": [
+   "Lago alcalino",
+   "Salina",
+   "Laguna"
+  ],
+  "abilities": [
+   "Filtra cianobacterias (sobre todo Arthrospira, la «espirulina») con un pico de quilla profunda que mantiene invertido",
+   "Cría en las llanuras fangosas del hiperalcalino lago Natron, adonde pocos depredadores pueden seguirlo",
+   "Su color rosa procede de los pigmentos carotenoides de su alimento",
+   "Los bandos se desplazan cientos de kilómetros entre lagos, sobre todo de noche, siguiendo el alimento"
+  ],
+  "animal": {
+   "diet": "Cianobacterias y diatomeas bentónicas",
+   "habitat": "Lagos alcalinos y salinos, lagunas y salinas",
+   "lifespan": "Puede superar los 40 años",
+   "size": "Unos 80–90 cm de altura; 1,2–2,7 kg",
+   "behaviour": "Antes de criar, enormes bandos realizan exhibiciones sincronizadas de «marcha», con la cabeza alzada y girando al unísono.",
+   "fieldMarks": [
+    "Plumaje rosa intenso, a menudo más marcadamente rosado que el del flamenco común",
+    "Pico rojo carmín oscuro que a distancia parece negro",
+    "Ojo y piel facial rojo oscuro",
+    "En vuelo, coberteras alares carmesí y plumas de vuelo negras",
+    "Notablemente más pequeño que el flamenco común"
+   ],
+   "voice": "Un murmullo agudo, como de ganso, «murr-err», en los bandos que se alimentan; reclamos en vuelo más agudos que los del flamenco común.",
+   "lookalikes": "El flamenco común es más alto y más pálido, con el pico rosa pálido de punta negra bien definida y el ojo amarillo. El flamenco enano parece compacto y tiene el pico uniformemente oscuro.",
+   "whereToSee": "Lagos Bogoria y Nakuru (Kenia), lago Natron (Tanzania), Etosha y Walvis Bay (Namibia), presa de Kamfers (Sudáfrica) y Pequeño Rann de Kutch (India)",
+   "season": "Presente todo el año en el valle del Rift, desplazándose entre lagos; cría en el lago Natron sobre todo de agosto a noviembre",
+   "order": "Phoenicopteriformes"
+  },
+  "lore": "El principal lugar de cría del flamenco enano, el lago Natron, se vio amenazado en la década de 2000 por un proyecto de planta de carbonato sódico, que su promotor abandonó en 2008 tras campañas internacionales, aunque la idea ha resurgido desde entonces.",
+  "funFact": "El agua del lago Natron puede superar un pH de 10 y temperaturas de más de 40 °C, y aun así alberga las mayores colonias de cría de flamenco enano del planeta."
+ },
+ {
+  "scientific": "Indicator indicator",
+  "common": "Indicador grande",
+  "summary": "Un pájaro forestal de colores apagados con una alianza extraordinaria: guía a las personas hasta los nidos de abejas silvestres y se alimenta de la cera que queda tras extraer la miel. También es un parásito de cría cuyos pollos matan a sus hermanos adoptivos.",
+  "nativeRange": "África subsahariana, fuera de las selvas más densas y los desiertos más secos",
+  "biomes": [
+   "Sabana",
+   "Bosque abierto"
+  ],
+  "abilities": [
+   "Guía a las personas hasta los nidos de abejas con un reclamo parloteante y vuelos cortos",
+   "Responde a llamadas humanas concretas: el trino «brrr-hm» de los meleros yao aumenta la probabilidad de ser guiados",
+   "Puede digerir la cera de abeja, una capacidad rara entre los vertebrados",
+   "Pone sus huevos en nidos de aves que crían en cavidades, como abejarucos y barbudos; el pollo recién nacido usa la punta ganchuda del pico para matar a los pollos del hospedador"
+  ],
+  "animal": {
+   "diet": "Cera de abeja, larvas y huevos de abeja, e insectos",
+   "habitat": "Bosques de miombo y de acacias, y sabanas",
+   "size": "Unos 20 cm; 40–55 g",
+   "behaviour": "Cuando guía, vuela por delante a saltos cortos, llamando y abriendo en abanico su cola de bordes blancos, y espera a que sus seguidores humanos lo alcancen.",
+   "fieldMarks": [
+    "Macho: pico rosado, garganta negra y mancha auricular blanca",
+    "Partes superiores pardo grisáceas, con una mancha amarilla en el hombro en los machos",
+    "Plumas externas de la cola blancas, visibles en vuelo",
+    "Hembras e inmaduros más uniformes; los juveniles tienen la garganta y el pecho amarillos"
+   ],
+   "voice": "Canto del macho: un «vic-tor» o «uit-purrr» repetido y audible a gran distancia; el reclamo de guía es una carraca seca y parloteante, insistente.",
+   "lookalikes": "El indicador menor es más pequeño, con tono oliváceo, un pico oscuro y rechoncho y sin garganta negra. El indicador escamoso tiene la garganta con diseño escamado. Los juveniles de indicador grande, de garganta amarilla, pueden confundirse con otros pájaros pequeños de garganta amarilla.",
+   "whereToSee": "Reserva Especial de Niassa (Mozambique), donde los meleros yao aún trabajan con él; territorio hadza en torno al lago Eyasi (Tanzania); bosques de miombo de Zambia y Malaui",
+   "season": "Residente todo el año",
+   "order": "Piciformes"
+  },
+  "lore": "El misionero jesuita João dos Santos describió en el siglo XVI a indicadores que comían cera de las velas en una iglesia de Mozambique. Un estudio publicado en Science en 2016 demostró que los indicadores silvestres aprenden y responden a la llamada tradicional de los meleros del pueblo yao.",
+  "funFact": "Un estudio de 2023 descubrió que los indicadores de distintas regiones han aprendido a responder a distintas llamadas humanas locales, una cultura compartida entre especies."
+ },
+ {
+  "scientific": "Polemaetus bellicosus",
+  "common": "Águila marcial",
+  "summary": "La mayor águila de África, una poderosa cazadora de galliformes, varanos y pequeños antílopes. Caza desde un vuelo planeado a gran altura y localiza a sus presas a varios kilómetros de distancia.",
+  "nativeRange": "África subsahariana, en terrenos abiertos y semiáridos",
+  "biomes": [
+   "Sabana",
+   "Matorral semidesértico",
+   "Bosque abierto"
+  ],
+  "abilities": [
+   "Vista excepcional; localiza presas a gran distancia mientras planea",
+   "Mata presas tan grandes como antílopes jóvenes, chacales y varanos",
+   "Utiliza enormes nidos de ramas que pueden reutilizarse durante décadas"
+  ],
+  "animal": {
+   "diet": "Pintadas, francolines, avutardas, damanes, liebres, varanos y antílopes jóvenes",
+   "habitat": "Sabanas, matorral espinoso y semidesiertos con árboles altos o torres eléctricas para anidar",
+   "size": "78–96 cm de longitud; envergadura de unos 1,9–2,6 m; 3–6 kg",
+   "behaviour": "Caza sobre todo desde un planeo alto en amplios círculos y luego desciende en un picado largo y tendido sobre presas desprevenidas.",
+   "fieldMarks": [
+    "Cabeza, garganta y parte superior del pecho pardo oscuro, formando una capucha",
+    "Parte inferior del pecho y vientre blancos, ligeramente moteados de pardo oscuro",
+    "Cresta corta; ojo amarillo vivo",
+    "Patas emplumadas",
+    "En vuelo, cara inferior de las alas oscura que contrasta con el vientre claro"
+   ],
+   "voice": "Casi siempre silenciosa; en la exhibición, un sonoro y vibrante «kli-kli-kluí».",
+   "lookalikes": "La culebrera pechinegra tiene una capucha oscura similar, pero el vientre blanco sin motas, las patas desnudas y claras, una cabeza grande y redonda con ojos amarillo anaranjados y la cara inferior de las alas clara. Los juveniles son blanco grisáceos por debajo y pueden confundirse con juveniles de águila coronada, que tienen las patas y la cola barradas.",
+   "whereToSee": "Kruger y Kgalagadi (Sudáfrica), Etosha (Namibia), Masái Mara y Tsavo (Kenia)",
+   "season": "Residente todo el año",
+   "order": "Accipitriformes"
+  },
+  "lore": "Su nombre científico significa «águila de guerra belicosa». Los ganaderos la han perseguido durante mucho tiempo por matar ganado; estudios en Kruger registraron fuertes declives incluso dentro de áreas protegidas.",
+  "funFact": "Incluso en grandes reservas como Kruger, el número de águilas marciales cayó a menos de la mitad en unas dos décadas, lo que motivó su paso a la categoría En Peligro en 2020."
+ },
+ {
+  "scientific": "Merops nubicoides",
+  "common": "Abejaruco carmesí sureño",
+  "summary": "Un abejaruco carmesí y turquesa que anida en colonias de cientos o miles de túneles excavados en las orillas de los ríos. Es famoso por cazar los insectos que levantan los animales en pastoreo, a veces montado a lomos de avutardas kori.",
+  "nativeRange": "África meridional, desde Angola y el sur de la R. D. del Congo hasta el norte de Sudáfrica; se dispersa más ampliamente tras la cría",
+  "biomes": [
+   "Taludes fluviales",
+   "Sabana",
+   "Llanura de inundación"
+  ],
+  "abilities": [
+   "Excava túneles de normalmente 1–2 m de longitud, a veces más, en paredes verticales de arena",
+   "Monta sobre avutardas kori, avestruces y grandes mamíferos para atrapar los insectos que estos levantan",
+   "Acude a los incendios de matorral para atrapar los insectos que huyen",
+   "Elimina el aguijón de abejas y avispas golpeándolas contra un posadero"
+  ],
+  "animal": {
+   "diet": "Insectos voladores: abejas, avispas, langostas, saltamontes, escarabajos y libélulas",
+   "habitat": "Valles fluviales, llanuras de inundación y sabanas",
+   "size": "Unos 27–38 cm incluidas las plumas centrales de la cola",
+   "behaviour": "Colonias de miles de aves se arremolinan sobre las orillas de los ríos, y cada pareja excava su propio túnel al lado de sus vecinas.",
+   "fieldMarks": [
+    "Cuerpo rojo rosado carmín",
+    "Píleo e infracoberteras caudales azul turquesa",
+    "Antifaz negro a través del ojo",
+    "Plumas centrales de la cola largas y puntiagudas",
+    "Pico negro, fino y curvado hacia abajo"
+   ],
+   "voice": "Reclamos graves y guturales, «terc» o «cric-cric», que los bandos emiten sin cesar.",
+   "lookalikes": "El abejaruco carmesí norteño, al norte del ecuador, tiene la garganta azul verdosa en lugar de carmín. Los demás abejarucos de su área son en su mayoría verdes y ninguno es carmín por entero.",
+   "whereToSee": "Valle del Luangwa (Zambia), ríos Zambeze y Chobe, delta del Okavango y Mana Pools (Zimbabue)",
+   "season": "Migrante intraafricano; cría de agosto a diciembre en el sur de África y luego se dispersa hacia el norte y el sur",
+   "order": "Coraciiformes"
+  },
+  "lore": "Las colonias de abejaruco carmesí sureño en las orillas del Zambeze y el Luangwa son un célebre atractivo de la estación seca en el sur de África.",
+  "funFact": "Una colonia de cría puede reunir varios miles de aves concentradas en un solo banco de arena."
+ },
+ {
+  "scientific": "Promerops cafer",
+  "common": "Promerops de El Cabo",
+  "summary": "Un endemismo del fynbos cuyos machos lucen una cola de casi el doble de la longitud de su cuerpo. Es un polinizador clave de las proteas, en cuyas inflorescencias hunde su largo pico en busca de néctar.",
+  "nativeRange": "Fynbos de las provincias del Cabo Occidental y el Cabo Oriental, Sudáfrica",
+  "biomes": [
+   "Fynbos",
+   "Matorral mediterráneo"
+  ],
+  "abilities": [
+   "Poliniza muchas proteas y otras plantas del fynbos mientras se alimenta de néctar",
+   "Los machos realizan vuelos de exhibición con la cola echada sobre el dorso y las alas crepitando",
+   "Tapiza su nido con la pelusa algodonosa de las semillas de protea"
+  ],
+  "animal": {
+   "diet": "Néctar, sobre todo de Protea, además de insectos y arañas",
+   "habitat": "Fynbos maduro con proteas en flor; jardines",
+   "size": "Machos hasta ~44 cm incluida la cola; hembras ~29 cm",
+   "behaviour": "Los machos vigilan desde posaderos altos las manchas de proteas en flor y expulsan a rivales y suimangas.",
+   "fieldMarks": [
+    "Cola muy larga en los machos (más corta en las hembras)",
+    "Partes superiores pardas y pecho blanco listado de pardo",
+    "Infracoberteras caudales amarillo vivo",
+    "Bigote blanco y bigotera oscura",
+    "Pico largo y curvado hacia abajo"
+   ],
+   "voice": "Una mezcla de notas ásperas, chirriantes y metálicas; los machos en exhibición producen con las alas un crepitar «frrrt».",
+   "lookalikes": "El promerops de Gurney, que vive más al este, en la gran escarpa oriental, tiene el píleo y el pecho rojizos y la cola más corta. Los machos de suimanga malaquita son verdes, no pardos.",
+   "whereToSee": "Jardín Botánico Nacional de Kirstenbosch, jardín Harold Porter (Betty's Bay), Reserva Natural de Helderberg y Cape Point",
+   "season": "Residente; cría sobre todo durante las lluvias invernales (abril–agosto)",
+   "order": "Passeriformes"
+  },
+  "lore": "Los promerops forman una familia propia exclusiva del sur de África, y el promerops de El Cabo es un emblema de la Región Florística del Cabo, uno de los reinos vegetales más ricos del mundo.",
+  "funFact": "Como el fuego quema periódicamente el fynbos y las proteas tardan años en rebrotar y florecer, los promerops se desplazan localmente siguiendo los rodales maduros de proteas en flor."
+ },
+ {
+  "scientific": "Psittacus erithacus",
+  "common": "Yaco (loro gris)",
+  "summary": "Un loro gris de cola roja de los bosques de África occidental y central, famoso por su capacidad de imitar el habla y usar palabras con sentido. La captura para el comercio de mascotas ha devastado las poblaciones silvestres.",
+  "nativeRange": "África ecuatorial, desde Costa de Marfil hasta el oeste de Kenia y Tanzania",
+  "biomes": [
+   "Selva tropical",
+   "Lindes de bosque",
+   "Manglar"
+  ],
+  "abilities": [
+   "Imitador vocal excepcional; las aves en cautividad aprenden cientos de palabras",
+   "En estudios de laboratorio muestra capacidades de categorización, número e inferencia",
+   "Al anochecer se reúne en dormideros comunales de cientos a miles de aves",
+   "Visita claros forestales para comer arcilla, probablemente para facilitar la digestión o la ingesta de minerales"
+  ],
+  "animal": {
+   "diet": "Frutos, semillas y nueces, sobre todo frutos de palma aceitera",
+   "habitat": "Selvas de tierras bajas, lindes de bosque, mosaicos de sabana y bosque, y manglares",
+   "lifespan": "Hasta 40–60 años en cautividad",
+   "size": "Unos 33 cm; 400–500 g",
+   "behaviour": "Al anochecer, los bandos vuelan hacia los dormideros comunales con fuertes chillidos y silbidos, a menudo en parejas dentro del bando.",
+   "fieldMarks": [
+    "Cuerpo gris ceniza, con la cabeza y el cuello más claros y festoneados",
+    "Cola escarlata brillante",
+    "Mancha facial blanca desnuda alrededor de un ojo amarillo pálido",
+    "Pico negro y robusto"
+   ],
+   "voice": "Silbidos agudos, chillidos y chasquidos en vuelo; las aves silvestres rara vez imitan.",
+   "lookalikes": "El yaco timneh (África occidental, de Guinea a Costa de Marfil), hoy considerado especie aparte, es de un gris más oscuro, con la cola granate y la mandíbula superior de color cuerno.",
+   "whereToSee": "Lobéké y Dja (Camerún), Odzala-Kokoua (República del Congo), Kibale (Uganda), la isla de Príncipe; claros forestales conocidos como bais",
+   "season": "Residente",
+   "order": "Psittaciformes"
+  },
+  "lore": "Alex (1976–2007), el yaco de Irene Pepperberg, podía nombrar objetos, colores, formas y cantidades. Las plumas rojas de la cola se han usado desde antiguo en rituales yoruba y en insignias reales.",
+  "funFact": "Se calcula que en las últimas décadas han entrado en el comercio internacional más de un millón de yacos capturados en libertad; la especie pasó al Apéndice I de CITES en 2016."
+ },
+ {
+  "scientific": "Numida meleagris",
+  "common": "Pintada común",
+  "summary": "Una galliforme ruidosa y moteada con un casco óseo, que vive en bandos por las sabanas africanas. Domesticada en África y llevada a Europa y América, hoy se cría y se consume en todo el mundo.",
+  "nativeRange": "África subsahariana; introducida y domesticada ampliamente",
+  "biomes": [
+   "Sabana",
+   "Pastizal",
+   "Tierras de cultivo"
+  ],
+  "abilities": [
+   "Come garrapatas e insectos, y en las granjas se cría en parte para el control de plagas",
+   "Los bandos dan sonoras alarmas que avisan a otros animales de la presencia de depredadores",
+   "Corre deprisa y de noche duerme en los árboles"
+  ],
+  "animal": {
+   "diet": "Semillas, bulbos, insectos, garrapatas y caracoles",
+   "habitat": "Sabanas, pastizales, campos de cultivo y matorral",
+   "size": "53–58 cm; 1,3 kg",
+   "behaviour": "Bandos de decenas o incluso cientos de aves caminan en largas filas, llamándose estridentemente; huyen corriendo en lugar de volando.",
+   "fieldMarks": [
+    "Plumaje gris pizarra cubierto de motas blancas",
+    "Casco óseo de color cuerno en lo alto de la cabeza",
+    "Cabeza desnuda azul y roja con carúnculas",
+    "Cuerpo redondeado y jorobado"
+   ],
+   "voice": "Una alarma áspera y chirriante, «kec-kec-kec-krrrr», y un reclamo rítmico de dos sílabas; los bandos son muy ruidosos.",
+   "lookalikes": "La pintada moñuda tiene un penacho negro rizado en lugar de casco. La pintada vulturina tiene el cuerpo largo y esbelto, el pecho azul cobalto y la cabeza desnuda sin casco.",
+   "whereToSee": "Casi cualquier reserva de sabana de África oriental y meridional; Kruger, Serengeti y Etosha",
+   "season": "Residente todo el año",
+   "order": "Galliformes"
+  },
+  "lore": "El mito griego contaba que las hermanas del héroe Meleagro lo lloraron y fueron transformadas en pintadas, y sus lágrimas se convirtieron en las motas blancas; de ahí «meleagris». Los romanos la conocían como la gallina de Numidia.",
+  "funFact": "El nombre del género del pavo, Meleagris, se tomó del nombre clásico de la pintada, herencia de la temprana confusión europea entre ambas aves."
+ },
+ {
+  "scientific": "Acryllium vulturinum",
+  "common": "Pintada vulturina",
+  "summary": "La mayor de las pintadas, con una cabeza desnuda de aspecto de buitre y largas plumas del cuello azul cobalto y blancas. Los investigadores descubrieron que vive en una sociedad multinivel, una estructura social que se creía limitada a mamíferos de cerebro grande.",
+  "nativeRange": "Noreste árido de África: Etiopía, Somalia, Kenia y el noreste de Tanzania",
+  "biomes": [
+   "Matorral espinoso seco",
+   "Matorral semidesértico",
+   "Sabana"
+  ],
+  "abilities": [
+   "Forma grupos estables que se asocian en una sociedad multinivel estructurada",
+   "Puede sobrevivir bebiendo muy poca agua, obteniendo la humedad de su alimento",
+   "Las decisiones del grupo sobre la dirección a seguir están influidas por muchos miembros, no solo por los dominantes"
+  ],
+  "animal": {
+   "diet": "Semillas, frutos, hojas e invertebrados",
+   "habitat": "Matorrales y pastizales secos, a menudo a lo largo de bosques de ribera",
+   "size": "Unos 60–72 cm; 1–1,6 kg",
+   "behaviour": "Grupos de 15–60 aves duermen juntos en los árboles y en ciertos momentos se fusionan en supergrupos mayores.",
+   "fieldMarks": [
+    "Cabeza desnuda gris azulada con una mancha castaña en la nuca",
+    "Largas plumas listadas de azul cobalto, blanco y negro sobre el cuello y el dorso",
+    "Pecho azul cobalto",
+    "Cola larga y constitución esbelta",
+    "Ojo rojo"
+   ],
+   "voice": "Alarmas ásperas y tintineantes, «chinc-chinc-chinc», y un sonoro parloteo de regaño.",
+   "lookalikes": "La pintada común es más rechoncha, con un casco óseo y el plumaje gris uniformemente moteado, y carece de las plumas listadas del cuello y del pecho azul.",
+   "whereToSee": "Samburu, Buffalo Springs y Shaba (Kenia), Tsavo Este, Meru y Awash (Etiopía)",
+   "season": "Residente todo el año",
+   "order": "Galliformes"
+  },
+  "lore": "Una investigación del Centro de Investigación de Mpala (Kenia), publicada en 2019, describió la primera sociedad multinivel conocida en un ave, y comparó la pintada vulturina con los primates y los elefantes.",
+  "funFact": "Su cabeza de «buitre» carece de plumas, probablemente una adaptación para perder calor en territorios cálidos y secos."
+ },
+ {
+  "scientific": "Philetairus socius",
+  "common": "Tejedor republicano",
+  "summary": "Un pájaro del tamaño de un gorrión que construye los nidos más grandes de todas las aves: colosales almiares comunales en acacias de camello que albergan a cientos de aves en cámaras separadas. El nido amortigua las temperaturas de los días abrasadores y las noches heladas del Kalahari.",
+  "nativeRange": "África meridional: Namibia, Botsuana y Sudáfrica (Kalahari y Karoo)",
+  "biomes": [
+   "Matorral semidesértico",
+   "Sabana"
+  ],
+  "abilities": [
+   "Construye nidos de hasta alrededor de una tonelada, con 100 o más cámaras separadas",
+   "El interior del nido se mantiene mucho más cálido de noche y más fresco de día que el exterior",
+   "Las colonias pueden utilizarse durante muchas décadas, algunas durante más de un siglo",
+   "Proporciona hogar a halcones pigmeos, inseparables, fringílidos y reptiles"
+  ],
+  "animal": {
+   "diet": "Insectos, sobre todo termitas, además de semillas",
+   "habitat": "Sabanas áridas con árboles grandes como la acacia de camello (Vachellia erioloba), también postes telefónicos",
+   "size": "Unos 14 cm; 25–30 g",
+   "behaviour": "Los miembros de la colonia añaden paja al techo sin cesar y mantienen sus cámaras individuales; los ayudantes alimentan a los pollos.",
+   "fieldMarks": [
+    "Mancha negra en la barbilla y la garganta",
+    "Dorso con diseño festoneado de plumas oscuras con bordes claros",
+    "Flancos escamados de blanco y negro",
+    "Pico cónico, robusto y claro",
+    "Píleo parduzco"
+   ],
+   "voice": "Reclamos de contacto parloteantes y gorjeantes en torno a la colonia; un «chip-chip» en vuelo.",
+   "lookalikes": "El tejedor escamoso es más pequeño, con un bigote blanco y listas negras, y carece de garganta negra. Los gorriones comunes carecen de los flancos escamados y de la barbilla negra.",
+   "whereToSee": "Parque Transfronterizo de Kgalagadi, cataratas de Augrabies, carreteras del Kalahari en Namibia (nidos en postes telefónicos) y Etosha",
+   "season": "Residente todo el año",
+   "order": "Passeriformes"
+  },
+  "lore": "El naturalista francés François Le Vaillant describió los nidos gigantes en la década de 1780; el nombre francés del ave, républicain, compara una colonia con una república.",
+  "funFact": "Los nidos grandes pueden derribar los árboles que los sostienen, sobre todo cuando la lluvia empapa la paja."
+ },
+ {
+  "scientific": "Quelea quelea",
+  "common": "Quelea común",
+  "summary": "Probablemente el ave silvestre más abundante del planeta, con una población posreproductora estimada en unos 1.500 millones. Sus enormes bandos, que oscurecen el cielo, pueden arrasar un campo de cereal en horas, lo que le ha valido el apodo de «langosta con plumas».",
+  "nativeRange": "África subsahariana, fuera de la selva y del desierto propiamente dicho",
+  "biomes": [
+   "Sabana",
+   "Pastizal",
+   "Tierras de cultivo"
+  ],
+  "abilities": [
+   "Forma bandos de millones de aves que se desplazan con las lluvias estacionales siguiendo la maduración de las semillas de gramíneas",
+   "Las colonias de cría pueden contener millones de nidos repartidos en muchas hectáreas",
+   "Los pollos pueden abandonar el nido unas dos semanas después de eclosionar"
+  ],
+  "animal": {
+   "diet": "Semillas de gramíneas, cereales cultivados e insectos",
+   "habitat": "Sabanas secas, pastizales y tierras de cultivo",
+   "size": "Unos 12 cm; 15–26 g",
+   "behaviour": "Los bandos en alimentación «ruedan» por el suelo a medida que las aves de atrás saltan por encima de las de delante.",
+   "fieldMarks": [
+    "Pico cónico grueso y rojo (amarillento en las hembras reproductoras)",
+    "Machos reproductores: máscara facial negra (o clara) enmarcada en rosa o ante",
+    "Cuerpo pardo listado, parecido al de un gorrión",
+    "Anillo ocular rojo"
+   ],
+   "voice": "Un gorjeo parloteante constante en los bandos; canto del macho: un gorjeo áspero y desordenado.",
+   "lookalikes": "La quelea cabecirroja y la quelea cardenal tienen el pico más pequeño, y los machos reproductores tienen la cabeza roja. Los obispos y viudas fuera de la época de cría se parecen, pero tienen el pico oscuro o de color cuerno, no rojo.",
+   "whereToSee": "Grandes bandos en el Kalahari, Etosha, el Serengeti y el Sahel, sobre todo cerca del agua en la estación seca",
+   "season": "Presente todo el año, desplazándose de forma nómada con las lluvias; cría en la estación húmeda",
+   "order": "Passeriformes"
+  },
+  "lore": "El control de la quelea, mediante fumigaciones aéreas y explosivos en los dormideros, ha sido un importante programa agrícola en toda África desde mediados del siglo XX.",
+  "funFact": "Pese a que las operaciones de control matan muchos millones de aves cada año, la población total de la quelea no ha disminuido de forma apreciable."
+ },
+ {
+  "scientific": "Gyps rueppelli",
+  "common": "Buitre moteado",
+  "summary": "Un gran buitre del género Gyps del Sahel y África oriental y el ave que más alto ha volado según los registros. Una hemoglobina especializada le permite respirar a altitudes en las que una persona perdería el conocimiento.",
+  "nativeRange": "Sahel y África oriental, desde Senegal hasta Etiopía y Tanzania",
+  "biomes": [
+   "Sabana",
+   "Cortados de montaña",
+   "Matorral semidesértico"
+  ],
+  "abilities": [
+   "En 1973 chocó con un avión comercial a 11.300 m sobre Costa de Marfil, el vuelo a mayor altitud registrado en un ave",
+   "Tiene una variante de hemoglobina que fija bien el oxígeno a baja presión",
+   "Limpia los cadáveres con rapidez, lo que limita la propagación de enfermedades",
+   "Planea en las térmicas durante horas mientras busca alimento"
+  ],
+  "animal": {
+   "diet": "Carroña, sobre todo tejidos blandos de grandes mamíferos",
+   "habitat": "Sabanas y pastizales abiertos; anida en cortados",
+   "size": "85–107 cm de longitud; envergadura 2,3–2,6 m; 6,5–9 kg",
+   "behaviour": "Las colonias crían en cortados altos y buscan alimento en áreas inmensas, a menudo a 150 km del nido.",
+   "fieldMarks": [
+    "Cuerpo pardo oscuro con cada pluma bordeada de blanco crema, lo que le da un aspecto escamado y moteado",
+    "Pico de amarillento a color cuerno",
+    "Ojo amarillo pálido",
+    "Gorguera blanca en el cuello",
+    "En vuelo, finas líneas blancas en la cara inferior de las alas"
+   ],
+   "voice": "Siseos, chillidos y gruñidos en los cadáveres; por lo demás, silencioso.",
+   "lookalikes": "El buitre dorsiblanco africano tiene el plumaje pardo más uniforme y menos escamado, el pico y el ojo oscuros y, en vuelo, el obispillo blanco. El buitre orejudo es mayor, con la cabeza desnuda rosada y pliegues de piel arrugados.",
+   "whereToSee": "Serengeti, Masái Mara, montañas Simien (Etiopía) y montes Gol (Tanzania) para ver colonias en cortados",
+   "season": "Residente; se desplaza siguiendo a las manadas migratorias",
+   "order": "Accipitriformes"
+  },
+  "lore": "Su nombre inglés y científico honra al explorador alemán Eduard Rüppell, que recolectó ejemplares en el noreste de África en la década de 1820. Partes de buitre se usan en la medicina tradicional y la adivinación africanas, lo que impulsa la caza furtiva.",
+  "funFact": "Se calcula que su población cayó un 97 % en tres generaciones, sobre todo por envenenamiento, incluido el de cadáveres de elefante por parte de furtivos para que los buitres que vuelan en círculo no los delaten."
+ },
+ {
+  "scientific": "Icthyophaga vociferoides",
+  "common": "Pigargo malgache",
+  "summary": "Una de las rapaces más raras del mundo, confinada en unos pocos lagos, ríos y manglares del oeste de Madagascar. En ocasiones, otros adultos ayudan a las parejas en el nido.",
+  "nativeRange": "Oeste de Madagascar",
+  "biomes": [
+   "Lagos y ríos",
+   "Manglar",
+   "Bosque seco caducifolio"
+  ],
+  "abilities": [
+   "Pesca desde posaderos altos junto al agua",
+   "Algunas parejas crían con la ayuda de aves adultas adicionales"
+  ],
+  "animal": {
+   "diet": "Principalmente peces, sobre todo especies autóctonas y tilapias introducidas",
+   "habitat": "Grandes lagos, ríos, estuarios y manglares con árboles altos",
+   "size": "70–80 cm; envergadura de unos 1,8–2 m",
+   "behaviour": "Las parejas defienden una orilla del lago y llaman sonoramente desde posaderos altos.",
+   "fieldMarks": [
+    "Cuerpo pardo, con mejillas y garganta blanco parduzcas claras",
+    "Píleo pardo más oscuro",
+    "Cola blanca en los adultos",
+    "Pico claro",
+    "Alas de un pardo más oscuro"
+   ],
+   "voice": "Un reclamo potente, agudo y a modo de gañido, parecido al del pigargo vocinglero pero más áspero y rápido.",
+   "lookalikes": "En su área no hay ninguna gran águila parecida. El aguilucho caricalvo malgache es más pequeño, gris y de patas largas.",
+   "whereToSee": "Complejo lacustre de Tsimembo-Manambolomaty (oeste de Madagascar) y región de Antsalova",
+   "season": "Residente",
+   "order": "Accipitriformes"
+  },
+  "lore": "The Peregrine Fund y las comunidades locales desarrollan proyectos sobre el pigargo malgache desde la década de 1990, combinando censos con medidas de protección de los lagos gestionadas por las comunidades.",
+  "funFact": "Es el pariente más cercano del pigargo vocinglero, desde el que probablemente llegaron sus antepasados a Madagascar."
+ },
+ {
+  "scientific": "Euryceros prevostii",
+  "common": "Vanga casco",
+  "summary": "Un ave de la selva del noreste de Madagascar con un enorme pico arqueado de color azul vivo. Los vangas son una espectacular radiación de aves exclusiva de Madagascar.",
+  "nativeRange": "Selvas de tierras bajas y altitudes medias del noreste de Madagascar",
+  "biomes": [
+   "Selva tropical"
+  ],
+  "abilities": [
+   "Usa su enorme pico para atrapar insectos grandes, lagartos y ranas",
+   "Forma parte de la radiación de los vangas, cuyas formas de pico abarcan las de muchas familias de aves"
+  ],
+  "animal": {
+   "diet": "Insectos grandes, camaleones, geckos y ranas",
+   "habitat": "Selvas inalteradas de tierras bajas y altitudes medias",
+   "size": "Unos 28–31 cm",
+   "behaviour": "Permanece inmóvil en el estrato medio del dosel durante largos ratos antes de lanzarse a por una presa.",
+   "fieldMarks": [
+    "Enorme pico arqueado de color azul vivo",
+    "Cabeza y partes inferiores negras",
+    "Dorso y centro de la cola rojizos",
+    "Ojo amarillo pálido"
+   ],
+   "voice": "Un trino silbado, largo y que se acelera, descendente hacia el final.",
+   "lookalikes": "Ningún otro ave tiene este pico. El vanga rojizo es más pequeño, con el pecho blanco y el pico gris azulado pálido.",
+   "whereToSee": "Parque Nacional de Masoala y Parque Nacional de Marojejy",
+   "season": "Residente",
+   "order": "Passeriformes"
+  },
+  "lore": "Recibió su nombre en honor del artista francés Florent Prévost; sigue siendo un ave muy codiciada por los observadores que visitan Masoala.",
+  "funFact": "Es el único miembro del género Euryceros, dentro de los vangas, una familia que en Madagascar se diversificó en multitud de formas de pico."
+ },
+ {
+  "scientific": "Spheniscus demersus",
+  "common": "Pingüino africano (pingüino de El Cabo)",
+  "summary": "El único pingüino que cría en África, en islas y playas desde Namibia hasta la bahía de Algoa. En 2024 se convirtió en la primera especie de pingüino catalogada como En Peligro Crítico.",
+  "nativeRange": "Costas e islas de Namibia y Sudáfrica",
+  "biomes": [
+   "Costa",
+   "Isla",
+   "Marino"
+  ],
+  "abilities": [
+   "Bucea hasta unos 130 m y nada a hasta unos 20 km/h",
+   "Tiene una zona de piel rosada desnuda sobre el ojo que le ayuda a disipar calor",
+   "Anida en madrigueras excavadas en el guano o bajo arbustos"
+  ],
+  "animal": {
+   "diet": "Sardinas, anchoas y otros peces gregarios pequeños",
+   "habitat": "Islas rocosas, playas resguardadas y la corriente de Benguela",
+   "lifespan": "10–25 años",
+   "size": "Unos 60–70 cm; 2,2–3,5 kg",
+   "behaviour": "Las parejas se reencuentran cada temporada en la misma madriguera y se saludan con sonoros rebuznos.",
+   "fieldMarks": [
+    "Dorso negro y parte delantera blanca",
+    "Una sola banda negra que cruza el pecho",
+    "Mancha de piel rosada desnuda sobre el ojo",
+    "Franja blanca que se curva desde encima del ojo hasta el pecho",
+    "Motas negras únicas en el pecho"
+   ],
+   "voice": "Un sonoro rebuzno, como de burro, emitido con la cabeza echada hacia atrás.",
+   "lookalikes": "El pingüino magallánico (Sudamérica) tiene dos bandas pectorales; el pingüino de Humboldt tiene más rosa en la cara y una sola banda. Ningún otro pingüino cría en África.",
+   "whereToSee": "Boulders Beach (Simon's Town), Stony Point (Betty's Bay), isla Robben e isla Bird en la bahía de Algoa",
+   "season": "Presente todo el año; cría la mayoría de los meses, con picos que varían según la colonia",
+   "order": "Sphenisciformes"
+  },
+  "lore": "Sus nidos fueron destruidos por la explotación del guano en los siglos XIX y XX, y sus huevos se recolectaban como alimento; solo en la isla Dassen se recogieron millones de huevos.",
+  "funFact": "La población reproductora ha caído por debajo de las 10.000 parejas, cuando hace un siglo quizá superaba el millón de aves."
+ },
+ {
+  "scientific": "Terathopius ecaudatus",
+  "common": "Águila volatinera",
+  "summary": "Un águila llamativa casi sin cola, con la cara y las patas rojas y un vuelo bamboleante de funambulista. Pasa gran parte del día planeando a baja altura sobre la sabana en busca de carroña y presas.",
+  "nativeRange": "África subsahariana y suroeste de Arabia",
+  "biomes": [
+   "Sabana",
+   "Bosque abierto"
+  ],
+  "abilities": [
+   "Planea durante horas, inclinándose de lado a lado, casi sin aletear",
+   "Abre las alas en posturas «heráldicas» para tomar el sol",
+   "Encuentra cadáveres y a menudo es la primera en llegar"
+  ],
+  "animal": {
+   "diet": "Carroña, aves, pequeños mamíferos y reptiles",
+   "habitat": "Sabanas y bosques abiertos",
+   "size": "55–70 cm; envergadura de unos 1,7–1,8 m",
+   "behaviour": "Vuela con las alas en una V poco marcada, balanceándose de lado a lado, costumbre que inspiró su nombre francés, que significa «acróbata».",
+   "fieldMarks": [
+    "Cola muy corta; las patas sobresalen por detrás de ella en vuelo",
+    "Cuerpo negro con el dorso castaño (crema en algunas aves)",
+    "Cara y patas rojo vivo",
+    "Mancha gris en el hombro",
+    "Las hembras tienen las secundarias grises; los machos, negras"
+   ],
+   "voice": "Un sonoro «cau-au» a modo de ladrido y un áspero «schaaau».",
+   "lookalikes": "La culebrera pechinegra tiene la cola larga y el vientre blanco. Las águilas volatineras juveniles son pardas y pueden parecerse a otras águilas pardas, pero comparten la silueta de cola corta.",
+   "whereToSee": "Kruger, Kgalagadi, Okavango, Serengeti y Masái Mara",
+   "season": "Residente",
+   "order": "Accipitriformes"
+  },
+  "lore": "François Le Vaillant la llamó «bateleur» (en francés, saltimbanqui callejero) en el siglo XVIII por su vuelo bamboleante.",
+  "funFact": "Las águilas volatineras pueden pasar 8–9 horas al día en el aire y recorrer cientos de kilómetros."
+ },
+ {
+  "scientific": "Leptoptilos crumenifer",
+  "common": "Marabú africano",
+  "summary": "Una cigüeña enorme de cabeza calva que carroñea cadáveres y vertederos junto a los buitres. Su envergadura rivaliza con la mayor de todas las aves terrestres.",
+  "nativeRange": "África subsahariana",
+  "biomes": [
+   "Sabana",
+   "Humedales",
+   "Medio urbano"
+  ],
+  "abilities": [
+   "Su envergadura supera habitualmente los 2,5 m y se citan ejemplares de hasta 3 m o más",
+   "Hincha un saco cervical lleno de aire en sus exhibiciones",
+   "Se ha adaptado a las ciudades, carroñeando en vertederos y mercados de pescado",
+   "Captura presas vivas, como flamencos, ranas y roedores"
+  ],
+  "animal": {
+   "diet": "Carroña, desperdicios, peces, ranas, roedores y aves",
+   "habitat": "Sabanas, humedales, aldeas de pescadores y ciudades",
+   "size": "Unos 1,2–1,5 m de altura; 4–9 kg",
+   "behaviour": "En ciudades como Kampala, los marabúes anidan en los árboles de las calles y patrullan los vertederos.",
+   "fieldMarks": [
+    "Cabeza y cuello calvos y rosados, a menudo con manchas costrosas",
+    "Enorme pico claro en forma de cuña",
+    "Bolsa gular rosada colgante",
+    "Dorso y alas gris oscuro, partes inferiores blancas",
+    "Patas largas y grises, a menudo blanqueadas por los excrementos"
+   ],
+   "voice": "Casi siempre silencioso; castañetea el pico y emite graznidos y gruñidos.",
+   "lookalikes": "El jabirú africano es colorido y tiene el pico rojo y negro. Los buitres comparten la cabeza calva, pero tienen el pico ganchudo y las patas cortas.",
+   "whereToSee": "Kampala (Uganda), lago Naivasha, Serengeti, Masái Mara, Kruger y Chobe",
+   "season": "Residente o nómada",
+   "order": "Ciconiiformes"
+  },
+  "lore": "Las esponjosas plumas infracaudales del marabú se comerciaron ampliamente en los siglos XIX y XX para sombreros y adornos; «marabú» pasó a designar cualquier adorno esponjoso de plumas.",
+  "funFact": "Los marabúes se refrescan las patas defecando sobre ellas, una costumbre conocida como urohidrosis."
+ },
+ {
+  "scientific": "Dacelo novaeguineae",
+  "common": "Cucaburra común",
+  "summary": "El mayor martín pescador del mundo, famoso por su estridente coro familiar de «carcajadas» al amanecer y al anochecer. Rara vez pesca; en cambio, se deja caer desde un posadero sobre serpientes, lagartos e insectos.",
+  "nativeRange": "Este de Australia; introducido en el suroeste de Australia Occidental, Tasmania y Nueva Zelanda",
+  "biomes": [
+   "Bosque abierto de eucaliptos",
+   "Bosque abierto",
+   "Parques urbanos"
+  ],
+  "abilities": [
+   "Mata serpientes y lagartos golpeándolos contra las ramas o dejándolos caer",
+   "Los grupos familiares «ríen» juntos para proclamar su territorio",
+   "Reproductor cooperativo: los hijos mayores ayudan a criar a los nuevos pollos"
+  ],
+  "animal": {
+   "diet": "Insectos, gusanos, lagartos, serpientes, pequeños mamíferos y aves",
+   "habitat": "Bosques secos de eucaliptos, bosques abiertos, parques y jardines",
+   "lifespan": "Hasta unos 20 años",
+   "size": "39–42 cm; 300–450 g",
+   "behaviour": "Grupos de aves emparentadas llaman en coro: una empieza con risitas graves y las demás se suman en un crescendo de carcajadas.",
+   "fieldMarks": [
+    "Martín pescador grande y robusto, con un pico enorme",
+    "Cabeza blanquecina con una lista ocular pardo oscura",
+    "Alas pardas con una pequeña mancha azul pálido en el hombro",
+    "Cola rojiza barrada de negro",
+    "Ojo oscuro"
+   ],
+   "voice": "Un sonoro y bullicioso «cu-cu-cu-ca-ca-ca» que sube hasta convertirse en estridentes carcajadas, a menudo de varias aves a la vez, sobre todo al amanecer y al anochecer.",
+   "lookalikes": "El cucaburra aliazul (norte de Australia) tiene el ojo claro, carece de lista ocular oscura, tiene el obispillo azul y más azul en el ala, y un reclamo más áspero, como un cacareo.",
+   "whereToSee": "Común en el monte, los parques y los jardines del este de Australia, de Queensland a Victoria; Parque Nacional Real (Sídney) y Parque Nacional de Lamington",
+   "season": "Residente todo el año",
+   "order": "Coraciiformes"
+  },
+  "lore": "El nombre procede de la palabra wiradjuri guuguubarra, que imita su reclamo. Un relato aborigen muy difundido cuenta que la risa del cucaburra es la señal para que la gente del cielo encienda el sol cada mañana.",
+  "funFact": "Su reclamo se ha utilizado mucho como efecto de sonido de «selva» en películas, incluso en algunas ambientadas muy lejos de Australia."
+ },
+ {
+  "scientific": "Casuarius casuarius",
+  "common": "Casuario común",
+  "summary": "Un ave no voladora de la selva, de gran altura, con un casco óseo y una uña interior como una daga. Es un dispersor de semillas crucial para los árboles de la selva: traga los frutos enteros y deposita las semillas lejos.",
+  "nativeRange": "Norte de Queensland, Nueva Guinea e islas cercanas",
+  "biomes": [
+   "Selva tropical",
+   "Bosque pantanoso"
+  ],
+  "abilities": [
+   "Dispersa semillas de más de 200 especies de plantas, algunas casi totalmente dependientes de él",
+   "El dedo interno lleva una uña de hasta unos 12 cm, un arma temible",
+   "Sus retumbos de baja frecuencia pueden quedar en parte por debajo del umbral de audición humana",
+   "Nada bien y puede correr a hasta unos 50 km/h por el bosque"
+  ],
+  "animal": {
+   "diet": "Frutos caídos, hongos, invertebrados y pequeños vertebrados",
+   "habitat": "Selvas tropicales, bosques pantanosos y bosques adyacentes",
+   "lifespan": "Hasta unos 40 años en cautividad",
+   "size": "1,5–1,8 m de altura; las hembras, hasta unos 60–70 kg",
+   "behaviour": "Solo el macho incuba los huevos, durante unos 50 días, y cría a los pollos listados durante hasta nueve meses.",
+   "fieldMarks": [
+    "Muy grande, de plumaje negro parecido al pelo",
+    "Casco pardo alto, en forma de yelmo",
+    "Cuello azul vivo con dos carúnculas rojas",
+    "Patas grises enormes, con tres dedos",
+    "Juveniles pardos; pollos listados"
+   ],
+   "voice": "Retumbos graves y profundos y siseos bajos; se oyen sobre todo a corta distancia.",
+   "lookalikes": "El emú es pardo grisáceo y carece de casco y carúnculas; vive en campo abierto. En Nueva Guinea, el casuario unicarunculado y el casuario menor tienen carúnculas distintas (una o ninguna).",
+   "whereToSee": "Mission Beach y Etty Bay (Queensland), Daintree, cabo York; tierras bajas de Nueva Guinea",
+   "season": "Residente",
+   "order": "Casuariiformes"
+  },
+  "lore": "Un estudio de 2021 sobre cáscaras de huevo antiguas indicó que en Nueva Guinea la gente pudo recolectar y criar pollos de casuario hace ya 18.000 años, y allí se fabricaron dagas de hueso de casuario hasta el siglo XX.",
+  "funFact": "Aunque a escala mundial está catalogado como Preocupación Menor, la población australiana figura como En Peligro según la legislación australiana."
+ },
+ {
+  "scientific": "Dromaius novaehollandiae",
+  "common": "Emú común",
+  "summary": "El ave más alta de Australia y la segunda más alta del mundo, un nómada de plumaje desgreñado del interior australiano. Recorre largas distancias siguiendo las lluvias, y el macho cría a los pollos en solitario.",
+  "nativeRange": "Australia continental",
+  "biomes": [
+   "Sabana",
+   "Matorral semidesértico",
+   "Pastizal",
+   "Bosque abierto de eucaliptos"
+  ],
+  "abilities": [
+   "Puede correr a unos 50 km/h",
+   "Realiza largos desplazamientos nómadas siguiendo las lluvias",
+   "Los machos incuban los huevos durante unas ocho semanas, sin apenas comer ni beber",
+   "Las hembras emiten profundos reclamos de tamborileo mediante un saco gular hinchable"
+  ],
+  "animal": {
+   "diet": "Frutos, semillas, flores, brotes verdes e insectos",
+   "habitat": "La mayoría de los hábitats, salvo la selva densa y los desiertos más áridos",
+   "lifespan": "10–20 años",
+   "size": "1,5–1,9 m de altura; 30–55 kg",
+   "behaviour": "Tras la puesta, la hembra se marcha y puede volver a aparearse, mientras el macho custodia la nidada y después, durante meses, a los pollos listados.",
+   "fieldMarks": [
+    "Muy alto, de plumaje pardo grisáceo desgreñado",
+    "Piel desnuda gris azulada en el cuello",
+    "Patas largas y fuertes",
+    "Alas vestigiales diminutas, ocultas en el plumaje",
+    "Los pollos tienen listas crema y pardas"
+   ],
+   "voice": "Las hembras emiten un tamborileo o golpe sordo, grave y retumbante; los machos gruñen.",
+   "lookalikes": "El casuario común (selva de Queensland) es negro, con casco y cuello azul y rojo. Los avestruces (asilvestrados, raros) tienen el plumaje blanco y negro o pardo y patas de dos dedos.",
+   "whereToSee": "Común en el interior de Nueva Gales del Sur, Queensland y Australia Occidental; Wilsons Promontory, Tower Hill (Victoria) y Kalbarri",
+   "season": "Residente, nómada",
+   "order": "Casuariiformes"
+  },
+  "lore": "Muchos pueblos aborígenes ven el «Emú en el Cielo», formado por las franjas oscuras de polvo de la Vía Láctea. En 1932 las autoridades de Australia Occidental libraron con ametralladoras la llamada «Guerra del Emú» y fracasaron en gran medida.",
+  "funFact": "El emú figura en el escudo de Australia junto al canguro rojo."
+ },
+ {
+  "scientific": "Eolophus roseicapilla",
+  "common": "Cacatúa galah",
+  "summary": "Una cacatúa rosa y gris del interior de Australia, abundante y gregaria. Se ha extendido con la agricultura y los puntos de agua hasta ocupar casi todo el continente.",
+  "nativeRange": "Toda la Australia continental; introducida en Tasmania",
+  "biomes": [
+   "Pastizal",
+   "Sabana",
+   "Tierras de cultivo",
+   "Medio urbano"
+  ],
+  "abilities": [
+   "Ha ampliado mucho su área con la deforestación, los cultivos y el agua artificial",
+   "Forma vínculos de pareja duraderos",
+   "Muy sociable, duerme en grandes bandos y hace acrobacias en los cables"
+  ],
+  "animal": {
+   "diet": "Semillas, grano, raíces y brotes",
+   "habitat": "Campo abierto, tierras de cultivo, parques y pueblos",
+   "lifespan": "Puede superar los 40 años en cautividad",
+   "size": "Unos 35 cm; 300–400 g",
+   "behaviour": "Los bandos se cuelgan boca abajo, se balancean en los cables y se revuelcan bajo la lluvia, un comportamiento descrito a menudo como juego.",
+   "fieldMarks": [
+    "Cara, cuello y partes inferiores rosa intenso",
+    "Dorso y alas grises",
+    "Píleo rosa pálido con una cresta corta",
+    "Pico claro",
+    "Obispillo gris pálido en vuelo"
+   ],
+   "voice": "Chillidos agudos y estridentes, «chet» o «chii».",
+   "lookalikes": "La cacatúa inca es blanca y rosa salmón, con una alta cresta con bandas rojas y amarillas.",
+   "whereToSee": "Casi en cualquier lugar de Australia; pueblos del interior, campos de deporte y tierras de cultivo",
+   "season": "Residente",
+   "order": "Psittaciformes"
+  },
+  "lore": "El nombre «galah» procede de la palabra yuwaalaraay gilaa. En la jerga australiana, «galah» significa tonto o bocazas.",
+  "funFact": "Las cacatúas galah suelen emparejarse de por vida, y ambos miembros comparten la incubación y la cría de los pollos."
+ },
+ {
+  "scientific": "Trichoglossus moluccanus",
+  "common": "Lori arcoíris",
+  "summary": "Un loro ruidoso de colores de arcoíris con la lengua terminada en un cepillo para lamer néctar y polen. Común en las ciudades del este de Australia, es un importante polinizador de eucaliptos y banksias.",
+  "nativeRange": "Este y sudeste de Australia; introducido en Perth y Nueva Zelanda",
+  "biomes": [
+   "Bosque abierto de eucaliptos",
+   "Lindes de selva",
+   "Medio urbano"
+  ],
+  "abilities": [
+   "Su lengua en forma de cepillo recoge néctar y polen",
+   "Poliniza muchos eucaliptos, banksias y grevilleas",
+   "Forma enormes y ruidosos dormideros comunales en árboles urbanos"
+  ],
+  "animal": {
+   "diet": "Néctar, polen, frutos, flores y algunos insectos",
+   "habitat": "Bosques, lindes de bosque, parques y jardines",
+   "lifespan": "Hasta 20 años en cautividad",
+   "size": "25–30 cm; 75–160 g",
+   "behaviour": "Los bandos recorren el dosel en remolinos, chillando, siguiendo a los árboles en flor.",
+   "fieldMarks": [
+    "Cabeza azul violácea",
+    "Pecho rojo anaranjado barrado de amarillo",
+    "Dorso, alas y cola verdes",
+    "Vientre azul intenso",
+    "Pico rojo"
+   ],
+   "voice": "Chillidos agudos y estridentes, «chi-chi», y un parloteo constante.",
+   "lookalikes": "El lori de collar rojo (norte de Australia) tiene un collar naranja y el vientre negro. El lori escamoso es verde con festones amarillos.",
+   "whereToSee": "Común en Sídney, Brisbane y la Costa de Oro; santuario de fauna de Currumbin",
+   "season": "Residente",
+   "order": "Psittaciformes"
+  },
+  "lore": "En Currumbin, en la Costa de Oro, la alimentación pública de loris atrae visitantes desde la década de 1940. En Perth, las aves escapadas se convirtieron en una plaga invasora.",
+  "funFact": "Se han registrado loris arcoíris capturando y comiendo carne, lo que podría estar relacionado con carencias en su dieta."
+ },
+ {
+  "scientific": "Gymnorhina tibicen",
+  "common": "Verdugo flautista (urraca australiana)",
+  "summary": "Un pájaro cantor blanco y negro cuyo canto rico y melodioso es uno de los sonidos emblemáticos de Australia. Es famoso por lanzarse en picado contra las personas durante la época de nidificación.",
+  "nativeRange": "Australia y el sur de Nueva Guinea; introducido en Nueva Zelanda",
+  "biomes": [
+   "Pastizal",
+   "Bosque abierto",
+   "Tierras de cultivo",
+   "Medio urbano"
+  ],
+  "abilities": [
+   "Canto complejo, gorjeado y melodioso, con imitaciones",
+   "Recuerda las caras de personas concretas",
+   "Los grupos defienden su territorio todo el año",
+   "Muestra una fuerte cooperación, incluida la ayuda mutua para quitarse dispositivos de seguimiento"
+  ],
+  "animal": {
+   "diet": "Insectos, larvas, gusanos y pequeños vertebrados",
+   "habitat": "Campo abierto con árboles dispersos, parques y granjas",
+   "lifespan": "Hasta 25 años",
+   "size": "37–43 cm; 220–350 g",
+   "behaviour": "Durante la nidificación, algunos machos se lanzan en picado contra los peatones y ciclistas que se acercan.",
+   "fieldMarks": [
+    "Plumaje blanco y negro",
+    "Cabeza y partes inferiores negras",
+    "Nuca y dorso blancos o grises (varía según la región)",
+    "Pico gris azulado pálido con la punta oscura",
+    "Ojo pardo rojizo"
+   ],
+   "voice": "Un canto rico y aflautado, a menudo en grupo; también gorjeos complejos e imitaciones.",
+   "lookalikes": "El currawong pío es casi todo negro, con el ojo amarillo y la punta de la cola blanca. La grallina australiana es más pequeña, de pico fino y con ceja o garganta blancas.",
+   "whereToSee": "Común en parques y campos de deporte de toda Australia",
+   "season": "Residente; temporada de ataques en picado de agosto a octubre",
+   "order": "Passeriformes"
+  },
+  "lore": "Los relatos noongar hablan de Koolbardi, la urraca, y Wardong, el cuervo. El verdugo flautista es el emblema de muchos equipos deportivos australianos.",
+  "funFact": "En 2022, unos investigadores informaron de que estas aves se quitaban unas a otras los arneses de seguimiento, un ejemplo inusual de rescate cooperativo."
+ },
+ {
+  "scientific": "Malurus cyaneus",
+  "common": "Maluro soberbio",
+  "summary": "Un pájaro diminuto de cola levantada cuyos machos reproductores brillan con un azul eléctrico. Su vida familiar es famosa por la cría cooperativa y por una tasa muy alta de cópulas fuera de la pareja.",
+  "nativeRange": "Sudeste de Australia y Tasmania",
+  "biomes": [
+   "Matorral",
+   "Bosque abierto",
+   "Jardines"
+  ],
+  "abilities": [
+   "Cría cooperativa, con ayudantes que crían a los pollos",
+   "Las madres enseñan a los embriones una llamada «contraseña» dentro del huevo",
+   "Los machos arrancan pétalos amarillos y se los muestran a las hembras"
+  ],
+  "animal": {
+   "diet": "Insectos y otros pequeños invertebrados",
+   "habitat": "Arbustos densos, bordes de pastizales y jardines",
+   "lifespan": "Normalmente 5 años; puede superar los 10",
+   "size": "Unos 14 cm; 8–13 g",
+   "behaviour": "Las madres llaman a los huevos antes de la eclosión, y los pollos incorporan una «contraseña» única a sus reclamos de petición de comida.",
+   "fieldMarks": [
+    "Machos reproductores: píleo, mejillas y manto azul vivo",
+    "Garganta y lista ocular negras",
+    "Cola larga y levantada",
+    "Hembras y machos no reproductores pardos, con rojo anaranjado alrededor del ojo"
+   ],
+   "voice": "Un trino agudo, rápido y continuo.",
+   "lookalikes": "Los machos de maluro espléndido son azules por entero. El maluro variegado tiene los hombros castaños. Las hembras de otros maluros difieren en las manchas oculares y el color de la cola.",
+   "whereToSee": "Jardines y parques de Melbourne, Canberra, Sídney y Hobart; Reales Jardines Botánicos",
+   "season": "Residente",
+   "order": "Passeriformes"
+  },
+  "lore": "Conocido por generaciones de australianos como «blue wren», es un habitual de los jardines de las afueras; un estudio de 2012 que mostró que las madres enseñan a sus embriones una llamada «contraseña» atrajo la atención mundial.",
+  "funFact": "Aunque viven en pareja, la mayoría de los pollos de un nido de maluro soberbio son hijos de machos ajenos a la pareja."
+ },
+ {
+  "scientific": "Prosthemadera novaeseelandiae",
+  "common": "Tui (tūī)",
+  "summary": "Un melífago de Nueva Zelanda de plumaje iridiscente con un mechón blanco en la garganta. Su complejo canto, con chasquidos, campanadas y silbidos roncos, procede de una siringe de dos lados.",
+  "nativeRange": "Nueva Zelanda",
+  "biomes": [
+   "Bosque lluvioso templado",
+   "Jardines"
+  ],
+  "abilities": [
+   "Su siringe de dos lados le permite cantar dos notas a la vez",
+   "Se dice que algunos elementos de su canto son demasiado agudos para el oído humano",
+   "Poliniza el lino neozelandés, el kōwhai y otras plantas autóctonas",
+   "Consumado imitador, incluso del habla humana"
+  ],
+  "animal": {
+   "diet": "Néctar, frutos e insectos",
+   "habitat": "Bosque autóctono, matorral en regeneración, parques y jardines",
+   "size": "Unos 30 cm; 90–150 g",
+   "behaviour": "Los tuis defienden con agresividad los árboles con néctar y ahuyentan a otras aves con un sonoro zumbido de alas.",
+   "fieldMarks": [
+    "Plumaje oscuro iridiscente con reflejos azules, verdes y bronceados",
+    "Dos mechones blancos en la garganta (poi)",
+    "Collar blanco de encaje formado por plumas filamentosas",
+    "Pico negro curvado"
+   ],
+   "voice": "Una rica mezcla de notas como de campana, chasquidos, cacareos y silbidos roncos.",
+   "lookalikes": "El korimako (mielero campanero) es más pequeño, verde oliváceo y carece de los mechones blancos.",
+   "whereToSee": "Zealandia (Wellington), Tiritiri Matangi, Otari-Wilton's Bush y parques de Auckland",
+   "season": "Residente",
+   "order": "Passeriformes"
+  },
+  "lore": "Los maoríes adiestraban tuis en cautividad para recitar karakia y saludos. Su nombre inglés «parson bird» (pájaro párroco) alude a los mechones blancos, que recuerdan al alzacuellos de un clérigo.",
+  "funFact": "Como otros pájaros cantores, el tui tiene una siringe de dos lados, pero la usa con un virtuosismo poco habitual y produce dos sonidos independientes a la vez."
+ },
+ {
+  "scientific": "Nestor notabilis",
+  "common": "Kea",
+  "summary": "El único loro alpino del mundo, un payaso verde oliváceo de los Alpes Meridionales de Nueva Zelanda. Famosos por su curiosidad e inteligencia, los keas resuelven rompecabezas, usan herramientas e incluso tienen una llamada de «juego» que hace que otros keas se pongan a retozar.",
+  "nativeRange": "Isla Sur, Nueva Zelanda",
+  "biomes": [
+   "Alpino",
+   "Bosque subalpino"
+  ],
+  "abilities": [
+   "Resuelve rompecabezas de varios pasos y usa herramientas en experimentos",
+   "Su llamada «gorjeo» desencadena el juego en otros keas, un contagio emocional",
+   "Comprende probabilidades estadísticas en tareas de elección",
+   "Sobrevive en hábitats de montaña fríos y nevados"
+  ],
+  "animal": {
+   "diet": "Raíces, hojas, frutos, insectos y carroña",
+   "habitat": "Bosques alpinos y subalpinos, matorrales y pastizales",
+   "size": "Unos 48 cm; 800–1.000 g",
+   "behaviour": "Los keas jóvenes se reúnen en grupos para explorar y jugar, y destrozan piezas de coches y mochilas.",
+   "fieldMarks": [
+    "Plumaje verde oliváceo con bordes negros",
+    "Cara inferior de las alas naranja vivo, visible en vuelo",
+    "Pico gris largo, estrecho y ganchudo",
+    "Plumas de vuelo azul verdosas"
+   ],
+   "voice": "Un sonoro y descendente «kii-aaa», del que deriva su nombre.",
+   "lookalikes": "El kaka es pardo rojizo, vive en los bosques de tierras bajas y tiene el pico más robusto.",
+   "whereToSee": "Arthur's Pass, el túnel Homer (carretera de Milford) y Aoraki/Monte Cook",
+   "season": "Residente",
+   "order": "Psittaciformes"
+  },
+  "lore": "Los ganaderos acusaron a los keas de matar ovejas, y una recompensa por su caza acabó con unas 150.000 aves entre 1860 y 1970.",
+  "funFact": "El kea es uno de los pocos animales no primates en los que se ha demostrado la capacidad de hacer inferencias estadísticas."
+ },
+ {
+  "scientific": "Porphyrio hochstetteri",
+  "common": "Calamón takahe (takahē)",
+  "summary": "Un gran rálido no volador de plumaje azul verdoso brillante y pico rojo y robusto. Considerado extinto durante medio siglo, fue redescubierto en 1948 en los montes Murchison de Nueva Zelanda.",
+  "nativeRange": "Isla Sur, Nueva Zelanda",
+  "biomes": [
+   "Pastizal alpino",
+   "Santuario insular"
+  ],
+  "abilities": [
+   "No vuela y es longevo",
+   "Se alimenta de gramíneas de macolla, cortando sus tiernas bases",
+   "Se ha recuperado de la casi extinción gracias a una conservación intensiva"
+  ],
+  "animal": {
+   "diet": "Gramíneas de macolla, hierbas y rizomas",
+   "habitat": "Pastizales alpinos; hoy también islas y santuarios libres de depredadores",
+   "lifespan": "Hasta 20 años",
+   "size": "Unos 63 cm; 2–4 kg",
+   "behaviour": "Las parejas defienden territorios y crían uno o dos pollos al año.",
+   "fieldMarks": [
+    "Cabeza y pecho azul púrpura intenso",
+    "Dorso y alas verde oliváceo",
+    "Pico y escudete frontal rojos y enormes",
+    "Patas rojas y robustas",
+    "Cuerpo redondeado de ave no voladora"
+   ],
+   "voice": "Sonoros y resonantes ululatos y cloqueos de contacto, a menudo intercambiados entre los miembros de la pareja; más graves que el chillido del pūkeko.",
+   "lookalikes": "El pūkeko (calamón australiano) es más esbelto, de patas largas y pico más pequeño, y puede volar.",
+   "whereToSee": "Isla Tiritiri Matangi, Zealandia, Ecosantuario de Orokonui y Centro de Takahē de Burwood",
+   "season": "Residente",
+   "order": "Gruiformes"
+  },
+  "lore": "Geoffrey Orbell redescubrió el takahē en 1948 cerca del lago Te Anau, 50 años después de que se le creyera extinto.",
+  "funFact": "La población total superó las 500 aves en 2023 y se estimó en unas 529 a finales de 2024, gracias a las translocaciones y al control de depredadores."
+ },
+ {
+  "scientific": "Aquila audax",
+  "common": "Águila audaz",
+  "summary": "La mayor rapaz de Australia, con una característica cola en forma de rombo. Planea durante horas en las térmicas y es venerada en las culturas aborígenes.",
+  "nativeRange": "Australia y sur de Nueva Guinea",
+  "biomes": [
+   "Sabana",
+   "Bosque abierto",
+   "Montaña"
+  ],
+  "abilities": [
+   "Planea en las térmicas hasta grandes alturas",
+   "Caza de forma cooperativa para capturar presas como canguros y cabras",
+   "Construye enormes nidos de ramas de hasta 2 m de diámetro"
+  ],
+  "animal": {
+   "diet": "Conejos, ualabíes, canguros, aves, reptiles y carroña",
+   "habitat": "Bosques, sabanas y campo abierto",
+   "size": "81–106 cm; envergadura de hasta 2,3 m",
+   "behaviour": "Las parejas planean juntas, con vuelos ondulantes y exhibiciones en las que entrelazan las garras.",
+   "fieldMarks": [
+    "Muy grande, de plumaje pardo oscuro a negro",
+    "Cola larga en forma de cuña",
+    "Patas emplumadas",
+    "Pico claro con la punta oscura"
+   ],
+   "voice": "Casi siempre silenciosa; emite gañidos silbantes.",
+   "lookalikes": "El aguililla australiana es mucho más pequeña, de cola recta y con una banda clara en la cara inferior del ala. El milano negro tiene la cola poco ahorquillada y una constitución esbelta. El milano pechinegro tiene «ventanas» blancas a modo de diana en las primarias y una cola corta y recta. Solo el águila audaz muestra la larga cola en forma de rombo.",
+   "whereToSee": "Interior de Australia; cordillera de Flinders, Kakadu y Tasmania",
+   "season": "Residente",
+   "order": "Accipitriformes"
+  },
+  "lore": "Para las naciones kulin de Victoria, Bunjil, el águila audaz, es el antepasado creador. La subespecie de Tasmania está catalogada como En Peligro.",
+  "funFact": "Se sabe que las águilas audaces atacan alas delta y drones."
+ },
+ {
+  "scientific": "Podargus strigoides",
+  "common": "Podargo australiano",
+  "summary": "Un ave nocturna que a menudo se confunde con una rapaz nocturna, famosa por su camuflaje de rama rota. Tiene un pico ancho como el de una rana y caza insectos de noche.",
+  "nativeRange": "Toda Australia y Tasmania",
+  "biomes": [
+   "Bosque abierto",
+   "Bosque",
+   "Parques urbanos"
+  ],
+  "abilities": [
+   "Imita una rama rota cuando se siente amenazado",
+   "Cazador nocturno que atrapa insectos con su ancho pico",
+   "Las parejas duermen juntas durante años"
+  ],
+  "animal": {
+   "diet": "Insectos, gusanos, arañas y pequeños vertebrados",
+   "habitat": "Bosques, parques y jardines",
+   "lifespan": "Hasta 14 años",
+   "size": "34–53 cm; 300–680 g",
+   "behaviour": "De día permanece inmóvil en un posadero, entornando los ojos hasta dejarlos en una rendija y estirando el cuerpo para confundirse con las ramas.",
+   "fieldMarks": [
+    "Plumaje gris plateado o parduzco y listado",
+    "Pico ancho, como de rana",
+    "Ojos amarillos",
+    "Mechones de cerdas alrededor del pico"
+   ],
+   "voice": "Un «um-um-um» grave y repetitivo.",
+   "lookalikes": "Las rapaces nocturnas tienen el pico ganchudo y garras fuertes; el podargo papú es mayor y tiene los ojos rojos.",
+   "whereToSee": "Parques y jardines de toda Australia",
+   "season": "Residente",
+   "order": "Caprimulgiformes"
+  },
+  "lore": "Los primeros colonos solían llamarlo «mopoke», nombre que corresponde al nínox boobook; durante mucho tiempo se atribuyó erróneamente al podargo el reclamo «mo-poke» del boobook.",
+  "funFact": "Pese a su aspecto, el podargo australiano está más emparentado con los chotacabras que con las rapaces nocturnas."
+ },
+ {
+  "scientific": "Cracticus nigrogularis",
+  "common": "Verdugo blanquinegro",
+  "summary": "Un pájaro blanco y negro célebre como uno de los mejores cantores de Australia. Ensarta a sus presas en espinas y canta complejos dúos.",
+  "nativeRange": "Australia continental (salvo el extremo sudeste)",
+  "biomes": [
+   "Bosque abierto",
+   "Sabana",
+   "Tierras de cultivo"
+  ],
+  "abilities": [
+   "Canta complejos dúos y coros aflautados",
+   "Ensarta a sus presas en espinas o las encaja en las ramas",
+   "Imita a otras aves"
+  ],
+  "animal": {
+   "diet": "Insectos, pequeños reptiles, aves y ratones",
+   "habitat": "Bosques abiertos y tierras de cultivo",
+   "size": "32–36 cm",
+   "behaviour": "Almacena alimento encajando las presas en las horquillas de los árboles o ensartándolas en espinas.",
+   "fieldMarks": [
+    "Cabeza y babero negros",
+    "Collar y partes inferiores blancos",
+    "Alas blancas y negras",
+    "Pico gris ganchudo"
+   ],
+   "voice": "Un aflautado y rico «pipeo», a menudo en dúos.",
+   "lookalikes": "El verdugo gris carece del babero negro. El verdugo flautista es mayor y carece del pico con la punta ganchuda.",
+   "whereToSee": "Interior de Queensland, Nueva Gales del Sur y el Territorio del Norte",
+   "season": "Residente",
+   "order": "Passeriformes"
+  },
+  "lore": "La violinista y zoomusicóloga Hollis Taylor pasó años transcribiendo sus cantos en el interior australiano para su libro «Is Birdsong Music?» (¿Es música el canto de las aves?, 2017).",
+  "funFact": "Los cantos del verdugo blanquinegro varían de una región a otra y cambian de un año a otro, y cada ave reelabora sus frases como un músico que improvisa."
+ },
+ {
+  "scientific": "Anthochaera phrygia",
+  "common": "Mielero regente",
+  "summary": "Un llamativo melífago negro y dorado de los bosques de box-ironbark del sudeste de Australia, hoy tan escaso que muchos machos nunca oyen a un adulto de su especie y no llegan a aprender su canto. Se cree que quedan menos de unos 300 en libertad.",
+  "nativeRange": "Sudeste de Australia, principalmente en las laderas interiores de la Gran Cordillera Divisoria, en Nueva Gales del Sur y Victoria",
+  "biomes": [
+   "Bosque de box-ironbark",
+   "Bosque abierto de eucaliptos",
+   "Bosque de casuarinas de ribera"
+  ],
+  "abilities": [
+   "Poliniza eucaliptos en flor como el mugga ironbark, el yellow box y el white box mientras se alimenta de néctar",
+   "Sigue la floración irregular de los eucaliptos a lo largo de cientos de kilómetros",
+   "Los machos jóvenes aprenden el canto de los adultos, por lo que el canto se va perdiendo a medida que disminuye la población"
+  ],
+  "animal": {
+   "diet": "Néctar, sobre todo de eucaliptos y muérdagos; también lerp (secreciones de psílidos), melaza e insectos",
+   "habitat": "Bosques secos de eucaliptos de tipo box-ironbark y bosques de ribera",
+   "size": "20–24 cm; unos 35–50 g",
+   "behaviour": "En un estudio de 2021, alrededor del 12 % de los machos silvestres cantaban los cantos de otras especies, como filemones y mieleros carunculados, en lugar del suyo, por no haber tenido tutores de su propia especie.",
+   "fieldMarks": [
+    "Cabeza, cuello y parte superior del pecho negros",
+    "Festoneado amarillo pálido en el dorso y el pecho",
+    "Bordes amarillo vivo en las plumas de las alas y la cola",
+    "Piel desnuda, verrugosa y rosácea alrededor del ojo",
+    "Pico negro curvado hacia abajo"
+   ],
+   "voice": "Un gorjeo suave, metálico, como de campanillas; los machos que no lo han aprendido pueden emitir en su lugar cantos imitados de otros melífagos.",
+   "lookalikes": "El mielero pintado tiene el pico rosado, las partes superiores negras uniformes y las inferiores blancas sin festones. El mielero de Nueva Holanda tiene las partes inferiores listadas de blanco, el ojo blanco y paneles alares amarillos, pero no tiene piel facial desnuda.",
+   "whereToSee": "Valle de Capertee y valle del Hunter (Nueva Gales del Sur), Parque Nacional de Chiltern-Mt Pilot (Victoria); puntos de liberación en el noreste de Victoria",
+   "season": "Residente nómada; sus desplazamientos siguen la floración de los eucaliptos",
+   "order": "Passeriformes"
+  },
+  "lore": "El zoo de Taronga cría mieleros regentes para su liberación desde la década de 1990, y hoy los jóvenes criados en cautividad reciben clases con grabaciones del canto silvestre antes de ser liberados.",
+  "funFact": "Es una de las primeras aves silvestres en las que se ha documentado la pérdida de su cultura de canto porque la población se volvió demasiado pequeña y dispersa para que los machos jóvenes encontraran tutores."
+ },
+ {
+  "scientific": "Hemiphaga novaeseelandiae",
+  "common": "Paloma maorí (kererū)",
+  "summary": "Una gran paloma verde y blanca iridiscente cuyos aleteos silban a través de los bosques de Nueva Zelanda. Extinguidas otras grandes aves frugívoras, es la única ave autóctona capaz de tragar enteros los frutos forestales más grandes, lo que la hace vital para dispersar las semillas de árboles como el taraire y el tawa.",
+  "nativeRange": "Nueva Zelanda",
+  "biomes": [
+   "Bosque lluvioso templado",
+   "Bosque de tierras bajas",
+   "Jardines urbanos"
+  ],
+  "abilities": [
+   "Traga frutos de hasta unos 2,5 cm de diámetro y dispersa sus semillas",
+   "Principal o único dispersor de árboles autóctonos de frutos grandes, como el taraire, el tawa, el karaka y el miro",
+   "Realiza vuelos nupciales con fuertes ascensos y picados, deteniéndose en lo alto antes de lanzarse"
+  ],
+  "animal": {
+   "diet": "Frutos, hojas, yemas y flores de plantas autóctonas e introducidas",
+   "habitat": "Bosque autóctono, matorral, campos de cultivo con árboles, parques y jardines",
+   "size": "Unos 51 cm; 550–850 g",
+   "behaviour": "Tras darse un atracón de fruta fermentada en verano, a veces se encuentran kererū demasiado ebrios para volar con normalidad.",
+   "fieldMarks": [
+    "Paloma grande con la cabeza, la garganta y las partes superiores verde bronceado iridiscente",
+    "Pecho y vientre de un blanco limpio, nítidamente separados del babero verde",
+    "Pico, ojo y patas rojos",
+    "Sonoros aleteos silbantes en vuelo"
+   ],
+   "voice": "Casi siempre silenciosa; un arrullo suave y grave, «uuu». Lo primero que suele oírse es el ruidoso silbido de las alas.",
+   "lookalikes": "Las palomas bravías asilvestradas son más pequeñas y grises. En las islas Chatham, la emparentada parea es alrededor de una quinta parte mayor, más clara en el dorso, con el obispillo gris pálido y el pico con la punta naranja.",
+   "whereToSee": "Zealandia y Otari-Wilton's Bush (Wellington), Tiritiri Matangi, Jardín Botánico de Christchurch y bosques autóctonos de toda Nueva Zelanda",
+   "season": "Residente",
+   "order": "Columbiformes"
+  },
+  "lore": "Los kererū eran un alimento tradicional importante para los maoríes, que los capturaban bajo restricciones estacionales, y sus plumas se tejían en capas; hoy el ave está totalmente protegida. Fue elegida Ave del Año de Nueva Zelanda en 2018.",
+  "funFact": "Como ninguna otra ave autóctona superviviente puede tragar frutos tan grandes, el declive del kererū podría dejar a varios de los árboles de frutos más grandes de Nueva Zelanda sin dispersor natural de semillas."
+ },
+ {
+  "scientific": "Cygnus atratus",
+  "common": "Cisne negro",
+  "summary": "Un cisne negro hollín con el pico escarlata y las plumas de vuelo blancas, originario de Australia. Para los europeos fue proverbialmente sinónimo de algo imposible hasta que unos marinos neerlandeses lo vieron en el río Swan de Australia Occidental en 1697.",
+  "nativeRange": "Sur y este de Australia y Tasmania; introducido en Nueva Zelanda",
+  "biomes": [
+   "Humedales",
+   "Lagos y ríos",
+   "Estuario"
+  ],
+  "abilities": [
+   "Nómada: recorre largas distancias, a menudo de noche, para llegar a humedales recién inundados",
+   "Puede criar casi en cualquier época del año cuando las condiciones del agua son favorables",
+   "Muda todas sus plumas de vuelo a la vez y durante un breve periodo no puede volar"
+  ],
+  "animal": {
+   "diet": "Plantas acuáticas, algas y hierbas de pastizal",
+   "habitat": "Lagos, pantanos, estuarios y lagunas costeras, de agua dulce a salobre",
+   "lifespan": "A menudo más de 20 años en libertad; hasta unos 40 en cautividad",
+   "size": "110–142 cm; envergadura 1,6–2 m; 4–9 kg",
+   "behaviour": "Las parejas construyen enormes nidos flotantes o sobre islotes de carrizo y comparten la incubación; los pollos, de plumón gris, a menudo viajan a lomos de uno de los progenitores.",
+   "fieldMarks": [
+    "Cuerpo totalmente negro, con plumas alares rizadas y encrespadas sobre el dorso",
+    "Pico rojo vivo con una banda blanca cerca de la punta",
+    "Plumas de vuelo primarias y secundarias blancas, que destellan en vuelo",
+    "Cuello muy largo que mantiene en forma de S"
+   ],
+   "voice": "Un trompeteo agudo y musical, «ju-a», emitido en el agua y en vuelo; sisea cuando se siente amenazado.",
+   "lookalikes": "El cisne vulgar (introducido en Australia Occidental y otros lugares) es blanco, con el pico naranja. Ningún otro ave de cuerpo negro de su tamaño tiene el pico rojo y el cuello largo.",
+   "whereToSee": "Río Swan y lago Herdsman (Perth), el Coorong (Australia Meridional), lago Ellesmere / Te Waihora (Nueva Zelanda) y lago de Albert Park (Melbourne)",
+   "season": "Residente o nómada",
+   "order": "Anseriformes"
+  },
+  "lore": "El poeta romano Juvenal llamó a la esposa perfecta «rara avis in terris nigroque simillima cygno» (un ave rara en la tierra, muy semejante a un cisne negro), y la expresión designó lo imposible hasta que la tripulación de Willem de Vlamingh vio cisnes negros en 1697. Es el emblema del estado de Australia Occidental.",
+  "funFact": "Figura en la bandera y el escudo de Australia Occidental, cuya capital se alza a orillas del río Swan («cisne»), que debe su nombre a esta ave."
+ },
+ {
+  "scientific": "Pandion haliaetus",
+  "common": "Águila pescadora",
+  "summary": "Una rapaz piscívora presente en todos los continentes salvo la Antártida, que se lanza al agua con las patas por delante para atrapar peces. Su recuperación tras la prohibición del DDT es una de las grandes historias de regreso de la conservación.",
+  "nativeRange": "Casi cosmopolita: cría en todo el hemisferio norte y en Australasia; inverna en los trópicos y los continentes del sur",
+  "biomes": [
+   "Costa",
+   "Lagos y ríos",
+   "Estuario",
+   "Humedales"
+  ],
+  "abilities": [
+   "Se zambulle en el agua con las patas por delante, a veces sumergiéndose por completo",
+   "El dedo externo reversible y las almohadillas espinosas de las patas sujetan los peces resbaladizos",
+   "Transporta los peces con la cabeza hacia delante para reducir la resistencia al aire",
+   "Migrante de larga distancia: algunas aves escandinavas y escocesas invernan en África occidental"
+  ],
+  "animal": {
+   "diet": "Casi exclusivamente peces vivos",
+   "habitat": "Costas, lagos, ríos, embalses y estuarios",
+   "lifespan": "Normalmente 7–10 años; puede superar los 25",
+   "size": "50–66 cm; envergadura 1,3–1,8 m",
+   "behaviour": "Se cierne brevemente sobre el agua, pliega las alas y se lanza en picado, adelantando las patas en el último momento.",
+   "fieldMarks": [
+    "Partes superiores pardo oscuras y partes inferiores de un blanco limpio",
+    "Cabeza blanca con una marcada lista oscura que atraviesa el ojo amarillo",
+    "Alas largas y estrechas, acodadas como las de una gaviota, con manchas carpales oscuras",
+    "Banda pectoral parduzca, más marcada en las hembras"
+   ],
+   "voice": "Una serie de silbidos agudos y claros, «chip-chip-chip» o «kiu», a menudo en vuelo cerca del nido.",
+   "lookalikes": "Las grandes gaviotas comparten la silueta de alas acodadas, pero carecen del pico ganchudo y de la lista ocular oscura. Los juveniles de pigargo cabeciblanco y de pigargo europeo son mucho mayores y están jaspeados por debajo.",
+   "whereToSee": "Loch Garten y Rutland Water (Reino Unido), bahía de Chesapeake y Florida (EE. UU.), costas del Báltico, mar Rojo y golfo de California; invernada en África occidental y Sudamérica",
+   "season": "Estival en el hemisferio norte (mar–sep); invernante en los trópicos; residente en Australia y algunas regiones subtropicales",
+   "order": "Accipitriformes"
+  },
+  "lore": "El águila pescadora se extinguió como reproductora en Inglaterra hacia 1840 y en Escocia en 1916; su regreso a Loch Garten en 1954 y su translocación a Rutland Water en la década de 1990 fueron hitos de la conservación británica.",
+  "funFact": "Su familia, Pandionidae, solo incluye a las águilas pescadoras (una especie, o dos si se separa el águila pescadora oriental), y es una de las aves de distribución más amplia del mundo."
+ },
+ {
+  "scientific": "Tyto alba",
+  "common": "Lechuza común",
+  "summary": "Una rapaz nocturna de una palidez fantasmal y cara en forma de corazón que puede cazar en total oscuridad guiándose solo por el oído. Es uno de los depredadores más estudiados del mundo por su audición.",
+  "nativeRange": "Europa, África, Oriente Próximo y Asia occidental",
+  "biomes": [
+   "Tierras de cultivo",
+   "Pastizal",
+   "Sabana"
+  ],
+  "abilities": [
+   "Puede localizar y capturar presas en la oscuridad absoluta usando solo el oído",
+   "Sus oídos, situados de forma asimétrica, localizan con precisión los sonidos tanto en dirección como en altura",
+   "Sus plumas suaves y flecadas hacen su vuelo casi silencioso",
+   "El disco facial actúa como una antena parabólica que concentra el sonido"
+  ],
+  "animal": {
+   "diet": "Pequeños mamíferos, sobre todo topillos, ratones y musarañas",
+   "habitat": "Pastizales abiertos, tierras de cultivo y marismas con edificios viejos o árboles huecos",
+   "lifespan": "Normalmente menos de 4 años en libertad; récord de más de 15 años",
+   "size": "33–39 cm; envergadura 80–95 cm",
+   "behaviour": "Recorre los campos a baja altura con sus alas silenciosas, escuchando el crujido de los topillos.",
+   "fieldMarks": [
+    "Disco facial blanco en forma de corazón",
+    "Ojos negros",
+    "Partes superiores ante dorado finamente salpicadas de gris",
+    "Partes inferiores de blancas a ante",
+    "Patas largas y emplumadas"
+   ],
+   "voice": "Un chillido largo, rasposo y escalofriante; también siseos y ronquidos en el nido.",
+   "lookalikes": "El búho campestre tiene los ojos amarillos, el plumaje listado y la cara redonda. La lechuza oriental y la lechuza americana (hoy especies separadas) son muy parecidas, pero viven en otras regiones.",
+   "whereToSee": "Tierras de cultivo y marismas de toda Europa y África; East Anglia (Reino Unido), la Camarga (Francia) y los pastizales sudafricanos",
+   "season": "Residente",
+   "order": "Strigiformes"
+  },
+  "lore": "En el folclore europeo, la lechuza chillona era un ave de mal agüero, conocida en inglés como «screech owl» (lechuza chillona) o «church owl» (lechuza de iglesia). Agricultores de Israel y Jordania instalan hoy cajas nido para lechuzas como control de plagas conjunto a ambos lados de la frontera.",
+  "funFact": "Una pareja de lechuzas puede comer varios miles de roedores en un solo año."
+ },
+ {
+  "scientific": "Aptenodytes patagonicus",
+  "common": "Pingüino rey",
+  "summary": "El segundo pingüino más grande, de casi un metro de altura, con brillantes manchas auriculares anaranjadas. Su ciclo reproductor es tan largo que las parejas pueden sacar adelante como máximo dos pollos cada tres años.",
+  "nativeRange": "Islas subantárticas: Georgia del Sur, Crozet, Kerguelen, Marion, Macquarie, Malvinas; Tierra del Fuego",
+  "biomes": [
+   "Isla subantártica",
+   "Marino"
+  ],
+  "abilities": [
+   "Bucea a más de 300 m de profundidad en busca de peces linterna",
+   "Incuba el huevo sobre las patas, bajo un pliegue de piel",
+   "Los pollos son alimentados durante el invierno por progenitores que pueden ausentarse durante semanas"
+  ],
+  "animal": {
+   "diet": "Peces linterna y calamares",
+   "habitat": "Mar abierto; cría en playas llanas y valles de islas subantárticas",
+   "lifespan": "Hasta unos 25 años en libertad",
+   "size": "Unos 90 cm; 9,3–18 kg",
+   "behaviour": "Los pollos, pardos y lanosos, se agrupan en guarderías durante el invierno mientras los progenitores se alimentan lejos, en el mar.",
+   "fieldMarks": [
+    "Manchas auriculares naranja vivo en forma de coma",
+    "Parte superior del pecho amarillo anaranjada que se difumina hacia el blanco",
+    "Pico largo y esbelto con una franja rosa anaranjada",
+    "Dorso gris plateado"
+   ],
+   "voice": "Un reclamo sonoro y trompeteante, que usa para encontrar a su pareja y a sus pollos en las colonias.",
+   "lookalikes": "El pingüino emperador es mayor y más robusto, con las manchas del cuello de un amarillo más pálido que no están rodeadas de negro, y cría sobre el hielo antártico en lugar de en playas subantárticas.",
+   "whereToSee": "Salisbury Plain, bahía de St Andrews y Gold Harbour (Georgia del Sur), Volunteer Point (Malvinas), Crozet y bahía Inútil (Chile)",
+   "season": "Presente todo el año en las colonias; ciclo reproductor de 14–16 meses",
+   "order": "Sphenisciformes"
+  },
+  "lore": "En el siglo XIX y comienzos del XX, en la isla Macquarie y otros lugares se hervían pingüinos rey en grandes cantidades para extraer su aceite.",
+  "funFact": "Antaño se creyó que los pollos pardos eran una especie distinta, apodada «pingüinos lanudos»."
+ },
+ {
+  "scientific": "Pygoscelis adeliae",
+  "common": "Pingüino de Adelia",
+  "summary": "El clásico pingüino de esmoquin de la costa antártica, que cría en enormes colonias en terrenos libres de hielo. Cada invierno sigue la banquisa en migraciones de miles de kilómetros.",
+  "nativeRange": "Costas de la Antártida",
+  "biomes": [
+   "Costa antártica",
+   "Banquisa",
+   "Marino"
+  ],
+  "abilities": [
+   "Realiza migraciones invernales de unos 13.000 km de media en el mar de Ross, siguiendo al sol y al hielo marino",
+   "Construye nidos de guijarros que mantienen los huevos por encima del agua de deshielo; a menudo roba piedras a sus vecinos",
+   "Bucea hasta unos 175 m, aunque la mayoría de sus inmersiones para alimentarse son mucho menos profundas",
+   "Puede deslizarse sobre el vientre por la nieve y el hielo"
+  ],
+  "animal": {
+   "diet": "Kril, peces y calamares",
+   "habitat": "Costas antárticas y banquisa",
+   "lifespan": "Hasta unos 20 años",
+   "size": "Unos 70 cm; 3,6–6 kg",
+   "behaviour": "Las aves regresan a la misma colonia, y a menudo al mismo nido, cada octubre, caminando hasta decenas de kilómetros sobre el hielo marino para llegar a ella.",
+   "fieldMarks": [
+    "Cabeza y garganta enteramente negras",
+    "Llamativo anillo blanco alrededor del ojo oscuro",
+    "Pico corto, cubierto en gran parte por plumas negras",
+    "Dorso negro y vientre blanco; cola corta que a menudo arrastra por la nieve",
+    "Patas rosadas"
+   ],
+   "voice": "Un rebuzno sonoro, rítmico y pulsante emitido con la cabeza apuntando al cielo en la «exhibición extática»; gruñidos y gorgoteos en las riñas.",
+   "lookalikes": "El pingüino barbijo tiene la cara y la garganta blancas, cruzadas por una fina línea negra bajo el mentón. El pingüino papúa tiene el pico rojo anaranjado y una franja blanca que cruza el píleo. Los pingüinos de Adelia juveniles tienen la garganta blanca, pero carecen de la línea del barbijo y tienen el ojo oscuro sin el anillo blanco completo.",
+   "whereToSee": "Cabo Royds y cabo Adare (mar de Ross), isla Paulet y bahía Esperanza (península Antártica)",
+   "season": "Cría en las colonias de octubre a febrero; inverna en el mar, en la banquisa",
+   "order": "Sphenisciformes"
+  },
+  "lore": "Jules Dumont d'Urville le dio nombre en 1840 en honor de su esposa, Adèle. Las notas de George Murray Levick sobre su comportamiento sexual, tomadas durante la expedición de Scott de 1910–13, se consideraron demasiado escandalosas para publicarse y no vieron la luz hasta 2012.",
+  "funFact": "Restos subfósiles muestran que los pingüinos de Adelia han usado algunas colonias del mar de Ross durante miles de años, lo que permite a los científicos reconstruir el clima del pasado a través de sus huesos y cáscaras de huevo."
+ },
+ {
+  "scientific": "Fregata magnificens",
+  "common": "Rabihorcado magno",
+  "summary": "Un pirata de los mares tropicales cuyos machos reproductores lucen una enorme bolsa gular roja. Puede permanecer en el aire durante días y roba peces a otras aves marinas.",
+  "nativeRange": "Costas del Atlántico tropical y del Pacífico oriental",
+  "biomes": [
+   "Costa",
+   "Isla",
+   "Marino"
+  ],
+  "abilities": [
+   "La menor carga alar de todas las aves, lo que le permite planear sin esfuerzo",
+   "Roba peces a piqueros y otras aves marinas",
+   "Puede permanecer en el aire durante días, incluso durmiendo en vuelo",
+   "Los machos hinchan una bolsa gular roja para atraer a las hembras"
+  ],
+  "animal": {
+   "diet": "Peces, calamares y presas robadas",
+   "habitat": "Costas e islas tropicales",
+   "lifespan": "Hasta 30 años",
+   "size": "89–114 cm; envergadura 2,2–2,4 m",
+   "behaviour": "Persigue a otras aves marinas hasta que sueltan su captura, que atrapa en el aire.",
+   "fieldMarks": [
+    "Alas largas y angulosas",
+    "Cola profundamente ahorquillada",
+    "Machos negros con una bolsa gular roja",
+    "Hembras con el pecho blanco"
+   ],
+   "voice": "Silencioso en el mar; tamborileos y carraqueos en las colonias.",
+   "lookalikes": "Los machos de rabihorcado grande tienen un brillo verde en el dorso, en lugar de púrpura, y una franja alar clara; las hembras tienen un anillo ocular rojo y la garganta gris pálido. El rabihorcado chico es más pequeño, con «espolones» blancos en las axilas. A distancia, la silueta, la larga cola ahorquillada y las alas angulosas distinguen a los rabihorcados de todas las demás aves marinas.",
+   "whereToSee": "Laguna de Codrington (Barbuda), Seymour Norte (Galápagos), isla Contoy e isla Isabel (México) y los cayos de Florida",
+   "season": "Residente",
+   "order": "Suliformes"
+  },
+  "lore": "Los marineros lo llamaban «man-o'-war bird» (pájaro buque de guerra) por sus costumbres piratas.",
+  "funFact": "Su plumaje no es totalmente impermeable, por lo que evita posarse en el mar y se alimenta atrapando presas de la superficie o robándoselas a otras aves."
+ },
+ {
+  "scientific": "Ardenna grisea",
+  "common": "Pardela sombría",
+  "summary": "Un ave marina de color pardo chocolate que realiza una de las migraciones más largas de todos los animales, un circuito en forma de ocho por el Pacífico de unos 64.000 km al año.",
+  "nativeRange": "Cría en islas en torno a Nueva Zelanda, el sur de Chile y las Malvinas; se distribuye por todo el Pacífico y el Atlántico",
+  "biomes": [
+   "Marino",
+   "Isla"
+  ],
+  "abilities": [
+   "Migra hasta 64.000 km al año",
+   "Bucea hasta casi 70 m",
+   "Planea rasante sobre las olas con las alas rígidas",
+   "Usa madrigueras de hasta un metro o más de profundidad, a las que regresa de noche para evitar a los depredadores"
+  ],
+  "animal": {
+   "diet": "Peces, calamares y kril",
+   "habitat": "Mar abierto; cría en madrigueras en islas",
+   "size": "40–51 cm; envergadura 94–110 cm",
+   "behaviour": "Durante la migración se reúnen frente a las costas balsas de miles de aves.",
+   "fieldMarks": [
+    "Cuerpo pardo hollín oscuro",
+    "Coberteras inferiores de las alas plateadas",
+    "Alas largas y estrechas",
+    "Pico oscuro y fino"
+   ],
+   "voice": "Silenciosa en el mar; reclamos quejumbrosos en las madrigueras.",
+   "lookalikes": "La pardela de Tasmania es más pequeña, con la cara inferior de las alas menos plateada. La pardela paticlara tiene el pico claro y la cara inferior de las alas oscura.",
+   "whereToSee": "Bahía de Monterey (California), frente a Nueva Escocia y Terranova, las costas de Nueva Zelanda y las islas Tītī (Muttonbird) frente a la isla Stewart / Rakiura",
+   "season": "Cría de nov a abr (hemisferio sur); en el Pacífico norte y el Atlántico de may a sep",
+   "order": "Procellariiformes"
+  },
+  "lore": "Los maoríes de Rakiura recolectan pollos de tītī en las islas Tītī en virtud de derechos consuetudinarios.",
+  "funFact": "Un seguimiento por satélite publicado en 2006 mostró que aves de Nueva Zelanda volaban en un circuito en forma de ocho hasta zonas de alimentación frente a Japón, Alaska o California y regresaban, unos 64.000 km en un año."
+ },
+ {
+  "scientific": "Sula sula",
+  "common": "Piquero patirrojo",
+  "summary": "El piquero más pequeño y el único que anida habitualmente en árboles y arbustos, aferrándose a las ramas con sus patas palmeadas de un rojo vivo. Se zambulle en picado en busca de peces y calamares lejos mar adentro en los océanos tropicales.",
+  "nativeRange": "Islas tropicales de los océanos Pacífico, Índico y Atlántico, y el Caribe",
+  "biomes": [
+   "Isla tropical",
+   "Marino"
+  ],
+  "abilities": [
+   "Se lanza en picado desde lo alto al mar tras peces y calamares",
+   "Atrapa peces voladores en el aire cuando saltan fuera del agua",
+   "Busca alimento a cientos de kilómetros de la colonia y a menudo se alimenta de noche o al anochecer",
+   "Presenta varias fases de color, desde la blanca hasta la totalmente parda"
+  ],
+  "animal": {
+   "diet": "Peces voladores y calamares",
+   "habitat": "Aguas tropicales pelágicas; anida en árboles y arbustos de islas remotas",
+   "lifespan": "Más de 20 años",
+   "size": "66–77 cm; envergadura de unos 1–1,5 m; 0,85–1,1 kg",
+   "behaviour": "A menudo sigue a los barcos para atrapar los peces voladores que levanta la proa.",
+   "fieldMarks": [
+    "Patas de un rojo vivo (adultos)",
+    "Pico gris azulado pálido con piel facial rosada en la base",
+    "Plumaje variable: fase totalmente blanca con plumas de vuelo negras, fase parda o fase parda de cola blanca",
+    "Silueta de piquero esbelta y de cola larga"
+   ],
+   "voice": "Casi siempre silencioso en el mar; graznidos ásperos y carraqueantes en la colonia.",
+   "lookalikes": "El piquero enmascarado (y el piquero de Nazca) es mayor, con un antifaz facial negro, patas amarillo anaranjadas o apagadas y cola negra. El piquero pardo tiene la cabeza y el pecho pardo oscuros nítidamente delimitados y las patas amarillas. Solo el piquero patirrojo tiene las patas rojas.",
+   "whereToSee": "Isla Genovesa (Galápagos), Kīlauea Point (Kauaʻi, Hawái), Pequeño Caimán, isla de Navidad y Aldabra",
+   "season": "Residente en las colonias; la época de cría varía según la isla",
+   "order": "Suliformes"
+  },
+  "lore": "Su nombre inglés, «booby», suele atribuirse al español «bobo», por la mansedumbre de estas aves cuando los marineros desembarcaban en sus islas.",
+  "funFact": "La colonia de Pequeño Caimán, de varios miles de parejas, es una de las mayores del Caribe."
+ },
+ {
+  "scientific": "Pelecanus occidentalis",
+  "common": "Pelícano pardo",
+  "summary": "Un gran pelícano costero de color pardo grisáceo que, a diferencia de la mayoría de los pelícanos, caza mediante espectaculares picados. Se recuperó de su casi desaparición en Norteamérica tras la prohibición del DDT.",
+  "nativeRange": "Costas atlánticas, del golfo de México y del Pacífico de América, desde EE. UU. hasta el norte de Sudamérica, y el Caribe",
+  "biomes": [
+   "Costa",
+   "Estuario",
+   "Manglar"
+  ],
+  "abilities": [
+   "Se lanza en picado desde hasta unos 20 m, plegando las alas hacia atrás antes del impacto",
+   "Unos sacos aéreos bajo la piel amortiguan el impacto y le ayudan a volver a la superficie",
+   "Su bolsa gular puede contener hasta unos 10 litros de agua y peces",
+   "Planea en fila justo por encima de las crestas de las olas, aprovechando el colchón de aire"
+  ],
+  "animal": {
+   "diet": "Pequeños peces gregarios como lachas, anchoas y sardinas",
+   "habitat": "Aguas costeras, bahías, estuarios e islas de manglar",
+   "lifespan": "Hasta unos 30 años",
+   "size": "100–137 cm; envergadura 2–2,3 m; 2–5 kg",
+   "behaviour": "Las gaviotas guanaguanares suelen posarse en la cabeza de un pelícano para atrapar los peces que se escapan de su bolsa.",
+   "fieldMarks": [
+    "Cuerpo pardo grisáceo; el pelícano más pequeño y oscuro",
+    "Cabeza y cuello blancos fuera de la época de cría; nuca castaña en los adultos reproductores",
+    "Píleo amarillento en plumaje nupcial",
+    "Pico largo con bolsa gris (rojiza en las aves reproductoras del Pacífico)",
+    "Juveniles enteramente pardos con el vientre más claro"
+   ],
+   "voice": "Los adultos son casi mudos; los pollos chillan y gruñen.",
+   "lookalikes": "El pelícano norteamericano es blanco con las plumas de vuelo negras y se alimenta nadando, no zambulléndose. El pelícano peruano (Perú y Chile) es mayor, con una franja blanca que recorre el cuello.",
+   "whereToSee": "Costa del golfo de Florida, marismas de Luisiana, bahía de Monterey y San Diego (California), golfo de California e islas del Caribe",
+   "season": "Residente; las aves del Pacífico se dispersan hacia el norte tras la cría",
+   "order": "Pelecaniformes"
+  },
+  "lore": "La isla de Alcatraz, en San Francisco, toma su nombre del español «alcatraces», por los pelícanos que vivían allí. El pelícano pardo es el ave estatal de Luisiana y figura en su bandera.",
+  "funFact": "Retirado de la lista de especies en peligro de EE. UU. en 2009, es uno de los éxitos más claros de la prohibición del DDT."
+ },
+ {
+  "scientific": "Phalacrocorax carbo",
+  "common": "Cormorán grande",
+  "summary": "Un ave buceadora grande, de un negro aceitoso, presente en costas y aguas interiores de gran parte del mundo. Persigue a los peces bajo el agua impulsándose con las patas y los pescadores de China lo adiestran desde hace siglos.",
+  "nativeRange": "Europa, Asia, África, Australasia y la costa norteatlántica de Norteamérica",
+  "biomes": [
+   "Costa",
+   "Lagos y ríos",
+   "Estuario"
+  ],
+  "abilities": [
+   "Persigue peces bajo el agua, propulsado por sus grandes patas palmeadas",
+   "Su plumaje, en parte humectable, reduce la flotabilidad al bucear",
+   "Seca las alas extendiéndolas en una postura heráldica",
+   "Puede bucear a más de 30 m"
+  ],
+  "animal": {
+   "diet": "Peces",
+   "habitat": "Costas, estuarios, lagos y ríos",
+   "lifespan": "Normalmente unos 11 años; se han registrado más de 20",
+   "size": "80–100 cm; envergadura 1,3–1,6 m; 2–3 kg",
+   "behaviour": "A veces los grupos cazan juntos, empujando a los peces hacia aguas someras.",
+   "fieldMarks": [
+    "Negro con brillos bronceados o azulados",
+    "Mancha blanca en la mejilla y la barbilla",
+    "Manchas blancas en los muslos en la época de cría",
+    "Pico robusto y ganchudo con piel desnuda amarilla en la base",
+    "Nada muy hundido en el agua, con la cabeza inclinada hacia arriba"
+   ],
+   "voice": "Generalmente silencioso lejos de las colonias; graznidos guturales graves en los nidos.",
+   "lookalikes": "El cormorán moñudo es más pequeño y esbelto, de pico más fino, con brillo verdoso y, en primavera, un moño; carece de la mancha blanca en la mejilla. El cormorán orejudo (Norteamérica) tiene una bolsa gular naranja sin borde blanco.",
+   "whereToSee": "Aguas costeras e interiores de Europa y Asia; lago Naivasha (Kenia), el río Li en Guilin (China) y Rutland Water (Reino Unido)",
+   "season": "Residente o migrante parcial",
+   "order": "Suliformes"
+  },
+  "lore": "En China, los pescadores llevan siglos adiestrando cormoranes grandes para pescar, colocándoles un lazo alrededor del cuello para que no puedan tragar los peces grandes. En «El paraíso perdido» de Milton, Satán se posa en el Árbol de la Vida «like a cormorant» (como un cormorán).",
+  "funFact": "El nombre «cormorán» procede del latín «corvus marinus», cuervo marino."
+ },
+ {
+  "scientific": "Chionis albus",
+  "common": "Picovaina blanco (paloma antártica)",
+  "summary": "Un carroñero blanco y rechoncho de las colonias antárticas de pingüinos y focas, y la única ave que cría en la Antártida sin patas palmeadas. Vive del robo, la limpieza y la carroña.",
+  "nativeRange": "Península Antártica, Georgia del Sur e islas Orcadas del Sur y Shetland del Sur; inverna al norte hasta la Patagonia y las Malvinas",
+  "biomes": [
+   "Costa antártica",
+   "Isla subantártica"
+  ],
+  "abilities": [
+   "Roba kril a los pingüinos sobresaltándolos mientras alimentan a sus pollos",
+   "Come huevos, cadáveres, heces y placentas de foca",
+   "Puede volar largas distancias sobre el mar pese a su aspecto de paloma"
+  ],
+  "animal": {
+   "diet": "Carroña, huevos, kril, placentas y heces de foca, y desperdicios",
+   "habitat": "Costas rocosas cerca de colonias de pingüinos, cormoranes y focas; estaciones de investigación",
+   "size": "34–41 cm; 450–800 g",
+   "behaviour": "Patrulla las colonias de pingüinos y acosa a los adultos hasta que derraman kril, que atrapa al vuelo.",
+   "fieldMarks": [
+    "Cuerpo totalmente blanco y rechoncho, parecido al de una paloma",
+    "Cara rosácea con verrugas carnosas",
+    "Vaina córnea sobre la base del pico amarillento",
+    "Patas cortas gris rosáceas, sin membranas interdigitales"
+   ],
+   "voice": "Ásperos reclamos «cau», como de córvido, y un parloteo de regaño.",
+   "lookalikes": "El picovaina carinegro (islas del sur del océano Índico) tiene el pico y la cara negros. En la Antártida no hay palomas.",
+   "whereToSee": "Desembarcos en la península Antártica (Port Lockroy, Brown Bluff), Georgia del Sur y las Malvinas en invierno",
+   "season": "Presente en el verano antártico; muchos invernan en las Malvinas y la Patagonia",
+   "order": "Charadriiformes"
+  },
+  "lore": "Los primeros foqueros y exploradores llamaban «paddies» a los picovainas y destacaban su falta de miedo en los campamentos.",
+  "funFact": "Se cree que los picovainas están emparentados con limícolas como los chorlitos, pese a su aspecto de paloma."
+ },
+ {
+  "scientific": "Thalassarche melanophris",
+  "common": "Albatros ojeroso",
+  "summary": "El albatros más extendido y numeroso, con una «ceja» oscura que le da una expresión severa. Unas dos terceras partes de la población mundial crían en las islas Malvinas.",
+  "nativeRange": "Cría en islas subantárticas (Malvinas, Georgia del Sur, Chile); se distribuye por el océano Austral",
+  "biomes": [
+   "Marino",
+   "Isla subantártica"
+  ],
+  "abilities": [
+   "El vuelo dinámico le permite recorrer miles de kilómetros casi sin aletear",
+   "Bloquea las alas extendidas mediante un tendón del hombro",
+   "Anida en enormes colonias en acantilados y laderas"
+  ],
+  "animal": {
+   "diet": "Peces, calamares, crustáceos y descartes pesqueros",
+   "habitat": "Mar abierto; anida en islas subantárticas",
+   "size": "80–95 cm; envergadura 2,1–2,5 m",
+   "behaviour": "Las parejas se reencuentran cada año con elaboradas danzas en las que «esgrimen» con el pico y lo apuntan al cielo.",
+   "fieldMarks": [
+    "Franja oscura a modo de ceja",
+    "Pico amarillo anaranjado vivo con la punta rojiza",
+    "Dorso y cara superior de las alas oscuros, cuerpo blanco",
+    "Anchos bordes oscuros en la cara inferior blanca de las alas"
+   ],
+   "voice": "Rebuznos y gemidos en las colonias; silencioso en el mar.",
+   "lookalikes": "El albatros de Campbell (Nueva Zelanda) tiene el ojo amarillo pálido. El albatros frentiblanco tiene el pico gris verdoso pálido y bordes estrechos en la cara inferior de las alas.",
+   "whereToSee": "Islas Steeple Jason, Saunders y New (Malvinas); frente al cabo de Hornos",
+   "season": "Cría de septiembre a abril; se dispersa hacia el norte en invierno",
+   "order": "Procellariiformes"
+  },
+  "lore": "La especie pasó de En Peligro a Casi Amenazada en 2013 y a Preocupación Menor en 2017, tras reducirse la captura accidental de aves marinas.",
+  "funFact": "La isla Steeple Jason, en las Malvinas, alberga bastante más de 100.000 parejas reproductoras, una de las mayores colonias de albatros del mundo."
+ },
+ {
+  "scientific": "Pygoscelis papua",
+  "common": "Pingüino papúa",
+  "summary": "El pingüino más rápido nadando, con una franja blanca a modo de cofia y el pico naranja vivo. Su población ha crecido y se ha extendido hacia el sur por la península Antártica a medida que disminuye el hielo marino.",
+  "nativeRange": "Península Antártica e islas subantárticas",
+  "biomes": [
+   "Costa antártica",
+   "Isla subantártica",
+   "Marino"
+  ],
+  "abilities": [
+   "Nada a hasta unos 36 km/h, la mayor velocidad de cualquier pingüino",
+   "Bucea hasta unos 200 m",
+   "Construye nidos con piedras y musgo"
+  ],
+  "animal": {
+   "diet": "Kril, peces y calamares",
+   "habitat": "Llanuras y playas costeras libres de hielo",
+   "lifespan": "15–20 años",
+   "size": "70–90 cm; 5–8 kg",
+   "behaviour": "Las parejas construyen nidos de piedras y pueden ofrecerse guijarros como regalo.",
+   "fieldMarks": [
+    "Pico rojo anaranjado vivo",
+    "Ancha franja blanca sobre la cabeza",
+    "Cola larga y rígida",
+    "Patas anaranjadas"
+   ],
+   "voice": "Un rebuzno sonoro y trompeteante.",
+   "lookalikes": "El pingüino de Adelia tiene la cabeza totalmente negra y el pico corto. El pingüino barbijo tiene una fina línea negra bajo el mentón.",
+   "whereToSee": "Port Lockroy (península Antártica), Malvinas y Georgia del Sur",
+   "season": "Presente todo el año en la mayoría de las colonias",
+   "order": "Sphenisciformes"
+  },
+  "lore": "Su nombre inglés, «gentoo», podría proceder de una palabra angloindia que designaba a los hindúes, pero su origen es incierto.",
+  "funFact": "Un estudio genético de 2020 propuso dividir al pingüino papúa en cuatro especies a lo largo de su área; la mayoría de las listas aún lo consideran una sola."
+ },
+ {
+  "scientific": "Oceanites oceanicus",
+  "common": "Paíño de Wilson",
+  "summary": "Un ave marina del tamaño de un gorrión que cría en la Antártida y migra al Atlántico norte. Es una de las aves más abundantes del planeta y, mientras se alimenta, parece «caminar» sobre el agua.",
+  "nativeRange": "Cría en la Antártida e islas subantárticas; inverna en todos los océanos",
+  "biomes": [
+   "Marino",
+   "Costa antártica"
+  ],
+  "abilities": [
+   "Golpetea el agua con las patas mientras se cierne, de modo que parece caminar sobre ella",
+   "Migra cada año de la Antártida al Atlántico norte",
+   "Encuentra el alimento por el olfato"
+  ],
+  "animal": {
+   "diet": "Kril, peces pequeños y plancton",
+   "habitat": "Mar abierto; cría en grietas de rocas",
+   "size": "15–19 cm; envergadura 38–42 cm",
+   "behaviour": "Danza sobre las olas, tamborileando el agua con las patas mientras se alimenta.",
+   "fieldMarks": [
+    "Cuerpo pardo hollín oscuro",
+    "Banda blanca en el obispillo",
+    "Patas largas que sobresalen de la cola recta",
+    "Membranas amarillas entre los dedos"
+   ],
+   "voice": "Silencioso en el mar; parloteos en los nidos.",
+   "lookalikes": "El paíño boreal tiene la cola ahorquillada. El paíño europeo tiene una franja blanca en la cara inferior del ala.",
+   "whereToSee": "Península Antártica; frente a Carolina del Norte y Massachusetts en verano",
+   "season": "Cría de nov a marzo (Antártida); en el hemisferio norte de mayo a septiembre",
+   "order": "Procellariiformes"
+  },
+  "lore": "Los marineros llamaban a los paíños «Mother Carey's chickens» (los pollitos de la madre Carey), nombre que se cree derivado de «Mater Cara», la Virgen María.",
+  "funFact": "Se dice que el nombre «petrel» procede de san Pedro, que caminó sobre las aguas."
+ }
+]

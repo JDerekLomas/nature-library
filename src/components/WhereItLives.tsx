@@ -2,9 +2,12 @@
 
 import { useEffect, useState } from "react";
 import Globe from "./Globe";
+import { useLang, useT } from "@/i18n/LangProvider";
 
 /** Globe of GBIF occurrence records for one taxon, with record count and top countries. */
 export default function WhereItLives({ gbifKey, name, nativeRange }: { gbifKey?: number; name: string; nativeRange?: string }) {
+  const lang = useLang();
+  const t = useT().widgets;
   const [key, setKey] = useState<number | undefined>(gbifKey);
   const [count, setCount] = useState<number | null>(null);
   const [countries, setCountries] = useState<{ name: string; count: number }[]>([]);
@@ -23,7 +26,7 @@ export default function WhereItLives({ gbifKey, name, nativeRange }: { gbifKey?:
       .then((r) => r.json())
       .then((j) => {
         setCount(j.count);
-        const dn = new Intl.DisplayNames(["en"], { type: "region" });
+        const dn = new Intl.DisplayNames([lang], { type: "region" });
         setCountries(
           (j.facets?.[0]?.counts || []).map((c: { name: string; count: number }) => ({
             name: (() => {
@@ -50,18 +53,18 @@ export default function WhereItLives({ gbifKey, name, nativeRange }: { gbifKey?:
         )}
       </div>
       <div>
-        <p className="label text-ink-2">Recorded sightings</p>
+        <p className="label text-ink-2">{t.recordedSightings}</p>
         <p className="font-display text-5xl mt-1">{count == null ? "—" : count.toLocaleString()}</p>
-        <p className="text-sm text-ink-2 mt-1">geo-referenced records in GBIF, from museums, herbaria and field observers.</p>
+        <p className="text-sm text-ink-2 mt-1">{t.georef}</p>
         {nativeRange && (
           <>
-            <p className="label text-ink-2 mt-6">Native range</p>
+            <p className="label text-ink-2 mt-6">{t.nativeRange}</p>
             <p className="mt-1 leading-snug">{nativeRange}</p>
           </>
         )}
         {countries.length > 0 && (
           <>
-            <p className="label text-ink-2 mt-6">Most recorded in</p>
+            <p className="label text-ink-2 mt-6">{t.mostRecorded}</p>
             <ol className="mt-2 text-sm space-y-1">
               {countries.map((c, i) => (
                 <li key={c.name} className="flex justify-between border-b rule pb-1">
@@ -75,7 +78,7 @@ export default function WhereItLives({ gbifKey, name, nativeRange }: { gbifKey?:
             </ol>
           </>
         )}
-        <p className="mt-4 text-xs text-ink-2">Drag the globe to turn it. Dots are where records exist, not a range map; darker means more records.</p>
+        <p className="mt-4 text-xs text-ink-2">{t.dragNote}</p>
       </div>
     </div>
   );

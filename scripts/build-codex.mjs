@@ -312,6 +312,29 @@ enriched.sort((a, b) => (KORDER[a.kingdom] ?? 4) - (KORDER[b.kingdom] ?? 4) || (
 enriched.forEach((e, i) => (e.nl = `NL·${String(i + 1).padStart(4, "0")}`));
 
 fs.writeFileSync(P("data/codex.built.json"), JSON.stringify(enriched));
+
+// ---------- Spanish overlays (data/codex-es/*.json, keyed by scientific name) → data/codex.es.json keyed by slug ----------
+{
+  const dir = P("data/codex-es");
+  const bySci = new Map();
+  if (fs.existsSync(dir))
+    for (const f of fs.readdirSync(dir).filter((x) => x.endsWith(".json"))) {
+      try {
+        for (const o of JSON.parse(fs.readFileSync(path.join(dir, f), "utf8"))) if (o?.scientific) bySci.set(o.scientific.trim(), o);
+      } catch (e) {
+        console.error("bad es file", f, e.message);
+      }
+    }
+  const es = {};
+  for (const e of enriched) {
+    const o = bySci.get(e.scientific);
+    if (!o) continue;
+    const { scientific, ...rest } = o;
+    es[e.slug] = rest;
+  }
+  fs.writeFileSync(P("data/codex.es.json"), JSON.stringify(es));
+  console.log(`spanish: ${Object.keys(es).length}/${enriched.length} entries translated`);
+}
 // plates.json is compact: a book table plus one row per plate; src/lib/plates.ts expands it
 {
   const G = "https://images.sourcelibrary.org/gallery/";

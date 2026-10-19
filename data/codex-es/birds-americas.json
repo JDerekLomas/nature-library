@@ -1,0 +1,2023 @@
+[
+ {
+  "scientific": "Cardinalis cardinalis",
+  "common": "Cardenal norteño (cardenal rojo)",
+  "summary": "Paseriforme crestado de pico grueso cuyos machos escarlatas son el ave roja más familiar del este de Norteamérica. Algo inusual entre los paseriformes norteamericanos: las hembras también cantan, a veces desde el propio nido, y las parejas permanecen juntas todo el año.",
+  "nativeRange": "Este y centro de Norteamérica, desde el sur de Canadá por el este de EE. UU. hasta México, Belice y el norte de Guatemala; introducido en Hawái",
+  "biomes": [
+   "Linde de bosque",
+   "Matorral",
+   "Jardines",
+   "Matorral desértico"
+  ],
+  "abilities": [
+   "Cantan ambos sexos; el canto de la hembra suele indicar al macho que lleve comida al nido",
+   "Su pesado pico cónico parte semillas duras como las de girasol y cártamo",
+   "Ha extendido mucho su área de distribución hacia el norte durante el último siglo, favorecido por los comederos y los arbustos de las zonas residenciales",
+   "El plumaje rojo procede de pigmentos carotenoides de su dieta"
+  ],
+  "lore": "Debe su nombre a las vestiduras rojas de los cardenales católicos y es el ave oficial de siete estados de EE. UU. —Illinois, Indiana, Kentucky, Carolina del Norte, Ohio, Virginia y Virginia Occidental—, más que ninguna otra especie.",
+  "funFact": "Linneo lo describió en 1758 como Loxia cardinalis, en el mismo género que los piquituertos.",
+  "animal": {
+   "diet": "Semillas, fruta e insectos; los pollos se alimentan sobre todo de insectos",
+   "habitat": "Espesuras, lindes de bosque, setos, jardines residenciales y cauces secos del desierto",
+   "lifespan": "Normalmente menos de 3 años en libertad; récord de anillamiento de unos 15 años",
+   "size": "21–23 cm; 42–48 g",
+   "behaviour": "En primavera, los machos territoriales (y a veces las hembras) atacan su propio reflejo en ventanas y retrovisores, a veces durante horas.",
+   "fieldMarks": [
+    "Macho completamente rojo, con antifaz negro alrededor del grueso pico rojo anaranjado",
+    "Cresta puntiaguda y prominente en ambos sexos",
+    "Hembra de color pardo ante cálido, con tonos rojizos en cresta, alas y cola",
+    "Cola larga; los juveniles tienen el pico oscuro"
+   ],
+   "voice": "Silbidos fuertes, claros y ligados, repetidos en series, que en inglés se transcriben 'cheer-cheer-cheer' o 'birdie-birdie-birdie'; reclamo: un 'chip' agudo y metálico.",
+   "lookalikes": "El cardenal desértico (suroeste de EE. UU. y México) es gris, con cresta roja y un pico amarillo corto y romo. Los machos de piranga roja son enteramente rojos, pero carecen de cresta y de antifaz negro. La piranga escarlata tiene las alas negras.",
+   "whereToSee": "Casi cualquier comedero de jardín, parque o espesura del este de EE. UU.; común en todo el sureste y el valle del Misisipi.",
+   "season": "Residente todo el año",
+   "order": "Passeriformes"
+  }
+ },
+ {
+  "scientific": "Turdus migratorius",
+  "common": "Mirlo primavera (zorzal robín)",
+  "summary": "El túrdido más extendido de Norteamérica: un cazador de pecho rojizo que recorre el césped y cuyo canto suele ser el primero que se oye antes del amanecer. Los colonos ingleses lo llamaron robin por el petirrojo europeo, con el que no está emparentado, debido a su pecho anaranjado.",
+  "nativeRange": "Cría desde Alaska y Canadá hasta el sur de México; las aves del norte invernan al sur hasta la costa del golfo de México, México y Guatemala",
+  "biomes": [
+   "Bosque",
+   "Jardines",
+   "Tierras de cultivo",
+   "Bosque boreal",
+   "Linde de la tundra"
+  ],
+  "abilities": [
+   "Caza lombrices corriendo, deteniéndose e inclinando la cabeza; localiza las presas sobre todo con la vista",
+   "Pasa de una dieta principalmente de lombrices e insectos en verano a frutos y bayas en invierno",
+   "Construye un nido en forma de taza revestido de barro, al que la hembra da forma presionando con el pecho",
+   "Pone los huevos azul cielo que dieron nombre al color 'robin's egg blue' (azul huevo de petirrojo)"
+  ],
+  "lore": "Es el ave oficial de Connecticut, Míchigan y Wisconsin, y su regreso en primavera se ha considerado desde hace mucho en toda Norteamérica una señal de que el invierno termina.",
+  "funFact": "Muchos mirlos primavera no abandonan los estados del norte en invierno: simplemente pasan a comer fruta y se vuelven silenciosos, de modo que los 'primeros de la primavera' suelen ser aves que estuvieron allí todo el tiempo.",
+  "animal": {
+   "diet": "Lombrices, larvas de insectos y frutos como los de acebo, enebro y manzano silvestre",
+   "habitat": "Céspedes, parques, bosque abierto, tierras de cultivo y bosque hasta el límite arbóreo",
+   "lifespan": "Unos 2 años de media; récord de anillamiento de casi 14 años",
+   "size": "23–28 cm; 77–85 g",
+   "behaviour": "En invierno muchos forman grandes bandadas nómadas que siguen las cosechas de fruta y duermen en dormideros comunales; a menudo pasan inadvertidos porque dejan de cantar en los céspedes.",
+   "fieldMarks": [
+    "Pecho y vientre de color naranja ladrillo que contrastan con el dorso pardo grisáceo",
+    "Cabeza negruzca con anillo ocular blanco interrumpido",
+    "Pico amarillo; parte baja del vientre e infracoberteras caudales blancas",
+    "Los juveniles tienen el pecho densamente moteado, rasgo típico de los túrdidos"
+   ],
+   "voice": "Una serie rica y melodiosa de frases silbadas, que en inglés se transcribe 'cheerily, cheer-up, cheerio'; los reclamos incluyen un 'tut-tut' seco y un 'siii' alto y fino de alarma ante rapaces.",
+   "lookalikes": "El zorzal pinto (oeste) tiene ceja naranja, barras alares naranjas y una banda pectoral negra. El toquí oriental solo tiene color rufo en los flancos y el vientre blanco. Los juveniles moteados pueden recordar a otros zorzales, pero ya muestran algo de naranja.",
+   "whereToSee": "Céspedes, parques y jardines de todo EE. UU. y Canadá; bandadas invernales en árboles con fruto en los estados del sur.",
+   "season": "Residente en gran parte de EE. UU.; visitante estival en Canadá y Alaska, de marzo a octubre",
+   "order": "Passeriformes"
+  }
+ },
+ {
+  "scientific": "Cyanocitta cristata",
+  "common": "Arrendajo azul (chara azul)",
+  "summary": "Córvido crestado y ruidoso del este de Norteamérica, de un azul brillante por encima y blanco por debajo. Cada otoño esconde miles de bellotas, y a las que olvida se les atribuye haber ayudado a los robledales a expandirse hacia el norte tras la última glaciación.",
+  "nativeRange": "Sur de Canadá y este y centro de Estados Unidos, al oeste hasta las estribaciones de las Montañas Rocosas",
+  "biomes": [
+   "Bosque caducifolio",
+   "Bosque mixto",
+   "Jardines",
+   "Linde de bosque"
+  ],
+  "abilities": [
+   "Transporta varias bellotas a la vez en una bolsa gular extensible y las entierra lejos del árbol de origen",
+   "Imita los chillidos del busardo hombrorrojo y del busardo colirrojo",
+   "Su color azul es estructural —las plumas dispersan la luz—; no tiene pigmento azul",
+   "Acosa a búhos y gavilanes en grupos ruidosos"
+  ],
+  "lore": "Mark Catesby lo ilustró como 'The Blew Jay' (el arrendajo azul) en su Natural History of Carolina, Florida and the Bahama Islands (1731–43); hoy es el emblema del equipo de béisbol de las Grandes Ligas de Toronto.",
+  "funFact": "Se calcula que un solo arrendajo azul puede esconder entre 3.000 y 5.000 bellotas en un otoño.",
+  "animal": {
+   "diet": "Bellotas, hayucos, semillas e insectos; ocasionalmente huevos y pollos",
+   "habitat": "Robledales y hayedos, bosque mixto, zonas residenciales y parques",
+   "lifespan": "Normalmente unos 7 años; récord de anillamiento de más de 26 años",
+   "size": "25–30 cm; 70–100 g",
+   "behaviour": "Algunas poblaciones migran en otoño en bandadas laxas y diurnas a lo largo de las orillas de los lagos y las costas, pero qué individuos migran varía de un año a otro y no se conoce bien.",
+   "fieldMarks": [
+    "Cresta, dorso, alas y cola de color azul brillante",
+    "Collar negro sobre la garganta y la cara blanquecinas",
+    "Llamativas barras alares blancas y esquinas de la cola blancas; barrado negro en alas y cola",
+    "Cresta erguida cuando está excitado, aplanada cuando está tranquilo"
+   ],
+   "voice": "Un chillido áspero, 'yei! yei!' (en inglés 'jay! jay!'); también un 'quidl-quidl' musical y chirriante (el reclamo de 'manivela de bomba'), chasquidos suaves e imitaciones convincentes de rapaces.",
+   "lookalikes": "La chara de Steller (oeste) tiene negra la mitad delantera del cuerpo y no tiene blanco en alas ni cola. La chara floridana carece de cresta y de manchas blancas. El martín gigante norteamericano es gris azulado, con un pico enorme y una cresta desgreñada.",
+   "whereToSee": "Robledales, parques y comederos con cacahuetes (maní) en todo el este de EE. UU.; bandadas migratorias en septiembre en las orillas de los Grandes Lagos (p. ej., Whitefish Point, Míchigan).",
+   "season": "Residente; algunas aves del norte migran en septiembre–octubre y abril–mayo",
+   "order": "Passeriformes"
+  }
+ },
+ {
+  "scientific": "Icterus galbula",
+  "common": "Bolsero de Baltimore (turpial de Baltimore)",
+  "summary": "Pariente de los tordos, de color naranja intenso y negro, que teje un nido colgante en forma de calcetín en lo alto de las ramas exteriores de olmos y arces. Inverna en los trópicos, donde liba néctar y come fruta.",
+  "nativeRange": "Cría en el este y centro de Norteamérica; inverna desde el sur de México hasta Colombia y Venezuela, y algunos en Florida y el Caribe",
+  "biomes": [
+   "Linde de bosque caducifolio",
+   "Bosque de ribera",
+   "Parques y jardines"
+  ],
+  "abilities": [
+   "Teje un nido colgante en forma de bolsa con fibras vegetales, pelo y cordel, suspendido de la punta de ramitas finas",
+   "Usa la técnica de 'apertura' —clava el pico cerrado en la fruta y lo abre a la fuerza— para beber el jugo",
+   "Visita flores en busca de néctar en sus áreas de invernada y transporta polen entre ellas",
+   "Migra de noche entre EE. UU. y el norte de Sudamérica"
+  ],
+  "lore": "Su naranja y negro recordaban los colores heráldicos de los Calvert, los lores Baltimore que fundaron la colonia de Maryland; hoy es el ave oficial de Maryland y da nombre al equipo de béisbol de Baltimore.",
+  "funFact": "Antes de la grafiosis del olmo, el olmo americano era su árbol de nidificación clásico; desde entonces los bolseros han pasado a arces, álamos y plátanos americanos.",
+  "animal": {
+   "diet": "Orugas y otros insectos, fruta madura y néctar",
+   "habitat": "Bosque caducifolio abierto, riberas y parques con árboles altos de sombra",
+   "lifespan": "Récord de anillamiento de unos 11 años",
+   "size": "17–22 cm; 22–42 g",
+   "behaviour": "Durante la migración primaveral acude fácilmente a comederos con medias naranjas y jalea de uva.",
+   "fieldMarks": [
+    "Macho adulto: partes inferiores, obispillo y laterales de la cola de color naranja encendido; cabeza y dorso enteramente negros",
+    "Alas negras con una sola barra alar blanca",
+    "Hembra y macho de primer año: amarillo anaranjado por debajo, pardo oliváceo por encima, dos barras alares blancas",
+    "Pico gris, recto y muy puntiagudo"
+   ],
+   "voice": "Frases silbadas ricas y aflautadas, que varían de un individuo a otro; reclamo: un traqueteo seco y parloteado.",
+   "lookalikes": "El bolsero de Bullock (oeste) tiene la cara naranja con una línea ocular negra y una gran mancha alar blanca; ambos se hibridan en las Grandes Llanuras. Los machos de bolsero castaño son de color castaño oscuro, no naranja. La candelita norteña es un parúlido diminuto con manchas naranjas en la cola.",
+   "whereToSee": "Árboles de sombra junto a ríos y en parques antiguos del este de EE. UU. y el sur de Canadá; puntos clave de migración como Magee Marsh (Ohio) y Point Pelee (Ontario) en mayo.",
+   "season": "Visitante estival, de finales de abril a septiembre",
+   "order": "Passeriformes"
+  }
+ },
+ {
+  "scientific": "Hylocichla mustelina",
+  "common": "Zorzal moteado (zorzal del bosque)",
+  "summary": "Zorzal rechoncho, de dorso canela, propio de los bosques del este, con grandes motas negras sobre el pecho blanco. Su canto aflautado es uno de los sonidos más célebres de la naturaleza norteamericana, y lo produce en parte emitiendo dos notas a la vez.",
+  "nativeRange": "Cría en el este de Norteamérica; inverna desde el sur de México hasta Panamá",
+  "biomes": [
+   "Bosque caducifolio",
+   "Bosque mixto",
+   "Selva tropical de tierras bajas (invierno)"
+  ],
+  "abilities": [
+   "Su siringe de dos lados le permite emitir dos notas independientes a la vez, armonizando consigo mismo",
+   "Migra de noche cruzando o rodeando el golfo de México",
+   "Busca invertebrados removiendo la hojarasca",
+   "Depende de presas ricas en calcio, como caracoles, durante la puesta"
+  ],
+  "lore": "Henry David Thoreau elogió repetidamente su canto en sus diarios como el más hermoso de todas las aves, y es el ave oficial del Distrito de Columbia desde 1938.",
+  "funFact": "Los censos del Breeding Bird Survey muestran que el zorzal moteado ha disminuido aproximadamente a la mitad desde la década de 1960, sobre todo por la fragmentación del bosque y la pérdida de hábitat de invernada.",
+  "animal": {
+   "diet": "Insectos de la hojarasca, arañas, caracoles y lombrices; fruta antes de la migración",
+   "habitat": "Bosque caducifolio y mixto maduro y húmedo, con sotobosque arbustivo",
+   "lifespan": "Récord de anillamiento de unos 9 años",
+   "size": "18–21 cm; 40–50 g",
+   "behaviour": "A menudo añade material blanco —papel, plástico o corteza de abedul— a la base del nido.",
+   "fieldMarks": [
+    "Partes superiores de color canela rojizo brillante, más intenso en el píleo y la nuca",
+    "Partes inferiores blancas con grandes motas negras redondas",
+    "Llamativo anillo ocular blanco",
+    "Silueta de zorzal rechoncho y de cola corta"
+   ],
+   "voice": "Canto en tres partes: notas introductorias suaves, un 'i-o-lei' líquido y aflautado, y un remate trinado y zumbante que puede contener dos notas a la vez; reclamo: un rápido 'pit-pit-pit'.",
+   "lookalikes": "El zorzal colirrufo (zorzal ermitaño) tiene la cola rojiza en contraste con un dorso más pardo y motas más pequeñas. El zorzal dorsirrojizo solo tiene un moteado tenue. El cuitlacoche rojizo tiene la cola larga, ojos amarillos, barras alares y listas en lugar de motas redondas.",
+   "whereToSee": "Bosque caducifolio sombrío en todo el este de EE. UU. —p. ej., Great Smoky Mountains, Shenandoah o Rock Creek Park en Washington D. C.—; el anochecer es el mejor momento para oírlo.",
+   "season": "Visitante estival, de finales de abril a septiembre",
+   "order": "Passeriformes"
+  }
+ },
+ {
+  "scientific": "Poecile atricapillus",
+  "common": "Carbonero cabecinegro",
+  "summary": "Diminuto párido de capirote negro, nada temeroso, que sobrevive a los inviernos del norte con un cuerpo de unos 11 g. Su reclamo, del que toma su nombre en inglés, funciona como un código: cuantas más notas 'di', más peligroso es el depredador.",
+  "nativeRange": "Alaska, Canadá y la mitad norte de Estados Unidos",
+  "biomes": [
+   "Bosque caducifolio",
+   "Bosque mixto",
+   "Linde del bosque boreal",
+   "Jardines"
+  ],
+  "abilities": [
+   "Añade notas 'di' adicionales a su reclamo de alarma ante depredadores más pequeños y más peligrosos, como los mochuelos del género Glaucidium",
+   "Esconde miles de semillas cada otoño y recuerda dónde están",
+   "Su hipocampo —la región cerebral de la memoria espacial— incorpora nuevas neuronas en otoño, cuando el almacenamiento alcanza su máximo",
+   "Baja su temperatura corporal unos 10 °C en las noches frías para ahorrar energía (hipotermia regulada)"
+  ],
+  "lore": "Es el ave oficial de los estados de Maine y Massachusetts y de la provincia canadiense de Nuevo Brunswick.",
+  "funFact": "Carboneros de otras especies e incluso trepadores responden a los reclamos de alarma del carbonero cabecinegro; en la práctica, escuchan a escondidas sus avisos de depredadores.",
+  "animal": {
+   "diet": "Insectos, arañas y huevos en verano; semillas y bayas en invierno",
+   "habitat": "Bosque caducifolio y mixto, sauzales, parques y jardines",
+   "lifespan": "Normalmente 2–3 años; récord de anillamiento de unos 11 años",
+   "size": "12–15 cm; 9–14 g",
+   "behaviour": "En invierno constituye el núcleo de bandadas mixtas a las que se unen trepadores, reyezuelos y pájaros carpinteros en busca de seguridad.",
+   "fieldMarks": [
+    "Capirote y babero negros separados por mejillas de un blanco brillante",
+    "Dorso gris; flancos anteados",
+    "Los bordes blancos de las coberteras alares y las secundarias forman un panel alar claro",
+    "Pico diminuto; silueta de cabeza grande y cuerpo redondeado"
+   ],
+   "voice": "El conocido 'chic-a-di-di-di' (en inglés 'chick-a-dee-dee-dee'); canto: un silbido claro de dos notas, 'fii-bii', la segunda más grave.",
+   "lookalikes": "El carbonero de Carolina (sureste) es más pequeño, muestra menos blanco en el ala y canta un 'fii-bii-fii-bei' de cuatro notas; ambos se hibridan donde coinciden sus áreas. El carbonero cejiblanco tiene ceja blanca; el carbonero boreal tiene el capirote pardo.",
+   "whereToSee": "Cualquier comedero o bosque del norte de EE. UU. y Canadá; en muchos centros de naturaleza hay aves muy mansas que toman semillas de la mano.",
+   "season": "Residente todo el año",
+   "order": "Passeriformes"
+  }
+ },
+ {
+  "scientific": "Bombycilla cedrorum",
+  "common": "Ampelis americano (chinito)",
+  "summary": "Frugívoro estilizado y crestado, con antifaz negro y gotitas rojas como de cera en las puntas de las alas. Recorre el territorio en bandadas compactas que silban sin cesar allí donde maduran las bayas, y puede alimentarse solo de fruta durante meses.",
+  "nativeRange": "Cría en el sur de Canadá y el norte de EE. UU.; inverna en la mayor parte de EE. UU. y al sur hasta Centroamérica y el Caribe",
+  "biomes": [
+   "Linde de bosque",
+   "Huertos frutales",
+   "Bosque de ribera",
+   "Jardines"
+  ],
+  "abilities": [
+   "Puede sobrevivir solo con fruta durante meses, digiriéndola con rapidez",
+   "Dispersa las semillas de cedros, enebros, amelanchier y muchas otras plantas con fruto",
+   "Las bandadas se pasan bayas de un ave a otra a lo largo de una rama",
+   "En verano sale en vuelos cortos sobre los ríos para atrapar insectos voladores"
+  ],
+  "lore": "Mark Catesby lo pintó en la década de 1730 como 'The Chatterer' (el parlanchín), y sus costumbres sociables le valieron los antiguos nombres estadounidenses de 'cedar-bird' (pájaro del cedro) y 'cherry-bird' (pájaro de las cerezas).",
+  "funFact": "Desde la década de 1960, algunos ampelis americanos tienen la punta de la cola naranja en lugar de amarilla, consecuencia de comer bayas de la madreselva de Morrow, una especie introducida, mientras les crecen las plumas.",
+  "animal": {
+   "diet": "Bayas y frutos pequeños; insectos voladores en verano",
+   "habitat": "Bosque abierto, lindes de bosque, huertos frutales y zonas residenciales con árboles frutales",
+   "lifespan": "Récord de anillamiento de unos 8 años",
+   "size": "14–17 cm; unos 32 g",
+   "behaviour": "Nidifica a finales del verano, sincronizado con la maduración de los frutos, y puede embriagarse o morir por comer bayas fermentadas.",
+   "fieldMarks": [
+    "Plumaje sedoso, de un gris pardo cálido, con cresta puntiaguda",
+    "Antifaz negro estrecho bordeado de blanco",
+    "Vientre amarillo y cola con la punta amarilla",
+    "Puntas rojas y céreas en las plumas secundarias"
+   ],
+   "voice": "No tiene un canto propiamente dicho; las bandadas emiten constantemente silbidos muy agudos, finos y zumbantes, 'sriii'.",
+   "lookalikes": "El ampelis europeo es más grande y gris, con infracoberteras caudales rufas y marcas amarillas y blancas en las alas. Las hembras de cardenal norteño comparten la cresta, pero tienen un pico grueso y rojo.",
+   "whereToSee": "Árboles con fruto en cualquier parte de Norteamérica, sobre todo enebros, manzanos silvestres y serbales en invierno; en verano, a lo largo de los ríos cazando insectos.",
+   "season": "Presente todo el año en gran parte del centro-norte de EE. UU.; nómada, con efectivos que varían según la cosecha de frutos",
+   "order": "Passeriformes"
+  }
+ },
+ {
+  "scientific": "Mimus polyglottos",
+  "common": "Sinsonte norteño (cenzontle)",
+  "summary": "Ave esbelta y gris de gran voz, famosa por copiar los cantos de otras aves, ranas e incluso alarmas de coche. Los machos pueden aprender unos 200 cantos distintos y repiten cada frase varias veces antes de cambiar.",
+  "nativeRange": "Sur de Canadá y EE. UU., al sur hasta el sur de México, las Bahamas y las Antillas Mayores; introducido en Hawái y las Bermudas",
+  "biomes": [
+   "Matorral",
+   "Jardines",
+   "Tierras de cultivo",
+   "Matorral desértico"
+  ],
+  "abilities": [
+   "Aprende nuevos tipos de canto durante toda su vida e incorpora imitaciones de aves, ranas, insectos y sonidos mecánicos",
+   "Los machos sin pareja cantan durante toda la noche, sobre todo con luna llena o bajo farolas",
+   "Reconoce a las personas concretas que se han acercado a su nido y las increpa en cuanto las ve",
+   "Despliega las manchas alares blancas mientras busca alimento, posiblemente para sobresaltar a los insectos"
+  ],
+  "lore": "Thomas Jefferson tuvo un sinsonte llamado Dick como mascota en la residencia presidencial, y la especie dio a Harper Lee el título de To Kill a Mockingbird (Matar a un ruiseñor, 1960); es el ave oficial de Arkansas, Florida, Misisipi, Tennessee y Texas.",
+  "funFact": "Su nombre científico significa 'imitador de muchas lenguas', y su nombre en español cenzontle, derivado del náhuatl, significa 'cuatrocientas voces'.",
+  "animal": {
+   "diet": "Insectos en verano; frutos y bayas en otoño e invierno",
+   "habitat": "Terreno abierto con arbustos y árboles: zonas residenciales, setos, parques y lindes del desierto",
+   "lifespan": "Récord de anillamiento de unos 14 años",
+   "size": "21–26 cm; 45–58 g",
+   "behaviour": "Defiende con agresividad sus nidos y los árboles frutales en invierno, lanzándose en picado contra gatos, rapaces y personas.",
+   "fieldMarks": [
+    "Gris por encima, gris blanquecino más claro por debajo",
+    "Grandes manchas blancas en las alas oscuras, muy visibles en vuelo",
+    "Cola larga y oscura con las plumas externas blancas",
+    "Pico oscuro, fino y ligeramente curvado hacia abajo; ojo amarillo en los adultos"
+   ],
+   "voice": "Largas y variadas series de frases, cada una repetida tres o más veces seguidas, que mezclan su propio canto con imitaciones; reclamo: un 'chac' áspero.",
+   "lookalikes": "El alcaudón americano tiene antifaz negro y pico ganchudo, y vuela bajo con aleteos rápidos. El pájaro gato gris es gris pizarra oscuro, con capirote negro e infracoberteras caudales rojizas. El clarín norteño (oeste) tiene anillo ocular y manchas alares anteadas.",
+   "whereToSee": "Céspedes, arbustos de aparcamientos y postes de cercas en todo el sur de EE. UU.; abundante en Texas y Florida.",
+   "season": "Residente; las aves más septentrionales se retiran en parte en invierno",
+   "order": "Passeriformes"
+  }
+ },
+ {
+  "scientific": "Passerina ciris",
+  "common": "Colorín sietecolores (mariposa)",
+  "summary": "El macho es quizá el paseriforme más colorido de Norteamérica: cabeza azul, partes inferiores rojas y dorso verde lima. Las hembras son la única ave de aspecto de pinzón de un verde brillante en su área de distribución, y la especie se capturó durante mucho tiempo como ave de jaula.",
+  "nativeRange": "Cría en dos poblaciones separadas —la costa atlántica del sureste (de Carolina del Norte a Florida) y el centro-sur de EE. UU. y el norte de México—; inverna en Florida, las Bahamas, Cuba, México y Centroamérica hasta Panamá",
+  "biomes": [
+   "Matorral",
+   "Linde de bosque",
+   "Matorral costero"
+  ],
+  "abilities": [
+   "Las aves occidentales se detienen en el suroeste de EE. UU. y el noroeste de México para mudar antes de completar la migración, una inusual 'migración de muda'",
+   "Los machos no alcanzan su colorido completo hasta su segundo otoño; los machos de primer año parecen hembras",
+   "Los machos luchan ferozmente por los territorios, a veces hasta hacerse sangre"
+  ],
+  "lore": "Mark Catesby lo pintó como 'The Painted Finch' (el pinzón pintado) en la década de 1730, y se exportó a Europa como ave de jaula; en el Caribe y México la captura para el comercio de mascotas sigue amenazándolo.",
+  "funFact": "Su nombre en francés, nonpareil, significa 'sin igual'.",
+  "animal": {
+   "diet": "Semillas de gramíneas y malas hierbas; insectos en la época de cría",
+   "habitat": "Espesuras de matorral, lindes de bosque, matorral costero y campos abandonados",
+   "lifespan": "Récord de anillamiento de unos 12 años",
+   "size": "12–14 cm; 13–19 g",
+   "behaviour": "Pese a los colores del macho, es reservado y canta más a menudo desde el interior de la vegetación que desde posaderos expuestos.",
+   "fieldMarks": [
+    "Macho adulto: cabeza azul intenso, anillo ocular rojo, partes inferiores y obispillo rojos, dorso verde amarillento",
+    "Hembra e inmaduro: verde amarillento brillante y uniforme, con anillo ocular claro",
+    "Pico corto y cónico, típico de los colorines",
+    "Tamaño pequeño y silueta compacta"
+   ],
+   "voice": "Un gorjeo dulce, agudo y continuo de notas musicales; reclamo: un 'chip' suave.",
+   "lookalikes": "La hembra de colorín azul es parda, no verde. Los machos de colorín morado son de color púrpura oscuro con la nuca roja. La hembra verde podría recordar a un vireo o a un parúlido, pero el pico cónico y corto la identifica.",
+   "whereToSee": "Espesuras costeras de Carolina del Sur, Georgia y el noreste de Florida; Texas Hill Country; comederos del sur de Florida en invierno.",
+   "season": "Visitante estival en EE. UU., de abril a septiembre; inverna en Florida y los trópicos",
+   "order": "Passeriformes"
+  }
+ },
+ {
+  "scientific": "Piranga olivacea",
+  "common": "Piranga escarlata (tángara escarlata)",
+  "summary": "Ave de un rojo encendido con alas negro azabache que canta sin dejarse ver en lo alto del dosel de los bosques del este. Tras la cría, el macho se vuelve verde amarillento y solo conserva las alas negras, antes de volar a los Andes para pasar el invierno.",
+  "nativeRange": "Cría en el este de Norteamérica; inverna en el noroeste de Sudamérica, sobre todo en las estribaciones orientales de los Andes, de Colombia a Bolivia",
+  "biomes": [
+   "Bosque caducifolio",
+   "Bosque mixto",
+   "Bosque montano (invierno)"
+  ],
+  "abilities": [
+   "Experimenta un cambio de color completo: escarlata en verano, amarillo oliváceo en otoño e invierno",
+   "Migra miles de kilómetros entre EE. UU. y Sudamérica",
+   "Recoge orugas en lo alto del dosel y contribuye a controlar las plagas de insectos forestales"
+  ],
+  "funFact": "Su epíteto específico olivacea ('verde oliva') describe el plumaje de las hembras y los jóvenes, no el del macho reproductor escarlata.",
+  "animal": {
+   "diet": "Orugas, escarabajos y otros insectos del dosel; fruta en otoño",
+   "habitat": "Grandes extensiones de bosque caducifolio maduro y de robles y nogales americanos (Carya)",
+   "lifespan": "Récord de anillamiento de unos 11 años",
+   "size": "16–17 cm; 23–38 g",
+   "behaviour": "Es sensible a la fragmentación forestal y escasea o falta en los bosquetes pequeños.",
+   "fieldMarks": [
+    "Macho reproductor: cuerpo escarlata brillante con alas y cola enteramente negras",
+    "Hembra y macho invernal: verde oliva por encima, amarillo por debajo, con alas oscuras",
+    "Sin barras alares",
+    "Pico robusto, claro y bastante romo"
+   ],
+   "voice": "Una serie de frases roncas y ásperas, a menudo descrita como 'un mirlo primavera con dolor de garganta'; reclamo característico: 'chic-brrr'.",
+   "lookalikes": "El macho de piranga roja es enteramente rojo rosado, alas incluidas. El cardenal norteño tiene cresta y la cara negra. La piranga carirroja tiene barras alares; las hembras de bolsero tienen el pico puntiagudo y barras alares.",
+   "whereToSee": "Robledales maduros del este de EE. UU., p. ej., los Apalaches; en migración, en lugares como Magee Marsh (Ohio) y Central Park (Nueva York) en mayo.",
+   "season": "Visitante estival, de mayo a septiembre",
+   "order": "Passeriformes"
+  }
+ },
+ {
+  "scientific": "Sialia sialis",
+  "common": "Azulejo oriental (azulejo garganta canela)",
+  "summary": "Pequeño túrdido de campo abierto, azul cielo por encima y naranja herrumbre por debajo, que nidifica en huecos de árboles y cajas nido. Su recuperación tras los descensos de mediados del siglo XX es uno de los grandes éxitos de la conservación en los jardines.",
+  "nativeRange": "Este de Norteamérica, del sur de Canadá a la costa del golfo de México, con poblaciones residentes en las tierras altas de México y Centroamérica hasta Nicaragua",
+  "biomes": [
+   "Bosque abierto",
+   "Tierras de cultivo",
+   "Linde de pastizal",
+   "Huertos frutales"
+  ],
+  "abilities": [
+   "Detecta insectos en la hierba desde un posadero situado hasta a decenas de metros y se deja caer sobre ellos",
+   "Saca adelante dos o tres nidadas al año; los jóvenes de las primeras a veces ayudan a alimentar a los de las siguientes",
+   "Adopta fácilmente las cajas nido, lo que le ayudó a recuperarse después de que los estorninos y los gorriones comunes ocuparan las cavidades naturales"
+  ],
+  "lore": "Henry David Thoreau escribió en su diario que 'the bluebird carries the sky on his back' (el azulejo lleva el cielo a la espalda); es el ave oficial de Misuri y Nueva York.",
+  "funFact": "Como el del arrendajo azul, su azul es estructural: diminutas bolsas de aire en las plumas dispersan la luz azul, y una pluma aplastada se ve parda.",
+  "animal": {
+   "diet": "Insectos del suelo como saltamontes, grillos y escarabajos; bayas en invierno",
+   "habitat": "Prados, pastos, huertos frutales, campos de golf y pinares abiertos con posaderos dispersos",
+   "lifespan": "Récord de anillamiento de más de 10 años",
+   "size": "16–21 cm; 27–34 g",
+   "behaviour": "Las 'rutas' de cajas nido para azulejos instaladas a lo largo de carreteras y cercas, promovidas por la North American Bluebird Society (fundada en 1978), sostienen hoy una gran parte de la población.",
+   "fieldMarks": [
+    "Macho: partes superiores de un azul real intenso, garganta y pecho naranja herrumbre, vientre blanco",
+    "Hembra: grisácea por encima, con alas y cola azules y pecho de un naranja más pálido",
+    "Postura erguida en cables y postes de cercas",
+    "Juveniles de color pardo grisáceo, con el pecho moteado y azul en las alas"
+   ],
+   "voice": "Un gorjeo suave, grave y borboteante, que en inglés se transcribe 'tur-a-lee, tur-a-lee'; reclamo: un dulce 'tu-a-uii'.",
+   "lookalikes": "El azulejo occidental (azulejo garganta azul) tiene la garganta azul (no naranja) y a menudo el dorso rojizo. El azulejo pálido (azulejo de las montañas) carece de naranja. El colorín azul es enteramente azul y tiene el pico cónico.",
+   "whereToSee": "Rutas de cajas nido, pastos y campos de golf de todo el este de EE. UU.; fácil de ver en invierno en el sureste.",
+   "season": "Residente en el sur de EE. UU.; visitante estival en el norte, de marzo a octubre",
+   "order": "Passeriformes"
+  }
+ },
+ {
+  "scientific": "Spinus tristis",
+  "common": "Jilguero canario (jilguero americano)",
+  "summary": "Pequeño fringílido cuyos machos estivales brillan en amarillo limón con capirote negro. Es uno de los paseriformes norteamericanos más estrictamente vegetarianos y espera a finales del verano para nidificar, cuando los cardos ya han granado.",
+  "nativeRange": "Sur de Canadá y Estados Unidos; inverna al sur hasta el norte de México",
+  "biomes": [
+   "Herbazales",
+   "Llanuras aluviales",
+   "Jardines",
+   "Linde de bosque"
+  ],
+  "abilities": [
+   "Alimenta a sus pollos casi exclusivamente con semillas regurgitadas",
+   "Forra el nido con vilano de cardo, tejido tan apretado que puede retener agua",
+   "Muda las plumas del cuerpo dos veces al año, alternando entre el plumaje reproductor brillante y el invernal apagado",
+   "Los pollos de tordo cabecicafé criados en nidos de jilguero rara vez sobreviven con la dieta de semillas"
+  ],
+  "lore": "Es el ave oficial de Iowa, Nueva Jersey y Washington; en este último fue elegida por votación de escolares.",
+  "funFact": "Nidifica más tarde que casi cualquier otro paseriforme norteamericano, a menudo a partir de julio.",
+  "animal": {
+   "diet": "Semillas de cardos, girasoles, ásteres y otras compuestas; níger y girasol en los comederos",
+   "habitat": "Herbazales, cunetas, llanuras aluviales, huertos frutales y jardines",
+   "lifespan": "Récord de anillamiento de unos 10 años",
+   "size": "11–13 cm; 11–20 g",
+   "behaviour": "Vuela con ondulaciones profundas y saltarinas, y emite un reclamo en cada subida.",
+   "fieldMarks": [
+    "Macho reproductor: amarillo brillante con capirote negro, alas negras con barras blancas, infracoberteras caudales blancas",
+    "Hembra y aves invernales: ante oliváceo apagado, con alas negras y barras alares claras",
+    "Pico corto y cónico, rosado anaranjado en verano",
+    "Cola escotada, negra y blanca"
+   ],
+   "voice": "Una larga serie de trinos y gorjeos parecidos a los del canario; reclamo en vuelo, que en inglés se transcribe 'po-ta-to-chip' o 'per-chic-o-ree'.",
+   "lookalikes": "El jilguero dominico (oeste) tiene el dorso verdoso o negro y las infracoberteras caudales amarillas. El jilguero de los pinos es pardo y listado, con destellos amarillos en las alas. La reinita amarilla (chipe amarillo) tiene el pico fino y nada de negro.",
+   "whereToSee": "Comederos con cardo y níger en todo EE. UU.; herbazales con equináceas y girasoles a finales del verano.",
+   "season": "Residente en gran parte de EE. UU.; las aves del norte se desplazan al sur en invierno",
+   "order": "Passeriformes"
+  }
+ },
+ {
+  "scientific": "Junco hyemalis",
+  "common": "Junco pizarroso (junco ojo oscuro)",
+  "summary": "Pulcro pájaro de la familia de los gorriones americanos, con capucha gris, cuya llegada a los comederos anuncia el invierno en gran parte de EE. UU.; de ahí su apodo inglés 'snowbird' (pájaro de las nieves). Sus numerosas formas regionales desarrollaron colores muy distintos en solo los últimos milenios.",
+  "nativeRange": "Cría en Canadá, Alaska y las montañas del oeste y el noreste de EE. UU.; inverna en la mayor parte de EE. UU. y el norte de México",
+  "biomes": [
+   "Bosque boreal",
+   "Bosque montano de coníferas",
+   "Linde de bosque",
+   "Jardines"
+  ],
+  "abilities": [
+   "En vuelo muestra las plumas caudales externas blancas, una señal que utiliza tanto en el cortejo como en la alarma",
+   "Desde la última glaciación se ha diversificado en formas distintas —pizarrosa, de Oregón, de flancos rosados, aliblanca, de cabeza gris—",
+   "Ha colonizado hábitats urbanos; una población de San Diego desarrolló menos blanco en la cola en pocas décadas"
+  ],
+  "funFact": "Su epíteto específico hyemalis significa 'invernal'.",
+  "animal": {
+   "diet": "Semillas de gramíneas y malas hierbas; insectos en verano",
+   "habitat": "Bosque de coníferas y mixto en la época de cría; bosque abierto, campos y jardines en invierno",
+   "lifespan": "Récord de anillamiento de unos 11 años",
+   "size": "13–17 cm; 18–30 g",
+   "behaviour": "Las bandadas invernales mantienen una jerarquía, y a menudo se mezclan aves de distintas formas en el mismo comedero.",
+   "fieldMarks": [
+    "Capucha gris pizarra o negra y pico rosa pálido",
+    "Vientre blanco nítidamente separado del pecho oscuro",
+    "Plumas caudales externas de un blanco brillante, visibles en vuelo",
+    "La forma occidental 'de Oregón' tiene la capucha negra y el dorso pardo"
+   ],
+   "voice": "Un trino musical en un solo tono, como el del gorrión ceja blanca pero más sonoro; reclamos: un 'tac' seco y gorjeos en vuelo.",
+   "lookalikes": "El junco ojilumbre (sureste de Arizona y México) tiene los ojos amarillos y el dorso rufo. El toquí oriental es más grande y tiene los flancos rufos. El trino del gorrión ceja blanca es más seco y rápido.",
+   "whereToSee": "Comederos invernales y lindes de bosque en todo EE. UU.; cría en los Apalaches, las Rocosas, Sierra Nevada y el Canadá boreal.",
+   "season": "Visitante invernal (de octubre a abril) en la mayor parte de EE. UU.; residente en las montañas del oeste y los Apalaches",
+   "order": "Passeriformes"
+  }
+ },
+ {
+  "scientific": "Melospiza melodia",
+  "common": "Gorrión cantor",
+  "summary": "Gorrión pardo y listado que canta desde los arbustos en casi todos los hábitats de matorral de Norteamérica. Varía tanto a lo largo de su área de distribución que se reconocen decenas de subespecies, desde pequeñas aves claras del desierto hasta grandes aves oscuras de las Aleutianas.",
+  "nativeRange": "Alaska y Canadá, al sur por EE. UU. hasta el centro de México",
+  "biomes": [
+   "Matorral",
+   "Linde de marisma",
+   "Jardines",
+   "Matorral costero"
+  ],
+  "abilities": [
+   "Cada macho canta un repertorio de unos 5–13 tipos de canto, aprendidos de sus vecinos",
+   "Los machos vecinos 'igualan' sus tipos de canto durante las disputas territoriales",
+   "Varía de forma notable en tamaño y color a lo largo de su área, en consonancia con el clima",
+   "Cría desde marismas saladas y arroyos del desierto hasta islas subárticas"
+  ],
+  "lore": "Los años de observación de gorriones cantores anillados individualmente que Margaret Morse Nice realizó en su jardín de Columbus (Ohio), publicados como Studies in the Life History of the Song Sparrow (1937), se convirtieron en un hito de la ciencia del comportamiento de las aves.",
+  "funFact": "Las aves de las islas Aleutianas pueden pesar unas cuatro veces más que las poblaciones más pequeñas del desierto.",
+  "animal": {
+   "diet": "Insectos en verano; semillas y fruta en invierno",
+   "habitat": "Campos con matorral, orillas de arroyos, lindes de marismas, setos y jardines",
+   "lifespan": "Récord de anillamiento de unos 11 años",
+   "size": "12–17 cm; 12–53 g (las aves de las Aleutianas son las más grandes)",
+   "behaviour": "En vuelo mueve arriba y abajo su cola larga y redondeada.",
+   "fieldMarks": [
+    "Partes superiores pardas y partes inferiores blancas con listas gruesas que convergen en una mancha central en el pecho",
+    "Ceja ancha gris y lista parda detrás del ojo",
+    "Bigotera (lista malar) oscura",
+    "Cola larga y redondeada que bombea en vuelo"
+   ],
+   "voice": "Empieza con dos o tres notas claras, seguidas de un trino zumbante y un revoltijo de notas, que en inglés se recuerda como 'Maids, maids, maids, put on your tea-kettle-ettle-ettle'; reclamo: un 'chimp' nasal.",
+   "lookalikes": "El gorrión sabanero tiene la ceja amarillenta, listas más finas y una cola corta y escotada. El gorrión de Lincoln tiene listas finas sobre un pecho anteado. El gorrión rascador es más grande, con manchas triangulares más gruesas.",
+   "whereToSee": "Bordes con matorral y humedales de toda Norteamérica; uno de los primeros cantos de finales del invierno en el este de EE. UU.",
+   "season": "Residente en gran parte de EE. UU.; las aves del norte migran al sur en invierno",
+   "order": "Passeriformes"
+  }
+ },
+ {
+  "scientific": "Agelaius phoeniceus",
+  "common": "Tordo sargento (tordo alirrojo)",
+  "summary": "Una de las aves más abundantes de Norteamérica, cuyos machos de un negro brillante despliegan sus charreteras escarlatas en todos los eneales en primavera. Los machos defienden territorios que pueden albergar a muchas hembras nidificantes.",
+  "nativeRange": "Alaska y Canadá, al sur por EE. UU., México y Centroamérica hasta Costa Rica; también las Bahamas y Cuba",
+  "biomes": [
+   "Marisma de agua dulce",
+   "Prados húmedos",
+   "Tierras de cultivo"
+  ],
+  "abilities": [
+   "Muy polígino: el territorio de un macho puede acoger hasta unas 15 hembras nidificantes",
+   "Los machos pueden ocultar sus charreteras rojas para atravesar territorios rivales sin ser desafiados",
+   "En invierno se concentra en dormideros que pueden reunir millones de aves junto con zanates, tordos parásitos y estorninos",
+   "Acosa a rapaces, cuervos y personas cerca de sus nidos"
+  ],
+  "lore": "Mark Catesby lo pintó en la década de 1730 como 'The Red-wing'd Starling' (el estornino de alas rojas).",
+  "funFact": "Su nombre genérico Agelaius significa 'perteneciente a una bandada'.",
+  "animal": {
+   "diet": "Insectos en verano; semillas y grano en invierno",
+   "habitat": "Eneales y juncales, zanjas, campos húmedos y pastos",
+   "lifespan": "Récord de anillamiento de unos 15 años",
+   "size": "17–23 cm; 32–77 g (los machos, mucho más grandes)",
+   "behaviour": "Los machos regresan al norte semanas antes que las hembras y cantan desde las eneas incluso con nieve.",
+   "fieldMarks": [
+    "Macho: negro brillante, con una mancha roja en el hombro bordeada de amarillo",
+    "Hembra: pardo oscuro densamente listado, de aspecto de gorrión, a menudo con la cara color melocotón",
+    "Pico cónico, agudo y puntiagudo",
+    "Los machos ahuecan y despliegan las charreteras mientras cantan"
+   ],
+   "voice": "Un borboteante 'conc-la-rii!' u 'oc-a-lii!' que termina en un trino; reclamos: un 'chec' seco y un silbido de alarma.",
+   "lookalikes": "El tordo tricolor (California) tiene la mancha de un rojo más oscuro con el borde blanco. La hembra podría confundirse con un gorrión grande, pero su pico largo y puntiagudo la distingue. Los machos 'bicolores' de California carecen del borde amarillo.",
+   "whereToSee": "Casi cualquier marisma, zanja de carretera o prado húmedo de Norteamérica a partir de marzo.",
+   "season": "Residente en el sur; visitante estival en el norte, de marzo a octubre",
+   "order": "Passeriformes"
+  }
+ },
+ {
+  "scientific": "Setophaga kirtlandii",
+  "common": "Reinita de Kirtland (chipe de Kirtland)",
+  "summary": "Parúlido raro que bombea la cola sin cesar y que solo nidifica en masas jóvenes de pino de Banks sobre suelos arenosos, sobre todo en el norte de Míchigan; inverna en las Bahamas. En la década de 1970 llegó a contar con menos de 200 machos cantores y se recuperó gracias a la gestión del hábitat y al control del tordo cabecicafé.",
+  "nativeRange": "Cría sobre todo en el norte de la Península Inferior de Míchigan, con pequeños números en la Península Superior de Míchigan, Wisconsin y Ontario; inverna en las Bahamas y en las islas Turcas y Caicos",
+  "biomes": [
+   "Bosque joven de pino de Banks",
+   "Monte bajo y matorral caribeño (invierno)"
+  ],
+  "abilities": [
+   "Depende de masas de pino de Banks de entre unos 5 y 20 años, un hábitat que históricamente creaban los incendios forestales",
+   "Nidifica en el suelo, bajo las ramas vivas más bajas de los pinos jóvenes",
+   "Mueve la cola arriba y abajo constantemente mientras busca alimento",
+   "Migra unos 2.000 km entre Míchigan y las Bahamas"
+  ],
+  "lore": "Debe su nombre a Jared Potter Kirtland, el naturalista de Ohio en cuya granja cerca de Cleveland se recolectó el primer ejemplar en 1851; fue retirada de la lista de especies en peligro de EE. UU. en 2019, tras décadas de trabajos de recuperación.",
+  "funFact": "Sus áreas de nidificación no se descubrieron hasta 1903, cuando se encontró un nido en el condado de Oscoda (Míchigan).",
+  "animal": {
+   "diet": "Insectos y larvas; fruta en las áreas de invernada",
+   "habitat": "Pinares jóvenes y densos de pino de Banks en llanuras arenosas de origen glaciar; matorral bajo en las Bahamas",
+   "size": "14–15 cm; 12–16 g",
+   "behaviour": "El parasitismo del tordo cabecicafé llegó a afectar a la mayoría de los nidos; el trampeo de tordos desde 1972 fue clave para la recuperación.",
+   "fieldMarks": [
+    "Partes superiores gris azuladas listadas de negro",
+    "Garganta y pecho de un amarillo brillante, con listas negras en los costados",
+    "Anillo ocular blanco interrumpido; los machos tienen el lorum negro",
+    "Bombeo constante de la cola"
+   ],
+   "voice": "Un parloteo fuerte, grave y rico que asciende al final, p. ej., 'chip-chip-che-uei-o'.",
+   "lookalikes": "La reinita de magnolia tiene una mancha alar blanca y una banda blanca en la cola. La reinita galana también bombea la cola, pero es más pequeña, con la cara amarilla y el dorso oliváceo. La reinita del Canadá tiene un collar y carece de listas en las partes superiores.",
+   "whereToSee": "Visitas guiadas desde Grayling (Michigan Audubon) y Mio (Servicio Forestal de EE. UU.), Míchigan, de mayo a principios de julio; islas de las Bahamas como Eleuthera en invierno.",
+   "season": "Cría en Míchigan de mayo a agosto; inverna en las Bahamas de octubre a abril",
+   "order": "Passeriformes"
+  }
+ },
+ {
+  "scientific": "Catharus guttatus",
+  "common": "Zorzal ermitaño (zorzal colirrufo)",
+  "summary": "Zorzal pardo y tímido de cola rojiza cuyo canto etéreo, como un eco, suele considerarse el más bello de Norteamérica. Es el único zorzal moteado que inverna habitualmente en Estados Unidos.",
+  "nativeRange": "Cría en Alaska, Canadá, el noreste de EE. UU. y las montañas del oeste; inverna en el sur de EE. UU., México y Centroamérica hasta Guatemala",
+  "biomes": [
+   "Bosque boreal",
+   "Bosque montano de coníferas",
+   "Bosque mixto",
+   "Bosque (invierno)"
+  ],
+  "abilities": [
+   "Cada canto comienza con una nota larga y clara en un tono nuevo, seguida de una cascada de frases aflautadas",
+   "Según un estudio de 2014 publicado en PNAS, los intervalos de su canto siguen proporciones armónicas sencillas, similares a las de las escalas musicales humanas",
+   "En invierno pasa de los insectos a frutos como los de acebo y cornejo"
+  ],
+  "lore": "En la elegía de Walt Whitman a Abraham Lincoln, 'When Lilacs Last in the Dooryard Bloom'd' (Cuando las lilas florecieron por última vez en el patio, 1865), un zorzal ermitaño canta desde el pantano; es el ave oficial de Vermont.",
+  "funFact": "Su nombre genérico Catharus procede del griego katharós, 'puro' o 'limpio'.",
+  "animal": {
+   "diet": "Insectos del suelo, arañas y gusanos; bayas en invierno",
+   "habitat": "Bosques de coníferas y mixtos en la época de cría; sotobosque en invierno",
+   "lifespan": "Récord de anillamiento de unos 10 años",
+   "size": "15–18 cm; 23–37 g",
+   "behaviour": "Tiene la costumbre de levantar la cola y bajarla lentamente mientras sacude las alas.",
+   "fieldMarks": [
+    "Cola de un rojizo cálido que contrasta con el dorso pardo oliváceo o grisáceo",
+    "Pecho moteado, con motas más pequeñas y difusas que las del zorzal moteado",
+    "Anillo ocular blanquecino, fino y completo",
+    "Costumbre de levantar la cola lentamente"
+   ],
+   "voice": "Un silbido inicial claro y sostenido seguido de una cascada en espiral de notas aflautadas, cada canto en un tono distinto; reclamo: un 'chuc' grave.",
+   "lookalikes": "El zorzal de anteojos (zorzalito de Swainson) tiene 'anteojos' anteados y la cola parda uniforme. El zorzal dorsirrojizo es leonado, con motas tenues. El zorzal moteado es rufo en la cabeza, con grandes motas redondas. El gorrión rascador tiene el pico cónico.",
+   "whereToSee": "Bosques de coníferas del norte y de montaña en verano (p. ej., Adirondacks, Green Mountains, Rocosas); bosques del sur de EE. UU. en invierno.",
+   "season": "Visitante estival en el norte, de abril a octubre; visitante invernal en el sur, de octubre a abril",
+   "order": "Passeriformes"
+  }
+ },
+ {
+  "scientific": "Furnarius rufus",
+  "common": "Hornero (hornero común)",
+  "summary": "Furnárido rufo y de plumaje sencillo que construye un nido abovedado de barro y paja con forma de horno de pan tradicional. Las parejas permanecen juntas durante años y cantan fuertes dúos; es el ave nacional de Argentina.",
+  "nativeRange": "Este y centro de Sudamérica: Brasil, Bolivia, Paraguay, Uruguay y el norte y centro de Argentina",
+  "biomes": [
+   "Sabana",
+   "Pastizal pampeano",
+   "Tierras de cultivo",
+   "Pueblos y parques"
+  ],
+  "abilities": [
+   "Construye un nido pesado en forma de horno con barro, estiércol y fibra vegetal, con una pared interior curva que separa la entrada de la cámara de incubación",
+   "Construye el nido en pocas semanas con miles de picadas de barro húmedo, a menudo después de la lluvia",
+   "Otras aves, como el jilguero dorado, golondrinas y cotorras, reutilizan los nidos viejos",
+   "Las parejas cantan dúos chillones y sincronizados"
+  ],
+  "lore": "Ave nacional de Argentina desde 1928, aparece con frecuencia en el folclore gauchesco como modelo de hogar laborioso.",
+  "funFact": "Sus nidos de barro pueden durar varios años y pesar varios kilos.",
+  "animal": {
+   "diet": "Insectos, gusanos y otros invertebrados que recoge del suelo",
+   "habitat": "Campo abierto con árboles dispersos, pastos, bordes de caminos y parques urbanos",
+   "size": "18–20 cm; 49–65 g",
+   "behaviour": "Coloca los nidos sobre postes, ramas, postes de tendido eléctrico e incluso farolas, a plena vista.",
+   "fieldMarks": [
+    "Partes superiores de color pardo rufo, con la cola de un rufo más vivo",
+    "Partes inferiores ante claro con la garganta blanquecina",
+    "Pico fino y ligeramente curvado hacia abajo",
+    "Camina por el suelo con paso decidido, levantando mucho las patas"
+   ],
+   "voice": "Series fuertes y chillonas de notas que se aceleran, a menudo en dúo de la pareja, que canta con las alas caídas y temblorosas.",
+   "lookalikes": "El hornero patipálido (norte y oeste) tiene las patas claras y la ceja blanquecina. El hornero copetón tiene una pequeña cresta y vive en Paraguay y el Chaco argentino. Los zorzales tienen una forma de pico distinta y no caminan.",
+   "whereToSee": "Parques y tierras de cultivo alrededor de Buenos Aires, Montevideo y el sur de Brasil; abundante en la Pampa y el Pantanal.",
+   "season": "Residente todo el año",
+   "order": "Passeriformes"
+  }
+ },
+ {
+  "scientific": "Rupicola peruvianus",
+  "common": "Gallito de las rocas andino (tunqui)",
+  "summary": "Cotíngido de un rojo anaranjado encendido, propio de las quebradas del bosque nuboso andino, cuyos machos se reúnen al amanecer en asambleas de cortejo (leks), donde se inclinan, se balancean y chillan para atraer a las hembras, de plumaje apagado. Es el ave nacional del Perú.",
+  "nativeRange": "Vertientes oriental y occidental de los Andes, desde Venezuela y Colombia por Ecuador y Perú hasta Bolivia, sobre todo entre 500 y 2.400 m",
+  "biomes": [
+   "Bosque nuboso montano",
+   "Quebradas boscosas"
+  ],
+  "abilities": [
+   "Los machos se exhiben en leks comunales; cada uno defiende una pequeña pista y actúa ante las hembras que acuden",
+   "Las hembras construyen nidos en forma de taza con barro y plantas, adheridos a paredes rocosas en gargantas húmedas",
+   "Importante dispersor de semillas de los árboles frutales del bosque nuboso",
+   "Además de fruta, captura pequeños vertebrados como ranas y lagartijas"
+  ],
+  "lore": "Conocido en quechua como tunki, fue declarado ave nacional del Perú y aparece en danzas folclóricas y textiles andinos.",
+  "funFact": "El nombre genérico Rupicola significa 'que habita en las rocas', por la costumbre de la hembra de nidificar en paredes rocosas.",
+  "animal": {
+   "diet": "Principalmente fruta; insectos, ranas y lagartijas pequeñas",
+   "habitat": "Bosque montano húmedo cerca de arroyos rocosos y quebradas",
+   "size": "30–32 cm; unos 220–300 g",
+   "behaviour": "Las hembras crían solas a los pollos; los machos pasan gran parte de la época de cría en el lek.",
+   "fieldMarks": [
+    "Macho: cuerpo escarlata o naranja brillante, con una cresta en forma de disco que oculta el pico",
+    "Alas y cola negras, con terciarias de un gris plateado pálido",
+    "Hembra: naranja pardusco oscuro, con una cresta más pequeña",
+    "Silueta rechoncha, del tamaño de una paloma"
+   ],
+   "voice": "En los leks, graznidos nasales fuertes, gruñidos y chillidos como de cerdo; el resto del tiempo, casi silencioso.",
+   "lookalikes": "El gallito de las rocas guayanés (escudo guayanés, al este de los Andes) es naranja, con una cresta orlada y manchas alares blancas; sus áreas de distribución no se solapan. Ninguna otra ave andina tiene el pico cubierto por la cresta.",
+   "whereToSee": "Leks a lo largo de la carretera de Manu en Perú (Cock-of-the-rock Lodge), cerca de Mindo en Ecuador, y en el Río Claro y los bosques nubosos de Colombia.",
+   "season": "Residente todo el año; los leks tienen más actividad al amanecer y a última hora de la tarde",
+   "order": "Passeriformes"
+  }
+ },
+ {
+  "scientific": "Procnias albus",
+  "common": "Campanero blanco (pájaro campana)",
+  "summary": "Cotíngido de un blanco puro con una larga carúncula negra y carnosa que le cuelga sobre el pico; emite el reclamo de ave más fuerte jamás medido, de unos 125 decibelios. Los machos dirigen la descarga directamente a las hembras posadas muy cerca.",
+  "nativeRange": "Escudo guayanés de Venezuela, Guyana, Surinam, Guayana Francesa y el norte de Brasil, con una población aislada al sur del Amazonas, en Pará",
+  "biomes": [
+   "Bosque tropical montano",
+   "Selva tropical de tierras bajas"
+  ],
+  "abilities": [
+   "Emite reclamos medidos en unos 125 dB a corta distancia, más fuertes que los de la piha gritona (Podos y Cohn-Haft, Current Biology, 2019)",
+   "Gira la cabeza y la carúncula hacia la hembra al emitir la segunda nota del reclamo",
+   "Traga frutos enteros y regurgita las semillas, con lo que dispersa árboles del bosque"
+  ],
+  "funFact": "Los investigadores observaron que los reclamos más fuertes son los más breves, lo que sugiere un compromiso entre volumen y duración.",
+  "animal": {
+   "diet": "Fruta, sobre todo de árboles de la familia de las lauráceas",
+   "habitat": "Dosel de bosque húmedo de colinas y montano",
+   "size": "27–29 cm",
+   "behaviour": "Los machos cantan durante horas cada día desde posaderos expuestos en lo alto del dosel.",
+   "fieldMarks": [
+    "Macho: enteramente blanco, con una única carúncula larga, negra y carnosa que cuelga de la frente sobre el pico",
+    "Hembra: verde oliva por encima, con las partes inferiores amarillentas listadas de oliva",
+    "Ojo grande y oscuro, y pico ancho",
+    "Silueta robusta, como de paloma"
+   ],
+   "voice": "Notas ensordecedoras, como de campana: un 'kong-kei' en dos partes o un único 'boing' metálico que se oye a gran distancia.",
+   "lookalikes": "El campanero barbudo tiene la cabeza parda y muchas carúnculas cortas en la garganta. El campanero gorjipelado (araponga, del Bosque Atlántico) tiene la garganta desnuda de color verde azulado. El campanero tricarunculado (Centroamérica) es castaño, con cabeza y cuello blancos y tres carúnculas.",
+   "whereToSee": "Bosques de colinas del escudo guayanés, p. ej., las estribaciones de los tepuyes de Venezuela, las zonas de Iwokrama y Kaieteur en Guyana, y Roraima en Brasil.",
+   "season": "Residente; los reclamos alcanzan su máximo en la época de cría",
+   "order": "Passeriformes"
+  }
+ },
+ {
+  "scientific": "Tangara chilensis",
+  "common": "Tangara paraíso (siete colores)",
+  "summary": "Pequeña tangara del dosel amazónico pintada de verde lima, negro, escarlata, turquesa y violeta. Pese a su nombre científico, nunca ha vivido en Chile.",
+  "nativeRange": "Cuenca amazónica y estribaciones orientales de los Andes, desde Colombia y Venezuela por Ecuador, Perú, Bolivia, las Guayanas y la Amazonia brasileña",
+  "biomes": [
+   "Selva tropical de tierras bajas",
+   "Bosque de piedemonte",
+   "Linde de bosque"
+  ],
+  "abilities": [
+   "Se desplaza en grupos ruidosos que forman el núcleo de las bandadas mixtas del dosel",
+   "Busca insectos en el envés de las hojas y en las ramitas colgándose de forma acrobática",
+   "Dispersa semillas pequeñas de árboles frutales y epífitas"
+  ],
+  "lore": "Nicholas Vigors la llamó chilensis en 1832, al parecer porque los ejemplares llegaron a Europa a través de un comerciante que los etiquetó erróneamente como chilenos.",
+  "funFact": "Su nombre brasileño, sete-cores, significa 'siete colores'.",
+  "animal": {
+   "diet": "Frutos pequeños y bayas; insectos y arañas",
+   "habitat": "Dosel y bordes de bosque húmedo de tierras bajas y de piedemonte, hasta unos 1.600 m",
+   "size": "13,5–15 cm; unos 18–20 g",
+   "behaviour": "Grupos de 5 a 10 aves suelen encabezar las bandadas mixtas que recorren cada mañana el dosel amazónico.",
+   "fieldMarks": [
+    "Cabeza de un verde manzana brillante que contrasta con el dorso negro aterciopelado",
+    "Obispillo escarlata (o, en algunas poblaciones, rojo y amarillo)",
+    "Partes inferiores azul turquesa y garganta azul violeta",
+    "Alas y cola negras"
+   ],
+   "voice": "Notas agudas y finas, 'tsit' y 'zit', que las bandadas emiten constantemente; no tiene un canto bien desarrollado.",
+   "lookalikes": "La tangara fastuosa (Bosque Atlántico de Brasil) tiene la cabeza verde turquesa, la garganta negra y el obispillo naranja; sus áreas no se solapan. La tangara verdidorada es mayoritariamente verde dorada y carece del dorso negro.",
+   "whereToSee": "Torres de observación del dosel y bordes de bosque en la Amazonia de Ecuador (Sacha, Yasuní), Perú (Tambopata, Manu) y Brasil (Cristalino).",
+   "season": "Residente todo el año",
+   "order": "Passeriformes"
+  }
+ },
+ {
+  "scientific": "Machaeropterus deliciosus",
+  "common": "Saltarín alitorcido",
+  "summary": "Diminuto saltarín andino cuyos machos 'cantan' con las alas. Unas plumas especializadas en forma de maza se frotan entre sí como un arco sobre la cuerda de un violín y producen una nota aguda sostenida.",
+  "nativeRange": "Vertiente occidental de los Andes en Colombia y Ecuador (región del Chocó)",
+  "biomes": [
+   "Bosque tropical montano",
+   "Selva de piedemonte"
+  ],
+  "abilities": [
+   "Los machos producen una nota tonal de unos 1.500 Hz frotando entre sí plumas secundarias modificadas más de 100 veces por segundo (Bostwick y Prum, Science, 2005)",
+   "Una pluma del ala lleva una hilera de crestas y otra una punta rígida, como un peine y una púa",
+   "A diferencia de casi todas las demás aves, tiene los huesos del ala macizos en lugar de huecos, lo que ayuda a sostener las plumas vibrantes"
+  ],
+  "funFact": "El sonido de sus alas se analizó por primera vez con vídeo de alta velocidad, que mostró que las plumas vibran más deprisa de lo que el ave puede batir las alas.",
+  "animal": {
+   "diet": "Frutos pequeños e insectos",
+   "habitat": "Sotobosque y estratos medios de bosque húmedo de piedemonte y subtropical",
+   "size": "Unos 9,5 cm",
+   "behaviour": "Los machos se exhiben en posaderos al alcance auditivo unos de otros, sacudiendo las alas por encima del dorso para producir el sonido.",
+   "fieldMarks": [
+    "Macho: cuerpo castaño intenso con el píleo rojo brillante",
+    "Negro y blanco en las alas; el blanco de la parte interna del ala se ve durante la exhibición",
+    "Hembra: verde oliva, con la cara teñida de canela",
+    "Silueta de saltarín diminuto y de cola corta"
+   ],
+   "voice": "Un 'tic-tic-ting' mecánico: dos chasquidos secos seguidos de un gemido resonante, como de violín, producido por las alas.",
+   "lookalikes": "El saltarín rayado tiene el píleo rojo, pero el vientre listado de rojo y no tiene el cuerpo castaño. Los demás saltarines de su área carecen del plumaje castaño y rojo del macho.",
+   "whereToSee": "Mindo y el santuario de aves de Milpe, en el noroeste de Ecuador; reservas de piedemonte del Chocó en Colombia.",
+   "season": "Residente todo el año",
+   "order": "Passeriformes"
+  }
+ },
+ {
+  "scientific": "Ensifera ensifera",
+  "common": "Colibrí picoespada (pico de espada)",
+  "summary": "La única ave cuyo pico es más largo que su cuerpo, sin contar la cola. Alcanza el néctar del fondo de flores andinas de tubo largo que ningún otro colibrí puede aprovechar.",
+  "nativeRange": "Andes, desde el oeste de Venezuela y Colombia por Ecuador y Perú hasta Bolivia, sobre todo entre 1.700 y 3.500 m",
+  "biomes": [
+   "Bosque nuboso montano",
+   "Borde del páramo",
+   "Matorral montano"
+  ],
+  "abilities": [
+   "Pico de unos 9–11 cm, más largo que la cabeza y el cuerpo del ave",
+   "Principal polinizador de flores de tubo largo como Passiflora mixta y los floripondios (Brugmansia)",
+   "Se posa con el pico apuntando muy hacia arriba para equilibrar el peso",
+   "Se acicala con las patas porque no alcanza sus plumas con el pico"
+  ],
+  "funFact": "Coevolucionó con Passiflora mixta, cuyo tubo floral es tan largo que solo el colibrí picoespada alcanza su néctar.",
+  "animal": {
+   "diet": "Néctar de flores tubulares largas; pequeños insectos capturados en vuelo",
+   "habitat": "Bordes de bosque montano húmedo y claros con matorral",
+   "size": "Unos 13–17 cm sin contar el pico; 12–15 g",
+   "behaviour": "Atrapa insectos en vuelo con la boca muy abierta, apartando el largo pico.",
+   "fieldMarks": [
+    "Pico extremadamente largo, recto y ligeramente curvado hacia arriba",
+    "Cuerpo verde bronceado; el macho, con la cabeza cobriza",
+    "Cola ahorquillada, de color bronce verdoso",
+    "Pequeña mancha blanca detrás del ojo"
+   ],
+   "voice": "Un 'trrr' grave y traqueteante y notas zumbantes; no tiene un canto complejo.",
+   "lookalikes": "Ningún otro colibrí tiene un pico ni remotamente tan largo. El alazafiro grande y los colibríes inca (Coeligena) comparten su hábitat, pero tienen el pico corto o mediano.",
+   "whereToSee": "Comederos y bordes floridos en la Reserva Yanacocha y Guango Lodge (Ecuador), y en Abra Málaga y Wayqecha (Perú).",
+   "season": "Residente todo el año",
+   "order": "Apodiformes"
+  }
+ },
+ {
+  "scientific": "Nyctibius griseus",
+  "common": "Nictibio común (urutaú, bienparado)",
+  "summary": "Insectívoro nocturno que pasa el día posado completamente erguido sobre una rama rota, camuflado con tal perfección que parece parte del árbol. De noche, su canto lastimero y descendente es uno de los sonidos más inquietantes del Neotrópico.",
+  "nativeRange": "Sur de Centroamérica (Nicaragua y Costa Rica) y Sudamérica hasta el norte de Argentina y Uruguay; Trinidad y Tobago",
+  "biomes": [
+   "Linde de bosque tropical",
+   "Sabana arbolada",
+   "Manglar"
+  ],
+  "abilities": [
+   "Se queda inmóvil sobre un tocón con el pico apuntando al cielo, imitando una rama muerta",
+   "Unas muescas en los párpados le permiten vigilar a los depredadores con los ojos aparentemente cerrados",
+   "Su enorme boca atrapa grandes insectos voladores en salidas desde un posadero",
+   "Pone un único huevo en una pequeña depresión en lo alto de una rama rota, sin nido"
+  ],
+  "lore": "Una leyenda guaraní muy extendida cuenta que una joven cuyo amado fue asesinado se convirtió en el urutaú, que llora su pena para siempre durante la noche.",
+  "funFact": "Su nombre brasileño, mãe-da-lua ('madre de la luna'), se debe a su costumbre de cantar en las noches de luna.",
+  "animal": {
+   "diet": "Grandes insectos voladores: polillas, escarabajos, saltamontes longicornios (esperanzas)",
+   "habitat": "Bosque abierto, bordes de bosque, sabana, plantaciones y manglares",
+   "size": "33–38 cm",
+   "behaviour": "Vuelve al mismo posadero diurno durante semanas, lo que permite encontrarlo una vez localizado.",
+   "fieldMarks": [
+    "Plumaje jaspeado gris pardo, como de corteza",
+    "Grandes ojos amarillos; pico diminuto sobre una boca enorme",
+    "Cola larga; postura erguida sobre tocones",
+    "Manchas oscuras en el pecho"
+   ],
+   "voice": "Una serie de 5 a 8 silbidos fuertes y melancólicos que descienden de tono y volumen, transcrita en inglés como 'poor-me-one, poor-me-one'.",
+   "lookalikes": "El nictibio jamaicano (de México a Costa Rica, y Jamaica y La Española) es casi idéntico, pero emite un reclamo áspero y croante. El nictibio grande es más grande y claro, con un rugido gruñido. Los chotacabras se posan a lo largo de las ramas o descansan en el suelo.",
+   "whereToSee": "Pantanal (Brasil), Llanos (Venezuela), Asa Wright Nature Centre (Trinidad) y albergues amazónicos cuyos guías conocen sus posaderos diurnos.",
+   "season": "Residente; canta sobre todo en noches de luna",
+   "order": "Nyctibiiformes"
+  }
+ },
+ {
+  "scientific": "Steatornis caripensis",
+  "common": "Guácharo",
+  "summary": "La única ave frugívora voladora y nocturna del mundo: duerme y nidifica en cuevas completamente oscuras y se orienta por ecolocalización mediante chasquidos audibles. Antiguamente sus pollos, cargados de grasa, se hervían para obtener aceite para lámparas y para cocinar.",
+  "nativeRange": "Norte y oeste de Sudamérica —Venezuela, Colombia, Ecuador, Perú, Bolivia, Guyana— y Trinidad",
+  "biomes": [
+   "Cuevas",
+   "Bosque montano",
+   "Selva tropical de tierras bajas"
+  ],
+  "abilities": [
+   "Se orienta por ecolocalización en la oscuridad total con chasquidos de unos 2 kHz, audibles para el ser humano",
+   "Encuentra la fruta de noche en parte por el olfato y con unos ojos grandes y muy sensibles a la luz",
+   "Dispersa semillas de palmeras y lauráceas a grandes distancias",
+   "Con una dieta de fruta grasa, los pollos llegan a pesar mucho más que los adultos antes de adelgazar para volar"
+  ],
+  "lore": "Alexander von Humboldt visitó la Cueva del Guácharo, cerca de Caripe, en 1799 y describió cómo los indígenas chaimas recolectaban los pollos por su grasa; el epíteto caripensis rinde homenaje al lugar.",
+  "funFact": "Los pollos de guácharo, gordos, pueden pesar alrededor de un 50 % más que sus progenitores.",
+  "animal": {
+   "diet": "Frutos oleosos de palmeras, lauráceas y burseráceas (árboles de incienso), arrancados en vuelo",
+   "habitat": "Cuevas y gargantas cercanas al bosque, desde el nivel del mar hasta unos 3.400 m",
+   "size": "40–49 cm; envergadura de aproximadamente 1 m",
+   "behaviour": "Colonias de miles de aves salen de las cuevas al anochecer y pueden buscar alimento a más de 100 km en una noche.",
+   "fieldMarks": [
+    "Plumaje pardo rufo intenso con manchas blancas en alas y cabeza",
+    "Pico muy ganchudo, bordeado de largas cerdas rictales",
+    "Alas largas y anchas, y cola larga",
+    "Ojos grandes y oscuros"
+   ],
+   "voice": "Chillidos ensordecedores, gruñidos y chasquidos dentro de las cuevas dormidero; los chillidos inspiraron el nombre guácharo, 'el que llora a gritos'.",
+   "lookalikes": "Los nictibios y chotacabras son más grises, tienen el pico diminuto y no duermen en cuevas; ninguna otra ave cavernícola de su área es tan grande.",
+   "whereToSee": "Parque Nacional Cueva del Guácharo (Caripe, Venezuela), Dunston Cave en el Asa Wright Nature Centre (Trinidad) y la región de la Cueva de los Tayos (Ecuador).",
+   "season": "Residente todo el año",
+   "order": "Steatornithiformes"
+  }
+ },
+ {
+  "scientific": "Dryocopus pileatus",
+  "common": "Picamaderos norteamericano (carpintero crestado)",
+  "summary": "Pájaro carpintero negro del tamaño de un cuervo, con una cresta de un rojo encendido, que excava grandes agujeros rectangulares en los árboles en busca de hormigas carpinteras. Sus viejas cavidades se convierten en hogar de búhos, patos, murciélagos y martas.",
+  "nativeRange": "Gran parte de Canadá, el este de Estados Unidos y el noroeste del Pacífico",
+  "biomes": [
+   "Bosque caducifolio maduro",
+   "Bosque de coníferas",
+   "Bosque pantanoso"
+  ],
+  "abilities": [
+   "Excava agujeros rectangulares de hasta varias decenas de centímetros para llegar a las galerías de las hormigas carpinteras",
+   "Sus agujeros de nido abandonados los utilizan patos joyuyos, búhos, ardillas voladoras y murciélagos",
+   "Usa una lengua larga y con púas para extraer hormigas",
+   "Tamborilea despacio y con fuerza en troncos resonantes para reclamar su territorio"
+  ],
+  "lore": "Mark Catesby lo pintó en la década de 1730 como 'The larger red-crested Wood-pecker' (el pájaro carpintero mayor de cresta roja); los primeros naturalistas utilizaban sus excavaciones rectangulares como indicio de su presencia.",
+  "funFact": "El aspecto del Pájaro Loco (Woody Woodpecker) suele asociarse a esta especie, aunque se decía que su creador, Walter Lantz, se inspiró en un carpintero bellotero.",
+  "animal": {
+   "diet": "Hormigas carpinteras, larvas de escarabajo y otros insectos; fruta y frutos secos",
+   "habitat": "Bosque maduro con árboles grandes y madera muerta; cada vez más, bosquetes en zonas residenciales",
+   "lifespan": "Récord de anillamiento de unos 13 años",
+   "size": "40–49 cm; 250–400 g",
+   "behaviour": "Las parejas mantienen su territorio todo el año y excavan una nueva cavidad de nido cada primavera.",
+   "fieldMarks": [
+    "Cuerpo mayoritariamente negro, con una cresta puntiaguda de color rojo brillante",
+    "Llamativas listas blancas en cara y cuello",
+    "Grandes coberteras inferiores del ala blancas, que destellan en vuelo",
+    "El macho tiene la bigotera roja; la de la hembra es negra"
+   ],
+   "voice": "Un 'uc-uc-uc-uc' fuerte, salvaje y resonante, que sube y baja; tamborileo profundo y lento, que se va apagando.",
+   "lookalikes": "El picamaderos picomarfil, si aún sobrevive, tiene el pico de color marfil y el borde posterior del ala blanco por encima. El carpintero cabecirrojo es mucho más pequeño, con la cabeza enteramente roja y manchas alares blancas.",
+   "whereToSee": "Grandes extensiones de bosque maduro en el este de EE. UU. y el noroeste del Pacífico; escuche su reclamo en lugares como Great Smoky Mountains o el Parque Nacional Congaree.",
+   "season": "Residente todo el año",
+   "order": "Piciformes"
+  }
+ },
+ {
+  "scientific": "Colaptes auratus",
+  "common": "Carpintero escapulario (carpintero de pechera)",
+  "summary": "Gran pájaro carpintero pardo que se alimenta sobre todo en el suelo, lamiendo hormigas. En vuelo muestra el amarillo dorado o el rojo salmón de la cara inferior de las alas y un llamativo obispillo blanco.",
+  "nativeRange": "Alaska y Canadá, por EE. UU. y México hasta Nicaragua; también Cuba y Gran Caimán",
+  "biomes": [
+   "Bosque abierto",
+   "Linde de bosque",
+   "Jardines",
+   "Pastizal arbolado"
+  ],
+  "abilities": [
+   "Las hormigas y sus larvas constituyen casi la mitad de su dieta, más que en ningún otro pájaro carpintero norteamericano",
+   "Tiene una lengua larga recubierta de saliva pegajosa para recoger hormigas del suelo",
+   "Sus dos formas —la oriental, de raquis amarillos, y la occidental, de raquis rojos— se hibridan en una amplia zona de las Grandes Llanuras"
+  ],
+  "lore": "Es el ave oficial de Alabama; a los soldados confederados de Alabama se les apodaba 'yellowhammers' por los ribetes amarillos de sus uniformes, en alusión a esta ave.",
+  "funFact": "Es uno de los pocos pájaros carpinteros norteamericanos que migran con regularidad.",
+  "animal": {
+   "diet": "Hormigas y escarabajos; fruta y semillas en invierno",
+   "habitat": "Bosque abierto, parques, lindes y bosques quemados",
+   "lifespan": "Récord de anillamiento de unos 9 años",
+   "size": "28–31 cm; 110–160 g",
+   "behaviour": "A menudo tamborilea sobre sombreretes metálicos de chimeneas y canalones, que amplifican el sonido.",
+   "fieldMarks": [
+    "Dorso pardo barrado de negro; pecho ante con motas negras",
+    "Babero negro en forma de media luna",
+    "Obispillo blanco en vuelo",
+    "Raquis de alas y cola amarillos (este) o rojo salmón (oeste); los machos tienen la bigotera negra o roja"
+   ],
+   "voice": "Un 'uic-uic-uic-uic' largo y fuerte; también un 'kliir' penetrante y un suave 'uica-uica' durante el cortejo.",
+   "lookalikes": "El carpintero collarejo (desierto de Sonora) tiene la cara inferior de las alas amarilla y el píleo canela. El carpintero de vientre rojo tiene el dorso barrado y carece de babero. En vuelo, el obispillo blanco puede recordar al carpintero cabecirrojo, que en cambio tiene manchas alares blancas.",
+   "whereToSee": "Céspedes, parques y bosques abiertos de toda Norteamérica; a menudo se le ve alimentándose en el suelo.",
+   "season": "Residente en gran parte de EE. UU.; las aves del norte migran al sur en otoño",
+   "order": "Piciformes"
+  }
+ },
+ {
+  "scientific": "Ramphastos sulfuratus",
+  "common": "Tucán pico iris (tucán piquiverde)",
+  "summary": "Tucán de enorme pico multicolor —verde, azul, naranja y rojo— y babero amarillo azufre. Es el ave nacional de Belice.",
+  "nativeRange": "Sur de México, por Centroamérica, hasta el norte de Colombia y el noroeste de Venezuela",
+  "biomes": [
+   "Selva tropical de tierras bajas",
+   "Linde de bosque",
+   "Bosque secundario"
+  ],
+  "abilities": [
+   "Su pico es ligero —queratina sobre un panal de hueso y fibras— pese a medir alrededor de un tercio de la longitud del ave",
+   "Lanza la fruta al aire y la atrapa con la garganta",
+   "Dispersa las grandes semillas de los árboles de la selva",
+   "Los grupos duermen en huecos de árboles con la cola doblada sobre el dorso"
+  ],
+  "funFact": "Es el modelo del personaje Toucan Sam, la mascota de los cereales Froot Loops.",
+  "animal": {
+   "diet": "Principalmente fruta; también insectos, lagartijas, huevos y pollos",
+   "habitat": "Dosel y bordes de selva tropical de tierras bajas, hasta unos 1.900 m",
+   "size": "42–55 cm con el pico; 380–500 g",
+   "behaviour": "Pequeñas bandadas recorren el dosel una tras otra, con vuelos de unos pocos aleteos y un planeo.",
+   "fieldMarks": [
+    "Pico grande y multicolor: verde lima, con azul, naranja y la punta roja",
+    "Cara, garganta y pecho de un amarillo brillante",
+    "Cuerpo negro con infracoberteras caudales rojas y obispillo blanco",
+    "Piel desnuda verde lima alrededor del ojo"
+   ],
+   "voice": "Un croar seco, como de rana, 'krrrec-krrrec', repetido de forma monótona.",
+   "lookalikes": "El tucán de Swainson (tucán pechigualdo) tiene el pico bicolor, oscuro y amarillo, y un reclamo como un gañido. El arasarí acollarado es más pequeño, con el vientre amarillo cruzado por una banda roja.",
+   "whereToSee": "Tikal (Guatemala), Cockscomb Basin y Crooked Tree (Belice), y las tierras bajas del Caribe de Costa Rica, como Tortuguero.",
+   "season": "Residente todo el año",
+   "order": "Piciformes"
+  }
+ },
+ {
+  "scientific": "Ramphastos toco",
+  "common": "Tucán toco (tucán grande)",
+  "summary": "El tucán más grande, con un enorme pico anaranjado de punta negra. A diferencia de la mayoría de los tucanes, vive en sabanas y bosques abiertos, y utiliza el pico como radiador para disipar el calor corporal.",
+  "nativeRange": "Guayanas, Brasil (excepto la mayor parte del interior de la selva amazónica), este de Bolivia, Paraguay y norte de Argentina",
+  "biomes": [
+   "Sabana (Cerrado)",
+   "Bosque de humedal (Pantanal)",
+   "Bosque de galería"
+  ],
+  "abilities": [
+   "Regula el flujo sanguíneo al pico para liberar calor; el pico puede representar una gran parte de la pérdida total de calor (Tattersall et al., Science, 2009)",
+   "Pico de unos 19–23 cm de largo y, sin embargo, muy ligero",
+   "Saquea nidos de otras aves en busca de huevos y pollos",
+   "Dispersa semillas de árboles del Cerrado y el Pantanal"
+  ],
+  "lore": "La palabra 'tucán' procede, a través del portugués, del nombre tupí del ave; los primeros naturalistas europeos en Brasil, entre ellos Georg Marcgrave en la década de 1640, describieron y dibujaron tucanes.",
+  "funFact": "En el Pantanal es a la vez el principal dispersor de semillas del manduvi —el principal árbol de nidificación del guacamayo jacinto— y un importante depredador de los huevos de ese mismo guacamayo.",
+  "animal": {
+   "diet": "Fruta, insectos, huevos, pollos y pequeños reptiles",
+   "habitat": "Sabana, bosque abierto, palmares, plantaciones y poblaciones",
+   "size": "55–65 cm; 500–860 g",
+   "behaviour": "Al dormir mete el pico bajo las plumas del dorso, lo que reduce la pérdida de calor en las noches frescas.",
+   "fieldMarks": [
+    "Pico enorme, de un naranja brillante, con la punta negra y una mancha negra en la base",
+    "Cuerpo negro con garganta y babero blancos",
+    "Piel desnuda naranja alrededor del ojo, con anillo ocular azul",
+    "Supracoberteras caudales blancas e infracoberteras caudales rojas"
+   ],
+   "voice": "Un gruñido grave y croante, 'grrr-grrr' o 'grunc', a menudo en series.",
+   "lookalikes": "El tucán pechiblanco (tucán de pico rojo) tiene el pico rojizo oscuro con la arista amarilla y vive en la selva. El tucán piquinegro tiene el pico negro con la base azul.",
+   "whereToSee": "El Pantanal (Mato Grosso), las cataratas del Iguazú, el Parque Nacional das Emas y las poblaciones del Cerrado brasileño.",
+   "season": "Residente todo el año",
+   "order": "Piciformes"
+  }
+ },
+ {
+  "scientific": "Geococcyx californianus",
+  "common": "Correcaminos grande (correcaminos norteño)",
+  "summary": "Cuco terrestre de los desiertos y matorrales del suroeste de EE. UU. y México que persigue a la carrera lagartijas, serpientes y escorpiones. Puede correr a unos 30 km/h y mata serpientes de cascabel golpeándolas contra las rocas.",
+  "nativeRange": "Suroeste y centro-sur de EE. UU. (en expansión hacia Misuri, Arkansas y Luisiana) y norte y centro de México",
+  "biomes": [
+   "Matorral desértico",
+   "Chaparral",
+   "Pastizal",
+   "Bosque abierto"
+  ],
+  "abilities": [
+   "Corre a unos 30 km/h y se dirige con su larga cola",
+   "Come presas venenosas, como serpientes de cascabel y escorpiones",
+   "Toma el sol con las plumas del dorso erizadas para dejar al descubierto la piel negra y calentarse tras las noches frías",
+   "Excreta el exceso de sal por una glándula cercana al ojo, con lo que ahorra agua"
+  ],
+  "lore": "Los pueblos indígenas Pueblo usaban sus huellas en forma de X como símbolo protector, ya que no revelan hacia dónde se fue el ave; es el ave oficial de Nuevo México.",
+  "funFact": "Los correcaminos reales alcanzan como máximo unos 30 km/h: mucho para un ave a pie, pero menos que un coyote.",
+  "animal": {
+   "diet": "Lagartijas, serpientes, insectos, escorpiones, roedores y aves pequeñas; algo de fruta",
+   "habitat": "Matorral árido, desierto, chaparral y pastizal abierto con cobertura",
+   "lifespan": "Hasta unos 7–8 años",
+   "size": "52–62 cm; 220–540 g",
+   "behaviour": "En el cortejo, los machos ofrecen alimento a la hembra, como una lagartija, antes del apareamiento.",
+   "fieldMarks": [
+    "Cola larga con la punta blanca, a menudo levantada",
+    "Cresta oscura y desgreñada, y plumaje listado pardo y blanco",
+    "Pico largo y robusto; piel desnuda azul y naranja detrás del ojo",
+    "Patas largas que dejan huellas zigodáctilas en forma de X (dos dedos hacia delante y dos hacia atrás)"
+   ],
+   "voice": "Una serie de arrullos lentos y descendentes, como de paloma, 'cu-cu-cu-uu'; también un fuerte castañeteo del pico.",
+   "lookalikes": "El correcaminos tropical (México y Centroamérica) es más pequeño y tiene la garganta menos listada. El faisán vulgar (faisán de collar) tiene el pico corto y carece de listas.",
+   "whereToSee": "Parques desérticos de Arizona, Nuevo México y el oeste de Texas, p. ej., el Parque Nacional Big Bend, el desierto de Sonora alrededor de Tucson o Bosque del Apache.",
+   "season": "Residente todo el año",
+   "order": "Cuculiformes"
+  }
+ },
+ {
+  "scientific": "Buteo jamaicensis",
+  "common": "Busardo colirrojo (aguililla cola roja, gavilán colirrojo)",
+  "summary": "La gran rapaz más familiar de Norteamérica, a menudo vista posada en postes junto a las carreteras o planeando sobre los campos. Su chillido ronco es el sonido que los cineastas doblan para casi cualquier ave de presa, incluido el pigargo americano.",
+  "nativeRange": "Alaska y Canadá, por EE. UU., México y Centroamérica hasta Panamá; las Antillas",
+  "biomes": [
+   "Pastizal",
+   "Tierras de cultivo",
+   "Linde de bosque",
+   "Desierto",
+   "Ciudades"
+  ],
+  "abilities": [
+   "Caza vigilando desde un posadero alto o 'cerneándose' inmóvil contra el viento",
+   "Su plumaje varía de muy claro a casi negro en numerosas formas regionales y morfos",
+   "Se ha adaptado a las ciudades y nidifica en cornisas de edificios",
+   "Las parejas suelen permanecer juntas durante años y reutilizan los nidos"
+  ],
+  "lore": "Un busardo colirrojo apodado Pale Male nidificó desde principios de la década de 1990 en un edificio de apartamentos de la Quinta Avenida de Nueva York y se convirtió en una de las aves silvestres más famosas del mundo.",
+  "funFact": "Se describió científicamente por primera vez a partir de un ejemplar recolectado en Jamaica; de ahí jamaicensis.",
+  "animal": {
+   "diet": "Roedores, conejos y ardillas; también aves, serpientes y carroña",
+   "habitat": "Campo abierto con posaderos dispersos, desde desiertos hasta tierras de cultivo y parques urbanos",
+   "lifespan": "Récord de anillamiento de unos 30 años",
+   "size": "45–65 cm; envergadura de 110–145 cm; 690–1.460 g (las hembras, más grandes)",
+   "behaviour": "Las parejas realizan vuelos nupciales planeando a gran altura; el macho se lanza en picado y vuelve a subir, y a veces deja colgar las patas.",
+   "fieldMarks": [
+    "Cola del adulto rojo ladrillo por encima y rosada pálida por debajo",
+    "Banda oscura de listas que cruza el vientre claro",
+    "Barra oscura (marca patagial) en el borde anterior de la cara inferior del ala",
+    "Alas anchas y redondeadas, y cola corta y ancha; existen morfos oscuros y rufos, sobre todo en el oeste"
+   ],
+   "voice": "Un chillido ronco, áspero y descendente, 'kii-iiii-arrr', de 2–3 segundos de duración.",
+   "lookalikes": "El busardo hombrorrojo tiene la cola con bandas blancas y negras y 'ventanas' alares claras. El busardo calzado (aguililla ártica) tiene manchas negras en el carpo y la base de la cola blanca. El busardo chapulinero (aguililla de Swainson) tiene las plumas de vuelo oscuras por debajo y un babero pardo. Los juveniles de busardo colirrojo tienen la cola parda con bandas.",
+   "whereToSee": "Bordes de autopistas y campos de casi cualquier lugar de Norteamérica; observatorios de rapaces como Hawk Mountain (Pensilvania) y Hawk Ridge en Duluth en otoño.",
+   "season": "Residente en la mayor parte de EE. UU.; las aves del norte migran de septiembre a noviembre",
+   "order": "Accipitriformes"
+  }
+ },
+ {
+  "scientific": "Harpia harpyja",
+  "common": "Arpía mayor (águila arpía)",
+  "summary": "La rapaz más poderosa de las Américas, un águila de la selva que arranca perezosos y monos del dosel. Sus garras traseras son tan largas como las uñas de un oso pardo, y cada pareja cría un único pollo solo cada dos o tres años.",
+  "nativeRange": "Sur de México (hoy muy rara) y Centroamérica hasta el este de Bolivia, Brasil y el noreste de Argentina",
+  "biomes": [
+   "Selva tropical de tierras bajas"
+  ],
+  "abilities": [
+   "Las garras traseras pueden alcanzar unos 12–13 cm",
+   "Transporta presas como perezosos que pesan varios kilos",
+   "Maniobra a través del denso dosel con alas cortas y anchas, en lugar de planear a gran altura",
+   "Nidifica en árboles emergentes gigantes como la ceiba (Ceiba) y el castaño de Brasil"
+  ],
+  "lore": "Debe su nombre a las arpías, los espíritus con cuerpo de ave de la mitología griega; es el ave nacional de Panamá y figura en el escudo de armas del país.",
+  "funFact": "Su disco facial de plumas podría ayudar a canalizar el sonido hacia los oídos, como el de un búho.",
+  "animal": {
+   "diet": "Principalmente perezosos y monos; también zarigüeyas, puercoespines, guacamayos e iguanas",
+   "habitat": "Grandes extensiones de selva tropical de tierras bajas no alterada",
+   "size": "89–105 cm; envergadura de 176–224 cm; hembras de 6–9 kg, machos de 4–5 kg",
+   "behaviour": "El único pollo depende de sus progenitores durante más de un año después de abandonar el nido.",
+   "fieldMarks": [
+    "Cabeza gris pálida con una cresta doble y dividida",
+    "Ancha banda negra que cruza el pecho",
+    "Partes inferiores blancas, con los muslos barrados y unas enormes patas amarillas",
+    "Alas cortas y anchas, y cola larga con bandas"
+   ],
+   "voice": "Un chillido largo y lastimero, 'uiiiii-u', sobre todo de los jóvenes que piden comida en el nido.",
+   "lookalikes": "La arpía menor (águila crestada) es más pequeña y esbelta, con una sola cresta y patas más ligeras. Los juveniles de arpía mayor son blanquecinos y pueden confundirse con los de arpía menor; hay que fijarse en el tamaño y en el grosor de las patas.",
+   "whereToSee": "Darién (Panamá), Tambopata (Perú), Alta Floresta (Brasil) e Iwokrama (Guyana), por lo general en árboles con nidos conocidos y con guías locales.",
+   "season": "Residente todo el año",
+   "order": "Accipitriformes"
+  }
+ },
+ {
+  "scientific": "Caracara plancus",
+  "common": "Caracara carancho (carancho, quebrantahuesos)",
+  "summary": "Halcón de patas largas y aspecto de águila, con la cara desnuda y roja, que camina por el suelo carroñeando y cazando. Es tan probable encontrarlo junto a un animal atropellado o detrás de un arado como en vuelo.",
+  "nativeRange": "Florida, Texas y Arizona, al sur por México, Centroamérica y Sudamérica hasta Tierra del Fuego",
+  "biomes": [
+   "Pastizal",
+   "Sabana",
+   "Tierras de pastoreo",
+   "Matorral desértico"
+  ],
+  "abilities": [
+   "Caza a pie, dando la vuelta a restos y excrementos en busca de insectos y pequeños animales",
+   "Roba comida a los buitres y otras aves",
+   "Sigue a tractores, incendios y ganado para atrapar las presas que levantan",
+   "Echa la cabeza hacia atrás, sobre el dorso, al emitir su reclamo"
+  ],
+  "lore": "Algunos historiadores sostienen que el ave de la leyenda fundacional mexica de Tenochtitlan —un águila sobre un nopal devorando una serpiente— era un caracara, aunque el escudo de México muestra un águila real; en Brasil, la canción 'Carcará' (1964) de João do Vale lo convirtió en símbolo del noreste curtido por la sequía.",
+  "funFact": "La población de Florida figura a nivel federal como amenazada en EE. UU. por la pérdida de la pradera nativa.",
+  "animal": {
+   "diet": "Carroña, insectos, pequeños mamíferos, reptiles, peces y huevos",
+   "habitat": "Campo abierto: praderas, pastos, sabanas y matorral desértico",
+   "size": "49–64 cm; envergadura de unos 120 cm; 0,8–1,6 kg",
+   "behaviour": "A diferencia de la mayoría de los halcones, construye su propio nido de ramas, a menudo en palmeras o cactus.",
+   "fieldMarks": [
+    "Capirote negro y cresta desgreñada sobre la piel facial desnuda, de rojo anaranjado a amarillo",
+    "Pico ganchudo, robusto y azulado claro",
+    "Garganta y cuello blancos; pecho barrado; vientre negro",
+    "En vuelo: manchas blancas cerca de las puntas de las alas y cola blanca con una banda terminal negra; patas largas y amarillas"
+   ],
+   "voice": "Un traqueteo seco y áspero, emitido con la cabeza echada hacia atrás; el nombre 'caracara' lo imita.",
+   "lookalikes": "El zopilote negro (jote de cabeza negra) tiene la cabeza desnuda y gris y no tiene el cuello blanco. El inmaduro de pigargo americano carece del capirote negro y de la cara anaranjada.",
+   "whereToSee": "Tierras de pastoreo del centro de Florida (Kissimmee Prairie), el sur de Texas, el Pantanal y la Pampa argentina.",
+   "season": "Residente todo el año",
+   "order": "Falconiformes"
+  }
+ },
+ {
+  "scientific": "Vultur gryphus",
+  "common": "Cóndor andino",
+  "summary": "Una de las aves voladoras más pesadas de la Tierra, con una envergadura de más de 3 m, que planea sobre los Andes y la costa patagónica en busca de carroña. Es símbolo nacional de Bolivia, Chile, Colombia y Ecuador.",
+  "nativeRange": "Andes, desde Venezuela y Colombia hasta Tierra del Fuego, y las costas del Pacífico y tierras bajas patagónicas adyacentes",
+  "biomes": [
+   "Pastizal altoandino (puna)",
+   "Acantilados de montaña",
+   "Estepa patagónica",
+   "Costa desértica"
+  ],
+  "abilities": [
+   "Envergadura de hasta unos 3,3 m y peso de hasta unos 15 kg",
+   "Un estudio de seguimiento reveló que los cóndores solo aleteaban alrededor del 1 % de su tiempo de vuelo; un ave recorrió más de 170 km en cinco horas sin batir las alas (Williams et al., PNAS, 2020)",
+   "Aprovecha las térmicas y los vientos de ladera para recorrer más de 200 km al día",
+   "Pone un único huevo, normalmente cada dos años"
+  ],
+  "lore": "Para los incas, el kuntur era un mensajero del mundo de arriba (Hanan Pacha), y en la Yawar Fiesta peruana se ataba un cóndor al lomo de un toro para simbolizar la lucha entre las culturas andina y española.",
+  "funFact": "Su epíteto específico gryphus alude al grifo de la leyenda.",
+  "animal": {
+   "diet": "Carroña de grandes mamíferos —llamas, guanacos, ganado—; en la costa, cadáveres de mamíferos marinos",
+   "habitat": "Montañas abiertas, altiplanos y costas con acantilados para dormir y nidificar",
+   "lifespan": "Más de 50 años; aves en cautividad han superado los 70",
+   "size": "100–130 cm; envergadura de 2,7–3,3 m; 8–15 kg (los machos, más grandes)",
+   "behaviour": "Los machos son más grandes que las hembras, algo inusual entre las rapaces, y llevan una cresta carnosa en la cabeza.",
+   "fieldMarks": [
+    "Plumaje negro con un collar de plumas blanco alrededor del cuello",
+    "Grandes paneles blancos en la cara superior del ala (secundarias)",
+    "Cabeza desnuda gris rojiza; el macho, con una cresta carnosa oscura (carúncula)",
+    "Alas largas y anchas, con las primarias muy separadas como 'dedos'"
+   ],
+   "voice": "Casi silencioso; sin un canto producido por la siringe, sisea y cloquea junto a la carroña y en los dormideros.",
+   "lookalikes": "El cóndor californiano (sus áreas no se solapan) tiene blancas las coberteras inferiores del ala en lugar de los paneles de la cara superior, y carece del collar blanco. El zopilote negro y el zopilote aura son mucho más pequeños.",
+   "whereToSee": "Cruz del Cóndor, cañón del Colca (Perú); Torres del Paine (Chile); Quebrada del Condorito (Argentina); la reserva Antisana (Ecuador).",
+   "season": "Residente todo el año; en el Colca, la mejor observación es por la mañana, de junio a octubre",
+   "order": "Cathartiformes"
+  }
+ },
+ {
+  "scientific": "Gymnogyps californianus",
+  "common": "Cóndor californiano",
+  "summary": "La mayor ave terrestre voladora de Norteamérica, con una envergadura de casi 3 m. Se extinguió en estado silvestre en 1987, cuando se capturó el último ejemplar libre y quedaron 27 cóndores, todos en cautividad; desde entonces, la cría en cautividad y las liberaciones han reconstruido la población hasta varios centenares.",
+  "nativeRange": "Antiguamente, gran parte del oeste de Norteamérica (en el Pleistoceno, todo el continente); reintroducido en California, Arizona–Utah, el norte de Baja California y, desde 2022, el noroeste del Pacífico",
+  "biomes": [
+   "Cañones de montaña",
+   "Acantilados costeros",
+   "Sabana de robles",
+   "Meseta desértica"
+  ],
+  "abilities": [
+   "Planea durante horas sobre las térmicas y recorre bastante más de 200 km en un día",
+   "Envergadura de hasta unos 2,9 m",
+   "Puede vivir 60 años o más",
+   "Pone un huevo cada uno o dos años"
+  ],
+  "lore": "El pueblo yurok del norte de California, que lo llama prey-go-neesh, lo considera un ave sagrada; en 2022 la tribu yurok empezó a liberar cóndores en el Parque Nacional Redwood.",
+  "funFact": "A finales de 2025, el Servicio de Pesca y Vida Silvestre de EE. UU. contabilizaba 607 cóndores californianos, 392 de ellos en libertad; la intoxicación por plomo procedente de fragmentos de munición sigue siendo la principal causa de muerte.",
+  "animal": {
+   "diet": "Carroña de grandes mamíferos: ciervos, ganado y mamíferos marinos",
+   "habitat": "Montañas abruptas, cañones y sierras costeras con campo abierto para alimentarse",
+   "lifespan": "Hasta 60 años o más",
+   "size": "117–134 cm; envergadura de hasta unos 2,9 m; 8–14 kg",
+   "behaviour": "Las aves liberadas llevan marcas alares numeradas y transmisores GPS para que los biólogos puedan capturarlas y analizarlas en busca de intoxicación por plomo.",
+   "fieldMarks": [
+    "Muy grande y negro, con coberteras inferiores del ala blancas en forma de triángulo",
+    "Los adultos tienen la cabeza desnuda de color naranja rosado; los juveniles, gris oscura",
+    "Collar de plumas negras alrededor del cuello",
+    "Planeo plano y estable, con largas primarias separadas como dedos; normalmente lleva marcas alares numeradas"
+   ],
+   "voice": "No canta; sisea y gruñe junto a la carroña.",
+   "lookalikes": "El zopilote aura es mucho más pequeño, se balancea en vuelo y muestra las plumas de vuelo plateadas (no coberteras blancas). El águila real tiene la cabeza emplumada y la cola más larga, y los adultos no tienen el triángulo blanco bajo el ala.",
+   "whereToSee": "Monumento Nacional Vermilion Cliffs y el borde sur del Gran Cañón (Arizona), Parque Nacional Pinnacles y Big Sur (California), Parque Nacional Zion (Utah).",
+   "season": "Residente todo el año",
+   "order": "Cathartiformes"
+  }
+ },
+ {
+  "scientific": "Sarcoramphus papa",
+  "common": "Zopilote rey (cóndor real, jote real)",
+  "summary": "Buitre de color blanco cremoso con la cabeza desnuda pintada de naranja, púrpura, rojo y amarillo. Otros buitres suelen encontrar antes la carroña, pero el potente pico del zopilote rey abre los cueros duros que las especies más pequeñas no pueden.",
+  "nativeRange": "Sur de México, por Centroamérica, hasta el norte de Argentina",
+  "biomes": [
+   "Selva tropical de tierras bajas",
+   "Sabana",
+   "Linde de bosque"
+  ],
+  "abilities": [
+   "Desgarra grandes cadáveres y facilita así el acceso a otros carroñeros",
+   "Sigue al zopilote aura y al aura sabanera, que se guían por el olfato, hasta el alimento oculto bajo el dosel",
+   "Planea durante largos periodos con las alas planas sobre la selva"
+  ],
+  "lore": "Los mayas representaron al zopilote rey en sus códices, y su nombre náhuatl, cozcacuauhtli, designaba también el decimosexto día del calendario mexica.",
+  "funFact": "El nombre español 'zopilote rey' refleja una antigua creencia según la cual era el rey ante el que los demás buitres se apartaban.",
+  "animal": {
+   "diet": "Carroña; ocasionalmente animales débiles o recién nacidos",
+   "habitat": "Bosque de tierras bajas y sabana adyacente, sobre todo por debajo de 1.500 m",
+   "lifespan": "Más de 30 años en cautividad",
+   "size": "67–81 cm; envergadura de 1,2–2 m; 2,7–4,5 kg",
+   "behaviour": "En la carroña suele desplazar al zopilote negro y al zopilote aura.",
+   "fieldMarks": [
+    "Cuerpo blanco cremoso con las plumas de vuelo y la cola negras",
+    "Cabeza y cuello desnudos y multicolores, con una carúncula carnosa naranja sobre el pico",
+    "Gruesa gola gris",
+    "Ojo blanco con anillo ocular rojo; los juveniles son enteramente oscuros"
+   ],
+   "voice": "Por lo general silencioso; graznidos graves y chasquidos del pico.",
+   "lookalikes": "El tántalo americano tiene patas y cuello largos en vuelo. Los zopilotes rey inmaduros son oscuros y se parecen al zopilote negro, pero son más grandes y tienen algo de color en la cabeza.",
+   "whereToSee": "Sobre la selva en Belice, Costa Rica (península de Osa), Panamá y la Amazonia; en puntos de alimentación de Brasil y Costa Rica.",
+   "season": "Residente todo el año",
+   "order": "Cathartiformes"
+  }
+ },
+ {
+  "scientific": "Bubo virginianus",
+  "common": "Búho americano (búho cornudo, tecolote cornudo)",
+  "summary": "El búho de penachos y ojos amarillos de los libros infantiles, presente desde el límite arbóreo del Ártico hasta las selvas tropicales. Captura presas del tamaño de mofetas y gansos, y nidifica en pleno invierno.",
+  "nativeRange": "Alaska y Canadá, por EE. UU., México y Centroamérica hasta Sudamérica; en el extremo sur lo sustituye el búho magallánico",
+  "biomes": [
+   "Bosque",
+   "Desierto",
+   "Linde de pastizal",
+   "Ciudades",
+   "Pantano"
+  ],
+  "abilities": [
+   "Caza uno de los espectros de presas más amplios de todas las aves: desde insectos hasta mofetas, águilas pescadoras y otros búhos",
+   "Mata mofetas con regularidad, quizá ayudado por un olfato poco desarrollado",
+   "Vuelo silencioso gracias a unas plumas de vuelo aserradas y aterciopeladas",
+   "Empieza a nidificar en enero o febrero, a menudo en nidos viejos de rapaces o cuervos"
+  ],
+  "lore": "En gran parte de Mesoamérica el búho (en náhuatl tecolotl) se asociaba con Mictlantecuhtli, señor del inframundo, y su canto con la muerte, creencia que aún recoge el dicho mexicano 'cuando el tecolote canta, el indio muere'.",
+  "funFact": "Como otros búhos, no puede mover los ojos dentro de las órbitas, así que gira toda la cabeza, hasta unos 270 grados.",
+  "animal": {
+   "diet": "Conejos, roedores, mofetas, aves (incluidas acuáticas y otras rapaces) y reptiles",
+   "habitat": "Casi cualquier hábitat con árboles, cortados o estructuras donde dormir y nidificar",
+   "lifespan": "Récord de anillamiento de unos 28 años",
+   "size": "46–63 cm; envergadura de 100–145 cm; 0,9–2,5 kg",
+   "behaviour": "En invierno, las parejas cantan a dúo al anochecer; los ululatos de la hembra son más agudos que los del macho pese a ser ella más grande.",
+   "fieldMarks": [
+    "Búho grande y voluminoso con penachos muy separados",
+    "Ojos amarillos en un disco facial naranja herrumbre ribeteado de negro",
+    "Babero blanco en la garganta",
+    "Fino barrado horizontal en las partes inferiores"
+   ],
+   "voice": "Ululatos graves, suaves y entrecortados, p. ej., 'ju-j'JUU-ju-ju'; los juveniles emiten un chillido sibilante y áspero.",
+   "lookalikes": "El búho chico es esbelto, con los penachos juntos y listas verticales por debajo. El cárabo norteamericano no tiene penachos y tiene los ojos oscuros. El autillo oriental y el autillo occidental tienen penachos, pero son diminutos.",
+   "whereToSee": "Parques, bosquetes y desiertos de toda América; a menudo se ve en las tardes de invierno en plataformas de nido en álamos o sobre saguaros.",
+   "season": "Residente todo el año",
+   "order": "Strigiformes"
+  }
+ },
+ {
+  "scientific": "Athene cunicularia",
+  "common": "Mochuelo de madriguera (lechucita vizcachera, tecolote llanero)",
+  "summary": "Pequeño búho de patas largas que vive bajo tierra en madrigueras excavadas por perritos de las praderas, ardillas terrestres o armadillos, y que a menudo está activo de día. Se balancea y observa fijamente desde la boca de la madriguera, y decora la entrada con excrementos para atraer escarabajos.",
+  "nativeRange": "Oeste de Norteamérica y Florida, al sur por México, el Caribe y Centroamérica hasta Tierra del Fuego",
+  "biomes": [
+   "Pastizal",
+   "Desierto",
+   "Pampa",
+   "Tierras de cultivo",
+   "Solares urbanos"
+  ],
+  "abilities": [
+   "Esparce excrementos de mamíferos alrededor de su madriguera, lo que atrae a escarabajos peloteros de los que luego se alimenta (Levey et al., Nature, 2004)",
+   "Los pollos en la madriguera emiten un siseo que recuerda al cascabeleo de una serpiente de cascabel",
+   "Las aves de Florida excavan sus propias madrigueras; las del oeste suelen ocupar madrigueras de mamíferos",
+   "Caza de día y de noche, cerniéndose y corriendo tras los insectos"
+  ],
+  "lore": "Su epíteto específico cunicularia, 'pequeño minero' o 'excavador', se lo dio Juan Ignacio Molina en Chile en 1782.",
+  "funFact": "Aunque es común a escala mundial, figura como En peligro en Canadá tras el desplome de sus poblaciones de las praderas.",
+  "animal": {
+   "diet": "Insectos (escarabajos, saltamontes), pequeños roedores, lagartijas y ranas",
+   "habitat": "Terreno abierto de hierba corta: praderas, desiertos, pastos, aeropuertos y solares vacíos",
+   "lifespan": "Hasta unos 9 años en libertad",
+   "size": "19–28 cm; 140–240 g",
+   "behaviour": "Cuando se alarma, balancea la cabeza y el cuerpo con rapidez, un gesto característico.",
+   "fieldMarks": [
+    "Pequeño búho pardo con motas blancas, erguido sobre patas largas y escasamente emplumadas",
+    "Cabeza redonda sin penachos",
+    "Ojos de un amarillo brillante bajo llamativas cejas blancas",
+    "Lista blanca en la barbilla; normalmente se ve en el suelo o en un poste bajo"
+   ],
+   "voice": "Un suave 'cu-cuuuu' de dos notas por la noche; reclamos de alarma parloteados y cloqueantes.",
+   "lookalikes": "El búho campestre (lechuzón de campo) es más grande, de alas más largas, y vuela bajo sobre la hierba. Los autillos (tecolotes) tienen penachos y viven en los árboles.",
+   "whereToSee": "Cape Coral (Florida); colonias de perritos de las praderas de las Grandes Llanuras; campos agrícolas del Salton Sea (California); la Pampa y los céspedes urbanos de Brasil.",
+   "season": "Residente en Florida y más al sur; las aves del norte de las Grandes Llanuras son visitantes estivales, de abril a octubre",
+   "order": "Strigiformes"
+  }
+ },
+ {
+  "scientific": "Strix varia",
+  "common": "Cárabo norteamericano (búho barrado)",
+  "summary": "Búho grande, de cabeza redonda, propio de los pantanos y bosques del este, con ojos oscuros y expresivos y un reclamo que en inglés parece preguntar 'Who cooks for you?' (¿quién cocina para ti?). Durante el último siglo se extendió por Canadá hasta el noroeste del Pacífico, donde ahora desplaza al amenazado cárabo californiano.",
+  "nativeRange": "Este de Norteamérica y centro de México; durante el siglo XX se expandió por el Canadá boreal hasta Columbia Británica, Washington, Oregón y el norte de California",
+  "biomes": [
+   "Bosque pantanoso",
+   "Bosque caducifolio maduro",
+   "Bosque mixto",
+   "Bosque de ribera"
+  ],
+  "abilities": [
+   "Canta con frecuencia tanto de día como de noche",
+   "Captura una gran variedad de presas, incluidos cangrejos de río, peces y ranas",
+   "Su expansión hacia el oeste es una de las mayores documentadas en un ave norteamericana"
+  ],
+  "lore": "Su expansión al área del cárabo californiano septentrional llevó al Servicio de Pesca y Vida Silvestre de EE. UU. a adoptar en 2024 un plan de gestión que incluye el sacrificio de cárabos norteamericanos en partes del noroeste del Pacífico.",
+  "funFact": "El cárabo norteamericano a veces se adentra en aguas someras para capturar peces y cangrejos de río.",
+  "animal": {
+   "diet": "Pequeños mamíferos, aves, anfibios, cangrejos de río, peces e insectos",
+   "habitat": "Bosque maduro cerca del agua: pantanos, vegas fluviales y bosquetes antiguos",
+   "lifespan": "Récord de anillamiento de unos 24 años",
+   "size": "40–63 cm; 470–1.050 g",
+   "behaviour": "Las parejas realizan estridentes dúos de 'maullidos', con ululatos, carcajadas y chillidos.",
+   "fieldMarks": [
+    "Cabeza grande y redonda, sin penachos",
+    "Ojos pardo oscuro",
+    "Barrado horizontal en la parte superior del pecho y listas verticales en el vientre",
+    "Plumaje pardo grisáceo con el pico amarillo"
+   ],
+   "voice": "Un ululato rítmico, que en inglés se transcribe 'who cooks for you, who cooks for you-all', terminado en un arrastre; también carcajadas como de mono.",
+   "lookalikes": "El cárabo californiano (oeste) es más oscuro, con motas blancas en lugar de barras y listas. El cárabo lapón es más grande y tiene los ojos amarillos. El búho americano tiene penachos y ojos amarillos.",
+   "whereToSee": "Pantanos del sur como Corkscrew Swamp y el Okefenokee, vegas fluviales de todo el este y bosques del noroeste del Pacífico.",
+   "season": "Residente todo el año",
+   "order": "Strigiformes"
+  }
+ },
+ {
+  "scientific": "Aix sponsa",
+  "common": "Pato joyuyo (pato arcoíris)",
+  "summary": "Pato de diseño llamativo que nidifica en huecos de árboles, a veces a muchos metros de altura. Un día después de eclosionar, los patitos saltan al suelo sin abrir las alas y caminan hasta el agua.",
+  "nativeRange": "Este de Norteamérica, la costa del Pacífico desde Columbia Británica hasta California, y Cuba",
+  "biomes": [
+   "Bosque pantanoso",
+   "Estanques arbolados",
+   "Ríos",
+   "Estanques de castores"
+  ],
+  "abilities": [
+   "Nidifica en cavidades de árboles y cajas nido, a menudo en viejos agujeros de picamaderos norteamericano",
+   "Los patitos saltan sin lesionarse desde cavidades situadas hasta a unos 15 m de altura",
+   "Las uñas de sus patas le permiten posarse en ramas",
+   "Las hembras suelen poner huevos en los nidos de otras ('parasitismo de puesta')"
+  ],
+  "lore": "Cazado casi hasta la extinción hacia 1900, se recuperó después de que la Ley del Tratado de Aves Migratorias de 1918 pusiera fin a la caza comercial y de que los programas de cajas nido sustituyeran las cavidades perdidas; Catesby lo pintó como 'The Summer Duck' (el pato de verano).",
+  "funFact": "Linneo lo llamó sponsa, 'prometida' o 'novia' en latín, por el 'traje de boda' del macho.",
+  "animal": {
+   "diet": "Bellotas, semillas, plantas acuáticas e insectos",
+   "habitat": "Pantanos arbolados, estanques de castores, ríos lentos y marismas con árboles",
+   "lifespan": "Récord de anillamiento de unos 22 años",
+   "size": "47–54 cm; 450–880 g",
+   "behaviour": "Vuela con agilidad a través del bosque inundado, a menudo cabeceando en vuelo.",
+   "fieldMarks": [
+    "Macho: cabeza crestada verde y púrpura iridiscente, con bridas blancas en la barbilla y ojo rojo",
+    "Macho: pecho castaño moteado de blanco, flancos anteados y barra negra y blanca en el hombro",
+    "Hembra: pardo grisácea, con un anillo ocular blanco en forma de lágrima y una cresta corta",
+    "En vuelo, cola larga y ancha y cuello corto"
+   ],
+   "voice": "La hembra emite un fuerte chillido ascendente, 'u-iic!', cuando se la levanta; el macho, un silbido fino y ascendente, 'yiiib'.",
+   "lookalikes": "El pato mandarín (escapado de colecciones) tiene 'velas' naranjas en el dorso y mejillas naranjas como bigotes. La serreta capuchona tiene el pico fino y una cresta en abanico blanca o parda.",
+   "whereToSee": "Pantanos arbolados y estanques de parques de todo el este de EE. UU., p. ej., el Great Swamp NWR (Nueva Jersey) y el Okefenokee; programas de cajas nido en muchos refugios.",
+   "season": "Residente en el sur de EE. UU.; visitante estival en el norte, de marzo a noviembre",
+   "order": "Anseriformes"
+  }
+ },
+ {
+  "scientific": "Antigone canadensis",
+  "common": "Grulla canadiense (grulla gris)",
+  "summary": "Grulla gris y alta, con el píleo rojo, cuyos reclamos ondulantes, como de trompeta, se oyen a kilómetros. Cada primavera cientos de miles se concentran en el río Platte de Nebraska, uno de los grandes espectáculos de fauna de Norteamérica.",
+  "nativeRange": "Cría en Alaska, Canadá, el norte de EE. UU. y el noreste de Siberia; poblaciones residentes en Florida, Misisipi y Cuba; inverna en el sur de EE. UU. y el norte de México",
+  "biomes": [
+   "Humedales",
+   "Tundra",
+   "Pradera",
+   "Tierras de cultivo"
+  ],
+  "abilities": [
+   "Su tráquea se enrolla dentro del esternón y produce reclamos audibles a varios kilómetros",
+   "Las parejas ejecutan danzas de cortejo con saltos y reverencias, y 'reclamos al unísono'",
+   "Tiñe sus plumas grises de pardo herrumbre al acicalarse con barro rico en hierro",
+   "Migra en bandadas que vuelan alto en círculos aprovechando las térmicas"
+  ],
+  "lore": "El ensayo 'Marshland Elegy' (Elegía de la marisma), de A Sand County Almanac (1949), de Aldo Leopold, convirtió a la grulla canadiense en símbolo de lo salvaje y del tiempo profundo; en la tradición ojibwe, la grulla (ajijaak) es uno de los clanes principales.",
+  "funFact": "Su color herrumbre no es un pigmento, sino barro aplicado durante el acicalamiento.",
+  "animal": {
+   "diet": "Grano residual, tubérculos, semillas, insectos, caracoles y pequeños vertebrados",
+   "habitat": "Marismas, prados húmedos, tundra y campos de cultivo cerca de aguas someras donde dormir",
+   "lifespan": "Récord de anillamiento de más de 36 años",
+   "size": "80–120 cm de altura; envergadura de 1,5–2,3 m; 2,7–6,7 kg",
+   "behaviour": "Las familias permanecen juntas durante el primer invierno, y los jóvenes aprenden las rutas migratorias de sus progenitores.",
+   "fieldMarks": [
+    "Grulla gris y alta, de cuello y patas largos",
+    "Frente desnuda roja y mejillas blancas",
+    "Penacho tupido de plumas terciarias sobre la cola",
+    "Vuela con el cuello completamente estirado; a menudo manchada de pardo herrumbre"
+   ],
+   "voice": "Un traqueteo fuerte, ondulante y atrompetado, 'garuu-uu-uu'; los juveniles emiten 'pips' agudos y silbados.",
+   "lookalikes": "La garza azulada vuela con el cuello recogido y carece del píleo rojo. La grulla trompetera es blanca, con las puntas de las alas negras. La grulla común (divagante rara) tiene el cuello negro y blanco.",
+   "whereToSee": "Río Platte cerca de Kearney, Nebraska (de febrero a abril, Rowe Sanctuary); Bosque del Apache NWR (Nuevo México) y Whitewater Draw (Arizona) en invierno; Jasper-Pulaski (Indiana) en otoño.",
+   "season": "Poblaciones migratorias: en el Platte, de mediados de febrero a principios de abril; en las áreas de invernada, de noviembre a febrero",
+   "order": "Gruiformes"
+  }
+ },
+ {
+  "scientific": "Grus americana",
+  "common": "Grulla trompetera (grulla blanca americana)",
+  "summary": "El ave más alta de Norteamérica, una grulla blanca cuya única bandada migratoria se redujo a unas 15 aves en 1941. La protección de su única bandada migratoria silvestre, que nidifica en el Parque Nacional Wood Buffalo (Canadá) e inverna en la costa de Texas, la ha devuelto a varios centenares.",
+  "nativeRange": "La bandada silvestre cría en el Parque Nacional Wood Buffalo (Alberta/Territorios del Noroeste) e inverna en Aransas (Texas); aves no migratorias reintroducidas en Luisiana y una bandada migratoria oriental en Wisconsin",
+  "biomes": [
+   "Humedales boreales",
+   "Marisma salada costera",
+   "Humedales de pradera"
+  ],
+  "abilities": [
+   "Migra unos 4.000 km entre Canadá y el golfo de México",
+   "Su tráquea, de hasta unos 1,5 m de largo y enrollada dentro del esternón, amplifica su toque de trompeta",
+   "Las parejas se unen de por vida y defienden grandes territorios invernales en la marisma salada",
+   "A grullas criadas en cautividad se les enseñaron rutas migratorias haciéndoles seguir aeronaves ultraligeras (2001–2015)"
+  ],
+  "lore": "Sus áreas de nidificación no se descubrieron hasta 1954, cuando una brigada contra incendios forestales avistó grullas en el Parque Nacional Wood Buffalo; en 1967 fue una de las primeras especies declaradas en peligro en Estados Unidos.",
+  "funFact": "El Servicio de Pesca y Vida Silvestre de EE. UU. estimó que unas 540 grullas trompeteras invernaron en Aransas y sus alrededores en 2025–26, frente a unas 15 en 1941.",
+  "animal": {
+   "diet": "Cangrejos azules, almejas, frutos de Lycium y bellotas en invierno; insectos, ranas, peces y plantas en verano",
+   "habitat": "Marismas boreales remotas para criar; marismas saladas costeras y bahías en invierno",
+   "lifespan": "Unos 22–30 años en libertad",
+   "size": "Alrededor de 1,5 m de altura; envergadura de 2–2,3 m; 4,5–8,5 kg",
+   "behaviour": "Las parejas suelen poner dos huevos, pero a menudo solo sacan adelante un pollo.",
+   "fieldMarks": [
+    "Cuerpo blanco níveo y estatura muy alta",
+    "Primarias negras, visibles en vuelo como puntas de las alas negras",
+    "Píleo rojo y 'bigote' negro en la cara",
+    "Juveniles jaspeados de canela y blanco"
+   ],
+   "voice": "Un fuerte y claro reclamo al unísono atrompetado, 'uup-uup', que se oye a varios kilómetros.",
+   "lookalikes": "El pelícano blanco americano tiene negra toda la parte exterior del ala y un pico enorme. El tántalo americano tiene la cabeza desnuda y oscura y el borde posterior de las alas negro. La garceta grande (garza blanca) vuela con el cuello recogido. La grulla canadiense es gris.",
+   "whereToSee": "Refugio Nacional de Vida Silvestre de Aransas y excursiones en barco desde Rockport–Fulton, Texas (de noviembre a marzo); Necedah NWR, Wisconsin (bandada oriental).",
+   "season": "Inverna en Aransas de noviembre a marzo; cría en Wood Buffalo de mayo a septiembre",
+   "order": "Gruiformes"
+  }
+ },
+ {
+  "scientific": "Ardea herodias",
+  "common": "Garza azulada (garzón cenizo, garza morena)",
+  "summary": "La garza más grande de Norteamérica, una cazadora paciente y escultural de marismas, lagos y costas. Ensarta los peces con una estocada fulminante de su pico en forma de daga y se los traga enteros.",
+  "nativeRange": "Alaska y el sur de Canadá, por EE. UU. y México hasta Centroamérica, las Antillas y el norte de Sudamérica; también las Galápagos",
+  "biomes": [
+   "Marisma de agua dulce",
+   "Lagos y ríos",
+   "Marisma salada",
+   "Manglar"
+  ],
+  "abilities": [
+   "Unas vértebras cervicales especializadas permiten un ataque súbito, como accionado por un resorte",
+   "Caza de día y de noche, ayudada por la abundancia de bastones en sus ojos",
+   "Nidifica en colonias (garceras) que pueden reunir cientos de nidos en lo alto de los árboles",
+   "Traga presas de hasta el tamaño de peces grandes, roedores e incluso aves pequeñas"
+  ],
+  "funFact": "Pese a superar el metro de altura, suele pesar solo unos 2–2,5 kg, gracias a sus huesos huecos.",
+  "animal": {
+   "diet": "Peces, ranas, cangrejos de río, roedores, serpientes e insectos",
+   "habitat": "Casi cualquier masa de agua dulce o salada somera",
+   "lifespan": "Récord de anillamiento de unos 24 años",
+   "size": "97–137 cm; envergadura de 167–201 cm; 2,1–2,5 kg",
+   "behaviour": "Una forma totalmente blanca, la 'gran garza blanca' (Great White Heron), vive en los cayos de Florida y el Caribe.",
+   "fieldMarks": [
+    "Garza alta, gris azulada, de cuello largo y pico amarillo en forma de daga",
+    "Cara blanca con una lista negra que se prolonga en las plumas de la cabeza",
+    "Muslos y borde del ala rufos",
+    "Vuela con aleteos lentos, el cuello recogido en S y las patas sobresaliendo por detrás"
+   ],
+   "voice": "Un graznido grave y áspero, 'franc', cuando se la molesta; castañeteo del pico en las colonias.",
+   "lookalikes": "La grulla canadiense vuela con el cuello estirado y tiene el píleo rojo. La garza real (Eurasia) carece de muslos rufos. La garceta azul es mucho más pequeña y oscura. Forma blanca frente a garceta grande: la garceta grande tiene las patas negras y es más esbelta.",
+   "whereToSee": "Humedales de toda Norteamérica, p. ej., los Everglades, la bahía de Chesapeake, la bahía de San Francisco o las garceras del noroeste del Pacífico.",
+   "season": "Residente en gran parte de EE. UU.; las aves del norte migran al sur en invierno",
+   "order": "Pelecaniformes"
+  }
+ },
+ {
+  "scientific": "Platalea ajaja",
+  "common": "Espátula rosada",
+  "summary": "Ave zancuda de un rosa intenso con un pico plano en forma de cuchara que barre de lado a lado en aguas someras para detectar las presas por el tacto. Su color procede de pigmentos carotenoides de los crustáceos que come.",
+  "nativeRange": "Costas del golfo de México en EE. UU. (Florida, Luisiana, Texas), el Caribe, y Centroamérica y Sudamérica hasta Argentina",
+  "biomes": [
+   "Manglar",
+   "Lagunas costeras",
+   "Marisma de agua dulce",
+   "Humedales tropicales"
+  ],
+  "abilities": [
+   "Captura las presas por el tacto: unas terminaciones nerviosas en el pico hacen que lo cierre de golpe al contacto",
+   "Se vuelve rosa gracias a la cantaxantina y otros carotenoides de camarones y cangrejos",
+   "Nidifica en colonias en manglares y árboles junto con garzas e ibis"
+  ],
+  "lore": "En el siglo XIX se vendían en Florida alas de espátula como abanicos, y la caza para obtener plumas estuvo a punto de acabar con la población de EE. UU. antes de protecciones como la Ley del Tratado de Aves Migratorias de 1918.",
+  "funFact": "El nombre ajaja procede de un nombre tupí-guaraní del ave, recogido por los primeros naturalistas en Brasil.",
+  "animal": {
+   "diet": "Peces pequeños, camarones, cangrejos de río e insectos acuáticos",
+   "habitat": "Humedales costeros y de agua dulce someros, manglares y llanuras fangosas",
+   "size": "71–86 cm; envergadura de 120–133 cm; 1,2–1,8 kg",
+   "behaviour": "Los grupos se alimentan avanzando en fila por el agua y barriendo con el pico al unísono.",
+   "fieldMarks": [
+    "Cuerpo rosa, de un rojo más intenso en los hombros y el obispillo",
+    "Pico largo y plano que se ensancha en una 'cuchara' espatulada",
+    "Cabeza desnuda verdosa en los adultos",
+    "Cola naranja y patas rojas; vuela con el cuello estirado"
+   ],
+   "voice": "Casi siempre silenciosa; gruñidos y graznidos graves en las colonias de cría.",
+   "lookalikes": "El flamenco americano tiene el cuello muy largo y el pico acodado y curvado hacia abajo. El corocoro rojo es de un escarlata uniforme, con el pico curvado hacia abajo.",
+   "whereToSee": "J. N. 'Ding' Darling NWR (Sanibel, Florida), los Everglades, la costa de Texas, el Pantanal y los Llanos venezolanos.",
+   "season": "Residente en Florida y los trópicos; tras la cría, algunas aves errantes se desplazan al norte en verano",
+   "order": "Pelecaniformes"
+  }
+ },
+ {
+  "scientific": "Eudocimus ruber",
+  "common": "Corocoro rojo (ibis escarlata, guará)",
+  "summary": "Ibis de un escarlata intenso, propio de los manglares y llanuras fangosas de Sudamérica, cuyo color procede de los carotenoides de su dieta de cangrejos y camarones. Al anochecer, las bandadas que regresan a dormir al pantano de Caroni, en Trinidad, tiñen de rojo los manglares.",
+  "nativeRange": "Costas septentrionales de Sudamérica, desde Colombia y Venezuela por las Guayanas hasta el noreste de Brasil; Trinidad y Tobago",
+  "biomes": [
+   "Manglar",
+   "Llanuras fangosas",
+   "Lagunas costeras",
+   "Humedales de los Llanos"
+  ],
+  "abilities": [
+   "Sondea el fango con su largo pico curvado para encontrar cangrejos y moluscos por el tacto",
+   "Se reúne en dormideros de miles de aves en islas de manglar",
+   "Se hibrida con el ibis blanco americano donde ambos coinciden en Venezuela"
+  ],
+  "lore": "Los tupinambás de la costa de Brasil confeccionaban mantos ceremoniales con plumas de guará; uno de ellos, conservado en el Museo Nacional de Copenhague desde el siglo XVII, fue devuelto a Brasil en 2024. Es el ave nacional de Trinidad y Tobago.",
+  "funFact": "Los corocoros rojos en cautividad pierden color hasta volverse rosados si su alimento no contiene carotenoides.",
+  "animal": {
+   "diet": "Cangrejos, camarones, moluscos, insectos y peces pequeños",
+   "habitat": "Manglares, llanuras fangosas intermareales, estuarios y sabana inundada",
+   "size": "55–63 cm; envergadura de 90–100 cm",
+   "behaviour": "Los jóvenes son de color pardo grisáceo y blanco, y se vuelven escarlatas poco a poco durante sus dos primeros años.",
+   "fieldMarks": [
+    "Plumaje enteramente escarlata",
+    "Puntas negras en las primarias externas",
+    "Pico largo, curvado hacia abajo y de color rojizo oscuro",
+    "Vuela con el cuello estirado, en filas o en formación en V"
+   ],
+   "voice": "Por lo general silencioso; graznidos y gruñidos roncos y nasales en las bandadas.",
+   "lookalikes": "La espátula rosada es rosa y tiene el pico plano en forma de cuchara. El flamenco americano es mucho más grande y tiene el cuello largo. El ibis blanco americano es blanco, con las puntas de las alas negras.",
+   "whereToSee": "Pantano de Caroni, Trinidad (excursiones en barco al anochecer); los Llanos venezolanos; la costa de Amapá y Maranhão (Brasil).",
+   "season": "Residente todo el año",
+   "order": "Pelecaniformes"
+  }
+ },
+ {
+  "scientific": "Spheniscus humboldti",
+  "common": "Pingüino de Humboldt",
+  "summary": "Pingüino de tamaño mediano de las costas desérticas de Perú y Chile, que vive de la fría y rica en peces corriente de Humboldt. Antiguamente nidificaba en madrigueras excavadas en depósitos de guano de varios metros de espesor, hasta que la explotación del guano en el siglo XIX acabó con ellos.",
+  "nativeRange": "Costas e islas del Pacífico de Perú y Chile",
+  "biomes": [
+   "Costa rocosa",
+   "Islas desérticas",
+   "Mar frío de afloramiento"
+  ],
+  "abilities": [
+   "Prospera en una costa desértica calurosa gracias a la piel facial desnuda, que disipa el calor",
+   "Se sumerge una y otra vez para capturar anchovetas y sardinas en las frías aguas de afloramiento",
+   "Nidifica en madrigueras, cuevas y grietas para proteger los huevos del sol"
+  ],
+  "lore": "Debe su nombre a Alexander von Humboldt, cuyo nombre lleva también la fría corriente oceánica de la que depende; el guano en el que nidifica se exportó como fertilizante durante la 'Era del Guano' peruana, a mediados del siglo XIX.",
+  "funFact": "Su apodo en español, 'pájaro niño', se debe a su andar erguido y vacilante, como el de un niño pequeño.",
+  "animal": {
+   "diet": "Anchoveta, sardinas, otros peces pequeños y calamares",
+   "habitat": "Costas rocosas e islas cercanas a la corriente de Humboldt",
+   "lifespan": "Unos 15–20 años en libertad; más de 30 en cautividad",
+   "size": "56–70 cm; 3,6–5,9 kg",
+   "behaviour": "La cría suele fracasar en los años de El Niño intenso, cuando el agua cálida aleja a los peces.",
+   "fieldMarks": [
+    "Dorso negro y frente blanca, con una única banda negra ancha que cruza el pecho",
+    "Banda blanca en forma de C que va desde el ojo, rodea las mejillas y llega a la garganta",
+    "Piel desnuda rosada en la base del pico negro",
+    "Motas negras dispersas en el vientre blanco"
+   ],
+   "voice": "Fuertes reclamos como rebuznos en las colonias.",
+   "lookalikes": "El pingüino de Magallanes (coincide con él en el centro de Chile) tiene dos bandas negras en el pecho. El pingüino de las Galápagos es más pequeño, con una lista facial más fina, y solo vive en las Galápagos.",
+   "whereToSee": "Islas Ballestas (Paracas, Perú), Punta San Juan (Perú) y la Reserva Nacional Pingüino de Humboldt, con las islas Damas y Choros (Chile).",
+   "season": "Residente todo el año",
+   "order": "Sphenisciformes"
+  }
+ },
+ {
+  "scientific": "Gavia immer",
+  "common": "Colimbo grande (colimbo común, somorgujo mayor)",
+  "summary": "Ave buceadora robusta, de pico en forma de daga, propia de los lagos del norte, cuyos gemidos y reclamos modulados son el sonido emblemático de los bosques septentrionales. Tiene las patas tan retrasadas que apenas puede caminar en tierra.",
+  "nativeRange": "Cría en Alaska, Canadá, el norte de EE. UU., Groenlandia e Islandia; inverna en las costas atlánticas y pacíficas de Norteamérica y en el oeste de Europa",
+  "biomes": [
+   "Lagos boreales",
+   "Mares costeros (invierno)"
+  ],
+  "abilities": [
+   "Se sumerge hasta unos 60 m y permanece bajo el agua hasta un minuto o más",
+   "Tiene huesos densos, en su mayoría macizos, que reducen su flotabilidad",
+   "Necesita una pista de entre 30 m y varios cientos de metros de agua para despegar",
+   "Cada macho tiene un reclamo modulado característico, que cambia si se traslada a un territorio nuevo"
+  ],
+  "lore": "La moneda canadiense de un dólar, introducida en 1987, lleva un colimbo y todo el mundo la llama 'loonie' (de loon, colimbo); en la tradición ojibwe, el colimbo (maang) es un clan de liderazgo, y es el ave oficial de Minnesota.",
+  "funFact": "Se ha comprobado que los colimbos cambian su reclamo modulado cuando se trasladan de territorio, al parecer para no sonar como el anterior ocupante.",
+  "animal": {
+   "diet": "Peces como percas y catostómidos; cangrejos de río y otros invertebrados",
+   "habitat": "Lagos claros del norte con peces e islas para nidificar; bahías marinas en invierno",
+   "lifespan": "A menudo 20–30 años",
+   "size": "66–91 cm; envergadura de 104–131 cm; 2,2–7,6 kg",
+   "behaviour": "Los pollos viajan sobre el dorso de sus progenitores durante sus primeras semanas.",
+   "fieldMarks": [
+    "Plumaje nupcial: cabeza negra con brillo verde, ojo rojo y pico negro en forma de daga",
+    "Plumaje nupcial: collar listado de blanco y dorso ajedrezado blanco y negro",
+    "Invierno: pardo grisáceo por encima, garganta blanca y pico claro",
+    "Nada muy hundido en el agua; en vuelo muestra el dorso encorvado y las patas sobresaliendo tras la cola"
+   ],
+   "voice": "Un gemido inquietante, un trémolo tembloroso ('risa loca'), el reclamo modulado ascendente del macho y un ululato suave.",
+   "lookalikes": "El colimbo de Adams tiene el pico claro y curvado hacia arriba. El colimbo del Pacífico es más pequeño, con la nuca gris y la cabeza redondeada. El cormorán orejudo tiene el pico ganchudo y nada con la cabeza inclinada hacia arriba.",
+   "whereToSee": "Lagos de Minnesota (Boundary Waters), Maine, los Adirondacks y el Parque Algonquin de Ontario; costas atlánticas y pacíficas en invierno.",
+   "season": "En los lagos de cría, de abril a octubre; en las costas, de noviembre a abril",
+   "order": "Gaviiformes"
+  }
+ },
+ {
+  "scientific": "Charadrius melodus",
+  "common": "Chorlitejo silbador (chorlo melódico, chorlito chiflador)",
+  "summary": "Pequeño chorlitejo de color arena que nidifica en playas abiertas y orillas de lagos, donde sus huevos resultan casi invisibles. La urbanización de las playas y las molestias lo convirtieron en un emblema de la conservación de las aves limícolas, y hoy sus nidos se vallan y vigilan en toda su área de distribución.",
+  "nativeRange": "Cría en la costa atlántica, de Terranova a Carolina del Norte, alrededor de los Grandes Lagos y en el norte de las Grandes Llanuras; inverna en el sur de la costa atlántica y en la del golfo de México, las Bahamas, el Caribe y México",
+  "biomes": [
+   "Playas arenosas",
+   "Orillas de lagos",
+   "Humedales alcalinos",
+   "Bancos de arena fluviales"
+  ],
+  "abilities": [
+   "Huevos y pollos se camuflan sobre la arena clara",
+   "Los adultos fingen tener un ala rota para alejar a los depredadores de los nidos",
+   "Los pollos se alimentan por sí mismos a las pocas horas de eclosionar",
+   "Hace temblar una pata sobre la arena húmeda para sobresaltar a los invertebrados"
+  ],
+  "lore": "Dos chorlitejos silbadores de los Grandes Lagos, llamados Monty y Rose, nidificaron a partir de 2019 en Montrose Beach, en Chicago —los primeros en la ciudad en décadas—, y se convirtieron en celebridades locales.",
+  "funFact": "La población de los Grandes Lagos cayó a menos de 20 parejas en la década de 1980, antes de que una protección intensiva la ayudara a crecer de nuevo.",
+  "animal": {
+   "diet": "Gusanos marinos, insectos, pequeños crustáceos y moluscos",
+   "habitat": "Playas arenosas abiertas, bancos de arena y llanuras alcalinas con vegetación escasa",
+   "lifespan": "Hasta unos 11 años",
+   "size": "17–18 cm; 43–63 g",
+   "behaviour": "Corre en arrancadas cortas y se detiene en seco, como es típico de los chorlitos.",
+   "fieldMarks": [
+    "Partes superiores claras, color arena seca, más pálidas que las de cualquier otro chorlitejo anillado norteamericano",
+    "Patas de un naranja brillante",
+    "Plumaje nupcial: pico corto naranja con la punta negra, una sola banda pectoral negra y una barra negra en la frente",
+    "Invierno: pico enteramente oscuro; banda pectoral tenue o incompleta"
+   ],
+   "voice": "Un silbido suave y claro, 'pip-lo' o 'pip', como una nota de flauta.",
+   "lookalikes": "El chorlitejo semipalmeado tiene el dorso pardo oscuro, color barro. El chorlitejo patinegro (chorlo nevado) tiene las patas oscuras y el pico negro y fino. El chorlitejo piquigrueso (chorlo de Wilson) tiene el pico negro y robusto y las patas rosadas.",
+   "whereToSee": "Playas de Cape Cod y Long Island, Sleeping Bear Dunes (Míchigan), Montrose Beach en Chicago y, en invierno, las playas del golfo de México en Texas y Florida.",
+   "season": "En las áreas de cría, de abril a agosto; en las costas de invernada, de agosto a abril",
+   "order": "Charadriiformes"
+  }
+ },
+ {
+  "scientific": "Phoenicopterus ruber",
+  "common": "Flamenco americano (flamenco del Caribe)",
+  "summary": "El flamenco de colores más vivos, un ave de un rosa coral intenso que filtra camarones y algas en lagunas salobres con la cabeza boca abajo. Es el ave nacional de las Bahamas.",
+  "nativeRange": "El Caribe (Bahamas, Cuba, La Española, Bonaire), la península de Yucatán, la costa norte de Sudamérica y las Galápagos; cada vez más frecuente en Florida",
+  "biomes": [
+   "Lagunas salinas",
+   "Manglar",
+   "Llanuras fangosas",
+   "Salinas"
+  ],
+  "abilities": [
+   "Se alimenta por filtración con el pico acodado sostenido boca abajo, bombeando agua con la lengua a través de unas laminillas en forma de peine",
+   "Obtiene su color de los pigmentos carotenoides de las artemias y las algas",
+   "Se sostiene sobre una pata con poco o ningún esfuerzo muscular, gracias a un bloqueo pasivo de las articulaciones",
+   "Construye nidos en forma de montículo de barro en colonias densas"
+  ],
+  "lore": "La lámina a tamaño natural del flamenco americano de John James Audubon, con el ave doblada para que cupiera en la página, es una de las imágenes más conocidas de The Birds of America (1827–38); Mark Catesby lo había pintado un siglo antes en las Bahamas.",
+  "funFact": "Tras el huracán Idalia, en 2023, decenas de flamencos americanos fueron arrastrados hacia el norte y se vieron por toda Florida e incluso en Ohio y Wisconsin.",
+  "animal": {
+   "diet": "Artemias, pequeños moluscos, larvas de insectos, algas y semillas",
+   "habitat": "Lagunas salinas y salobres someras, salinas y estuarios",
+   "lifespan": "Más de 40 años",
+   "size": "120–145 cm; 2,2–2,8 kg",
+   "behaviour": "Las bandadas realizan exhibiciones sincronizadas de 'desfile' —sacudidas de cabeza y saludos con las alas— que estimulan la cría.",
+   "fieldMarks": [
+    "Cuerpo de un rosa anaranjado intenso, más vivo que el de otros flamencos",
+    "Pico rosa pálido con el tercio distal negro, marcadamente acodado hacia abajo",
+    "Patas y cuello rosas y muy largos",
+    "En vuelo, las plumas de vuelo negras contrastan con las coberteras alares de un rosa rojizo"
+   ],
+   "voice": "Graznidos como de ganso, emitidos constantemente en las bandadas.",
+   "lookalikes": "El flamenco común (Viejo Mundo) es de un rosa más pálido, con el pico rosa y menos negro. El flamenco austral (flamenco chileno) tiene las patas grises con las 'rodillas' rosas. La espátula rosada tiene el pico plano y el cuello corto.",
+   "whereToSee": "Parque Nacional de Inagua (Bahamas), Ría Celestún y Ría Lagartos (Yucatán), las salinas de Bonaire, las lagunas de las Galápagos; la bahía de Florida y los Everglades.",
+   "season": "Residente todo el año; en Yucatán, las bandadas son mayores de noviembre a marzo en Celestún",
+   "order": "Phoenicopteriformes"
+  }
+ },
+ {
+  "scientific": "Anodorhynchus hyacinthinus",
+  "common": "Guacamayo jacinto",
+  "summary": "El loro volador más largo, de alrededor de un metro del pico a la cola, de un intenso azul cobalto. Su pico parte nueces de palmera demasiado duras para casi cualquier otro animal, y en la década de 1980 fue objeto de una intensa captura para el comercio de mascotas.",
+  "nativeRange": "Pantanal de Brasil, Bolivia y Paraguay; el Cerrado del interior de Brasil; y partes de la Amazonia oriental (Pará)",
+  "biomes": [
+   "Sabana inundable estacionalmente (Pantanal)",
+   "Cerrado",
+   "Palmares",
+   "Bosque de galería"
+  ],
+  "abilities": [
+   "Parte nueces de palmera extremadamente duras, sobre todo de acurí (Attalea phalerata) y bocaiúva (Acrocomia aculeata)",
+   "Recoge nueces de palmera del estiércol del ganado, después de que las vacas hayan digerido la pulpa",
+   "Usa una 'lima' —crestas en el interior de la mandíbula superior— para sujetar las nueces mientras las parte",
+   "Depende de grandes cavidades en los árboles, sobre todo en el manduvi (Sterculia apetala), para nidificar"
+  ],
+  "lore": "En la década de 1980 se calcula que se extrajeron de la naturaleza unos 10.000 guacamayos jacinto para el comercio de mascotas; hoy figura en el Apéndice I de la CITES.",
+  "funFact": "En el Pantanal, alrededor del 90 % de sus nidos están en manduvis, y el tucán toco, que dispersa las semillas del manduvi, es también uno de los principales depredadores de sus huevos.",
+  "animal": {
+   "diet": "Casi exclusivamente nueces de palmera; algo de fruta",
+   "habitat": "Sabana abierta con palmeras y humedales arbolados con grandes árboles de nidificación",
+   "lifespan": "50 años o más en cautividad",
+   "size": "95–100 cm; 1,2–1,7 kg",
+   "behaviour": "Las cajas nido y los árboles de nidificación protegidos en el Pantanal, a través del Instituto Arara Azul dirigido por Neiva Guedes desde 1990, han ayudado a recuperar la población.",
+   "fieldMarks": [
+    "Plumaje enteramente azul cobalto",
+    "Anillo ocular amarillo brillante y media luna amarilla de piel desnuda en la base de la mandíbula inferior",
+    "Pico ganchudo enorme, gris oscuro casi negro",
+    "Cola muy larga y afilada"
+   ],
+   "voice": "Chillidos graves, ásperos y guturales, 'graaa-aah', audibles desde muy lejos.",
+   "lookalikes": "El guacamayo de Lear (solo en el noreste de Bahía) es más pequeño, con un matiz verdoso y una mancha facial amarilla más grande y pálida. El guacamayo glauco, más claro y grisáceo, probablemente está extinto.",
+   "whereToSee": "El Pantanal de Mato Grosso do Sul y Mato Grosso, p. ej., el Refúgio Ecológico Caiman y los albergues a lo largo de la Transpantaneira.",
+   "season": "Residente todo el año",
+   "order": "Psittaciformes"
+  }
+ },
+ {
+  "scientific": "Amazona vittata",
+  "common": "Amazona puertorriqueña (cotorra puertorriqueña, iguaca)",
+  "summary": "El único loro nativo superviviente de Puerto Rico, una amazona verde de frente roja que en 1975 quedó reducida a solo 13 aves silvestres. La cría en cautividad y las liberaciones la han mantenido con vida, aunque los huracanes han hecho retroceder una y otra vez a las bandadas silvestres.",
+  "nativeRange": "Endémica de Puerto Rico (antes también de Culebra y Vieques); poblaciones silvestres actuales en El Yunque, Río Abajo y Maricao",
+  "biomes": [
+   "Selva tropical montana",
+   "Bosque kárstico"
+  ],
+  "abilities": [
+   "Nidifica en cavidades naturales profundas de los árboles, sobre todo en viejos palos colorados",
+   "Emite fuertes reclamos de vuelo que mantienen en contacto a parejas y bandadas sobre el bosque",
+   "Se alimenta de más de 50 tipos de frutos, semillas y flores nativos"
+  ],
+  "lore": "Las expediciones de Colón encontraron abundantes loros en Puerto Rico, donde los taínos los llamaban iguaca; la deforestación redujo una población que se estimó en alrededor de un millón a un puñado de aves en la década de 1970.",
+  "funFact": "El huracán María, en 2017, acabó con la mayor parte de la bandada silvestre de El Yunque, pero las aves de la población de Río Abajo sobrevivieron en su mayoría.",
+  "animal": {
+   "diet": "Frutos, semillas, flores y hojas de árboles del bosque nativo",
+   "habitat": "Bosque húmedo de montaña y bosque kárstico calizo",
+   "size": "Unos 30 cm; 250–300 g",
+   "behaviour": "Las parejas permanecen juntas todo el año y vuelan una al lado de la otra, con las alas casi tocándose.",
+   "fieldMarks": [
+    "Plumaje verde brillante con escamado más oscuro",
+    "Estrecha banda roja que cruza la frente",
+    "Ancho anillo ocular blanco",
+    "Primarias de un azul vivo, visibles en vuelo"
+   ],
+   "voice": "Un graznido fuerte, como un toque de corneta; su nombre taíno, iguaca, imita el reclamo.",
+   "lookalikes": "La amazona de La Española (introducida y establecida en Puerto Rico) es más grande, con la frente blanca y una mancha granate en el vientre. En San Juan también hay loros de compañía escapados.",
+   "whereToSee": "Bosque Estatal de Río Abajo, cerca de Arecibo, y Bosque Nacional El Yunque; el aviario Iguaca y el aviario de Río Abajo gestionan programas de cría.",
+   "season": "Residente todo el año",
+   "order": "Psittaciformes"
+  }
+ },
+ {
+  "scientific": "Priotelus temnurus",
+  "common": "Tocororo (trogón cubano)",
+  "summary": "El ave nacional de Cuba, cuyo vientre rojo, pecho blanco y píleo azul evocan los colores de la bandera cubana. Su nombre, tocororo, imita su reclamo repetido.",
+  "nativeRange": "Endémico de Cuba, incluida la Isla de la Juventud",
+  "biomes": [
+   "Bosque tropical seco",
+   "Bosque montano",
+   "Pinar"
+  ],
+  "abilities": [
+   "Sale desde un posadero para arrancar fruta e insectos en vuelo cernido",
+   "Nidifica en viejos agujeros de pájaros carpinteros y en cavidades naturales",
+   "Insólito entre los trogones por las plumas de la cola escotadas y de borde irregular"
+  ],
+  "lore": "La tradición cubana sostiene que el tocororo no puede sobrevivir en una jaula, símbolo del amor de un pueblo por la libertad, lo que contribuyó a convertirlo en el ave nacional.",
+  "funFact": "Su nombre genérico Priotelus procede de las palabras griegas para 'sierra' y 'extremo', por las puntas dentadas de las plumas de la cola.",
+  "animal": {
+   "diet": "Flores, fruta e insectos",
+   "habitat": "Bosques sombríos de todo tipo, desde las tierras bajas hasta las montañas",
+   "size": "25–28 cm",
+   "behaviour": "Como otros trogones, permanece inmóvil durante largos periodos, por lo que es fácil pasarlo por alto hasta que canta.",
+   "fieldMarks": [
+    "Píleo azul violeta y dorso verde brillante",
+    "Garganta y pecho blancos; vientre rojo brillante",
+    "Cola larga con las puntas de las plumas escotadas y abiertas de forma única; moteado blanco por debajo",
+    "Alas barradas de blanco y negro"
+   ],
+   "voice": "Un 'to-co-ro, to-co-ro' hueco y repetido, y un 'cucuu' grave.",
+   "lookalikes": "En Cuba no vive ningún otro trogón; el trogón de La Española solo vive en La Española.",
+   "whereToSee": "Ciénaga de Zapata, Viñales, Topes de Collantes y la Sierra Maestra.",
+   "season": "Residente todo el año",
+   "order": "Trogoniformes"
+  }
+ },
+ {
+  "scientific": "Eumomota superciliosa",
+  "common": "Momoto cejiazul (torogoz, guardabarranco)",
+  "summary": "Momoto colorido de cola larga terminada en dos 'raquetas' de raquis desnudo que balancea como un péndulo. Es el ave nacional tanto de El Salvador como de Nicaragua.",
+  "nativeRange": "Sureste de México (incluida la península de Yucatán), por Guatemala, Belice, El Salvador, Honduras y Nicaragua, hasta el noroeste de Costa Rica",
+  "biomes": [
+   "Bosque tropical seco",
+   "Linde de bosque",
+   "Matorral",
+   "Tierras de cultivo"
+  ],
+  "abilities": [
+   "Las raquetas de la cola se forman cuando las barbas débilmente unidas cerca de las puntas se desprenden con el acicalamiento y el desgaste",
+   "Mueve la cola como un péndulo en una exhibición dirigida a los depredadores, señal de que los ha visto",
+   "Excava largos túneles de nidificación en taludes de tierra, canteras, pozos y ruinas mayas"
+  ],
+  "lore": "El torogoz de El Salvador y el guardabarranco de Nicaragua son esta misma especie; su cola de péndulo le valió en Yucatán el nombre de pájaro reloj.",
+  "funFact": "Emite una señal 'disuasoria de persecución': al menear la cola indica a los depredadores que han sido descubiertos y que perseguirlo es inútil.",
+  "animal": {
+   "diet": "Grandes insectos, arañas, lagartijas pequeñas y ranas; algo de fruta",
+   "habitat": "Bosque seco abierto, lindes, jardines, riberas y cenotes",
+   "size": "Unos 34 cm con la cola; 65 g",
+   "behaviour": "A menudo nidifica en colonias en las paredes de los cenotes y dolinas calizas de Yucatán.",
+   "fieldMarks": [
+    "Cola larga con raquis desnudos que terminan en raquetas azules y negras",
+    "Ceja de un turquesa brillante sobre un antifaz negro",
+    "Lista negra en la garganta bordeada de turquesa",
+    "Dorso y vientre rufos; alas verde azuladas"
+   ],
+   "voice": "Un graznido grave, hueco y croante, 'kuaa' o 'couac', a menudo al amanecer.",
+   "lookalikes": "El momoto de Lesson tiene un anillo azul alrededor del capirote negro y el cuerpo verde. El momoto coronicastaño tiene el píleo rufo.",
+   "whereToSee": "Cenotes y sitios mayas de Yucatán como Ek Balam y Cobá, Guanacaste (Costa Rica) y los bosques secos de El Salvador y Nicaragua.",
+   "season": "Residente todo el año",
+   "order": "Coraciiformes"
+  }
+ },
+ {
+  "scientific": "Meleagris gallopavo",
+  "common": "Pavo salvaje (guajolote norteño)",
+  "summary": "La mayor ave de caza de Norteamérica y el antepasado silvestre del pavo doméstico, domesticado por primera vez en Mesoamérica hace más de 2.000 años. Cazado casi hasta la extinción a principios del siglo XX, hoy sus efectivos se cuentan por millones.",
+  "nativeRange": "Gran parte de Estados Unidos, el sur de Canadá y el norte de México; introducido en otros lugares, como Hawái y Nueva Zelanda",
+  "biomes": [
+   "Bosque caducifolio",
+   "Bosque abierto",
+   "Tierras de cultivo",
+   "Linde de pastizal"
+  ],
+  "abilities": [
+   "Fue domesticado de forma independiente en Mesoamérica y por los ancestrales pueblos indígenas Pueblo del suroeste de EE. UU.",
+   "Puede alzar el vuelo de golpe y por la noche duerme en lo alto de los árboles",
+   "Los machos emiten su característico gorgoteo ('gluglú') para atraer a las hembras; los reclamos se oyen a más de un kilómetro",
+   "La cabeza y el cuello desnudos cambian de color, del rojo al blanco y el azul, con la excitación"
+  ],
+  "lore": "En una carta de 1784 a su hija, Benjamin Franklin llamó al pigargo americano 'a Bird of bad moral Character' (un ave de mala catadura moral) y al pavo 'a much more respectable Bird' (un ave mucho más respetable); para los mexicas, los guajolotes eran importantes animales rituales y alimenticios, asociados al dios Tezcatlipoca en su advocación de Chalchiuhtotolin.",
+  "funFact": "Los europeos lo llamaron en inglés 'turkey' porque lo confundían con las pintadas (gallinas de Guinea) importadas a través de territorios turcos.",
+  "animal": {
+   "diet": "Bellotas, frutos secos, semillas, bayas, insectos y pequeños reptiles",
+   "habitat": "Bosque mixto con claros, robledales, bordes de cultivos y, cada vez más, zonas residenciales",
+   "lifespan": "Normalmente 3–5 años en libertad; récords de más de 13",
+   "size": "Machos de 100–125 cm y 5–11 kg; hembras mucho más pequeñas",
+   "behaviour": "En primavera, los machos se pavonean con la cola en abanico, las alas arrastrando y las plumas ahuecadas.",
+   "fieldMarks": [
+    "Muy grande, de plumaje oscuro e iridiscente, verde bronceado",
+    "Cabeza desnuda azul y roja, con un apéndice carnoso (moco) sobre el pico y carúnculas en la garganta",
+    "Los machos llevan una 'barba' de aspecto piloso en el pecho y espolones en las patas",
+    "Cola con la punta rojiza o ante (varía según la subespecie), desplegada en abanico durante la exhibición"
+   ],
+   "voice": "El gorgoteo ondulante de los machos; también gañidos, cloqueos, ronroneos y un 'put' seco de alarma.",
+   "lookalikes": "El guajolote ocelado (Yucatán) tiene la cabeza azul con protuberancias naranjas y ocelos en la cola. Los pavos domésticos suelen ser blancos o manchados y más pesados.",
+   "whereToSee": "Bosques abiertos y bordes de campos en todo el este de EE. UU.; a menudo se ve en zonas residenciales y a lo largo de carreteras rurales.",
+   "season": "Residente todo el año; el gorgoteo alcanza su máximo de marzo a mayo",
+   "order": "Galliformes"
+  }
+ },
+ {
+  "scientific": "Rhea americana",
+  "common": "Ñandú común (ñandú grande, ema)",
+  "summary": "La mayor ave de las Américas, una rátida no voladora de las pampas y sabanas de Sudamérica. Solo los machos construyen el nido, incuban los huevos puestos por varias hembras y defienden ferozmente a los pollos.",
+  "nativeRange": "Este y centro de Sudamérica: Brasil, Bolivia, Paraguay, Uruguay y Argentina; en el norte de Alemania existe una población asilvestrada que desciende de aves escapadas",
+  "biomes": [
+   "Pastizal pampeano",
+   "Sabana (Cerrado)",
+   "Matorral chaqueño",
+   "Tierras de cultivo"
+  ],
+  "abilities": [
+   "Corre a hasta unos 60 km/h y usa las alas como timones para zigzaguear",
+   "El nido de un solo macho puede contener decenas de huevos puestos por varias hembras",
+   "Los machos defienden a los pollos con agresividad y embisten a personas y caballos",
+   "Come plantas tóxicas o poco apetecibles para muchos herbívoros"
+  ],
+  "lore": "Los guaraníes y otros pueblos indígenas de Brasil ven en el cielo una constelación del ñandú (Ema) cerca de la Cruz del Sur; los gauchos lo cazaban a caballo con boleadoras.",
+  "funFact": "Su nombre genérico, Rhea, procede de la madre de los dioses en la mitología griega.",
+  "animal": {
+   "diet": "Plantas de hoja ancha, semillas, fruta, insectos y pequeños vertebrados",
+   "habitat": "Pastizal abierto, sabana y tierras de cultivo",
+   "lifespan": "Unos 10–15 años en libertad; más en cautividad",
+   "size": "Hasta unos 1,5 m de altura; 20–40 kg",
+   "behaviour": "Fuera de la época de cría, los ñandúes forman bandadas de 10 a 100 individuos, a menudo junto a ciervos, guanacos o ganado.",
+   "fieldMarks": [
+    "Ave muy grande, no voladora, de color pardo grisáceo y cuello largo",
+    "Plumaje negro en la base del cuello y la parte alta del dorso en los machos",
+    "Tres dedos dirigidos hacia delante",
+    "Alas desgreñadas y caídas que cubren el cuerpo"
+   ],
+   "voice": "Los machos reproductores emiten un 'nan-dú' grave y retumbante.",
+   "lookalikes": "El ñandú de Darwin (choique, suri), de la Patagonia y los Andes altos, es más pequeño y está moteado de blanco. En Sudamérica no hay otras aves grandes no voladoras.",
+   "whereToSee": "La Pampa de Argentina y Uruguay, el Parque Nacional das Emas y el Pantanal (Brasil), y el Chaco paraguayo.",
+   "season": "Residente todo el año",
+   "order": "Rheiformes"
+  }
+ }
+]

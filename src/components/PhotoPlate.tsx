@@ -2,13 +2,15 @@
 
 import { useState } from "react";
 import type { Photo } from "@/lib/types";
+import { useT } from "@/i18n/LangProvider";
 
 export default function PhotoPlate({ photos, alt, nl }: { photos: Photo[]; alt: string; nl?: string }) {
+  const t = useT().widgets;
   const [i, setI] = useState(0);
   if (!photos.length)
     return (
       <div className="mount aspect-[4/5] flex items-center justify-center">
-        <span className="label text-ink-2">No photograph on file</span>
+        <span className="label text-ink-2">{t.noPhoto}</span>
       </div>
     );
   const p = photos[i];
@@ -22,7 +24,7 @@ export default function PhotoPlate({ photos, alt, nl }: { photos: Photo[]; alt: 
         )}
       </div>
       <figcaption className="mt-3 text-xs text-ink-2 leading-snug">
-        Plate {i + 1} of {photos.length}. {p.attribution} · via {p.source}
+        {t.plateOf(i + 1, photos.length)} {p.attribution} · {t.via} {p.source}
       </figcaption>
       {photos.length > 1 && (
         <div className="mt-3 grid grid-cols-6 gap-1.5">
@@ -30,7 +32,7 @@ export default function PhotoPlate({ photos, alt, nl }: { photos: Photo[]; alt: 
             <button
               key={ph.url}
               onClick={() => setI(k)}
-              aria-label={`Photograph ${k + 1}`}
+              aria-label={t.photograph(k + 1)}
               className={`aspect-square overflow-hidden border ${k === i ? "border-ink" : "border-transparent opacity-70 hover:opacity-100"}`}
             >
               {/* eslint-disable-next-line @next/next/no-img-element */}

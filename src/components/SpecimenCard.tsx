@@ -1,13 +1,18 @@
+"use client";
+
 import Link from "next/link";
-import type { Entry } from "@/lib/types";
-import { EDIBILITY } from "@/lib/shelves";
+import { useLang } from "@/i18n/LangProvider";
+import { lp } from "@/i18n/config";
+import type { CardData } from "@/lib/cards";
+import { EDIBILITY, edibilityLabel } from "@/lib/shelves";
 
 /** A codex entry as a small mounted specimen: photo, accession number, names. */
-export default function SpecimenCard({ e, small = false }: { e: Entry; small?: boolean }) {
-  const img = e.photos?.[0]?.medium ?? e.photos?.[0]?.url ?? e.plates?.[0]?.img;
+export default function SpecimenCard({ e, small = false }: { e: CardData; small?: boolean }) {
+  const lang = useLang();
+  const img = e.img;
   const ed = e.edibility ? EDIBILITY[e.edibility] : undefined;
   return (
-    <Link href={`/species/${e.slug}`} className="group block">
+    <Link href={lp(lang, `/species/${e.slug}`)} className="group block">
       <div className="relative bg-card p-2 border rule group-hover:border-ink transition-colors">
         <div className={`overflow-hidden bg-paper-3 ${small ? "aspect-square" : "aspect-[4/5]"}`}>
           {img && (
@@ -22,7 +27,7 @@ export default function SpecimenCard({ e, small = false }: { e: Entry; small?: b
         </div>
         {!small && ed && ed.step >= 3 && (
           <span className="absolute top-4 left-4 stamp bg-card/90" style={{ color: ed.tone }}>
-            {ed.label}
+            {edibilityLabel(lang, e.edibility!)}
           </span>
         )}
       </div>

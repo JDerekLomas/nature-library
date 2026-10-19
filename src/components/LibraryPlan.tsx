@@ -4,6 +4,8 @@ import { useState } from "react";
 import Link from "next/link";
 import { arc as d3arc } from "d3-shape";
 import Globe from "./Globe";
+import { useLang, useT } from "@/i18n/LangProvider";
+import { lp } from "@/i18n/config";
 
 export interface Room {
   href: string;
@@ -23,6 +25,10 @@ const r2 = (v: number) => Math.round(v * 100) / 100;
 /** The library drawn as an engraved floor plan: a domed reading room (the Atlas) ringed by rooms. */
 export default function LibraryPlan({ rooms }: { rooms: Room[] }) {
   const [active, setActive] = useState<number | null>(null);
+  const lang = useLang();
+  const T = useT();
+  const t = T.home.plan;
+  const tc = T.common;
   const n = rooms.length;
   const gap = 0.035; // radians of wall between rooms
   // the entrance sits at the bottom: leave a gap in the ring there
@@ -40,7 +46,7 @@ export default function LibraryPlan({ rooms }: { rooms: Room[] }) {
     <div className="grid lg:grid-cols-[minmax(0,1fr)_380px] gap-10 items-center">
       {/* the plan */}
       <div className="relative w-full max-w-[760px] mx-auto hidden sm:block">
-        <svg viewBox="0 0 1000 1000" className="w-full h-auto" role="img" aria-label="Floor plan of the Nature Library">
+        <svg viewBox="0 0 1000 1000" className="w-full h-auto" role="img" aria-label={t.aria}>
           <defs>
             <pattern id="hatch" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
               <line x1="0" y1="0" x2="0" y2="7" stroke="#1b1d16" strokeWidth="1.1" />
@@ -95,18 +101,18 @@ export default function LibraryPlan({ rooms }: { rooms: Room[] }) {
               <line key={k} x1={-46 + k * 4} x2={46 - k * 4} y1={R_WALL + 6 + k * 9} y2={R_WALL + 6 + k * 9} stroke="#1b1d16" strokeWidth="1.2" />
             ))}
             <text y={R_WALL + 60} textAnchor="middle" style={{ font: "12px var(--font-plex-mono), monospace", letterSpacing: "0.22em" }} fill="#45463a">
-              ENTRANCE · SEARCH ANY LIVING THING
+              {t.entrance}
             </text>
             <text y={-R_IN + 34} textAnchor="middle" style={{ font: "12px var(--font-plex-mono), monospace", letterSpacing: "0.2em" }} fill="#45463a">
-              THE READING ROOM
+              {t.readingRoom}
             </text>
             <text y={R_IN - 24} textAnchor="middle" style={{ font: "italic 20px var(--font-fell), serif" }} fill="#2e4a32">
-              The Atlas of Life
+              {t.atlas}
             </text>
           </g>
         </svg>
         {/* the live globe under the dome */}
-        <Link href="/atlas" className="absolute" style={{ left: "35.5%", top: "35.5%", width: "29%", height: "29%" }} aria-label="The Atlas of Life" onMouseEnter={() => setActive(null)}>
+        <Link href={lp(lang, "/atlas")} className="absolute" style={{ left: "35.5%", top: "35.5%", width: "29%", height: "29%" }} aria-label={t.atlas} onMouseEnter={() => setActive(null)}>
           <Globe gbif="" step={2} ring={false} initial={[60, 15]} />
         </Link>
       </div>
@@ -116,7 +122,7 @@ export default function LibraryPlan({ rooms }: { rooms: Room[] }) {
         <div className="hidden sm:block min-h-[330px]">
           {room ? (
             <div key={room.href} className="fade-up">
-              <p className="label text-rust">Room {room.numeral}</p>
+              <p className="label text-rust">{t.room} {room.numeral}</p>
               <p className="font-display text-[2.6rem] leading-none mt-1">{room.name}</p>
               <p className="label text-ink-2 mt-2">{room.count}</p>
               <p className="mt-4 leading-relaxed text-ink-2">{room.blurb}</p>
@@ -129,24 +135,24 @@ export default function LibraryPlan({ rooms }: { rooms: Room[] }) {
                 </div>
               )}
               <Link href={room.href} className="inline-block mt-5 label text-moss hover:text-rust">
-                Enter the room →
+                {tc.enterRoom}
               </Link>
             </div>
           ) : (
             <div>
-              <p className="label text-ink-2">A plan of the library</p>
-              <p className="font-display text-[2.4rem] leading-[1.05] mt-2">Eleven rooms around a reading room with the whole planet in it.</p>
-              <p className="mt-4 text-ink-2 leading-relaxed">Hover over a room to see what it holds, and click to walk in. The globe at the centre is the Atlas: tap it to find what lives anywhere on Earth.</p>
+              <p className="label text-ink-2">{t.introKicker}</p>
+              <p className="font-display text-[2.4rem] leading-[1.05] mt-2">{t.introTitle}</p>
+              <p className="mt-4 text-ink-2 leading-relaxed">{t.introText}</p>
             </div>
           )}
         </div>
         <ul className="sm:hidden divide-y divide-[var(--rule)] border-y rule">
           <li>
-            <Link href="/atlas" className="flex gap-4 py-4">
+            <Link href={lp(lang, "/atlas")} className="flex gap-4 py-4">
               <span className="font-mono text-xs text-rust w-8 pt-1">0</span>
               <span>
-                <span className="block font-display text-2xl leading-tight">The Atlas of Life</span>
-                <span className="block text-sm text-ink-2">The reading room: what lives anywhere on Earth</span>
+                <span className="block font-display text-2xl leading-tight">{t.atlas}</span>
+                <span className="block text-sm text-ink-2">{t.atlasMobile}</span>
               </span>
             </Link>
           </li>

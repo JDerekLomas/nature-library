@@ -1,0 +1,1626 @@
+[
+ {
+  "scientific": "Thunnus thynnus",
+  "common": "Atún rojo del Atlántico",
+  "summary": "El mayor de los atunes, un torpedo de sangre caliente que puede superar los 600 kg y cruzar el Atlántico en cuestión de meses. Su circulación conservadora del calor le permite cazar en aguas frías del norte, y la carne grasa de su vientre lo ha convertido en uno de los peces más valiosos del planeta.",
+  "nativeRange": "Atlántico norte, desde el golfo de México y las islas Canarias hasta Terranova y Noruega; mar Mediterráneo",
+  "biomes": [
+   "Mar abierto (pelágico)",
+   "Plataforma continental"
+  ],
+  "abilities": [
+   "Endotermia regional: un intercambiador de calor a contracorriente (rete mirabile) mantiene los músculos, los ojos y el cerebro muy por encima de la temperatura del agua",
+   "Cruza el Atlántico entre las zonas de alimentación occidentales y orientales, un viaje que, según las marcas electrónicas, puede durar solo unos meses",
+   "Se sumerge a más de 1000 m y tolera aguas de entre unos 3 °C y 30 °C",
+   "Repliega las aletas en surcos para reducir la resistencia a gran velocidad"
+  ],
+  "edibleParts": [
+   "carne (sashimi, sushi, filetes)",
+   "ventresca grasa (toro)"
+  ],
+  "edibilityNote": "Muy apreciado crudo. Como depredador grande y longevo, acumula metilmercurio; se recomienda a las embarazadas y a los niños pequeños que limiten su consumo o lo eviten. El atún mal refrigerado puede causar intoxicación escombroide (por histamina).",
+  "lore": "Fenicios y romanos explotaron almadrabas en Gibraltar y Sicilia; la almadraba andaluza de Cádiz sigue en funcionamiento, y Aristóteles describió el paso estacional de este pez por el Bósforo.",
+  "funFact": "A la intensa sobrepesca de las décadas de 1990 y 2000, sobre todo en el Atlántico oriental y el Mediterráneo, le siguió un estricto plan de recuperación de la CICAA desde 2007; la población oriental se recuperó y en 2021 la UICN pasó la especie de En peligro a Preocupación menor, aunque la población occidental (golfo de México), más pequeña, sigue mermada.",
+  "animal": {
+   "diet": "Arenques, caballas, sardinas, calamares, lanzones y crustáceos",
+   "habitat": "Mar abierto epipelágico y aguas de plataforma; desova en aguas cálidas y estratificadas del golfo de México y el Mediterráneo",
+   "lifespan": "Hasta unos 40 años",
+   "size": "Habitualmente 2 m y 250 kg; récord de unos 3,3 m y 680 kg",
+   "behaviour": "Forma cardúmenes por tamaños y realiza migraciones estacionales de miles de kilómetros entre frías zonas de alimentación y mares cálidos de desove, regresando fielmente al mar donde nació.",
+   "fieldMarks": [
+    "Cuerpo macizo, alto y fusiforme, más alto cerca de la primera aleta dorsal",
+    "Aletas pectorales cortas que no llegan a la segunda dorsal",
+    "Dorso azul oscuro casi negro y vientre blanco plateado con manchas y barras claras",
+    "Hilera de pínulas amarillas ribeteadas de negro detrás de las aletas dorsal y anal",
+    "Fuerte quilla lateral en el pedúnculo caudal"
+   ],
+   "lookalikes": "El atún rojo del Pacífico (T. orientalis) es casi idéntico, pero vive en el Pacífico. El rabil tiene la segunda dorsal y la anal largas y amarillas y un cuerpo más esbelto; el patudo tiene pectorales más largas que alcanzan la segunda dorsal.",
+   "whereToSee": "Estrecho de Gibraltar (almadrabas históricas), golfo de San Lorenzo e isla del Príncipe Eduardo, Noruega y Escocia a finales del verano, islas Baleares",
+   "season": "Zonas de alimentación del Atlántico norte, jul–oct; desove en el Mediterráneo, may–jul",
+   "order": "Scombriformes"
+  }
+ },
+ {
+  "scientific": "Thunnus albacares",
+  "common": "Rabil (atún de aleta amarilla)",
+  "summary": "Un atún tropical rápido y estilizado que debe su nombre a sus aletas doradas en forma de hoz. Es uno de los atunes más pescados y abastece buena parte del atún en conserva y del 'ahi' para sashimi del mundo.",
+  "nativeRange": "Mares tropicales y subtropicales de todo el mundo, excepto el Mediterráneo",
+  "biomes": [
+   "Mar abierto (pelágico)"
+  ],
+  "abilities": [
+   "Capaz de rápidos arranques de velocidad para perseguir a sus presas",
+   "De sangre parcialmente caliente, aunque menos que el atún rojo",
+   "En el Pacífico tropical oriental nada en cardúmenes junto a delfines, un vínculo que antes aprovechaban los cerqueros",
+   "Se congrega en enormes cantidades bajo objetos flotantes y dispositivos de concentración de peces"
+  ],
+  "edibleParts": [
+   "carne (sashimi, poke, filetes, conserva)"
+  ],
+  "edibilityNote": "Contiene niveles moderados de metilmercurio, más que el listado pero en general menos que el atún rojo o el patudo; las embarazadas deben moderar su consumo. Una mala refrigeración provoca intoxicación escombroide.",
+  "lore": "En Hawái el 'ahi' se come crudo en poke desde hace mucho tiempo; la etiqueta estadounidense 'dolphin-safe' (sin riesgo para los delfines) de 1990 nació de las pesquerías de cerco de rabil que atrapaban delfines.",
+  "funFact": "Su nombre específico procede del portugués albacora; esa misma palabra dio el inglés 'albacore', que hoy designa a otro atún, el atún blanco.",
+  "animal": {
+   "diet": "Peces voladores, calamares, pequeños túnidos y crustáceos",
+   "habitat": "Aguas superficiales cálidas por encima de la termoclina, sobre todo en los 100 m superiores",
+   "lifespan": "Unos 7–9 años",
+   "size": "Habitualmente 1,5 m; hasta unos 2,4 m y 200 kg",
+   "behaviour": "Forma grandes cardúmenes mixtos por tamaños con listados y delfines, y empuja a los peces pasto hacia la superficie en frenéticos episodios de alimentación.",
+   "fieldMarks": [
+    "Segunda dorsal y anal muy largas, en forma de guadaña, en los adultos grandes",
+    "Pínulas de color amarillo vivo y una franja lateral dorada",
+    "Aletas pectorales largas que alcanzan la segunda dorsal",
+    "Vientre con líneas verticales discontinuas alternadas con puntos"
+   ],
+   "lookalikes": "El patudo tiene el ojo más grande, el cuerpo más rechoncho y la segunda dorsal y la anal más cortas; el atún rojo tiene pectorales cortas. Los rabiles y patudos jóvenes son muy difíciles de distinguir.",
+   "whereToSee": "Pesca deportiva de altura en Hawái, las islas Revillagigedo (México), las Maldivas y las plataformas petrolíferas del golfo de México",
+   "season": "Todo el año en los trópicos",
+   "order": "Scombriformes"
+  }
+ },
+ {
+  "scientific": "Xiphias gladius",
+  "common": "Pez espada",
+  "summary": "Una 'espada' aplanada y un órgano calefactor especial que le calienta los ojos y el cerebro hacen del pez espada un cazador nocturno de las profundidades. Los adultos pierden por completo los dientes y las escamas.",
+  "nativeRange": "Océanos tropicales y templados de todo el mundo, incluido el Mediterráneo",
+  "biomes": [
+   "Mar abierto (pelágico)",
+   "Zona mesopelágica (zona crepuscular)"
+  ],
+  "abilities": [
+   "Un tejido calefactor pardo derivado de un músculo ocular calienta los ojos y el cerebro hasta 10–15 °C por encima del agua circundante",
+   "Los ojos calientes mejoran la resolución temporal para detectar presas rápidas en aguas frías y oscuras",
+   "Desciende a diario a 500 m o más: caza en profundidad de día y más cerca de la superficie de noche",
+   "Golpea a sus presas con la espada plana en lugar de ensartarlas"
+  ],
+  "edibleParts": [
+   "carne (rodajas)"
+  ],
+  "edibilityNote": "Uno de los peces comerciales con más mercurio; la FDA de EE. UU. aconseja que las embarazadas y los niños pequeños no lo coman.",
+  "lore": "Plinio el Viejo describió peces espada que perforaban barcos, y la caza con arpón en el estrecho de Mesina desde las embarcaciones de mástil alto llamadas 'passerelle' continúa una tradición que se remonta a la Antigüedad.",
+  "funFact": "Se han hallado espadas de pez espada clavadas en cascos de madera de barcos, y una quedó encajada en el sumergible de investigación Alvin en 1967.",
+  "animal": {
+   "diet": "Calamares, caballas, merluzas y otros peces pelágicos y de aguas profundas",
+   "habitat": "Mar abierto, desde la superficie hasta unos 550 m y más",
+   "size": "Habitualmente 3 m; récord de unos 4,5 m y 650 kg",
+   "behaviour": "Cazador solitario que a veces se asolea en la superficie con la aleta dorsal y el lóbulo superior de la cola fuera del agua.",
+   "fieldMarks": [
+    "Espada larga y plana de aproximadamente un tercio de la longitud del cuerpo",
+    "Sin aletas pélvicas y, en los adultos, sin escamas ni dientes",
+    "Primera dorsal alta, rígida y en forma de media luna, que no se pliega",
+    "Una única quilla grande a cada lado de la base de la cola",
+    "Dorso bronce oscuro purpúreo, más claro por debajo"
+   ],
+   "lookalikes": "Los marlines y el pez vela tienen un pico redondo, en forma de lanza, escamas, aletas pélvicas y una dorsal de base larga; la espada del pez espada es plana y ancha.",
+   "whereToSee": "Estrecho de Mesina (pesquería tradicional con arpón), pesca nocturna en el estrecho de Florida, aguas de altura de Chile y California",
+   "season": "Todo el año; migraciones estacionales de alimentación hacia aguas templadas en verano",
+   "order": "Carangiformes"
+  }
+ },
+ {
+  "scientific": "Istiophorus platypterus",
+  "common": "Pez vela",
+  "summary": "Un pez de pico con una altísima aleta dorsal en forma de vela, que despliega mientras el grupo arrea a las sardinas en bolas compactas. Los peces vela del Atlántico y del Indopacífico se consideran hoy una sola especie.",
+  "nativeRange": "Aguas tropicales y subtropicales de los océanos Atlántico, Índico y Pacífico",
+  "biomes": [
+   "Mar abierto (pelágico)",
+   "Aguas costeras"
+  ],
+  "abilities": [
+   "Despliega la vela y hace destellar bandas de color mientras caza en grupo",
+   "Cambia de color rápidamente y se ilumina con barras azules cuando está excitado",
+   "Los cazadores se turnan para lanzar golpes de pico contra las bolas de cebo, hiriendo y desprendiendo sardinas",
+   "A menudo se le llama el pez más rápido, aunque las cifras de más de 100 km/h son discutidas y los arranques medidos son mucho menores"
+  ],
+  "lore": "Los pescadores deportivos de Stuart (Florida) convirtieron el pez vela en símbolo de la pesca sin muerte en el siglo XX; es el pez de agua salada oficial del estado de Florida.",
+  "funFact": "El pico lleva diminutos dentículos parecidos a dientes que se desgastan por los golpes repetidos, y las sardinas heridas rara vez quedan ensartadas.",
+  "animal": {
+   "diet": "Sardinas, anchoas, caballas y calamares",
+   "habitat": "Aguas superficiales cálidas por encima de la termoclina, a menudo cerca de costas e islas",
+   "size": "Hasta unos 3,4 m y 100 kg; la mayoría mide menos de 2,7 m",
+   "behaviour": "El grupo rodea un cardumen de sardinas, despliega las velas para compactarlo y luego se turna para golpear con el pico, de modo que el ataque de cada pez es breve.",
+   "fieldMarks": [
+    "Enorme primera dorsal en forma de vela, más alta que la altura del cuerpo, azul oscuro con manchas negras",
+    "Pico largo, redondo y delgado",
+    "Aletas pélvicas muy largas y estrechas",
+    "Dorso azul oscuro y flancos plateados con hileras de manchas o barras azul claro"
+   ],
+   "lookalikes": "Los marlines y los marlines de pico corto (Tetrapturus) tienen una dorsal mucho más baja; el pez espada tiene la espada plana y carece de aletas pélvicas.",
+   "whereToSee": "Isla Mujeres, México (bolas de sardinas), Stuart, Florida ('capital mundial del pez vela'), costa pacífica de Guatemala",
+   "season": "Isla Mujeres, ene–mar; Florida, en invierno",
+   "order": "Carangiformes"
+  }
+ },
+ {
+  "scientific": "Gadus morhua",
+  "common": "Bacalao del Atlántico",
+  "summary": "El pez que alimentó imperios: el bacalao seco y salado llevó a marineros vikingos y vascos a través de los océanos. El colapso de la población de los Grandes Bancos en 1992 se convirtió en el ejemplo clásico de los peligros de la sobrepesca industrial.",
+  "nativeRange": "Atlántico norte, desde el cabo Hatteras hasta Groenlandia y desde el golfo de Vizcaya hasta el mar de Barents",
+  "biomes": [
+   "Plataforma continental",
+   "Mares templados fríos"
+  ],
+  "abilities": [
+   "Una hembra grande puede liberar varios millones de huevos en una temporada",
+   "Algunas poblaciones de aguas frías producen glucoproteínas anticongelantes",
+   "La barbilla del mentón y las aletas pélvicas tienen papilas gustativas con las que localiza presas enterradas",
+   "Emite gruñidos con los músculos de la vejiga natatoria durante el desove"
+  ],
+  "edibleParts": [
+   "carne (fresca, salada, secada como stockfish)",
+   "hígado (aceite de hígado de bacalao)",
+   "huevas",
+   "lenguas y cocochas"
+  ],
+  "edibilityNote": "Bajo en mercurio. Puede portar parásitos anisákidos (gusano del bacalao), que mueren con una cocción completa o con la congelación. El aceite de hígado de bacalao es muy rico en vitamina A, por lo que su exceso puede ser perjudicial.",
+  "lore": "El stockfish nórdico secado en los secaderos de Lofoten se comercia con Europa desde la época vikinga, y hacia el siglo XVI flotas vascas y de otros países europeos ya pescaban bacalao para salar en Terranova; Massachusetts tiene colgado en su capitolio un 'Bacalao Sagrado' tallado.",
+  "funFact": "La categoría global de la UICN (Vulnerable) aún se basa en una evaluación de 1996; el bacalao europeo fue reevaluado como de Preocupación menor a escala regional, mientras que el bacalao del norte de Terranova nunca se ha recuperado del todo.",
+  "animal": {
+   "diet": "Crustáceos, lanzones, arenques, capelanes y bacalaos más pequeños",
+   "habitat": "Aguas frías de plataforma, desde la orilla hasta unos 600 m, cerca del fondo",
+   "lifespan": "Hasta unos 25 años",
+   "size": "Habitualmente hasta 1 m; récord histórico de unos 2 m y 96 kg",
+   "behaviour": "El bacalao 'skrei' del Ártico nororiental migra cada invierno desde el mar de Barents para desovar frente a las islas Lofoten.",
+   "fieldMarks": [
+    "Tres aletas dorsales y dos anales",
+    "Una sola barbilla larga en el mentón",
+    "Línea lateral clara y curvada sobre flancos jaspeados de pardo verdoso a rojizo",
+    "La mandíbula superior sobresale de la inferior",
+    "Cola recta o ligeramente cóncava"
+   ],
+   "lookalikes": "El eglefino tiene la línea lateral negra y una mancha oscura como una huella dactilar sobre la pectoral; el carbonero tiene una línea lateral clara y recta y la mandíbula inferior prominente.",
+   "whereToSee": "Islas Lofoten, Noruega (skrei en desove); costas del golfo de Maine y Terranova; mar del Norte y Báltico",
+   "season": "Residente; concentraciones de desove en Lofoten, feb–abr",
+   "order": "Gadiformes"
+  }
+ },
+ {
+  "scientific": "Clupea harengus",
+  "common": "Arenque del Atlántico",
+  "summary": "Uno de los peces más abundantes del mundo, que nada en cardúmenes de cientos de millones de individuos. El arenque sostuvo a la Liga Hanseática y al Siglo de Oro neerlandés, y todavía alimenta a ballenas, aves marinas, bacalaos y personas.",
+  "nativeRange": "Atlántico norte, desde el golfo de Vizcaya hasta Svalbard y desde el cabo Hatteras hasta Groenlandia; mar Báltico",
+  "biomes": [
+   "Plataforma continental",
+   "Aguas costeras",
+   "Mar abierto (pelágico)"
+  ],
+  "abilities": [
+   "Forma algunos de los mayores cardúmenes de peces del planeta",
+   "Se alimenta por filtración y también captura zooplancton de forma individual",
+   "Expulsa por el ano burbujas que producen sonidos de 'tictac rápido y repetitivo', quizá para mantener unido el cardumen de noche",
+   "Las distintas poblaciones desovan en casi todas las estaciones"
+  ],
+  "edibleParts": [
+   "carne (en escabeche, salada, ahumada como kipper, fermentada como surströmming)",
+   "huevas"
+  ],
+  "edibilityNote": "Bajo en mercurio y rico en aceites omega-3. El arenque crudo o ligeramente curado puede portar larvas de Anisakis; congelarlo antes de curarlo (como se exige para el 'maatjes' neerlandés) las mata. El arenque del Báltico puede tener niveles altos de dioxinas, y las agencias alimentarias nórdicas recomiendan limitar su consumo.",
+  "lore": "La tradición neerlandesa atribuye a Willem Beukelszoon el eviscerado parcial ('kaken') del arenque en el siglo XIV, un método de conservación que contribuyó a enriquecer Holanda; los escandinavos llamaban a los bancos 'plata del mar'.",
+  "funFact": "El descubrimiento de que los arenques se comunican con burbujas expulsadas por el ano ganó un Premio Ig Nobel de Biología en 2004.",
+  "animal": {
+   "diet": "Copépodos, kril y larvas de peces",
+   "habitat": "Aguas abiertas de plataforma; desova sobre bancos de grava y algas",
+   "lifespan": "Hasta unos 20 años",
+   "size": "Normalmente 25–30 cm; hasta 45 cm",
+   "behaviour": "Migra en enormes cardúmenes entre zonas de alimentación, invernada y desove; sus huevos son pegajosos y se depositan formando alfombras sobre el fondo marino.",
+   "fieldMarks": [
+    "Cuerpo esbelto y plateado con dorso azul verdoso",
+    "Una sola aleta dorsal situada en el punto medio del cuerpo",
+    "Quilla ventral con escudetes no muy aserrados",
+    "Escamas sueltas que se desprenden con facilidad",
+    "Opérculo sin crestas radiales"
+   ],
+   "lookalikes": "El espadín es más pequeño, con una quilla ventral muy aserrada y aletas pélvicas que nacen por delante de la dorsal; los sábalos tienen una escotadura en la mandíbula superior y manchas oscuras en los hombros.",
+   "whereToSee": "Fiordos del norte de Noruega en invierno (con orcas y yubartas alimentándose), costas del Báltico, golfo de Maine",
+   "season": "Todo el año; el arenque noruego de desove primaveral inverna en los fiordos y aguas costeras del norte",
+   "order": "Clupeiformes"
+  }
+ },
+ {
+  "scientific": "Engraulis encrasicolus",
+  "common": "Anchoa europea (boquerón)",
+  "summary": "Un pez gregario del largo de un dedo cuyos filetes salados dan sabor a pizzas, pastas y a la ensalada César. Transfiere la energía del plancton a atunes, delfines y aves marinas en todo el Mediterráneo y el mar Negro.",
+  "nativeRange": "Atlántico oriental, desde Noruega hasta Sudáfrica; mares Mediterráneo, Negro y de Azov",
+  "biomes": [
+   "Aguas costeras",
+   "Plataforma continental"
+  ],
+  "abilities": [
+   "Se alimenta por filtración nadando con su enorme boca abierta",
+   "Madura en su primer año y desova repetidamente a lo largo del verano",
+   "Las poblaciones del mar Negro migran estacionalmente para invernar frente a Turquía y Georgia"
+  ],
+  "edibleParts": [
+   "pez entero frito",
+   "filetes salados y en aceite",
+   "colatura (salsa fermentada)"
+  ],
+  "edibilityNote": "Bajo en mercurio. Los boquerones crudos marinados (boquerones en vinagre) son una fuente conocida de anisakiasis si no se congelan antes.",
+  "lore": "Los romanos fermentaban pescado pequeño para hacer garum; la colatura di alici de Cetara se describe a menudo como su descendiente vivo, y la hamsi es un emblema cultural de la costa turca del mar Negro.",
+  "funFact": "Los filetes de anchoa salada obtienen su color pardo rojizo intenso y su sabor sabroso tras meses de maduración enzimática en sal.",
+  "animal": {
+   "diet": "Zooplancton: copépodos, huevos y larvas de peces",
+   "habitat": "Aguas costeras y de plataforma, a menudo cerca de las plumas de los ríos",
+   "lifespan": "Hasta unos 3–5 años",
+   "size": "Normalmente 12–15 cm; hasta 20 cm",
+   "behaviour": "Forma densos cardúmenes que se acercan a la costa en verano y se retiran a aguas más profundas en invierno.",
+   "fieldMarks": [
+    "Cuerpo esbelto y redondeado con dorso azul verdoso y franja plateada",
+    "Hocico puntiagudo y saliente que sobresale por encima de una boca enorme",
+    "La mandíbula se extiende mucho más atrás del ojo",
+    "Una sola aleta dorsal corta en mitad del cuerpo"
+   ],
+   "lookalikes": "El espadín y la sardina joven tienen una boca terminal corta y carecen de hocico saliente.",
+   "whereToSee": "Costa cantábrica de España (Santoña), Cetara en la costa amalfitana, puertos turcos del mar Negro en invierno",
+   "season": "Costera del golfo de Vizcaya en primavera; temporada de hamsi en el mar Negro, nov–feb",
+   "order": "Clupeiformes"
+  }
+ },
+ {
+  "scientific": "Scomber scombrus",
+  "common": "Caballa del Atlántico (verdel)",
+  "summary": "Un pez gregario rápido y rayado del Atlántico norte que carece de vejiga natatoria y debe nadar sin cesar. Su carne grasa se come a la parrilla, ahumada y en conserva en toda Europa.",
+  "nativeRange": "Ambas orillas del Atlántico norte; mares Mediterráneo y Negro",
+  "biomes": [
+   "Plataforma continental",
+   "Mar abierto (pelágico)"
+  ],
+  "abilities": [
+   "No tiene vejiga natatoria, por lo que puede cambiar de profundidad rápidamente",
+   "Migra en enormes cardúmenes entre las zonas de desove y de alimentación",
+   "El desplazamiento hacia el norte de su área estival de alimentación, hacia aguas de Islandia y las Feroe, desencadenó desde 2010 la 'guerra de la caballa' por las cuotas"
+  ],
+  "edibleParts": [
+   "carne (a la parrilla, ahumada, en escabeche, en conserva)"
+  ],
+  "edibilityNote": "Baja en mercurio, a diferencia de la caballa real. Se estropea rápidamente y puede causar intoxicación escombroide si no se mantiene en frío.",
+  "lore": "En el Londres del siglo XVII se permitía vender caballa los domingos porque se estropea muy deprisa; la pesca de caballa con línea de mano en Cornualles tiene siglos de antigüedad.",
+  "funFact": "La expresión inglesa 'mackerel sky' (cielo de caballa), para los cirrocúmulos ondulados, procede del dorso listado del pez; en español se habla de 'cielo aborregado'.",
+  "animal": {
+   "diet": "Zooplancton, kril y peces pequeños",
+   "habitat": "Aguas de plataforma en los 200 m superiores",
+   "lifespan": "Hasta unos 20 años",
+   "size": "Normalmente 30 cm; hasta 60 cm",
+   "behaviour": "Inverna en aguas más profundas y se acerca a la costa en verano, donde los cardúmenes empujan a los peces pasto hacia la superficie.",
+   "fieldMarks": [
+    "Dorso verde azulado iridiscente con 20–30 barras negras onduladas",
+    "Vientre blanco plateado sin manchas",
+    "Dos aletas dorsales bien separadas y 5 pínulas encima y debajo de la cola",
+    "Cuerpo en forma de torpedo con pequeñas quillas en la base de la cola"
+   ],
+   "lookalikes": "El estornino (Scomber colias) tiene manchas oscuras en el vientre y vejiga natatoria; el jurel tiene una hilera de escudetes óseos a lo largo de la línea lateral.",
+   "whereToSee": "Costas de Cornualles, Bretaña y Noruega en verano; golfo de Maine",
+   "season": "Visitante estival de la costa en el norte de Europa, aproximadamente may–sep",
+   "order": "Scombriformes"
+  }
+ },
+ {
+  "scientific": "Sardinops sagax",
+  "common": "Sardina del Pacífico",
+  "summary": "Un pez forrajero de auges y caídas propio de las frías costas de afloramiento del Pacífico y del sur de África. Sus números oscilan a lo largo de décadas, alternándose con las anchoas, y su colapso dejó vacía la Cannery Row de Monterrey.",
+  "nativeRange": "Costas templadas de afloramiento del Pacífico (California, Perú–Chile, Japón, Australia–Nueva Zelanda) y del sur de África",
+  "biomes": [
+   "Aguas costeras",
+   "Zonas de afloramiento"
+  ],
+  "abilities": [
+   "Sus poblaciones crecen y se desploman en ciclos de varias décadas ligados a los regímenes de temperatura del océano",
+   "Se alimenta por filtración de fitoplancton y zooplancton",
+   "La 'sardine run' invernal de Sudáfrica atrae a delfines, tiburones, alcatraces y rorcuales tropicales en uno de los grandes espectáculos de alimentación del océano"
+  ],
+  "edibleParts": [
+   "pez entero (a la parrilla, en conserva)",
+   "harina y aceite de pescado"
+  ],
+  "edibilityNote": "Muy baja en mercurio y rica en omega-3. Como otros pescados azules, se estropea rápidamente; el pescado mal manipulado puede causar intoxicación escombroide.",
+  "lore": "Las conserveras de sardina de Monterrey, inmortalizadas por John Steinbeck en Cannery Row (1945), cerraron tras el colapso de la población a finales de los años cuarenta y en los cincuenta.",
+  "funFact": "Las escamas conservadas en los sedimentos de la cuenca de Santa Bárbara muestran que los auges y caídas de la sardina se sucedían desde siglos antes de la pesca industrial.",
+  "animal": {
+   "diet": "Fitoplancton y zooplancton",
+   "habitat": "Aguas pelágicas costeras, a menudo cerca de frentes de afloramiento",
+   "lifespan": "Hasta unos 13 años; la mayoría vive menos",
+   "size": "Hasta unos 40 cm; normalmente 15–25 cm",
+   "behaviour": "Migra estacionalmente a lo largo de las costas en vastos cardúmenes; frente a la costa oriental de Sudáfrica, los bancos avanzan cada invierno hacia el norte dentro de una lengua de agua fría.",
+   "fieldMarks": [
+    "Cuerpo redondeado y plateado con dorso azul verdoso",
+    "Una a tres hileras de manchas oscuras en la parte superior de los flancos",
+    "Estrías óseas radiales en el opérculo",
+    "Una sola aleta dorsal y cola ahorquillada"
+   ],
+   "lookalikes": "La sardina europea (Sardina pilchardus) es muy parecida, pero vive en el Atlántico nororiental y el Mediterráneo; el arenque del Pacífico carece de las manchas oscuras y de las crestas en el opérculo.",
+   "whereToSee": "Wild Coast y KwaZulu-Natal, Sudáfrica (sardine run); bahía de Monterrey; costas de afloramiento de la corriente de California",
+   "season": "Sardine run sudafricana, jun–jul",
+   "order": "Clupeiformes"
+  }
+ },
+ {
+  "scientific": "Mola mola",
+  "common": "Pez luna",
+  "summary": "Un gigantesco disco sin cola que parece todo cabeza y se impulsa batiendo sus altas aletas dorsal y anal. Es uno de los peces óseos más pesados y el vertebrado más prolífico que se conoce.",
+  "nativeRange": "Océanos templados y tropicales de todo el mundo",
+  "biomes": [
+   "Mar abierto (pelágico)",
+   "Zona mesopelágica (zona crepuscular)"
+  ],
+  "abilities": [
+   "Se encontró una hembra que portaba unos 300 millones de huevos, la cifra más alta registrada en un vertebrado",
+   "Crece desde una larva de pocos milímetros hasta superar la tonelada",
+   "Se tumba de lado en la superficie para calentarse tras inmersiones profundas y frías, y deja que las aves marinas le quiten los parásitos",
+   "Sustituye la cola por un 'clavus' en forma de timón formado por elementos de las aletas dorsal y anal"
+  ],
+  "lore": "En partes de Japón y Taiwán la carne y los intestinos del pez luna se comen como manjar local; en alemán se le ha llamado Schwimmender Kopf, la 'cabeza que nada'.",
+  "funFact": "El pez óseo más pesado jamás medido fue un pez luna de cabeza abultada (Mola alexandrini) de 2744 kg hallado frente a las Azores en 2021, pariente cercano de Mola mola.",
+  "animal": {
+   "diet": "Medusas, salpas, sifonóforos y también peces pequeños, calamares y crustáceos",
+   "habitat": "Mar abierto, desde la superficie hasta varios cientos de metros",
+   "size": "Habitualmente 1,8 m de longitud y hasta 1000 kg; individuos excepcionales de más de 2 t",
+   "behaviour": "Visita 'estaciones de limpieza' en arrecifes y bordes de bosques de kelp, donde peces como los peces bandera y los lábridos le quitan los parásitos de la piel.",
+   "fieldMarks": [
+    "Enorme cuerpo ovalado y aplanado lateralmente, sin verdadera cola",
+    "Aletas dorsal y anal altas y muy retrasadas; la dorsal suele asomar y bambolearse sobre la superficie",
+    "Clavus de borde ondulado en lugar de aleta caudal",
+    "Boca pequeña con dientes fusionados en forma de pico",
+    "Piel gris a plateada, áspera como papel de lija"
+   ],
+   "lookalikes": "El pez luna embaucador (Mola tecta) tiene un clavus liso sin lóbulo central; el pez luna de cabeza abultada (Mola alexandrini) tiene una protuberancia en la cabeza y un abultamiento en el mentón. Su aleta dorsal en superficie se confunde con la de un tiburón, pero la del pez luna se bambolea de un lado a otro.",
+   "whereToSee": "Crystal Bay, Nusa Penida (Bali); Galápagos (Punta Vicente Roca); Azores; bahía de Monterrey",
+   "season": "Bali, jul–oct, cuando llega el afloramiento de agua fría",
+   "order": "Tetraodontiformes"
+  }
+ },
+ {
+  "scientific": "Coryphaena hippurus",
+  "common": "Dorado (lampuga)",
+  "summary": "Un cazador de superficie de deslumbrantes tonos dorados, verdes y azules que crece a una velocidad asombrosa y alcanza la edad adulta en meses. Los machos desarrollan una frente alta y cuadrada; los colores se apagan hasta el gris pocos minutos después de morir.",
+  "nativeRange": "Mares tropicales y subtropicales de todo el mundo, incluido el Mediterráneo",
+  "biomes": [
+   "Mar abierto (pelágico)"
+  ],
+  "abilities": [
+   "Uno de los peces de crecimiento más rápido: madura a los 4–5 meses",
+   "Cambia de color rápidamente y hace destellar barras y manchas mientras caza",
+   "Se concentra bajo sargazos flotantes, troncos y restos a la deriva para cazar",
+   "Salta fuera del agua persiguiendo peces voladores"
+  ],
+  "edibleParts": [
+   "carne (a la parrilla, frita, en ceviche)"
+  ],
+  "edibilityNote": "Mercurio moderado; en general se considera una opción razonable. Propenso a causar intoxicación escombroide (por histamina) si no se pone en hielo enseguida.",
+  "lore": "Los pescadores malteses capturan desde hace siglos la lampuka bajo balsas flotantes de hojas de palmera (kannizzati), una técnica anterior a los modernos dispositivos de concentración de peces; 'mahi-mahi' significa 'muy fuerte' en hawaiano.",
+  "funFact": "Sus brillantes colores se deben a cromatóforos e iridóforos que se contraen al morir, de modo que el pez se vuelve de un gris apagado en pocos minutos.",
+  "animal": {
+   "diet": "Peces voladores, atunes juveniles, calamares y crustáceos",
+   "habitat": "Aguas superficiales cálidas, a menudo cerca de objetos flotantes y sargazos",
+   "lifespan": "Normalmente menos de 4–5 años",
+   "size": "Habitualmente 1 m; hasta unos 2 m y 40 kg",
+   "behaviour": "Viaja en pequeños cardúmenes que siguen a objetos a la deriva por el mar abierto; las parejas suelen permanecer juntas y a menudo un pez enganchado es seguido por su pareja.",
+   "fieldMarks": [
+    "Larga aleta dorsal que va desde la cabeza casi hasta la cola",
+    "Flancos dorados brillantes, dorso verde azulado y manchas azules dispersas",
+    "Machos con frente abrupta y roma; hembras con la frente redondeada",
+    "Cola profundamente ahorquillada"
+   ],
+   "lookalikes": "El dorado enano (C. equiselis) es más pequeño, con una placa dentaria de la lengua más cuadrada y menos radios dorsales (48–55 frente a 58–66). No está emparentado con los delfines (mamíferos), a pesar de su nombre inglés 'dolphinfish'.",
+   "whereToSee": "Líneas de sargazo frente a Florida y las Bahamas, Costa Rica, Hawái, Malta (pesquería otoñal de lampuka)",
+   "season": "Todo el año en los trópicos; Malta, ago–dic",
+   "order": "Carangiformes"
+  }
+ },
+ {
+  "scientific": "Pterois volitans",
+  "common": "Pez león rojo",
+  "summary": "Un vistoso depredador de arrecife con rayas de cebra y espinas venenosas en las aletas. Liberado de acuarios en Florida, protagonizó una de las invasiones marinas más rápidas y dañinas que se conocen, extendiéndose por el Caribe en dos décadas.",
+  "nativeRange": "Pacífico occidental e Índico oriental; invasor en el Atlántico occidental, el Caribe y el golfo de México",
+  "biomes": [
+   "Arrecife de coral",
+   "Arrecife rocoso",
+   "Pradera marina"
+  ],
+  "abilities": [
+   "Sus espinas dorsales, pélvicas y anales inyectan un veneno doloroso",
+   "Acorrala a peces pequeños con las aletas pectorales desplegadas en abanico",
+   "Lanza chorros de agua a sus presas para desorientarlas antes de atacar",
+   "En aguas cálidas, las hembras pueden liberar masas de huevos cada pocos días durante todo el año"
+  ],
+  "edibleParts": [
+   "filetes (fritos, en ceviche)"
+  ],
+  "edibilityNote": "La carne no es venenosa; el veneno está solo en las espinas, que deben retirarse con cuidado. Se promueve su consumo para controlar la invasión. Los peces león grandes de algunas zonas del Caribe pueden contener ciguatoxina.",
+  "lore": "Florida y las islas del Caribe celebran torneos de pez león en los que los buceadores arponean miles en un solo día; el primer avistamiento en el Atlántico fue frente a Dania Beach (Florida) en 1985.",
+  "funFact": "Los primeros estudios de ADN mitocondrial sugerían que la invasión atlántica comenzó con apenas unos diez peces, aunque modelos posteriores (Selwyn et al., 2017) situaron el número más probable de fundadores en torno a un centenar o más.",
+  "animal": {
+   "diet": "Peces de arrecife pequeños y camarones",
+   "habitat": "Arrecifes, pecios, manglares y fondos duros hasta 300 m",
+   "lifespan": "Hasta unos 15 años",
+   "size": "Hasta unos 38–47 cm",
+   "behaviour": "Se mantiene inmóvil con las aletas desplegadas y luego se abalanza con un rápido golpe de succión; suele cazar al amanecer y al atardecer.",
+   "fieldMarks": [
+    "Llamativas rayas verticales pardo rojizas y blancas",
+    "Espinas dorsales largas, plumosas y separadas",
+    "Enormes aletas pectorales en forma de abanico",
+    "Tentáculos carnosos sobre los ojos",
+    "Segunda dorsal, anal y caudal moteadas"
+   ],
+   "lookalikes": "El pez león del Índico (P. miles) es casi idéntico, normalmente con 10 radios blandos dorsales en lugar de 11 y 6 radios blandos anales en lugar de 7, y es el invasor del Mediterráneo; ambos son invasores en el Atlántico. El pez león de aletas claras (P. radiata) tiene rayas blancas sobre aletas transparentes.",
+   "whereToSee": "Nativo: Indonesia, Filipinas, Gran Barrera de Coral. Invasor: cayos de Florida, Bahamas, arrecifes de Belice y Honduras",
+   "season": "Todo el año",
+   "order": "Perciformes"
+  }
+ },
+ {
+  "scientific": "Synanceia verrucosa",
+  "common": "Pez piedra",
+  "summary": "El pez más venenoso que se conoce, un bulto de 'roca' invisible hasta que alguien lo pisa. Sus trece espinas dorsales inyectan un veneno que causa un dolor atroz, y ha habido envenenamientos mortales.",
+  "nativeRange": "Indopacífico, desde el mar Rojo y África oriental hasta la Polinesia Francesa, Japón y Queensland",
+  "biomes": [
+   "Arrecife de coral",
+   "Arrecife rocoso",
+   "Planicies arrecifales y lagunas"
+  ],
+  "abilities": [
+   "Trece espinas dorsales acanaladas con glándulas venenosas inyectan verrucotoxina cuando se ejerce presión sobre ellas",
+   "Camuflaje tan completo que sobre su piel pueden crecer algas e hidroides",
+   "Sobrevive fuera del agua en planicies arrecifales expuestas hasta un día",
+   "Ataca y engulle a sus presas en una fracción de segundo",
+   "Puede levantar en defensa una espina lagrimal en forma de 'sable' en cada mejilla"
+  ],
+  "edibleParts": [
+   "carne (sashimi y sopa en Japón, China y Hong Kong)"
+  ],
+  "edibilityNote": "La carne se come en Japón (sobre todo en Okinawa) y en la cocina china después de que preparadores expertos retiren las espinas venenosas; el veneno es una proteína que se destruye con la cocción. Manipular peces vivos es peligroso.",
+  "lore": "Los habitantes de Queensland y de las islas del Pacífico lo temen desde hace mucho; los Commonwealth Serum Laboratories de Australia produjeron en 1959 el primer antiveneno contra el pez piedra, que sigue siendo el único disponible.",
+  "funFact": "Sumergir la herida en agua caliente (unos 45 °C) alivia el dolor porque las proteínas del veneno son termolábiles; en los casos graves se necesita antiveneno.",
+  "animal": {
+   "diet": "Peces pequeños y crustáceos",
+   "habitat": "Planicies arrecifales someras, cascajo, lagunas y charcas de marea",
+   "lifespan": "Varios años; poco conocida",
+   "size": "Normalmente 30–40 cm",
+   "behaviour": "Depredador al acecho que permanece inmóvil, a veces semienterrado, y engulle a las presas que pasan; el veneno es puramente defensivo.",
+   "fieldMarks": [
+    "Cuerpo abultado, verrugoso y con aspecto de roca, normalmente jaspeado de pardo, gris o rojo",
+    "Boca vuelta hacia arriba, casi vertical, con los ojos en lo alto de la cabeza",
+    "Grandes aletas pectorales carnosas",
+    "Sin escamas visibles; la piel suele estar cubierta de algas o limo"
+   ],
+   "lookalikes": "El pez piedra de estuario (S. horrida) tiene crestas óseas y una fosa profunda bajo cada ojo; los peces escorpión tienen una forma más de pez y radios de las aletas visibles.",
+   "whereToSee": "Planicies arrecifales del mar Rojo (Egipto), Gran Barrera de Coral, Indonesia, Maldivas",
+   "season": "Todo el año",
+   "order": "Perciformes"
+  }
+ },
+ {
+  "scientific": "Takifugu rubripes",
+  "common": "Fugu tigre (torafugu)",
+  "summary": "El fugu más apreciado, servido en sashimi translúcido por cocineros con licencia para extraer sus órganos letales. Su genoma compacto lo convirtió en organismo modelo para la genética de los vertebrados.",
+  "nativeRange": "Pacífico noroccidental: mar del Japón, mar de la China Oriental y mar Amarillo",
+  "biomes": [
+   "Aguas costeras",
+   "Plataforma continental",
+   "Bahías y estuarios"
+  ],
+  "abilities": [
+   "Se hincha de agua hasta formar una bola espinosa para disuadir a los depredadores",
+   "El hígado y los ovarios concentran tetrodotoxina, un bloqueador de los canales de sodio más de mil veces más letal que el cianuro en peso",
+   "Tiene uno de los genomas de vertebrado más pequeños (unos 400 millones de pares de bases), secuenciado en 2002",
+   "La tetrodotoxina la fabrican bacterias y se acumula a lo largo de la cadena alimentaria; los peces de piscifactoría alimentados con una dieta sin toxina suelen no ser tóxicos"
+  ],
+  "edibleParts": [
+   "carne (sashimi tessa, cazuela tecchiri)",
+   "piel",
+   "lecha (shirako)"
+  ],
+  "edibilityNote": "El hígado, los ovarios y los intestinos pueden contener tetrodotoxina letal, y los niveles de toxina varían de forma impredecible entre individuos y entre especies emparentadas. No existe antídoto, solo soporte respiratorio en el hospital. En Japón solo pueden prepararlo cocineros con licencia, y está prohibido servir el hígado. Nunca prepare ni coma peces globo pescados por usted mismo o sin inspeccionar.",
+  "lore": "Toyotomi Hideyoshi prohibió comer fugu en la década de 1590 tras la muerte de varios soldados; Itō Hirobumi levantó la prohibición en la prefectura de Yamaguchi en 1888 después de probarlo en Shimonoseki.",
+  "funFact": "El actor de kabuki Bandō Mitsugorō VIII murió en 1975 tras empeñarse en comer cuatro raciones de hígado de fugu.",
+  "animal": {
+   "diet": "Crustáceos, moluscos y peces pequeños",
+   "habitat": "Fondos costeros arenosos y fangosos; los juveniles, en bahías y estuarios",
+   "lifespan": "Unos 10 años",
+   "size": "Hasta unos 70–80 cm",
+   "behaviour": "Desova en primavera en costas de grava; los adultos migran entre las zonas costeras de desove y aguas más profundas mar adentro.",
+   "fieldMarks": [
+    "Cuerpo rechoncho, sin escamas, con diminutas espículas",
+    "Gran mancha negra con un anillo blanco detrás de cada aleta pectoral",
+    "Dorso gris pardo oscuro con pequeñas manchas y vientre blanco",
+    "Pico formado por cuatro dientes fusionados",
+    "Aleta anal blanca (el muy parecido karasu, T. chinensis, suele tenerla negra)"
+   ],
+   "lookalikes": "Otros Takifugu (p. ej., T. poecilonotus, T. niphobles) son más pequeños y carecen de la única gran mancha anillada del hombro; algunos son más tóxicos en el tejido muscular.",
+   "whereToSee": "Mercado de pescado de Shimonoseki, Yamaguchi (capital japonesa del fugu); mar Interior de Seto",
+   "season": "Se come en invierno, oct–mar; desova mar–may",
+   "order": "Tetraodontiformes"
+  }
+ },
+ {
+  "scientific": "Zanclus cornutus",
+  "common": "Ídolo moro",
+  "summary": "El único miembro de su familia, un disco negro, blanco y amarillo que arrastra un largo gallardete dorsal blanco. Pese a su fama, es notoriamente difícil de mantener en acuarios.",
+  "nativeRange": "Indopacífico y Pacífico oriental, desde África oriental hasta Hawái y el golfo de California",
+  "biomes": [
+   "Arrecife de coral",
+   "Arrecife rocoso"
+  ],
+  "abilities": [
+   "Su hocico largo y tubular explora las grietas en busca de esponjas",
+   "Una larga fase larvaria pelágica (de hasta meses) le permite llegar a islas remotas",
+   "Se asienta con un tamaño grande, de hasta unos 7,5 cm, tras derivar en el plancton"
+  ],
+  "lore": "El nombre procede de los moros de África, de quienes se decía que consideraban al pez portador de felicidad; alcanzó fama mundial como el personaje Gill de Buscando a Nemo (2003).",
+  "funFact": "La familia Zanclidae tiene una sola especie viva; sus parientes más cercanos son los peces cirujano (Acanthuridae).",
+  "animal": {
+   "diet": "Principalmente esponjas, también algas e invertebrados",
+   "habitat": "Planicies arrecifales, lagunas y taludes externos del arrecife hasta unos 180 m",
+   "lifespan": "Incierta; probablemente varios años",
+   "size": "Hasta unos 23 cm",
+   "behaviour": "Suele verse en parejas o pequeños grupos; de vez en cuando se reúne en cardúmenes de cientos.",
+   "fieldMarks": [
+    "Cuerpo alto, comprimido y en forma de disco",
+    "Dos anchas bandas verticales negras sobre blanco y amarillo",
+    "Filamento dorsal blanco muy largo, como un látigo",
+    "Hocico tubular saliente con una mancha naranja en forma de silla",
+    "Adultos con pequeños cuernos óseos delante de los ojos"
+   ],
+   "lookalikes": "Los peces bandera (Heniochus spp.) se parecen, pero tienen el hocico más corto, no tienen la mancha naranja y la parte posterior del cuerpo y la cola son amarillas; la cola del ídolo moro es negra.",
+   "whereToSee": "Hawái, mar Rojo (raro), Maldivas, Gran Barrera de Coral, Raja Ampat",
+   "season": "Todo el año",
+   "order": "Acanthuriformes"
+  }
+ },
+ {
+  "scientific": "Synchiropus splendidus",
+  "common": "Pez mandarín",
+  "summary": "Un diminuto pez de arrecife con un dibujo psicodélico cuyo color azul es uno de los pocos casos conocidos de verdadero pigmento azul celular en vertebrados. Al anochecer, las parejas ascienden juntas en una lenta danza de desove.",
+  "nativeRange": "Pacífico occidental, desde las islas Ryukyu hasta Australia",
+  "biomes": [
+   "Arrecife de coral",
+   "Lagunas y cascajo coralino"
+  ],
+  "abilities": [
+   "Su coloración azul procede de un pigmento celular en los 'cianóforos' y no de una iridiscencia estructural",
+   "En lugar de escamas, su piel está cubierta de una mucosidad maloliente y de mal sabor",
+   "Al anochecer, las parejas en cortejo suben hasta un metro por encima del arrecife para liberar los huevos",
+   "Se alimenta capturando diminutos copépodos uno a uno, hasta miles al día"
+  ],
+  "lore": "Su nombre alude a las túnicas ricamente bordadas de los mandarines imperiales chinos.",
+  "funFact": "El azul del pez mandarín se describió como uno de los dos únicos casos conocidos de pigmento azul celular en vertebrados; el otro es su pariente, el mandarín psicodélico.",
+  "animal": {
+   "diet": "Copépodos, anfípodos y otros pequeños crustáceos",
+   "habitat": "Lagunas someras protegidas y arrecifes costeros con coral ramificado y cascajo",
+   "lifespan": "Unos 10–15 años en cautividad",
+   "size": "Hasta unos 6–7 cm",
+   "behaviour": "Al anochecer, varias hembras se reúnen cerca de un macho dominante; este se empareja con cada una por turnos y ambos ascienden vientre con vientre para desovar.",
+   "fieldMarks": [
+    "Cuerpo azul brillante con bandas onduladas naranjas, verdes y amarillas",
+    "Cabeza grande y redondeada con ojos prominentes",
+    "Piel sin escamas",
+    "Machos más grandes, con una primera espina dorsal larga"
+   ],
+   "lookalikes": "El mandarín manchado (Synchiropus picturatus) es verde con manchas rodeadas de negro en lugar de rayas onduladas.",
+   "whereToSee": "Estrecho de Lembeh y Alor (Indonesia), Malapascua y Anilao (Filipinas), Palaos, Sipadan",
+   "season": "Todo el año; mejor al anochecer",
+   "order": "Callionymiformes"
+  }
+ },
+ {
+  "scientific": "Phycodurus eques",
+  "common": "Dragón de mar foliáceo",
+  "summary": "Un pariente del caballito de mar cubierto de colgajos de piel en forma de hoja, que deriva entre los bosques de kelp del sur de Australia como un fragmento de alga. Como en los caballitos de mar, es el macho quien lleva los huevos.",
+  "nativeRange": "Costas meridional y occidental de Australia, desde Jurien Bay (Australia Occidental) hasta el promontorio Wilsons (Victoria)",
+  "biomes": [
+   "Bosque de kelp",
+   "Pradera marina",
+   "Arrecife rocoso"
+  ],
+  "abilities": [
+   "Sus apéndices foliáceos sirven solo para camuflarse, no para propulsarse",
+   "Los machos incuban hasta unos 250 huevos en una placa incubadora bajo la cola",
+   "Se desplaza con aletas pectorales y dorsal casi transparentes",
+   "Succiona diminutos misidáceos con su hocico tubular"
+  ],
+  "lore": "Es el emblema marino de Australia Meridional y está totalmente protegido allí desde 1987.",
+  "funFact": "Los dragones de mar foliáceos no pueden enroscar la cola para anclarse como los caballitos de mar, por lo que las tormentas a menudo los arrastran a la orilla.",
+  "animal": {
+   "diet": "Misidáceos y otros pequeños crustáceos",
+   "habitat": "Arrecifes rocosos, kelp y praderas marinas, a 4–50 m",
+   "lifespan": "Hasta unos 7–10 años",
+   "size": "Hasta unos 35 cm",
+   "behaviour": "Se balancea suavemente al compás de las algas que lo rodean; los machos llevan los huevos unas 4–6 semanas antes de que eclosionen.",
+   "fieldMarks": [
+    "Cuerpo de pardo amarillento a oliva con apéndices lobulados en forma de hoja en la cabeza y el cuerpo",
+    "Hocico largo y tubular",
+    "Finas barras claras en el cuerpo",
+    "A diferencia de los caballitos de mar, la cola no es prensil"
+   ],
+   "lookalikes": "El dragón de mar común (Phyllopteryx taeniolatus) es rojo con manchas amarillas y tiene pocos apéndices, y sencillos; el dragón de mar rubí es rojo y carece de apéndices.",
+   "whereToSee": "Muelles de Rapid Bay y Edithburgh (Australia Meridional), isla Canguro, Esperance (Australia Occidental)",
+   "season": "Todo el año; los machos llevan huevos en verano austral (nov–mar)",
+   "order": "Syngnathiformes"
+  }
+ },
+ {
+  "scientific": "Scarus vetula",
+  "common": "Pez loro reina",
+  "summary": "Un pez loro caribeño cuyo pico de dientes fusionados raspa las algas del coral e impide que asfixien los arrecifes. Como muchos peces loro, duerme dentro de un capullo de mucosidad y puede cambiar de sexo de hembra a macho.",
+  "nativeRange": "Atlántico occidental, desde Florida y las Bahamas, a través del Caribe, hasta Brasil",
+  "biomes": [
+   "Arrecife de coral",
+   "Pradera marina"
+  ],
+  "abilities": [
+   "Sus dientes fusionados forman un pico como el de un loro que raspa las algas del coral muerto",
+   "Tritura la roca ingerida en un molino faríngeo; los peces loro producen gran parte de la arena blanca de las playas caribeñas",
+   "Por la noche secreta un 'saco de dormir' de mucosidad que podría protegerlo de los parásitos",
+   "Hermafrodita protogínico: algunas hembras se convierten en machos terminales de un azul verdoso brillante"
+  ],
+  "lore": "Bonaire prohibió la pesca del pez loro en 2010 para proteger sus arrecifes; Belice ya lo había protegido el año anterior.",
+  "funFact": "Las hembras y los individuos en fase inicial del pez loro reina son tan distintos de los machos terminales que en su día se describieron como especies diferentes.",
+  "animal": {
+   "diet": "Algas raspadas de las superficies del arrecife",
+   "habitat": "Arrecifes de coral y praderas marinas adyacentes, a 3–25 m",
+   "lifespan": "Varios años; poco conocida",
+   "size": "Hasta unos 61 cm",
+   "behaviour": "Los machos terminales custodian harenes de varias hembras y patrullan un territorio en el arrecife.",
+   "fieldMarks": [
+    "Fase inicial gris parda oscura con una ancha franja blanca a lo largo de la parte inferior del flanco",
+    "Machos terminales azul verdosos con escamas ribeteadas de naranja y rayas faciales naranjas y verdes",
+    "Dientes fusionados en forma de pico",
+    "Cola de los machos terminales en media luna, con lóbulos alargados"
+   ],
+   "lookalikes": "Los machos terminales del pez loro semáforo (Sparisoma viride) tienen una mancha amarilla en el opérculo y una barra naranja en la cola; la fase inicial del pez loro princesa tiene un dibujo a rayas blancas y negras.",
+   "whereToSee": "Bonaire, Cozumel, barrera de arrecifes de Belice, cayos de Florida",
+   "season": "Todo el año",
+   "order": "Perciformes"
+  }
+ },
+ {
+  "scientific": "Cheilinus undulatus",
+  "common": "Napoleón (pez napoleón)",
+  "summary": "El mayor lábrido vivo, un gigante de labios gruesos con frente abultada y dibujos faciales como un laberinto. Su valor en el comercio de peces de arrecife vivos para consumo en Hong Kong y el sur de China lo ha puesto en peligro.",
+  "nativeRange": "Indopacífico, desde el mar Rojo y África oriental hasta las Tuamotu, Japón y Nueva Caledonia",
+  "biomes": [
+   "Arrecife de coral"
+  ],
+  "abilities": [
+   "Uno de los pocos depredadores que comen estrellas de mar corona de espinas, liebres de mar y peces cofre, todos ellos tóxicos",
+   "Hermafrodita protogínico: algunas hembras se transforman en machos",
+   "Tritura moluscos de concha dura y erizos de mar con sus robustos dientes faríngeos",
+   "Puede vivir más de 30 años"
+  ],
+  "lore": "Se incluyó en el Apéndice II de la CITES en 2004 a causa del comercio de peces de arrecife vivos, en el que es un pez de banquete en Hong Kong y sus labios son especialmente apreciados.",
+  "funFact": "La mayoría de los napoleones empiezan su vida como hembras; solo algunos cambian de sexo y se convierten en los grandes machos dominantes.",
+  "animal": {
+   "diet": "Moluscos, crustáceos, erizos de mar, peces y estrellas corona de espinas",
+   "habitat": "Taludes externos del arrecife, canales y arrecifes de laguna hasta 100 m; juveniles en praderas marinas y coral ramificado",
+   "lifespan": "Unos 30 años o más",
+   "size": "Machos de hasta unos 2 m y 190 kg",
+   "behaviour": "A menudo se acerca a los buceadores con aparente curiosidad; de noche descansa en cuevas del arrecife y se congrega en lugares de desove previsibles en los arrecifes exteriores.",
+   "fieldMarks": [
+    "Tamaño enorme, con una prominente joroba en la frente de los adultos grandes",
+    "Labios gruesos y carnosos",
+    "Dos líneas negras detrás de cada ojo y dibujos laberínticos en la cara",
+    "Cuerpo de verde azulado a oliva con finas líneas verticales en cada escama"
+   ],
+   "lookalikes": "El pez loro cototo (Bolbometopon muricatum) también tiene una joroba frontal, pero posee un pico de dientes fusionados y se mueve en cardúmenes que pastan; el napoleón tiene labios carnosos y suele nadar solo.",
+   "whereToSee": "Cod Hole y Ribbon Reefs (Gran Barrera de Coral), arrecifes del mar Rojo, Palaos, Sipadan",
+   "season": "Todo el año",
+   "order": "Perciformes"
+  }
+ },
+ {
+  "scientific": "Paracanthurus hepatus",
+  "common": "Cirujano azul (pez cirujano paleta)",
+  "summary": "Un pez cirujano azul real con una mancha negra en forma de 'paleta' y cola amarillo limón, famoso como Dory en Buscando a Nemo. Como todos los peces cirujano, lleva una espina afilada como un bisturí en la base de la cola.",
+  "nativeRange": "Indopacífico, desde África oriental hasta Kiribati, Samoa, el sur de Japón y la Gran Barrera de Coral",
+  "biomes": [
+   "Arrecife de coral"
+  ],
+  "abilities": [
+   "Una espina afilada y plegable a cada lado de la base de la cola puede herir a depredadores o a manos descuidadas",
+   "Cuando se siente amenazado se encaja en el coral ramificado y yergue sus espinas, de modo que es difícil sacarlo",
+   "Su reproducción en cautividad aún no es rutinaria; la mayoría de los peces de acuario se capturan en el medio natural, aunque la cría en cautividad se logró en 2016"
+  ],
+  "lore": "El Tropical Aquaculture Laboratory de la Universidad de Florida anunció en 2016 la primera cría con éxito en cautividad de Paracanthurus hepatus, poco después de que Buscando a Dory disparara la demanda para acuarios.",
+  "funFact": "Los peces cirujano deben su nombre a las cuchillas como bisturís de la cola; en el cirujano azul se pliegan en un surco hasta que el pez se siente amenazado.",
+  "animal": {
+   "diet": "Zooplancton; también algas",
+   "habitat": "Terrazas claras del arrecife exterior con corriente fuerte, a menudo alrededor de cabezas de coral Pocillopora, a 2–40 m",
+   "lifespan": "Hasta unos 20 años",
+   "size": "Hasta unos 31 cm",
+   "behaviour": "Los grupos se mantienen en la columna de agua alimentándose de plancton y se zambullen juntos en el coral ramificado cuando se alarman.",
+   "fieldMarks": [
+    "Cuerpo ovalado de un azul real intenso",
+    "Banda negra que va del ojo a la cola y forma un lazo que recuerda la paleta de un pintor",
+    "Cola amarillo brillante y aletas pectorales amarillas",
+    "Espina caudal en el pedúnculo caudal"
+   ],
+   "lookalikes": "No tiene ningún pez parecido cercano; el cirujano azul del Atlántico (Acanthurus coeruleus) es otra especie, de un azul uniforme o amarillo y sin la mancha negra en forma de paleta.",
+   "whereToSee": "Maldivas, Palaos, Fiyi, Gran Barrera de Coral, Filipinas",
+   "season": "Todo el año",
+   "order": "Acanthuriformes"
+  }
+ },
+ {
+  "scientific": "Epinephelus itajara",
+  "common": "Mero guasa (mero goliat)",
+  "summary": "Un mero del tamaño de una casa que vive en manglares y pecios del Atlántico y puede superar los 360 kg. Casi exterminado por la pesca en la década de 1980, se ha recuperado en Florida tras su protección total en 1990.",
+  "nativeRange": "Atlántico occidental, desde Florida hasta el sur de Brasil, el golfo de México y el Caribe; las poblaciones del Atlántico oriental, frente a África occidental, se separan hoy a menudo como E. quinquefasciatus",
+  "biomes": [
+   "Manglar",
+   "Arrecife rocoso",
+   "Pecios",
+   "Arrecife de coral"
+  ],
+  "abilities": [
+   "Emite fuertes retumbos con la vejiga natatoria para advertir a los intrusos y durante el desove",
+   "Los juveniles pasan años en estuarios de manglar antes de desplazarse mar adentro",
+   "Cada año, a finales del verano, se reúne en los mismos pecios para desovar",
+   "Engulle a sus presas, incluidos pequeños tiburones y tortugas marinas, mediante una potente succión"
+  ],
+  "lore": "Su nombre brasileño 'itajara' procede del tupí; EE. UU. prohibió toda captura en 1990, y Florida solo reabrió en 2023 una captura mínima con permisos sorteados.",
+  "funFact": "La American Fisheries Society cambió en 2001 su nombre inglés de 'jewfish' a 'goliath grouper' (mero goliat).",
+  "animal": {
+   "diet": "Crustáceos (sobre todo langostas espinosas), peces, rayas, pulpos y, ocasionalmente, tortugas marinas jóvenes",
+   "habitat": "Aguas costeras someras hasta unos 50 m: manglares, cornisas, arrecifes y pecios",
+   "lifespan": "Al menos 37 años",
+   "size": "Hasta unos 2,5 m y 360 kg o más",
+   "behaviour": "Territorial en torno a una cueva o un pecio propio; de decenas a más de un centenar se congregan en lugares de agregación para el desove en torno a la luna nueva de ago–sep.",
+   "fieldMarks": [
+    "Cuerpo enorme y robusto con una cabeza ancha y plana",
+    "Ojos pequeños y boca grande",
+    "De amarillo pardusco a gris, con pequeñas manchas oscuras en la cabeza y las aletas",
+    "Tenues barras verticales oscuras e irregulares, más marcadas en los jóvenes",
+    "Cola redondeada; las espinas de la primera dorsal son más cortas que los radios blandos"
+   ],
+   "lookalikes": "El mero negro (Hyporthodus nigritus) es más oscuro, vive a más profundidad y tiene una segunda espina dorsal alta; el mero gigante (E. lanceolatus) es del Indopacífico.",
+   "whereToSee": "Pecios de Jupiter y Palm Beach, Florida (desove ago–sep); cayos de Florida; Abrolhos (Brasil)",
+   "season": "Residente; agregaciones de desove en Florida, ago–oct",
+   "order": "Perciformes"
+  }
+ },
+ {
+  "scientific": "Melanocetus johnsonii",
+  "common": "Rape abisal (diablo negro)",
+  "summary": "Un depredador negro de las profundidades, del tamaño de un puño, que balancea un señuelo luminoso delante de una boca llena de dientes como agujas. Los diminutos machos buscan a las hembras por el olfato y se adhieren a ellas solo brevemente para aparearse.",
+  "nativeRange": "Aguas tropicales a templadas de los océanos Atlántico, Pacífico e Índico",
+  "biomes": [
+   "Zona batipelágica (zona de medianoche)",
+   "Zona mesopelágica (zona crepuscular)"
+  ],
+  "abilities": [
+   "El señuelo (esca) brilla con la luz de bacterias bioluminiscentes simbióticas",
+   "El estómago y las mandíbulas se dilatan para tragar presas más largas que el propio pez",
+   "Los machos enanos de vida libre usan sus grandes narinas para seguir las feromonas de la hembra; a diferencia de algunos rapes ceratioideos, no se fusionan con ella de forma permanente",
+   "Sobrevive a profundidades de 100–4500 m en una oscuridad casi total"
+  ],
+  "lore": "Albert Günther lo describió en 1864 a partir de un ejemplar capturado frente a Madeira; se cree que el vídeo del MBARI de 2014 es la primera grabación de un Melanocetus vivo en su hábitat.",
+  "funFact": "Su nombre específico honra a James Yate Johnson, el naturalista de Madeira que envió el primer ejemplar al Museo Británico.",
+  "animal": {
+   "diet": "Peces, crustáceos y calamares atraídos por el señuelo",
+   "habitat": "Mar abierto, sobre todo entre 200 y 1500 m",
+   "lifespan": "Desconocida",
+   "size": "Hembras de hasta unos 18 cm; machos de menos de 3 cm",
+   "behaviour": "Permanece casi inmóvil, agitando el señuelo para atraer a las presas a su alcance en la oscuridad.",
+   "fieldMarks": [
+    "Cuerpo globoso, negro y aterciopelado",
+    "Enorme boca vuelta hacia arriba con dientes largos como colmillos",
+    "Una sola espina en forma de caña de pescar (illicium) sobre el hocico, con una punta bulbosa luminosa",
+    "Ojos pequeños y aletas diminutas"
+   ],
+   "lookalikes": "Otras especies de Melanocetus difieren en el número de radios de las aletas y en la forma del señuelo; los peces balón (Himantolophus) tienen un señuelo ramificado y placas óseas.",
+   "whereToSee": "En la práctica, solo mediante grabaciones de ROV de aguas profundas (p. ej., MBARI, cañón de Monterrey, que filmó una hembra viva en 2014); ejemplares en museos de historia natural",
+   "season": "Todo el año en las profundidades",
+   "order": "Lophiiformes"
+  }
+ },
+ {
+  "scientific": "Anarhichas lupus",
+  "common": "Perro del norte (pez lobo del Atlántico)",
+  "summary": "Un pez de fondo de aguas frías con cara escarpada y caninos como colmillos que trituran cangrejos, erizos y bocinas. Su sangre contiene proteínas anticongelantes que le permiten vivir en aguas casi heladas.",
+  "nativeRange": "Atlántico norte, desde el cabo Cod hasta Groenlandia y desde el mar Blanco hasta el golfo de Vizcaya",
+  "biomes": [
+   "Plataforma continental",
+   "Arrecife rocoso",
+   "Mares templados fríos"
+  ],
+  "abilities": [
+   "Produce proteínas anticongelantes que impiden que la sangre se congele cerca de 0 °C",
+   "Renueva sus dientes cada año",
+   "La fecundación es interna y el macho custodia la masa de huevos durante meses",
+   "Usa potentes molares y caninos para triturar presas de concha dura"
+  ],
+  "edibleParts": [
+   "carne (filetes, que en Gran Bretaña se venden como 'catfish' o 'rockfish')"
+  ],
+  "edibilityNote": "Carne blanca y firme, que en Escandinavia se vende como steinbit. No se han señalado problemas particulares de toxicidad.",
+  "lore": "Sus nombres islandés y noruego (steinbítur, steinbit) significan 'mordedor de piedras', por su costumbre de triturar conchas; desde hace mucho se seca y se come en ambos países.",
+  "funFact": "Pese a sus temibles dientes, el pez lobo no supone ninguna amenaza para los buceadores y a menudo se describe como dócil.",
+  "animal": {
+   "diet": "Cangrejos, erizos de mar, bocinas, estrellas de mar y almejas",
+   "habitat": "Fondos rocosos de 20–500 m, donde vive en grietas y cuevas",
+   "lifespan": "Más de 20 años",
+   "size": "Hasta unos 1,5 m y 20 kg",
+   "behaviour": "Lleva una vida mayormente solitaria en cuevas; tras la fecundación interna, la pareja custodia una bola de huevos durante el invierno.",
+   "fieldMarks": [
+    "Cuerpo largo, parecido al de una anguila, con una sola aleta dorsal larga",
+    "Cabeza grande con 'colmillos' caninos salientes",
+    "De gris azulado a oliva, con 10–15 barras verticales oscuras",
+    "Sin aletas pélvicas"
+   ],
+   "lookalikes": "El pez lobo moteado (A. minor) tiene manchas oscuras en lugar de barras; el pez lobo del norte (A. denticulatus) es de un pardo oscuro uniforme y lleva una vida más pelágica.",
+   "whereToSee": "Inmersiones en aguas frías en Eastport (Maine); golfo de San Lorenzo; costas de Noruega y Escocia; acuarios del golfo de Maine",
+   "season": "Residente todo el año",
+   "order": "Perciformes"
+  }
+ },
+ {
+  "scientific": "Exocoetus volitans",
+  "common": "Pez volador común",
+  "summary": "Un pez oceánico de dorso azul que escapa de los depredadores saliendo disparado del mar y planeando sobre sus pectorales agrandadas. Un solo planeo puede llevarlo decenas de metros, y puede prolongar el vuelo impulsándose con la cola en el agua.",
+  "nativeRange": "Océanos tropicales y subtropicales de todo el mundo",
+  "biomes": [
+   "Mar abierto (pelágico)"
+  ],
+  "abilities": [
+   "Planea sobre aletas pectorales en forma de alas a velocidades de más de 50 km/h",
+   "Se impulsa golpeando la superficie con el alargado lóbulo inferior de la cola para relanzarse sin volver a entrar en el agua",
+   "Son habituales vuelos de 50 m; se han filmado peces voladores que permanecían 45 segundos en el aire",
+   "De dos alas: a diferencia de las especies de cuatro alas, sus aletas pélvicas son pequeñas"
+  ],
+  "edibleParts": [
+   "pez entero (frito, al vapor)",
+   "huevas (tobiko, de varias especies de pez volador)"
+  ],
+  "edibilityNote": "Pez pelágico pequeño, bajo en mercurio.",
+  "lore": "El misil francés Exocet debe su nombre a los peces voladores; Barbados, 'la tierra del pez volador', los representa en sus monedas, aunque su pesquería se centra en Hirundichthys affinis.",
+  "funFact": "El nombre Exocoetus significa 'que duerme fuera' en griego, por la antigua creencia de que los peces voladores salían a tierra a dormir.",
+  "animal": {
+   "diet": "Zooplancton",
+   "habitat": "Aguas superficiales del mar abierto, lejos de las costas",
+   "lifespan": "Unos 1–2 años",
+   "size": "Hasta unos 30 cm",
+   "behaviour": "Cuando lo persiguen dorados, atunes o peces de pico, acelera bajo el agua y se lanza al aire; de noche también salta a las cubiertas iluminadas de los barcos.",
+   "fieldMarks": [
+    "Aletas pectorales muy largas que llegan hasta la base de la cola",
+    "Aletas pélvicas pequeñas (de dos alas)",
+    "Cola profundamente ahorquillada con el lóbulo inferior más largo",
+    "Dorso azul iridiscente y vientre plateado",
+    "Aletas pectorales transparentes y sin marcas en los adultos"
+   ],
+   "lookalikes": "Los peces voladores de cuatro alas (Cheilopogon, Hirundichthys) tienen también grandes aletas pélvicas; Exocoetus obtusirostris tiene el hocico más romo y menos escamas predorsales.",
+   "whereToSee": "Desde la proa de los barcos en el Atlántico y el Pacífico tropicales; Barbados (donde peces voladores emparentados son símbolo nacional)",
+   "season": "Todo el año en mares cálidos",
+   "order": "Beloniformes"
+  }
+ },
+ {
+  "scientific": "Macropinna microstoma",
+  "common": "Pez de cabeza transparente (pez barril)",
+  "summary": "Un pez de aguas profundas con una cabeza transparente llena de líquido a través de la cual se ven sus ojos verdes y tubulares. Durante mucho tiempo se creyó que solo miraba hacia arriba, pero en 2008 se demostró que gira los ojos hacia delante para observar lo que come.",
+  "nativeRange": "Pacífico norte, desde el mar de Bering hasta Baja California y Japón",
+  "biomes": [
+   "Zona mesopelágica (zona crepuscular)"
+  ],
+  "abilities": [
+   "Sus ojos tubulares giran dentro de un escudo transparente para mirar hacia arriba o hacia delante",
+   "Los pigmentos verdes del cristalino podrían filtrar la luz solar para distinguir presas bioluminiscentes",
+   "Lo que parecen ojos en su cara son en realidad las narinas (órganos olfativos)",
+   "Se mantiene inmóvil en el agua gracias a sus aletas grandes y planas"
+  ],
+  "lore": "Chapman lo describió en 1939 a partir de ejemplares dañados por las redes de arrastre que habían perdido su frágil escudo cefálico; Bruce Robison y Kim Reisenbichler, del MBARI, publicaron las primeras observaciones en vivo en 2008.",
+  "funFact": "Durante 70 años los científicos no supieron que su cabeza era transparente porque las redes de arrastre destruían el escudo.",
+  "animal": {
+   "diet": "Pequeños crustáceos y probablemente presas robadas a los sifonóforos",
+   "habitat": "Zona crepuscular, a unos 600–800 m",
+   "lifespan": "Desconocida",
+   "size": "Hasta unos 15 cm",
+   "behaviour": "Permanece horizontal en el agua escrutando hacia arriba las siluetas de presas y sifonóforos; luego gira los ojos hacia delante y pivota para alimentarse.",
+   "fieldMarks": [
+    "Escudo transparente en forma de cúpula sobre la parte superior de la cabeza",
+    "Dos ojos tubulares de un verde brillante visibles dentro de la cabeza",
+    "Boca pequeña en la punta del hocico",
+    "Cuerpo oscuro con escamas grandes y aletas anchas"
+   ],
+   "lookalikes": "Otros peces de ojos tubulares de su familia (Opisthoproctus, Dolichopteryx) carecen del escudo cefálico transparente; los peces fantasma de ojos tubulares tienen la cabeza opaca.",
+   "whereToSee": "Solo mediante grabaciones de ROV (Monterey Bay Aquarium Research Institute); los buceadores no lo ven",
+   "season": "Todo el año",
+   "order": "Argentiniformes"
+  }
+ },
+ {
+  "scientific": "Chauliodus macouni",
+  "common": "Pez víbora del Pacífico",
+  "summary": "Un esbelto cazador de las profundidades cuyos colmillos como agujas son tan largos que no le caben dentro de la boca. Las hileras de órganos luminosos a lo largo del vientre le permiten confundirse con la tenue luz que llega desde arriba.",
+  "nativeRange": "Pacífico norte, desde Japón y el mar de Bering hasta Baja California",
+  "biomes": [
+   "Zona mesopelágica (zona crepuscular)",
+   "Zona batipelágica (zona de medianoche)"
+  ],
+  "abilities": [
+   "Sus fotóforos ventrales producen un camuflaje por contrailuminación",
+   "Puede abrir muchísimo las mandíbulas para atrapar presas grandes",
+   "De noche asciende cientos de metros para alimentarse",
+   "Un señuelo en el primer radio dorsal podría atraer a las presas"
+  ],
+  "lore": "Debe su nombre al naturalista canadiense John Macoun; sus colmillos han inspirado muchas ilustraciones de monstruos abisales.",
+  "funFact": "Sus colmillos inferiores son tan largos que, al cerrar la boca, quedan por fuera de la mandíbula superior y llegan casi hasta los ojos.",
+  "animal": {
+   "diet": "Peces pequeños y crustáceos",
+   "habitat": "Mar abierto profundo, a unos 200–1500 m y más",
+   "size": "Hasta unos 25 cm",
+   "behaviour": "Realiza migraciones verticales diarias: sube hacia aguas más someras de noche y desciende de día.",
+   "fieldMarks": [
+    "Cuerpo largo, esbelto y oscuro con brillo plateado azulado",
+    "Enormes dientes como colmillos que sobresalen de la boca cerrada",
+    "Hileras de fotóforos a lo largo del vientre",
+    "Primer radio dorsal alargado y muy adelantado"
+   ],
+   "lookalikes": "El pez víbora de Sloane (C. sloani) vive en aguas más cálidas de todo el mundo y se diferencia por la disposición de los fotóforos y la posición de la dorsal; los peces dragón tienen una barbilla en el mentón.",
+   "whereToSee": "Grabaciones de ROV del cañón de Monterrey; ejemplares de museo",
+   "season": "Todo el año",
+   "order": "Stomiiformes"
+  }
+ },
+ {
+  "scientific": "Regalecus glesne",
+  "common": "Pez remo (rey de los arenques)",
+  "summary": "El pez óseo más largo del mundo, una cinta plateada con una cresta carmesí que puede superar los 8 m. Rara vez visto con vida, probablemente inspiró muchas leyendas de serpientes marinas.",
+  "nativeRange": "Océanos tropicales a templados de todo el mundo",
+  "biomes": [
+   "Zona mesopelágica (zona crepuscular)",
+   "Mar abierto (pelágico)"
+  ],
+  "abilities": [
+   "El pez óseo más largo que se conoce, con registros fiables de unos 8 m y relatos de hasta 11 m",
+   "Nada ondulando su larga aleta dorsal mientras mantiene el cuerpo vertical",
+   "Puede desprenderse (autotomía) de la parte posterior del cuerpo; la herida cicatriza, pero la parte perdida no se regenera",
+   "No tiene dientes y filtra el kril con las branquispinas"
+  ],
+  "lore": "En el folclore japonés se dice que la aparición de peces remo anuncia terremotos; un estudio de 2019 no halló ninguna relación estadística.",
+  "funFact": "Los pescadores noruegos lo llamaban 'rey de los arenques' porque se le veía junto a bancos de arenques y su cresta parecía una corona.",
+  "animal": {
+   "diet": "Kril y otro zooplancton, calamares pequeños",
+   "habitat": "Mar abierto, desde la superficie hasta unos 1000 m",
+   "lifespan": "Desconocida",
+   "size": "Habitualmente 3 m; hasta unos 8 m",
+   "behaviour": "Se mantiene vertical en la columna de agua, con la cabeza hacia arriba, deslizándose con ondulaciones de la aleta dorsal.",
+   "fieldMarks": [
+    "Cuerpo extremadamente largo, comprimido, plateado y en forma de cinta",
+    "Aleta dorsal roja que recorre todo el cuerpo, con una alta cresta de radios alargados en la cabeza",
+    "Radios de las aletas pélvicas largos, rojos y en forma de remo",
+    "Rayas y manchas negro azuladas en los flancos"
+   ],
+   "lookalikes": "El pez remo austral (Agrostichthys parkeri), de los océanos del sur, es más corto y carece de los largos radios pélvicos en forma de remo (los adultos solo tienen crestas bajas); los peces cinta (Trachipteridae) tienen aleta caudal y el cuerpo más corto.",
+   "whereToSee": "Raramente; varamientos en California, Japón, Noruega y Nueva Zelanda; avistamientos ocasionales en superficie en el golfo de California",
+   "season": "Los varamientos se registran sobre todo en invierno–primavera",
+   "order": "Lampriformes"
+  }
+ },
+ {
+  "scientific": "Hippoglossus hippoglossus",
+  "common": "Fletán del Atlántico (halibut)",
+  "summary": "El mayor pez plano del mundo, un gigante con los ojos en el lado derecho que puede superar en longitud a una persona. Empieza su vida como una larva simétrica normal y, al asentarse en el fondo, uno de sus ojos migra a través de la cabeza.",
+  "nativeRange": "Atlántico norte, desde Virginia hasta Groenlandia y desde el golfo de Vizcaya hasta el mar de Barents",
+  "biomes": [
+   "Plataforma continental",
+   "Mares templados fríos"
+  ],
+  "abilities": [
+   "Durante la metamorfosis el ojo izquierdo migra por encima de la cabeza hasta el lado derecho",
+   "A diferencia de la mayoría de los peces planos, nada activamente a media agua para perseguir peces",
+   "Las hembras pueden llegar a los 50 años y producir millones de huevos"
+  ],
+  "edibleParts": [
+   "carne (filetes, rodajas, ahumada)",
+   "carrilleras"
+  ],
+  "edibilityNote": "Carne blanca y magra; los individuos grandes contienen niveles moderados de mercurio.",
+  "lore": "Su nombre inglés procede de 'haly butte', el 'pez plano santo' que se comía en los días de precepto cristianos en la Inglaterra medieval.",
+  "funFact": "El fletán se sobrepescó tanto que la UICN lo catalogó como En peligro en 1996; en su reevaluación de 2021 mejoró a Casi amenazado.",
+  "animal": {
+   "diet": "Bacalaos, eglefinos, arenques, lanzones y cangrejos",
+   "habitat": "Fondos de arena, grava y arcilla a 50–2000 m",
+   "lifespan": "Hasta unos 50 años",
+   "size": "Hasta unos 2,5–3 m y 320 kg",
+   "behaviour": "Migra a aguas profundas y templadas del talud para desovar en invierno y primavera.",
+   "fieldMarks": [
+    "Pez plano grueso, en forma de rombo, con ambos ojos en el lado derecho",
+    "Boca grande que llega hasta debajo del ojo",
+    "Cara superior de un pardo oliváceo oscuro uniforme y cara inferior blanca",
+    "Cola cóncava (en media luna)",
+    "La línea lateral forma un arco pronunciado sobre la aleta pectoral"
+   ],
+   "lookalikes": "El fletán negro (Reinhardtius hippoglossoides) tiene un ojo en el borde de la cabeza y la cara inferior oscura; el fletán del Pacífico (H. stenolepis) vive en el Pacífico.",
+   "whereToSee": "Costa noruega (Lofoten, Saltstraumen), Islandia, golfo de Maine, Nueva Escocia",
+   "season": "Residente; cerca de la costa en verano",
+   "order": "Pleuronectiformes"
+  }
+ },
+ {
+  "scientific": "Pleuronectes platessa",
+  "common": "Solla",
+  "summary": "El clásico pez plano de manchas naranjas del mar del Norte. Permanece enterrado en la arena con solo los ojos a la vista y puede cambiar de color para igualarse con el fondo.",
+  "nativeRange": "Atlántico nororiental, desde el mar de Barents hasta Marruecos, mar del Norte, Báltico y Mediterráneo occidental",
+  "biomes": [
+   "Plataforma continental",
+   "Aguas costeras",
+   "Fondos arenosos"
+  ],
+  "abilities": [
+   "Ajusta el color y el dibujo de la piel para igualarse con el fondo",
+   "Se entierra con un rápido movimiento de las aletas",
+   "Los jóvenes migran a zonas de cría arenosas y someras como el mar de Frisia (Wadden)",
+   "Arranca de un mordisco los sifones de las almejas enterradas"
+  ],
+  "edibleParts": [
+   "carne (filetes, frita, al horno)"
+  ],
+  "edibilityNote": "Baja en mercurio; carne blanca de sabor suave. Un clásico del fish and chips británico y de los bocadillos abiertos daneses.",
+  "lore": "Los estudios de Walter Garstang sobre la solla y la 'plaice box' (zona de protección de la solla) del mar del Norte fueron fundamentales para la ciencia pesquera, y las capturas de solla cayeron bruscamente y luego se recuperaron durante y después de ambas guerras mundiales, cuando se detuvo la pesca.",
+  "funFact": "Las poblaciones de solla del mar del Norte alcanzaron máximos históricos en la década de 2010 tras reducirse la presión pesquera.",
+  "animal": {
+   "diet": "Bivalvos, gusanos poliquetos y crustáceos",
+   "habitat": "Fondos arenosos y fangosos desde la orilla hasta 200 m",
+   "lifespan": "Hasta unos 50 años",
+   "size": "Normalmente 25–40 cm; hasta unos 1 m y 7 kg",
+   "behaviour": "Se alimenta sobre todo de noche y de día descansa enterrada en la arena; la solla del mar del Norte migra en invierno a las zonas de desove de la Southern Bight.",
+   "fieldMarks": [
+    "Pez plano ovalado con ambos ojos en el lado derecho",
+    "Cara superior parda con llamativas manchas de color naranja rojizo intenso",
+    "Hilera de 4–7 protuberancias óseas en la cabeza detrás de los ojos",
+    "Piel lisa y cara inferior blanca"
+   ],
+   "lookalikes": "La platija (Platichthys flesus) tiene espículas ásperas a lo largo de la base de las aletas y manchas apagadas; la limanda tiene una línea lateral muy curvada sobre la pectoral y la piel áspera.",
+   "whereToSee": "Bajos arenosos del mar del Norte, costas danesas y neerlandesas, mar de Irlanda",
+   "season": "Residente; cerca de la costa en verano, desove ene–mar",
+   "order": "Pleuronectiformes"
+  }
+ },
+ {
+  "scientific": "Galeocerdo cuvier",
+  "common": "Tiburón tigre",
+  "summary": "Un gran depredador generalista y rayado de las costas cálidas, famoso por comer casi cualquier cosa, desde tortugas marinas hasta matrículas de coche. Sus dientes de borde aserrado pueden cortar el caparazón de una tortuga.",
+  "nativeRange": "Mares tropicales y templados cálidos de todo el mundo",
+  "biomes": [
+   "Aguas costeras",
+   "Arrecife de coral",
+   "Pradera marina",
+   "Mar abierto (pelágico)"
+  ],
+  "abilities": [
+   "Sus dientes aserrados en forma de cresta de gallo sierran caparazones de tortuga y huesos",
+   "Su dieta incluye tortugas marinas, aves marinas, delfines, serpientes marinas y carroña, además de basura indigerible",
+   "Realiza migraciones de miles de kilómetros entre islas y costas",
+   "Su presencia impide que dugongos y tortugas sobrepastoreen las praderas marinas de la bahía Shark (Australia)"
+  ],
+  "lore": "En la tradición nativa hawaiana algunos tiburones eran ʻaumākua, guardianes ancestrales, mientras que el niuhi devorador de hombres era cazado por los jefes como prueba de destreza.",
+  "funFact": "En estómagos de tiburón tigre se han encontrado matrículas, neumáticos, latas y otra basura.",
+  "animal": {
+   "diet": "Tortugas marinas, peces, rayas, aves marinas, mamíferos marinos, serpientes marinas y carroña",
+   "habitat": "Aguas costeras y de arrecife, desembocaduras de ríos y mar abierto hasta más de 350 m",
+   "lifespan": "Hasta unos 27–50 años",
+   "size": "Habitualmente 3–4 m; hasta 5,5 m y más de 600 kg",
+   "behaviour": "Cazador mayormente nocturno que acude a festines previsibles, como los pollos de albatros que cada verano echan a volar en los bajos de French Frigate (Hawái).",
+   "fieldMarks": [
+    "Barras verticales o manchas oscuras en el dorso, más marcadas en los jóvenes y que se desvanecen en los adultos grandes",
+    "Hocico muy ancho, romo y casi cuadrado",
+    "Lóbulo superior de la cola largo y puntiagudo",
+    "Grandes dientes aserrados en forma de cresta de gallo",
+    "Espiráculo detrás del ojo"
+   ],
+   "lookalikes": "El solrayo o toro bacota (Carcharias taurus) tiene dientes irregulares que sobresalen y hocico puntiagudo; el tiburón toro (Carcharhinus leucas) carece de rayas y tiene un lóbulo caudal más corto.",
+   "whereToSee": "Tiger Beach (Bahamas); Fuvahmulah (Maldivas); Aliwal Shoal (Sudáfrica); bahía Shark (Australia Occidental)",
+   "season": "Tiger Beach, oct–ene; Fuvahmulah, todo el año",
+   "order": "Carcharhiniformes"
+  }
+ },
+ {
+  "scientific": "Sphyrna mokarran",
+  "common": "Pez martillo gigante (cornuda gigante)",
+  "summary": "El mayor de los peces martillo, con una alta aleta dorsal en forma de hoz y un 'martillo' casi recto repleto de electrorreceptores. Está especializado en rayas, a las que inmoviliza contra el fondo con la cabeza.",
+  "nativeRange": "Aguas costeras tropicales y templadas cálidas de todo el mundo",
+  "biomes": [
+   "Aguas costeras",
+   "Arrecife de coral",
+   "Plataforma continental"
+  ],
+  "abilities": [
+   "El cefalofolio distribuye ampliamente las ampollas de Lorenzini, lo que le ayuda a detectar los campos eléctricos de presas enterradas",
+   "Usa la cabeza para inmovilizar a las rayas contra el fondo mientras las muerde",
+   "Nada inclinado de lado, usando su alta aleta dorsal como un 'ala' para reducir la resistencia en torno a un 10 %",
+   "Parece inmune a los aguijones de las rayas; se han encontrado individuos con decenas clavados en la boca"
+  ],
+  "lore": "Sus aletas son muy apreciadas en el comercio de aletas de tiburón; los peces martillo se incluyeron en el Apéndice II de la CITES en 2013.",
+  "funFact": "Una hembra preñada puede llevar hasta unas 55 crías, que nacen con el martillo plegado hacia atrás para facilitar el parto.",
+  "animal": {
+   "diet": "Rayas, otros batoideos, meros, bagres y tiburones más pequeños",
+   "habitat": "Arrecifes costeros, lagunas y plataformas continentales hasta 80 m",
+   "lifespan": "Hasta unos 44 años",
+   "size": "Habitualmente 3,5 m; hasta unos 6 m",
+   "behaviour": "Nómada mayormente solitario que realiza migraciones estacionales a lo largo de las costas; es extremadamente vulnerable al estrés de captura y a menudo muere en los palangres.",
+   "fieldMarks": [
+    "Cabeza ancha en forma de martillo con el borde anterior casi recto y una muesca central en los adultos",
+    "Primera aleta dorsal muy alta y en forma de hoz",
+    "Aletas pélvicas altas con el borde posterior curvado",
+    "Pardo grisáceo por encima y blanco por debajo"
+   ],
+   "lookalikes": "La cornuda común (S. lewini) tiene el borde anterior curvado con una marcada muesca central y una aleta dorsal más baja; el pez martillo liso (S. zygaena) carece de muesca central.",
+   "whereToSee": "Bimini, Bahamas (dic–mar); Jupiter, Florida; Rangiroa, Polinesia Francesa",
+   "season": "Bimini, dic–mar; Rangiroa, dic–mar",
+   "order": "Carcharhiniformes"
+  }
+ },
+ {
+  "scientific": "Somniosus microcephalus",
+  "common": "Tiburón de Groenlandia",
+  "summary": "El vertebrado más longevo que se conoce: la datación por radiocarbono del cristalino sugiere que algunos individuos tienen unos 400 años. Recorre las frías profundidades árticas a la velocidad de una persona caminando.",
+  "nativeRange": "Océanos Atlántico norte y Ártico, desde el golfo de Maine y el mar del Norte hasta Svalbard y el Ártico canadiense",
+  "biomes": [
+   "Mar profundo",
+   "Mares polares",
+   "Plataforma continental"
+  ],
+  "abilities": [
+   "Esperanza de vida estimada de al menos 272 años, posiblemente de unos 400 (Nielsen et al., Science 2016)",
+   "Alcanza la madurez sexual hacia los 150 años",
+   "Nada a cerca de 1 km/h, una de las velocidades de natación más lentas entre los peces en relación con su tamaño",
+   "Sus tejidos contienen altos niveles de óxido de trimetilamina (OTMA), que estabiliza las proteínas en aguas frías y profundas"
+  ],
+  "edibleParts": [
+   "carne, solo tras fermentarla y secarla (hákarl)"
+  ],
+  "edibilityNote": "La carne fresca es venenosa por el OTMA, que se descompone en trimetilamina y causa síntomas de 'borrachera de tiburón' en personas y perros de trineo. El hákarl islandés se elabora fermentando la carne y secándola al aire durante meses; tiene un intenso olor a amoniaco.",
+  "lore": "Una leyenda inuit cuenta que el tiburón surgió del paño empapado en orina con que la diosa del mar Sedna se secaba el cabello, lo que explicaría el olor de su carne.",
+  "funFact": "Un tiburón de Groenlandia que quizá nació antes de que zarpara el Mayflower seguía nadando cuando los científicos lo muestrearon en la década de 2010.",
+  "animal": {
+   "diet": "Peces, focas, calamares y carroña, incluidos renos ahogados y restos de osos polares",
+   "habitat": "Aguas frías de plataforma y talud continental, a 0–2200 m; más cerca de la superficie en los inviernos árticos",
+   "lifespan": "Posiblemente 250–500 años",
+   "size": "Normalmente 2,5–5 m; hasta unos 7 m",
+   "behaviour": "Muchos adultos llevan un copépodo parásito (Ommatokoita elongata) adherido al ojo que daña la córnea, y aun así cazan con éxito.",
+   "fieldMarks": [
+    "Cuerpo macizo, cilíndrico, gris pardusco",
+    "Aletas dorsales pequeñas, redondeadas y sin espinas",
+    "Hocico corto y redondeado y ojos pequeños, a menudo con un copépodo colgando",
+    "Cola casi simétrica con un lóbulo inferior poco desarrollado"
+   ],
+   "lookalikes": "El tiburón dormilón del Pacífico (S. pacificus) es muy parecido, pero vive en el Pacífico norte; el tiburón peregrino tiene enormes hendiduras branquiales y una dorsal alta y triangular.",
+   "whereToSee": "Rara vez se ve vivo; inmersiones bajo el hielo en Arctic Bay y la isla de Baffin (Canadá), estuario del San Lorenzo en Baie-Comeau, museo del tiburón de Bjarnarhöfn (Islandia)",
+   "season": "Todo el año; más cerca de la superficie en invierno",
+   "order": "Squaliformes"
+  }
+ },
+ {
+  "scientific": "Isurus oxyrinchus",
+  "common": "Marrajo dientuso (mako)",
+  "summary": "El tiburón más rápido, capaz de arranques que a menudo se estiman en torno a 70 km/h y de saltos espectaculares de varios metros fuera del agua. De sangre caliente y gran capacidad de desplazamiento, ha sido intensamente sobrepescado por su carne y sus aletas.",
+  "nativeRange": "Océanos tropicales y templados de todo el mundo",
+  "biomes": [
+   "Mar abierto (pelágico)"
+  ],
+  "abilities": [
+   "Su endotermia regional mantiene los músculos, el cerebro y los ojos más calientes que el agua",
+   "Las escamas flexibles (dentículos) de los flancos podrían reducir la resistencia al controlar la separación del flujo",
+   "Salta hasta unos 6 m por encima del agua",
+   "Se han registrado marrajos marcados que han recorrido muchos miles de kilómetros a través de cuencas oceánicas"
+  ],
+  "edibleParts": [
+   "carne (rodajas)"
+  ],
+  "edibilityNote": "Su carne se consume ampliamente, pero contiene mucho metilmercurio; las embarazadas y los niños deben evitarla. Dada su condición de especie en peligro, es mejor no comerlo.",
+  "lore": "En El viejo y el mar (1952), de Ernest Hemingway, un mako ('dentuso') ataca el marlín de Santiago; en 2019 se incluyó en el Apéndice II de la CITES.",
+  "funFact": "En 2021 la CICAA acordó una prohibición de dos años de retener marrajos dientusos del Atlántico norte porque la población estaba sobrepescada.",
+  "animal": {
+   "diet": "Atunes, peces espada, caballas, calamares y otros tiburones",
+   "habitat": "Mar abierto, desde la superficie hasta unos 500 m",
+   "lifespan": "Unos 30 años",
+   "size": "Habitualmente 3 m; hasta unos 4 m y 500 kg",
+   "behaviour": "Cazador muy activo y de amplio radio de acción que ataca a peces espada y atunes desde abajo.",
+   "fieldMarks": [
+    "Cuerpo esbelto en forma de torpedo con un hocico cónico muy puntiagudo",
+    "Dorso azul índigo metálico y vientre blanco",
+    "Dientes largos, curvados y de borde liso, visibles incluso con la boca cerrada",
+    "Cola en media luna casi simétrica con una fuerte quilla",
+    "Cara inferior del hocico blanca"
+   ],
+   "lookalikes": "El marrajo carite (I. paucus) tiene aletas pectorales mucho más largas y la cara inferior del hocico oscura; el marrajo sardinero tiene una quilla secundaria y la punta posterior de la dorsal blanca; el tiburón blanco es más robusto y tiene dientes triangulares aserrados.",
+   "whereToSee": "Inmersiones pelágicas y en jaula mar adentro frente a San Diego, Cabo San Lucas, Rhode Island y Cape Point (Sudáfrica)",
+   "season": "Sur de California, verano–otoño; Nueva Inglaterra, jun–oct",
+   "order": "Lamniformes"
+  }
+ },
+ {
+  "scientific": "Prionace glauca",
+  "common": "Tintorera (tiburón azul)",
+  "summary": "Un tiburón esbelto, de aletas largas y un brillante color índigo, que recorre cuencas oceánicas enteras. Es el tiburón más pescado del mundo: cada año se capturan decenas de millones, muchos por sus aletas.",
+  "nativeRange": "Océanos templados y tropicales de todo el mundo",
+  "biomes": [
+   "Mar abierto (pelágico)"
+  ],
+  "abilities": [
+   "Realiza migraciones transoceánicas y cruza el Atlántico norte en un circuito en sentido horario con la corriente del Golfo",
+   "Las hembras tienen una piel hasta tres veces más gruesa que los machos, lo que las protege de los mordiscos durante el apareamiento",
+   "Pare camadas grandes, a veces de más de 100 crías",
+   "Se sumerge repetidamente a más de 1000 m en los remolinos para cazar calamares"
+  ],
+  "edibleParts": [
+   "aletas (sopa)",
+   "carne"
+  ],
+  "edibilityNote": "La carne debe desangrarse y ponerse en remojo para eliminar la urea; contiene niveles elevados de mercurio. El comercio de aletas impulsa sus grandes capturas.",
+  "lore": "Su nombre de género significa 'sierra' (prion) y el específico 'gris azulado' (glauca); en 2022 figuró entre los tiburones réquiem añadidos al Apéndice II de la CITES.",
+  "funFact": "Tintoreras marcadas frente a Nueva Inglaterra han sido recapturadas frente a España, Portugal y Brasil, a miles de kilómetros.",
+  "animal": {
+   "diet": "Calamares y peces pequeños, también aves marinas y carroña",
+   "habitat": "Mar abierto, desde la superficie hasta más de 1000 m",
+   "lifespan": "Unos 20 años",
+   "size": "Habitualmente 2–3 m; hasta unos 3,8 m",
+   "behaviour": "Los sexos y las clases de tamaño suelen segregarse geográficamente; hay zonas de cría cerca de las Azores y frente a Portugal.",
+   "fieldMarks": [
+    "Cuerpo muy esbelto con un hocico largo y puntiagudo",
+    "Dorso azul índigo metálico brillante, flancos azul vivo y vientre blanco",
+    "Aletas pectorales muy largas, estrechas y en forma de hoz",
+    "Ojos grandes y una primera dorsal baja y retrasada"
+   ],
+   "lookalikes": "El marrajo dientuso es más robusto, con pectorales más cortas y cola en media luna; el tiburón oceánico de puntas blancas tiene aletas anchas, redondeadas y con la punta blanca.",
+   "whereToSee": "Salidas de esnórquel mar adentro desde Pico (Azores), Cape Point (Sudáfrica), Cornualles y Rhode Island",
+   "season": "Azores, jul–sep; Cornualles, jul–sep",
+   "order": "Carcharhiniformes"
+  }
+ },
+ {
+  "scientific": "Cetorhinus maximus",
+  "common": "Tiburón peregrino",
+  "summary": "El segundo pez más grande, un gigante apacible que filtra plancton con sus cavernosas fauces. En verano recorre las aguas superficiales frente a Gran Bretaña, Irlanda y Nueva Inglaterra con la boca abierta.",
+  "nativeRange": "Mares templados de todo el mundo; se ve con más frecuencia en el Atlántico norte y el Pacífico norte",
+  "biomes": [
+   "Aguas costeras",
+   "Plataforma continental",
+   "Mar abierto (pelágico)"
+  ],
+  "abilities": [
+   "Filtra unas 2000 toneladas de agua por hora a través de sus branquispinas",
+   "Se alimenta por filtración pasiva: nada con la boca abierta en lugar de succionar el agua",
+   "El marcaje muestra que en invierno se sumerge a gran profundidad y cruza cuencas oceánicas",
+   "Salta por completo fuera del agua pese a pesar varias toneladas"
+  ],
+  "lore": "Harpoon at a Venture (1952), de Gavin Maxwell, relata su fallida pesquería de tiburón peregrino en las Hébridas; el aceite de su hígado alumbró en otro tiempo lámparas en Irlanda y Escocia.",
+  "funFact": "Al pudrirse, los cadáveres de tiburón peregrino pierden la mandíbula inferior y las estructuras branquiales, y adoptan una forma de cuello largo que se ha confundido con 'monstruos marinos' plesiosaurios, como el cadáver del Zuiyo-maru en 1977.",
+  "animal": {
+   "diet": "Zooplancton, sobre todo copépodos",
+   "habitat": "Desde la superficie hasta más de 1000 m; a menudo cerca de frentes de marea donde se concentra el plancton",
+   "lifespan": "Se estima en unos 50 años",
+   "size": "Habitualmente 6–8 m; hasta unos 10–12 m",
+   "behaviour": "En verano se reúne en grupos en frentes ricos en plancton y nada lentamente en círculos; se ha observado un seguimiento 'hocico con cola' que parece un cortejo.",
+   "fieldMarks": [
+    "Tamaño enorme, con una gran aleta dorsal triangular y la punta de la cola a menudo visibles a la vez en superficie",
+    "Enormes hendiduras branquiales que casi rodean la cabeza",
+    "Boca cavernosa que se abre de par en par al alimentarse; hocico cónico y puntiagudo",
+    "Cuerpo gris pardusco jaspeado"
+   ],
+   "lookalikes": "El tiburón ballena tiene manchas blancas y una cabeza plana y ancha; el tiburón blanco tiene hendiduras branquiales pequeñas y una boca de bordes oscuros llena de dientes. Ver dos aletas a la vez da pie a menudo a relatos de 'serpientes marinas' o de 'dos tiburones'.",
+   "whereToSee": "Hébridas (Coll, Tiree), Cornualles, oeste de Irlanda (Malin Head), isla de Man, cabo Cod",
+   "season": "Visitante estival, may–sep, en el Atlántico nororiental",
+   "order": "Lamniformes"
+  }
+ },
+ {
+  "scientific": "Hemiscyllium ocellatum",
+  "common": "Tiburón charretera",
+  "summary": "Un pequeño tiburón de arrecife moteado que 'camina' por las charcas de marea sobre sus aletas pares y sobrevive horas casi sin oxígeno cuando baja la marea.",
+  "nativeRange": "Arrecifes someros del norte de Australia y el sur de Nueva Guinea",
+  "biomes": [
+   "Arrecife de coral",
+   "Planicies arrecifales y lagunas",
+   "Charcas de marea"
+  ],
+  "abilities": [
+   "Camina sobre las aletas pectorales y pélvicas entre charcas, incluso a través del arrecife expuesto",
+   "Tolera una hipoxia severa durante horas desactivando la actividad cerebral no esencial",
+   "Se estudia como modelo para el ictus y la tolerancia a la falta de oxígeno ligada al clima"
+  ],
+  "lore": "Su nombre común alude al adorno militar del hombro (charretera) al que se parece su ocelo.",
+  "funFact": "Su manera de caminar con las aletas se parece a la de las salamandras, por lo que se estudia en busca de pistas sobre cómo los primeros vertebrados pasaron a tierra firme.",
+  "animal": {
+   "diet": "Gusanos, cangrejos, camarones y peces pequeños",
+   "habitat": "Planicies arrecifales someras y charcas de marea, rara vez por debajo de 10 m",
+   "lifespan": "Hasta unos 20–25 años",
+   "size": "Hasta cerca de 1 m; normalmente menos de 70 cm",
+   "behaviour": "Caza al anochecer y de noche hurgando con el hocico en la arena y las grietas; de día se esconde bajo el coral.",
+   "fieldMarks": [
+    "Gran mancha negra rodeada de blanco detrás de cada aleta pectoral (la 'charretera')",
+    "Cuerpo esbelto con una cola larga",
+    "Pequeñas manchas oscuras dispersas sobre un fondo pardo claro",
+    "Barbillas cortas cerca de las narinas"
+   ],
+   "lookalikes": "Otros tiburones caminantes (Hemiscyllium spp. de Nueva Guinea e Indonesia) difieren en el dibujo de las manchas; el tiburón bambú de bandas pardas carece de la mancha de la charretera.",
+   "whereToSee": "Planicies arrecifales de las islas Heron y Lady Elliot (Gran Barrera de Coral) con marea baja",
+   "season": "Todo el año; mejor con las mareas bajas del anochecer",
+   "order": "Orectolobiformes"
+  }
+ },
+ {
+  "scientific": "Aetobatus narinari",
+  "common": "Chucho pintado (raya águila moteada)",
+  "summary": "Una raya elegante de dorso oscuro con manchas blancas y hocico como un pico de pato, que a menudo se ve 'volando' en grupos sobre los arrecifes atlánticos. Sus mandíbulas parten almejas y caracolas con dientes en forma de placa.",
+  "nativeRange": "Atlántico occidental y central, desde Carolina del Norte hasta Brasil, incluidos el golfo de México y el Caribe; las poblaciones del Indopacífico se separan hoy en otras especies",
+  "biomes": [
+   "Aguas costeras",
+   "Arrecife de coral",
+   "Pradera marina",
+   "Fondos arenosos"
+  ],
+  "abilities": [
+   "Tritura moluscos de concha dura con placas dentarias fusionadas en forma de chevrón",
+   "Desentierra las presas de la arena con su hocico en forma de pala",
+   "Salta fuera del agua y a veces cae dentro de las embarcaciones",
+   "Lleva de una a varias espinas venenosas y dentadas en la base de su larga cola"
+  ],
+  "lore": "El nombre específico narinari procede de un nombre tupí-guaraní recogido por Georg Marcgrave en su Historia Naturalis Brasiliae (1648).",
+  "funFact": "En 2008 un chucho pintado que saltó fuera del agua golpeó y mató a una navegante en los cayos de Florida, una de las poquísimas muertes de este tipo registradas.",
+  "animal": {
+   "diet": "Almejas, ostras, caracolas, bocinas, camarones y cangrejos",
+   "habitat": "Aguas costeras someras, bahías, arrecifes y lagunas hasta unos 80 m",
+   "lifespan": "Hasta unos 25 años",
+   "size": "Disco de hasta unos 3 m de envergadura",
+   "behaviour": "A menudo nada en grupos laxos, a veces en cardúmenes de decenas, cerca de la superficie o sobre bajos arenosos.",
+   "fieldMarks": [
+    "Dorso de negro azulado a gris densamente cubierto de manchas o anillos blancos",
+    "Aletas pectorales puntiagudas en forma de ala",
+    "Hocico saliente en forma de pico de pato con la punta plana y redondeada",
+    "Cola muy larga, como un látigo, a menudo 2–3 veces la anchura del disco"
+   ],
+   "lookalikes": "La raya látigo americana carece de manchas y tiene un disco romboidal sin cabeza saliente; la raya gavilán tiene la frente con una muesca y dos lóbulos y el dorso pardo liso.",
+   "whereToSee": "Bonaire, Cozumel, Belice, cayos de Florida, Bermudas",
+   "season": "Todo el año; costa de Sarasota (Florida), may–oct",
+   "order": "Myliobatiformes"
+  }
+ },
+ {
+  "scientific": "Hypanus americanus",
+  "common": "Raya látigo americana (raya del sur)",
+  "summary": "Una raya plana en forma de rombo que se entierra en la arena dejando solo los ojos a la vista. En Stingray City (islas Caimán), generaciones de rayas han aprendido a reunirse alrededor de las embarcaciones turísticas en busca de calamar.",
+  "nativeRange": "Atlántico occidental, desde Nueva Jersey hasta el sur de Brasil, golfo de México y Caribe",
+  "biomes": [
+   "Fondos arenosos",
+   "Pradera marina",
+   "Arrecife de coral",
+   "Lagunas"
+  ],
+  "abilities": [
+   "Aguijón venenoso y aserrado en la cola que usa para defenderse",
+   "Bate las aletas o lanza chorros de agua para desenterrar presas",
+   "Sus electrorreceptores detectan presas ocultas bajo la arena",
+   "La siguen jureles y cormoranes que atrapan las presas que ella hace salir"
+  ],
+  "lore": "A mediados del siglo XX, los pescadores que limpiaban sus capturas en el banco de arena de North Sound, en Gran Caimán, atraían a las rayas, lo que dio origen a Stingray City, hoy uno de los puntos de buceo más visitados del Caribe.",
+  "funFact": "En 2016 pasó del género Dasyatis a Hypanus tras una revisión genética de las rayas látigo.",
+  "animal": {
+   "diet": "Almejas, gusanos, camarones, cangrejos y peces pequeños",
+   "habitat": "Bajos arenosos someros, praderas marinas y lagunas, hasta unos 50 m",
+   "lifespan": "Hembras hasta unos 25 años",
+   "size": "Disco de las hembras de hasta 1,5 m de anchura; machos mucho más pequeños (unos 0,7 m)",
+   "behaviour": "De día descansa enterrada en la arena con solo los ojos y los espiráculos al descubierto; se alimenta activamente de noche y al amanecer y al anochecer.",
+   "fieldMarks": [
+    "Disco romboidal con las esquinas exteriores agudas",
+    "Cara superior de pardo oliváceo a gris liso y cara inferior blanca",
+    "Cola larga como un látigo, con una espina venenosa aserrada y un pliegue bajo por debajo",
+    "Ojos y espiráculos situados en lo alto de la cabeza"
+   ],
+   "lookalikes": "La raya látigo del Atlántico (H. sabinus) es más pequeña y de disco más redondeado; la raya látigo de cola espinosa tiene espinas a lo largo de la cola; el chucho pintado tiene manchas blancas y la cabeza saliente.",
+   "whereToSee": "Stingray City y Sandbar, Gran Caimán; Bimini; Hol Chan (Belice); Antigua",
+   "season": "Todo el año",
+   "order": "Myliobatiformes"
+  }
+ },
+ {
+  "scientific": "Pristis pristis",
+  "common": "Pez sierra común",
+  "summary": "Una raya con cuerpo de tiburón y una larga 'sierra' dentada que usa para detectar y golpear a sus presas. Nace en ríos y estuarios y puede remontar cientos de kilómetros aguas arriba, pero ha desaparecido de gran parte de su antigua área de distribución.",
+  "nativeRange": "Costas, estuarios y ríos tropicales del Atlántico, el Pacífico oriental y el Indopacífico occidental; hoy confinado en gran medida al norte de Australia, partes de África occidental y Centro y Sudamérica",
+  "biomes": [
+   "Estuarios",
+   "Ríos",
+   "Aguas costeras",
+   "Manglar"
+  ],
+  "abilities": [
+   "El rostro (la sierra) está cubierto de electrorreceptores que detectan presas en aguas turbias",
+   "Mueve la sierra de un lado a otro para aturdir y ensartar peces",
+   "Las crías nacen con los dientes de la sierra envainados para proteger a la madre",
+   "Se desplaza entre el agua de mar y el agua dulce y remonta cientos de kilómetros por ríos como el Amazonas"
+  ],
+  "lore": "Los rostros de pez sierra se vendían como curiosidades en todo el mundo; en la cultura bijagó de África occidental y entre los aborígenes australianos, el pez sierra es una importante figura espiritual.",
+  "funFact": "Tres especies antes separadas (P. microdon, P. perotteti y P. pristis) se fusionaron en una sola en 2013 tras un estudio genético.",
+  "animal": {
+   "diet": "Peces, crustáceos y moluscos",
+   "habitat": "Estuarios turbios, desembocaduras de ríos y ríos de agua dulce; los adultos, en mares costeros",
+   "lifespan": "Hasta unos 35–45 años",
+   "size": "Hasta unos 6,5–7 m",
+   "behaviour": "Los juveniles pasan sus primeros años en los ríos, a veces muy tierra adentro en pozas aisladas como las del río Fitzroy (Australia Occidental), antes de pasar al mar como adultos.",
+   "fieldMarks": [
+    "Rostro largo, plano y en forma de hoja, con dientes grandes y muy espaciados (14–24 pares)",
+    "La primera aleta dorsal nace por delante de las aletas pélvicas",
+    "Lóbulo inferior marcado en la aleta caudal",
+    "Cuerpo de tiburón, de gris a pardo amarillento, con la cabeza aplanada"
+   ],
+   "lookalikes": "El pez sierra peine (P. pectinata) tiene más dientes y más juntos (20–34 pares) y carece de lóbulo caudal inferior; los tiburones sierra son verdaderos tiburones, con barbillas en la sierra y hendiduras branquiales en los lados de la cabeza.",
+   "whereToSee": "Raramente; ríos Fitzroy y Daly en el norte de Australia; algunos acuarios públicos de Norteamérica, Europa, Australia y Asia",
+   "season": "Todo el año; los juveniles se desplazan con las crecidas de la estación lluviosa",
+   "order": "Rhinopristiformes"
+  }
+ },
+ {
+  "scientific": "Torpedo marmorata",
+  "common": "Tembladera (torpedo marmóreo)",
+  "summary": "Una raya redonda y jaspeada que aturde a sus presas con descargas de hasta unos 200 voltios procedentes de un par de órganos eléctricos. Los antiguos griegos y romanos la usaban para adormecer el dolor, y sus órganos eléctricos ayudaron más tarde a los científicos a descubrir cómo transmiten señales los nervios.",
+  "nativeRange": "Atlántico oriental, desde el mar del Norte hasta Sudáfrica, y el Mediterráneo",
+  "biomes": [
+   "Fondos arenosos",
+   "Pradera marina",
+   "Arrecife rocoso",
+   "Plataforma continental"
+  ],
+  "abilities": [
+   "Los órganos eléctricos con forma de riñón situados en el disco generan descargas de unos 70–200 V",
+   "Envuelve a la presa con el disco y la paraliza con descargas",
+   "De día se entierra en la arena para emboscar peces por la noche",
+   "Sus órganos eléctricos son ricos en receptores de acetilcolina, por lo que fueron una fuente clave para la investigación en neurociencia"
+  ],
+  "lore": "El médico romano Escribonio Largo (siglo I d. C.) prescribía descargas de un torpedo vivo contra los dolores de cabeza y la gota; en el Menón de Platón se compara a Sócrates con la narke que entumece.",
+  "funFact": "La palabra 'narcótico' procede del griego narke, 'entumecimiento', la misma raíz que el nombre griego de las rayas eléctricas.",
+  "animal": {
+   "diet": "Peces de fondo pequeños, como gobios, merluzas y salmonetes",
+   "habitat": "Fondos blandos de arena o fango, praderas marinas y arrecifes, a 10–100 m",
+   "lifespan": "Incierta; probablemente unos 12–15 años",
+   "size": "Hasta cerca de 1 m; normalmente menos de 60 cm",
+   "behaviour": "Permanece inmóvil y enterrada; cuando un pez pasa por encima, se lanza hacia arriba y libera una ráfaga de pulsos eléctricos.",
+   "fieldMarks": [
+    "Disco blando, casi circular, con una cola corta y gruesa",
+    "Cara superior parda, moteada o jaspeada",
+    "Dos pequeñas aletas dorsales cerca de la cola y una aleta caudal ancha",
+    "Espiráculos detrás de los ojos con pequeñas papilas digitiformes en el borde"
+   ],
+   "lookalikes": "El torpedo ocelado (T. torpedo) tiene cinco ocelos negro azulados; el torpedo negro (Tetronarce nobiliana) es uniformemente oscuro y mucho más grande.",
+   "whereToSee": "Inmersiones en praderas marinas del Mediterráneo (Croacia, Grecia, Baleares), islas Canarias, costa portuguesa",
+   "season": "Todo el año",
+   "order": "Torpediniformes"
+  }
+ },
+ {
+  "scientific": "Pampus argenteus",
+  "common": "Palometa plateada (pámpano plateado)",
+  "summary": "Un pez plateado, plano y en forma de rombo, muy apreciado en Pakistán, la India, Bangladés y el Golfo, donde la palometa entera frita o al curri es un clásico. La fuerte demanda ha provocado acusados descensos en partes de su área de distribución.",
+  "nativeRange": "Indopacífico occidental: golfo Pérsico, mar Arábigo y golfo de Bengala hasta el mar de la China Meridional y Japón",
+  "biomes": [
+   "Aguas costeras",
+   "Plataforma continental",
+   "Fondos fangosos"
+  ],
+  "abilities": [
+   "Cuerpo alto y muy comprimido para maniobrar en aguas costeras turbias",
+   "Se alimenta de medusas y ctenóforos, además de plancton",
+   "De adulto carece por completo de aletas pélvicas"
+  ],
+  "edibleParts": [
+   "pez entero (frito, tandoori, al curri, al vapor)"
+  ],
+  "edibilityNote": "Bajo en mercurio. Pescado de primera en los mercados de Karachi, Bombay, Calcuta y Kuwait. Sin problemas particulares de toxicidad.",
+  "lore": "En Kuwait se le conoce como 'zubaidi' y se considera el pez nacional; en bengalí su nombre, 'rupchanda', evoca una luna de plata.",
+  "funFact": "La UICN ha evaluado la población del golfo Pérsico como Vulnerable debido a la sobrepesca.",
+  "animal": {
+   "diet": "Zooplancton, medusas, ctenóforos y pequeños invertebrados",
+   "habitat": "Fondos costeros fangosos y estuarios, a 5–110 m",
+   "size": "Normalmente 15–30 cm; hasta unos 60 cm",
+   "behaviour": "Se desplaza en cardúmenes sobre los fondos fangosos de la plataforma y entra en aguas costeras durante la época de desove.",
+   "fieldMarks": [
+    "Cuerpo plateado muy alto, romboidal y comprimido lateralmente",
+    "Boca pequeña con un hocico romo y redondeado",
+    "Aletas dorsal y anal largas y en forma de hoz",
+    "Sin aletas pélvicas; cola profundamente ahorquillada con el lóbulo inferior más largo"
+   ],
+   "lookalikes": "La palometa negra (Parastromateus niger) es gris negruzca y tiene aletas pélvicas de joven; la palometa plateada china (Pampus chinensis) tiene una cola corta y apenas ahorquillada; en los mercados de la India y el Golfo, la palometa 'blanca' mezcla varias especies de Pampus.",
+   "whereToSee": "Puerto pesquero de Karachi, Sassoon Dock (Bombay), mercado de pescado de Sharq (Kuwait)",
+   "season": "Todo el año; las capturas aumentan al terminar el monzón del suroeste",
+   "order": "Scombriformes"
+  }
+ },
+ {
+  "scientific": "Rastrelliger kanagurta",
+  "common": "Caballa de la India",
+  "summary": "Una caballa pequeña y barata que alimenta a millones de personas en las costas del océano Índico. Nada con la boca abierta, filtrando el plancton a través de sus largas branquispinas plumosas.",
+  "nativeRange": "Indopacífico occidental, desde el mar Rojo y África oriental hasta Indonesia, Australia, Samoa y Japón; llegó al Mediterráneo oriental a través del canal de Suez",
+  "biomes": [
+   "Aguas costeras",
+   "Plataforma continental"
+  ],
+  "abilities": [
+   "Se alimenta por filtración mediante ventilación por embestida, con branquispinas largas y densas",
+   "Forma grandes cardúmenes cerca de las costas de afloramiento durante las estaciones monzónicas",
+   "Madura en menos de un año"
+  ],
+  "edibleParts": [
+   "pez entero (frito, al curri, a la parrilla, salado y seco)"
+  ],
+  "edibilityNote": "Baja en mercurio y rica en omega-3. Se estropea rápidamente; el pescado mal refrigerado puede causar intoxicación escombroide.",
+  "lore": "La ayala y la bangda fritas y al curri son platos básicos de la cocina de Kerala, Goa y Mangalore, y desde hace siglos este pez se sala y se seca al sol en las playas indias.",
+  "funFact": "El nombre específico procede de 'kanagurta', un nombre telugu registrado por Patrick Russell en su obra de 1803 sobre los peces de Vizagapatam, en la costa de Coromandel.",
+  "animal": {
+   "diet": "Fitoplancton, copépodos y larvas de peces",
+   "habitat": "Aguas costeras y bahías con temperaturas superiores a 17 °C",
+   "lifespan": "Unos 3–4 años",
+   "size": "Normalmente 20–25 cm; hasta 35 cm",
+   "behaviour": "Los cardúmenes se acercan a las costas de Malabar y Konkan con las proliferaciones de plancton posteriores al monzón.",
+   "fieldMarks": [
+    "Cuerpo de caballa alto y comprimido con la cabeza puntiaguda",
+    "Estrechas rayas longitudinales oscuras en la parte superior del dorso",
+    "Mancha negra cerca del borde inferior de la aleta pectoral",
+    "Franja lateral dorada en el pescado fresco",
+    "Cinco pínulas detrás de las aletas dorsal y anal"
+   ],
+   "lookalikes": "La caballa corta (R. brachysoma) tiene el cuerpo más alto y sin rayas dorsales; la caballa isleña (R. faughni) tiene manchas oscuras en lugar de líneas.",
+   "whereToSee": "Mercados de pescado de Kerala, Goa, Mangalore, Karachi y Colombo; inmersiones en arrecifes de las Maldivas y el mar Rojo, donde los cardúmenes se alimentan por filtración con la boca abierta",
+   "season": "Temporada alta de pesca, sep–mar, en la costa occidental de la India",
+   "order": "Scombriformes"
+  }
+ },
+ {
+  "scientific": "Harpadon nehereus",
+  "common": "Bombay duck (bombil)",
+  "summary": "Un pez lagarto blando, casi gelatinoso, con dientes como agujas y que no tiene nada de pato, pese a su nombre inglés ('pato de Bombay'). Secado al sol en armazones de bambú a lo largo de la costa de Bombay, sus filetes de olor penetrante se convirtieron en un famoso condimento de la época del Raj británico.",
+  "nativeRange": "Indopacífico: mar Arábigo y golfo de Bengala hasta el mar de la China Meridional e Indonesia",
+  "biomes": [
+   "Estuarios",
+   "Aguas costeras",
+   "Fondos fangosos"
+  ],
+  "abilities": [
+   "Su cuerpo es agua en un 90 % aproximadamente, lo que lo hace gelatinoso y translúcido",
+   "La boca está erizada de dientes dentados que apuntan hacia atrás",
+   "Se congrega en enormes cantidades frente a las desembocaduras de los ríos durante el monzón"
+  ],
+  "edibleParts": [
+   "pez entero (fresco frito, al curri)",
+   "filetes secos (sukha bombil)"
+  ],
+  "edibilityNote": "Se come fresco (bombil frito) o seco. El Bombay duck seco tiene un olor fuerte. Sin problemas particulares de toxicidad.",
+  "lore": "Una teoría relaciona 'Bombay duck' con los trenes correo del Bombay Daak, cuyos vagones olían a pescado seco; otra, con una deformación inglesa de 'bombil'. Una prohibición de importación de la UE en 1997 por las normas de procesado impulsó en Gran Bretaña una campaña para 'salvar el Bombay duck'.",
+  "funFact": "Su nombre de género, Harpadon, significa 'de dientes en forma de gancho'.",
+  "animal": {
+   "diet": "Peces pequeños, gambas y crustáceos",
+   "habitat": "Aguas costeras turbias y fangosas cerca de las desembocaduras de los ríos",
+   "lifespan": "Unos 2–3 años",
+   "size": "Normalmente 20–25 cm; hasta unos 40 cm",
+   "behaviour": "Se alimenta cerca de la superficie de noche y se acerca a la costa en grandes bancos con las aguas de crecida del monzón.",
+   "fieldMarks": [
+    "Cuerpo pálido, blando y semitransparente",
+    "Boca grande con muchos dientes finos, curvos, como agujas",
+    "Aleta caudal trilobulada, con un lóbulo central prolongado por la línea lateral",
+    "Aletas pectorales y pélvicas largas y oscuras"
+   ],
+   "lookalikes": "Otros peces lagarto (Saurida) son más firmes, con escamas y de cuerpo cilíndrico; Harpadon translucens tiene el cuerpo más transparente.",
+   "whereToSee": "Mercados de pescado de Bombay (Sassoon Dock), Karachi y Chittagong; secaderos a lo largo de la costa de Konkan",
+   "season": "Todo el año; las mayores capturas, después del monzón",
+   "order": "Aulopiformes"
+  }
+ }
+]

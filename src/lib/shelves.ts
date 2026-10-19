@@ -1,3 +1,4 @@
+import type { Lang } from "@/i18n/config";
 import type { Shelf } from "./types";
 
 // Shelves group the codex by what a living thing does for, or to, the people who meet it.
@@ -62,3 +63,51 @@ export const ATLAS_LAYERS = [
   { id: "fish", label: "Ray-finned fish", gbif: "taxonKey=204", inat: "Actinopterygii" },
   { id: "molluscs", label: "Molluscs", gbif: "taxonKey=52", inat: "Mollusca" },
 ];
+
+// ——— Spanish ———
+
+const SHELVES_ES: Record<string, { title: string; blurb: string }> = {
+  medicinal: { title: "El Botiquín", blurb: "Plantas y hongos que los sanadores de al menos una tradición han recetado, de los hakims unani a los compiladores del Bencao. Cada ficha dice cuán sólida es la evidencia moderna." },
+  fruit: { title: "El Huerto de Frutales", blurb: "Todo lo que da un fruto que la gente come: qué es botánicamente, cuándo madura y cómo criar el árbol o la planta que lo lleva." },
+  edible: { title: "La Huerta", blurb: "Hojas, raíces, semillas, flores y hongos que se pueden comer con la preparación adecuada, y las partes de esas mismas plantas que no." },
+  staple: { title: "El Granero", blurb: "El puñado de cultivos que alimenta a la mayor parte de la humanidad: cereales, tubérculos y legumbres, y dónde se domesticó cada uno." },
+  spice: { title: "El Cofre de las Especias", blurb: "Corteza, botón, semilla y estigma que movieron rutas marítimas, guerras e imperios." },
+  toxic: { title: "El Jardín Venenoso", blurb: "Plantas y hongos que hacen daño: qué parte, qué toxina, qué efecto, y las especies inofensivas con que se confunden." },
+  deadly: { title: "La Vitrina Cerrada", blurb: "Especies que pueden matar a una persona. Lee, mira y no toques." },
+  tree: { title: "La Arboleda", blurb: "Árboles, entre ellos los más altos, los más anchos y los organismos individuales más viejos jamás encontrados." },
+  ancient: { title: "Los Antiguos", blurb: "Fósiles vivientes e individuos de edad extraordinaria: linajes que vieron llegar y desaparecer a los dinosaurios." },
+  carnivorous: { title: "Las Carnívoras del Mundo Verde", blurb: "Plantas que atrapan, ahogan y digieren animales para compensar suelos pobres." },
+  pollinator: { title: "Los Polinizadores", blurb: "Abejas, polillas, aves y murciélagos que llevan el polen, y sin los cuales fallaría cerca de un tercio de nuestra comida." },
+  "pollinator-plant": { title: "El Nectario", blurb: "Plantas que vale la pena cultivar para abejas, mariposas y colibríes." },
+  psychoactive: { title: "El Estante Visionario", blurb: "Especies que alteran la conciencia, leídas a través de los rituales y farmacopeas que las usaron. Historia, no instrucciones." },
+  marvel: { title: "El Gabinete de Maravillas", blurb: "Hongos que brillan, medusas inmortales, animales que sobreviven al vacío del espacio: los récords y lo improbable." },
+  keystone: { title: "Los Ingenieros", blurb: "Especies clave. Si se quita una, todo el ecosistema a su alrededor cambia de forma." },
+  migrant: { title: "Los Viajeros", blurb: "Animales que cruzan océanos y hemisferios, algunos cada año de su vida." },
+  ocean: { title: "Las Profundidades", blurb: "La vida del mar, de los bosques de kelp al abismo." },
+  endangered: { title: "Los que Desaparecen", blurb: "Especies que la UICN considera Vulnerables, En Peligro o En Peligro Crítico." },
+  sacred: { title: "El Bosque Sagrado", blurb: "Especies en el centro de una fe o una cultura: el árbol Bodhi, el loto, el cuervo." },
+  "dye-fibre": { title: "El Estante del Tejedor", blurb: "Fuentes de tela, cuerda, tinte, papel y madera." },
+  songbird: { title: "El Coro", blurb: "Cantores: sobre todo aves canoras, y las ranas e insectos cuyas voces llenan la noche. Cada ficha describe la voz, y puedes escuchar grabaciones de campo." },
+  freshwater: { title: "El Río", blurb: "La vida de ríos, lagos y marismas, del mahseer de los torrentes del Himalaya al ajolote de los últimos canales de Ciudad de México." },
+  venomous: { title: "El Gabinete del Veneno", blurb: "Animales que muerden, pican o envenenan. Qué hace el veneno y cómo mantener la distancia." },
+};
+
+export function shelvesFor(lang: Lang): Shelf[] {
+  return lang === "es" ? SHELVES.map((s) => ({ ...s, ...(SHELVES_ES[s.id] ?? {}) })) : SHELVES;
+}
+export const shelfIn = (lang: Lang, id: string) => shelvesFor(lang).find((s) => s.id === id);
+
+const EDIBILITY_ES: Record<string, string> = { edible: "Comestible", "edible-with-care": "Comestible con cuidado", "not-edible": "No se come", toxic: "Tóxico", deadly: "Mortal" };
+export const edibilityLabel = (lang: Lang, k: string) => (lang === "es" ? EDIBILITY_ES[k] : EDIBILITY[k]?.label) ?? k;
+
+const IUCN_ES: Record<string, string> = {
+  NE: "No evaluado", DD: "Datos insuficientes", LC: "Preocupación menor", NT: "Casi amenazado", VU: "Vulnerable", EN: "En peligro",
+  CR: "En peligro crítico", EW: "Extinto en estado silvestre", EX: "Extinto",
+};
+export const iucnLabel = (lang: Lang, k: string) => (lang === "es" ? IUCN_ES[k] : IUCN[k]?.label) ?? k;
+
+const LAYERS_ES: Record<string, string> = {
+  all: "Toda la vida", plants: "Plantas", fungi: "Hongos", birds: "Aves", insects: "Insectos", mammals: "Mamíferos", reptiles: "Lagartos y serpientes",
+  amphibians: "Anfibios", fish: "Peces óseos", molluscs: "Moluscos",
+};
+export const layersFor = (lang: Lang) => (lang === "es" ? ATLAS_LAYERS.map((l) => ({ ...l, label: LAYERS_ES[l.id] ?? l.label })) : ATLAS_LAYERS);

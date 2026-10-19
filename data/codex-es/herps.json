@@ -1,0 +1,1908 @@
+[
+ {
+  "scientific": "Naja naja",
+  "common": "Cobra india (cobra de anteojos)",
+  "summary": "La serpiente encapuchada de los templos indios y de los espectáculos callejeros, y una de las cuatro especies de los 'Big Four' (los 'cuatro grandes') responsables de la mayoría de las muertes por mordedura de serpiente en el sur de Asia. Cuando se alarma se yergue y despliega una capucha marcada en el dorso con un dibujo claro en forma de anteojos.",
+  "nativeRange": "Subcontinente indio: Pakistán, India, Nepal, Bután, Bangladés y Sri Lanka",
+  "biomes": [
+   "Bosque tropical seco",
+   "Tierras de cultivo",
+   "Pastizal",
+   "Pueblos y ciudades"
+  ],
+  "abilities": [
+   "Despliega la capucha separando hacia fuera sus largas costillas delanteras",
+   "Su veneno es principalmente neurotóxico y puede paralizar los músculos respiratorios; también causa una hinchazón dolorosa y muerte de tejido alrededor de la mordedura",
+   "Prospera en arrozales y pueblos, donde caza ratas y sapos",
+   "Las hembras custodian su puesta de huevos hasta la eclosión"
+  ],
+  "lore": "Las cobras son veneradas en el festival de Nag Panchami, y la serpiente Vasuki se enrosca en el cuello de Shiva. El cuento 'Rikki-Tikki-Tavi' (1894) de Rudyard Kipling hizo famosa a la pareja de cobras Nag y Nagaina. La Ley de Protección de la Vida Silvestre de la India (1972) prohibió tener cobras para encantamiento de serpientes.",
+  "funFact": "Una cobra no puede oír como música el pungi del encantador de serpientes. Se balancea porque sigue el movimiento del instrumento.",
+  "animal": {
+   "diet": "Roedores, sapos, ranas, lagartos, aves y sus huevos, y otras serpientes",
+   "habitat": "Llanuras, tierras de cultivo, matorral, lindes de bosque y asentamientos humanos, desde el nivel del mar hasta las colinas",
+   "lifespan": "Unos 20 años o más en cautividad",
+   "size": "Normalmente 1–1,5 m; excepcionalmente más de 2 m",
+   "behaviour": "Cuando se ve acorralada levanta el tercio anterior del cuerpo, despliega la capucha y bufa con fuerza, aunque prefiere huir. Una mordedura es una urgencia médica: mantenga a la persona quieta y tranquila, quítele anillos y prendas ajustadas, inmovilice la extremidad mordida y llévela rápidamente a un hospital que disponga de antiveneno polivalente. No corte, no succione, no aplique torniquete, no use hielo ni recurra a curanderos tradicionales, porque estos retrasos cuestan vidas.",
+   "fieldMarks": [
+    "Capucha con unos 'anteojos' claros (dos anillos unidos) en el dorso; algunos ejemplares carecen de la marca",
+    "Escamas lisas y brillantes; color de amarillento o pardo a casi negro",
+    "Banda oscura y un par de manchas en la garganta, visibles con la capucha desplegada",
+    "Cabeza mediana apenas más ancha que el cuello; pupilas redondas"
+   ],
+   "lookalikes": "Se confunde sobre todo con la inofensiva serpiente ratonera india (Ptyas mucosa). La ratonera no puede desplegar capucha, tiene ojos muy grandes y su cola larga y fina presenta barras transversales oscuras o un dibujo reticulado. Cuando se la provoca hincha la garganta, lo que puede parecer una capucha estrecha. La cobra monóculo (Naja kaouthia) del este de la India y Bangladés tiene un solo anillo en la capucha en lugar de anteojos. La cobra real (Ophiophagus) es mucho más grande, a menudo anillada, y tiene una capucha más estrecha. Si una serpiente despliega capucha, trátela como una cobra.",
+   "whereToSee": "Común en toda la India de tierras bajas y en Sri Lanka, en campos de cultivo y pueblos; se ve a menudo al anochecer en torno a arrozales y edificios infestados de ratas",
+   "season": "Residente; más activa en la estación cálida y durante el monzón, cuando abundan ratas y ranas",
+   "order": "Squamata"
+  }
+ },
+ {
+  "scientific": "Bungarus caeruleus",
+  "common": "Krait común",
+  "summary": "Un miembro brillante y de hábitos nocturnos de los 'cuatro grandes', con uno de los venenos más potentes de todas las serpientes terrestres asiáticas. Muchas mordeduras afectan a personas que duermen en el suelo, a menudo causan poco dolor y pueden provocar parálisis horas después.",
+  "nativeRange": "Pakistán, India, Nepal, Bangladés y Sri Lanka",
+  "biomes": [
+   "Tierras de cultivo",
+   "Matorral",
+   "Bosque tropical seco",
+   "Pueblos y ciudades"
+  ],
+  "abilities": [
+   "Sus neurotoxinas, entre ellas la beta-bungarotoxina, impiden que las señales nerviosas lleguen a los músculos",
+   "Caza de noche otras serpientes, incluidos otros kraits",
+   "Sus mordeduras a menudo apenas causan dolor ni hinchazón, por lo que las víctimas pueden no darse cuenta de que han sido mordidas"
+  ],
+  "lore": "La palabra inglesa 'krait' procede del hindi karait. 'The Thanatophidia of India' (1872) de Joseph Fayrer (Las serpientes mortíferas de la India), con sus láminas coloreadas a mano del krait y otras serpientes letales, documentó por primera vez la magnitud de las muertes por mordedura de serpiente en la India británica.",
+  "funFact": "La bungarotoxina de un pariente del krait, el krait de muchas bandas, se convirtió en una herramienta de laboratorio estándar para cartografiar los receptores a través de los cuales los nervios activan los músculos.",
+  "animal": {
+   "diet": "Sobre todo otras serpientes; también roedores, lagartos y ranas",
+   "habitat": "Campos, matorral, termiteros, madrigueras de ratas y casas; a menudo cerca del agua",
+   "size": "Normalmente ~1 m; hasta ~1,75 m",
+   "behaviour": "De día es tímido y esconde la cabeza bajo sus anillos, pero de noche está activo y entra en las casas. Los signos de envenenamiento son caída de los párpados, visión doble, dificultad para tragar y dolor abdominal, seguidos de insuficiencia respiratoria, por lo que cualquier persona que pueda haber sido mordida necesita atención hospitalaria aunque se encuentre bien. En los primeros auxilios, mantenga a la persona quieta, inmovilice la extremidad y trasládela con urgencia. El soporte respiratorio y el antiveneno salvan vidas. Dormir en una cama elevada bajo un mosquitero bien remetido previene muchas mordeduras.",
+   "fieldMarks": [
+    "Cuerpo brillante de azul acero a negro con estrechas bandas transversales blancas dispuestas en pares, más nítidas hacia la cola y tenues o ausentes en el cuello",
+    "Hilera de escamas hexagonales agrandadas a lo largo del espinazo, que forman una ligera cresta",
+    "Cabeza redondeada apenas más ancha que el cuello; ojos pequeños y negros",
+    "Vientre blanco liso"
+   ],
+   "lookalikes": "Se confunde a menudo con las inofensivas serpientes lobo común (Lycodon aulicus) y serpiente lobo listada (L. striatus). Las serpientes lobo son pardas y mates, no de un negro azulado brillante. Sus bandas blancas empiezan justo detrás de una cabeza aplanada, no tienen escamas agrandadas en el espinazo y a menudo presentan un collar claro. Una serpiente anillada, negra y brillante, con bandas que se desvanecen hacia la cabeza debe tratarse como un krait.",
+   "whereToSee": "Extendido por toda la India de tierras bajas y Sri Lanka; se encuentra sobre todo de noche en caminos y casas durante el monzón",
+   "season": "Residente; las mordeduras alcanzan su máximo en el monzón (junio–septiembre), cuando las inundaciones expulsan a las serpientes de sus madrigueras",
+   "order": "Squamata"
+  }
+ },
+ {
+  "scientific": "Daboia russelii",
+  "common": "Víbora de Russell",
+  "summary": "Una víbora de cuerpo grueso de los pastizales y tierras de cultivo del sur de Asia, marcada con tres cadenas de óvalos oscuros con borde claro. Se cree que causa más muertes por mordedura que ninguna otra serpiente en el sur de Asia, porque es común en tierras de cultivo donde la gente trabaja descalza.",
+  "nativeRange": "Pakistán, India, Nepal, Bangladés y Sri Lanka (la víbora de Russell oriental, Daboia siamensis, la sustituye de Birmania hacia el este)",
+  "biomes": [
+   "Pastizal",
+   "Tierras de cultivo",
+   "Matorral"
+  ],
+  "abilities": [
+   "Su veneno vuelve el sistema de coagulación de la sangre contra sí mismo, agotando los factores de coagulación de modo que la víctima sangra sin control",
+   "Bufa tan fuerte y durante tanto tiempo que a menudo se la oye antes de verla",
+   "Es vivípara y suele tener camadas de 20–40 crías",
+   "Su veneno puede dañar los riñones y, a veces, la hipófisis"
+  ],
+  "lore": "La especie debe su nombre al cirujano y naturalista escocés Patrick Russell, que describió las serpientes de la costa de Coromandel en 'An Account of Indian Serpents' (1796) (Relación de las serpientes indias). En Sri Lanka es la tic polonga, un nombre temido desde hace mucho en el folclore rural.",
+  "funFact": "Una prueba con veneno de víbora de Russell llamada tiempo de veneno de víbora de Russell diluido (dRVVT) se usa en laboratorios de hematología de todo el mundo para detectar el anticoagulante lúpico.",
+  "animal": {
+   "diet": "Sobre todo roedores; también lagartos, ranas y aves",
+   "habitat": "Pastizales abiertos, matorral, arrozales y cañaverales; evita el bosque denso",
+   "size": "Normalmente ~1–1,2 m; hasta ~1,7 m",
+   "behaviour": "Permanece enroscada e inmóvil y, cuando se la molesta, bufa con fuerza y ataca con gran potencia. Las mordeduras causan dolor intenso e hinchazón, sangrado de encías y heridas, e insuficiencia renal. El tratamiento es antiveneno en el hospital, guiado por la prueba de coagulación de sangre total a los 20 minutos. Mantenga la extremidad inmóvil y no use vendajes apretados ni torniquetes en mordeduras de víbora.",
+   "fieldMarks": [
+    "Cuerpo de tostado a pardo con tres hileras de óvalos pardo oscuro ribeteados de negro y luego de blanco; la hilera central se une a lo largo del dorso",
+    "Cabeza grande, plana y triangular con una marca clara en V o en X y franjas oscuras detrás del ojo",
+    "Cuerpo pesado, cola corta, escamas ásperas y quilladas",
+    "Narinas grandes y pupilas verticales; sin fosetas termorreceptoras"
+   ],
+   "lookalikes": "Se confunde con la inofensiva boa de arena común (Eryx conicus), que tiene una cola corta y roma, ojos diminutos y manchas irregulares en lugar de hileras ordenadas de óvalos anillados. También con la pitón india (Python molurus), que tiene una punta de flecha clara en la cabeza, fosetas termorreceptoras en los labios y escamas lisas. La gran cabeza triangular de la víbora de Russell, sus escamas quilladas y su fortísimo bufido la delatan.",
+   "whereToSee": "Arrozales, pastizales secos y matorral rocoso de toda la India y Sri Lanka; por ejemplo, la meseta del Decán y la zona seca de Sri Lanka",
+   "season": "Residente; la mayoría de las mordeduras se producen en las épocas de cosecha y siembra",
+   "order": "Squamata"
+  }
+ },
+ {
+  "scientific": "Echis carinatus",
+  "common": "Víbora gariba (víbora de escamas de sierra)",
+  "summary": "La más pequeña de los 'cuatro grandes', rara vez más larga que un antebrazo, pero irritable, común y armada con un potente veneno que impide la coagulación de la sangre. Advierte a los intrusos con un chisporroteo áspero que produce frotando sus escamas laterales aserradas.",
+  "nativeRange": "India y Sri Lanka, y hacia el oeste por Pakistán, Afganistán e Irán hasta partes de la península arábiga",
+  "biomes": [
+   "Desierto",
+   "Matorral",
+   "Llanuras secas rocosas",
+   "Tierras de cultivo"
+  ],
+  "abilities": [
+   "Produce un siseo áspero (estridulación) frotando las escamas quilladas y aserradas de los flancos mientras dobla el cuerpo en anillos en forma de C",
+   "Su veneno puede causar hemorragias y fallo de la coagulación que duran días",
+   "Sobrevive en lugares cálidos y secos donde pocas otras víboras pueden hacerlo"
+  ],
+  "lore": "La Irula Snake Catchers' Industrial Cooperative de Tamil Nadu, fundada en 1978 con el herpetólogo Romulus Whitaker, extrae veneno de víboras garibas y del resto de los 'cuatro grandes', y suministra gran parte del veneno con que se fabrica el antiveneno polivalente de la India.",
+  "funFact": "En partes de África y Asia, las víboras Echis figuran entre las serpientes que causan más muertes por mordedura, y algunos expertos creen que matan a más personas que cualquier otro grupo.",
+  "animal": {
+   "diet": "Roedores, lagartos, ranas, escorpiones, ciempiés e insectos",
+   "habitat": "Llanuras secas rocosas o arenosas, matorral sobre laterita, márgenes de los campos",
+   "size": "Normalmente 30–60 cm; raramente ~80 cm",
+   "behaviour": "Se enrosca en forma de ocho y raspa con fuerza; luego ataca con rapidez, a veces más de una vez. Las mordeduras causan hinchazón local y problemas de sangrado, que pueden aparecer tarde. Toda persona mordida necesita observación hospitalaria, pruebas de coagulación y antiveneno. Mantenga la extremidad inmóvil, evite los torniquetes y no corte la herida.",
+   "fieldMarks": [
+    "Víbora pequeña y robusta de cola corta",
+    "Línea blanca clara y ondulada a lo largo de cada flanco, con una hilera de manchas oscuras en forma de silla de borde claro por encima",
+    "Marca clara en forma de cruz, tridente o pata de ave sobre la cabeza piriforme",
+    "Escamas muy ásperas y quilladas; ojos grandes con pupilas verticales"
+   ],
+   "lookalikes": "En Arabia y África, las inofensivas serpientes comedoras de huevos (Dasypeltis) imitan su exhibición de enroscarse y raspar. Las comedoras de huevos tienen una cabeza pequeña y redondeada apenas más ancha que el cuello y carecen de la cruz clara en la cabeza. En la India, las víboras de Russell juveniles tienen hileras de óvalos anillados, no líneas onduladas en los flancos. Una serpiente pequeña de escamas ásperas que raspa en el matorral seco debe tratarse como una víbora gariba y dejarse en paz.",
+   "whereToSee": "Común en las llanuras secas del Decán y del Rajastán, la costa de Ratnagiri y la zona seca de Sri Lanka; a menudo se encuentra bajo piedras y en los márgenes de los campos",
+   "season": "Residente; más activa y más frecuente en las noches cálidas después de la lluvia",
+   "order": "Squamata"
+  }
+ },
+ {
+  "scientific": "Dendroaspis polylepis",
+  "common": "Mamba negra",
+  "summary": "La serpiente venenosa más larga de África y, pese a su nombre, de color gris a pardo oliváceo. El nombre se debe al revestimiento negro como la tinta del interior de su boca, que abre en actitud amenazante. Antes del antiveneno, una mordedura grave era casi siempre mortal.",
+  "nativeRange": "Sabanas y bosques abiertos del este y el sur de África, con poblaciones dispersas en África occidental",
+  "biomes": [
+   "Sabana",
+   "Bosque abierto",
+   "Colinas rocosas"
+  ],
+  "abilities": [
+   "Una de las serpientes más rápidas en tierra, capaz de mantener la cabeza y la parte anterior del cuerpo levantadas mientras se desplaza",
+   "Su veneno contiene dendrotoxinas y otras neurotoxinas que pueden causar parálisis e insuficiencia respiratoria en cuestión de horas",
+   "Puede atacar repetidamente desde una posición erguida",
+   "Regresa durante años al mismo refugio, como un termitero o un árbol hueco"
+  ],
+  "lore": "El nombre mamba procede del zulú imamba. El nombre del género, Dendroaspis, significa 'áspid de los árboles', aunque la mamba negra pasa gran parte del tiempo en el suelo.",
+  "funFact": "Las mambalginas, péptidos presentes en el veneno de la mamba negra, aliviaron el dolor en ratones con una potencia similar a la de la morfina y con menos efectos secundarios, lo que las ha convertido en una vía prometedora en la investigación de analgésicos.",
+  "animal": {
+   "diet": "Roedores, damanes, gálagos y aves",
+   "habitat": "Sabana seca, afloramientos rocosos y bosque abierto; se refugia en termiteros y árboles huecos",
+   "size": "Normalmente 2–2,5 m; excepcionalmente unos 3 m o más",
+   "behaviour": "Es tímida y suele huir si puede. Cuando se ve acorralada se yergue, despliega una capucha estrecha, abre su boca negra y bufa. Una mordedura requiere atención hospitalaria urgente con antiveneno y soporte respiratorio. Como primeros auxilios, un vendaje compresivo firme en la extremidad mordida y una férula pueden ralentizar el veneno mientras se traslada a la persona al hospital. No corte, no succione ni use torniquetes.",
+   "fieldMarks": [
+    "Cuerpo largo y esbelto, de gris a pardo oliváceo con el vientre más claro; nunca realmente negro",
+    "Cabeza larga 'en forma de ataúd' con el arco superciliar marcado",
+    "Interior de la boca negro, visible cuando la abre",
+    "Escamas lisas; ojos medianos de pupila redonda"
+   ],
+   "lookalikes": "El color por sí solo no es una guía fiable. La inofensiva serpiente topo (Pseudaspis cana) es más robusta, con cabeza pequeña y cola corta. La boomslang tiene la cabeza corta y ojos enormes. Las mambas verdes son de un verde vivo y viven en el dosel del bosque. Las cobras despliegan una capucha más ancha. Una serpiente gris grande, de cabeza alargada, que se mueve rápido con la cabeza levantada debe tratarse como una mamba.",
+   "whereToSee": "Parque Nacional Kruger y KwaZulu-Natal en Sudáfrica, Hluhluwe–iMfolozi, sabanas de Kenia y Tanzania",
+   "season": "Residente; activa de día, a menudo tomando el sol por la mañana",
+   "order": "Squamata"
+  }
+ },
+ {
+  "scientific": "Oxyuranus microlepidotus",
+  "common": "Taipán del interior",
+  "summary": "En las pruebas estándar con ratones tiene el veneno más tóxico de todas las serpientes terrestres. También es tímido y vive en las remotas llanuras aluviales de arcilla agrietada del centro de Australia, y no se ha registrado ninguna muerte humana causada por él.",
+  "nativeRange": "Channel Country del suroeste de Queensland y el noreste de Australia Meridional, con registros periféricos en Nueva Gales del Sur y el Territorio del Norte",
+  "biomes": [
+   "Desierto",
+   "Llanura aluvial árida",
+   "Llanuras pedregosas (gibber) y arcillosas"
+  ],
+  "abilities": [
+   "Su veneno, rico en neurotoxinas y toxinas que alteran la coagulación, es el más letal de todas las serpientes terrestres en las pruebas de DL50 en ratones",
+   "Cambia de color con las estaciones: oscuro en invierno para absorber calor y más claro en verano",
+   "Caza ratas en sus profundas grietas del suelo y madrigueras, asestando varias mordeduras rápidas"
+  ],
+  "lore": "Frederick McCoy lo describió en 1879 a partir de ejemplares recogidos cerca de la confluencia del Murray y el Darling. Después, la ciencia casi no volvió a registrarlo durante unos 90 años, hasta su redescubrimiento en 1972.",
+  "funFact": "Su cambio de color estacional es de los más acusados de todas las serpientes: un mismo individuo puede tener la cabeza casi negra en invierno y ser de color paja claro en verano.",
+  "animal": {
+   "diet": "Casi exclusivamente mamíferos, sobre todo la rata de pelo largo (Rattus villosissimus)",
+   "habitat": "Grietas profundas del suelo y madrigueras en llanuras aluviales de suelo negro con poca vegetación",
+   "size": "Normalmente ~1,8 m; hasta ~2,5 m",
+   "behaviour": "Por lo general se escabulle en una grieta antes que enfrentarse a una persona; casi todas las mordeduras conocidas se produjeron al manipular la serpiente. Los primeros auxilios australianos para mordeduras de elápidos consisten en un vendaje firme de presión-inmovilización a lo largo de toda la extremidad mordida, una férula, mantener a la persona quieta y llamar a los servicios de emergencia. No lave la zona de la mordedura, porque los kits hospitalarios de detección de veneno utilizan el veneno que queda en la piel.",
+   "fieldMarks": [
+    "Cabeza redondeada y brillante, más oscura que el cuerpo, casi negra en invierno",
+    "Cuerpo de pardo claro a oliva, con muchas escamas de borde oscuro que forman un tenue dibujo en espiga",
+    "Ojos grandes y oscuros; escamas lisas",
+    "Complexión esbelta, de tamaño mediano a grande"
+   ],
+   "lookalikes": "Se confunde fácilmente con las serpientes marrones (Pseudonaja), sobre todo la serpiente marrón oriental y la serpiente marrón occidental o gwardar, que comparten su área de distribución y también son peligrosas. Estas carecen de la cabeza oscura y brillante que el taipán del interior muestra en los meses frescos. El taipán costero (O. scutellatus) vive lejos, en las costas del norte y el este de Australia. Ninguna especie inofensiva de la zona puede distinguirse con seguridad en el campo; cualquier serpiente parda de tamaño mediano a grande en Australia debe tratarse como peligrosa.",
+   "whereToSee": "Rara vez se ve; remoto Channel Country en torno al Diamantina y Cooper Creek; mejor en parques de reptiles como el Australian Reptile Park",
+   "season": "Residente; más activo a primera hora de la mañana en primavera y a principios del verano",
+   "order": "Squamata"
+  }
+ },
+ {
+  "scientific": "Crotalus adamanteus",
+  "common": "Serpiente de cascabel diamantina del este",
+  "summary": "La mayor serpiente de cascabel y la serpiente venenosa más pesada de América, marcada con una cadena de rombos oscuros ribeteados de crema. Es una serpiente de las sabanas de pino de hoja larga del sureste de EE. UU., donde a menudo se refugia en las madrigueras de la tortuga gofer.",
+  "nativeRange": "Llanura costera del sureste de Estados Unidos, desde Carolina del Norte hasta Florida y, hacia el oeste, hasta Luisiana",
+  "biomes": [
+   "Sabana de pino de hoja larga",
+   "Matorral",
+   "Islas costeras",
+   "Llanuras de palmito"
+  ],
+  "abilities": [
+   "Las fosetas termorreceptoras entre el ojo y la narina le permiten 'ver' presas de sangre caliente en la oscuridad",
+   "Su cascabel, formado por segmentos de queratina encajados que se añaden con cada muda, emite un fuerte zumbido de advertencia",
+   "Su veneno destruye los tejidos e impide la coagulación de la sangre",
+   "Puede pasar meses entre una comida y otra"
+  ],
+  "lore": "En 1775 Benjamin Franklin, escribiendo como 'An American Guesser' (un adivino americano), propuso la serpiente de cascabel como símbolo de las colonias porque avisa antes de atacar. La serpiente enroscada de la bandera de Gadsden ('Don't Tread on Me', 'No me pises') data de la misma época.",
+  "funFact": "Las 'rattlesnake roundups', cacerías en las que se saca a las serpientes de las madrigueras de tortuga gofer con gas y se las mata, amenazan a esta especie desde hace mucho; la de Claxton (Georgia) se convirtió en un festival de fauna en 2012.",
+  "animal": {
+   "diet": "Conejos, ratas, ardillas y aves",
+   "habitat": "Llanuras de pinar, pinares de pino de hoja larga con gramíneas, colinas arenosas, dunas costeras e islas barrera",
+   "lifespan": "~10–20 años",
+   "size": "Normalmente 1–1,7 m; excepcionalmente ~2,4 m",
+   "behaviour": "Cazadora al acecho que espera días junto a los senderos de los conejos; luego ataca y sigue el rastro de olor de la presa moribunda. Una mordedura es una urgencia hospitalaria. Mantenga a la persona tranquila y la extremidad quieta, aproximadamente a la altura del corazón, quítele anillos y relojes y llévela a un hospital para recibir antiveneno CroFab o Anavip. No use torniquetes, hielo, cortes, succión ni descargas eléctricas.",
+   "fieldMarks": [
+    "Rombos pardo oscuro perfilados de crema a lo largo del dorso, sobre un cuerpo oliva o pardo",
+    "Dos líneas diagonales claras a cada lado de la cara, una que parte de delante del ojo y otra de detrás",
+    "Cascabel en la punta de una cola anillada de pardo y gris",
+    "Cuerpo pesado, cabeza ancha y triangular, foseta termorreceptora y pupilas verticales"
+   ],
+   "lookalikes": "La serpiente de cascabel de los bosques (canebrake) tiene bandas transversales oscuras en forma de V y la cola completamente negra. Las inofensivas serpientes ratoneras, corredoras y de nariz de cerdo pueden hacer vibrar la cola entre la hojarasca seca y producir un sonido de cascabeleo, pero no tienen cascabel y sus pupilas son redondas. El cascabel, los rombos y las líneas faciales claras identifican a la diamantina.",
+   "whereToSee": "Pinares de pino de hoja larga de Florida y Georgia, como el Bosque Nacional de Ocala, e islas costeras como Little St Simons y Sapelo",
+   "season": "Residente; más activa en primavera y otoño; el apareamiento tiene lugar a finales del verano",
+   "order": "Squamata"
+  }
+ },
+ {
+  "scientific": "Bitis gabonica",
+  "common": "Víbora de Gabón",
+  "summary": "Una víbora pesada y lenta cuyo dibujo geométrico púrpura, beige y pardo desaparece entre la hojarasca del suelo del bosque africano. Tiene los colmillos más largos de todas las serpientes y produce más veneno que casi cualquier otra.",
+  "nativeRange": "África central y oriental, hacia el sur hasta Zambia, Mozambique y el noreste de Sudáfrica (la víbora de Gabón de África occidental se considera hoy una especie distinta, Bitis rhinoceros)",
+  "biomes": [
+   "Selva tropical",
+   "Linde del bosque",
+   "Bosque abierto"
+  ],
+  "abilities": [
+   "Sus colmillos pueden superar los 5 cm, los más largos de todas las serpientes",
+   "Produce algunas de las mayores cantidades de veneno de todas las serpientes",
+   "Su dibujo geométrico es un camuflaje tan eficaz que alguien puede pasar por encima de ella sin verla",
+   "Ataca y retiene a la presa en lugar de soltarla"
+  ],
+  "lore": "El nombre de la especie alude a Gabón, entonces colonia francesa, donde supuestamente se recogieron los ejemplares usados para su descripción en 1854. La UICN la clasifica hoy como Vulnerable; entre las amenazas figuran la pérdida de hábitat y la captura para carne de caza y para el comercio de mascotas.",
+  "funFact": "Pese a su temible armamento, las mordeduras son raras: es tan reacia a moverse o atacar que la mayoría de las mordeduras ocurren cuando alguien la pisa.",
+  "animal": {
+   "diet": "Roedores, liebres, pequeños antílopes, aves terrestres y ranas",
+   "habitat": "Suelo de la selva, lindes del bosque y plantaciones de cacao y café",
+   "size": "Normalmente 1,2–1,5 m; puede alcanzar ~1,8 m",
+   "behaviour": "Célebre por su placidez: permanece inmóvil, confiando en su camuflaje, y emite un fuerte bufido de advertencia antes de morder. Las mordeduras son raras, pero causan una hinchazón masiva, muerte de tejido y hemorragias. Mantenga la extremidad inmóvil, no aplique un vendaje apretado y lleve a la persona al hospital para recibir antiveneno.",
+   "fieldMarks": [
+    "Cabeza muy ancha, plana y triangular, de color blanco crema, con una fina línea central oscura y triángulos oscuros detrás de los ojos",
+    "Un par de pequeñas escamas en forma de cuerno entre las narinas",
+    "Dorso con un dibujo de rectángulos claros, relojes de arena y triángulos pardo purpúreos",
+    "Cuerpo enormemente grueso y cola corta"
+   ],
+   "lookalikes": "La víbora rinoceronte (Bitis nasicornis) tiene dos o tres pares de grandes cuernos nasales y un dibujo azul, verde y carmesí. La víbora bufadora (B. arietans) tiene galones claros sobre un dorso pardo amarillento. La víbora de Gabón de África occidental (B. rhinoceros) tiene un triángulo oscuro bajo cada ojo y cuernos nasales más grandes. Ninguna serpiente inofensiva de su área de distribución tiene su complexión y su forma de cabeza.",
+   "whereToSee": "Rara vez se ve en libertad; bosques de Uganda, bosque de Kakamega en Kenia, bosque costero de Mozambique y norte de KwaZulu-Natal",
+   "season": "Residente; principalmente nocturna",
+   "order": "Squamata"
+  }
+ },
+ {
+  "scientific": "Bothrops asper",
+  "common": "Terciopelo (barba amarilla)",
+  "summary": "La víbora de foseta responsable de la mayoría de las mordeduras graves de serpiente en Centroamérica. Es común en fincas y plantaciones, y las hembras tienen camadas numerosas. En sentido estricto, 'fer-de-lance' (punta de lanza) es la especie de Martinica Bothrops lanceolatus, pero el nombre se usa ampliamente para esta serpiente.",
+  "nativeRange": "Desde el sur de México, a través de Centroamérica, hasta el noroeste de Sudamérica (Colombia, Ecuador y noroeste de Venezuela)",
+  "biomes": [
+   "Selva tropical",
+   "Plantaciones",
+   "Riberas"
+  ],
+  "abilities": [
+   "Su veneno causa hinchazón intensa, ampollas, muerte de tejido y hemorragias",
+   "Las hembras paren camadas numerosas, a menudo de 20–40 crías y a veces muchas más",
+   "Sus fosetas termorreceptoras localizan presas de sangre caliente de noche",
+   "Prospera en plantaciones de banano y café, donde abundan las ratas de las que se alimenta"
+  ],
+  "lore": "El Instituto Clodomiro Picado de Costa Rica, fundado en 1970 y llamado así en honor del científico costarricense que estudió el ofidismo a principios del siglo XX, produce un antiveneno contra esta especie que se usa en toda Centroamérica y fuera de ella.",
+  "funFact": "Los terciopelos recién nacidos ya tienen veneno y colmillos plenamente funcionales.",
+  "animal": {
+   "diet": "Roedores y zarigüeyas; los juveniles comen ranas y lagartijas, a las que atraen moviendo la punta clara de la cola",
+   "habitat": "Bosque húmedo de tierras bajas, lindes del bosque, plantaciones y potreros, a menudo cerca de arroyos",
+   "size": "Normalmente 1,2–1,8 m; las hembras son mucho más grandes que los machos, hasta ~2,5 m",
+   "behaviour": "Principalmente nocturna; puede ponerse nerviosa y atacar con rapidez cuando alguien pisa cerca. Las mordeduras requieren tratamiento hospitalario con antiveneno polivalente, como el antiveneno del ICP de Costa Rica. Mantenga la extremidad inmóvil y no aplique torniquetes, ni corte ni succione la herida.",
+   "fieldMarks": [
+    "Cabeza grande, plana y en forma de punta de flecha, con un borde afilado a lo largo de la parte superior del hocico",
+    "Dibujo dorsal de triángulos oscuros de borde claro que se unen a lo largo del espinazo formando X",
+    "Mentón y garganta amarillos o crema (de ahí 'barba amarilla')",
+    "Foseta termorreceptora entre el ojo y la narina; pupilas verticales"
+   ],
+   "lookalikes": "La inofensiva falsa terciopelo (Xenodon rabdocephalus) imita sus colores y aplana la cabeza cuando se siente amenazada, pero tiene pupilas redondas, no tiene fosetas termorreceptoras y sus escamas son lisas. Las serpientes ojo de gato (Leptodeira) tienen pupilas verticales, pero son esbeltas, de cabeza pequeña y con manchas en lugar de marcas en X. En su área de distribución, cualquier serpiente grande de cabeza plana con triángulos en los costados debe tratarse como un terciopelo.",
+   "whereToSee": "Bosques de tierras bajas de Costa Rica (La Selva, Tortuguero, península de Osa), Panamá y el Chocó colombiano; se ve a menudo en caminatas nocturnas",
+   "season": "Residente; más activa en noches húmedas; los partos son frecuentes al inicio de la estación lluviosa",
+   "order": "Squamata"
+  }
+ },
+ {
+  "scientific": "Dispholidus typus",
+  "common": "Boomslang",
+  "summary": "Una serpiente arborícola esbelta y de ojos enormes del África subsahariana. Sus colmillos están en la parte posterior de la boca, pero su veneno es uno de los más peligrosos de todas las serpientes. Las mordeduras son raras, pero el veneno actúa lentamente y puede causar hemorragias internas mortales un día o más después.",
+  "nativeRange": "África subsahariana, desde África occidental hasta Etiopía y hacia el sur hasta Sudáfrica; ausente de la selva central y de los desiertos más áridos",
+  "biomes": [
+   "Sabana",
+   "Bosque abierto",
+   "Fynbos",
+   "Matorral del Karoo"
+  ],
+  "abilities": [
+   "Tiene una vista excelente para ser una serpiente, con ojos muy grandes que la ayudan a cazar camaleones a la vista",
+   "Su veneno impide la coagulación de la sangre y causa hemorragias en encías, heridas y órganos internos",
+   "Cuando se siente amenazada hincha la garganta hasta el doble de su tamaño, mostrando la piel de vivos colores entre las escamas"
+  ],
+  "lore": "En 1957 el herpetólogo estadounidense Karl P. Schmidt fue mordido por una boomslang juvenil que estaba identificando. Pensando que una serpiente de colmillos posteriores no podía matarlo, fue anotando sus síntomas a medida que avanzaban y murió al día siguiente.",
+  "funFact": "La boomslang tiene unos de los ojos más grandes, en proporción al tamaño de la cabeza, de todas las serpientes.",
+  "animal": {
+   "diet": "Camaleones y otros lagartos arborícolas, aves con sus huevos y polluelos, y ranas",
+   "habitat": "Árboles y arbustos de la sabana, el bosque abierto, el fynbos y el matorral del Karoo",
+   "size": "Normalmente 1–1,6 m; hasta ~2 m",
+   "behaviour": "Tímida; huye entre las ramas y solo muerde cuando se la manipula o se la acorrala. Como los síntomas pueden tardar horas en aparecer, toda persona mordida debe ir al hospital de inmediato y permanecer en observación al menos 24 horas. En Sudáfrica se fabrica un antiveneno monovalente específico contra la boomslang. Mantenga la extremidad inmóvil; nunca corte ni succione la herida.",
+   "fieldMarks": [
+    "Cabeza corta, ovoide, con ojos enormes, mucho más grandes que en la mayoría de las serpientes",
+    "Color muy variable: los machos suelen ser de un verde vivo, o verdes con escamas ribeteadas de negro; las hembras, normalmente oliva o pardas",
+    "Escamas fuertemente quilladas y cuerpo esbelto como un látigo",
+    "Garganta hinchada como un globo cuando se alarma"
+   ],
+   "lookalikes": "Las inofensivas serpientes verdes de matorral (Philothamnus) son muy parecidas, pero más pequeñas y con ojos más pequeños en proporción a la cabeza. Pueden ser difíciles de distinguir incluso para expertos, así que nunca se acerque a una ni la manipule para comprobarlo; trate cualquier serpiente arborícola verde o parda de ojos grandes como una posible boomslang. Las mambas verdes tienen la cabeza larga y estrecha y ojos más pequeños.",
+   "whereToSee": "Parque Nacional Kruger, KwaZulu-Natal, el Cabo Oriental y Occidental, sabanas de África oriental; a menudo en acacias cerca de nidos de tejedores",
+   "season": "Residente; activa de día, sobre todo en los meses cálidos",
+   "order": "Squamata"
+  }
+ },
+ {
+  "scientific": "Laticauda colubrina",
+  "common": "Serpiente marina anillada (cobra marina)",
+  "summary": "Una serpiente con anillos negros y azul plateado que caza anguilas en los arrecifes de coral y sale a tierra en islotes para digerir, mudar, aparearse y poner huevos. Tiene un potente veneno neurotóxico, pero es tan dócil que las mordeduras son muy raras.",
+  "nativeRange": "Indopacífico tropical, desde el golfo de Bengala y el mar de Andamán, a través del Sudeste Asiático, hasta el sur de Japón, Nueva Guinea, Fiyi y Tonga",
+  "biomes": [
+   "Arrecife de coral",
+   "Costa rocosa",
+   "Manglar"
+  ],
+  "abilities": [
+   "Su cola en forma de remo la impulsa bajo el agua, mientras que sus anchas escamas ventrales le permiten trepar en tierra",
+   "Puede bucear durante largos periodos mientras caza anguilas en las grietas",
+   "Su veneno, con potentes neurotoxinas, mata rápidamente a las anguilas",
+   "Pone huevos en tierra, en grietas de las rocas, a diferencia de las verdaderas serpientes marinas, que paren crías vivas en el mar"
+  ],
+  "lore": "En las islas Ryukyu, su pariente la serpiente marina erabu se ahumaba y secaba para preparar irabu-jiru, un caldo tradicional que antaño se servía en la corte real de Ryukyu.",
+  "funFact": "Las serpientes marinas anilladas necesitan beber agua dulce. No pueden obtener lo que necesitan del agua de mar y buscan charcos de lluvia y filtraciones de agua dulce en su isla.",
+  "animal": {
+   "diet": "Casi exclusivamente morenas y congrios",
+   "habitat": "Arrecifes de coral someros y sus islotes, costas rocosas y manglares",
+   "size": "Normalmente ~1 m; las hembras son más grandes, hasta ~1,5 m",
+   "behaviour": "Caza en grupo, a veces junto a jureles y salmonetes que atrapan las presas que la serpiente hace salir. Las mordeduras son raras y normalmente solo ocurren cuando alguien agarra una serpiente. El envenenamiento causa parálisis. Los primeros auxilios consisten en un vendaje de presión-inmovilización y una férula, mantener a la persona quieta y llevarla con urgencia a un hospital, donde pueden necesitarse antiveneno contra serpientes marinas y soporte respiratorio.",
+   "fieldMarks": [
+    "Llamativos anillos negros sobre un cuerpo gris azulado claro",
+    "Labio superior y hocico de un amarillo vivo",
+    "Cola aplanada en forma de remo con la punta negra ribeteada de amarillo",
+    "Escamas ventrales anchas (a diferencia de la mayoría de las serpientes marinas)"
+   ],
+   "lookalikes": "La serpiente marina de labios azules (L. laticaudata) tiene el labio superior oscuro. La anguila serpiente anillada (Myrichthys colubrinus), inofensiva para las personas, imita los anillos de la serpiente marina, pero es un pez: tiene la cola puntiaguda con aleta, carece de escamas y de labio amarillo, y nunca se ve fuera del agua.",
+   "whereToSee": "Común en arrecifes de Filipinas, Indonesia (Bali, Komodo, Raja Ampat), Fiyi, Vanuatu, Nueva Caledonia y Okinawa; los buceadores la ven a menudo, y también descansando en las rocas de los islotes",
+   "season": "Residente todo el año",
+   "order": "Squamata"
+  }
+ },
+ {
+  "scientific": "Micrurus fulvius",
+  "common": "Serpiente de coral oriental (coralillo)",
+  "summary": "Una serpiente pequeña y esquiva del sureste de EE. UU., con anillos rojos, amarillos y negros y un potente veneno neurotóxico. Las inofensivas falsas corales y serpientes escarlata imitan sus colores, lo que la ha convertido en el ejemplo clásico de mimetismo de advertencia en serpientes.",
+  "nativeRange": "Sureste de Estados Unidos: llanura costera desde Carolina del Norte hasta Florida y, hacia el oeste, hasta Luisiana (la serpiente de coral de Texas, Micrurus tener, la sustituye más al oeste)",
+  "biomes": [
+   "Llanuras de pinar",
+   "Colinas arenosas",
+   "Bosquetes de frondosas",
+   "Jardines suburbanos"
+  ],
+  "abilities": [
+   "Su veneno es principalmente neurotóxico: puede paralizar la respiración horas después de una mordedura que parecía leve",
+   "Caza otras serpientes, que engulle enteras",
+   "Cuando se siente amenazada esconde la cabeza y enrosca la cola para que parezca una segunda cabeza"
+  ],
+  "lore": "Linneo la describió en 1766 como Coluber fulvius. Ella y sus inofensivas imitadoras se convirtieron en el caso de manual de la coloración de advertencia y el mimetismo, y experimentos de campo con serpientes de plastilina demostraron que las aves evitan los dibujos de anillos rojos, amarillos y negros.",
+  "funFact": "Wyeth dejó de fabricar el antiveneno estadounidense contra la serpiente de coral en 2003, y durante años la FDA prorrogó la fecha de caducidad de las existencias restantes para que siguiera habiendo algo disponible.",
+  "animal": {
+   "diet": "Sobre todo otras serpientes y lagartos",
+   "habitat": "Hojarasca y suelo arenoso de pinares y bosques de frondosas; también jardines suburbanos en Florida",
+   "size": "Normalmente 50–80 cm; hasta ~1,2 m",
+   "behaviour": "Pasa la mayor parte del tiempo bajo tierra o bajo la hojarasca, y se ve sobre todo después de la lluvia o en primavera. Tiene colmillos fijos pequeños y, al morder, a menudo se queda prendida y mastica. Los síntomas (caída de los párpados, habla arrastrada, dificultad para tragar, respiración débil) pueden tardar 12 horas o más en aparecer, por lo que toda persona mordida debe ir directamente al hospital, se sienta como se sienta. Se utiliza el North American Coral Snake Antivenin.",
+   "fieldMarks": [
+    "Anillos rojos y negros anchos separados por estrechos anillos amarillos; el rojo toca el amarillo",
+    "Hocico negro seguido de una ancha banda amarilla en la parte posterior de la cabeza",
+    "Los anillos rodean todo el cuerpo, incluido el vientre",
+    "Cabeza pequeña y redondeada, no más ancha que el cuello; ojos pequeños y negros"
+   ],
+   "lookalikes": "La inofensiva falsa coral escarlata (Lampropeltis elapsoides) tiene el hocico rojo y anillos rojos que tocan el negro. La serpiente escarlata (Cemophora coccinea) tiene manchas rojas en forma de silla que no cruzan un vientre blanco liso, y un hocico rojo puntiagudo. En EE. UU. funciona la regla 'red touches yellow, dangerous fellow; red touches black, friend of Jack' (si el rojo toca el amarillo, es peligrosa; si el rojo toca el negro, es inofensiva), pero falla con las serpientes de coral de México, Centroamérica y Sudamérica. Nunca manipule una serpiente anillada para comprobarlo.",
+   "whereToSee": "Llanuras de pinar y bosquetes de Florida; colinas arenosas de Georgia y las Carolinas; se ve sobre todo cruzando carreteras o senderos por la mañana",
+   "season": "Residente; se ve sobre todo en primavera (marzo–mayo) y en otoño",
+   "order": "Squamata"
+  }
+ },
+ {
+  "scientific": "Malayopython reticulatus",
+  "common": "Pitón reticulada",
+  "summary": "La serpiente más larga del mundo, con un dibujo en forma de red negro, dorado y gris plateado. No es venenosa y mata por constricción. Los individuos grandes capturan cerdos y ciervos, y se conocen unos pocos casos bien documentados en Indonesia de personas muertas y engullidas.",
+  "nativeRange": "Sudeste Asiático, desde Bangladés, el noreste de la India y las islas Nicobar, a través de Birmania, Indochina, Malasia, Indonesia y Filipinas, hasta Timor",
+  "biomes": [
+   "Selva tropical",
+   "Manglar",
+   "Plantaciones",
+   "Ciudades"
+  ],
+  "abilities": [
+   "Los individuos medidos con fiabilidad superan los 6 m, más que cualquier otra serpiente",
+   "Mata por constricción, deteniendo el flujo de sangre al corazón y al cerebro de la presa",
+   "Nada bien y ha colonizado por mar muchas islas pequeñas",
+   "Vive en grandes ciudades como Bangkok y Singapur, donde come ratas en los desagües"
+  ],
+  "lore": "Johann Gottlob Schneider la describió como Boa reticulata en 1801. Todavía se exportan cientos de miles de pieles desde Indonesia y Malasia para marroquinería de lujo, bajo cupos de la CITES.",
+  "funFact": "La serpiente más larga jamás mantenida en cautividad fue una pitón reticulada llamada Medusa, en Kansas City, que midió 7,67 m en 2011.",
+  "animal": {
+   "diet": "Mamíferos y aves, desde ratas y gallinas hasta cerdos, monos y ciervos",
+   "habitat": "Selva, bosque, pantanos, plantaciones y desagües urbanos cerca del agua",
+   "lifespan": "~20–30 años en cautividad",
+   "size": "Habitualmente 3–6 m; excepcionalmente más de 7 m",
+   "behaviour": "Cazadora al acecho que permanece oculta cerca del agua o de los senderos de los animales. Las hembras se enroscan alrededor de sus huevos y contraen los músculos para mantenerlos calientes. No es venenosa; los ataques graves a personas son muy raros y suelen deberse a serpientes muy grandes.",
+   "fieldMarks": [
+    "Dibujo en red (reticulado) de rombos ribeteados de negro sobre dorado o pardo, con manchas plateadas claras a lo largo de los flancos",
+    "Fina línea negra que va desde el ojo hacia atrás por la cabeza, y una estrecha línea negra en lo alto de la cabeza",
+    "Brillo iridiscente; ojos naranjas o ambarinos",
+    "Fosetas termorreceptoras en las escamas labiales"
+   ],
+   "lookalikes": "La pitón birmana (Python bivittatus) tiene grandes manchas oscuras y una marca clara en punta de flecha en lo alto de la cabeza en lugar de una fina línea negra, y es más pesada para su longitud. Las pitones de sangre (Python brongersmai) son cortas y muy robustas.",
+   "whereToSee": "Selvas y ciudades de Malasia, Borneo, Sumatra y Tailandia; Sungei Buloh y Bukit Timah en Singapur; se ve a menudo de noche junto a los ríos",
+   "season": "Residente",
+   "order": "Squamata"
+  }
+ },
+ {
+  "scientific": "Eunectes murinus",
+  "common": "Anaconda verde",
+  "summary": "La serpiente más pesada del mundo, una constrictora de pantano de los ríos y las sabanas inundables de Sudamérica. Las hembras son mucho más grandes que los machos y, en la época de cría, quedan enredadas en bolas de apareamiento con una docena de machos.",
+  "nativeRange": "Sudamérica tropical al este de los Andes: cuencas del Amazonas y del Orinoco, los Llanos, las Guayanas y Trinidad",
+  "biomes": [
+   "Selva tropical",
+   "Sabana inundable",
+   "Pantano",
+   "Ríos"
+  ],
+  "abilities": [
+   "Las hembras grandes pueden superar los 5 m y pesar bastante más de 70 kg, más que cualquier otra serpiente",
+   "Tiene los ojos y las narinas en lo alto de la cabeza, lo que le permite permanecer oculta bajo el agua con solo ellos fuera",
+   "Mata por constricción presas tan grandes como capibaras, caimanes y ciervos",
+   "Pare crías vivas, a veces 20–40 o más"
+  ],
+  "lore": "Los pueblos amazónicos hablan de la Yacumama o Boiúna, una gigantesca serpiente madre de los ríos. Las historias de anacondas de 20–30 m llevaron a la New York Zoological Society a ofrecer una recompensa, que llegó a 50 000 dólares, por una serpiente viva de más de 30 pies (9,1 m). Nadie la reclamó nunca.",
+  "funFact": "Las anacondas hembra pueden pasar siete meses sin comer mientras están preñadas, y pueden comerse a un macho después del apareamiento.",
+  "animal": {
+   "diet": "Peces, aves, capibaras, pecaríes, ciervos, tortugas y caimanes",
+   "habitat": "Ríos lentos, pantanos, lagos de meandro y pastizales inundados estacionalmente",
+   "size": "Hembras normalmente de 3–5 m, excepcionalmente más; machos mucho más pequeños",
+   "behaviour": "En la estación seca de los Llanos venezolanos, una hembra puede ser cortejada por hasta una docena de machos enroscados a su alrededor en una 'bola de apareamiento' que puede durar semanas. No es venenosa y los ataques a personas son extremadamente raros.",
+   "fieldMarks": [
+    "Cuerpo de verde oliva a verde oscuro con grandes manchas negras redondas dispuestas en pares a lo largo del dorso",
+    "Manchas con anillo negro y centro amarillo a lo largo de los flancos",
+    "Franjas amarillo anaranjadas y negras detrás del ojo",
+    "Cuerpo muy pesado; ojos y narinas en lo alto de una cabeza estrecha"
+   ],
+   "lookalikes": "La anaconda amarilla (E. notaeus) del Pantanal y Paraguay es amarillenta, con manchas negras más irregulares, y más pequeña. Las boas constrictoras tienen un cuerpo pardo con manchas en forma de silla y cola rojiza, y no viven en el agua. En 2024 un estudio propuso separar la anaconda verde del norte como E. akayima, pero la cuestión sigue en debate.",
+   "whereToSee": "Llanos venezolanos (como Hato El Cedral), la Amazonía brasileña y los bordes del Pantanal, Pacaya-Samiria en Perú; se ve mejor tomando el sol en la estación seca",
+   "season": "Residente; más fácil de ver en la estación seca (enero–abril en los Llanos)",
+   "order": "Squamata"
+  }
+ },
+ {
+  "scientific": "Pantherophis guttatus",
+  "common": "Serpiente del maíz",
+  "summary": "Una constrictora mansa, naranja y roja, del sureste de EE. UU., y una de las serpientes más comunes como mascota. Es cazadora de ratas en granjas y bosques, y a menudo la matan porque la confunden con una cabeza de cobre.",
+  "nativeRange": "Sureste de Estados Unidos, desde el sur de Nueva Jersey hasta Florida y, hacia el oeste, hasta Luisiana y Kentucky",
+  "biomes": [
+   "Pinar",
+   "Campos abandonados con maleza",
+   "Tierras de cultivo",
+   "Laderas rocosas"
+  ],
+  "abilities": [
+   "Trepa con facilidad a árboles y muros, usando los bordes de sus escamas ventrales como agarre",
+   "Constriñe roedores y es un útil controlador de plagas alrededor de los graneros",
+   "Criada en cautividad desde hace décadas, lo que ha dado lugar a muchas variedades de color"
+  ],
+  "lore": "El nombre puede proceder de su vientre ajedrezado, que recuerda los granos del 'maíz indio', o de su costumbre de cazar ratas en los graneros de maíz. Linneo la llamó Coluber guttatus en 1766.",
+  "funFact": "Los criadores han obtenido decenas de variedades de color, con nombres como 'Snow' (nieve), 'Anery' (sin pigmento rojo) y 'Bloodred' (rojo sangre).",
+  "animal": {
+   "diet": "Ratones, ratas, aves y huevos; los juveniles comen lagartijas y ranas",
+   "habitat": "Pinares, campos con maleza, edificios viejos y afloramientos rocosos",
+   "lifespan": "~6–8 años en libertad; más de 20 en cautividad",
+   "size": "Normalmente 0,9–1,5 m",
+   "behaviour": "Activa sobre todo al anochecer y de noche cuando hace calor. Cuando se siente amenazada hace vibrar la cola entre la hojarasca y puede lanzar mordiscos, pero es inofensiva.",
+   "fieldMarks": [
+    "Cuerpo de naranja a gris pardusco con grandes manchas en forma de silla rojas o naranjas ribeteadas de negro",
+    "Marca en forma de punta de lanza en lo alto de la cabeza que se prolonga hasta el cuello",
+    "Vientre ajedrezado blanco y negro",
+    "Cuerpo esbelto, pupilas redondas, sin fosetas termorreceptoras"
+   ],
+   "lookalikes": "La venenosa cabeza de cobre (Agkistrodon contortrix) tiene bandas transversales de tostado a cobrizo en forma de reloj de arena, estrechas en el dorso y anchas en los costados, la cabeza lisa sin dibujo, pupilas verticales, fosetas termorreceptoras y un cuerpo pesado. La serpiente del maíz tiene manchas más anchas en el dorso, un dibujo en punta de lanza en la cabeza, pupilas redondas y vientre ajedrezado.",
+   "whereToSee": "Llanuras de pinar de Florida y las Carolinas, estribaciones de las Great Smoky Mountains; a menudo se encuentra de noche en las carreteras en verano",
+   "season": "Residente; activa de abril a octubre en el norte, casi todo el año en Florida",
+   "order": "Squamata"
+  }
+ },
+ {
+  "scientific": "Natrix natrix",
+  "common": "Culebra de collar",
+  "summary": "Una culebra inofensiva y amante del agua, con un collar amarillo brillante, que vive en el centro y el este de Europa y se extiende hasta Asia. Come ranas y peces, se hace la muerta cuando la capturan y pone sus huevos en montones de compost y estiércol, que actúan como incubadoras naturales.",
+  "nativeRange": "Centro y este de Europa y Escandinavia, hacia el este hasta el lago Baikal y hacia el sur hasta el Cáucaso e Irán; las poblaciones occidentales (Gran Bretaña, Francia, oeste de Alemania) se consideran hoy culebra de collar barrada, Natrix helvetica",
+  "biomes": [
+   "Humedales",
+   "Riberas",
+   "Prados",
+   "Jardines"
+  ],
+  "abilities": [
+   "Nada y bucea bien, y caza ranas, tritones y peces",
+   "Cuando la agarran segrega un líquido maloliente y puede 'hacerse la muerta', quedándose flácida con la boca abierta y la lengua colgando",
+   "Aprovecha el calor de la vegetación en descomposición para incubar sus huevos"
+  ],
+  "lore": "En Lituania, el žaltys era un guardián del hogar al que se alimentaba con leche y se tenía en las casas. El cuento popular 'Eglė, reina de las serpientes' narra la historia de una muchacha que se casa con un žaltys, el rey de las serpientes.",
+  "funFact": "En 2017 un trabajo genético dividió la culebra de collar en dos, de modo que la conocida culebra de collar británica es ahora la culebra de collar barrada, Natrix helvetica.",
+  "animal": {
+   "diet": "Ranas, sapos, tritones, peces y, ocasionalmente, pequeños mamíferos",
+   "habitat": "Estanques, ríos, marismas, prados húmedos y jardines",
+   "lifespan": "~15–20 años",
+   "size": "Normalmente 70–120 cm; las hembras son más grandes",
+   "behaviour": "Rara vez muerde. Cuando se siente amenazada bufa y finge atacar con la boca cerrada, y luego se hace la muerta. Las hembras a menudo ponen sus huevos juntas en el mismo montón de compost.",
+   "fieldMarks": [
+    "Collar amarillo, crema o naranja detrás de la cabeza, seguido de una media luna negra",
+    "Cuerpo de gris oliváceo a verde con pequeñas barras negras a lo largo de los costados",
+    "Pupilas redondas, cabeza redondeada",
+    "Vientre ajedrezado blanco y negro"
+   ],
+   "lookalikes": "La víbora común europea (Vipera berus) es más corta y robusta, tiene un zigzag oscuro a lo largo del dorso, una marca en V o en X en la cabeza, pupilas verticales y no tiene collar amarillo. La culebra de agua teselada (N. tessellata) no tiene collar y está manchada. En Europa occidental, la culebra de collar barrada (N. helvetica) es muy parecida, pero a menudo tiene barras laterales más marcadas y un collar más tenue; el área de distribución es la mejor guía.",
+   "whereToSee": "Lagos y humedales de Polonia, los países bálticos, Escandinavia y Europa central; se ve a menudo nadando en estanques los días soleados",
+   "season": "Activa de abril a octubre; hiberna en invierno",
+   "order": "Squamata"
+  }
+ },
+ {
+  "scientific": "Ptyas mucosa",
+  "common": "Serpiente ratonera india (dhaman)",
+  "summary": "Una serpiente grande, rápida y no venenosa, común en campos y ciudades del sur y el sureste de Asia, a la que a menudo matan porque la confunden con una cobra. Come grandes cantidades de ratas y es una de las serpientes más útiles para los agricultores.",
+  "nativeRange": "Desde Irán, Afganistán y Turkmenistán, a través de Pakistán, India, Nepal, Bangladés y Sri Lanka, hasta el sur de China, Taiwán, Indochina y Java",
+  "biomes": [
+   "Tierras de cultivo",
+   "Matorral",
+   "Linde del bosque",
+   "Ciudades"
+  ],
+  "abilities": [
+   "Se mueve muy deprisa y trepa a árboles y muros",
+   "Cuando se ve acorralada hincha la garganta y emite un sonido parecido a un gruñido",
+   "Sujeta a la presa con el cuerpo en lugar de constreñirla"
+  ],
+  "lore": "En la India rural se dice, falsamente, que la dhaman mama la leche de las vacas, y se cree que es la pareja de la cobra. Antes de la Ley de Protección de la Vida Silvestre de 1972, se exportaban desde la India enormes cantidades de pieles de serpiente ratonera para marroquinería.",
+  "funFact": "Linneo la llamó Coluber mucosus en 1758, por lo que fue una de las primeras serpientes asiáticas en recibir un nombre científico.",
+  "animal": {
+   "diet": "Ratas, ranas, sapos, aves, lagartos y otras serpientes",
+   "habitat": "Arrozales, matorral, bosque abierto, jardines y suburbios",
+   "lifespan": "~10–15 años",
+   "size": "Normalmente 1,5–2 m; ocasionalmente ~2,5 m o más",
+   "behaviour": "Activa de día. En la época de cría, los machos luchan entrelazados en altas espirales oscilantes, algo que a menudo se interpreta erróneamente como el apareamiento de una serpiente ratonera con una cobra. Es inofensiva, pero muerde con fuerza si se la manipula.",
+   "fieldMarks": [
+    "Ojos grandes y prominentes con pupilas redondas",
+    "Escamas labiales con bordes negros, como barras verticales",
+    "Cuerpo de pardo oliváceo a negro, con barras transversales oscuras o un dibujo reticulado hacia la parte posterior y la cola",
+    "Cuerpo largo y esbelto que se afina en una cola muy larga; sin capucha"
+   ],
+   "lookalikes": "La cobra india tiene una capucha con marcas, una cola más corta y ojos más pequeños, y se yergue y bufa en lugar de huir. La serpiente ratonera puede hinchar la garganta, pero no puede formar una capucha ancha. El dibujo de bandas en la cola y los ojos grandes son los rasgos clave de la ratonera.",
+   "whereToSee": "Arrozales, jardines y periferias urbanas de toda la India y Sri Lanka; se ve a menudo cruzando carreteras durante el día",
+   "season": "Residente; más activa durante el monzón",
+   "order": "Squamata"
+  }
+ },
+ {
+  "scientific": "Opheodrys aestivus",
+  "common": "Culebra verde áspera",
+  "summary": "Una culebra esbelta y de un verde vivo del este de EE. UU. que come insectos y desaparece entre hojas y enredaderas. Es inofensiva y rara vez muerde.",
+  "nativeRange": "Este y sur de Estados Unidos, desde Nueva Jersey hasta Florida, hacia el oeste hasta Kansas y Texas, y hasta el noreste de México",
+  "biomes": [
+   "Linde del bosque",
+   "Márgenes de humedales",
+   "Matorral"
+  ],
+  "abilities": [
+   "Camuflada en la vegetación, se balancea con la brisa como una enredadera",
+   "Come sobre todo insectos y arañas, algo poco habitual entre las serpientes",
+   "Las hembras a veces ponen sus huevos juntas en huecos de árboles"
+  ],
+  "lore": "Linneo la describió en 1766 como Coluber aestivus, la 'culebra del verano'.",
+  "funFact": "El pigmento que le da su color verde se degrada tras la muerte, por lo que los ejemplares conservados y las culebras muertas en las carreteras se vuelven azules.",
+  "animal": {
+   "diet": "Orugas, grillos, saltamontes, libélulas y arañas",
+   "habitat": "Arbustos y árboles junto a lagos, arroyos y lindes de bosque",
+   "lifespan": "~5–8 años",
+   "size": "Normalmente 55–80 cm; muy esbelta",
+   "behaviour": "De noche duerme enroscada en las ramas exteriores sobre el agua, donde puede encontrarse con una linterna.",
+   "fieldMarks": [
+    "Verde vivo uniforme por encima, con el vientre blanco, amarillo o verde claro",
+    "Escamas quilladas (que le dan su tacto 'áspero')",
+    "Cuerpo y cola muy largos y delgados",
+    "Pupilas redondas y cabeza redondeada"
+   ],
+   "lookalikes": "La culebra verde lisa (Opheodrys vernalis) es más pequeña, más septentrional y tiene escamas lisas. Las bejuquillas verdes de México y más al sur tienen la cabeza larga y puntiaguda. Ninguna serpiente venenosa de su área de distribución en EE. UU. es de un verde vivo.",
+   "whereToSee": "Orillas de lagos y ríos de todo el sureste de EE. UU., p. ej., el pantano de Okefenokee, los Everglades y los Ozarks",
+   "season": "Activa de abril a octubre; hiberna en invierno",
+   "order": "Squamata"
+  }
+ },
+ {
+  "scientific": "Chrysopelea paradisi",
+  "common": "Serpiente voladora del paraíso",
+  "summary": "Una serpiente arborícola del Sudeste Asiático que planea entre los árboles. Se lanza desde una rama, aplana el cuerpo y ondula por el aire. Su veneno es leve para las lagartijas de las que se alimenta, pero es inofensiva para las personas.",
+  "nativeRange": "Sudeste Asiático: sur de Tailandia, Malasia peninsular, Singapur, Borneo, Sumatra, Java, Filipinas e islas cercanas",
+  "biomes": [
+   "Selva tropical",
+   "Manglar",
+   "Jardines y parques"
+  ],
+  "abilities": [
+   "Planea entre los árboles, recorriendo más distancia horizontal de la que desciende, y se orienta ondulando",
+   "Aplana el cuerpo en un 'ala' cóncava separando las costillas",
+   "Tiene colmillos posteriores con un veneno leve para someter a las lagartijas; es inofensiva para los humanos"
+  ],
+  "funFact": "Las pruebas en túnel de viento con modelos de su cuerpo aplanado mostraron que su sección transversal genera una sustentación sorprendentemente alta, sobre todo con una inclinación de unos 35 grados.",
+  "animal": {
+   "diet": "Lagartijas (sobre todo gecos), ranas, murciélagos y aves pequeñas",
+   "habitat": "Dosel de la selva, manglares y parques urbanos",
+   "size": "Normalmente ~1 m; hasta ~1,2 m",
+   "behaviour": "Se cuelga de una rama en forma de J y luego salta y planea. En los experimentos de Jake Socha, las serpientes lanzadas desde una torre de 10 m recorrieron más distancia horizontal de la que descendieron.",
+   "fieldMarks": [
+    "Cuerpo negro con el centro de cada escama de color verde vivo o verde amarillento",
+    "Hilera de manchas rojo anaranjadas a lo largo del dorso",
+    "Cuerpo largo y delgado, cabeza plana y ojos grandes"
+   ],
+   "lookalikes": "La serpiente voladora dorada (C. ornata) es más grande, a menudo carece de manchas rojas y tiene más amarillo. La serpiente voladora de doble barra (C. pelias) tiene bandas rojas, negras y blancas. Todas tienen un veneno leve y son inofensivas para las personas.",
+   "whereToSee": "Jardín Botánico y parques de Singapur, bosques de tierras bajas de Borneo, manglares de Malasia",
+   "season": "Residente; activa de día",
+   "order": "Squamata"
+  }
+ },
+ {
+  "scientific": "Iguana iguana",
+  "common": "Iguana verde",
+  "summary": "Un gran lagarto herbívoro de las riberas de la América tropical, con papada y cresta espinosa. Se come en toda Centroamérica. Las mascotas liberadas la han convertido en una plaga invasora en Florida, Puerto Rico y otros lugares.",
+  "nativeRange": "Desde México, a través de Centroamérica, hasta Paraguay y el sur de Brasil; partes del Caribe",
+  "biomes": [
+   "Selva tropical",
+   "Bosque ribereño",
+   "Bosque seco",
+   "Manglar"
+  ],
+  "abilities": [
+   "Puede dejarse caer desde ramas de más de 10 m de altura al agua o al suelo sin hacerse daño",
+   "Nada bien y puede permanecer bajo el agua durante largos periodos",
+   "Tiene un 'tercer ojo' (ojo parietal) sensible a la luz en lo alto de la cabeza",
+   "Digiere las hojas con ayuda de microbios intestinales, como una vaca"
+  ],
+  "edibleParts": [
+   "carne",
+   "huevos"
+  ],
+  "edibilityNote": "Se come tradicionalmente en Centroamérica y el Caribe; la captura de poblaciones silvestres está regulada en muchos países. Como otros reptiles, puede portar Salmonella, por lo que la carne debe cocinarse completamente.",
+  "lore": "La palabra 'iguana' procede del taíno iwana. Gonzalo Fernández de Oviedo describió la carne de iguana en su 'Sumario' de la natural historia de las Indias, de 1526.",
+  "funFact": "Durante las olas de frío en Florida, las iguanas quedan aletargadas y caen de los árboles; normalmente se recuperan al calentarse.",
+  "animal": {
+   "diet": "Hojas, flores y frutos; los juveniles comen insectos de vez en cuando",
+   "habitat": "Árboles a lo largo de ríos y costas; canales urbanos en su área de introducción",
+   "lifespan": "~10–15 años en libertad; más de 20 en cautividad",
+   "size": "Hasta ~1,7 m con la cola; hasta ~5–8 kg",
+   "behaviour": "Toma el sol en lo alto de los árboles sobre el agua y se deja caer al río para escapar. Los machos cabecean y exhiben la papada ante sus rivales. Come plantas y no es venenosa, pero muerde y azota con la cola si se la manipula. Se come tanto su carne como sus huevos.",
+   "fieldMarks": [
+    "Gran escama redonda (escudo subtimpánico) en la mejilla, bajo el oído",
+    "Papada grande y cresta espinosa a lo largo del dorso",
+    "De verde a gris pardo; los machos adultos pueden volverse anaranjados en la época de cría",
+    "Cola larga con bandas oscuras"
+   ],
+   "lookalikes": "Los garrobos o iguanas de cola espinosa (Ctenosaura) tienen anillos de escamas espinosas en la cola y no tienen la gran escama de la mejilla. La iguana de las Antillas Menores (I. delicatissima) también carece de la gran escama de la mejilla y tiene la cola sin bandas. Los basiliscos son más pequeños y tienen crestas en la cabeza.",
+   "whereToSee": "Riberas de toda Centroamérica, p. ej., los ríos Tárcoles y Sarapiquí (Costa Rica), Tikal, Belice; en Florida, los canales de Miami",
+   "season": "Residente; apareamiento en la estación seca y puesta unas semanas después",
+   "order": "Squamata"
+  }
+ },
+ {
+  "scientific": "Amblyrhynchus cristatus",
+  "common": "Iguana marina",
+  "summary": "El único lagarto del mundo que se alimenta en el mar. En las islas Galápagos se zambulle en el oleaje frío para pastar algas y luego se calienta sobre las rocas de lava negra. Charles Darwin anotó que las habían llamado 'imps of darkness' (diablillos de las tinieblas).",
+  "nativeRange": "Islas Galápagos, Ecuador",
+  "biomes": [
+   "Costa rocosa",
+   "Zona intermareal",
+   "Arrecife submareal"
+  ],
+  "abilities": [
+   "Se sumerge a más de 10 m y pasta algas sobre las rocas con su hocico corto y romo",
+   "Expulsa estornudando el exceso de sal a través de glándulas cercanas a la nariz",
+   "Encoge el cuerpo, incluso los huesos, cuando escasea el alimento en los años de El Niño, y después vuelve a crecer",
+   "Digiere las algas con ayuda de microbios intestinales"
+  ],
+  "lore": "Darwin escribió en 1835 que las iguanas marinas eran 'hideous-looking' (de aspecto horrendo) y 'most disgusting, clumsy lizards' (lagartos de lo más repugnantes y torpes), y señaló que 'somebody calls them imps of darkness' (alguien las llama diablillos de las tinieblas), expresión usada antes en el relato del viaje de lord Byron de 1826. Arrojó una al mar repetidas veces para verla volver nadando.",
+  "funFact": "En los años de El Niño las iguanas marinas pueden encoger hasta ~20 % de su longitud, y sus huesos se acortan; luego vuelven a crecer cuando regresa el alimento.",
+  "animal": {
+   "diet": "Algas rojas y verdes de rocas intermareales y submareales",
+   "habitat": "Costas rocosas de lava y aguas cercanas",
+   "lifespan": "~12 años o más",
+   "size": "Hasta ~1,3 m con la cola; los machos son más grandes",
+   "behaviour": "Los machos grandes bucean mar adentro, mientras que las hembras y las iguanas más pequeñas pastan las algas que quedan expuestas en marea baja. De noche se amontonan sobre las rocas para conservar el calor.",
+   "fieldMarks": [
+    "Hocico corto y romo y cresta espinosa a lo largo del dorso",
+    "Cuerpo negro o gris; en algunas islas los machos se vuelven jaspeados de rojo y verde en la época de cría",
+    "Cola aplanada para nadar",
+    "A menudo con la cabeza cubierta de una costra blanca de sal estornudada"
+   ],
+   "lookalikes": "Las iguanas terrestres de Galápagos (Conolophus) son de color pardo amarillento, con una cola larga y redondeada, y viven tierra adentro. Las lagartijas de lava (Microlophus) son mucho más pequeñas.",
+   "whereToSee": "Todas las islas principales de Galápagos; Española (Punta Suárez) para los machos rojiverdes y Fernandina (Punta Espinoza) para las grandes colonias",
+   "season": "Residente; coloración nupcial y apareamiento en diciembre–enero en muchas islas",
+   "order": "Squamata"
+  }
+ },
+ {
+  "scientific": "Heloderma suspectum",
+  "common": "Monstruo de Gila",
+  "summary": "Un lagarto venenoso, lento y de escamas como cuentas negras y rosadas, propio de los desiertos de Norteamérica, que pasa la mayor parte de su vida bajo tierra. Una hormona de su saliva inspiró el fármaco para la diabetes exenatida, uno de los primeros miembros de la familia de medicamentos que más tarde incluye la semaglutida.",
+  "nativeRange": "Suroeste de Estados Unidos (Arizona, sur de Nevada, Utah, Nuevo México, California) y noroeste de México (Sonora, Sinaloa)",
+  "biomes": [
+   "Desierto",
+   "Matorral desértico",
+   "Estribaciones rocosas"
+  ],
+  "abilities": [
+   "Inocula el veneno masticando, desde glándulas de la mandíbula inferior; sus mordeduras son muy dolorosas",
+   "Almacena grasa en su gruesa cola, lo que le permite sobrevivir meses sin comer",
+   "Puede comer un tercio de su peso corporal en una sola comida",
+   "Su saliva contiene exendina-4, que dio lugar al fármaco exenatida (aprobado en 2005)"
+  ],
+  "lore": "En 1952 Arizona protegió por ley al monstruo de Gila, lo que lo convirtió en uno de los primeros animales venenosos en recibir protección legal en Estados Unidos. Su nombre común alude a la cuenca del río Gila.",
+  "funFact": "El endocrinólogo John Eng descubrió la exendina-4 en el veneno del monstruo de Gila en 1992.",
+  "animal": {
+   "diet": "Huevos de aves y reptiles, polluelos y crías de roedores",
+   "habitat": "Laderas rocosas del desierto, cauces secos y matorral",
+   "lifespan": "~20 años en libertad; hasta ~30 en cautividad",
+   "size": "~30–55 cm",
+   "behaviour": "Pasa alrededor del 90 % de su vida en madrigueras y sale sobre todo en primavera para saquear nidos. Las mordeduras son raras y se producen al manipularlo. Se aferra y mastica. La mordedura es muy dolorosa y causa hinchazón y, a veces, hipotensión, pero las muertes son casi desconocidas. Retire el lagarto, lave la herida y acuda al hospital. No corte ni succione la mordedura.",
+   "fieldMarks": [
+    "Escamas como cuentas, negras con manchas o bandas rosadas, anaranjadas o amarillas",
+    "Cuerpo pesado con una cola corta y gruesa",
+    "Cabeza roma y redondeada y ojos pequeños",
+    "Andar lento y bamboleante"
+   ],
+   "lookalikes": "El escorpión o lagarto enchaquirado de México (H. horridum) es más grande y oscuro, sobre todo amarillento y negro, y vive más al sur. Los chacahuales son planos y de color gris pardo, sin dibujo de cuentas.",
+   "whereToSee": "Desierto de Sonora alrededor de Tucson y Phoenix, Arizona (Parque Nacional Saguaro); suroeste de Utah; Arizona-Sonora Desert Museum",
+   "season": "Más activo en abril–junio; mayormente inactivo en invierno",
+   "order": "Squamata"
+  }
+ },
+ {
+  "scientific": "Moloch horridus",
+  "common": "Diablo espinoso",
+  "summary": "Un lagarto del desierto australiano cubierto de espinas cónicas. Los surcos entre sus escamas conducen hasta su boca, a través de la piel, el agua de la arena húmeda o del rocío, y solo come hormigas, miles en cada comida.",
+  "nativeRange": "Zonas áridas y semiáridas del centro y el oeste de Australia",
+  "biomes": [
+   "Desierto",
+   "Pastizal de spinifex",
+   "Matorral de mallee"
+  ],
+  "abilities": [
+   "Bebe a través de la piel: finos canales entre sus escamas llevan el agua hasta la boca",
+   "Solo come hormigas pequeñas, que atrapa una a una con la lengua",
+   "Tiene en la nuca una protuberancia que funciona como 'cabeza falsa' cuando agacha la verdadera",
+   "Cambia de color entre amarillo, rojo y pardo según la temperatura y su estado de ánimo"
+  ],
+  "lore": "John Edward Gray lo bautizó en 1841 en honor de Moloch, el dios cananeo asociado al sacrificio de niños, en alusión a su aspecto temible.",
+  "funFact": "Un diablo espinoso puede comer miles de hormigas en una sola comida.",
+  "animal": {
+   "diet": "Pequeñas hormigas negras, sobre todo Iridomyrmex y Ochetellus",
+   "habitat": "Desierto arenoso, pastizales de spinifex y matorral de mallee",
+   "lifespan": "~15–20 años",
+   "size": "Hasta ~20 cm",
+   "behaviour": "Camina con un paso entrecortado y oscilante y se queda inmóvil cuando se siente observado. Si se ve amenazado, agacha la cabeza para que la protuberancia de la nuca parezca una cabeza.",
+   "fieldMarks": [
+    "Cuerpo cubierto de grandes espinas cónicas, incluidos dos cuernos sobre los ojos",
+    "Dibujo de camuflaje amarillo, rojo y pardo",
+    "Protuberancia espinosa en la nuca",
+    "Andar lento y balanceante"
+   ],
+   "lookalikes": "No se parece a ningún otro lagarto australiano. Los camaleones cornudos norteamericanos (Phrynosoma) se le parecen por evolución convergente, pero viven en otro continente.",
+   "whereToSee": "Desiertos de arena roja cerca de Uluru y Alice Springs, el Gran Desierto de Victoria, y el Wheatbelt y la bahía Shark en Australia Occidental; a menudo se ve en caminos arenosos por la mañana",
+   "season": "Activo en primavera y otoño; se reproduce a finales del invierno y en primavera (agosto–diciembre)",
+   "order": "Squamata"
+  }
+ },
+ {
+  "scientific": "Chlamydosaurus kingii",
+  "common": "Lagarto de gorguera (clamidosaurio)",
+  "summary": "Un dragón arborícola del norte de Australia y Nueva Guinea que, cuando se alarma, despliega una enorme gorguera de piel alrededor de la cabeza, abre una boca rosada y amarilla y bufa. Si eso no funciona, huye corriendo sobre las patas traseras.",
+  "nativeRange": "Norte de Australia (Kimberley, Top End, cabo York) y sur de Nueva Guinea",
+  "biomes": [
+   "Sabana tropical",
+   "Bosque abierto"
+  ],
+  "abilities": [
+   "Despliega una gorguera de hasta ~30 cm de diámetro, sostenida por varillas de cartílago que salen de la mandíbula",
+   "Corre a gran velocidad sobre las patas traseras",
+   "Pasa la mayor parte del tiempo en los árboles y baja a cazar insectos tras las lluvias"
+  ],
+  "lore": "Apareció en el reverso de la moneda australiana de dos centavos desde la decimalización de 1966 hasta que la moneda se retiró a principios de los años noventa.",
+  "funFact": "Su gorguera la controlan los músculos de la mandíbula: cuando abre mucho la boca, la gorguera también se abre.",
+  "animal": {
+   "diet": "Insectos, arañas, pequeños lagartos y mamíferos",
+   "habitat": "Sabana arbolada tropical, a menudo en eucaliptos",
+   "size": "Hasta ~90 cm con la cola; los machos son más grandes",
+   "behaviour": "Es más activo en la estación húmeda, cuando baja al suelo a alimentarse. En la estación seca permanece en lo alto de los árboles y está mucho menos activo.",
+   "fieldMarks": [
+    "Gorguera grande y suelta plegada alrededor del cuello como una capa",
+    "Cuerpo de gris a pardo o rojizo, a menudo con jaspeado más oscuro",
+    "Cola larga y patas traseras largas",
+    "Interior de la boca rosado o amarillo"
+   ],
+   "lookalikes": "Los dragones barbudos (Pogona) tienen una bolsa gular espinosa en lugar de una gorguera libre y viven sobre todo más al sur. Los dragones de agua tienen cresta pero no gorguera.",
+   "whereToSee": "Parques nacionales de Kakadu y Litchfield (Territorio del Norte), Kimberley, cabo York; se ve sobre todo en troncos o carreteras en la estación húmeda",
+   "season": "Más visible en la estación húmeda (noviembre–abril)",
+   "order": "Squamata"
+  }
+ },
+ {
+  "scientific": "Gekko gecko",
+  "common": "Geco tokay (tokay)",
+  "summary": "Un geco grande, gris azulado con manchas anaranjadas, de Asia, que debe su nombre a su sonoro canto 'to-kay'. Trepa por paredes y cristales con dedos cubiertos de pelos microscópicos, y es uno de los reptiles más comercializados en la medicina tradicional.",
+  "nativeRange": "Desde el noreste de la India y Bangladés, a través del sur de China y el Sudeste Asiático, hasta Indonesia y Filipinas; introducido en Florida, Hawái y otros lugares",
+  "biomes": [
+   "Bosque tropical",
+   "Afloramientos rocosos",
+   "Pueblos y edificios"
+  ],
+  "abilities": [
+   "Se adhiere a superficies lisas gracias a millones de diminutos pelos (setas) en los dedos, que se agarran mediante fuerzas de van der Waals",
+   "Tiene una mordida fuerte que puede mantener durante minutos",
+   "Puede desprenderse de la cola para escapar y regenerarla"
+  ],
+  "lore": "Su canto le dio nombre en muchas lenguas del Sudeste Asiático, como tokek y tukko. En partes de Tailandia e Indonesia se dice que oír cantar a un tokay siete veces seguidas trae buena suerte.",
+  "funFact": "Las patas de los gecos han inspirado adhesivos que pueden despegarse y reutilizarse muchas veces sin perder su agarre.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Medicina tradicional china",
+     "use": "El tokay seco y abierto (gé jiè) se usa en tónicos para la tos y el asma y como 'tónico renal'"
+    }
+   ],
+   "cautions": "No hay buenas pruebas clínicas. La recolección silvestre para el comercio medicinal ha mermado sus poblaciones; la especie se incluyó en el Apéndice II de la CITES en 2019."
+  },
+  "animal": {
+   "diet": "Insectos, arañas, otros gecos, pequeños mamíferos y aves",
+   "habitat": "Troncos de árboles, acantilados y edificios",
+   "lifespan": "~10 años o más",
+   "size": "Hasta ~35 cm con la cola",
+   "behaviour": "Por la noche los machos cantan fuerte desde paredes y árboles para defender su territorio. Cuando se siente amenazado, abre mucho la boca, ladra y muerde con fuerza.",
+   "fieldMarks": [
+    "Geco grande de cabeza pesada, gris azulado con manchas de anaranjadas a rojas",
+    "Ojos grandes con pupila vertical",
+    "Almohadillas digitales anchas",
+    "Sonoro canto 'to-kay' por la noche"
+   ],
+   "voice": "Un sonoro 'to-kay' o 'gek-o' repetido, a menudo precedido de un traqueteo como una risita; se oye a gran distancia de noche",
+   "lookalikes": "Los salamanquesas o gecos caseros (Hemidactylus), más pequeños, son pálidos y lisos. El pariente Gekko smithii tiene los ojos verdes y manchas claras en lugar de rojo anaranjadas. Ningún otro geco de su área es tan grande ni tan ruidoso.",
+   "whereToSee": "Edificios y bosques de todo el Sudeste Asiático; a menudo se oye de noche en casas de huéspedes de Tailandia, Malasia y Bali",
+   "season": "Residente; canta todo el año, sobre todo en la estación húmeda",
+   "order": "Squamata"
+  }
+ },
+ {
+  "scientific": "Eublepharis macularius",
+  "common": "Geco leopardo",
+  "summary": "Un geco terrestre de los desiertos rocosos de Pakistán y Afganistán, con párpados móviles y sin almohadillas adhesivas en los dedos. Almacena grasa en la cola y es uno de los lagartos más criados como mascota.",
+  "nativeRange": "Afganistán, Pakistán y noroeste de la India; posiblemente el este de Irán",
+  "biomes": [
+   "Desierto rocoso",
+   "Pastizal seco",
+   "Matorral"
+  ],
+  "abilities": [
+   "Tiene párpados móviles, a diferencia de la mayoría de los gecos",
+   "Almacena grasa en su gruesa cola para sobrevivir a los meses de escasez",
+   "Puede desprenderse de la cola y regenerarla",
+   "El sexo de las crías lo determina la temperatura de incubación"
+  ],
+  "lore": "Edward Blyth lo describió en 1854 a partir de ejemplares de la cordillera de la Sal, en el Punjab.",
+  "funFact": "Los gecos leopardo pueden soltar la cola cuando se les agarra y regenerarla, pero la nueva es más corta y gruesa y carece de huesos.",
+  "animal": {
+   "diet": "Insectos, arañas y escorpiones",
+   "habitat": "Semidesierto rocoso, pastizal seco y matorral",
+   "lifespan": "Más de 20 años en cautividad",
+   "size": "~20–25 cm",
+   "behaviour": "Nocturno: de día se esconde bajo las piedras y de noche caza insectos en el suelo. Agita la cola antes de abalanzarse.",
+   "fieldMarks": [
+    "Cuerpo amarillo con manchas negras en los adultos; juveniles con bandas muy marcadas",
+    "Párpados móviles",
+    "Cola gruesa y grasa",
+    "Dedos finos sin almohadillas adhesivas"
+   ],
+   "lookalikes": "Los gecos leopardo emparentados del oeste de la India (E. fuscus) y del este de la India (E. hardwickii) son parecidos; la distribución es la mejor guía. El geco de cola gruesa africano (Hemitheconyx) tiene bandas pardas y vive en África occidental.",
+   "whereToSee": "Laderas rocosas de Baluchistán y Sind (Pakistán) y colinas secas de Afganistán",
+   "season": "Activo en marzo–octubre; en letargo en invierno",
+   "order": "Squamata"
+  }
+ },
+ {
+  "scientific": "Trioceros jacksonii",
+  "common": "Camaleón de Jackson",
+  "summary": "Un camaleón verde de las frescas tierras altas de África oriental; los machos llevan tres cuernos dirigidos hacia delante, como un triceratops en miniatura. Da a luz crías vivas en lugar de poner huevos, algo adecuado para su frío hogar de montaña.",
+  "nativeRange": "Tierras altas de Kenia y el norte de Tanzania; introducido en Hawái (años setenta) y California",
+  "biomes": [
+   "Bosque montano",
+   "Jardines de montaña",
+   "Matorral"
+  ],
+  "abilities": [
+   "Pare crías vivas, hasta ~30 por camada, tras una gestación de unos 5–6 meses",
+   "Sus ojos se mueven de forma independiente y se fijan juntos en la presa",
+   "Dispara una lengua pegajosa más larga que su cuerpo para cazar insectos",
+   "Los machos usan los cuernos en pugnas de empujones"
+  ],
+  "lore": "George Albert Boulenger lo bautizó en 1896 en honor de Frederick John Jackson, naturalista británico y administrador colonial en África oriental.",
+  "funFact": "Los camaleones de Jackson se llevaron a Hawái en los años setenta para el comercio de mascotas y hoy viven en libertad en varias islas, donde comen caracoles e insectos autóctonos.",
+  "animal": {
+   "diet": "Insectos, arañas y caracoles",
+   "habitat": "Bosque montano húmedo, arbustos y jardines a unos 1500–3000 m",
+   "lifespan": "~5–10 años",
+   "size": "Hasta ~30 cm con la cola",
+   "behaviour": "Acecha lentamente a los insectos entre las hojas, balanceándose adelante y atrás como una hoja al viento. Los cambios de color reflejan su estado de ánimo y la temperatura.",
+   "fieldMarks": [
+    "Los machos tienen tres cuernos largos, uno en el hocico y otro sobre cada ojo; las hembras no tienen o los tienen pequeños",
+    "Verde brillante con manchas amarillas, azules o pardas",
+    "Cresta dentada a lo largo del dorso",
+    "Cola prensil y patas en forma de pinza"
+   ],
+   "lookalikes": "El camaleón de Johnston (T. johnstoni) también tiene tres cuernos en los machos, pero vive en las montañas del Rift Albertino, mucho más al oeste. Otros camaleones de las tierras altas de Kenia tienen un cuerno o ninguno.",
+   "whereToSee": "Jardines y bosques de Nairobi y las estribaciones de los montes Aberdare y del monte Kenia; en Hawái, jardines de montaña de Maui y la Isla Grande",
+   "season": "Residente",
+   "order": "Squamata"
+  }
+ },
+ {
+  "scientific": "Basiliscus plumifrons",
+  "common": "Basilisco verde (basilisco emplumado)",
+  "summary": "Un lagarto verde brillante de los arroyos centroamericanos, coronado de altas crestas, que escapa de los depredadores corriendo sobre la superficie del agua con las patas traseras.",
+  "nativeRange": "Centroamérica, desde Honduras hasta el oeste de Panamá",
+  "biomes": [
+   "Selva tropical",
+   "Riberas"
+  ],
+  "abilities": [
+   "Corre sobre el agua varios metros golpeando la superficie con los pies y retirándolos antes de hundirse",
+   "Las franjas de escamas de sus dedos aumentan la superficie de cada pisada",
+   "Nada bien y puede permanecer bajo el agua para esconderse"
+  ],
+  "lore": "El nombre procede del basilisco de la leyenda europea, un rey de las serpientes cuya mirada podía matar. Su capacidad de correr sobre el agua le valió el apodo de 'lagarto Jesucristo'.",
+  "funFact": "Los investigadores Glasheen y McMahon demostraron en 1996 que cada golpe y empuje del pie del basilisco abre en el agua una bolsa de aire que lo sostiene, y que retira el pie antes de que la bolsa se cierre.",
+  "animal": {
+   "diet": "Insectos, arañas, pequeños vertebrados, frutos y flores",
+   "habitat": "Árboles y arbustos que cuelgan sobre arroyos y ríos de la selva",
+   "lifespan": "~10 años en cautividad",
+   "size": "Hasta ~90 cm con su larga cola",
+   "behaviour": "Toma el sol en ramas sobre el agua y se deja caer a ella para escapar. Los basiliscos jóvenes pueden correr más distancia sobre el agua que los adultos porque pesan poco.",
+   "fieldMarks": [
+    "Cuerpo verde brillante con manchas azules o blancas",
+    "Los machos tienen una doble cresta en la cabeza y altas crestas como velas en el dorso y la cola",
+    "Patas traseras largas con dedos festoneados",
+    "Ojos amarillo anaranjados"
+   ],
+   "lookalikes": "El basilisco común (B. basiliscus) y el basilisco rayado (B. vittatus) son pardos con rayas claras. Las iguanas verdes jóvenes son verdes, pero tienen papada y carecen de cresta en la cabeza.",
+   "whereToSee": "Tierras bajas del Caribe de Costa Rica: Tortuguero, La Selva, Sarapiquí; también Arenal",
+   "season": "Residente",
+   "order": "Squamata"
+  }
+ },
+ {
+  "scientific": "Phrynosoma cornutum",
+  "common": "Lagarto cornudo de Texas (camaleón cornudo)",
+  "summary": "Un lagarto plano y espinoso de las Grandes Llanuras meridionales y los desiertos que come hormigas cosechadoras. Cuando lo atacan coyotes o perros, puede lanzar por los ojos un chorro de sangre de mal sabor.",
+  "nativeRange": "Centro-sur de Estados Unidos (Kansas, Oklahoma, Texas, Nuevo México, sureste de Colorado y Arizona) y norte de México",
+  "biomes": [
+   "Pastizal",
+   "Matorral desértico",
+   "Matorral semiárido"
+  ],
+  "abilities": [
+   "Lanza sangre por los ojos hasta a unos 1,5 m para disuadir a los depredadores de la familia de los cánidos",
+   "Puede hincharse para parecer más grande y más difícil de tragar",
+   "Come hormigas cosechadoras y tolera su veneno",
+   "Recoge la lluvia sobre el dorso y la canaliza hasta la boca"
+  ],
+  "lore": "El camaleón cornudo de Texas se convirtió en el reptil oficial de Texas en 1993 y es la mascota 'Horned Frog' (rana cornuda) de la Texas Christian University. 'Old Rip', supuestamente emparedado en la piedra angular de un juzgado de Eastland (Texas) en 1897 y hallado vivo en 1928, causó sensación en todo el país.",
+  "funFact": "La sangre que lanza por los ojos contiene sustancias que a perros y coyotes les resultan de mal sabor, pero no tiene ningún efecto sobre los halcones.",
+  "animal": {
+   "diet": "Sobre todo hormigas cosechadoras (Pogonomyrmex); también otros insectos",
+   "habitat": "Terrenos abiertos, áridos y semiáridos, con vegetación escasa y suelo arenoso",
+   "size": "~6–11 cm del hocico a la cloaca",
+   "behaviour": "Toma el sol por la mañana y se entierra en la arena por la noche. Sus números han disminuido en Texas a causa de los plaguicidas, la pérdida de hábitat y las hormigas de fuego invasoras, que desplazan a las hormigas cosechadoras.",
+   "fieldMarks": [
+    "Cuerpo plano y redondo cubierto de espinas",
+    "Dos largos cuernos centrales en la parte posterior de la cabeza, más largos que los demás",
+    "Dos hileras de escamas en fleco a lo largo de cada flanco",
+    "Franja clara por el centro del dorso con manchas oscuras a cada lado"
+   ],
+   "lookalikes": "El lagarto cornudo de cola redonda (P. modestum) es más pequeño, con cuernos cortos y sin fleco lateral. El lagarto cornudo de cuernos cortos (P. hernandesi) tiene cuernos cortos y vive a mayor altitud.",
+   "whereToSee": "Monte bajo del sur de Texas (p. ej., Chaparral Wildlife Management Area), pastizales del oeste de Texas y Nuevo México, oeste de Oklahoma",
+   "season": "Activo en abril–septiembre",
+   "order": "Squamata"
+  }
+ },
+ {
+  "scientific": "Varanus bengalensis",
+  "common": "Varano de Bengala",
+  "summary": "Un gran varano terrestre de las llanuras y bosques del sur de Asia. Desentierra insectos, escorpiones y huevos con sus garras y rastrea el alimento con su lengua bífida. Se le caza por su carne, su piel y una falsa 'raíz mágica'.",
+  "nativeRange": "Desde Irán y Afganistán, a través de Pakistán, la India, Nepal, Bangladés y Sri Lanka, hasta Birmania",
+  "biomes": [
+   "Bosque tropical seco",
+   "Tierras de cultivo",
+   "Matorral",
+   "Semidesierto"
+  ],
+  "abilities": [
+   "Desentierra a sus presas con fuertes garras y puede trepar a los árboles",
+   "Corre deprisa en tierra y nada",
+   "Rastrea el alimento con su lengua bífida",
+   "Vive cerca de granjas y aldeas sin depender del agua"
+  ],
+  "lore": "Según la leyenda, el general maratha Tanaji Malusare usó una varana, Yashwanti, para escalar las murallas del fuerte de Kondhana (Sinhagad) en 1670. Los hemipenes secos de varano se venden ilegalmente como 'hatha jodi', una supuesta raíz de la suerte.",
+  "funFact": "La mayoría de los 'hatha jodi' decomisados en los mercados indios han resultado ser los genitales secos de varanos macho.",
+  "animal": {
+   "diet": "Escarabajos, escorpiones, caracoles, ranas, huevos, pequeños mamíferos y carroña",
+   "habitat": "Bosque, tierras de cultivo, matorral y semidesierto; a menudo en madrigueras o huecos de árboles",
+   "lifespan": "~20 años",
+   "size": "Normalmente 60–175 cm con la cola",
+   "behaviour": "Activo de día, excava en busca de presas en la hojarasca y en los termiteros. Durante la época de cría los machos luchan erguidos sobre las patas traseras.",
+   "fieldMarks": [
+    "Varano grande, de gris pardo a amarillento con motas oscuras; juveniles con bandas",
+    "Narinas en forma de hendidura situadas a medio camino entre el ojo y la punta del hocico",
+    "Cuello largo y lengua bífida",
+    "Cola aplanada lateralmente"
+   ],
+   "lookalikes": "El varano acuático (V. salvator) es más oscuro, con manchas o bandas amarillas, y tiene las narinas redondas cerca de la punta del hocico; vive cerca del agua. El varano amarillo (V. flavescens) de la llanura del Ganges tiene llamativas bandas amarillas y el hocico corto.",
+   "whereToSee": "Común en Ranthambore, Keoladeo, Kanha y Bandipur (India) y en Yala y Wilpattu (Sri Lanka)",
+   "season": "Residente; inactivo durante los inviernos fríos en el norte",
+   "order": "Squamata"
+  }
+ },
+ {
+  "scientific": "Sphenodon punctatus",
+  "common": "Tuátara",
+  "summary": "No es un lagarto, sino el único superviviente de un orden de reptiles, los rincocéfalos (Rhynchocephalia), que prosperó en la era de los dinosaurios. Vive en frescas islas frente a Nueva Zelanda, crece despacio, se reproduce rara vez y puede vivir más de un siglo.",
+  "nativeRange": "Islas costeras de Nueva Zelanda; reintroducido en santuarios vallados de las islas principales",
+  "biomes": [
+   "Bosque costero",
+   "Matorral insular",
+   "Colonias de aves marinas"
+  ],
+  "abilities": [
+   "El único miembro vivo del orden de reptiles Rhynchocephalia",
+   "Tiene un 'tercer ojo' (ojo parietal) con cristalino y retina en lo alto de la cabeza, visible en las crías",
+   "Se mantiene activo a temperaturas de solo ~5 °C, más frías de lo que toleran la mayoría de los reptiles",
+   "El sexo de las crías depende de la temperatura del nido; los nidos más cálidos producen más machos"
+  ],
+  "lore": "Para muchos maoríes, los tuátaras son taonga (tesoros) y kaitiaki (guardianes) del conocimiento. Albert Günther demostró en 1867 que no era un lagarto, sino el último de un antiguo linaje de reptiles.",
+  "funFact": "'Henry', un tuátara del Southland Museum de Invercargill, fue padre en 2009 con unos 111 años.",
+  "animal": {
+   "diet": "Escarabajos, wētā, arañas, gusanos, huevos y pollos de aves marinas, y lagartos",
+   "habitat": "Bosque y matorral costeros de islas, a menudo compartiendo madrigueras con aves marinas como los petreles",
+   "lifespan": "Puede superar los 100 años",
+   "size": "Machos de hasta ~60 cm y 1 kg; hembras más pequeñas",
+   "behaviour": "Nocturno. Comparte madrigueras con aves marinas que anidan. Las hembras solo se reproducen cada 2–5 años, y los huevos tardan 11–16 meses en eclosionar.",
+   "fieldMarks": [
+    "Cuerpo parecido al de un lagarto, de verde oliva a gris o rojizo",
+    "Cresta espinosa a lo largo del cuello y el dorso, más grande en los machos",
+    "Sin aberturas auditivas externas",
+    "Dientes en forma de sierra fusionados al hueso de la mandíbula"
+   ],
+   "lookalikes": "Superficialmente parece un lagarto grande, pero ningún lagarto de Nueva Zelanda tiene una cresta espinosa como esta. Carece de abertura auditiva externa y tiene la mandíbula superior en forma de pico.",
+   "whereToSee": "Zealandia Ecosanctuary (Wellington), Orokonui (Dunedin), isla Tiritiri Matangi; la isla Stephens (Takapourewa) tiene la mayor población, pero está cerrada al público",
+   "season": "Residente; más activo en noches cálidas y húmedas",
+   "order": "Rhynchocephalia"
+  }
+ },
+ {
+  "scientific": "Dermochelys coriacea",
+  "common": "Tortuga laúd",
+  "summary": "La mayor tortuga viva y la única sin caparazón duro. Su dorso es una piel coriácea sobre un mosaico de pequeños huesos. Se sumerge a más de 1000 m, cruza océanos enteros para alimentarse de medusas y se mantiene caliente en los fríos mares del norte.",
+  "nativeRange": "Todos los océanos tropicales y templados; anida en playas tropicales y se alimenta hacia el norte hasta Noruega y Alaska y hacia el sur hasta Chile y Nueva Zelanda",
+  "biomes": [
+   "Mar abierto",
+   "Playas de arena"
+  ],
+  "abilities": [
+   "Se sumerge a más de 1000 m, más hondo que cualquier otra tortuga",
+   "Mantiene el cuerpo más caliente que el agua circundante gracias a su tamaño, su grasa aislante y los vasos sanguíneos intercambiadores de calor de sus aletas",
+   "Migra miles de kilómetros entre las playas de anidación y las zonas de alimentación de medusas",
+   "Su garganta está revestida de espinas orientadas hacia atrás que impiden que las resbaladizas medusas escapen"
+  ],
+  "lore": "En septiembre de 1988 un macho muerto de tortuga laúd apareció varado en Harlech (Gales) y pesó 916 kg, la tortuga más pesada jamás registrada. Se expuso en el Museo Nacional de Cardiff.",
+  "funFact": "El linaje de la tortuga laúd se separó del resto de las tortugas marinas vivas hace más de 100 millones de años.",
+  "animal": {
+   "diet": "Medusas, salpas y otros animales de cuerpo blando",
+   "habitat": "Mar abierto; solo sale a tierra para anidar",
+   "lifespan": "Probablemente 30–50 años o más",
+   "size": "Caparazón de hasta ~1,8 m; peso normalmente de 300–600 kg, excepcionalmente más de 900 kg",
+   "behaviour": "Las hembras salen a la playa de noche varias veces por temporada para cavar nidos y poner unos 80 huevos. Vuelven a anidar cada dos o tres años. Las bolsas de plástico en el mar, que parecen medusas, son un grave peligro.",
+   "fieldMarks": [
+    "Tortuga enorme, de un azul oscuro casi negro con manchas blancas y sin escudos",
+    "Siete crestas que recorren el dorso a lo largo",
+    "Aletas delanteras muy largas",
+    "Mandíbula superior con una escotadura y dos puntas en forma de diente"
+   ],
+   "lookalikes": "Ninguna otra tortuga tiene un dorso coriáceo con crestas y sin placas. Las tortugas bobas y verdes grandes tienen caparazones duros de placas (escudos).",
+   "whereToSee": "Playas de anidación de Grande Riviere y Matura (Trinidad), Awala-Yalimapo (Guayana Francesa), Gabón, Tortuguero (Costa Rica), Jamursba Medi (Papúa Occidental); en alimentación en el mar frente a Nueva Escocia y California",
+   "season": "Anidación en marzo–julio en el Caribe y el Atlántico; nov–feb en algunas playas del Pacífico",
+   "order": "Testudines"
+  }
+ },
+ {
+  "scientific": "Eretmochelys imbricata",
+  "common": "Tortuga carey",
+  "summary": "Una tortuga marina de arrecife con un pico estrecho y ganchudo y placas del caparazón superpuestas y bellamente jaspeadas. Durante siglos se la mató por su 'carey', y hoy está En peligro crítico.",
+  "nativeRange": "Arrecifes de coral tropicales de los océanos Atlántico, Índico y Pacífico",
+  "biomes": [
+   "Arrecife de coral",
+   "Playas de arena",
+   "Lagunas de manglar"
+  ],
+  "abilities": [
+   "Se alimenta sobre todo de esponjas, muchas de ellas cargadas de toxinas y de espículas como de vidrio",
+   "Al comer esponjas, impide que estas recubran a los corales constructores de arrecifes",
+   "Su pico estrecho, como de ave, puede llegar al interior de las grietas del arrecife"
+  ],
+  "lore": "Los peines y adornos de carey se comerciaron desde la antigua Roma hasta el Japón del periodo Edo, donde la artesanía se conoce como bekkō. La CITES prohibió el comercio internacional en 1977, y Japón, que había mantenido una reserva, puso fin a las importaciones a finales de 1992 y retiró su reserva en 1994.",
+  "funFact": "En 2015 el biólogo marino David Gruber filmó frente a las islas Salomón una tortuga carey que brillaba en rojo y verde bajo luz azul. Fue el primer caso de biofluorescencia descrito en un reptil.",
+  "animal": {
+   "diet": "Principalmente esponjas; también corales blandos, anémonas y medusas",
+   "habitat": "Arrecifes de coral, zonas rocosas y lagunas; anida en playas de islas pequeñas",
+   "lifespan": "Probablemente 30–50 años",
+   "size": "Caparazón de hasta ~1 m; peso de ~45–80 kg",
+   "behaviour": "A menudo anida sola y de día en playas remotas, a veces bajo la vegetación de la playa.",
+   "fieldMarks": [
+    "Cabeza estrecha con un pico afilado y ganchudo, como de halcón",
+    "Escudos del caparazón superpuestos, que dan un borde posterior aserrado",
+    "Dibujo de 'carey' ámbar, pardo y negro",
+    "Dos pares de escamas (prefrontales) entre los ojos"
+   ],
+   "lookalikes": "La tortuga verde tiene un hocico romo y redondeado, un solo par de escamas entre los ojos y escudos del caparazón no superpuestos. Las tortugas bobas tienen una cabeza grande y el caparazón rojizo.",
+   "whereToSee": "Isla Cousin (Seychelles), Bahía (Brasil), isla de Mona (Puerto Rico), isla Milman (Gran Barrera de Coral), arrecifes para esnórquel del Caribe y el mar Rojo",
+   "season": "Residente en los arrecifes; los picos de anidación varían según la región (p. ej., oct–ene en Seychelles)",
+   "order": "Testudines"
+  }
+ },
+ {
+  "scientific": "Caretta caretta",
+  "common": "Tortuga boba (caguama)",
+  "summary": "Una tortuga marina de cabeza grande cuyas potentes mandíbulas trituran cangrejos y caracolas. Las crías de Florida dan la vuelta al Atlántico, y las de Japón cruzan todo el Pacífico para alimentarse frente a México, orientándose por el campo magnético terrestre.",
+  "nativeRange": "Aguas templadas y subtropicales de los océanos Atlántico, Índico y Pacífico y del Mediterráneo",
+  "biomes": [
+   "Mar abierto",
+   "Aguas costeras",
+   "Playas de arena"
+  ],
+  "abilities": [
+   "Se orienta con un 'mapa' magnético que lee la intensidad y el ángulo del campo magnético de la Tierra",
+   "Tritura bocinas, caracolas y cangrejos con sus enormes mandíbulas",
+   "Las crías nadan sin parar durante aproximadamente un día para llegar a mar abierto"
+  ],
+  "lore": "Los estudios de Archie Carr sobre las tortugas marinas en Florida y Costa Rica desde la década de 1950 impulsaron la protección de las playas de anidación. El Archie Carr National Wildlife Refuge de Florida, una de las playas de tortuga boba más importantes del mundo, lleva su nombre.",
+  "funFact": "Las pruebas de laboratorio del equipo de Kenneth Lohmann mostraron que las crías cambian de dirección de nado cuando se las expone a los campos magnéticos de distintos puntos de su ruta migratoria.",
+  "animal": {
+   "diet": "Cangrejos, bocinas, caracolas, erizos de mar y medusas",
+   "habitat": "Aguas costeras, bahías y mar abierto; anida en playas de arena",
+   "lifespan": "Probablemente más de 50 años",
+   "size": "Caparazón de ~90 cm; peso de ~100–150 kg",
+   "behaviour": "Las hembras vuelven a anidar en la misma región costera donde nacieron, a menudo décadas después. Las crías se dirigen hacia el horizonte más luminoso, que es el mar, por lo que las luces de primera línea de playa las atraen tierra adentro.",
+   "fieldMarks": [
+    "Cabeza muy grande y ancha con mandíbulas robustas",
+    "Espaldar pardo rojizo, amarillento por debajo",
+    "Cinco pares de placas (escudos costales) a cada lado del caparazón",
+    "Con frecuencia el caparazón está incrustado de percebes"
+   ],
+   "lookalikes": "Las tortugas verde y carey tienen cuatro pares de escudos costales. La tortuga lora y la golfina son más pequeñas y grises, con caparazones más redondos.",
+   "whereToSee": "Playas atlánticas de Florida (Archie Carr National Wildlife Refuge), isla de Masirah (Omán), Zante (Grecia), Yakushima (Japón), Mon Repos (Australia)",
+   "season": "Anidación en mayo–agosto en el hemisferio norte; nov–feb en Australia",
+   "order": "Testudines"
+  }
+ },
+ {
+  "scientific": "Macrochelys temminckii",
+  "common": "Tortuga caimán",
+  "summary": "La tortuga de agua dulce más pesada de Norteamérica, con tres hileras de crestas puntiagudas en el caparazón y un pico ganchudo. Permanece inmóvil en el lecho del río con la boca abierta, agitando en la lengua un señuelo rosado parecido a un gusano para atraer peces.",
+  "nativeRange": "Ríos que desembocan en el golfo de México en el sureste de Estados Unidos, desde el este de Texas hasta el Panhandle de Florida y remontando la cuenca del Misisipi",
+  "biomes": [
+   "Ríos",
+   "Pantanos",
+   "Lagos en herradura"
+  ],
+  "abilities": [
+   "Atrae a los peces con un apéndice rosado parecido a un gusano en la lengua",
+   "Muerde con fuerza suficiente para seccionar dedos",
+   "Puede permanecer bajo el agua largos periodos y solo sale de vez en cuando a respirar"
+  ],
+  "lore": "En el siglo XX la captura comercial para sopa de tortuga se llevó enormes cantidades de los ríos de la costa del Golfo, y hoy la captura comercial está prohibida en la mayor parte de su área.",
+  "funFact": "Como en muchas tortugas, el sexo de las crías lo determina la temperatura del nido.",
+  "animal": {
+   "diet": "Peces, otras tortugas, serpientes, cangrejos de río, mejillones, carroña, y frutos y nueces caídos",
+   "habitat": "Ríos profundos, lagos en herradura, pantanos y canales",
+   "lifespan": "Probablemente varias décadas; quizá más de 70 años",
+   "size": "Caparazón de hasta ~80 cm; machos de hasta ~80 kg, excepcionalmente más",
+   "behaviour": "Rara vez sale del agua, salvo las hembras cuando van a tierra a anidar. De día está mayormente inactiva.",
+   "fieldMarks": [
+    "Tres prominentes hileras de crestas puntiagudas a lo largo del caparazón",
+    "Cabeza maciza con un pico muy ganchudo",
+    "Ojos a los lados de la cabeza, rodeados de puntas carnosas",
+    "Hilera adicional de escudos (supramarginales) a los lados del caparazón"
+   ],
+   "lookalikes": "La tortuga lagarto común (Chelydra serpentina) tiene un caparazón más liso, ojos visibles desde arriba y una cola larga con cresta aserrada. La tortuga caimán del Suwannee (M. suwanniensis), del río Suwannee en Florida y Georgia, se separó como especie distinta en 2014.",
+   "whereToSee": "Ríos de Luisiana, Arkansas, Misisipi y Texas; rara vez se ve tomando el sol; se ve mejor en acuarios y zoológicos",
+   "season": "Residente; anida a finales de la primavera",
+   "order": "Testudines"
+  }
+ },
+ {
+  "scientific": "Geochelone elegans",
+  "common": "Tortuga estrellada de la India",
+  "summary": "Una tortuga terrestre del matorral seco de la India, Pakistán y Sri Lanka, con llamativos dibujos de estrellas amarillas que irradian sobre las placas negras y abombadas de su caparazón. Es una de las tortugas más traficadas del mundo.",
+  "nativeRange": "Noroeste de la India y sureste de Pakistán; sureste de la India; Sri Lanka",
+  "biomes": [
+   "Matorral",
+   "Pastizal seco",
+   "Bosque espinoso"
+  ],
+  "abilities": [
+   "Su dibujo estrellado rompe su silueta entre la hierba y las sombras",
+   "Su caparazón muy abombado es difícil de romper o tragar para los depredadores",
+   "Sobrevive a las estaciones cálidas y secas comiendo plantas suculentas y activándose tras las lluvias"
+  ],
+  "lore": "Pese a estar protegida por la legislación india, cada año se sacan de contrabando miles de ejemplares como mascotas. En 2019 la CITES la pasó al Apéndice I, que prohíbe todo comercio internacional con fines comerciales.",
+  "animal": {
+   "diet": "Hierbas, frutos caídos, flores y hojas suculentas",
+   "habitat": "Pastizal seco, bosque de matorral y semidesierto",
+   "size": "Caparazón de hasta ~25–30 cm",
+   "behaviour": "Es más activa a primera hora de la mañana y a última hora de la tarde, y tras las lluvias del monzón.",
+   "fieldMarks": [
+    "Caparazón muy abombado con placas elevadas en forma de pirámide",
+    "Dibujo de estrella amarillo o canela en cada placa negra",
+    "Cabeza y extremidades amarillas"
+   ],
+   "lookalikes": "La tortuga estrellada de Birmania (G. platynota) tiene menos rayos y escudos más planos, y solo se encuentra en Birmania.",
+   "whereToSee": "Matorral seco de Guyarat (Kutch, Saurashtra) y Rajastán; Tamil Nadu y Andhra Pradesh; zona seca de Sri Lanka (Yala, Wilpattu)",
+   "season": "Más activa durante el monzón",
+   "order": "Testudines"
+  }
+ },
+ {
+  "scientific": "Gavialis gangeticus",
+  "common": "Gavial (gavial del Ganges)",
+  "summary": "Un cocodriliano piscívoro de los grandes ríos del norte de la India y Nepal, con un hocico muy largo y fino como una aguja. Los machos maduros desarrollan en la punta del hocico una protuberancia bulbosa, el ghara ('olla'), que da nombre a la especie. Está En peligro crítico y sobrevive sobre todo en unos pocos tramos de río protegidos.",
+  "nativeRange": "Ríos del norte de la India y Nepal (Chambal, Girwa, Son, Gandak, Rapti–Narayani, Ganges); extinto en Pakistán, Bután y Myanmar, y posiblemente en Bangladés",
+  "biomes": [
+   "Grandes ríos",
+   "Bancos de arena"
+  ],
+  "abilities": [
+   "Lanza dentelladas laterales a los peces con su hocico fino, que apenas encuentra resistencia en el agua",
+   "Los machos emiten un zumbido con el ghara, que también les ayuda a hacer burbujas",
+   "Uno de los cocodrilianos más largos: los machos alcanzan unos 5–6 m"
+  ],
+  "lore": "En la década de 1970 quedaban menos de 200 gaviales en libertad, y el Proyecto Cocodrilo de la India, iniciado en 1975, crió crías a partir de huevos recolectados para liberarlas. En el arte hindú, el makara, montura de la diosa fluvial Ganga, suele representarse con un hocico largo como el de un gavial.",
+  "funFact": "En 2007–08 murieron más de 100 gaviales en el río Chambal por una enfermedad o una toxina, lo que mostró lo vulnerables que pueden ser unas pocas poblaciones pequeñas.",
+  "animal": {
+   "diet": "Casi exclusivamente peces",
+   "habitat": "Ríos profundos y de corriente rápida con bancos de arena altos para asolearse y anidar",
+   "size": "Machos de hasta unos 5–6 m; hembras de unos 3,5–4,5 m",
+   "behaviour": "Rara vez sale del agua salvo para asolearse y anidar en los bancos de arena. Las crías permanecen en grupos (guarderías) vigilados por adultos y a veces viajan sobre el lomo de un macho grande. Sus patas son demasiado débiles para caminar erguido en tierra, así que se desliza sobre el vientre.",
+   "fieldMarks": [
+    "Hocico muy largo y estrecho con muchos dientes entrelazados",
+    "Protuberancia bulbosa (ghara) en la punta del hocico de los machos adultos",
+    "Cuerpo de oliva a pardo grisáceo",
+    "Se asolea en los bancos de arena de los ríos"
+   ],
+   "lookalikes": "El cocodrilo de las marismas tiene un hocico ancho y pesado. El falso gavial (Tomistoma schlegelii) del Sudeste Asiático tiene un hocico algo más ancho que se estrecha desde la cabeza y vive muy lejos.",
+   "whereToSee": "Santuario Nacional del Chambal (Madhya Pradesh–Rajastán–Uttar Pradesh), Katarniaghat en el río Girwa, Parque Nacional de Chitwan (Nepal)",
+   "season": "Residente; se ve mejor asoleándose en invierno (nov–mar); anida mar–abr; eclosión en junio",
+   "order": "Crocodylia"
+  }
+ },
+ {
+  "scientific": "Alligator mississippiensis",
+  "common": "Aligátor americano (caimán del Misisipi)",
+  "summary": "Un gran éxito de conservación: cazado casi hasta la extinción a mediados del siglo XX, fue protegido y se recuperó. Modela los humedales del sureste de EE. UU. excavando 'charcas de aligátor' que conservan agua y fauna durante la estación seca.",
+  "nativeRange": "Sureste de Estados Unidos, desde Carolina del Norte hasta Florida y hacia el oeste hasta Texas, y remontando el valle del Misisipi hasta Arkansas y Oklahoma",
+  "biomes": [
+   "Marisma",
+   "Pantano",
+   "Ríos",
+   "Lagos"
+  ],
+  "abilities": [
+   "Excava 'charcas de aligátor' que siguen húmedas en la estación seca y mantienen con vida a peces, tortugas y aves",
+   "Sobrevive a las heladas manteniendo solo las narinas por encima del hielo",
+   "Los machos braman y emiten infrasonidos que hacen 'bailar' el agua sobre su lomo",
+   "El sexo de las crías lo determina la temperatura del nido"
+  ],
+  "lore": "El nombre 'alligator' procede del español 'el lagarto'. Declarado en peligro en 1967, salió de la lista de especies en peligro de EE. UU. en 1987.",
+  "funFact": "El aligátor chino (Alligator sinensis) es su único pariente cercano vivo; ambos linajes se separaron hace decenas de millones de años.",
+  "animal": {
+   "diet": "Peces, tortugas, serpientes, aves y mamíferos; los jóvenes comen insectos y cangrejos de río",
+   "habitat": "Marismas de agua dulce, pantanos, ríos, lagos y algunas aguas salobres",
+   "lifespan": "Unos 35–50 años",
+   "size": "Machos normalmente de 3,5–4,5 m; hembras de unos 2,5–3 m",
+   "behaviour": "Las hembras construyen nidos en montículo de vegetación en descomposición, los vigilan y llevan a las crías al agua en la boca. Las crías llaman desde dentro del huevo cuando están listas para eclosionar.",
+   "fieldMarks": [
+    "Hocico ancho y redondeado en forma de U",
+    "Con la boca cerrada, la mandíbula superior cubre los dientes inferiores",
+    "De gris oscuro a negro; juveniles con bandas amarillas",
+    "Placas óseas en el dorso"
+   ],
+   "lookalikes": "El cocodrilo americano (Crocodylus acutus), que en EE. UU. solo vive en el sur de Florida, tiene un hocico estrecho y afilado en forma de V, un color verde grisáceo más claro y el cuarto diente inferior visible con la boca cerrada. Los caimanes (introducidos en Florida) son más pequeños y tienen una cresta ósea entre los ojos.",
+   "whereToSee": "Parque Nacional de los Everglades (Anhinga Trail), pantano de Okefenokee, cuenca del Atchafalaya (Luisiana), Brazos Bend State Park (Texas)",
+   "season": "Residente; bramidos y cortejo en abril–mayo; anidación en junio–julio",
+   "order": "Crocodylia"
+  }
+ },
+ {
+  "scientific": "Crocodylus niloticus",
+  "common": "Cocodrilo del Nilo",
+  "summary": "El mayor depredador de agua dulce de África, famoso por emboscar ñus y cebras en los vados de los ríos. A lo largo de la historia ha matado e inspirado a las personas, y en el antiguo Egipto se le adoraba como el dios Sobek.",
+  "nativeRange": "África subsahariana, la cuenca del Nilo y Madagascar (el cocodrilo de África occidental, Crocodylus suchus, se considera hoy una especie aparte)",
+  "biomes": [
+   "Ríos",
+   "Lagos",
+   "Pantanos",
+   "Estuarios"
+  ],
+  "abilities": [
+   "Embosca a grandes mamíferos en la orilla y los ahoga",
+   "Puede pasar muchos meses sin comer",
+   "Las hembras llevan a las crías al agua en la boca",
+   "Los grupos cooperan para alimentarse de grandes cadáveres, sujetándolos y girando para desgarrar la carne"
+  ],
+  "lore": "Los antiguos egipcios adoraban al dios cocodrilo Sobek en Kom Ombo y en Cocodrilópolis (El Fayum), donde se mantenían, alimentaban y momificaban por millares cocodrilos sagrados. Heródoto escribió que el chorlito le limpiaba los dientes, una historia que aún hoy se repite.",
+  "funFact": "El ADN de momias de cocodrilo del antiguo Egipto mostró que algunas eran de cocodrilos de África occidental, quizá elegidos por ser menos agresivos y más fáciles de mantener en los templos.",
+  "animal": {
+   "diet": "Peces y mamíferos del tamaño de ñus, cebras y búfalos",
+   "habitat": "Ríos, lagos, pantanos y estuarios",
+   "size": "Machos normalmente de 3,5–5 m, excepcionalmente unos 6 m; hembras más pequeñas",
+   "behaviour": "Se asolea con la boca abierta para refrescarse. Las hembras entierran los huevos en bancos de arena y los vigilan durante unos tres meses. Se le considera responsable de más ataques a personas que cualquier otra especie de cocodrilo.",
+   "fieldMarks": [
+    "Cocodrilo grande, de color bronce oliváceo, con bandas oscuras en la cola",
+    "Hocico ancho en forma de V",
+    "Cuarto diente inferior visible con la boca cerrada",
+    "Se asolea en bancos de arena"
+   ],
+   "lookalikes": "El cocodrilo de África occidental (C. suchus) es más pequeño y vive sobre todo en África occidental y central. El cocodrilo de hocico fino (Mecistops) tiene un hocico largo y delgado. Los cocodrilos enanos (Osteolaemus) son pequeños y oscuros.",
+   "whereToSee": "Vados del río Mara (Kenia, Tanzania), Parque Nacional Kruger, lago Chamo (Etiopía), delta del Okavango, lago Nasser",
+   "season": "Residente; cruces de ñus en el Mara de julio a octubre",
+   "order": "Crocodylia"
+  }
+ },
+ {
+  "scientific": "Crocodylus palustris",
+  "common": "Cocodrilo de las marismas (mugger)",
+  "summary": "Un cocodrilo de hocico ancho propio de los ríos, lagos y embalses del sur de Asia. Es adaptable, excava madrigueras para sobrevivir a la sequía y se le ha visto sostener palitos en equilibrio sobre el hocico para atraer a aves que construyen nidos.",
+  "nativeRange": "India, Sri Lanka, Pakistán, Nepal y el sureste de Irán; extinto en Bután y probablemente en Myanmar; posiblemente sobrevive en Bangladés",
+  "biomes": [
+   "Ríos",
+   "Lagos",
+   "Marismas",
+   "Embalses"
+  ],
+  "abilities": [
+   "Excava madrigueras en las orillas para escapar del calor y la sequía",
+   "Se le ha visto sostener palitos sobre el hocico cerca de colonias de garcetas durante la época de nidificación, posiblemente para atraer a aves que recogen material para el nido",
+   "Se desplaza por tierra entre masas de agua",
+   "Vive en embalses, canales de riego y lagos urbanos"
+  ],
+  "lore": "En el santuario de Pir Mangho, en Karachi, se mantienen cocodrilos de las marismas en un estanque desde hace siglos; los alimentan los peregrinos, que los consideran discípulos del santo. El relato de Rudyard Kipling 'The Undertakers' (1895) tiene como protagonista a un mugger de una aldea del Ganges.",
+  "funFact": "En 2013 Vladimir Dinets informó de que cocodrilos de las marismas y aligátores americanos sostenían palitos sobre el hocico cerca de colonias de aves, probablemente el primer uso de herramientas conocido en reptiles.",
+  "animal": {
+   "diet": "Peces, aves, tortugas, ciervos, monos y otros mamíferos",
+   "habitat": "Ríos, lagos, marismas, embalses y canales de riego",
+   "size": "Machos de hasta unos 4–5 m; hembras de unos 2,5–3 m",
+   "behaviour": "Se asolea durante largos periodos, a menudo con la boca abierta. Las hembras excavan nidos en bancos de arena y llevan a las crías al agua.",
+   "fieldMarks": [
+    "Hocico ancho y pesado, el más ancho de todos los Crocodylus vivos",
+    "Cuerpo de gris a pardo oliváceo; juveniles con bandas",
+    "Cuarto diente inferior visible con la boca cerrada",
+    "Carece del par de protuberancias óseas delante de los ojos que tiene el cocodrilo marino"
+   ],
+   "lookalikes": "El gavial tiene un hocico muy fino. El cocodrilo marino, presente en zonas costeras como los Sundarbans, Bhitarkanika y los estuarios de Sri Lanka, tiene un hocico más largo y estrecho y crestas óseas delante de los ojos.",
+   "whereToSee": "Santuario Nacional del Chambal, santuario de aves de Ranganathittu (Karnataka), río Vishwamitri (Vadodara), Yala y Wilpattu (Sri Lanka), Bardia (Nepal)",
+   "season": "Residente; anida de febrero a abril",
+   "order": "Crocodylia"
+  }
+ },
+ {
+  "scientific": "Lithobates catesbeianus",
+  "common": "Rana toro americana",
+  "summary": "La mayor rana verdadera de Norteamérica, cuyo canto grave y retumbante se oye en las charcas veraniegas. Se come casi cualquier cosa que le quepa en la boca. Introducida en todo el mundo para el consumo de ancas de rana, se ha convertido en una especie invasora que devora ranas autóctonas y propaga enfermedades.",
+  "nativeRange": "Este y centro de Norteamérica, desde el sur de Canadá hasta el golfo de México; introducida en el oeste de Norteamérica, Sudamérica, Europa y Asia oriental",
+  "biomes": [
+   "Charcas",
+   "Lagos",
+   "Ríos lentos",
+   "Marismas"
+  ],
+  "abilities": [
+   "Come insectos, cangrejos de río, peces, otras ranas, serpientes, aves y pequeños mamíferos",
+   "Los renacuajos pueden tardar de uno a tres años en convertirse en ranas",
+   "Puede saltar más de diez veces la longitud de su cuerpo",
+   "Puede portar el hongo quítrido sin enfermar y contagiarlo a otros anfibios"
+  ],
+  "edibleParts": [
+   "patas traseras (ancas)"
+  ],
+  "edibilityNote": "Las patas traseras se comen y la especie se cría para carne. Cocínense bien. Las ranas silvestres de aguas contaminadas pueden contener contaminantes.",
+  "lore": "El relato de Mark Twain de 1865 'The Celebrated Jumping Frog of Calaveras County' (La célebre rana saltarina del condado de Calaveras) inspiró el concurso de ranas saltarinas que se celebra en la feria del condado de Calaveras desde 1928, donde las ranas toro son las competidoras habituales.",
+  "funFact": "Las ranas toro liberadas en Japón en 1918 como alimento se extendieron por las islas y hoy figuran allí como especie exótica invasora.",
+  "animal": {
+   "diet": "Casi cualquier cosa que pueda tragar",
+   "habitat": "Charcas permanentes, lagos y ríos lentos con vegetación",
+   "lifespan": "Unos 8–10 años",
+   "size": "Cuerpo de unos 9–15 cm; hasta unos 20 cm y 0,5 kg",
+   "behaviour": "En verano los machos defienden territorios de canto y luchan con sus rivales.",
+   "fieldMarks": [
+    "Rana grande, de verde a oliva, a menudo con jaspeado más oscuro",
+    "Tímpano grande y redondo, mayor que el ojo en los machos",
+    "Un pliegue que rodea el tímpano, pero sin pliegues a lo largo del dorso",
+    "Los machos tienen la garganta amarilla"
+   ],
+   "voice": "Un 'jug-o-rum' grave y resonante o un bramido 'rumm', como una sirena de niebla o un toro; se oye en las noches de verano",
+   "lookalikes": "La rana verde (L. clamitans) tiene un par de pliegues (pliegues dorsolaterales) a lo largo del dorso y emite un 'gunk' metálico, como la cuerda floja de un banjo. La rana cerdo (L. grylio) del sureste tiene un canto como un gruñido y el hocico más puntiagudo.",
+   "whereToSee": "Charcas, lagos y marismas de todo el este de EE. UU. y el sur de Canadá",
+   "season": "Canta de mayo a agosto; hiberna bajo el agua en invierno",
+   "order": "Anura"
+  }
+ },
+ {
+  "scientific": "Rhinella marina",
+  "common": "Sapo de caña (sapo gigante)",
+  "summary": "Un sapo pesado y verrugoso de la América tropical que se liberó en Australia, el Caribe y el Pacífico para controlar los escarabajos de la caña. Fracasó en esa tarea y, en cambio, extendió su veneno entre la fauna autóctona. Las glándulas de su piel producen bufotoxinas que pueden matar a perros, cuoles, varanos y serpientes que lo muerdan.",
+  "nativeRange": "Sur de Texas y México, a través de Centroamérica, hasta la Amazonia central; introducido en Australia, el Caribe, Hawái, Florida, Filipinas, Papúa Nueva Guinea y muchas islas",
+  "biomes": [
+   "Bosque tropical",
+   "Sabana",
+   "Tierras de cultivo",
+   "Ciudades"
+  ],
+  "abilities": [
+   "Unas grandes glándulas detrás de los ojos (parótidas) producen toxinas bufadienólidas que pueden detener el corazón de los depredadores",
+   "Los huevos y los renacuajos también son tóxicos",
+   "Se ha extendido por el norte de Australia a un ritmo de hasta unos 50 km al año",
+   "Se reproduce en casi cualquier agua quieta y pone hasta 30 000 huevos de una vez"
+  ],
+  "edibilityNote": "La piel, las glándulas y los huevos son mortalmente venenosos; ha habido personas que han muerto tras comer sapos o huevos de sapo.",
+  "lore": "En 1935 se llevaron 102 sapos de caña de Hawái a Gordonvale (Queensland) para controlar los escarabajos de la caña. Sus descendientes se han extendido por más de 1,2 millones de kilómetros cuadrados de Australia.",
+  "funFact": "En algunas partes de Australia, los cuervos y las ratas de agua autóctonas (rakali) han aprendido a voltear a los sapos de caña y comérselos por el vientre, evitando las glándulas venenosas.",
+  "animal": {
+   "diet": "Insectos, caracoles, pequeños vertebrados, comida para mascotas y basura",
+   "habitat": "Hábitats abiertos cerca del agua, tierras de cultivo, jardines y ciudades",
+   "lifespan": "Unos 10–15 años",
+   "size": "Normalmente 10–15 cm; hasta unos 24 cm",
+   "behaviour": "Cuando se siente amenazado se hincha e inclina sus glándulas hacia el atacante. Las mascotas que se meten un sapo en la boca pueden babear, desplomarse y morir: límpieles las encías con un paño húmedo (no les eche agua con manguera en la garganta) y llévelas al veterinario de inmediato. Quien manipule sapos debe lavarse las manos. Nunca lama ni coma sapos ni sus huevos; ha habido personas que han muerto por comerlos.",
+   "fieldMarks": [
+    "Sapo grande, verrugoso y pardo, de piel seca",
+    "Enormes glándulas parótidas triangulares detrás de los ojos",
+    "Crestas óseas sobre los ojos que se unen en el hocico",
+    "Dedos de las manos sin membrana; dedos de los pies palmeados"
+   ],
+   "voice": "Un trino largo y grave, como un tono de llamada telefónico o un motor lejano al ralentí, que dura varios segundos",
+   "lookalikes": "En Australia, las ranas autóctonas como las ranas banjo gigantes (Limnodynastes) y las ranas excavadoras no tienen grandes glándulas parótidas ni crestas óseas en la cabeza. En EE. UU., el sapo de la costa del Golfo (Incilius nebulifer) es más pequeño y tiene una franja clara a lo largo del dorso.",
+   "whereToSee": "Introducido: Queensland y el Territorio del Norte (Australia), Florida, Hawái; nativo: tierras bajas de Centroamérica y Sudamérica",
+   "season": "Activo todo el año en los trópicos; se reproduce sobre todo en la estación lluviosa",
+   "order": "Anura"
+  }
+ },
+ {
+  "scientific": "Rana temporaria",
+  "common": "Rana bermeja",
+  "summary": "La conocida rana parda del norte de Europa, que se encuentra desde las montañas mediterráneas hasta más allá del círculo polar ártico. Cada primavera es uno de los primeros anfibios en reproducirse y llena las charcas de masas de puesta.",
+  "nativeRange": "Gran parte de Europa, desde el norte de España y Gran Bretaña hasta los Urales y Siberia occidental, y hacia el norte más allá del círculo polar ártico; ausente de buena parte de las tierras bajas mediterráneas",
+  "biomes": [
+   "Charcas",
+   "Prados húmedos",
+   "Bosques",
+   "Jardines",
+   "Lagos de montaña"
+  ],
+  "abilities": [
+   "Se reproduce en aguas apenas por encima del punto de congelación",
+   "Vive a altitudes de hasta unos 2500 m en los Alpes",
+   "Puede cambiar el tono de su piel para adaptarse al entorno en cuestión de horas o días"
+  ],
+  "funFact": "En Irlanda es la única rana autóctona; desde hace mucho se debate si llegó de forma natural o con los monjes medievales.",
+  "animal": {
+   "diet": "Insectos, babosas, caracoles, lombrices y arañas; los renacuajos ramonean algas",
+   "habitat": "Charcas, zanjas, marismas, pastizales húmedos, bosques y jardines",
+   "lifespan": "Unos 5–10 años",
+   "size": "Unos 6–10 cm",
+   "behaviour": "A principios de la primavera se reúnen grandes cantidades en las charcas para unos pocos días de reproducción 'explosiva', a menudo en la misma charca cada año.",
+   "fieldMarks": [
+    "Parda, oliva o pardo amarillenta, con manchas oscuras variables",
+    "Mancha oscura en forma de 'antifaz' detrás del ojo, sobre el tímpano",
+    "Barras oscuras en las patas traseras",
+    "Piel lisa y húmeda; salta en lugar de arrastrarse"
+   ],
+   "voice": "Un croar grave, suave y ronroneante, como una moto lejana, a menudo de muchas ranas a la vez",
+   "lookalikes": "El sapo común (Bufo bufo) tiene la piel verrugosa, camina en lugar de saltar y pone los huevos en cordones, no en masas. La rana de los pantanos (R. arvalis) tiene el hocico más puntiagudo y los machos pueden volverse azules en la época de cría. La rana ágil (R. dalmatina) tiene las patas traseras muy largas y el cuerpo más claro.",
+   "whereToSee": "Estanques de jardín y humedales de Gran Bretaña, Irlanda, Escandinavia y los Alpes",
+   "season": "Desova de febrero a abril (más tarde en el norte y en las montañas); hiberna en invierno, los machos a menudo en el fango de la charca",
+   "order": "Anura"
+  }
+ },
+ {
+  "scientific": "Agalychnis callidryas",
+  "common": "Rana verde de ojos rojos",
+  "summary": "Una rana arborícola verde hoja de las selvas de Centroamérica, con ojos escarlata, flancos azules y amarillos y patas naranjas. Sus renacuajos aún no nacidos pueden eclosionar antes de tiempo cuando perciben las vibraciones de una serpiente que ataca los huevos.",
+  "nativeRange": "Selvas de tierras bajas desde el sur de México, a través de Centroamérica, hasta el noroeste de Colombia",
+  "biomes": [
+   "Selva tropical",
+   "Charcas forestales"
+  ],
+  "abilities": [
+   "Los embriones eclosionan hasta varios días antes para escapar de serpientes o avispas, y distinguen las vibraciones de un ataque de las de la lluvia",
+   "Sobresalta a los depredadores abriendo de repente sus ojos rojo brillante y mostrando sus flancos de colores",
+   "Pone los huevos en hojas sobre el agua, de modo que los renacuajos caen directamente en ella al eclosionar"
+  ],
+  "lore": "Su imagen se ha convertido en símbolo de la conservación de la selva tropical y aparece en innumerables carteles y sellos desde la década de 1980.",
+  "funFact": "Las investigaciones de Karen Warkentin demostraron que los embriones de rana verde de ojos rojos distinguen el patrón de vibración del ataque de una serpiente del de la lluvia y eclosionan en segundos.",
+  "animal": {
+   "diet": "Grillos, polillas, moscas y otros insectos",
+   "habitat": "Árboles de la selva cerca de charcas y pantanos",
+   "lifespan": "Unos 5 años",
+   "size": "Machos de unos 5 cm; hembras de unos 7 cm",
+   "behaviour": "De día duerme en el envés de una hoja con los ojos cerrados y los colores vivos ocultos, de modo que parece totalmente verde. Los machos cantan desde ramas sobre las charcas en noches lluviosas.",
+   "fieldMarks": [
+    "Verde brillante con grandes ojos rojos y pupilas verticales",
+    "Flancos de azul a púrpura con barras verticales claras",
+    "Dedos naranjas o rojos con discos adhesivos",
+    "Cuerpo esbelto y extremidades largas"
+   ],
+   "voice": "Un 'chack' o 'chack-chack' breve, repetido a intervalos desde la vegetación sobre el agua",
+   "lookalikes": "La rana arborícola de Morelet (A. moreletii) tiene los ojos rojo oscuro y no tiene barras en los flancos. La rana planeadora (A. spurrelli) tiene grandes manos palmeadas y manchas en el dorso.",
+   "whereToSee": "La Selva, Tortuguero y Sarapiquí (Costa Rica), Parque Nacional Soberanía (Panamá), Belice; charcas en noches de la estación lluviosa",
+   "season": "Se reproduce en la estación lluviosa (mayo–noviembre)",
+   "order": "Anura"
+  }
+ },
+ {
+  "scientific": "Phyllobates terribilis",
+  "common": "Rana dorada venenosa (rana dardo dorada)",
+  "summary": "Probablemente el animal más venenoso de la Tierra en proporción a su tamaño. Esta rana del tamaño de un pulgar, amarilla, naranja o verde menta, vive en unos pocos valles selváticos de la costa pacífica de Colombia. Su piel contiene batracotoxina, que los cazadores emberá usaban para envenenar los dardos de cerbatana.",
+  "nativeRange": "Selva tropical de tierras bajas del Pacífico en el departamento del Cauca, Colombia",
+  "biomes": [
+   "Selva tropical"
+  ],
+  "abilities": [
+   "Su piel contiene batracotoxina, que mantiene abiertos los canales de sodio de nervios y músculos y puede causar una insuficiencia cardiaca mortal",
+   "Se calcula que una sola rana silvestre lleva toxina suficiente para matar a unas diez personas",
+   "Tiene canales de sodio resistentes, por lo que su propio veneno no la daña",
+   "Obtiene la toxina de su dieta silvestre; las ranas criadas en cautividad son inofensivas"
+  ],
+  "lore": "El pueblo emberá de Colombia frota los dardos de cerbatana en el dorso de ranas vivas para envenenarlos, sin matar a las ranas. Los científicos Charles Myers, John Daly y Borys Malkin describieron la especie en 1978.",
+  "funFact": "La batracotoxina también se encuentra en las plumas de algunas aves de Nueva Guinea, los pitohuis y el ifrit coroniazul, que probablemente la obtienen de escarabajos.",
+  "animal": {
+   "diet": "Hormigas, escarabajos y otros pequeños invertebrados",
+   "habitat": "Hojarasca de la selva húmeda de tierras bajas cerca de arroyos",
+   "lifespan": "Unos 5–10 años en cautividad",
+   "size": "Unos 4,5–5,5 cm",
+   "behaviour": "Activa de día y atrevida gracias a su toxina. Los machos transportan a los renacuajos sobre el dorso hasta el agua. Nunca deben tocarse las ranas silvestres: la toxina de la piel puede penetrar por cortes.",
+   "fieldMarks": [
+    "Color uniforme amarillo brillante, naranja o verde metálico pálido",
+    "Ojos negros; a menudo con manchas negras en las puntas de los dedos",
+    "Más grande que la mayoría de las ranas venenosas",
+    "Activa a la luz del día en el suelo del bosque"
+   ],
+   "voice": "Una larga serie de trinos rápidos emitidos por los machos",
+   "lookalikes": "La rana venenosa kokoe (P. aurotaenia) es negra con rayas naranjas o verdes. La rana venenosa de patas negras (P. bicolor) es amarillo anaranjada con patas oscuras y más pequeña.",
+   "whereToSee": "Solo en unas pocas zonas del Cauca, Colombia (cuenca del río Saija); lo mejor es verla en zoológicos",
+   "season": "Residente",
+   "order": "Anura"
+  }
+ },
+ {
+  "scientific": "Hyalinobatrachium fleischmanni",
+  "common": "Rana de cristal de Fleischmann",
+  "summary": "Una pequeña rana verde lima de las orillas de arroyos de Centroamérica y Sudamérica, cuyo vientre es tan transparente que se ve latir su corazón. Los machos custodian las puestas en el envés de hojas que cuelgan sobre el agua.",
+  "nativeRange": "Desde el sur de México, a través de Centroamérica, hasta Colombia, Ecuador y Venezuela (algunas poblaciones del norte de Sudamérica se han separado como especies distintas)",
+  "biomes": [
+   "Selva tropical",
+   "Bosque nuboso",
+   "Arroyos"
+  ],
+  "abilities": [
+   "Mientras duerme oculta casi el 90 % de sus glóbulos rojos en el hígado y se vuelve dos o tres veces más transparente",
+   "Su cuerpo translúcido la ayuda a confundirse con las hojas al difuminar su contorno",
+   "Los machos custodian los huevos durante semanas y los protegen de avispas y hongos"
+  ],
+  "lore": "Oskar Boettger la describió en 1893 a partir de ejemplares de Costa Rica y le dio el nombre de Carl Fleischmann, que los había recolectado.",
+  "funFact": "Un estudio publicado en Science en 2022 mostró que las ranas dormidas de esta especie acumulan los glóbulos rojos en el hígado sin que se formen coágulos, lo que interesa a los investigadores de los trastornos de la coagulación.",
+  "animal": {
+   "diet": "Pequeños insectos y arañas",
+   "habitat": "Vegetación a lo largo de arroyos en selvas de tierras bajas y de montaña",
+   "size": "Unos 2–3 cm",
+   "behaviour": "En noches lluviosas, los machos cantan desde el envés de hojas sobre los arroyos y custodian los huevos. Los renacuajos, al eclosionar, caen al arroyo.",
+   "fieldMarks": [
+    "Rana pequeña y plana, verde lima con diminutas manchas amarillas",
+    "Vientre translúcido a través del cual se ven el corazón y los órganos",
+    "Ojos grandes orientados hacia delante, con iris dorado",
+    "Suele encontrarse en el envés de hojas sobre arroyos"
+   ],
+   "voice": "Un 'pip' o 'uiit' agudo y ascendente, repetido a intervalos",
+   "lookalikes": "Muchas ranas de cristal se parecen. La rana de cristal reticulada (H. valerioi) tiene una red de líneas amarillas en el dorso. Las ranas de cristal esmeralda (Espadarana prosoblepon) tienen los huesos verdes y los machos una espina blanca en el brazo. Una observación cercana del vientre y el canto ayudan a identificarla.",
+   "whereToSee": "Arroyos de La Selva, Monteverde y Arenal (Costa Rica), tierras altas de Chiriquí (Panamá); paseos nocturnos en la estación lluviosa",
+   "season": "Se reproduce en la estación lluviosa",
+   "order": "Anura"
+  }
+ },
+ {
+  "scientific": "Lithobates sylvaticus",
+  "common": "Rana de bosque",
+  "summary": "Una rana parda con antifaz de los bosques del norte que se congela por completo en invierno. Su corazón se detiene y gran parte del agua de su cuerpo se convierte en hielo, y en primavera se descongela y vuelve a la vida. Llega más al norte que ningún otro anfibio norteamericano, más allá del círculo polar ártico.",
+  "nativeRange": "Alaska y Canadá hasta el límite arbóreo ártico, y hacia el sur hasta los Apalaches y el noreste de EE. UU.",
+  "biomes": [
+   "Bosque boreal",
+   "Bosque templado caducifolio",
+   "Borde de la tundra",
+   "Charcas temporales"
+  ],
+  "abilities": [
+   "Sobrevive a la congelación, con hasta unos dos tercios del agua de su cuerpo convertida en hielo",
+   "Inunda sus células de glucosa y urea, que actúan como anticongelante",
+   "Las ranas de bosque de Alaska sobreviven a temperaturas de hasta −16 °C",
+   "Se reproduce en charcas temporales sin peces"
+  ],
+  "funFact": "Una rana de bosque congelada no muestra latido ni respiración. A las pocas horas de descongelarse, su corazón vuelve a latir.",
+  "animal": {
+   "diet": "Insectos, arañas, babosas, caracoles y lombrices",
+   "habitat": "Bosques húmedos; se reproduce en charcas temporales y estanques",
+   "lifespan": "Unos 3 años",
+   "size": "Unos 3,5–7,5 cm",
+   "behaviour": "A principios de la primavera, a veces cuando el hielo aún cubre parte de la charca, las ranas de bosque se reúnen en un frenesí reproductor que dura solo unos días y ponen juntas grandes masas de huevos.",
+   "fieldMarks": [
+    "Rana parda, ocre o rojiza con un antifaz oscuro que atraviesa el ojo",
+    "Línea blanca a lo largo del labio superior",
+    "Pliegues (pliegues dorsolaterales) a lo largo del dorso",
+    "A menudo con una franja clara por el centro del dorso"
+   ],
+   "voice": "Un coro de cloqueos breves y ásperos, como patos graznando",
+   "lookalikes": "Las ranas leopardo (L. pipiens) son verdes o pardas con grandes manchas oscuras. Las ranas pickerel tienen manchas cuadradas. La rana de coro primaveral (spring peeper) es diminuta y tiene una X en el dorso. El antifaz oscuro de la rana de bosque es inconfundible.",
+   "whereToSee": "Charcas temporales de Nueva Inglaterra, la región de los Grandes Lagos, Ontario, Quebec y Alaska; escúchela a principios de la primavera",
+   "season": "Se reproduce de marzo a mayo (en cuanto se funde el hielo); en invierno hiberna congelada en la hojarasca",
+   "order": "Anura"
+  }
+ },
+ {
+  "scientific": "Nasikabatrachus sahyadrensis",
+  "common": "Rana púrpura",
+  "summary": "Una rana hinchada de color gris púrpura con un hocico puntiagudo como el de un cerdo, que pasa la mayor parte de su vida bajo tierra en los Ghats Occidentales de la India y solo sale unos días durante el monzón para reproducirse. Sus parientes más cercanos viven en las Seychelles, un vínculo con la fragmentación de Gondwana.",
+  "nativeRange": "Ghats Occidentales de la India (Kerala, Tamil Nadu y Karnataka)",
+  "biomes": [
+   "Bosque tropical húmedo",
+   "Arroyos monzónicos",
+   "Plantaciones"
+  ],
+  "abilities": [
+   "Vive enterrada hasta varios metros bajo tierra la mayor parte del año",
+   "Se alimenta de termitas y hormigas en sus túneles subterráneos, explorando con su hocico puntiagudo",
+   "Los renacuajos se aferran a las rocas de los rápidos arroyos monzónicos con bocas a modo de ventosa",
+   "Su linaje se separó del de sus parientes de las Seychelles hace decenas de millones de años"
+  ],
+  "lore": "S. D. Biju y Franky Bossuyt describieron la rana púrpura en Nature en 2003, revelando una nueva familia de ranas. En Kerala se ha propuesto como rana oficial del estado, y la gente local la llama 'Mahabali', por el rey legendario que regresa del inframundo una vez al año.",
+  "funFact": "La gente local conocía la rana púrpura mucho antes que los científicos; en partes de Kerala sus renacuajos se recolectan y se comen.",
+  "animal": {
+   "diet": "Termitas y también hormigas",
+   "habitat": "Bosques húmedos y plantaciones cerca de arroyos estacionales",
+   "size": "Unos 5–9 cm; las hembras son más grandes",
+   "behaviour": "Sale durante unos días antes del monzón o al principio de este para reproducirse en arroyos de corriente rápida. El pequeño macho se aferra al dorso de la hembra, más grande.",
+   "fieldMarks": [
+    "Cuerpo hinchado de color gris purpúreo",
+    "Cabeza pequeña con un hocico puntiagudo como el de un cerdo",
+    "Extremidades cortas adaptadas para excavar",
+    "Ojos pequeños"
+   ],
+   "voice": "Un 'cloc' suave, como de gallina, emitido bajo tierra o en las orillas de los arroyos a principios del monzón",
+   "lookalikes": "Ninguna otra rana india se le parece. La rana púrpura de Bhupathy (N. bhupathi), descrita en 2017, es similar y vive en las laderas orientales del sur de los Ghats Occidentales; se reproduce más tarde, durante el monzón del noreste.",
+   "whereToSee": "Arroyos monzónicos del distrito de Idukki (Kerala) y de los Ghats Occidentales; rara vez se ve",
+   "season": "Sale durante unos días en mayo–junio para reproducirse",
+   "order": "Anura"
+  }
+ },
+ {
+  "scientific": "Salamandra salamandra",
+  "common": "Salamandra común",
+  "summary": "Una salamandra negra y amarilla de brillo lustroso propia de los bosques europeos, que sale sobre todo en noches lluviosas. Su piel segrega alcaloides tóxicos y sus colores advierten a los depredadores. Hoy la amenaza un hongo, Batrachochytrium salamandrivorans, que ha aniquilado poblaciones en los Países Bajos, Bélgica y Alemania.",
+  "nativeRange": "Europa central y meridional, desde la península ibérica hasta los Balcanes y los Cárpatos",
+  "biomes": [
+   "Bosque caducifolio",
+   "Arroyos de montaña",
+   "Bosques de colina"
+  ],
+  "abilities": [
+   "Segrega samandarina, un alcaloide neurotóxico, por glándulas de la piel",
+   "Puede lanzar a chorro secreciones tóxicas desde glándulas situadas a lo largo de la columna",
+   "Las hembras paren larvas vivas en arroyos frescos; algunas poblaciones paren crías completamente formadas",
+   "Puede vivir decenas de años"
+  ],
+  "lore": "Plinio el Viejo escribió que la salamandra era tan fría que podía apagar el fuego, y los bestiarios medievales y Paracelso la convirtieron en el espíritu elemental del fuego. La creencia surgió probablemente de salamandras que salían reptando de troncos echados al fuego.",
+  "funFact": "Francisco I de Francia eligió como emblema una salamandra entre llamas, con el lema 'Nutrisco et extinguo' ('Alimento y extingo'); aparece tallada por todo el castillo de Chambord.",
+  "animal": {
+   "diet": "Lombrices, babosas, insectos y arañas",
+   "habitat": "Bosques caducifolios húmedos cerca de arroyos limpios, en terreno de colinas o de montaña",
+   "lifespan": "Unos 20 años en libertad; más de 50 en cautividad",
+   "size": "Unos 15–25 cm",
+   "behaviour": "Activa de noche, sobre todo después de la lluvia. Su toxina es nociva si se ingiere y produce escozor en los ojos y la boca, así que lávese las manos después de tocar una.",
+   "fieldMarks": [
+    "Negro brillante con llamativas manchas o franjas amarillas (o naranjas o rojas)",
+    "Grandes glándulas parótidas detrás de los ojos",
+    "Hileras de glándulas a lo largo del dorso",
+    "Cuerpo robusto y cola corta"
+   ],
+   "lookalikes": "La salamandra alpina (S. atra) es completamente negra y vive en zonas altas de los Alpes. Las salamandras de Córcega y de Oriente Próximo son especies distintas con sus propias áreas de distribución. Las salamandras moteadas norteamericanas (Ambystoma maculatum) son oscuras con manchas amarillas, pero viven en otro continente.",
+   "whereToSee": "Hayedos de Alemania, Suiza, Francia, el norte de España y los Balcanes; noches húmedas de primavera y otoño",
+   "season": "Activa de primavera a otoño en noches lluviosas; las larvas nacen en primavera",
+   "order": "Caudata"
+  }
+ },
+ {
+  "scientific": "Andrias davidianus",
+  "common": "Salamandra gigante china",
+  "summary": "Uno de los mayores anfibios vivos, con registros de hasta 1,8 m. Esta salamandra parda y arrugada vive en fríos arroyos de montaña de China. Está En peligro crítico, sobre todo por la caza y la cría para carne, y se han liberado en ríos silvestres animales de granja de origen mezclado.",
+  "nativeRange": "Arroyos de montaña del centro y el sur de China; los estudios genéticos indican que el antiguo 'davidianus' engloba varias especies (A. sligoi, A. jiangxiensis y otras), y A. davidianus en sentido estricto queda restringida a una parte de esta área",
+  "biomes": [
+   "Arroyos de montaña",
+   "Ríos"
+  ],
+  "abilities": [
+   "Respira sobre todo a través de su piel arrugada",
+   "Detecta a sus presas con nódulos sensoriales a lo largo de la cabeza y el cuerpo, que perciben el movimiento del agua",
+   "Puede vivir decenas de años; más de 50 en cautividad",
+   "Los machos custodian los huevos en guaridas subacuáticas"
+  ],
+  "lore": "Su nombre chino, 'pez bebé', alude a su grito, que según se dice suena como el de un bebé humano. Se describió en 1871 a partir de ejemplares enviados por el misionero y naturalista francés Armand David.",
+  "funFact": "En China se crían millones en granjas para carne, pero los censos realizados en toda su área de distribución encontraron muy pocos ejemplares silvestres.",
+  "animal": {
+   "diet": "Peces, ranas, cangrejos, camarones, lombrices e insectos",
+   "habitat": "Arroyos y ríos de montaña claros, fríos y rocosos",
+   "lifespan": "Decenas de años; se han registrado más de 50 años en cautividad",
+   "size": "Normalmente alrededor de 1 m; históricamente hasta unos 1,8 m",
+   "behaviour": "De día se esconde en grietas y guaridas, y de noche embosca a sus presas con un rápido bocado por succión.",
+   "fieldMarks": [
+    "Salamandra enorme, aplanada y parda, de piel arrugada",
+    "Cabeza ancha y plana con ojos diminutos",
+    "Pliegue de piel a lo largo de los costados del cuerpo",
+    "Extremidades cortas"
+   ],
+   "lookalikes": "La salamandra gigante japonesa (A. japonicus) es muy parecida y vive solo en Japón; la mejor forma de distinguirlas es por el lugar donde se encuentran. El hellbender norteamericano (Cryptobranchus) es mucho más pequeño.",
+   "whereToSee": "Rara vez se ve en libertad; reservas naturales de Zhangjiajie (Hunan) y los montes Qinling (Shaanxi); también en zoológicos",
+   "season": "Residente; se reproduce a finales del verano",
+   "order": "Caudata"
+  }
+ },
+ {
+  "scientific": "Proteus anguinus",
+  "common": "Proteo (olm)",
+  "summary": "Una salamandra ciega de color rosa pálido que pasa toda su vida en las oscuras aguas subterráneas del Karst Dinárico. Conserva de por vida sus branquias larvarias plumosas, puede vivir más de un siglo y pasar años sin comer. Un estudio de 2026 dividió el proteo en nueve especies, e iNaturalist restringe ahora Proteus anguinus a uno de esos linajes; esta ficha trata el grupo del proteo en su conjunto.",
+  "nativeRange": "Aguas subterráneas del Karst Dinárico, desde el noreste de Italia y Eslovenia, a través de Croacia, hasta Bosnia y Herzegovina (el grupo del proteo en su conjunto)",
+  "biomes": [
+   "Cuevas",
+   "Ríos subterráneos"
+  ],
+  "abilities": [
+   "Puede vivir 100 años o más",
+   "Sobrevive años sin alimento",
+   "Percibe la luz a través de la piel y detecta campos eléctricos y magnéticos",
+   "Conserva las branquias externas en la edad adulta (neotenia)"
+  ],
+  "lore": "En 1689 Johann Weikhard von Valvasor escribió en 'The Glory of the Duchy of Carniola' (La gloria del ducado de Carniola) que los lugareños creían que los proteos arrastrados fuera de las cuevas por las crecidas eran crías de dragones que vivían bajo tierra.",
+  "funFact": "En 2016 una hembra de proteo de la cueva de Postojna puso huevos que eclosionaron al cuidado de los biólogos de la cueva, un registro de reproducción muy raro en esta especie.",
+  "animal": {
+   "diet": "Pequeños crustáceos, caracoles y larvas de insectos",
+   "habitat": "Arroyos y lagos subterráneos fríos y limpios en cuevas de caliza",
+   "lifespan": "Se estima en más de 100 años",
+   "size": "Unos 20–30 cm",
+   "behaviour": "Extremadamente inactivo: un proteo de una cueva bosnia fue registrado en el mismo lugar durante más de siete años.",
+   "fieldMarks": [
+    "Cuerpo largo, parecido al de una anguila, de color blanco rosado pálido",
+    "Branquias externas plumosas de un rojo vivo",
+    "Ojos diminutos cubiertos de piel",
+    "Tres dedos en las patas delanteras y dos en las traseras"
+   ],
+   "lookalikes": "El proteo negro (P. parkelj) de Bela Krajina, en Eslovenia, tiene la piel oscura y ojos. Ningún otro anfibio europeo vive permanentemente en cuevas.",
+   "whereToSee": "Cueva de Postojna (Eslovenia), que cuenta con un acuario de observación; laboratorio de la cueva de Tular en Kranj",
+   "season": "Residente",
+   "order": "Caudata"
+  }
+ },
+ {
+  "scientific": "Eleutherodactylus coqui",
+  "common": "Coquí común",
+  "summary": "Una ranita cuyo canto de dos notas, 'co-QUÍ', llena las noches de Puerto Rico y se ha convertido en símbolo nacional. Sus huevos eclosionan directamente en ranitas, sin fase de renacuajo. En Hawái, donde fue introducida, es una plaga invasora cuyos ruidosos coros provocan quejas.",
+  "nativeRange": "Puerto Rico; introducida en Hawái, las Islas Vírgenes de EE. UU., Florida y otros lugares",
+  "biomes": [
+   "Selva tropical",
+   "Bosque de montaña",
+   "Jardines",
+   "Ciudades"
+  ],
+  "abilities": [
+   "Sus huevos eclosionan directamente en diminutas ranitas, sin renacuajo ni necesidad de agua estancada",
+   "Los machos custodian los huevos y los mantienen húmedos",
+   "Su canto puede alcanzar unos 90 decibelios a medio metro",
+   "Trepa con los discos de los dedos, que no tienen membrana interdigital"
+  ],
+  "lore": "En Puerto Rico se dice 'Soy de aquí como el coquí', y la rana aparece en petroglifos taínos.",
+  "funFact": "Los coquíes de mayor altitud en Puerto Rico son más grandes y tienen cantos más graves que los de las tierras bajas.",
+  "animal": {
+   "diet": "Insectos, arañas y caracoles",
+   "habitat": "Bosques, jardines y ciudades, desde el nivel del mar hasta las montañas",
+   "size": "Unos 3–5 cm",
+   "behaviour": "Al anochecer, los machos cantan desde hojas y troncos para atraer a las hembras y defender su territorio.",
+   "fieldMarks": [
+    "Ranita parda o gris, a menudo con una franja clara o una marca en forma de W",
+    "Grandes discos en los dedos, sin membrana",
+    "Ojos grandes",
+    "Fuerte canto de dos notas"
+   ],
+   "voice": "Un fuerte 'co-QUÍ' de dos notas, la primera más grave, repetido durante toda la noche",
+   "lookalikes": "Puerto Rico tiene unas 16 especies más de Eleutherodactylus, muchas de ellas pequeñas y pardas, así que el canto de dos notas del coquí común es la mejor forma de identificarlo.",
+   "whereToSee": "Bosque Nacional El Yunque y casi cualquier lugar de Puerto Rico de noche; isla Grande de Hawái",
+   "season": "Canta todo el año, con más fuerza en la estación lluviosa",
+   "order": "Anura"
+  }
+ },
+ {
+  "scientific": "Hoplobatrachus tigerinus",
+  "common": "Rana toro india (rana tigre)",
+  "summary": "La mayor rana del sur de Asia. Con las primeras lluvias del monzón, los machos se vuelven de un amarillo intenso e hinchan sacos vocales azules, cantando en ruidosos coros. Se exportó en cantidades enormes para el consumo de ancas de rana hasta que la India prohibió el comercio en 1987.",
+  "nativeRange": "Desde Afganistán y Pakistán, a través de la India, Nepal y Bangladés, hasta Myanmar; introducida en las islas Andamán y en Madagascar",
+  "biomes": [
+   "Humedales",
+   "Arrozales",
+   "Charcas",
+   "Zanjas"
+  ],
+  "abilities": [
+   "En la época de cría, los machos se vuelven de un amarillo intenso y muestran sacos vocales azules",
+   "Puede saltar grandes distancias y correr saltando sobre la superficie del agua",
+   "Come casi cualquier cosa que le quepa en la boca, incluidas otras ranas, serpientes y pequeñas aves"
+  ],
+  "edibleParts": [
+   "patas traseras (ancas)"
+  ],
+  "edibilityNote": "Se come localmente; la exportación comercial de ancas de rana está prohibida en la India, y allí es ilegal capturar ranas silvestres. Cocínense bien.",
+  "lore": "El himno de las ranas del Rigveda (Maṇḍūka Sūkta, 7.103) compara el croar de las ranas al inicio del monzón con el canto de los sacerdotes; el coro monzónico de ranas toro del sur de Asia es el sonido que describe.",
+  "funFact": "Antes de que la India prohibiera las exportaciones en 1987, se exportaban decenas de millones de ranas al año, y algunos estudios relacionaron su desaparición con el aumento de plagas agrícolas y mosquitos.",
+  "animal": {
+   "diet": "Insectos, cangrejos, peces, ranas, serpientes, pequeñas aves y roedores",
+   "habitat": "Charcas, marismas, arrozales y zanjas",
+   "size": "Hasta unos 17 cm",
+   "behaviour": "Tras las primeras lluvias del monzón sale en gran número para reproducirse; los machos cantan desde aguas someras.",
+   "fieldMarks": [
+    "Rana grande, de verde oliva a parda, con manchas oscuras",
+    "Fina línea amarilla por el centro del dorso",
+    "Machos en celo de color amarillo intenso con sacos vocales azules",
+    "Hocico puntiagudo y dedos de los pies muy palmeados"
+   ],
+   "voice": "Un croar fuerte y ronco, emitido en coros ensordecedores tras las lluvias del monzón",
+   "lookalikes": "La rana toro de Jerdon (H. crassus) tiene las patas traseras más cortas y el hocico más corto. Las ranas saltarinas (Euphlyctis) son más pequeñas y más acuáticas.",
+   "whereToSee": "Arrozales y charcas de toda la llanura india; Keoladeo (Bharatpur) y los Sundarbans; mejor al comienzo del monzón",
+   "season": "Se reproduce con las primeras lluvias del monzón (junio–julio)",
+   "order": "Anura"
+  }
+ }
+]

@@ -1,0 +1,2041 @@
+[
+ {
+  "scientific": "Erithacus rubecula",
+  "common": "Petirrojo europeo",
+  "summary": "Un pequeño túrdido redondeado de pecho anaranjado. Ambos sexos cantan y defienden territorios durante el invierno, por lo que es una de las pocas aves europeas que se oyen cantar en diciembre. En Gran Bretaña es célebre por su mansedumbre con los jardineros, pero en el continente es un ave forestal tímida.",
+  "nativeRange": "Europa hasta Siberia occidental, norte de África, Turquía, el Cáucaso y el norte de Irán; las aves del norte invernan en torno al Mediterráneo y Oriente Próximo",
+  "biomes": [
+   "Bosque templado",
+   "Bosque abierto",
+   "Jardines y parques"
+  ],
+  "abilities": [
+   "Machos y hembras mantienen territorios invernales separados y cantan para defenderlos",
+   "Canta de noche bajo el alumbrado público en las ciudades",
+   "Sigue a grandes animales, y a los jardineros, para atrapar los invertebrados que quedan al descubierto al remover la tierra",
+   "Los migrantes se orientan en parte con una brújula magnética dependiente de la luz situada en el ojo, un sistema de estudio clave de la magnetorrecepción en aves"
+  ],
+  "animal": {
+   "diet": "Insectos, lombrices y arañas; bayas y semillas en invierno",
+   "habitat": "Bosques con sotobosque, setos, parques y jardines",
+   "lifespan": "Normalmente 1–2 años en libertad; unos pocos superan los 10",
+   "size": "12,5–14 cm; 16–22 g",
+   "behaviour": "Territorial hasta la violencia: los petirrojos atacan a sus rivales e incluso a un simple mechón de plumas rojas colocado en su territorio, como demostró David Lack en sus experimentos de la década de 1940.",
+   "fieldMarks": [
+    "Cara y pecho rojo anaranjado bordeados de gris azulado",
+    "Partes superiores de color pardo oliváceo uniforme y vientre blanquecino",
+    "Porte rechoncho y erguido sobre patas finas; ojo grande y oscuro",
+    "Los juveniles son pardos moteados, sin pecho rojo"
+   ],
+   "voice": "Canto: un gorjeo melancólico y líquido de frases cortas separadas por pausas, más fino y triste en otoño; reclamo: un «tic» duro y repetido y un fino «tsiih».",
+   "lookalikes": "Los machos de colirrojo real también tienen las partes inferiores anaranjadas, pero muestran la cara negra y una cola anaranjada que tiembla sin cesar. Los petirrojos juveniles se parecen a los colirrojos y ruiseñores jóvenes, pero carecen de cola rojiza.",
+   "whereToSee": "Casi cualquier jardín arbolado, parque o seto de Europa; abundantes invernantes en los olivares mediterráneos y en los matorrales del Levante mediterráneo.",
+   "season": "Residente en Europa occidental; estival en el norte y el este (abr–sep); invernante en el norte de África y Oriente Próximo (oct–mar)",
+   "order": "Passeriformes"
+  },
+  "lore": "Una leyenda medieval sostiene que el pecho del petirrojo se chamuscó o se tiñó de sangre mientras ayudaba a Cristo en la cruz; además, los carteros victorianos, con sus casacas rojas, recibían el apodo de «robins» (petirrojos), y por eso el ave aparece en tantas felicitaciones navideñas británicas.",
+  "funFact": "En 2015, una votación popular organizada por el ornitólogo David Lindo eligió al petirrojo como ave nacional de Gran Bretaña."
+ },
+ {
+  "scientific": "Luscinia megarhynchos",
+  "common": "Ruiseñor común",
+  "summary": "Un pájaro pardo y discreto, siempre oculto, dueño de una de las voces más célebres del planeta. Los machos cantan de día y, mientras no encuentran pareja, también de noche, desde lo más profundo de la espesura. Inverna en el África subsahariana.",
+  "nativeRange": "Cría en el sur y centro de Europa, el norte de África, Turquía y Oriente Próximo hasta Asia central (Kazajistán, Afganistán); inverna en el África tropical",
+  "biomes": [
+   "Bosque abierto",
+   "Matorral",
+   "Sotos ribereños"
+  ],
+  "abilities": [
+   "Los machos dominan repertorios de unos 180–260 tipos de canto distintos",
+   "Los machos sin pareja cantan toda la noche para atraer a las hembras en migración; el canto nocturno cesa en gran medida una vez emparejados",
+   "Eleva el volumen de su canto en lugares ruidosos (efecto Lombard), como se demostró en Berlín",
+   "Migra de noche entre Europa y África, cruzando el Sáhara"
+  ],
+  "animal": {
+   "diet": "Invertebrados del suelo, sobre todo escarabajos y hormigas; bayas a finales del verano",
+   "habitat": "Espesuras caducifolias densas, monte bajo, matorral de ribera y lindes de bosque",
+   "lifespan": "Normalmente 1–3 años",
+   "size": "15–16,5 cm; 17–30 g",
+   "behaviour": "Se alimenta en el suelo, en sombra densa, avanzando a saltos y deteniéndose con la cola rojiza levantada; se oye mucho más de lo que se ve.",
+   "fieldMarks": [
+    "Partes superiores de un pardo cálido uniforme, con la cola de un rojizo más vivo",
+    "Partes inferiores gris ante pálido, sin listas",
+    "Ojo grande y oscuro con un fino anillo ocular claro",
+    "Patas bastante largas y porte parecido al del petirrojo"
+   ],
+   "voice": "Rico, potente y variado: notas graves «chuc-chuc», silbidos líquidos, carracas ásperas y un famoso crescendo lento de notas puras «piu piu piu»; reclamo: un suave «juit» y un «karrr» ronco.",
+   "lookalikes": "El ruiseñor ruso (Europa oriental) es más oscuro, de un pardo más grisáceo, con un leve moteado en el pecho y la cola menos rojiza, y su canto incluye frases de chasquidos secos. La curruca mosquitera es más pequeña, de pico corto y sin cola rojiza.",
+   "whereToSee": "Valles fluviales y matorrales mediterráneos de España, Portugal, el sur de Francia e Italia; monte bajo de Kent y Sussex en Inglaterra; Turquía y el Levante mediterráneo en primavera.",
+   "season": "Estival, abr–ago; más activo vocalmente de finales de abril a principios de junio",
+   "order": "Passeriformes"
+  },
+  "lore": "El amor del ruiseñor (bulbul) por la rosa (gol o bolbol) es una imagen central de la poesía persa desde Hafez y Rumi, y en el mito griego el ruiseñor es Filomela o Procne transformada; Keats escribió su «Oda a un ruiseñor» en Hampstead en 1819.",
+  "funFact": "En 1924 la violonchelista Beatrice Harrison tocó en su jardín de Surrey mientras los ruiseñores silvestres la acompañaban con su canto, una actuación que la BBC retransmitió en directo como una de sus primeras emisiones desde exteriores."
+ },
+ {
+  "scientific": "Turdus merula",
+  "common": "Mirlo común",
+  "summary": "Un túrdido cuyos machos son de un negro azabache con el pico y el anillo ocular amarillo anaranjado. Su canto pausado y aflautado es uno de los sonidos característicos de las ciudades europeas al atardecer. Pasó del bosque a las ciudades en el siglo XIX y más tarde fue introducido en Australia y Nueva Zelanda.",
+  "nativeRange": "Europa, norte de África, Turquía, el Cáucaso, Irán y Asia central; introducido en Australia y Nueva Zelanda",
+  "biomes": [
+   "Bosque templado",
+   "Bosque abierto",
+   "Jardines y parques"
+  ],
+  "abilities": [
+   "Las poblaciones urbanas cantan en un tono más agudo, empiezan antes por la mañana y son más sedentarias que las forestales",
+   "Localiza las lombrices con la vista, ladeando la cabeza antes de clavar el pico en el césped",
+   "Dispersa semillas de majuelo, hiedra, tejo y otras plantas de bayas",
+   "Emite reclamos de alarma distintos para los depredadores terrestres y para las rapaces"
+  ],
+  "animal": {
+   "diet": "Lombrices, insectos y caracoles; frutos y bayas en otoño e invierno",
+   "habitat": "Bosques, setos, parques, jardines y ciudades",
+   "lifespan": "Normalmente 2–4 años",
+   "size": "23,5–29 cm; 80–125 g",
+   "behaviour": "Remueve la hojarasca apartándola a golpes de pico y, al anochecer, emite sonoros «chinc» mientras se dirige al dormidero.",
+   "fieldMarks": [
+    "Macho adulto totalmente negro, con pico y anillo ocular amarillo anaranjado vivo",
+    "Hembra pardo oscura, con la garganta y el pecho levemente moteados",
+    "Cola larga, que a menudo levanta al posarse",
+    "Los machos del primer año tienen el pico oscuro y las alas parduscas"
+   ],
+   "voice": "Canto: un gorjeo lento, suave y aflautado en frases relajadas que a menudo terminan en chirridos agudos; alarma: un frenético «chinc-chinc-chinc» a modo de carraca y un fino «tsii» ante depredadores aéreos.",
+   "lookalikes": "Los machos de mirlo capiblanco tienen una media luna blanca en el pecho y paneles alares claros. El estornino pinto es más pequeño, de cola corta, brillante y moteado, y camina en lugar de saltar. Las hembras pueden recordar al zorzal común, pero son mucho más oscuras y sin motas marcadas.",
+   "whereToSee": "Cualquier parque, jardín o bosque europeo; común en las ciudades de Marruecos y Turquía y en los huertos frutales de Asia central.",
+   "season": "Residente en la mayor parte de Europa; las aves del norte y el este se desplazan hacia el sur y el oeste en invierno",
+   "order": "Passeriformes"
+  },
+  "lore": "La cuarteta irlandesa «El mirlo del lago de Belfast», compuesta probablemente en el siglo IX y conservada en tratados métricos posteriores, es uno de los poemas de naturaleza más queridos de la temprana literatura irlandesa; los «four and twenty blackbirds baked in a pie» (veinticuatro mirlos cocidos en un pastel) de la canción infantil evocan auténticos trucos de los banquetes renacentistas.",
+  "funFact": "Los mirlos introducidos en Australia en las décadas de 1850 y 1860 se convirtieron en una plaga agrícola y contribuyen a propagar la zarzamora invasora al comer sus frutos."
+ },
+ {
+  "scientific": "Turdus philomelos",
+  "common": "Zorzal común",
+  "summary": "Un túrdido pardo con pulcras motas en forma de punta de flecha, famoso por repetir cada frase de su canto de dos a cuatro veces. Rompe las conchas de los caracoles contra una piedra favorita, y deja alrededor de estos «yunques» un reguero de conchas rotas.",
+  "nativeRange": "Europa hasta Siberia central, Turquía, el Cáucaso y el norte de Irán; inverna en torno al Mediterráneo, el norte de África y Oriente Próximo; introducido en Nueva Zelanda y Australia",
+  "biomes": [
+   "Bosque templado",
+   "Bosque abierto",
+   "Jardines y parques"
+  ],
+  "abilities": [
+   "Rompe conchas de caracol contra yunques de piedra, un comportamiento casi instrumental poco habitual en un pájaro cantor",
+   "Repite deliberadamente las frases de su canto y llega a reunir repertorios de más de 100 frases",
+   "A veces imita a otras aves y sonidos de origen humano dentro de su canto",
+   "Las aves del norte y el este migran de noche hacia cuarteles de invernada tan lejanos como Arabia y el norte de África"
+  ],
+  "animal": {
+   "diet": "Lombrices, caracoles e insectos; bayas y fruta caída",
+   "habitat": "Bosques con sotobosque, setos, parques y jardines; en invierno, olivares y matorrales",
+   "lifespan": "Normalmente 2–3 años",
+   "size": "20–23,5 cm; 50–107 g",
+   "behaviour": "Sujeta el caracol por el borde de la concha y lo golpea contra una piedra hasta romperla.",
+   "fieldMarks": [
+    "Partes superiores de un pardo cálido sin marcas",
+    "Pecho teñido de ante con pulcras motas oscuras en forma de punta de flecha",
+    "Cara inferior del ala ante anaranjada, visible en vuelo",
+    "Más pequeño y de cola más corta que el zorzal charlo"
+   ],
+   "voice": "Canto potente, claro e imaginativo, en el que cada frase se repite 2–4 veces («chéri-diú, chéri-diú, chéri-diú»); reclamo: un «tsip» breve y fino.",
+   "lookalikes": "El zorzal charlo es mayor y más gris, con motas redondas, esquinas blancas en la cola y cara inferior del ala blanca, y emite una carraca seca. El zorzal alirrojo tiene una ceja crema muy marcada y los flancos rojos.",
+   "whereToSee": "Jardines y bosques de toda Europa; inverna en gran número en los olivares de España y Marruecos.",
+   "season": "Residente en Europa occidental; estival en el norte y el este; invernante en el Mediterráneo y Oriente Próximo de oct a mar",
+   "order": "Passeriformes"
+  },
+  "lore": "Robert Browning escribió en «Home-Thoughts, from Abroad» (1845): «That's the wise thrush; he sings each song twice over» (es el sabio zorzal; canta cada canción dos veces), y «The Darkling Thrush» (1900), de Thomas Hardy, hace de un zorzal invernal un símbolo de esperanza.",
+  "funFact": "En algunas zonas del Mediterráneo aún se captura y se come ilegalmente a los zorzales; el ave era un manjar muy apreciado en la antigua Roma, donde Varrón describió pajareras en las que se cebaba a miles de ellos."
+ },
+ {
+  "scientific": "Alauda arvensis",
+  "common": "Alondra común",
+  "summary": "Un pájaro pardo y listado de los campos abiertos que se eleva casi en vertical y se mantiene suspendido en el cielo durante minutos mientras derrama un torrente ininterrumpido de canto. Ha disminuido mucho en las zonas de Europa con agricultura intensiva.",
+  "nativeRange": "Europa, norte de África, Turquía y Oriente Próximo, a través de Asia central y Siberia hasta el Pacífico; introducida en Nueva Zelanda, Australia y la isla de Vancouver",
+  "biomes": [
+   "Pastizal templado",
+   "Tierras de cultivo",
+   "Estepa",
+   "Páramo"
+  ],
+  "abilities": [
+   "Canta sin interrupción en vuelo cernido, a veces durante más de 10 minutos, a alturas que dificultan verla",
+   "Anida en el suelo descubierto y necesita vegetación baja y rala",
+   "Su canto contiene cientos de sílabas y varía entre vecindarios locales",
+   "Las poblaciones del norte migran en otoño en grandes bandos diurnos"
+  ],
+  "animal": {
+   "diet": "Semillas y hojas en invierno; insectos y arañas en la época de cría",
+   "habitat": "Cultivos herbáceos, pastizales, estepas, dunas y páramos",
+   "lifespan": "Normalmente 2–5 años",
+   "size": "18–19 cm; 33–45 g",
+   "behaviour": "Asciende con un aleteo rápido mientras canta, se mantiene muy alto en el cielo y luego desciende en paracaídas por etapas antes de dejarse caer en silencio al suelo.",
+   "fieldMarks": [
+    "Partes superiores pardas listadas y una banda pectoral listada",
+    "Cresta corta que puede erizar",
+    "Plumas externas de la cola blancas y un estrecho borde posterior blanco en el ala",
+    "Pico robusto y uña posterior larga"
+   ],
+   "voice": "Canto: un gorjeo largo, agudo, rápido e ininterrumpido emitido en vuelo; reclamo: un «chirrup» líquido y rodado.",
+   "lookalikes": "La totovía tiene la cola más corta, una ceja clara muy marcada que se une en la nuca y carece de borde alar posterior blanco; canta un «lu-lu-lu» lento y descendente. La cogujada común tiene una cresta larga y puntiaguda y no muestra blanco en los lados de la cola. El bisbita pratense es más esbelto y de pico más fino.",
+   "whereToSee": "Cultivos, praderas calcáreas y pastizales costeros de toda Europa; estepas de Kazajistán; campos invernales del norte de África y Oriente Próximo.",
+   "season": "Residente en Europa occidental; estival en el norte y el este; canto de feb a jul",
+   "order": "Passeriformes"
+  },
+  "lore": "«To a Skylark» (1820), de Shelley, y el poema de George Meredith que inspiró «The Lark Ascending» (1914), de Vaughan Williams, la convirtieron en la voz de la campiña inglesa; «Chakavak» es además el nombre de una sección melódica (gusheh) del modo Homayun de la música clásica persa.",
+  "funFact": "La Julieta de Shakespeare discute con Romeo si lo que oyen es el ruiseñor o la alondra, el ave que anuncia el alba y la partida de él."
+ },
+ {
+  "scientific": "Parus major",
+  "common": "Carbonero común",
+  "summary": "El mayor de los páridos europeos, verde y amarillo, con la cabeza negra brillante y una franja negra que le recorre el vientre. Es una de las aves silvestres más estudiadas del mundo gracias a proyectos de cajas nido de larga duración, como el de Wytham Woods, cerca de Oxford, en marcha desde 1947.",
+  "nativeRange": "Europa, norte de África, Oriente Próximo y Asia central hasta el Amur; las poblaciones de Asia oriental se consideran hoy especies distintas",
+  "biomes": [
+   "Bosque templado",
+   "Bosque abierto",
+   "Jardines y parques"
+  ],
+  "abilities": [
+   "Ajusta la puesta al pico primaveral de orugas de la polilla invernal, un estudio clásico sobre el cambio climático",
+   "Aprende socialmente nuevas técnicas de alimentación; en experimentos, las tradiciones se propagan por las poblaciones",
+   "En una cueva de Hungría se registró a carboneros cazando y comiendo murciélagos enanos en hibernación",
+   "Tiene decenas de variantes de canto y un amplio vocabulario de reclamos"
+  ],
+  "animal": {
+   "diet": "Orugas y otros insectos; semillas y frutos secos en invierno, sobre todo hayucos",
+   "habitat": "Bosques caducifolios y mixtos, parques, jardines y huertos frutales",
+   "lifespan": "Normalmente 1–3 años",
+   "size": "12,5–14 cm; 16–21 g",
+   "behaviour": "Visitante atrevido de los comederos; en invierno forma bandos mixtos con otros páridos y anida con facilidad en cajas nido.",
+   "fieldMarks": [
+    "Cabeza negra brillante con mejillas de un blanco puro",
+    "Partes inferiores amarillas divididas por una franja central negra, más ancha en los machos",
+    "Dorso verdoso, alas gris azuladas con una franja alar blanca",
+    "Mayor que el herrerillo común"
+   ],
+   "voice": "Muy variada; el canto clásico es un sonoro bisílabo «chi-cha» o «ti-cha» repetido; también un «cherr» de regaño y un «pinc» metálico.",
+   "lookalikes": "El carbonero garrapinos es mucho más pequeño, con una mancha blanca en la nuca y sin amarillo. El herrerillo común tiene el píleo azul y carece de franja pectoral negra. El carbonero lúgubre (Balcanes, Turquía) tiene un capirote pardo oscuro y no muestra amarillo.",
+   "whereToSee": "Jardines, parques y bosques de toda Europa y Asia occidental; Wytham Woods, en Oxford, es su hogar científico.",
+   "season": "Residente todo el año; canta desde finales del invierno",
+   "order": "Passeriformes"
+  },
+  "lore": "En el folclore rural inglés su canto de dos notas se llamaba «el afilador de sierras», y la población de Wytham Woods, estudiada desde 1947 por el Instituto Edward Grey, ha moldeado las ideas modernas sobre la selección natural en libertad.",
+  "funFact": "En los Países Bajos y Gran Bretaña los carboneros ponen cada vez antes a medida que las primaveras se han vuelto más cálidas, una de las respuestas biológicas al cambio climático mejor documentadas."
+ },
+ {
+  "scientific": "Cyanistes caeruleus",
+  "common": "Herrerillo común",
+  "summary": "Un diminuto párido acróbata con el píleo azul celeste, las partes inferiores amarillas y la cara blanca cruzada por una lista ocular oscura. Es un ave dominante en jardines y bosques de toda Europa y cría algunas de las nidadas más numerosas de cualquier pájaro cantor.",
+  "nativeRange": "Europa, Turquía, el Cáucaso, el norte de Irán y Oriente Próximo; el herrerillo africano del norte de África y Canarias se considera hoy una especie distinta",
+  "biomes": [
+   "Bosque templado",
+   "Bosque abierto",
+   "Jardines y parques"
+  ],
+  "abilities": [
+   "Pone nidadas de hasta unos 12 huevos o más, de las mayores entre los pájaros cantores europeos",
+   "Las plumas del píleo reflejan la luz ultravioleta; las hembras prefieren machos con el píleo más brillante en el ultravioleta",
+   "Se cuelga boca abajo para recoger pulgones y orugas de las puntas de las ramitas",
+   "En la Gran Bretaña del siglo XX aprendió a abrir los tapones de las botellas de leche, un caso clásico de difusión de innovaciones en animales"
+  ],
+  "animal": {
+   "diet": "Orugas, pulgones y arañas; semillas, frutos secos y néctar en invierno",
+   "habitat": "Bosques caducifolios, sobre todo robledales, parques, jardines y carrizales en invierno",
+   "lifespan": "Normalmente 1–3 años",
+   "size": "10,5–12 cm; 9–12 g",
+   "behaviour": "Cría una sola nidada grande sincronizada con el pico de orugas del roble, y los progenitores llevan cientos de orugas al día.",
+   "fieldMarks": [
+    "Píleo, alas y cola de un azul vivo",
+    "Mejillas blancas con una línea oscura a través del ojo y un collar oscuro",
+    "Partes inferiores amarillas con una pequeña mancha oscura en el vientre",
+    "Pequeño, de pico corto y muy activo"
+   ],
+   "voice": "Canto: un agudo «tsi-tsi-tsirrrr» que termina en trino; regaña con un rápido «cher-r-r-r».",
+   "lookalikes": "El carbonero común es mayor, con la cabeza negra y una franja pectoral negra. El herrerillo ciáneo (Rusia, Asia central) es más blanco por debajo y tiene el píleo blanco. El herrerillo africano del norte de África tiene un capirote azul oscuro y el dorso pizarra.",
+   "whereToSee": "Jardines y bosques de toda Europa, Turquía y el Cáucaso; común en los comederos en invierno.",
+   "season": "Residente todo el año",
+   "order": "Passeriformes"
+  },
+  "lore": "Los asaltos a las botellas de leche descritos por James Fisher y Robert Hinde en 1949 se convirtieron en un ejemplo de manual de transmisión cultural en animales; la costumbre desapareció a medida que dejó de repartirse la leche a domicilio.",
+  "funFact": "Los herrerillos ven en el ultravioleta, de modo que machos y hembras que a nosotros nos parecen idénticos son claramente distintos entre sí."
+ },
+ {
+  "scientific": "Carduelis carduelis",
+  "common": "Jilguero europeo",
+  "summary": "Un fringílido de diseño espectacular, con la cara roja, la cabeza blanca y negra y anchas franjas alares doradas, que suele verse en bandos tintineantes sobre los cardos. Su belleza y su canto lo convirtieron en uno de los pájaros de jaula más capturados del Mediterráneo y Oriente Próximo.",
+  "nativeRange": "Europa, norte de África, Oriente Próximo y Asia central hasta Siberia occidental y el Himalaya occidental; introducido en Australia, Nueva Zelanda y Sudamérica",
+  "biomes": [
+   "Bosque abierto",
+   "Tierras de cultivo",
+   "Terrenos alterados",
+   "Jardines y parques"
+  ],
+  "abilities": [
+   "Su pico fino y puntiagudo extrae semillas de cardos y cardenchas que otros fringílidos no alcanzan",
+   "El pico algo más largo de los machos les permite alimentarse con más facilidad en las cabezuelas de cardencha",
+   "Es lo bastante ligero para aferrarse a cabezuelas que se balancean",
+   "Algunas poblaciones migran al Mediterráneo para invernar"
+  ],
+  "animal": {
+   "diet": "Semillas de cardos, cardencha, diente de león, hierba cana y otras plantas; insectos para los pollos",
+   "habitat": "Campo abierto con árboles dispersos, huertos frutales, eriales y jardines",
+   "lifespan": "Normalmente 2–3 años",
+   "size": "12–13 cm; 14–19 g",
+   "behaviour": "Los bandos (en inglés «charm», encanto) se desplazan juntos de una mancha de hierbas a la siguiente, llamándose sin cesar.",
+   "fieldMarks": [
+    "Máscara facial roja rodeada de blanco y negro",
+    "Ancha banda amarilla en las alas negras",
+    "Dorso pardo ante, obispillo blanco, cola negra con motas blancas",
+    "Los juveniles carecen de cara roja pero muestran la franja alar dorada"
+   ],
+   "voice": "Canto: un gorjeo rápido, líquido y tintineante; reclamo en vuelo: un alegre «tiquelit».",
+   "lookalikes": "Ningún ave europea adulta tiene el mismo diseño facial. Los juveniles tienen la cabeza gris parda lisa pero la misma franja alar dorada, que los distingue de los verdecillos y lúganos jóvenes.",
+   "whereToSee": "Lindes de campos con hierbas, huertos frutales y jardines de toda Europa; abundante en invierno en los campos de cultivo mediterráneos y de Anatolia.",
+   "season": "Residente en gran parte de su área; migrante parcial desde el norte",
+   "order": "Passeriformes"
+  },
+  "lore": "Pintores renacentistas como Rafael («La Virgen del jilguero», h. 1505) lo colocaron en la mano del Niño Jesús como símbolo de la Pasión, porque se alimenta entre espinas, y Carel Fabritius pintó «El jilguero» en 1654, el año de su muerte.",
+  "funFact": "En el norte de África el hassoun es un cantor de competición muy apreciado, y la captura para el comercio de aves de jaula ha mermado allí las poblaciones silvestres."
+ },
+ {
+  "scientific": "Fringilla coelebs",
+  "common": "Pinzón vulgar",
+  "summary": "Una de las aves más abundantes de Europa: un fringílido de pecho rosado y capirote azul con llamativas franjas alares blancas. Su breve canto presenta dialectos regionales que aprenden los jóvenes, lo que lo convierte en una especie clásica para estudiar cómo aprenden a cantar las aves.",
+  "nativeRange": "Europa, Siberia occidental, Turquía, el Cáucaso, el norte de Irán y el oeste de Asia central; las aves del norte de África se consideran a menudo una especie distinta",
+  "biomes": [
+   "Bosque templado",
+   "Bosque abierto",
+   "Tierras de cultivo",
+   "Jardines y parques"
+  ],
+  "abilities": [
+   "Los machos jóvenes aprenden su canto en un periodo sensible y lo perfeccionan la primavera siguiente, como demostró W. H. Thorpe en la década de 1950",
+   "Su canto muestra dialectos locales que difieren entre valles y bosques",
+   "Hembras y jóvenes migran más al sur que los machos adultos, por lo que los bandos invernales del norte son sobre todo de machos",
+   "En otoño pasan enormes migraciones visibles por los cabos costeros"
+  ],
+  "animal": {
+   "diet": "Semillas del suelo en invierno; orugas y otros insectos en verano",
+   "habitat": "Todo tipo de bosques, setos, parques, jardines y tierras de cultivo",
+   "lifespan": "Normalmente 2–3 años",
+   "size": "14,5–16 cm; 18–29 g",
+   "behaviour": "Se alimenta en el suelo caminando a pasitos, a menudo en bandos invernales mixtos con pinzones reales.",
+   "fieldMarks": [
+    "Macho: píleo y nuca gris azulados, cara y pecho anaranjado rosados, dorso castaño",
+    "Dos llamativas franjas alares blancas y plumas externas de la cola blancas en ambos sexos",
+    "Hembra pardo olivácea con el mismo diseño alar",
+    "Obispillo verdoso"
+   ],
+   "voice": "Canto: una carrerilla descendente que se acelera y termina en una floritura, «chip-chip-chip-tel-tel-cheri-eri-tisi-chuíu»; reclamos: un «pinc» seco y un «juit» ascendente, el reclamo «de lluvia».",
+   "lookalikes": "El pinzón real tiene el pecho y el hombro anaranjados y el obispillo blanco. La hembra de gorrión común carece de las llamativas franjas alares blancas. Los machos de camachuelo carminoso son rojos, no rosados y azules.",
+   "whereToSee": "Cualquier bosque, parque o campo de cultivo europeo; Falsterbo (Suecia) y el istmo de Curlandia registran enormes pasos otoñales.",
+   "season": "Residente en el oeste; estival en el norte y el este; invernante en el Mediterráneo y Oriente Próximo",
+   "order": "Passeriformes"
+  },
+  "lore": "Linneo lo llamó «coelebs», que significa soltero, porque en Suecia solo los machos se quedan durante el invierno. Los concursos belgas de «vinkenzetting», en los que se puntúa a machos enjaulados según cuántos cantos emiten en una hora, se remontan a hace siglos.",
+  "funFact": "Los pinzones criados a mano que nunca oyen cantar a un adulto desarrollan solo un canto simple y anómalo, lo que demostró que el canto de las aves es en parte aprendido."
+ },
+ {
+  "scientific": "Troglodytes troglodytes",
+  "common": "Chochín paleártico",
+  "summary": "Un pájaro diminuto y redondo, de cola levantada, casi un ratón con plumas, con una voz desproporcionada para su tamaño. Es una de las aves más extendidas de Europa, desde los jardines urbanos hasta los acantilados marinos más remotos.",
+  "nativeRange": "Europa, norte de África, Turquía, Oriente Próximo, Asia central y el Himalaya hasta Asia oriental; los chochines norteamericanos se consideran hoy especies distintas",
+  "biomes": [
+   "Bosque templado",
+   "Bosque abierto",
+   "Jardines y parques",
+   "Acantilados costeros"
+  ],
+  "abilities": [
+   "Su canto es muy potente para un ave que pesa unos 10 g",
+   "Los machos construyen varios nidos abovedados de musgo y hojas, y la hembra elige uno para tapizarlo",
+   "En inviernos duros, decenas de ellos pueden apiñarse en una sola caja nido o cavidad para darse calor",
+   "En St Kilda, Fair Isle y las Shetland han evolucionado subespecies insulares aisladas"
+  ],
+  "animal": {
+   "diet": "Arañas e insectos pequeños que recoge de la vegetación baja",
+   "habitat": "Sotobosque denso, setos, jardines, carrizales, costas rocosas y páramos",
+   "lifespan": "Normalmente unos 2 años",
+   "size": "9–10,5 cm; 7–12 g",
+   "behaviour": "Se escabulle como un ratón entre el sotobosque y los montones de leña, y de pronto sale a cantar desde un posadero bajo con la cola levantada.",
+   "fieldMarks": [
+    "Cuerpo diminuto y redondo, pardo cálido con fino barrado oscuro",
+    "Cola corta que mantiene levantada",
+    "Ceja clara y pico fino, ligeramente curvado",
+    "Vuelo directo y zumbante, a baja altura, para cruzar claros"
+   ],
+   "voice": "Canto: un estallido rápido y explosivo de notas claras y trinos que dura unos cinco segundos; reclamos: un duro «tec-tec» y un carraspeo seco a modo de carraca.",
+   "lookalikes": "El acentor común es mayor, de cabeza gris, y no levanta la cola. El agateador trepa por los troncos y es blanco por debajo. El reyezuelo sencillo es más verde y tiene el píleo listado.",
+   "whereToSee": "Jardines, bosques y setos de cualquier lugar de Europa; el inconfundible chochín de St Kilda en los acantilados de Hirta.",
+   "season": "Residente en la mayor parte de Europa; las aves del norte y el este se desplazan al sur en invierno",
+   "order": "Passeriformes"
+  },
+  "lore": "La fábula de Esopo cuenta cómo el chochín se convirtió en «rey de los pájaros» al viajar a lomos del águila y volar más alto que nadie, y el día de San Esteban (26 de diciembre) los «wrenboys» irlandeses paseaban tradicionalmente un chochín de puerta en puerta.",
+  "funFact": "El chochín figuró en el reverso del farthing británico desde 1937 hasta que la moneda se retiró en 1960."
+ },
+ {
+  "scientific": "Cuculus canorus",
+  "common": "Cuco común",
+  "summary": "Un ave gris y esbelta, con aspecto de pequeña rapaz, cuyo reclamo de dos notas anuncia la primavera en toda Eurasia. Nunca cría a sus pollos: cada hembra pone sus huevos en los nidos de una especie hospedadora concreta, a menudo con huevos que imitan a los del hospedador.",
+  "nativeRange": "Cría en toda Europa, el norte de África, Turquía, Oriente Próximo y Asia hasta Japón; inverna en el África subsahariana y el sur de Asia",
+  "biomes": [
+   "Bosque abierto",
+   "Carrizal",
+   "Páramo",
+   "Estepa"
+  ],
+  "abilities": [
+   "Los linajes femeninos (gentes) se especializan en hospedadores como el carricero común, el bisbita pratense o el acentor común, y a menudo ponen huevos miméticos",
+   "Una hembra puede poner un huevo en un nido ajeno en unos 10 segundos",
+   "El pollo recién eclosionado expulsa del nido, cargándolos sobre la espalda, los huevos y pollos del hospedador",
+   "Cucos británicos marcados con emisores vía satélite vuelan hasta la selva del Congo y cruzan el Sáhara en vuelos sin escalas"
+  ],
+  "animal": {
+   "diet": "Grandes orugas peludas que la mayoría de las aves evitan, además de escarabajos y otros insectos",
+   "habitat": "Lindes de bosque, carrizales, páramos, campos de cultivo con setos y estepas",
+   "lifespan": "Normalmente unos pocos años; el récord europeo de anillamiento es de unos 9,5 años",
+   "size": "32–34 cm; envergadura 54–60 cm; 110–130 g",
+   "behaviour": "Las hembras vigilan los nidos hospedadores desde un posadero y se cuelan a poner mientras los dueños están ausentes, a menudo retirando un huevo del hospedador.",
+   "fieldMarks": [
+    "Cabeza, dorso y pecho gris pizarra; vientre blanco barrado",
+    "Cola larga y escalonada con motas blancas; alas puntiagudas",
+    "Anillo ocular y patas amarillos",
+    "Las raras hembras «hepáticas» son rojizas con barras negras"
+   ],
+   "voice": "El macho emite el famoso «cu-cú», audible a gran distancia, con la segunda nota más grave; la hembra emite un trino burbujeante, como una risita.",
+   "lookalikes": "El gavilán común tiene alas anchas y redondeadas y ojos amarillos, y alterna aleteos y planeos en lugar de volar con aleteos cortos por debajo del cuerpo. El cuco oriental (este de Rusia) emite un «pu-pu» parecido al de la abubilla.",
+   "whereToSee": "Carrizales, brezales y páramos de toda Europa en mayo; Wicken Fen y los Norfolk Broads en Inglaterra; valles fluviales de Turquía y Asia central.",
+   "season": "Estival, abr–ago; los adultos se marchan ya en julio",
+   "order": "Cuculiformes"
+  },
+  "lore": "Edward Jenner, más tarde famoso por la vacunación, publicó en 1788 la primera descripción del pollo de cuco expulsando a sus hermanos adoptivos, una observación de la que se dudó mucho tiempo hasta que las fotografías la confirmaron en el siglo XX.",
+  "funFact": "El canon medieval inglés «Sumer is icumen in» (h. 1260), una de las canciones en inglés más antiguas que se conservan, empieza con «Lhude sing cuccu!» (¡canta fuerte, cuco!)."
+ },
+ {
+  "scientific": "Merops apiaster",
+  "common": "Abejaruco europeo",
+  "summary": "Un cazador aéreo de colores espléndidos, castaño, dorado y turquesa, que atrapa abejas y avispas al vuelo. Anida en colonias, en túneles excavados en taludes arenosos, e inverna en África.",
+  "nativeRange": "Cría en el sur de Europa, el norte de África, Turquía, Oriente Próximo y Asia central; inverna en el África subsahariana, con una pequeña población residente en el sur de África",
+  "biomes": [
+   "Matorral mediterráneo",
+   "Tierras de cultivo",
+   "Riberas",
+   "Estepa"
+  ],
+  "abilities": [
+   "Elimina el aguijón de las abejas golpeándolas y frotándolas contra el posadero antes de tragarlas",
+   "Excava con el pico túneles de nidificación de hasta un metro o más en taludes de arena",
+   "Algunas parejas cuentan con ayudantes, a menudo hijos de temporadas anteriores, para alimentar a los pollos",
+   "Su área se desplaza hacia el norte con los veranos más cálidos, con nidificaciones recientes en Alemania y Gran Bretaña"
+  ],
+  "animal": {
+   "diet": "Insectos voladores, sobre todo abejas, avispas y avispones, también libélulas y escarabajos",
+   "habitat": "Campo abierto y cálido con taludes arenosos o terrosos, cortados fluviales y canteras",
+   "lifespan": "Normalmente unos pocos años; el récord europeo de anillamiento es de 7 años",
+   "size": "27–29 cm incluidas las plumas centrales de la cola; 44–78 g",
+   "behaviour": "Sale desde cables y ramas secas para atrapar insectos y vuelve al posadero para golpearlos.",
+   "fieldMarks": [
+    "Píleo y dorso castaños, hombros y garganta amarillo dorado",
+    "Antifaz negro y collar negro",
+    "Partes inferiores azul turquesa",
+    "Plumas centrales de la cola largas y puntiagudas, y pico negro largo y curvado hacia abajo"
+   ],
+   "voice": "Un «prruip» o «krruup» líquido y rodado, que los bandos emiten sin cesar al pasar y que a menudo es el primer indicio de su presencia.",
+   "lookalikes": "El abejaruco papirrojo (norte de África, Oriente Próximo) es casi todo verde, con la garganta castaña y las plumas centrales de la cola más largas. La carraca europea es más robusta y azul, sin plumas largas en la cola.",
+   "whereToSee": "Extremadura y el valle del Ebro en España, la Camarga, valles fluviales de Grecia y Turquía; enormes bandos en paso sobre Eilat y el Bósforo.",
+   "season": "Estival, abr/may–sep; migrante en paso por el Mediterráneo y Oriente Próximo",
+   "order": "Coraciiformes"
+  },
+  "lore": "Aristóteles escribió que los apicultores consideraban al «merops» enemigo de sus colmenas, y su nombre árabe, «warwar», imita su reclamo rodado.",
+  "funFact": "En 2022 una pequeña colonia crió en una cantera de Trimingham (Norfolk) y atrajo a miles de visitantes."
+ },
+ {
+  "scientific": "Alcedo atthis",
+  "common": "Martín pescador común",
+  "summary": "Un diminuto destello azul eléctrico y naranja a lo largo de los ríos tranquilos. Se zambulle de cabeza en busca de peces pequeños y anida al fondo de un túnel excavado en un talud de tierra.",
+  "nativeRange": "Europa, norte de África, Oriente Próximo, Asia central, sur y este de Asia hasta Nueva Guinea y las islas Salomón",
+  "biomes": [
+   "Ríos",
+   "Lagos",
+   "Humedales",
+   "Estuarios"
+  ],
+  "abilities": [
+   "El azul de su dorso es un color estructural producido por la nanoestructura de las plumas, no por pigmentos",
+   "Se zambulle con los ojos cubiertos por una membrana protectora y corrige la refracción al apuntar",
+   "La forma en que su pico entra en el agua casi sin salpicar inspiró el rediseño del morro del Shinkansen Serie 500",
+   "Las parejas pueden sacar adelante dos o tres nidadas al año para compensar las grandes pérdidas invernales"
+  ],
+  "animal": {
+   "diet": "Peces pequeños como piscardos y espinosos; insectos acuáticos y renacuajos",
+   "habitat": "Ríos, arroyos, canales y lagos de aguas claras y lentas con taludes de tierra; costas en invierno",
+   "lifespan": "La mayoría vive 1–2 años",
+   "size": "16–17 cm; envergadura 24–26 cm; 34–46 g",
+   "behaviour": "Se posa inmóvil sobre el agua, se lanza en picado y golpea el pez contra una rama antes de tragarlo de cabeza.",
+   "fieldMarks": [
+    "Partes superiores de un brillante azul cobalto a turquesa, con una franja dorsal azul pálido",
+    "Partes inferiores y mancha de la mejilla anaranjadas; garganta y mancha del cuello blancas",
+    "Pico largo en forma de daga; la hembra tiene la base de la mandíbula inferior anaranjada",
+    "Cola muy corta y patas diminutas de color rojo"
+   ],
+   "voice": "Un silbido agudo y penetrante, «tsiii» o «chi-qui», emitido en vuelo rápido y bajo sobre el agua.",
+   "lookalikes": "Ningún otro pájaro pequeño europeo tiene este colorido. En Oriente Próximo, el alción de Esmirna es mucho mayor y de pico rojo, y el martín pescador pío es blanco y negro y se cierne.",
+   "whereToSee": "Ríos de tierras bajas de toda Europa; el delta del Danubio, la Camarga y las marismas de Turquía e Irak; aves invernantes en las costas mediterráneas.",
+   "season": "Residente en Europa occidental; las aves del norte y el este se desplazan al sur en invierno",
+   "order": "Coraciiformes"
+  },
+  "lore": "El mito griego transformó a la afligida Alcíone en martín pescador, y se creía que los dioses concedían los tranquilos «días alciónicos» en torno al solsticio de invierno para que pudiera anidar sobre el mar.",
+  "funFact": "El ingeniero Eiji Nakatsu, aficionado a las aves, modeló el morro del Shinkansen Serie 500 a partir del pico del martín pescador para reducir el fuerte «estampido de túnel» (estallido por onda de presión) que se producía cuando los trenes salían de los túneles."
+ },
+ {
+  "scientific": "Ciconia ciconia",
+  "common": "Cigüeña blanca",
+  "summary": "Una zancuda alta y blanca, con las plumas de vuelo negras y el pico rojo, que anida en tejados, campanarios y torres eléctricas. Sus migraciones planeadas se concentran sobre Gibraltar, el Bósforo e Israel, por donde pasan cientos de miles de ejemplares camino de África.",
+  "nativeRange": "Cría en Europa, el norte de África, Turquía, Oriente Próximo y Asia central; inverna en el África subsahariana, con algunas aves en el sur de Asia y cada vez más en la península ibérica",
+  "biomes": [
+   "Humedales",
+   "Tierras de cultivo",
+   "Pastizal templado"
+  ],
+  "abilities": [
+   "Planea en las térmicas para ahorrar energía y evita las largas travesías marinas",
+   "Se comunica mediante crotoreo (castañeteo del pico), ya que es casi muda",
+   "Reutiliza durante décadas enormes nidos de ramas; algunos pesan cientos de kilos",
+   "Muchas cigüeñas ibéricas invernan ahora en vertederos en lugar de cruzar a África"
+  ],
+  "animal": {
+   "diet": "Ranas, insectos (sobre todo langostas y saltamontes), lombrices, pequeños mamíferos, peces y reptiles",
+   "habitat": "Prados húmedos, tierras de cultivo, valles fluviales y marismas cercanas a pueblos",
+   "lifespan": "A menudo 8–10 años; puede superar los 30",
+   "size": "100–115 cm de longitud; envergadura 155–215 cm; 2,3–4,5 kg",
+   "behaviour": "Los miembros de la pareja se saludan en el nido echando la cabeza hacia atrás y castañeteando el pico como unas castañuelas.",
+   "fieldMarks": [
+    "Cuerpo blanco con plumas de vuelo negras",
+    "Pico largo rojo y patas rojas",
+    "Vuela con el cuello estirado y las patas extendidas hacia atrás",
+    "Los juveniles tienen el pico apagado, con la punta oscura"
+   ],
+   "voice": "Los adultos son casi mudos, salvo por el sonoro crotoreo; los pollos emiten siseos y maullidos.",
+   "lookalikes": "La cigüeña negra es negra brillante por encima con el vientre blanco. La grulla común es gris con la cabeza blanca y negra. La garceta grande es totalmente blanca, de pico amarillo u oscuro, y vuela con el cuello recogido.",
+   "whereToSee": "Colonias en tejados de Alsacia, Extremadura, Polonia (Żywkowo) y Marruecos; migración masiva en el estrecho de Gibraltar, el Bósforo de Estambul y el valle de Hula (Israel).",
+   "season": "Estival, feb/mar–ago; la migración alcanza su máximo a finales de agosto y en marzo",
+   "order": "Ciconiiformes"
+  },
+  "lore": "En 1822, una cigüeña abatida en Klütz (Alemania) llevaba clavada en el cuello una lanza centroafricana; esta «Pfeilstorch» («cigüeña flechada») ayudó a demostrar que las aves migran en lugar de hibernar. En todo el mundo islámico se veneraba a las cigüeñas como peregrinas que viajaban cada año hacia La Meca, y en Turquía aún se la llama cariñosamente «hacı leylek», la cigüeña peregrina.",
+  "funFact": "La leyenda europea de que las cigüeñas traen a los bebés está ligada a su regreso cada primavera y a su fidelidad a los nidos sobre las casas."
+ },
+ {
+  "scientific": "Ardea cinerea",
+  "common": "Garza real",
+  "summary": "Una cazadora alta y gris, de pico en forma de daga, que permanece inmóvil en la orilla durante largos ratos antes de atacar. Anida en ruidosas colonias en las copas de los árboles, llamadas garceras, algunas ocupadas durante siglos.",
+  "nativeRange": "Europa, norte de África, Oriente Próximo, Asia central, meridional y oriental, y el África subsahariana y Madagascar",
+  "biomes": [
+   "Humedales",
+   "Ríos",
+   "Lagos",
+   "Estuarios"
+  ],
+  "abilities": [
+   "Unas vértebras cervicales especializadas le permiten lanzar el pico hacia delante en un ataque fulminante",
+   "Traga enteras presas tan grandes como anguilas, ratas y patitos",
+   "Caza de día y de noche, permaneciendo inmóvil durante largos periodos",
+   "Desarrolla plumón pulverulento que se deshace en un polvo con el que limpia el limo de su plumaje"
+  ],
+  "animal": {
+   "diet": "Peces, anguilas, ranas, pequeños mamíferos, patitos e insectos grandes",
+   "habitat": "Ríos, lagos, marismas, estuarios, acequias y estanques de jardín",
+   "lifespan": "Normalmente unos 5 años; aves anilladas han superado los 20",
+   "size": "84–102 cm de longitud; envergadura 155–175 cm; 1–2 kg",
+   "behaviour": "Empieza a criar a finales del invierno, cuando las garceras se llenan de castañeteos y graznidos ásperos mucho antes de que broten las hojas.",
+   "fieldMarks": [
+    "Dorso gris, cuello y partes inferiores blanquecinos con listas negras en la parte delantera",
+    "Cabeza blanca con una franja negra que termina en un fino penacho",
+    "Pico amarillo en forma de daga; naranja vivo en los adultos reproductores",
+    "Vuela con el cuello recogido, con aleteos lentos de alas arqueadas y plumas de vuelo negras"
+   ],
+   "voice": "Un sonoro y áspero «fraank» en vuelo; las garceras están llenas de castañeteos, graznidos y chasquidos de pico.",
+   "lookalikes": "La garza imperial es más oscura y rojiza, con un cuello fino como de serpiente. La grulla común vuela con el cuello estirado. La cigüeña blanca es blanca con el pico rojo.",
+   "whereToSee": "Casi cualquier humedal europeo; grandes garceras en los Países Bajos, el delta del Danubio y parques ingleses como Regent's Park (Londres).",
+   "season": "Residente en Europa occidental; las aves del norte y el este invernan hacia el sur, hasta África",
+   "order": "Pelecaniformes"
+  },
+  "lore": "El ave Bennu egipcia, asociada al dios sol y más tarde al fénix griego, suele representarse como una garza real, y las garzas eran presas muy codiciadas por los cetreros medievales y se servían asadas en los banquetes reales.",
+  "funFact": "La frase de Hamlet «I know a hawk from a handsaw» (distingo un halcón de un serrucho) suele interpretarse como una corrupción de «hernshaw», antigua palabra inglesa para la garza."
+ },
+ {
+  "scientific": "Bubo bubo",
+  "common": "Búho real",
+  "summary": "Uno de los búhos más grandes del mundo, de ojos naranja encendido y altos penachos auriculares. Superdepredador de cortados y bosques, caza de todo, desde topillos hasta zorros, garzas y otras rapaces.",
+  "nativeRange": "Europa, Turquía, Oriente Próximo, Asia central y el norte de Asia hasta el Pacífico; las aves del norte de África se consideran hoy una especie distinta, el búho desértico",
+  "biomes": [
+   "Montaña",
+   "Bosque templado",
+   "Estepa",
+   "Bordes del desierto"
+  ],
+  "abilities": [
+   "Puede matar presas tan grandes como corzos jóvenes y zorros",
+   "Mata con regularidad a otras rapaces y búhos, incluidos busardos y halcones peregrinos",
+   "Su grave ululato puede oírse a varios kilómetros en noches tranquilas",
+   "Ha recolonizado ciudades como Helsinki y anida en edificios y canteras"
+  ],
+  "animal": {
+   "diet": "Mamíferos desde topillos hasta liebres y erizos, ratas, aves de hasta el tamaño de garzas y patos, y ranas",
+   "habitat": "Cortados, gargantas rocosas, canteras, bosques con roquedos y barrancos esteparios",
+   "lifespan": "Hasta unos 20 años en libertad; más en cautividad",
+   "size": "56–75 cm; envergadura 131–188 cm; machos 1,2–3,2 kg, hembras 1,75–4,6 kg",
+   "behaviour": "Caza al anochecer desde un posadero, planeando en silencio sobre la presa, y a menudo almacena en el nido las presas sobrantes.",
+   "fieldMarks": [
+    "Búho enorme, de cuerpo en forma de barril y color pardo leonado",
+    "Grandes ojos naranjas y largos penachos auriculares, a menudo erguidos",
+    "Listado oscuro en el pecho; la garganta blanca se aprecia cuando canta",
+    "Patas y dedos densamente emplumados"
+   ],
+   "voice": "Un «uu-ju» grave y resonante (de ahí el alemán «Uhu»), repetido cada 8–10 segundos; el de las hembras es más agudo.",
+   "lookalikes": "El búho chico es mucho más pequeño y esbelto. El búho desértico (norte de África, Arabia) es más pequeño y de un ante arenoso más pálido. El búho nival carece de penachos auriculares.",
+   "whereToSee": "Gargantas y canteras de España, el sur de Francia, los Alpes, Turquía y el Cáucaso; Sierra Morena y Monfragüe en España.",
+   "season": "Residente; más activo vocalmente a finales del otoño y del invierno",
+   "order": "Strigiformes"
+  },
+  "lore": "En la caza alemana «Hüttenjagd» se usaban búhos reales vivos como señuelo, y se disparaba a cuervos y rapaces cuando acosaban al búho atado; el nombre persa «shah-buf» significa rey de los búhos.",
+  "funFact": "Un búho real silvestre apodado Bubi, que vivía en el Estadio Olímpico de Helsinki, interrumpió brevemente un partido de clasificación para la Eurocopa 2008 al posarse en el terreno de juego."
+ },
+ {
+  "scientific": "Strix aluco",
+  "common": "Cárabo común",
+  "summary": "Una rapaz nocturna forestal de cabeza redonda y ojos oscuros cuyo ululato es el sonido nocturno clásico de los parques y bosques europeos. Es estrictamente territorial, y las parejas ocupan la misma zona de por vida.",
+  "nativeRange": "Europa, norte de África, Turquía, el Levante mediterráneo, el norte de Irán y el oeste de Asia central; las aves del Himalaya se consideran hoy una especie distinta",
+  "biomes": [
+   "Bosque templado",
+   "Bosque abierto",
+   "Jardines y parques"
+  ],
+  "abilities": [
+   "Conoce su territorio tan bien que puede cazar casi a oscuras",
+   "Oye a las presas moverse bajo la hojarasca y las localiza con precisión gracias a sus oídos situados de forma asimétrica",
+   "Las plumas de vuelo, con bordes flecados, hacen su vuelo casi silencioso",
+   "Defiende el nido con ferocidad y golpea a los intrusos en la cabeza"
+  ],
+  "animal": {
+   "diet": "Ratones de campo, topillos y musarañas; también aves, ranas y lombrices",
+   "habitat": "Bosques caducifolios y mixtos, parques, grandes jardines y cementerios",
+   "lifespan": "Normalmente unos 4–5 años; récord de más de 20",
+   "size": "37–46 cm; envergadura 81–105 cm; 385–800 g",
+   "behaviour": "Los pollos abandonan el nido antes de saber volar y trepan por las ramas como «ramoneros», reclamando comida.",
+   "fieldMarks": [
+    "Cabeza redondeada sin penachos auriculares",
+    "Grandes ojos oscuros en un disco facial de borde claro",
+    "Plumaje jaspeado en fases pardo rojiza o gris",
+    "Robusto, de alas anchas y cola corta"
+   ],
+   "voice": "El macho emite un largo y trémulo «juuu... ju-ju-ju-juuuuu»; la hembra y los jóvenes, un agudo «que-uic». El legendario «twit-twoo» inglés es un «que-uic» de la hembra respondido por el ululato del macho.",
+   "lookalikes": "El cárabo uralense (Escandinavia, Europa oriental) es mayor y más pálido, de cola larga y ojos oscuros pequeños. La lechuza común es blanca por debajo y tiene la cara en forma de corazón. El búho chico tiene penachos auriculares y ojos naranjas.",
+   "whereToSee": "Bosques maduros y parques urbanos de toda Europa; a menudo se localiza escuchando al anochecer en otoño, cuando los jóvenes se dispersan.",
+   "season": "Residente; más activo vocalmente en otoño y a finales del invierno",
+   "order": "Strigiformes"
+  },
+  "lore": "El fotógrafo de aves Eric Hosking perdió el ojo izquierdo en 1937 por el ataque de un cárabo que defendía su nido, y tituló su autobiografía «An Eye for a Bird» (Un ojo por un pájaro).",
+  "funFact": "Una pareja de cárabos suele permanecer en un mismo territorio de por vida y rara vez lo abandona, por lo que muchos jóvenes mueren de hambre si no encuentran una zona libre."
+ },
+ {
+  "scientific": "Apus apus",
+  "common": "Vencejo común",
+  "summary": "Un ave de color hollín y alas en forma de hoz que vive casi por completo en el aire: se alimenta, bebe, se aparea y duerme en vuelo. Los grupos chillones recorren a toda velocidad los edificios antiguos en las tardes de verano antes de volver a África.",
+  "nativeRange": "Cría en toda Europa, el norte de África, Oriente Próximo y Asia central hasta China; inverna en el África subsahariana",
+  "biomes": [
+   "Espacio aéreo",
+   "Medio urbano",
+   "Bosque templado"
+  ],
+  "abilities": [
+   "Aves seguidas con dispositivos permanecieron en el aire hasta 10 meses sin posarse, fuera de la época de cría",
+   "Duerme durante la noche en breves planeos a gran altura",
+   "Con tiempo frío, los pollos pueden sobrevivir varios días sin comida entrando en letargo",
+   "Se alimenta de plancton aéreo y reúne bolas de cientos de insectos para llevarlas a los pollos"
+  ],
+  "animal": {
+   "diet": "Insectos voladores y arañas transportadas por el aire",
+   "habitat": "Cielos abiertos; anida en huecos bajo tejados, en muros y torres, y en viejos agujeros de árboles en los bosques del norte",
+   "lifespan": "A menudo 5–10 años; aves anilladas han alcanzado unos 18",
+   "size": "16–17 cm; envergadura 40–44 cm; 35–50 g",
+   "behaviour": "Por la tarde, bandas de vencejos chillones se persiguen a baja altura entre los tejados y luego ascienden muy alto para pasar la noche en vuelo.",
+   "fieldMarks": [
+    "Totalmente pardo negruzco, color hollín, con una pequeña garganta clara",
+    "Alas largas, estrechas y en forma de guadaña",
+    "Cola corta y ahorquillada",
+    "Nunca se posa en cables ni en el suelo"
+   ],
+   "voice": "Un chillido agudo y prolongado, «sriiii», normalmente emitido por grupos en vuelo rápido.",
+   "lookalikes": "La golondrina común y el avión común tienen las partes inferiores blancas o rojizas y alas más anchas, y se posan en los cables. El vencejo pálido (Mediterráneo) es de un pardo más claro, con una garganta clara más extensa y las puntas de las alas más romas. El vencejo real es mayor y tiene el vientre blanco.",
+   "whereToSee": "Sobre pueblos y ciudades antiguos de toda Europa y Asia occidental de mayo a julio; la torre del Museo de la Universidad de Oxford alberga una colonia estudiada desde 1948.",
+   "season": "Estival, finales de abr–ago; de los últimos en llegar y los primeros en marcharse",
+   "order": "Apodiformes"
+  },
+  "lore": "Ted Hughes escribió en «Swifts» que «they've made it again, which means the globe's still working» (lo han conseguido otra vez, lo que significa que el mundo aún funciona), y «Swifts in a Tower» (1956), de David Lack, describió la colonia del Museo de Oxford.",
+  "funFact": "Marcados por investigadores suecos en 2013–2014, algunos vencejos permanecieron en el aire durante todo su periodo no reproductor de diez meses."
+ },
+ {
+  "scientific": "Milvus milvus",
+  "common": "Milano real",
+  "summary": "Una elegante rapaz rojiza de cola profundamente ahorquillada que gira sin cesar al maniobrar. Casi desaparecido de Gran Bretaña en el siglo XX, se ha convertido en un célebre éxito de reintroducción en los campos de Inglaterra y Escocia.",
+  "nativeRange": "Europa, principalmente Alemania, Francia y España, además de Gran Bretaña, Suiza y Suecia; hoy solo es un raro invernante en el norte de África, donde antes criaba",
+  "biomes": [
+   "Tierras de cultivo",
+   "Bosque abierto",
+   "Pastizal templado"
+  ],
+  "abilities": [
+   "Puede mantenerse en el aire durante horas casi sin aletear, maniobrando con su larga cola ahorquillada",
+   "Carroñero que limpiaba de desperdicios las calles de las ciudades medievales",
+   "Decora su nido con trapos, plásticos y otros restos",
+   "Se reúne en dormideros invernales comunales de cientos de aves"
+  ],
+  "animal": {
+   "diet": "Carroña, pequeños mamíferos, lombrices, aves y restos de comida",
+   "habitat": "Tierras de cultivo y colinas abiertas con bosquetes para anidar",
+   "lifespan": "A menudo más de 10 años; récord de más de 25",
+   "size": "60–70 cm; envergadura 175–195 cm; 0,8–1,3 kg",
+   "behaviour": "Planea bajo sobre campos y carreteras en busca de carroña, a menudo en grupos laxos en torno a los puntos de alimentación.",
+   "fieldMarks": [
+    "Cuerpo rojizo y cola larga, profundamente ahorquillada, rojo anaranjada",
+    "Cabeza gris pálido",
+    "Alas largas y acodadas, con manchas blancas en la base de las primarias negras",
+    "En vuelo, la cola gira constantemente"
+   ],
+   "voice": "Un silbido agudo y ondulante, parecido al del busardo, «uiiu-uiiu-uiiu».",
+   "lookalikes": "El milano negro es de un pardo más oscuro, con una horquilla menos profunda que parece recta cuando abre la cola. El busardo ratonero tiene la cola corta y redondeada. El aguilucho lagunero occidental planea con las alas levantadas y no tiene la cola ahorquillada.",
+   "whereToSee": "Los Chilterns en Inglaterra, Gigrin Farm en el centro de Gales, Argaty en Escocia; Alemania, España y las tierras bajas suizas.",
+   "season": "Residente en Gran Bretaña y Europa occidental; las aves de Europa central y septentrional invernan en la península ibérica",
+   "order": "Accipitriformes"
+  },
+  "lore": "El Londres medieval protegía a los milanos como carroñeros callejeros; en «Cuento de invierno», de Shakespeare, Autólico advierte «when the kite builds, look to lesser linen» (cuando el milano hace su nido, vigilad la ropa menuda), porque los milanos robaban la ropa tendida para sus nidos.",
+  "funFact": "La reintroducción en Inglaterra comenzó en 1989 en los Chilterns, con aves procedentes sobre todo de España; hoy la región alberga miles."
+ },
+ {
+  "scientific": "Accipiter nisus",
+  "common": "Gavilán común",
+  "summary": "Una rapaz de alas cortas y cola larga hecha para la emboscada, que pasa como un rayo a lo largo de los setos para atrapar pájaros por sorpresa. Las hembras son mucho mayores que los machos y pesan casi el doble.",
+  "nativeRange": "Europa, norte de África, Oriente Próximo y Asia central, a través de Siberia hasta Japón; las aves del norte invernan al sur, hasta África y el sur de Asia",
+  "biomes": [
+   "Bosque abierto",
+   "Bosque templado",
+   "Tierras de cultivo",
+   "Jardines y parques"
+  ],
+  "abilities": [
+   "Caza por sorpresa, usando setos y edificios como cobertura para emboscar a pájaros cantores",
+   "Las hembras capturan presas de hasta el tamaño de una paloma torcaz; los machos cazan sobre todo páridos y fringílidos",
+   "Sus largas patas y dedos atrapan aves en el aire o en el interior de los arbustos",
+   "Se recuperó en toda Europa tras la prohibición de los plaguicidas organoclorados como el DDT"
+  ],
+  "animal": {
+   "diet": "Casi exclusivamente aves pequeñas y medianas",
+   "habitat": "Bosques, campos de cultivo con setos, ciudades y jardines",
+   "lifespan": "Normalmente unos 4 años",
+   "size": "28–41 cm; envergadura 59–80 cm; machos ~150 g, hembras ~260 g",
+   "behaviour": "Se le suele ver en un breve y fulgurante ataque a un comedero de jardín antes de desaparecer tras un seto.",
+   "fieldMarks": [
+    "Alas cortas y redondeadas y cola larga, barrada y de extremo recto",
+    "Macho azul pizarra por encima, con partes inferiores y mejillas barradas de naranja",
+    "Hembra pardo grisácea por encima, finamente barrada de gris por debajo, con ceja blanca",
+    "Ojos amarillos y patas amarillas largas y finas"
+   ],
+   "voice": "Casi siempre silencioso; un rápido y parloteante «kiu-kiu-kiu» cerca del nido.",
+   "lookalikes": "El azor común es mucho mayor, con la parte posterior del cuerpo abultada y una marcada ceja blanca. El cernícalo vulgar tiene alas puntiagudas y se cierne. El gavilán griego (sudeste de Europa, Oriente Próximo) tiene las puntas de las alas oscuras y es pálido por debajo.",
+   "whereToSee": "Extendido por campos y jardines europeos; enormes pasos otoñales sobre Falsterbo, el Bósforo y Batumi (Georgia).",
+   "season": "Residente en gran parte de Europa; migrante en paso e invernante en el sur",
+   "order": "Accipitriformes"
+  },
+  "lore": "En la cetrería medieval, el «Book of St Albans» (1486) asignaba el gavilán a los sacerdotes, y su pequeño macho se llamaba «musket» en inglés, palabra que después se dio a un arma de fuego (el mosquete).",
+  "funFact": "El estudio de décadas de Ian Newton en el sur de Escocia convirtió al gavilán en una de las rapaces mejor estudiadas del mundo."
+ },
+ {
+  "scientific": "Falco tinnunculus",
+  "common": "Cernícalo vulgar",
+  "summary": "Un pequeño halcón famoso por cernirse inmóvil sobre los márgenes de las carreteras, con la cabeza perfectamente quieta mientras alas y cola trabajan contra el viento. Es la rapaz más familiar en gran parte de Europa.",
+  "nativeRange": "Europa, África, Oriente Próximo, Asia central y Asia hasta China y Japón",
+  "biomes": [
+   "Tierras de cultivo",
+   "Pastizal templado",
+   "Estepa",
+   "Medio urbano"
+  ],
+  "abilities": [
+   "Se cierne de cara al viento manteniendo la cabeza casi perfectamente inmóvil",
+   "Ve la luz ultravioleta y puede detectar los rastros de orina de los topillos, que reflejan el ultravioleta",
+   "Anida en cortados, viejos nidos de córvidos, edificios y cajas nido",
+   "Sus poblaciones suben y bajan con los ciclos de los topillos"
+  ],
+  "animal": {
+   "diet": "Topillos y ratones; también lagartijas, insectos grandes y pájaros pequeños",
+   "habitat": "Campo abierto, tierras de cultivo, páramos, bordes de carreteras y ciudades",
+   "lifespan": "Normalmente unos 4 años; récord de más de 15",
+   "size": "32–39 cm; envergadura 65–82 cm; 136–314 g",
+   "behaviour": "Se mantiene suspendido en el aire y luego desciende por etapas antes de lanzarse definitivamente sobre la presa en la hierba.",
+   "fieldMarks": [
+    "Macho: cabeza y cola gris azuladas, con banda negra en la cola, y dorso castaño moteado",
+    "Hembra: parda y barrada por encima, con la cola barrada",
+    "Alas largas y puntiagudas; cola larga",
+    "Bigotera negra"
+   ],
+   "voice": "Un agudo y rápido «qui-qui-qui» cerca del nido.",
+   "lookalikes": "Los machos de cernícalo primilla (Mediterráneo, estepas) tienen el dorso sin motas y un panel alar gris, y la especie es colonial. El esmerejón es más pequeño, más oscuro y rara vez se cierne. El gavilán común tiene las alas redondeadas.",
+   "whereToSee": "Márgenes de autopistas y campos de cultivo de toda Europa; edificios urbanos desde Madrid hasta Estambul.",
+   "season": "Residente en Europa occidental y meridional; las aves del norte y el este migran hacia el sur",
+   "order": "Falconiformes"
+  },
+  "lore": "El soneto «The Windhover» (1877), de Gerard Manley Hopkins, celebró su vuelo cernido, y la novela de Barry Hines «A Kestrel for a Knave» (1968), llevada al cine como «Kes», tomó su título de la rapaz asignada al rango más bajo en la cetrería medieval.",
+  "funFact": "Experimentos realizados en Finlandia en 1995 demostraron que los cernícalos pueden ver las marcas olorosas de los topillos porque la orina y las heces reflejan la luz ultravioleta."
+ },
+ {
+  "scientific": "Gypaetus barbatus",
+  "common": "Quebrantahuesos",
+  "summary": "Un enorme buitre de montaña que se alimenta sobre todo de huesos. Deja caer huesos grandes desde lo alto sobre losas de roca para romperlos, y tiñe su propio plumaje blanco de un naranja óxido bañándose en barro rico en hierro.",
+  "nativeRange": "Montañas del sur de Europa (Pirineos, Alpes, Córcega, Creta), norte de África, Turquía, el Cáucaso, Oriente Próximo, Asia central, el Himalaya y la meseta tibetana, y África oriental y meridional",
+  "biomes": [
+   "Montaña",
+   "Pastizal alpino",
+   "Cortados"
+  ],
+  "abilities": [
+   "Los huesos constituyen la mayor parte de su dieta; su ácido gástrico, con un pH cercano a 1, disuelve el hueso",
+   "Deja caer huesos desde lo alto sobre «rompederos» de roca para partirlos",
+   "Traga enteros huesos tan grandes como el fémur de un cordero",
+   "Se tiñe el plumaje de naranja con barro rico en óxido de hierro, un comportamiento cosmético"
+  ],
+  "animal": {
+   "diet": "Huesos y médula de cadáveres; ocasionalmente tortugas y presas vivas",
+   "habitat": "Alta montaña con cortados, pastos alpinos y gargantas",
+   "lifespan": "20–30 años en libertad; más de 40 en cautividad",
+   "size": "94–125 cm; envergadura 2,3–2,8 m; 4,5–7,8 kg",
+   "behaviour": "Patrulla las crestas con sus alas largas y estrechas y puede dejar caer repetidamente el mismo hueso hasta que se rompe.",
+   "fieldMarks": [
+    "Alas muy largas, estrechas y puntiagudas, y cola larga en forma de rombo",
+    "Partes superiores pizarra oscuro; cabeza y partes inferiores de crema a naranja óxido",
+    "Antifaz negro y «barba» negra de cerdas bajo el pico",
+    "Anillo rojo alrededor de un ojo claro; juveniles enteramente oscuros"
+   ],
+   "voice": "Normalmente silencioso; silbidos agudos ocasionales y reclamos estridentes durante las exhibiciones.",
+   "lookalikes": "El buitre leonado tiene alas anchas, cola corta y una gorguera clara. El águila real tiene la cola más corta y recta y las alas más anchas. Los juveniles pueden confundirse con los del alimoche común, que son mucho más pequeños.",
+   "whereToSee": "Ordesa y los Pirineos, los Alpes suizos y franceses (reintroducido), Creta, el Cáucaso, las montañas Simien de Etiopía y el Himalaya.",
+   "season": "Residente; cría en pleno invierno",
+   "order": "Accipitriformes"
+  },
+  "lore": "El Homa (Huma) persa, un ave cuya sombra otorgaba la realeza, se ha asociado desde antiguo con el quebrantahuesos, y Plinio recoge la leyenda de que el dramaturgo Esquilo murió por una tortuga que un águila dejó caer sobre su calva.",
+  "funFact": "Fue exterminado de los Alpes a comienzos del siglo XX; la reintroducción iniciada en 1986 ha restablecido allí una población reproductora silvestre."
+ },
+ {
+  "scientific": "Otis tarda",
+  "common": "Avutarda común",
+  "summary": "Una de las aves voladoras más pesadas del planeta. En primavera los machos se transforman en ondulantes «baños de espuma» de plumas blancas para impresionar a las hembras en estepas y campos abiertos. La mayor parte de la población mundial vive hoy en España.",
+  "nativeRange": "Península ibérica, Europa central (Hungría, Austria, Alemania), Marruecos, Turquía, Rusia, Kazajistán, Asia central y Mongolia hasta China; reintroducida en Inglaterra",
+  "biomes": [
+   "Estepa",
+   "Pastizal templado",
+   "Tierras de cultivo"
+  ],
+  "abilities": [
+   "Los machos pesan hasta unos 16 kg y se disputan el título de animal volador más pesado",
+   "Los machos en exhibición dan la vuelta a alas y cola hasta convertirse en una masa de plumas blancas",
+   "En la época de cría los machos desarrollan largas plumas blancas a modo de bigotes",
+   "Utilizan durante generaciones zonas de exhibición de tipo lek"
+  ],
+  "animal": {
+   "diet": "Brotes, hojas, semillas y leguminosas; insectos como escarabajos y saltamontes, sobre todo para los pollos",
+   "habitat": "Estepas abiertas, cultivos extensivos de cereal y pastizales",
+   "lifespan": "Normalmente unos 10 años; algunas superan los 15, con una edad máxima registrada de 28",
+   "size": "Machos 90–105 cm, 5,8–16 kg; hembras 75–85 cm, 3,3–5,3 kg; envergadura 1,9–2,6 m",
+   "behaviour": "En primavera los machos se reúnen en zonas de exhibición tradicionales, que las hembras visitan para elegir pareja.",
+   "fieldMarks": [
+    "Ave terrestre muy grande y majestuosa, del tamaño de un ganso, de cuello y patas largos",
+    "Partes superiores ante dorado barradas de negro",
+    "Cabeza y cuello grises; los machos, con banda pectoral castaña y bigotes blancos",
+    "Enormes paneles alares blancos en vuelo"
+   ],
+   "voice": "Generalmente silenciosa; un ladrido o gruñido grave a corta distancia.",
+   "lookalikes": "El sisón común es mucho más pequeño (del tamaño de un faisán), y los machos tienen el cuello blanco y negro. La hubara asiática es de color arena, con un penacho negro en el cuello. La hembra de avutarda es mucho más pequeña que el macho y a distancia puede confundirse con un ganso.",
+   "whereToSee": "Villafáfila y Extremadura en España, Castro Verde en Portugal, Dévaványa en Hungría y la llanura de Salisbury en Inglaterra (reintroducida).",
+   "season": "Residente en la península ibérica; parcialmente migradora en Rusia y Asia central; exhibiciones mar–abr",
+   "order": "Otidiformes"
+  },
+  "lore": "Las avutardas fueron exterminadas en Gran Bretaña hacia la década de 1830; el ave sigue figurando en el emblema del condado de Wiltshire, y en 2004 comenzó en la llanura de Salisbury una reintroducción con pollos procedentes de Rusia y España.",
+  "funFact": "Su nombre latino, «tarda», significa «lenta», pero pese a su peso es una voladora potente."
+ },
+ {
+  "scientific": "Chlamydotis macqueenii",
+  "common": "Hubara asiática",
+  "summary": "Una avutarda críptica de color arena, propia de desiertos y semidesiertos, que es la presa clásica de la cetrería árabe. La caza y el trampeo a lo largo de sus rutas migratorias la han llevado al declive pese a los grandes programas de cría en cautividad.",
+  "nativeRange": "Cría desde el Sinaí, Oriente Próximo e Irán, a través de Asia central, hasta Mongolia y China; inverna en la península arábiga, Irán, Pakistán y el noroeste de la India",
+  "biomes": [
+   "Desierto",
+   "Semidesierto",
+   "Estepa"
+  ],
+  "abilities": [
+   "Su plumaje se confunde casi a la perfección con los desiertos de arena y grava",
+   "En hábitats áridos puede obtener el agua en gran parte de su alimento",
+   "Migra miles de kilómetros entre sus áreas de cría en Asia central y sus cuarteles de invernada en el sur de Asia o Arabia",
+   "Como defensa, lanza un chorro de excrementos a los halcones que la atacan"
+  ],
+  "animal": {
+   "diet": "Brotes, semillas y frutos de plantas del desierto; escarabajos, langostas y pequeños reptiles",
+   "habitat": "Semidesiertos llanos u ondulados con arbustos dispersos",
+   "size": "55–75 cm; envergadura 135–170 cm; 1,2–3,2 kg",
+   "behaviour": "Los machos en exhibición levantan las plumas blancas del cuello sobre la cabeza y corren en zigzag, una exhibición visible desde muy lejos en el desierto.",
+   "fieldMarks": [
+    "Partes superiores ante arenoso, finamente vermiculadas de negro",
+    "Franja negra a cada lado del cuello que desciende hasta una gorguera blanca",
+    "Cresta corta de plumas blancas y negras",
+    "Llamativo diseño alar blanco y negro en vuelo"
+   ],
+   "voice": "Casi siempre silenciosa; un retumbo grave durante la exhibición.",
+   "lookalikes": "La hubara africana (Chlamydotis undulata), del norte de África, es muy parecida pero tiene la cresta totalmente blanca; sus áreas apenas se solapan. La avutarda común es mucho mayor, de cabeza gris, y carece de la franja negra en el cuello.",
+   "whereToSee": "Desierto de Kyzylkum en Uzbekistán y Kazajistán en primavera; Cholistán y Baluchistán (Pakistán) y los Emiratos Árabes Unidos en invierno.",
+   "season": "Estival en Asia central, mar–oct; invernante en Arabia y el sur de Asia",
+   "order": "Otidiformes"
+  },
+  "lore": "Cazar hubaras con halcones sacres y peregrinos es una tradición beduina de siglos, y los permisos especiales concedidos a gobernantes del Golfo para cazarla en Pakistán han sido recurridos ante el Tribunal Supremo de Pakistán.",
+  "funFact": "Centros de cría en cautividad de los Emiratos Árabes Unidos, Arabia Saudí y Marruecos liberan grandes cantidades de hubaras criadas en cautividad para apoyar a las poblaciones silvestres y a la cetrería."
+ },
+ {
+  "scientific": "Vanellus vanellus",
+  "common": "Avefría europea",
+  "summary": "Un limícola de la familia de los chorlitos, con cresta e iridiscente, propio de campos y prados húmedos, cuyo nombre inglés alude al sonido de sus alas redondeadas y flojas en su vuelo nupcial acrobático. Sus efectivos reproductores han caído mucho en toda Europa por los cambios agrícolas.",
+  "nativeRange": "Cría en toda la Europa y Asia templadas, desde Irlanda hasta el Pacífico; inverna en Europa occidental, el norte de África, Oriente Próximo, el sur de Asia y China",
+  "biomes": [
+   "Humedales",
+   "Tierras de cultivo",
+   "Pastizal templado"
+  ],
+  "abilities": [
+   "Vuelo nupcial acrobático con un zumbido de alas y reclamos estridentes",
+   "Los progenitores acosan a cornejas y zorros y realizan maniobras de distracción para alejar a los depredadores",
+   "Los pollos se alimentan solos a las pocas horas de nacer",
+   "Los desplazamientos por olas de frío pueden mover enormes bandos cientos de kilómetros en un día"
+  ],
+  "animal": {
+   "diet": "Lombrices, escarabajos, larvas de típula y otros invertebrados del suelo",
+   "habitat": "Prados húmedos, campos de siembra primaveral y marismas; llanuras fangosas y pastizales en invierno",
+   "lifespan": "Normalmente 4–5 años; récord de más de 20",
+   "size": "28–31 cm; envergadura 82–87 cm; 130–330 g",
+   "behaviour": "Se alimenta con una secuencia de «parar, correr, inclinarse» y tamborilea con las patas en el suelo para hacer salir las lombrices.",
+   "fieldMarks": [
+    "Cresta negra, larga y fina",
+    "Partes superiores verde oscuro con brillos púrpuras y bronceados",
+    "Banda pectoral negra, vientre blanco e infracoberteras caudales anaranjadas",
+    "Alas anchas, redondeadas, blancas y negras en vuelo"
+   ],
+   "voice": "Un lastimero y silbante «pii-uit» y un canto nupcial estridente y retorcido, «pii-uit uit-uit iiis».",
+   "lookalikes": "Ningún otro ave europea tiene esa cresta larga. La avefría sociable es de color arena, con píleo oscuro y ceja blanca. El chorlito dorado europeo, a menudo en bandos invernales mixtos, tiene alas puntiagudas y partes superiores con motas doradas.",
+   "whereToSee": "Prados húmedos de los Países Bajos, los Somerset Levels y reservas de la RSPB en Inglaterra; enormes bandos invernales en toda Europa occidental y el delta del Nilo.",
+   "season": "Residente o migrante parcial en Europa occidental; estival más al este; invernante en el Mediterráneo y Oriente Próximo",
+   "order": "Charadriiformes"
+  },
+  "lore": "En Frisia, el primer huevo de avefría de la primavera se entregaba tradicionalmente al comisario del rey de la provincia; desde que se prohibió la recolección, la tradición continúa como una búsqueda sin recogida.",
+  "funFact": "Su nombre inglés, «lapwing», procede del inglés antiguo «hleapewince», que alude a su vuelo saltarín y vacilante."
+ },
+ {
+  "scientific": "Numenius arquata",
+  "common": "Zarapito real",
+  "summary": "El mayor limícola de Europa, de pico muy largo y curvado hacia abajo, con un reclamo burbujeante e inquietante que resuena sobre páramos y estuarios. Ha disminuido drásticamente en Gran Bretaña e Irlanda, que albergan una gran parte de los reproductores del mundo.",
+  "nativeRange": "Cría desde Gran Bretaña e Irlanda, a través del norte y centro de Europa y Asia central, hasta Siberia; inverna en las costas de Europa occidental, África, Oriente Próximo y el sur de Asia",
+  "biomes": [
+   "Páramo",
+   "Humedales",
+   "Estuarios",
+   "Pastizal templado"
+  ],
+  "abilities": [
+   "Sondea a fondo el fango en busca de gusanos de arena y poliquetos con un pico que en las hembras alcanza unos 15 cm",
+   "La punta del pico es flexible y sensible, lo que le permite detectar presas bajo tierra",
+   "Las hembras tienen el pico más largo que los machos, por lo que ambos sexos se alimentan de forma distinta",
+   "Se concentra en grandes bandos en los dormideros de pleamar de los estuarios"
+  ],
+  "animal": {
+   "diet": "Gusanos, cangrejos, moluscos e insectos; en el interior, larvas de típula y lombrices",
+   "habitat": "Páramos, pastos bastos y prados húmedos para criar; estuarios y llanuras fangosas en invierno",
+   "lifespan": "A menudo 5–10 años; récord de más de 30",
+   "size": "50–60 cm; envergadura 89–106 cm; 410–1.360 g",
+   "behaviour": "En las zonas de cría se eleva con aleteos rápidos y desciende planeando mientras emite su canto burbujeante.",
+   "fieldMarks": [
+    "Pico muy largo y curvado hacia abajo",
+    "Plumaje pardo grisáceo listado",
+    "Cuña blanca que sube por el obispillo y el dorso en vuelo",
+    "Gran tamaño; patas largas, gris azuladas"
+   ],
+   "voice": "Un «cur-lí» ascendente y lastimero y, en la exhibición, un largo trino burbujeante que se acelera.",
+   "lookalikes": "El zarapito trinador es más pequeño, de pico más corto y píleo listado, con un rápido reclamo de siete notas «tititititi». La aguja colipinta tiene el pico ligeramente curvado hacia arriba.",
+   "whereToSee": "Páramos de los Peninos y de Escocia en primavera; el Wash, la bahía de Morecambe, el mar de Frisia y el Banc d'Arguin (Mauritania) en invierno.",
+   "season": "Presente en las costas todo el año; en los páramos de cría, mar–jul",
+   "order": "Charadriiformes"
+  },
+  "lore": "W. B. Yeats usó su grito como imagen del duelo en «He Reproves the Curlew» (1899), y la parábola eclesiástica de Benjamin Britten «Curlew River» (1964) toma su título del ave.",
+  "funFact": "Su pariente menor, el zarapito fino, se confirmó por última vez en Marruecos en 1995, y un estudio de 2024 concluyó que muy probablemente se ha extinguido."
+ },
+ {
+  "scientific": "Grus grus",
+  "common": "Grulla común",
+  "summary": "Una grulla alta y gris, con la cabeza blanca y negra y un abultado penacho caudal, cuyos bandos trompeteantes cruzan Europa en primavera y otoño. Las parejas ejecutan elaboradas danzas con saltos y reverencias.",
+  "nativeRange": "Cría desde Escandinavia y Alemania, a través del norte de Europa y Asia, hasta Siberia oriental; inverna en la península ibérica, Francia, el norte de África, Oriente Próximo, la India y China",
+  "biomes": [
+   "Humedales",
+   "Turbera",
+   "Tierras de cultivo",
+   "Bosque templado"
+  ],
+  "abilities": [
+   "Una tráquea larga y enrollada dentro del esternón amplifica sus potentes reclamos trompeteantes",
+   "Las parejas cantan a dúo en sincronizados «reclamos al unísono»",
+   "Migra en formación de V, con grandes áreas de descanso utilizadas por decenas de miles",
+   "Durante la nidificación se tiñe el plumaje de pardo con barro, como camuflaje"
+  ],
+  "animal": {
+   "diet": "Grano, raíces, bellotas y brotes; insectos, ranas y pequeños animales en verano",
+   "habitat": "Turberas, pantanos forestales y marismas para criar; campos abiertos y humedales en invierno",
+   "lifespan": "A menudo más de 20 años; más de 40 en cautividad",
+   "size": "100–130 cm de altura; envergadura 180–240 cm; 4,5–6 kg",
+   "behaviour": "Las grullas danzan haciendo reverencias, saltando con las alas abiertas y lanzando palitos al aire, en cualquier época del año.",
+   "fieldMarks": [
+    "Alta y gris, con largas patas negras",
+    "Cabeza y cuello negros con una franja blanca detrás del ojo; mancha roja en el píleo",
+    "Penacho caudal colgante formado por plumas alares internas curvadas",
+    "Vuela con el cuello estirado"
+   ],
+   "voice": "Un «krruu-krruu» sonoro, rodado y trompeteante, audible a kilómetros de distancia.",
+   "lookalikes": "La garza real vuela con el cuello recogido y carece de cabeza negra. La grulla damisela es más pequeña, con plumas negras en el pecho y penachos auriculares blancos. La cigüeña blanca es blanca con el pico rojo.",
+   "whereToSee": "Lago Hornborgasjön (Suecia) en abril, Rügen-Bock (Alemania) y el lago del Der (Francia) en otoño, Gallocanta (España) y el valle de Hula (Israel) en invierno; los Norfolk Broads y los Somerset Levels en Inglaterra.",
+   "season": "Estival en el norte de Europa, mar–oct; migrante en paso; invernante en el Mediterráneo y Oriente Próximo",
+   "order": "Gruiformes"
+  },
+  "lore": "En la leyenda griega, las grullas de Íbico presenciaron el asesinato del poeta y delataron a sus asesinos, y la poesía persa usa el reclamo de la «kulang» y la «dorna» como imagen del exilio y la nostalgia.",
+  "funFact": "Las grullas regresaron a los Norfolk Broads ingleses en 1979 y criaron allí por primera vez en 1981, unos 400 años después de haber desaparecido como reproductoras."
+ },
+ {
+  "scientific": "Oriolus oriolus",
+  "common": "Oropéndola europea",
+  "summary": "Un ave de un amarillo brillante y negro sorprendentemente difícil de ver, oculta en el frondoso dosel de chopos y robles. Su potente silbido aflautado la delata mucho antes de que se vislumbre su destello dorado.",
+  "nativeRange": "Cría en toda Europa, el noroeste de África, Turquía, Oriente Próximo y Asia central hasta Siberia occidental; inverna en el África subsahariana",
+  "biomes": [
+   "Bosque templado",
+   "Bosque de ribera",
+   "Huertos frutales"
+  ],
+  "abilities": [
+   "Construye un nido a modo de hamaca colgado de la horquilla de una rama alta",
+   "Su plumaje amarillo vivo queda notablemente oculto entre las hojas iluminadas por el sol",
+   "Migra de noche hacia sus cuarteles de invernada en el África tropical",
+   "Puede manipular orugas peludas que muchas aves evitan"
+  ],
+  "animal": {
+   "diet": "Insectos y orugas; frutos, cerezas y bayas a finales del verano",
+   "habitat": "Bosques caducifolios altos, choperas de ribera, huertos frutales y parques",
+   "lifespan": "Normalmente hasta unos 8 años",
+   "size": "22–25 cm; envergadura 44–47 cm; 50–79 g",
+   "behaviour": "Se desplaza por el dosel con vuelos ondulantes y en picado de un árbol a otro, y rara vez baja.",
+   "fieldMarks": [
+    "Macho amarillo dorado brillante, con alas negras y el centro de la cola negro",
+    "Pico rojo rosado y lorums negros",
+    "Hembra y jóvenes amarillo verdosos, con las partes inferiores blanquecinas listadas",
+    "Del tamaño de un zorzal, con un vuelo ondulante como el de un pájaro carpintero"
+   ],
+   "voice": "Un silbido rico y aflautado que suele transcribirse como «uíla-uíu» o «di-dli-o»; también un áspero «kuiiaah» que recuerda a un gato.",
+   "lookalikes": "En vuelo, la hembra recuerda al pito real, pero no tiene rojo en la cabeza. La oropéndola india (sur de Asia) tiene el negro prolongado por detrás del ojo. La lavandera boyera y el escribano cerillo son más pequeños y viven en el suelo.",
+   "whereToSee": "Choperas y bosques de ribera de España, Francia, el delta del Danubio, Turquía y los valles fluviales de Asia central; migrante primaveral raro en el este de Inglaterra, donde crió por última vez en 2009.",
+   "season": "Estival, may–ago",
+   "order": "Passeriformes"
+  },
+  "lore": "Plinio el Viejo recogió la creencia de que un enfermo de ictericia que mirara al «icterus», un ave amarilla que suele identificarse con la oropéndola, se curaría mientras el ave moría.",
+  "funFact": "El nombre alemán «Pirol» y el neerlandés «wielewaal» son imitaciones de su canto silbado."
+ },
+ {
+  "scientific": "Morus bassanus",
+  "common": "Alcatraz atlántico",
+  "summary": "La mayor ave marina del Atlántico norte, un buceador de un blanco deslumbrante con las puntas de las alas negras y la cabeza de color mantequilla. Se zambulle desde lo alto en el mar en busca de peces y cría en enormes y abarrotadas colonias en acantilados y farallones.",
+  "nativeRange": "Atlántico norte: cría en Gran Bretaña, Irlanda, Islandia, Noruega, Francia y Canadá; inverna al sur hasta África occidental y el golfo de México, y entra en el Mediterráneo",
+  "biomes": [
+   "Mar abierto",
+   "Acantilados costeros"
+  ],
+  "abilities": [
+   "Se zambulle en picado desde hasta unos 30 m y golpea el agua a gran velocidad",
+   "Unos sacos aéreos bajo la piel de la cara y el pecho amortiguan el impacto",
+   "Carece de orificios nasales externos, lo que impide que entre agua al impactar",
+   "Sus ojos orientados hacia delante le dan visión binocular para calcular el picado"
+  ],
+  "animal": {
+   "diet": "Peces gregarios como caballas, arenques y lanzones",
+   "habitat": "Mares de plataforma continental; cría en islas y acantilados marinos",
+   "lifespan": "A menudo 15–20 años; algunos superan los 30",
+   "size": "87–100 cm; envergadura 165–180 cm; 2,3–3,6 kg",
+   "behaviour": "Las parejas se saludan en el nido apuntando al cielo con el pico y «esgrimiendo» con él, y defienden con ferocidad un minúsculo lugar de nidificación.",
+   "fieldMarks": [
+    "Ave marina grande y blanca, en forma de puro, con alas largas y estrechas",
+    "Puntas de las alas negras",
+    "Cabeza y nuca amarillo ante en los adultos",
+    "Pico en forma de daga; juveniles pardo oscuros con motitas blancas, que se van blanqueando a lo largo de cuatro o cinco años"
+   ],
+   "voice": "Silencioso en el mar; las colonias resuenan con ásperos y chirriantes reclamos «urrá».",
+   "lookalikes": "El gavión atlántico y otras grandes gaviotas tienen las alas redondeadas y carecen de la cola puntiaguda. La pardela cenicienta es parda por encima. A distancia, los juveniles pueden recordar a piqueros pardos, que en aguas europeas solo son divagantes raros.",
+   "whereToSee": "Bass Rock (Escocia), Bempton Cliffs (Inglaterra), Grassholm (Gales), St Kilda, Little Skellig (Irlanda) e isla Bonaventure (Quebec); paso mar adentro a lo largo de las costas atlánticas.",
+   "season": "En las colonias, ene–oct; paso mar adentro en otoño; en invierno, en el mar",
+   "order": "Suliformes"
+  },
+  "lore": "Su nombre científico rinde homenaje al Bass Rock escocés, una de las mayores colonias de alcatraz atlántico del mundo, y durante siglos los hombres de Ness, en Lewis, han realizado con licencia la «caza del guga», de alcatraces jóvenes, en la roca de Sula Sgeir, aunque se ha suspendido o denegado varios años desde el brote de gripe aviar de 2022.",
+  "funFact": "Tras el brote de gripe aviar de 2022, muchos alcatraces supervivientes de Bass Rock tenían el iris, antes azul pálido, vuelto negro."
+ },
+ {
+  "scientific": "Tetrao urogallus",
+  "common": "Urogallo común",
+  "summary": "El mayor tetraónido del mundo, un gallo negro del tamaño de un pavo propio de los viejos pinares, que despliega la cola y emite chasquidos, taponazos y gorgoteos en sus exhibiciones al alba. Sobrevive todo el invierno alimentándose principalmente de acículas de pino.",
+  "nativeRange": "Bosques de coníferas boreales y de montaña desde Escocia, Escandinavia, los Alpes, los Pirineos y la cordillera Cantábrica, a través de Rusia, hasta Siberia central",
+  "biomes": [
+   "Bosque boreal",
+   "Bosque templado de coníferas",
+   "Montaña"
+  ],
+  "abilities": [
+   "Sobrevive al invierno sobre todo a base de acículas de pino, que digiere con ayuda de unos largos ciegos",
+   "Los machos tienen aproximadamente el doble de tamaño que las hembras",
+   "Los machos en exhibición están tan absortos en su canto que durante unos instantes no oyen, de ahí su nombre ruso «glujar» (el sordo)",
+   "Los machos agresivos en celo atacan a veces a personas y vehículos"
+  ],
+  "animal": {
+   "diet": "Acículas de pino en invierno; hojas y bayas de arándano, yemas, brotes y semillas; insectos para los pollos",
+   "habitat": "Bosques de coníferas viejos y abiertos con un rico sotobosque de arándano",
+   "lifespan": "Normalmente hasta unos 9–12 años",
+   "size": "Machos 74–90 cm, unos 4 kg; hembras 54–63 cm, unos 1,8 kg",
+   "behaviour": "En primavera, al amanecer, los machos se reúnen en cantaderos tradicionales y se pavonean con la cola desplegada y la barba erizada.",
+   "fieldMarks": [
+    "Macho enorme, gris pizarra oscuro, con el pecho verde brillante",
+    "Cola negra redondeada y desplegada, y «barba» hirsuta en la garganta",
+    "Pico marfil y carúncula roja sobre el ojo",
+    "Hembra mucho más pequeña, parda barrada, con una mancha pectoral rojiza"
+   ],
+   "voice": "El canto nupcial del macho es una serie de chasquidos que se aceleran, terminan en un «pop» como de corcho y siguen con una frase sibilante y rasposa.",
+   "lookalikes": "El gallo lira común es más pequeño, con la cola en forma de lira y las infracoberteras caudales blancas. La hembra de urogallo puede confundirse con la de gallo lira, pero es mayor, con el pecho naranja rojizo uniforme y la cola redondeada.",
+   "whereToSee": "Bosque de Abernethy y Strathspey (Escocia), la taiga finlandesa y sueca, el Bosque Bávaro, los Alpes y los Pirineos; los cantaderos solo deben observarse en visitas guiadas.",
+   "season": "Residente; cantaderos abr–may",
+   "order": "Galliformes"
+  },
+  "lore": "Exterminado de Escocia por la caza hacia 1785, fue reintroducido desde Suecia en el castillo de Taymouth (Perthshire) en 1837; su nombre gaélico significa «caballo de los bosques».",
+  "funFact": "La población escocesa ha caído a unos pocos cientos de aves y hoy se limita en gran medida a Strathspey."
+ },
+ {
+  "scientific": "Lyrurus tetrix",
+  "common": "Gallo lira común",
+  "summary": "Un tetraónido negro azulado brillante con la cola en forma de lira, un penacho blanco bajo la cola y cejas rojas. Los machos se reúnen al amanecer en cantaderos para gorgotear y sisear en uno de los grandes espectáculos de la fauna europea.",
+  "nativeRange": "Gran Bretaña, Escandinavia, los Alpes, Europa oriental, Rusia y Siberia hasta el norte de Mongolia y el noreste de China",
+  "biomes": [
+   "Páramo",
+   "Bosque boreal",
+   "Lindes de bosque"
+  ],
+  "abilities": [
+   "Los machos se exhiben de forma colectiva en cantaderos, donde los machos dominantes del centro consiguen la mayoría de las cópulas",
+   "Se entierra en la nieve para pasar las noches frías",
+   "Se alimenta de yemas y amentos de abedul durante los inviernos duros",
+   "Los pollos dependen mucho de los insectos, sobre todo de larvas de mosca de sierra"
+  ],
+  "animal": {
+   "diet": "Yemas y amentos de abedul, brezo, arándano y acículas de coníferas; insectos para los pollos",
+   "habitat": "Bordes de páramo, bosques abiertos, claros forestales y turberas",
+   "lifespan": "Normalmente 3–5 años",
+   "size": "Machos 49–58 cm, ~1,2 kg; hembras 40–45 cm, ~0,9 kg",
+   "behaviour": "En el cantadero, los machos se agachan con las infracoberteras caudales blancas desplegadas y las alas abiertas, cargan contra sus rivales y saltan en el aire.",
+   "fieldMarks": [
+    "Macho negro azulado brillante, con la cola ahorquillada en forma de lira",
+    "Franja alar blanca e infracoberteras caudales blancas que ahueca en la exhibición",
+    "Carúnculas rojas sobre los ojos",
+    "Hembra pardo grisácea y barrada, con la cola ligeramente ahorquillada y una fina franja alar blanca"
+   ],
+   "voice": "El macho emite un gorgoteo burbujeante parecido al arrullo de una paloma y un explosivo «chu-shuiii» a modo de estornudo.",
+   "lookalikes": "El urogallo común es mucho mayor y tiene la cola redondeada. La hembra se parece a la del lagópodo escocés, pero es mayor y más gris, con la cola ahorquillada. El gallo lira caucásico (Cáucaso) tiene la cola más larga y profundamente ahorquillada, sin blanco debajo.",
+   "whereToSee": "Cantaderos en los valles de las Highlands escocesas y los Peninos, turberas de Finlandia y Suecia y los Alpes por encima del límite del bosque.",
+   "season": "Residente; cantaderos al amanecer, mar–may",
+   "order": "Galliformes"
+  },
+  "lore": "La pluma curva de la cola del macho (Spielhahnfeder) es el adorno tradicional del sombrero de los cazadores alpinos de Baviera y el Tirol.",
+  "funFact": "El gallo lira se hibrida ocasionalmente con el urogallo, dando lugar a un ave que los cazadores alemanes llaman «Rackelhahn»."
+ },
+ {
+  "scientific": "Tichodroma muraria",
+  "common": "Treparriscos",
+  "summary": "Un pequeño pájaro gris de los roquedos que abre las alas de golpe para mostrar manchas carmesí, como una mariposa, mientras trepa por paredes rocosas verticales. Es el único miembro de su familia y una de las aves más buscadas de Europa.",
+  "nativeRange": "Altas montañas desde la cordillera Cantábrica, los Pirineos y los Alpes, a través de los Balcanes, Turquía, el Cáucaso e Irán, hasta Asia central, el Himalaya y el oeste de China",
+  "biomes": [
+   "Montaña",
+   "Cortados",
+   "Gargantas"
+  ],
+  "abilities": [
+   "Trepa por paredes verticales con sus largas uñas y un continuo batir de alas",
+   "Explora las grietas en busca de arañas e insectos con su pico largo, fino y curvado hacia abajo",
+   "En invierno baja a cortados más bajos, canteras e incluso edificios antiguos",
+   "Única especie viva de la familia Tichodromidae"
+  ],
+  "animal": {
+   "diet": "Arañas, insectos y sus larvas, extraídos de las grietas de las rocas",
+   "habitat": "Cortados y gargantas húmedos, a menudo junto a cascadas, desde unos 1.000 m hasta más de 3.000 m",
+   "size": "15,5–17 cm; 15–19 g",
+   "behaviour": "Sube por la pared a saltitos bruscos con las alas entreabiertas y luego se deja caer revoloteando para volver a empezar.",
+   "fieldMarks": [
+    "Cuerpo gris ceniza y cola corta negra",
+    "Alas anchas y redondeadas con grandes manchas carmesí y motas blancas",
+    "Pico negro largo, fino y curvado hacia abajo",
+    "El macho reproductor tiene la garganta negra; blanca en invierno"
+   ],
+   "voice": "Canto: una serie de silbidos finos y ascendentes, «tu-tu-tuiii»; por lo demás, casi siempre silencioso.",
+   "lookalikes": "Ningún otro ave tiene su aspecto. A distancia, en vuelo, puede recordar a una mariposa grande o a una abubilla, pero la abubilla es mucho mayor y tiene cresta.",
+   "whereToSee": "Gargantas de los Pirineos (Ordesa), los Alpes suizos e italianos, los Picos de Europa, los montes Tauro y el Cáucaso; en invierno, en castillos y canteras del sur de Europa.",
+   "season": "Residente en altura; baja en invierno (oct–mar)",
+   "order": "Passeriformes"
+  },
+  "lore": "Su nombre científico, acuñado por Johann Illiger en 1811, combina el griego «teichos» (muro) y «dromos» (corredor); Linneo lo había incluido entre los agateadores como Certhia muraria.",
+  "funFact": "A diferencia de agateadores y trepadores, no usa la cola como apoyo al trepar."
+ },
+ {
+  "scientific": "Garrulus glandarius",
+  "common": "Arrendajo euroasiático",
+  "summary": "Un córvido forestal colorido y tímido, pardo rosado, con el obispillo blanco y una deslumbrante mancha alar barrada de azul. Cada otoño entierra miles de bellotas, y las que olvida germinan y dan lugar a nuevos robledales.",
+  "nativeRange": "Europa, norte de África, Turquía, Oriente Próximo, el Cáucaso y Asia central, a través de Asia, hasta Japón y el Sudeste Asiático",
+  "biomes": [
+   "Bosque templado",
+   "Bosque abierto",
+   "Jardines y parques"
+  ],
+  "abilities": [
+   "Un solo arrendajo puede esconder varios miles de bellotas en un otoño",
+   "Recuerda la ubicación de sus escondites meses después, incluso bajo la nieve",
+   "Sus escondites olvidados son una vía principal por la que los robles se extienden ladera arriba y hacia terrenos abiertos",
+   "Hábil imitador de otras aves, sobre todo de busardos y rapaces nocturnas"
+  ],
+  "animal": {
+   "diet": "Bellotas, hayucos y otras semillas; insectos, huevos y pollos de otras aves en verano",
+   "habitat": "Robledales y bosques mixtos, parques y grandes jardines",
+   "lifespan": "Normalmente unos 4–5 años",
+   "size": "34–35 cm; envergadura 52–58 cm; 140–190 g",
+   "behaviour": "Transporta varias bellotas a la vez en el buche y el pico, y las va hundiendo en el suelo una a una y cubriéndolas con hojas.",
+   "fieldMarks": [
+    "Cuerpo ante rosado con un obispillo blanco brillante que contrasta con la cola negra",
+    "Mancha en el ala barrada de azul y negro",
+    "Bigotera negra y cresta listada",
+    "Alas redondeadas y flojas en vuelo"
+   ],
+   "voice": "Un chillido áspero y desgarrado, «skaaak», el grito de alarma del bosque; también suaves maullidos e imitaciones.",
+   "lookalikes": "Ningún otro ave europea combina el obispillo blanco y la mancha alar azul. La abubilla también muestra un diseño blanco y negro en vuelo, pero tiene el pico largo y curvo y una cresta en abanico. Las razas de Oriente Próximo tienen el píleo negro.",
+   "whereToSee": "Robledales de toda Europa, más visible en septiembre y octubre, cuando transporta bellotas.",
+   "season": "Residente; ocasionales irrupciones masivas en otoño cuando falla la cosecha de bellotas",
+   "order": "Passeriformes"
+  },
+  "lore": "El epíteto «glandarius» significa «de las bellotas»; las plumas azules del ala se vendían a sombrereras victorianas y a montadores de moscas de pesca, y los guardas de caza perseguían a los arrendajos como ladrones de huevos.",
+  "funFact": "Estudios realizados en Cambridge demostraron que los machos de arrendajo eligen los regalos de comida para su pareja según lo que la hembra ha comido recientemente, lo que sugiere que tienen en cuenta los deseos de otra ave."
+ },
+ {
+  "scientific": "Pica pica",
+  "common": "Urraca común",
+  "summary": "Un córvido blanco y negro, atrevido y de cola larga, con brillos iridiscentes azules y verdes. Inteligente y adaptable, es un ave familiar de campos y ciudades, rodeada de siglos de supersticiones.",
+  "nativeRange": "Europa, Turquía, Oriente Próximo y Asia central hasta Siberia; las aves del norte de África, el suroeste de Arabia y Asia oriental se consideran a menudo especies distintas",
+  "biomes": [
+   "Tierras de cultivo",
+   "Bosque abierto",
+   "Jardines y parques",
+   "Medio urbano"
+  ],
+  "abilities": [
+   "En 2008 se convirtió en el primer animal no mamífero en el que se demostró que se reconoce en un espejo",
+   "Construye un gran nido abovedado de ramas con una taza revestida de barro",
+   "Esconde comida y la cambia de sitio si otras urracas la han visto",
+   "Prospera en ciudades y campos de gran parte de Eurasia"
+  ],
+  "animal": {
+   "diet": "Omnívora: insectos, grano, fruta, carroña, pequeños animales, huevos y pollos",
+   "habitat": "Campo abierto con árboles dispersos y setos, parques y zonas residenciales",
+   "lifespan": "Normalmente 3–5 años",
+   "size": "40–51 cm incluida la cola; envergadura 52–60 cm; 160–250 g",
+   "behaviour": "A finales del invierno se reúne en ruidosos grupos y acosa a gatos, zorros y rapaces nocturnas.",
+   "fieldMarks": [
+    "Cabeza, pecho y dorso negros, con el vientre y los hombros blancos",
+    "Cola muy larga y escalonada con brillos verdes y púrpuras",
+    "Alas con brillo azul y primarias blancas que destellan en vuelo",
+    "Pico y patas negros y robustos"
+   ],
+   "voice": "Un parloteo sonoro, rápido y a modo de carraca, «chac-chac-chac-chac».",
+   "lookalikes": "Ningún otro ave europea tiene la misma silueta y diseño. El rabilargo ibérico es más pequeño, con capirote negro y alas y cola azul pálido. La urraca magrebí (norte de África) tiene piel desnuda azul detrás del ojo.",
+   "whereToSee": "Campos, parques y zonas residenciales de toda Europa, Turquía y Asia central.",
+   "season": "Residente",
+   "order": "Passeriformes"
+  },
+  "lore": "La cancioncilla británica para contar urracas «One for sorrow, two for joy» (una para la pena, dos para la alegría) se documenta por primera vez en el siglo XVIII, y la ópera de Rossini «La gazza ladra» (La urraca ladrona, 1817) consolidó su fama de ladrona.",
+  "funFact": "Un estudio de la Universidad de Exeter de 2014 descubrió que las urracas silvestres en realidad desconfían de los objetos brillantes, lo que contradice el mito de la urraca ladrona."
+ },
+ {
+  "scientific": "Falco cherrug",
+  "common": "Halcón sacre",
+  "summary": "Un halcón grande y poderoso de estepas y semidesiertos, apreciado desde hace milenios por los cetreros desde Arabia hasta Mongolia. La electrocución en tendidos eléctricos y la captura para el comercio de cetrería lo han llevado a la categoría En Peligro.",
+  "nativeRange": "Cría desde Europa central (Hungría, Eslovaquia, Austria), a través de Ucrania, Turquía, Rusia, Kazajistán y Asia central, hasta Mongolia y China; inverna al sur hasta Oriente Próximo, el noreste de África y el sur de Asia",
+  "biomes": [
+   "Estepa",
+   "Semidesierto",
+   "Tierras de cultivo",
+   "Montaña"
+  ],
+  "abilities": [
+   "Caza ardillas terrestres (suslik) a ras de suelo con persecuciones rápidas y bajas",
+   "Adiestrado, puede capturar presas tan grandes como hubaras",
+   "Utiliza nidos construidos por otras aves, también en torres eléctricas",
+   "Cría con facilidad en cajas nido artificiales instaladas en torres eléctricas, una herramienta de conservación clave en Hungría y Mongolia"
+  ],
+  "animal": {
+   "diet": "Ardillas terrestres, topillos, picas y hámsteres; aves como palomas y perdices",
+   "habitat": "Estepa abierta, estepa arbolada, semidesierto y campos de cultivo con torres eléctricas",
+   "lifespan": "Normalmente menos de 10 años en libertad; más de 20 en cautividad",
+   "size": "47–57 cm; envergadura 97–126 cm; machos 730–990 g, hembras 970–1.300 g",
+   "behaviour": "Caza con un vuelo rápido que sigue el relieve del terreno, sorprendiendo a los mamíferos antes de que alcancen sus madrigueras.",
+   "fieldMarks": [
+    "Halcón grande y pardo, con la cabeza clara, a menudo blanquecina, y listada",
+    "Bigotera fina y poco marcada",
+    "Partes superiores pardas con bordes rojizos; partes inferiores muy listadas",
+    "Cola larga y alas de base ancha; las coberteras inferiores oscuras contrastan con las plumas de vuelo más claras"
+   ],
+   "voice": "Un áspero «kiac-kiac-kiac» de regaño cerca del nido.",
+   "lookalikes": "El halcón peregrino es pizarra más oscuro por encima, con una bigotera muy marcada y las partes inferiores barradas. El halcón borní (Mediterráneo, África) es más pequeño y tiene el píleo rojizo. El halcón gerifalte (Ártico) es más pesado y barrado por encima.",
+   "whereToSee": "Llanuras de Hortobágy y Kiskunság (Hungría), estepa kazaja, estepa mongola; en migración en Batumi y en Oriente Próximo.",
+   "season": "Residente en Europa central; las poblaciones del norte y el este son migradoras e invernan de oct a mar",
+   "order": "Falconiformes"
+  },
+  "lore": "Mongolia declaró al sacre ave nacional en 2012, y en Hungría se identifica ampliamente con el Turul, el ave mítica de la leyenda fundacional de los magiares.",
+  "funFact": "Un proyecto mongol que instaló miles de nidos artificiales en la estepa abierta creó una nueva y numerosa población reproductora de sacres."
+ },
+ {
+  "scientific": "Grus virgo",
+  "common": "Grulla damisela",
+  "summary": "La más pequeña de las grullas, elegante y gris, con el pecho negro y penachos blancos que caen por detrás de los ojos. Las poblaciones esteparias cruzan el Himalaya y los desiertos de Oriente Próximo para invernar en la India y África.",
+  "nativeRange": "Cría en las estepas desde Ucrania y el sur de Rusia, a través de Kazajistán y Asia central, hasta Mongolia y China; unas pocas en Turquía; antes criaba en el Atlas marroquí; inverna en el sur de Asia y el África subsahariana",
+  "biomes": [
+   "Estepa",
+   "Semidesierto",
+   "Humedales"
+  ],
+  "abilities": [
+   "Sobrevuela el Himalaya a gran altitud en su migración hacia la India",
+   "A diferencia de la mayoría de las grullas, anida en la estepa seca, a menudo lejos del agua",
+   "Se reúne en bandos invernales de miles de aves",
+   "Las parejas danzan con saltos y reverencias como las grullas mayores"
+  ],
+  "animal": {
+   "diet": "Semillas, grano y brotes; insectos, lagartijas y gusanos",
+   "habitat": "Estepas herbáceas y arbustivas y semidesiertos cerca de arroyos; campos de cultivo en invierno",
+   "size": "85–100 cm de longitud; envergadura 155–180 cm; 2–3 kg",
+   "behaviour": "Las parejas ejecutan danzas elegantes, y los bandos invernales bajan a los campos con sonoros reclamos trompeteantes.",
+   "fieldMarks": [
+    "Grulla pequeña y esbelta, gris azulada",
+    "Cabeza, cuello y largas plumas pectorales colgantes negros",
+    "Mechones de plumas blancas detrás del ojo",
+    "Pico corto; cola gris sin penacho abultado"
+   ],
+   "voice": "Un trompeteo más agudo y más seco que el de la grulla común, «krrro-krrro».",
+   "lookalikes": "La grulla común es mayor, con una franja blanca en el cuello, píleo rojo y penacho caudal abultado. La garza real vuela con el cuello recogido.",
+   "whereToSee": "Estepas de Kalmukia y Kazajistán en verano; la aldea de Khichan (Rajastán) y las llanuras de inundación del Indo en Pakistán en invierno; paso por Pakistán y Arabia.",
+   "season": "Estival en las estepas de cría, abr–sep; invernante en el sur de Asia y África, oct–mar",
+   "order": "Gruiformes"
+  },
+  "lore": "En las canciones populares del Punjab, Sind y Rajastán la «koonj» es una mensajera y una metáfora de la mujer lejos de su hogar, y los aldeanos de Khichan (Rajastán) llevan generaciones alimentando con grano a los bandos invernantes.",
+  "funFact": "A diferencia de la mayoría de las grullas, suele anidar en terreno seco lejos del agua, y pone los huevos entre unos pocos guijarros, casi sin nido."
+ },
+ {
+  "scientific": "Platalea leucorodia",
+  "common": "Espátula común",
+  "summary": "Una zancuda blanca de pico largo y plano que se ensancha en forma de cuchara en la punta. Se alimenta barriendo el agua somera con el pico de lado a lado y cerrándolo de golpe sobre cualquier cosa que toque.",
+  "nativeRange": "Cría de forma dispersa desde los Países Bajos, España y el Danubio, a través de Oriente Próximo y Asia central, hasta China y la India; también en el Banc d'Arguin y el mar Rojo; inverna en África occidental, el Mediterráneo, Oriente Próximo y el sur de Asia",
+  "biomes": [
+   "Humedales",
+   "Estuarios",
+   "Lagos"
+  ],
+  "abilities": [
+   "Detecta las presas por el tacto gracias a receptores sensoriales en su pico espatulado",
+   "Se alimenta de día y de noche barriendo el agua y el fango",
+   "Los pollos nacen con el pico recto y corto, y la cuchara se desarrolla a medida que crecen",
+   "Ha recolonizado Gran Bretaña, donde cría en Holkham (Norfolk) desde 2010"
+  ],
+  "animal": {
+   "diet": "Peces pequeños, camarones, insectos acuáticos, renacuajos y moluscos",
+   "habitat": "Marismas someras, lagunas, carrizales y estuarios",
+   "lifespan": "A menudo más de 10 años",
+   "size": "80–93 cm; envergadura 115–135 cm; 1,1–2 kg",
+   "behaviour": "Las aves vadean en fila mientras se alimentan, balanceando la cabeza de lado a lado en un arco de barrido.",
+   "fieldMarks": [
+    "Plumaje totalmente blanco",
+    "Pico negro largo con la punta amarilla en forma de cuchara",
+    "Los adultos reproductores tienen una cresta tupida y una mancha ocre amarillenta en el pecho",
+    "Vuela con el cuello estirado, a diferencia de las garcetas"
+   ],
+   "voice": "Casi siempre silenciosa; gruñidos graves en las colonias.",
+   "lookalikes": "La garceta común y la garceta grande tienen el pico puntiagudo y vuelan con el cuello recogido. La espátula africana (África) tiene la cara y las patas rojas.",
+   "whereToSee": "Texel y el mar de Frisia (Países Bajos), Doñana (España), el delta del Danubio, el lago Kerkini (Grecia), el Banc d'Arguin (Mauritania) y Holkham (Inglaterra).",
+   "season": "Estival en el norte de Europa; residente o invernante en el sur y Oriente Próximo",
+   "order": "Pelecaniformes"
+  },
+  "lore": "Las espátulas criaron en Inglaterra hasta el siglo XVII y figuran en cuentas medievales como «shovelars» servidas en banquetes; su regreso en el siglo XXI siguió a la recuperación de la población neerlandesa.",
+  "funFact": "La población neerlandesa cayó a unas 150 parejas a finales de la década de 1960 y desde entonces ha crecido hasta varios miles de parejas."
+ },
+ {
+  "scientific": "Streptopelia turtur",
+  "common": "Tórtola europea",
+  "summary": "Una paloma pequeña de diseño delicado cuyo suave ronroneo fue en otro tiempo un sonido característico del verano europeo. Inverna en el Sahel y ha sufrido un grave declive por la pérdida de hábitat y la caza durante la migración.",
+  "nativeRange": "Cría en Europa, el norte de África, Turquía, Oriente Próximo y Asia central hasta el oeste de China; inverna en el África subsahariana, al sur del Sáhara",
+  "biomes": [
+   "Tierras de cultivo",
+   "Lindes de bosque",
+   "Matorral"
+  ],
+  "abilities": [
+   "Una de las pocas palomas europeas que realiza una migración de larga distancia a través del Sáhara",
+   "Se alimenta sobre todo de pequeñas semillas de malas hierbas de los cultivos, como la fumaria",
+   "Emite un suave canto ronroneante en lugar de un arrullo",
+   "El seguimiento por satélite muestra que las aves occidentales invernan en el Sahel, de Senegal a Malí"
+  ],
+  "animal": {
+   "diet": "Semillas de malas hierbas y cereales",
+   "habitat": "Campos de cultivo con setos altos, matorral, lindes de bosque y huertos frutales",
+   "lifespan": "Normalmente 2–3 años",
+   "size": "26–28 cm; envergadura 47–53 cm; 100–180 g",
+   "behaviour": "Se alimenta tranquilamente en el suelo y sale volando rápida y baja con un aleteo brusco.",
+   "fieldMarks": [
+    "Dorso naranja rojizo con plumas festoneadas de centro negro",
+    "Mancha listada de blanco y negro a cada lado del cuello",
+    "Pecho rosado y cabeza gris azulada",
+    "Cola oscura con borde blanco, muy visible en vuelo"
+   ],
+   "voice": "Un suave ronroneo rodado, «turrr-turrr», repetido con tono adormilado.",
+   "lookalikes": "La tórtola turca es mayor, de un gris arenoso uniforme, con un único semicollar negro. La tórtola oriental (Siberia, Asia central) es mayor y más oscura. La tórtola senegalesa (Oriente Próximo) es más pequeña y tiene una banda pectoral moteada.",
+   "whereToSee": "Campos de cultivo mediterráneos de España, Marruecos y Turquía; setos de Suffolk y Essex en Inglaterra; intenso paso sobre Malta y Chipre.",
+   "season": "Estival, abr–sep",
+   "order": "Columbiformes"
+  },
+  "lore": "El Cantar de los Cantares (2:12) proclama que «la voz de la tórtola se oye en nuestra tierra», y en la poesía persa y urdu la qomri o fakhta canta para el ciprés; «tórtola» procede del latín «turtur», una imitación de su ronroneo.",
+  "funFact": "La población del Reino Unido ha caído más de un 90 % desde 1970, y en 2015 se catalogó a escala mundial como Vulnerable."
+ },
+ {
+  "scientific": "Neophron percnopterus",
+  "common": "Alimoche común",
+  "summary": "Un buitre pequeño y blanco, con la cara amarilla desnuda y una melena desgreñada. Es una de las pocas aves que usan herramientas, pues lanza piedras para romper huevos de avestruz, y migra entre Europa y África.",
+  "nativeRange": "Sur de Europa, norte de África, Oriente Próximo, Asia central, el subcontinente indio y el África subsahariana; las aves europeas y de Asia central invernan en África y Arabia",
+  "biomes": [
+   "Montaña",
+   "Semidesierto",
+   "Sabana",
+   "Tierras de cultivo"
+  ],
+  "abilities": [
+   "Lanza piedras contra los huevos de avestruz para romperlos, un famoso caso de uso de herramientas en aves",
+   "Usa ramitas para enrollar lana con la que tapiza el nido",
+   "Come excrementos de ganado, posiblemente por los carotenoides que colorean su cara",
+   "Los migrantes cruzan el Mediterráneo por puntos estrechos como Gibraltar y el Bósforo"
+  ],
+  "animal": {
+   "diet": "Carroña, restos, huevos, pequeños animales, insectos y excrementos",
+   "habitat": "Montañas y cortados cerca de campo abierto, pueblos y vertederos",
+   "size": "55–65 cm; envergadura 155–170 cm; 1,6–2,4 kg",
+   "behaviour": "Rebusca restos en cadáveres y vertederos, esperando su turno tras los buitres mayores.",
+   "fieldMarks": [
+    "Adulto blanco sucio con las plumas de vuelo negras",
+    "Cara desnuda amarillo anaranjada y pico fino y ganchudo",
+    "Cola blanca en forma de cuña",
+    "Juveniles pardo oscuros, que se van blanqueando a lo largo de unos cinco años"
+   ],
+   "voice": "Normalmente silencioso; maullidos y siseos ocasionales.",
+   "lookalikes": "La cigüeña blanca tiene las patas más largas y el pico rojo. El buitre leonado es mucho mayor y pardo. La fase clara del aguililla calzada tiene la cola recta y la cabeza emplumada.",
+   "whereToSee": "Sierras españolas (Monfragüe, Picos de Europa), los Balcanes, Socotra (Yemen) y Omán; migración en Gibraltar, Belén (Turquía) y Eilat.",
+   "season": "Estival en Europa, mar–sep; residente en África, Arabia y el sur de Asia",
+   "order": "Accipitriformes"
+  },
+  "lore": "El jeroglífico del sonido «aleph» (Gardiner G1) representa a este buitre, y su costumbre de seguir a las personas le valió el apodo de «gallina del faraón».",
+  "funFact": "Jane Goodall y Hugo van Lawick describieron por primera vez su lanzamiento de piedras en Tanzania en 1966."
+ },
+ {
+  "scientific": "Geronticus eremita",
+  "common": "Ibis eremita",
+  "summary": "Un ibis negro brillante con la cara roja desnuda, una gorguera desgreñada y un pico rojo curvado. Antaño extendido por Europa, Oriente Próximo y el norte de África, sobrevive en libertad sobre todo en la costa atlántica de Marruecos, con poblaciones reintroducidas en Europa.",
+  "nativeRange": "Colonias silvestres en Souss-Massa (Marruecos); colonia semisalvaje en Birecik (Turquía); reintroducido en Austria, Alemania, Italia y España; antes en Siria, Europa central y el norte de África",
+  "biomes": [
+   "Acantilados costeros",
+   "Semidesierto",
+   "Estepa",
+   "Tierras de cultivo"
+  ],
+  "abilities": [
+   "Anida en colonias en repisas de acantilados",
+   "Sondea el suelo de los pastizales secos en busca de insectos y pequeños reptiles",
+   "Aves europeas reintroducidas han aprendido una ruta migratoria siguiendo a avionetas ultraligeras",
+   "El vuelo en formación ahorra energía, como se ha estudiado en esta especie"
+  ],
+  "animal": {
+   "diet": "Escarabajos, larvas, gusanos, lagartijas y otros pequeños animales",
+   "habitat": "Costas rocosas, acantilados y estepas y cultivos semiáridos",
+   "size": "70–80 cm; envergadura 125–135 cm; 1–1,5 kg",
+   "behaviour": "Se alimenta en bandos laxos, sondeando el suelo con su pico curvo mientras camina.",
+   "fieldMarks": [
+    "Plumaje negro con brillos verdes y púrpuras",
+    "Cara y cabeza rojas desnudas",
+    "Pico rojo largo y curvado",
+    "Gorguera desgreñada de plumas en la nuca"
+   ],
+   "voice": "Un gutural «jioh» o «chrup» y diversos graznidos en la colonia.",
+   "lookalikes": "El morito común es más esbelto, con la cabeza emplumada y el pico más oscuro. Los cormoranes vuelan con el pico recto. El ibis calvo solo vive en el sur de África.",
+   "whereToSee": "Parque Nacional de Souss-Massa y Tamri (Marruecos), Birecik (Turquía) y aves reintroducidas en Austria y la Toscana.",
+   "season": "Residente en Marruecos; las aves europeas reintroducidas migran a la Toscana para invernar",
+   "order": "Pelecaniformes"
+  },
+  "lore": "El jeroglífico egipcio «akh», que significa espíritu o ser luminoso, representa a este ibis, y en Birecik se creía tradicionalmente que guiaba a los peregrinos hacia La Meca.",
+  "funFact": "Conrad Gessner lo describió en Suiza en 1555, pero tras desaparecer de Europa se le tuvo por un ave mítica hasta que fue redescubierto en Oriente Próximo."
+ },
+ {
+  "scientific": "Fratercula arctica",
+  "common": "Frailecillo atlántico",
+  "summary": "Un pequeño álcido de pico enorme y colorido que anida en madrigueras en acantilados marinos cubiertos de hierba. «Vuela» bajo el agua para capturar pececillos y los trae de vuelta atravesados en el pico.",
+  "nativeRange": "Atlántico norte: cría desde Bretaña, Gran Bretaña e Irlanda hasta Islandia, Noruega, las Feroe y Svalbard, y desde Maine hasta Groenlandia; inverna en el mar, al sur hasta Canarias y el Mediterráneo occidental",
+  "biomes": [
+   "Mar abierto",
+   "Acantilados costeros",
+   "Islas"
+  ],
+  "abilities": [
+   "Transporta una docena de peces o más a la vez, sujetos contra unas púas de la lengua y el paladar",
+   "Bucea hasta varias decenas de metros de profundidad, propulsado por las alas",
+   "Excava madrigueras con el pico y las patas en el césped de lo alto de los acantilados",
+   "La vaina de su pico emite fluorescencia bajo la luz ultravioleta"
+  ],
+  "animal": {
+   "diet": "Lanzones, espadines, capelanes y otros peces pequeños",
+   "habitat": "Mar abierto; cría en islas y acantilados con césped blando",
+   "lifespan": "A menudo más de 20 años",
+   "size": "26–29 cm; envergadura 47–63 cm; 320–550 g",
+   "behaviour": "Las parejas se reencuentran cada año en la misma madriguera y se saludan entrechocando los picos.",
+   "fieldMarks": [
+    "Partes superiores y collar negros, cara y partes inferiores blancas",
+    "Pico grande y triangular, listado de rojo, amarillo y gris azulado en verano",
+    "Patas y pies anaranjados",
+    "Vuelo rápido y zumbante a baja altura sobre el mar"
+   ],
+   "voice": "Un gruñido grave, «arr-arr», desde el interior de las madrigueras; silencioso en el mar.",
+   "lookalikes": "El alca común y los araos son mayores, de pico más fino y sin colores en él. El mérgulo atlántico es diminuto, con un pico negro rechoncho. En invierno, el pico y la cara del frailecillo son más apagados.",
+   "whereToSee": "Skomer (Gales), las islas Farne y la isla de May (Gran Bretaña), Látrabjarg y las islas Westman (Islandia), Runde (Noruega) y la isla Machias Seal (Canadá/EE. UU.).",
+   "season": "En las colonias, finales de mar–principios de ago; en el mar en invierno",
+   "order": "Charadriiformes"
+  },
+  "lore": "La isla de Lundy, en el canal de Bristol, toma su nombre de la palabra nórdica «lundi», frailecillo, y en la Inglaterra medieval su carne, con sabor a pescado, se aceptaba a veces como alimento de Cuaresma.",
+  "funFact": "Las coloridas placas externas del pico se desprenden tras la época de cría, y en invierno queda un pico más pequeño y apagado."
+ },
+ {
+  "scientific": "Coracias garrulus",
+  "common": "Carraca europea",
+  "summary": "Un ave del tamaño de un arrendajo, de un turquesa brillante y castaño, que acecha insectos desde cables y árboles secos. Su nombre inglés («roller») alude a su vuelo nupcial con giros y volteretas, y migra al sur de África para invernar.",
+  "nativeRange": "Cría en el sur y el este de Europa, el norte de África, Turquía, Oriente Próximo y Asia central hasta el oeste de China y Cachemira; inverna en África oriental y meridional",
+  "biomes": [
+   "Estepa",
+   "Tierras de cultivo",
+   "Bosque mediterráneo",
+   "Sabana"
+  ],
+  "abilities": [
+   "En primavera realiza un picado nupcial con volteretas y giros",
+   "Los pollos vomitan un líquido anaranjado maloliente para disuadir a los depredadores",
+   "Anida en huecos de árboles, taludes y cajas nido, a menudo en viejos agujeros de pícidos",
+   "Migra describiendo circuitos en bucle a través de África oriental y Arabia"
+  ],
+  "animal": {
+   "diet": "Insectos grandes como escarabajos y saltamontes; lagartijas y pequeños roedores",
+   "habitat": "Campo abierto con árboles viejos, estepas y campos de cultivo con árboles dispersos",
+   "size": "29–32 cm; envergadura 52–58 cm; 127–160 g",
+   "behaviour": "Se posa erguida en un posadero alto y se deja caer al suelo para atrapar presas.",
+   "fieldMarks": [
+    "Cabeza y partes inferiores turquesa brillante",
+    "Dorso castaño",
+    "Plumas de vuelo azul violáceo intenso y negras, que destellan en vuelo",
+    "Pico negro robusto"
+   ],
+   "voice": "Un áspero «rac-cac» como de córvido y un «crac-crac-crac» a modo de carraca en la exhibición.",
+   "lookalikes": "La carraca india (Oriente Próximo, sur de Asia) tiene el pecho rosa rojizo y la garganta púrpura. El abejaruco papirrojo es verde y más esbelto. El abejaruco europeo tiene el pico largo y curvo y plumas centrales de la cola alargadas.",
+   "whereToSee": "Extremadura y el valle del Ebro (España), la Crau y la Camarga (Francia), Hungría, los Balcanes, Turquía y las estepas de Asia central; en paso por África oriental.",
+   "season": "Estival, abr/may–ago",
+   "order": "Coraciiformes"
+  },
+  "lore": "Su nombre persa, «sabzqaba», significa «túnica verde», y el «garrulus» (parlanchín) de Linneo se refiere a sus ásperos reclamos.",
+  "funFact": "Estudios realizados en España mostraron que el vómito anaranjado de los pollos de carraca disuade a los depredadores y podría alertar a los progenitores del peligro."
+ },
+ {
+  "scientific": "Dryocopus martius",
+  "common": "Picamaderos negro",
+  "summary": "El mayor pícido de Europa, del tamaño de una corneja, enteramente negro con el píleo rojo. Los grandes agujeros ovalados que talla en árboles viejos se convierten en hogar de rapaces nocturnas, palomas zuritas, murciélagos y martas.",
+  "nativeRange": "Bosques desde España y Francia, a través de Europa, Turquía y el Cáucaso, y por Rusia y Siberia hasta Japón y el norte de China",
+  "biomes": [
+   "Bosque templado",
+   "Bosque boreal",
+   "Montaña"
+  ],
+  "abilities": [
+   "Excava grandes nidos ovalados que muchas otras especies utilizan después",
+   "Destroza tocones y troncos podridos para llegar a las hormigas carpinteras",
+   "Tamborilea con fuerza en troncos resonantes para anunciar su territorio",
+   "Sus viejos agujeros son lugares de nidificación clave para el mochuelo boreal, la paloma zurita y el porrón osculado"
+  ],
+  "animal": {
+   "diet": "Hormigas carpinteras y larvas de escarabajos xilófagos; algunas bayas",
+   "habitat": "Bosques maduros de coníferas, hayedos y bosques mixtos con árboles grandes y viejos",
+   "size": "40–46 cm; envergadura 67–73 cm; 250–370 g",
+   "behaviour": "Deja grandes excavaciones rectangulares en la base de árboles y tocones infestados de hormigas.",
+   "fieldMarks": [
+    "Plumaje totalmente negro, del tamaño de una corneja",
+    "El macho tiene el píleo rojo desde el pico hasta la nuca; la hembra, solo la parte posterior",
+    "Pico marfil pálido y ojo claro",
+    "Vuelo recto y con aleteos flojos, no marcadamente ondulante"
+   ],
+   "voice": "Un potente y silbante «krii-krii-krii» en vuelo, un lastimero «kliii-a» cuando está posado; tamborileo largo y potente.",
+   "lookalikes": "La corneja negra y la grajilla occidental carecen de píleo rojo y de pico claro, y no trepan por los troncos. El pito real es verde con un capirote rojo. El pito cano es mucho más pequeño y verde.",
+   "whereToSee": "Bosque de Białowieża (Polonia/Bielorrusia), el Bosque Bávaro, los Pirineos, los bosques alpinos y la taiga finlandesa.",
+   "season": "Residente; tamborileos y reclamos más frecuentes de feb a abr",
+   "order": "Piciformes"
+  },
+  "lore": "El epíteto «martius» lo vincula con Marte, el dios romano cuya ave sagrada era el pájaro carpintero, y los primeros naturalistas lo llamaban «gran pájaro carpintero negro».",
+  "funFact": "Un solo agujero de nido de picamaderos negro puede ser reutilizado por otros animales que crían en cavidades durante décadas después de que el pájaro carpintero lo abandone."
+ },
+ {
+  "scientific": "Athene noctua",
+  "common": "Mochuelo europeo",
+  "summary": "Una pequeña rapaz nocturna de cabeza aplanada, con feroces ojos amarillos y «cejas» blancas, que a menudo está activa de día, cabeceando sobre postes y muros. Fue la lechuza sagrada de Atenea y el emblema de la antigua Atenas.",
+  "nativeRange": "Europa, norte de África, Oriente Próximo y Asia central hasta Mongolia y China; introducido en Gran Bretaña en el siglo XIX y en Nueva Zelanda",
+  "biomes": [
+   "Tierras de cultivo",
+   "Estepa",
+   "Semidesierto",
+   "Matorral mediterráneo"
+  ],
+  "abilities": [
+   "Caza tanto de día como de noche, corriendo tras sus presas por el suelo",
+   "Cabecea y balancea el cuerpo cuando se alarma",
+   "Anida en huecos de árboles, muros, madrigueras de conejo y cajas nido",
+   "Tolera el calor y la aridez en los bordes del desierto"
+  ],
+  "animal": {
+   "diet": "Escarabajos, lombrices, topillos, ratones, pájaros pequeños y lagartijas",
+   "habitat": "Campos abiertos con árboles viejos, huertos frutales, muros de piedra, ruinas y semidesiertos rocosos",
+   "lifespan": "Normalmente 3–5 años",
+   "size": "21–23 cm; envergadura 54–58 cm; 160–250 g",
+   "behaviour": "De día se posa al descubierto en postes y tejados, y cabecea arriba y abajo cuando se le molesta.",
+   "fieldMarks": [
+    "Rapaz nocturna pequeña y rechoncha, de alas redondeadas y cabeza aplanada",
+    "Plumaje pardo moteado de blanco",
+    "Ojos amarillos con cejas blancas que le dan un aire ceñudo",
+    "Vuelo ondulante, a saltos, como el de un pájaro carpintero"
+   ],
+   "voice": "Un lastimero y ascendente «kiu» o «gu-ec», y un agudo «kip-kip» de alarma.",
+   "lookalikes": "El autillo europeo es más pequeño, más gris y tiene penachos auriculares. El mochuelo boreal tiene un disco facial claro con borde oscuro y vive en el bosque. El cárabo común es mucho mayor y de ojos oscuros.",
+   "whereToSee": "Olivares y campos de cultivo de España, Italia y Grecia; sauces desmochados de los Países Bajos y Bélgica; campos del centro de Inglaterra; ruinas de Oriente Próximo.",
+   "season": "Residente",
+   "order": "Strigiformes"
+  },
+  "lore": "La lechuza de los tetradracmas de plata atenienses del siglo V a. C. es un mochuelo, origen del proverbio «llevar lechuzas a Atenas», y la moneda griega moderna de un euro aún reproduce el diseño.",
+  "funFact": "Los mochuelos fueron introducidos en Inglaterra desde los Países Bajos por terratenientes victorianos como lord Lilford a finales del siglo XIX."
+ },
+ {
+  "scientific": "Aquila adalberti",
+  "common": "Águila imperial ibérica",
+  "summary": "Un águila oscura y poderosa con brillantes manchas blancas en los hombros, presente solo en la península ibérica. Salvada de la casi extinción en la década de 1970, se ha convertido en una de las grandes recuperaciones de la conservación en Europa, aunque sigue siendo Vulnerable.",
+  "nativeRange": "Endémica de la península ibérica (centro y suroeste de España, sur de Portugal); ha criado ocasionalmente en Marruecos",
+  "biomes": [
+   "Bosque mediterráneo",
+   "Dehesa",
+   "Bordes de humedales"
+  ],
+  "abilities": [
+   "Se especializa en conejos, y su éxito reproductor sigue la abundancia de conejos",
+   "Construye grandes nidos de ramas en alcornoques y pinos",
+   "Los adultos mantienen territorios todo el año",
+   "Los jóvenes vagan ampliamente por la península antes de asentarse"
+  ],
+  "animal": {
+   "diet": "Principalmente conejo europeo; también liebres, perdices, palomas, patos y carroña",
+   "habitat": "Encinares y alcornocales abiertos (dehesa), matorral mediterráneo y pinares cerca de marismas",
+   "size": "72–85 cm; envergadura 177–220 cm; 2,5–4,8 kg",
+   "behaviour": "A finales del invierno, las parejas se remontan juntas sobre su territorio con vuelos nupciales ondulantes.",
+   "fieldMarks": [
+    "Cuerpo pardo muy oscuro, con el píleo y la nuca ante dorado pálido",
+    "Llamativas manchas blancas en los hombros y en el borde de ataque del ala",
+    "Cola gris con una ancha banda terminal oscura",
+    "Juveniles ante leonado pálido con las plumas de vuelo oscuras"
+   ],
+   "voice": "Un grave «ouc-ouc-ouc» a modo de ladrido.",
+   "lookalikes": "El águila imperial oriental (Europa oriental, Asia central) tiene manchas blancas más pequeñas en los hombros y carece de borde de ataque blanco. El águila real tiene la cola más larga y no tiene hombros blancos. Los juveniles se parecen a los del águila imperial oriental, pero carecen de listas.",
+   "whereToSee": "Parque Nacional de Doñana, Monfragüe, la Sierra de Andújar y los Montes de Toledo en España; el Alentejo en Portugal.",
+   "season": "Residente",
+   "order": "Accipitriformes"
+  },
+  "lore": "Fue descrita en 1861 por el ornitólogo alemán Christian Ludwig Brehm en honor del príncipe Adalberto de Baviera, y se convirtió en símbolo de la conservación española con la protección de Doñana.",
+  "funFact": "La electrocución en tendidos eléctricos y los cebos envenenados ilegales eran sus principales causas de muerte; la corrección de los apoyos peligrosos ha sido fundamental para su recuperación desde unas pocas decenas de parejas."
+ },
+ {
+  "scientific": "Aquila nipalensis",
+  "common": "Águila esteparia",
+  "summary": "Un águila grande y oscura que anida en el suelo o en arbustos bajos en las estepas abiertas de Rusia, Kazajistán y Mongolia. Antaño común, se ha desplomado por la electrocución en tendidos eléctricos, el envenenamiento y la pérdida de hábitat.",
+  "nativeRange": "Cría desde el sur de Rusia y Kazajistán, a través de Asia central, hasta Mongolia y China; inverna en África oriental, Arabia, Oriente Próximo y el sur de Asia",
+  "biomes": [
+   "Estepa",
+   "Semidesierto",
+   "Sabana"
+  ],
+  "abilities": [
+   "Anida en el suelo descubierto, en arbustos bajos o en torres eléctricas donde no hay árboles",
+   "Depreda intensamente ardillas terrestres (suslik)",
+   "Migra miles de kilómetros rodeando el Caspio y atravesando Oriente Próximo hasta África",
+   "En invierno se concentra en gran número en vertederos y enjambres de langosta"
+  ],
+  "animal": {
+   "diet": "Ardillas terrestres, marmotas, picas y liebres; carroña; termitas y langostas en invierno",
+   "habitat": "Estepas secas y semidesiertos; sabanas y campos de cultivo en invierno",
+   "size": "62–81 cm; envergadura 165–214 cm; 2,3–4,9 kg",
+   "behaviour": "Miles de ejemplares se concentran en estrechos cuellos de botella migratorios, como Eilat (Israel) y Bab el-Mandeb, entre Yemen y Yibuti.",
+   "fieldMarks": [
+    "Águila grande, de un pardo oscuro uniforme",
+    "Comisura bucal larga que llega por detrás hasta debajo del ojo",
+    "Los juveniles muestran una ancha banda blanca en la cara inferior del ala y un borde posterior claro",
+    "Puntas de las alas digitadas; los adultos suelen tener una mancha rojiza en la nuca"
+   ],
+   "voice": "Generalmente silenciosa; un reclamo a modo de ladrido cerca del nido.",
+   "lookalikes": "El águila moteada es más oscura, con la comisura más corta y una silueta más compacta. El águila rapaz (África, India) es más clara y de comisura más corta. El águila real tiene la cola más larga y la nuca dorada.",
+   "whereToSee": "Kalmukia y la estepa kazaja en verano; paso primaveral en Eilat (Israel); en invierno, el vertedero de Raysut en Omán y las sabanas de África oriental.",
+   "season": "Estival en las estepas de cría, abr–sep; paso feb–abr y sep–nov",
+   "order": "Accipitriformes"
+  },
+  "lore": "Su nombre científico recuerda el primer ejemplar, descrito a partir de Nepal por Brian Houghton Hodgson en 1833, y durante décadas se agrupó con el águila rapaz de África y la India.",
+  "funFact": "En 2015 pasó de Preocupación Menor a En Peligro tras constatarse rápidos declives en toda su área de cría."
+ },
+ {
+  "scientific": "Vanellus gregarius",
+  "common": "Avefría sociable",
+  "summary": "Un limícola estepario En Peligro Crítico que cría en Kazajistán y el sur de Rusia e inverna en Sudán, Arabia y el subcontinente indio. El marcaje con emisores vía satélite reveló rutas migratorias a través de Siria e Irak donde la caza mata a muchas.",
+  "nativeRange": "Cría en las estepas de Kazajistán y la Rusia adyacente; inverna en Sudán, Eritrea, Arabia Saudí, Omán, Pakistán y el noroeste de la India",
+  "biomes": [
+   "Estepa",
+   "Semidesierto",
+   "Tierras de cultivo"
+  ],
+  "abilities": [
+   "Cría en colonias laxas en estepas intensamente pastoreadas, a menudo cerca de pueblos",
+   "Viaja en bandos a lo largo de una larga ruta migratoria terrestre",
+   "Depende del ganado para mantener baja la vegetación esteparia",
+   "Utiliza barbechos y pastizales cortos durante la migración"
+  ],
+  "animal": {
+   "diet": "Escarabajos, saltamontes y otros insectos; algunas semillas",
+   "habitat": "Estepa seca con vegetación corta y pastoreada; cultivos y semidesiertos en invierno",
+   "size": "27–30 cm; envergadura 70–76 cm; 150–260 g",
+   "behaviour": "En otoño se reúne en bandos en las áreas de descanso y se alimenta en barbechos y rastrojos.",
+   "fieldMarks": [
+    "Píleo y lista ocular negros con una llamativa ceja blanca",
+    "Cuerpo gris arenoso; los adultos reproductores tienen el vientre negro y castaño",
+    "En vuelo, primarias negras, secundarias blancas y banda caudal negra",
+    "Patas largas y oscuras"
+   ],
+   "voice": "Un áspero y chirriante «krech-krech-krech», origen de su nombre ruso.",
+   "lookalikes": "El avefría coliblanca tiene la cabeza lisa y la cola totalmente blanca. El avefría europea tiene una larga cresta y el dorso verde oscuro. El corredor sahariano es más pequeño, corre velozmente y tiene el pico curvo.",
+   "whereToSee": "Colonias de cría en la región de Korgalzhyn (Kazajistán); aves invernantes en Omán, Pakistán y Guyarat/Rajastán; en paso por el sudeste de Turquía.",
+   "season": "Estival en Kazajistán, abr–ago; invernante, oct–mar",
+   "order": "Charadriiformes"
+  },
+  "lore": "Pallas la describió en la estepa rusa en 1771, y su agudo reclamo le dio el nombre ruso de «krechetka».",
+  "funFact": "En 2007, aves seguidas por satélite condujeron a los investigadores hasta un bando de unas 3.200 avefrías sociables en el sudeste de Turquía, muchas más de las que se creía que sobrevivían."
+ },
+ {
+  "scientific": "Hypocolius ampelinus",
+  "common": "Hipocolio",
+  "summary": "Un ave gris y estilizada, parecida a un ampelis, con antifaz negro, único miembro de su familia. Cría en los valles fluviales y desiertos de Irak, Irán y Asia central e inverna en los oasis de palmeras datileras en torno al golfo Pérsico.",
+  "nativeRange": "Cría en Irak, Irán, Turkmenistán y Afganistán; inverna en el este de Arabia, Baréin, Kuwait, los Emiratos Árabes Unidos, el sur de Irán y Pakistán, con divagantes en el oeste de la India",
+  "biomes": [
+   "Oasis desértico",
+   "Matorral ribereño",
+   "Semidesierto"
+  ],
+  "abilities": [
+   "Único miembro vivo de la familia Hypocoliidae",
+   "En sus dormideros invernales se alimenta sobre todo de dátiles y bayas",
+   "Se reúne en dormideros invernales comunales en palmerales densos",
+   "Cría en matorrales de tarajes y palmeras datileras en desiertos cálidos de tierras bajas"
+  ],
+  "animal": {
+   "diet": "Frutos como dátiles, moras y bayas; algunos insectos",
+   "habitat": "Palmerales, jardines y matorrales de ribera en tierras áridas",
+   "size": "19–21 cm; 50–60 g",
+   "behaviour": "Pequeños grupos se desplazan juntos entre árboles con fruto, a menudo posados ocultos en el follaje denso, y salen volando hacia los dormideros al amanecer.",
+   "fieldMarks": [
+    "Plumaje liso gris pálido y cola larga",
+    "El macho tiene un antifaz negro que se une alrededor de la nuca",
+    "Puntas de las primarias negras y extremo de la cola negro",
+    "Hembra más uniforme, gris parduzca, sin antifaz"
+   ],
+   "voice": "Un suave «uii-u» maullado y un parloteo grave en los bandos.",
+   "lookalikes": "El alcaudón norteño y el alcaudón real tienen el pico ganchudo y las alas blancas y negras. El ampelis europeo tiene cresta y el extremo de la cola amarillo, y no se presenta en el Golfo.",
+   "whereToSee": "Dormideros invernales en Baréin, el oasis de Al-Ahsa (Arabia Saudí), Kuwait y los Emiratos Árabes Unidos.",
+   "season": "Invernante en Arabia, nov–mar; estival en las áreas de cría",
+   "order": "Passeriformes"
+  },
+  "lore": "Charles Lucien Bonaparte lo describió en 1850, y sus relaciones de parentesco desconcertaron a los ornitólogos durante más de un siglo hasta que los estudios de ADN lo situaron cerca de los capulineros y los ampelis.",
+  "funFact": "Es una de las pocas familias de aves exclusivas de Oriente Próximo y el suroeste de Asia."
+ },
+ {
+  "scientific": "Cinclus cinclus",
+  "common": "Mirlo acuático europeo",
+  "summary": "El único pájaro cantor europeo que nada y camina bajo el agua. Este pájaro rechoncho de babero blanco cabecea sobre las piedras de los rápidos arroyos de montaña antes de zambullirse para cazar larvas de insectos en el lecho del río.",
+  "nativeRange": "Ríos rápidos de Europa, el noroeste de África (Atlas), Turquía, el Cáucaso, Irán y Asia central hasta el Himalaya y el oeste de China",
+  "biomes": [
+   "Ríos",
+   "Montaña"
+  ],
+  "abilities": [
+   "Camina por el lecho del arroyo contra la corriente, usando las alas para mantenerse en el fondo",
+   "Tiene un plumaje denso y una gran glándula uropigial para impermeabilizarlo",
+   "Puede cerrar los orificios nasales con unos pliegues de piel cuando está sumergido",
+   "Canta durante todo el invierno, incluso junto a torrentes helados"
+  ],
+  "animal": {
+   "diet": "Larvas de tricópteros, efímeras y plecópteros, gambas de agua dulce y peces pequeños",
+   "habitat": "Arroyos y ríos de montaña de aguas claras y rápidas",
+   "lifespan": "Normalmente 2–3 años",
+   "size": "17–20 cm; 50–76 g",
+   "behaviour": "Cabecea sin cesar sobre una piedra en mitad de la corriente, parpadeando con sus párpados blancos, antes de zambullirse.",
+   "fieldMarks": [
+    "Silueta rechoncha y de cola corta, parecida a la de un chochín",
+    "Garganta y pecho de un blanco brillante",
+    "Cabeza pardo chocolate oscuro y cuerpo negruzco; algunas razas tienen una banda castaña en el vientre",
+    "Vuelo bajo y zumbante sobre el agua"
+   ],
+   "voice": "Un «zit» agudo y metálico en vuelo; canto: un gorjeo dulce y divagante que se oye incluso en invierno.",
+   "lookalikes": "El mirlo capiblanco tiene una media luna blanca en el pecho, pero es un túrdido de los páramos, no del agua. El mirlo acuático pardo (Asia central, Himalaya) es enteramente pardo, sin babero blanco.",
+   "whereToSee": "Arroyos de montaña de Gales, el norte de Inglaterra y Escocia, los Alpes, los Pirineos, los ríos de Noruega y el Atlas.",
+   "season": "Residente; las aves del norte se desplazan a aguas sin hielo en invierno",
+   "order": "Passeriformes"
+  },
+  "lore": "Noruega lo declaró ave nacional en 1963 (fossekall, «el hombre de la cascada»), y su nombre galés, «bronwen y dŵr», significa «pecho blanco del agua».",
+  "funFact": "Estudios realizados en Gales comprobaron que sus poblaciones disminuían en los arroyos acidificados, lo que lo convierte en un indicador de la salud de los ríos."
+ },
+ {
+  "scientific": "Panurus biarmicus",
+  "common": "Bigotudo",
+  "summary": "Un pájaro leonado de cola larga propio de los carrizales, cuyos machos lucen un «bigote» negro colgante. Pese a su antiguo nombre inglés de «bearded tit» (párido barbado), es el único miembro de su propia familia.",
+  "nativeRange": "Carrizales dispersos desde Gran Bretaña y España, a través de Europa, Turquía y Oriente Próximo, hasta Asia central, Mongolia y el noreste de China",
+  "biomes": [
+   "Carrizal",
+   "Humedales"
+  ],
+  "abilities": [
+   "Cambia su dieta de insectos en verano a semillas de carrizo en invierno",
+   "Modifica estacionalmente la estructura de su molleja y traga arenilla para triturar las semillas",
+   "Se aferra a los tallos de carrizo con las patas abiertas entre dos cañas",
+   "Único miembro de la familia Panuridae"
+  ],
+  "animal": {
+   "diet": "Insectos y arañas en verano; semillas de carrizo en otoño e invierno",
+   "habitat": "Extensos carrizales junto a lagos, ríos y estuarios",
+   "lifespan": "Normalmente 2–3 años",
+   "size": "14,5–17 cm incluida la cola; 12–18 g",
+   "behaviour": "En otoño, los bandos irrumpen desde los carrizales, vuelan alto y llamándose antes de trasladarse a nuevas marismas.",
+   "fieldMarks": [
+    "Cuerpo naranja leonado y cola muy larga y escalonada",
+    "Macho: cabeza gris azulada y ancho bigote negro",
+    "Pico y ojo amarillo anaranjados",
+    "Vuelo zumbante justo por encima de las puntas del carrizo"
+   ],
+   "voice": "Un «ping» o «ching» sonoro y metálico, a menudo la primera pista de su presencia.",
+   "lookalikes": "El mito común es más pequeño, con un diseño rosa, negro y blanco, y vive en el bosque. Los carriceros son pardos y de cola corta.",
+   "whereToSee": "Minsmere y los Norfolk Broads (Inglaterra), Oostvaardersplassen (Países Bajos), el delta del Danubio y el lago Neusiedl (Austria/Hungría).",
+   "season": "Residente; desplazamientos masivos sep–nov",
+   "order": "Passeriformes"
+  },
+  "lore": "El epíteto «biarmicus» alude a Biarmia, antiguo nombre de la región que rodea el mar Blanco, aunque el ave no vive allí.",
+  "funFact": "Los inviernos rigurosos pueden acabar con poblaciones locales, que luego se recuperan en pocos años gracias a sus múltiples nidadas."
+ },
+ {
+  "scientific": "Aegithalos caudatus",
+  "common": "Mito común",
+  "summary": "Una diminuta bola de plumón con una cola más larga que el cuerpo, que recorre los bosques en parlanchines bandos familiares. Su nido abovedado de musgo, líquenes y seda de araña es una de las construcciones de aves más refinadas de Europa.",
+  "nativeRange": "Europa, Turquía, el Cáucaso y el norte de Irán, a través de Siberia y Asia central, hasta Japón y Corea",
+  "biomes": [
+   "Bosque abierto",
+   "Bosque templado",
+   "Matorral",
+   "Jardines y parques"
+  ],
+  "abilities": [
+   "Construye un nido abovedado y elástico, unido con seda de araña y tapizado con hasta unas 2.000 plumas",
+   "Las aves cuyo nido fracasa suelen ayudar a alimentar a los pollos de sus parientes",
+   "De noche se apiñan en hileras apretadas para sobrevivir al frío",
+   "Reconoce a sus parientes por los reclamos"
+  ],
+  "animal": {
+   "diet": "Insectos pequeños, arañas y sus huevos; ocasionalmente semillas",
+   "habitat": "Bosques caducifolios, matorrales, setos y jardines",
+   "lifespan": "Normalmente 2–3 años",
+   "size": "13–15 cm, incluida una cola de 7–9 cm; 7–9 g",
+   "behaviour": "En invierno, bandos familiares de 10–20 aves recorren los árboles, cruzando los claros uno detrás de otro.",
+   "fieldMarks": [
+    "Cuerpo diminuto y redondo con una cola negra muy larga, bordeada de blanco",
+    "Hombros y flancos rosados",
+    "Píleo blanco con anchas listas negras en las aves occidentales; cabeza blanca pura en la subespecie norteña caudatus",
+    "Pico corto y rechoncho"
+   ],
+   "voice": "Un fino y agudo «tsi-tsi-tsi», un seco y rodado «tsirrup» y un breve «tup» de contacto.",
+   "lookalikes": "El bigotudo es leonado y vive en los carrizales. La lavandera blanca es mayor, camina por el suelo y mueve la cola arriba y abajo.",
+   "whereToSee": "Lindes de bosque, setos y comederos de jardín de toda Europa; aves de cabeza blanca en Escandinavia y Rusia.",
+   "season": "Residente",
+   "order": "Passeriformes"
+  },
+  "lore": "Su nido en forma de botella le valió antiguos nombres ingleses como «bottle tit» (párido botella) y «feather poke» (saco de plumas), y la raza de cabeza blanca de Hokkaido, «shima-enaga», se ha convertido en una mascota popular en Japón.",
+  "funFact": "Construir un nido puede llevar de dos a tres semanas, y este se dilata a medida que crecen los pollos gracias a su estructura elástica de seda y musgo."
+ },
+ {
+  "scientific": "Botaurus stellaris",
+  "common": "Avetoro común",
+  "summary": "Una garza esquiva, parda y listada, de los carrizales densos, casi invisible cuando se queda inmóvil con el pico apuntando al cielo. En primavera, el bramido del macho resuena sobre las marismas como una lejana sirena de niebla.",
+  "nativeRange": "Europa, norte de África, Turquía, Oriente Próximo y Asia central hasta Japón; población en el sur de África; las aves del norte invernan al sur, hasta África y el sur de Asia",
+  "biomes": [
+   "Carrizal",
+   "Humedales"
+  ],
+  "abilities": [
+   "Su bramido puede oírse a varios kilómetros de distancia",
+   "Se queda inmóvil con el cuello estirado y el pico hacia arriba, balanceándose con el carrizo como camuflaje",
+   "Sus ojos están situados de modo que ve hacia delante incluso con el pico apuntando en vertical",
+   "El bramido se produce inflando el esófago"
+  ],
+  "animal": {
+   "diet": "Peces (sobre todo anguilas), ranas, insectos y pequeños mamíferos",
+   "habitat": "Extensos carrizales inundados con aguas abiertas",
+   "size": "69–81 cm; envergadura 100–130 cm; 0,9–1,9 kg",
+   "behaviour": "Avanza sigilosamente entre el carrizo y caza en canales y charcas.",
+   "fieldMarks": [
+    "Plumaje pardo dorado con listas y barras negras muy marcadas",
+    "Píleo y bigotera negros",
+    "Garza robusta, de cuello grueso y patas amarillo verdosas",
+    "En vuelo, alas anchas y redondeadas, como de rapaz nocturna"
+   ],
+   "voice": "Bramido del macho: un «u-pumb» emitido en series al anochecer y al amanecer en primavera; reclamo en vuelo: un áspero «kau».",
+   "lookalikes": "El martinete común juvenil es más pequeño y está moteado de blanco. La garza imperial es más esbelta, con un cuello largo y fino. El avetorillo común es mucho más pequeño y tiene paneles alares claros.",
+   "whereToSee": "Minsmere, Ham Wall y Lakenheath Fen (Inglaterra), las marismas del Biebrza (Polonia), el delta del Danubio y el lago Neusiedl.",
+   "season": "Residente en Europa occidental; estival más al este; brama mar–jun",
+   "order": "Pelecaniformes"
+  },
+  "lore": "La comadre de Bath de Chaucer compara un sonido con el del avetoro («as a bitore bombleth in the myre», como brama el avetoro en el fango), y su bramido dio origen a nombres populares ingleses como «butterbump» y «bog bumper».",
+  "funFact": "Los machos que bramaban en Gran Bretaña cayeron a solo 11 en 1997; la restauración de carrizales los elevó a más de 200 a principios de la década de 2020 y a 283 en 2024."
+ },
+ {
+  "scientific": "Calidris pugnax",
+  "common": "Combatiente",
+  "summary": "Un limícola cuyos machos reproductores desarrollan enormes y coloridas gorgueras y penachos auriculares y combaten en los cantaderos (leks). Los machos se presentan en tres tipos fijados genéticamente, entre ellos uno raro que imita a las hembras y consigue cópulas a hurtadillas.",
+  "nativeRange": "Cría en todo el norte de Europa y Siberia; inverna en África, el Mediterráneo, Oriente Próximo y el sur de Asia",
+  "biomes": [
+   "Humedales",
+   "Tundra",
+   "Prados húmedos"
+  ],
+  "abilities": [
+   "Tres tipos de machos: los «independientes» territoriales, los machos satélite de gorguera blanca y los «faeders», que parecen hembras",
+   "Los tipos de macho están controlados por un supergén formado por una inversión cromosómica hace unos 3,8 millones de años",
+   "Los machos son mucho mayores que las hembras",
+   "Enormes bandos invernales se concentran en el delta interior del Níger y otros humedales africanos"
+  ],
+  "animal": {
+   "diet": "Insectos y larvas, gusanos; semillas y arroz en invierno",
+   "habitat": "Prados húmedos, marismas y tundra; campos inundados y orillas de lagos en invierno",
+   "size": "Machos 29–32 cm, ~180 g; hembras 22–26 cm, ~110 g",
+   "behaviour": "En el cantadero, los machos adoptan posturas con la gorguera desplegada, saltando y peleando mientras las hembras eligen.",
+   "fieldMarks": [
+    "Los machos reproductores tienen una gorguera y penachos auriculares variables, negros, castaños, blancos o mezclados",
+    "Fuera de la época de cría, partes superiores escamadas con bordes claros en las plumas",
+    "Cabeza pequeña, pico mediano y patas largas anaranjadas o verdosas",
+    "En vuelo, manchas ovaladas blancas a los lados de la cola"
+   ],
+   "voice": "Casi siempre silencioso; gruñidos graves ocasionales.",
+   "lookalikes": "El archibebe común tiene las patas rojas y un borde posterior blanco en el ala. El archibebe claro es gris, con un pico largo curvado hacia arriba. Los juveniles pueden recordar al correlimos canelo (un raro divagante americano).",
+   "whereToSee": "Cría en prados de los Países Bajos, Suecia y Noruega; en paso por el mar de Frisia; bandos invernales en los deltas del Senegal y el Níger y en humedales de la India.",
+   "season": "Estival en el norte, abr–jul; migrante en paso; invernante en África y Asia",
+   "order": "Charadriiformes"
+  },
+  "lore": "En la Inglaterra de los siglos XVII y XVIII se capturaban combatientes con redes y se cebaban para la mesa, y el nombre inglés del ave («ruff», gorguera) evoca las gorgueras almidonadas de encaje de la moda isabelina.",
+  "funFact": "Los machos «faeder», alrededor del 1 % de los machos, no se identificaron hasta 2006."
+ },
+ {
+  "scientific": "Pyrrhocorax pyrrhocorax",
+  "common": "Chova piquirroja",
+  "summary": "Un córvido negro brillante con el pico escarlata y curvado y las patas rojas, que hace acrobacias a lo largo de acantilados marinos y gargantas de montaña. Es emblema de Cornualles, adonde regresó de forma natural en 2001.",
+  "nativeRange": "Costas atlánticas de Gran Bretaña, Irlanda y Bretaña; montañas de la península ibérica, los Alpes, el Atlas, Turquía, el Cáucaso, Asia central, el Himalaya y China; también Etiopía",
+  "biomes": [
+   "Acantilados costeros",
+   "Montaña",
+   "Pastizal alpino"
+  ],
+  "abilities": [
+   "Sondea el césped corto y el estiércol con su pico curvo en busca de invertebrados del suelo",
+   "Realiza picados y volteretas acrobáticas en las corrientes ascendentes de los acantilados",
+   "Vive a altitudes muy elevadas en el Himalaya y la meseta tibetana",
+   "Depende de pastizales cortos mantenidos por el ganado"
+  ],
+  "animal": {
+   "diet": "Hormigas, escarabajos, larvas de típula e invertebrados del estiércol; algo de grano",
+   "habitat": "Acantilados marinos con césped pastoreado, cortados y gargantas de montaña",
+   "lifespan": "Normalmente unos 7 años",
+   "size": "37–41 cm; envergadura 68–80 cm; 260–380 g",
+   "behaviour": "Parejas y bandos juegan con el viento a lo largo de los acantilados, llamándose mientras se lanzan en picado y dan volteretas.",
+   "fieldMarks": [
+    "Plumaje negro azulado brillante",
+    "Pico rojo largo y curvado hacia abajo",
+    "Patas rojas",
+    "Alas anchas y muy digitadas en vuelo"
+   ],
+   "voice": "Un sonoro y vibrante «chi-au» o «kiaa», más musical que el de otros córvidos.",
+   "lookalikes": "La chova piquigualda tiene el pico corto y amarillo y la cola más larga. La grajilla occidental tiene la nuca gris y un pico negro corto. La corneja negra es mayor, con pico y patas negros.",
+   "whereToSee": "The Lizard (Cornualles), Pembrokeshire y Anglesey (Gales), Islay (Escocia), los Picos de Europa, el Atlas y el Himalaya.",
+   "season": "Residente",
+   "order": "Passeriformes"
+  },
+  "lore": "Una leyenda de Cornualles cuenta que el alma del rey Arturo pasó a una chova, y el ave figura en el escudo de Cornualles; su nombre inglés («chough») procede del antiguo reclamo «chow», parecido al de la grajilla.",
+  "funFact": "Tras extinguirse las chovas en Cornualles en 1973, una pareja silvestre llegó a The Lizard en 2001 y crió allí al año siguiente."
+ },
+ {
+  "scientific": "Haliaeetus albicilla",
+  "common": "Pigargo europeo",
+  "summary": "La mayor águila de Europa, de alas anchas como tablones, un enorme pico amarillo y una cola corta y blanca. La persecución la eliminó de gran parte de Europa occidental; las reintroducciones la han devuelto a Escocia, Irlanda e Inglaterra.",
+  "nativeRange": "Costas y grandes humedales de Noruega, el Báltico, Islandia, Escocia y Europa oriental, hacia el este por Rusia, Kazajistán y Siberia hasta Japón; también el oeste de Groenlandia; inverna al sur hasta Turquía, Oriente Próximo y China",
+  "biomes": [
+   "Costa",
+   "Humedales",
+   "Lagos",
+   "Bosque boreal"
+  ],
+  "abilities": [
+   "Envergadura de hasta unos 2,5 m, la mayor de todas las águilas europeas",
+   "Atrapa peces de la superficie y roba comida a nutrias, águilas pescadoras y gaviotas",
+   "Construye enormes nidos que se utilizan durante décadas",
+   "Se recuperó en todo el Báltico tras la prohibición del DDT y los PCB"
+  ],
+  "animal": {
+   "diet": "Peces, aves acuáticas, carroña y ocasionalmente mamíferos",
+   "habitat": "Costas rocosas, grandes lagos, ríos y estuarios",
+   "lifespan": "A menudo más de 20 años; puede superar los 25 en libertad",
+   "size": "70–90 cm; envergadura 1,9–2,5 m; 3–7 kg",
+   "behaviour": "A menudo permanece horas en un posadero de la orilla y luego sale planeando bajo sobre el agua para atrapar peces.",
+   "fieldMarks": [
+    "Alas enormes, anchas y rectangulares, con las puntas muy digitadas",
+    "Cola corta, blanca y en forma de cuña en los adultos",
+    "Pico amarillo enorme y cabeza clara en los adultos",
+    "Juveniles oscuros, con pico y cola oscuros"
+   ],
+   "voice": "Un «kli-kli-kli» o «kric-kric» a modo de gañido, que las parejas emiten a menudo a dúo.",
+   "lookalikes": "El águila real tiene la cola más larga, las alas más estrechas, sostenidas en una V poco marcada, y la nuca dorada. El águila pescadora es blanca por debajo, con alas largas y acodadas. El pigargo de Pallas (Asia central) tiene la cola oscura con una banda blanca.",
+   "whereToSee": "Las islas de Mull y Skye (Escocia), la isla de Wight (Inglaterra), las Lofoten (Noruega), el delta del Danubio, los lagos de Polonia y Hokkaido en invierno.",
+   "season": "Residente en el oeste; las aves del norte y el este se desplazan al sur en invierno",
+   "order": "Accipitriformes"
+  },
+  "lore": "Hace unos 5.000 años, los pobladores neolíticos depositaron huesos de pigargo junto a restos humanos en la «Tumba de las Águilas» de South Ronaldsay (Orcadas), y el nombre del águila en inglés antiguo, «erne», sobrevive en topónimos.",
+  "funFact": "El último ejemplar británico autóctono fue abatido en las Shetland en 1918; la reintroducción comenzó en la isla de Rùm en 1975 con aves procedentes de Noruega."
+ }
+]

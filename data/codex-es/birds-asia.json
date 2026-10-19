@@ -1,0 +1,1987 @@
+[
+ {
+  "scientific": "Coracias benghalensis",
+  "common": "Carraca india",
+  "summary": "Ave robusta y de cabeza grande que parece de un pardo apagado cuando está posada en un cable junto a la carretera, pero que al abrir las alas en vuelo muestra bandas eléctricas de turquesa y azul violeta intenso. En la época de cría, el macho voltea y gira en el aire durante su exhibición, costumbre que da nombre en inglés a las carracas (rollers, 'volteadoras').",
+  "nativeRange": "Irak y el golfo Pérsico, al este por Pakistán, India, Nepal, Bangladés y Sri Lanka hasta Myanmar",
+  "biomes": [
+   "Bosque abierto",
+   "Tierras de cultivo",
+   "Matorral",
+   "Sabana"
+  ],
+  "abilities": [
+   "Caza vigilando desde un posadero expuesto y dejándose caer sobre grandes insectos, lagartijas y ranas pequeñas en el suelo",
+   "Realiza un vuelo nupcial con giros y picados, acompañado de fuertes reclamos ásperos",
+   "Sigue a tractores, incendios de pastos y ganado en pastoreo para atrapar los insectos que levantan"
+  ],
+  "lore": "Su nombre hindi, Neelkanth ('garganta azul'), es un epíteto de Shiva, y en gran parte del norte de la India ver esta ave en Dussehra se considera de buen augurio. Es el ave oficial de varios estados indios, entre ellos Karnataka y Telangana.",
+  "funFact": "El ave parda y apagada del cable es la misma que destella un azul intenso en vuelo; los colores más brillantes permanecen ocultos en las alas hasta que se mueve.",
+  "animal": {
+   "diet": "Grandes insectos (saltamontes, grillos, escarabajos); también escorpiones, lagartijas pequeñas, ranas y roedores",
+   "habitat": "Cultivos abiertos, pastizales, bosque claro y bordes de carreteras con abundantes posaderos",
+   "size": "Unos 30–34 cm de longitud",
+   "behaviour": "Permanece inmóvil en cables y ramas secas durante largos ratos, luego se deja caer al suelo sobre una presa y vuelve al mismo posadero; en el cortejo asciende en vertical y se desploma en picados retorcidos y giratorios.",
+   "fieldMarks": [
+    "Ave rechoncha con la cabeza grande y un pico oscuro y fuerte",
+    "Posada: pecho y dorso pardo rojizos, garganta listada de lila, píleo azul",
+    "En vuelo: bandas brillantes de turquesa claro y azul violeta oscuro que cruzan las alas",
+    "Cola azul de corte recto con una banda terminal oscura"
+   ],
+   "voice": "Reclamos ásperos, como de cuervo, 'chac', y un chirriante 'cac-cac', más fuertes durante el vuelo nupcial con giros",
+   "lookalikes": "La carraca europea (migrante de paso en Pakistán y el noroeste de la India) tiene la cabeza y las partes inferiores de un azul pálido uniforme, sin pecho pardo ni lila; la carraca indochina (al este del Brahmaputra) tiene la cara y el pecho de un pardo purpúreo oscuro, sin listas finas.",
+   "whereToSee": "Común en bordes de carreteras y tierras de cultivo de las llanuras del Indo, en Punyab y Sind, y en la mayor parte de la India; fácil de ver en Keoladeo (Bharatpur) y Ranthambore",
+   "season": "Residente; algunos desplazamientos locales",
+   "order": "Coraciiformes"
+  }
+ },
+ {
+  "scientific": "Acridotheres tristis",
+  "common": "Miná común",
+  "summary": "Estornino pardo de andar fanfarrón, con capucha negra y una mancha de piel desnuda amarilla detrás de cada ojo, que se siente en casa en todos los céspedes, mercados y andenes de ferrocarril del sur de Asia. Llevado por todo el mundo para combatir plagas de cultivos, se ha convertido en una de las aves más extendidas y polémicas de la Tierra.",
+  "nativeRange": "Irán y Asia central, por Afganistán, Pakistán, India, Nepal, Bangladés y Sri Lanka hasta Myanmar; introducido en Australia, Sudáfrica, la península arábiga, Hawái, Florida y muchas islas",
+  "biomes": [
+   "Urbano",
+   "Tierras de cultivo",
+   "Bosque abierto"
+  ],
+  "abilities": [
+   "Prospera en las ciudades y nidifica en cavidades de muros, farolas y edificios",
+   "Imita a otras aves y, en cautividad, el habla humana",
+   "Al anochecer se reúne en dormideros comunales de cientos a miles de aves",
+   "Expulsa con agresividad a otras aves que nidifican en cavidades"
+  ],
+  "lore": "Se ha tenido desde antiguo como ave de jaula parlante en todo el subcontinente. Introducido en Mauricio en la década de 1760 para controlar las langostas, y más tarde en Australia y Hawái, hoy figura en la lista de '100 de las especies exóticas invasoras más dañinas del mundo' del Grupo Especialista en Especies Invasoras de la UICN.",
+  "funFact": "Es una de las solo tres aves de la lista de las '100 peores especies invasoras' de la UICN; las otras dos son el bulbul cafre y el estornino pinto.",
+  "animal": {
+   "diet": "Omnívoro: insectos (sobre todo saltamontes), fruta, grano y restos de comida",
+   "habitat": "Pueblos, aldeas, tierras de cultivo y campo abierto cerca de las personas",
+   "size": "Unos 23–25 cm de longitud",
+   "behaviour": "Camina en lugar de saltar, avanzando a zancadas por el césped; las parejas cabecean y ahuecan el plumaje una frente a otra en ruidosas exhibiciones, y las bandadas confluyen en enormes dormideros vespertinos con un parloteo ensordecedor.",
+   "fieldMarks": [
+    "Cuerpo pardo cálido con cabeza y pecho negros y brillantes",
+    "Piel desnuda amarilla alrededor y detrás del ojo; pico y patas amarillos",
+    "Gran mancha alar blanca, muy visible en vuelo",
+    "Infracoberteras caudales blancas y punta de la cola blanca"
+   ],
+   "voice": "Muy variada: gorgoteos, un parloteado 'coc-coc-coc', graznidos y silbidos líquidos; alarma: un áspero 'cheic-cheic'",
+   "lookalikes": "El miná ribereño es más gris, con la mancha facial desnuda rojo ladrillo (no amarilla); el miná selvático es gris pizarra, con un mechón de plumas en la base del pico y sin mancha facial desnuda; el estornino pío asiático es blanco y negro.",
+   "whereToSee": "Todos los pueblos y ciudades de Pakistán, India y Sri Lanka, p. ej., los parques de Lahore, Karachi, Delhi y Colombo",
+   "season": "Residente todo el año",
+   "order": "Passeriformes"
+  }
+ },
+ {
+  "scientific": "Corvus splendens",
+  "common": "Cuervo indio (cuervo doméstico)",
+  "summary": "El cuervo de cuello gris de las ciudades del sur de Asia, que vive casi por completo junto a las personas y busca restos en mercados, basureros y tejados. Audaz, inteligente y viajero en barcos, se ha extendido a puertos desde África oriental hasta los Países Bajos.",
+  "nativeRange": "Pakistán, India, Nepal, Bangladés, Sri Lanka, Maldivas y Myanmar; introducido en África oriental, la península arábiga, Singapur y otros lugares",
+  "biomes": [
+   "Urbano",
+   "Tierras de cultivo",
+   "Costa"
+  ],
+  "abilities": [
+   "Aprovecha los asentamientos humanos de forma tan completa que rara vez se encuentra lejos de las personas",
+   "Se propaga viajando como polizón en barcos y funda colonias en puertos lejanos",
+   "Acosa a los depredadores en grupos ruidosos y es hospedador del koel común, un parásito de puesta",
+   "Se reúne en dormideros comunales de miles de aves"
+  ],
+  "lore": "En el ritual hindú se ofrecen bolas de arroz (pinda) a los cuervos durante el shraddha y el Pitru Paksha, como mensajeros de los antepasados, y según el folclore urdu e hindi un cuervo graznando en el tejado anunciaba la llegada de un invitado.",
+  "funFact": "Los cuervos indios llegaron en barco a Hoek van Holland, en los Países Bajos, y criaron allí, a miles de kilómetros de la población nativa más cercana.",
+  "animal": {
+   "diet": "Carroñero omnívoro: desperdicios de comida, carroña, insectos, huevos y pollos, fruta y grano",
+   "habitat": "Ciudades, pueblos, aldeas y puertos",
+   "size": "Unos 40 cm de longitud",
+   "behaviour": "Muy social y rápido en aprender; los grupos se reúnen alrededor de un cuervo muerto y graznan con fuerza, y roban comida a personas y otras aves con una sincronización estudiada.",
+   "fieldMarks": [
+    "Córvido mediano con cara, píleo, garganta, alas y cola de un negro brillante",
+    "Nuca, cuello y pecho grises en contraste, formando un collar",
+    "Pico negro relativamente fino y frente abombada"
+   ],
+   "voice": "Un 'caau-caau' plano y seco, más agudo que el del cuervo picudo",
+   "lookalikes": "El cuervo picudo (cuervo de la selva) es enteramente negro brillante, con un pico arqueado mucho más grueso y una voz más grave.",
+   "whereToSee": "Todas las ciudades del subcontinente, desde los puertos de Karachi y Bombay hasta Colombo",
+   "season": "Residente todo el año",
+   "order": "Passeriformes"
+  }
+ },
+ {
+  "scientific": "Eudynamys scolopaceus",
+  "common": "Koel común (koel asiático)",
+  "summary": "Cuco grande cuyo insistente y ascendente 'co-EL, co-EL' es el sonido de la estación cálida en el sur de Asia, a menudo oído mucho antes del amanecer. Pone sus huevos en nidos de cuervos, que crían a los pollos de koel como si fueran propios.",
+  "nativeRange": "Pakistán e India, por Sri Lanka, Bangladés y el sur de China, hasta el Sudeste Asiático y las islas de la Sonda Mayores",
+  "biomes": [
+   "Urbano",
+   "Bosque",
+   "Tierras de cultivo"
+  ],
+  "abilities": [
+   "Parásito de puesta: en el sur de Asia pone sus huevos en nidos de cuervo indio y cuervo picudo",
+   "El macho atrae a los cuervos lejos del nido mientras la hembra se cuela para poner",
+   "Algo inusual entre los cucos: los adultos son sobre todo frugívoros y dispersan semillas de higueras y otros árboles"
+  ],
+  "lore": "Como kokila es símbolo de la primavera y del anhelo en la poesía sánscrita, incluida la de Kalidasa, y la koyal sigue siendo sinónimo de voz dulce en las canciones en urdu, hindi y panyabí.",
+  "funFact": "La voz del koel solo es dulce para las personas: los cuervos reconocen al ave como una amenaza y la persiguen con furia.",
+  "animal": {
+   "diet": "Principalmente fruta y bayas (higos, pipal, baniano); también insectos y orugas",
+   "habitat": "Jardines frondosos, huertos frutales, arboledas y bosque abierto",
+   "size": "Unos 39–46 cm de longitud",
+   "behaviour": "Se esconde en el follaje denso y se oye mucho más de lo que se ve; el macho canta repetidamente desde la espesura, con cada frase más aguda y apremiante.",
+   "fieldMarks": [
+    "Macho enteramente negro azulado brillante, con pico verdoso claro y ojo carmesí",
+    "Hembra parda, densamente moteada y barrada de blanco y ante",
+    "Cola larga y complexión esbelta, bastante parecida a la de un cuervo",
+    "Ojo rojo en ambos sexos"
+   ],
+   "voice": "Macho: un fuerte y ascendente 'co-el, co-EL, CO-EL', repetido en crescendo; también un borboteante 'cuil-cuil-cuil'. Hembra: un chillón 'kic-kic-kic'.",
+   "lookalikes": "El macho negro podría confundirse con un cuervo o un drongo, pero tiene el ojo rojo, el pico claro y una cola larga y redondeada; el cucal chino es más grande y tiene las alas rufas.",
+   "whereToSee": "Jardines y avenidas de todo Pakistán y la India, desde el Jinnah Garden de Lahore hasta el Lodhi Garden de Delhi",
+   "season": "Residente en gran parte de su área; más vocal de marzo a agosto; en el norte de Pakistán es visitante estival",
+   "order": "Cuculiformes"
+  }
+ },
+ {
+  "scientific": "Pycnonotus cafer",
+  "common": "Bulbul cafre",
+  "summary": "Ave de jardín vivaracha y crestada, con la cabeza negra y una mancha escarlata bajo la cola, una de las voces más familiares de los patios del sur de Asia. Simpática para las personas pero invasora en las islas del Pacífico, es una experta dispersora de semillas de bayas.",
+  "nativeRange": "Pakistán, India, Sri Lanka, Nepal, Bután, Bangladés y Myanmar hasta el suroeste de China; introducido en Hawái, Fiyi, Samoa, Tonga y partes de la península arábiga",
+  "biomes": [
+   "Urbano",
+   "Matorral",
+   "Tierras de cultivo",
+   "Bosque abierto"
+  ],
+  "abilities": [
+   "Dispersa semillas de arbustos como la lantana, lo que ha favorecido su expansión en las islas",
+   "Vive cómodamente en los jardines y llega a nidificar en porches y macetas colgantes",
+   "Las parejas acosan a serpientes, gatos y búhos con fuertes reclamos de alarma"
+  ],
+  "lore": "El 'bulbul' de la poesía persa y urdu es en realidad el ruiseñor, pero en el sur de Asia el nombre pasó a estas aves de jardín. En Assam, durante el Magh Bihu, se hacía pelear tradicionalmente a bulbules cautivos en el templo de Hayagriva Madhava, en Hajo.",
+  "funFact": "Figura en la lista de la UICN de las 100 peores especies exóticas invasoras por sus efectos sobre los cultivos y las aves nativas de las islas del Pacífico.",
+  "animal": {
+   "diet": "Fruta, bayas, néctar, pétalos e insectos",
+   "habitat": "Jardines, matorral, bordes de cultivos y bosque abierto seco",
+   "size": "Unos 20 cm de longitud",
+   "behaviour": "Las parejas mantienen un parloteo alegre y constante, y el macho se exhibe ahuecando el obispillo blanco y abriendo la cola para mostrar la zona cloacal roja.",
+   "fieldMarks": [
+    "Cresta corta negra y cabeza, garganta y pecho negros",
+    "Dorso y pecho pardo oscuros con aspecto escamado",
+    "Infracoberteras caudales (zona cloacal) de un carmesí brillante y obispillo blanco",
+    "Cola oscura con la punta blanca"
+   ],
+   "voice": "Frases alegres y bastante aflautadas, que en inglés se transcriben 'be-care-ful' o 'ginger beer', y un 'pip-pip' seco de alarma",
+   "lookalikes": "El bulbul orfeo tiene una cresta alta y puntiaguda, mejillas blancas y una mancha roja bajo el ojo; el bulbul cariblanco (norte de Pakistán) tiene la mejilla blanca y la zona cloacal amarilla; el bulbul orejiblanco (Sind/Punyab) tiene las mejillas blancas y la zona cloacal amarilla.",
+   "whereToSee": "Jardines y parques de todo Pakistán y la India, p. ej., las estribaciones de Margalla en Islamabad y los jardines de Lahore y Karachi",
+   "season": "Residente todo el año",
+   "order": "Passeriformes"
+  }
+ },
+ {
+  "scientific": "Cinnyris asiaticus",
+  "common": "Suimanga asiático",
+  "summary": "Diminuto nectarívoro cuyo macho reproductor es de un negro purpúreo brillante que destella azul y verde metálicos al sol. Ocupa el papel ecológico que desempeñan los colibríes en América, pero normalmente se posa para alimentarse en lugar de cernirse.",
+  "nativeRange": "Golfo Pérsico, Omán e Irán, por Afganistán, Pakistán, India, Nepal, Bangladés y Sri Lanka, hasta Myanmar e Indochina",
+  "biomes": [
+   "Urbano",
+   "Matorral",
+   "Bosque abierto",
+   "Tierras de cultivo"
+  ],
+  "abilities": [
+   "Poliniza muchas plantas con flores mientras liba néctar con su pico largo y curvo y su lengua tubular",
+   "Puede cernirse brevemente ante las flores como un colibrí",
+   "Teje un nido colgante en forma de bolsa, unido con seda de araña y decorado con restos",
+   "Perfora la base de las flores tubulares largas para 'robar' el néctar"
+  ],
+  "lore": "Su nombre en urdu e hindi, shakar khora, significa 'comedor de azúcar'.",
+  "funFact": "En el Viejo Mundo, los suimangas evolucionaron para ocupar el nicho de los nectarívoros con independencia de los colibríes del Nuevo Mundo, un caso clásico de evolución convergente.",
+  "animal": {
+   "diet": "Néctar, pequeños insectos y arañas",
+   "habitat": "Jardines, matorral seco, bosque espinoso y bosque abierto",
+   "size": "Unos 10 cm de longitud",
+   "behaviour": "Inquieto y rápido, agita las alas mientras se desplaza entre flores; el nido colgante suele tener un pequeño alero sobre la entrada lateral.",
+   "fieldMarks": [
+    "Muy pequeño, con un pico negro largo y curvado hacia abajo",
+    "Macho reproductor: enteramente negro purpúreo brillante, iridiscente al sol, con mechones amarillos y naranjas bajo el ala durante la exhibición",
+    "Hembra: pardo oliva por encima, amarillo pálido por debajo",
+    "El macho no reproductor se parece a la hembra, pero con una lista oscura en el centro del pecho"
+   ],
+   "voice": "Reclamos secos y metálicos, 'chuit' o 'zit'; el macho canta un rápido gorjeo, 'chiuit-chiuit-sui'",
+   "lookalikes": "El suimanga culipúrpura (India peninsular, Sri Lanka) tiene el dorso granate y el vientre amarillo; el suimanga de Loten tiene un pico mucho más largo y una banda pectoral granate.",
+   "whereToSee": "Jardines floridos de todo Pakistán y la India; común en callistemon e hibiscos de Karachi, Lahore y Delhi",
+   "season": "Residente; los machos lucen el plumaje nupcial sobre todo en primavera y verano",
+   "order": "Passeriformes"
+  }
+ },
+ {
+  "scientific": "Psittacula krameri",
+  "common": "Cotorra de Kramer",
+  "summary": "Loro de un verde brillante y cola larga cuyas bandadas chillonas cruzan como flechas las ciudades y campos del sur de Asia. Es uno de los loros con más éxito de la Tierra, con colonias asilvestradas que prosperan en Londres, Ámsterdam, Estambul y decenas de otras ciudades.",
+  "nativeRange": "Franja del Sahel en África y el subcontinente indio (Pakistán, India, Nepal, Bangladés, Sri Lanka) hasta Myanmar; poblaciones asilvestradas en Europa, Oriente Próximo, Asia oriental y América",
+  "biomes": [
+   "Urbano",
+   "Tierras de cultivo",
+   "Bosque abierto"
+  ],
+  "abilities": [
+   "Sobrevive a los gélidos inviernos europeos en colonias asilvestradas aprovechando los comederos de los jardines",
+   "Aprende bien el habla humana en cautividad",
+   "Asalta huertos y campos de cereal en grandes bandadas, partiendo semillas con su pico ganchudo",
+   "Nidifica pronto en huecos de árboles, compitiendo con aves nativas que también usan cavidades"
+  ],
+  "lore": "En la mitología india, el loro (shuka) es la montura de Kamadeva, dios del amor, y el sabio Shuka narra el Bhagavata Purana. En las calles del sur de Asia, cotorras amaestradas todavía escogen cartas de la fortuna para los transeúntes.",
+  "funFact": "Las cotorras de Kramer asilvestradas crían en Gran Bretaña al menos desde finales de la década de 1960, y la población de Londres se cuenta por decenas de miles.",
+  "animal": {
+   "diet": "Semillas, grano, fruta, brotes, flores y néctar",
+   "habitat": "Bosque abierto, tierras de cultivo, huertos, parques y avenidas urbanas",
+   "size": "Unos 40 cm, incluida la larga cola",
+   "behaviour": "Cada tarde se reúne en grandes y ruidosos dormideros comunales en árboles de la ciudad; las parejas nidifican en huecos naturales o excavan madera blanda.",
+   "fieldMarks": [
+    "Verde brillante con una cola muy larga y puntiaguda de color verde azulado",
+    "Pico ganchudo rojo oscuro",
+    "El macho tiene una lista negra en la barbilla y un fino collar rosa y negro; las hembras y los jóvenes carecen del collar",
+    "Vuelo rápido y directo, con aleteos veloces"
+   ],
+   "voice": "Fuertes y estridentes chillidos, 'kii-ac', sobre todo en vuelo",
+   "lookalikes": "La cotorra alejandrina es mucho más grande, con un pico más robusto y una mancha granate en el hombro; la cotorra ciruela tiene la cabeza rojo ciruela (macho) o gris (hembra); la cotorra del Himalaya tiene la cabeza gris.",
+   "whereToSee": "Abundante en ciudades y tierras de cultivo de todo Pakistán y la India, desde Lahore e Islamabad hasta Delhi; también en los parques de Londres",
+   "season": "Residente todo el año",
+   "order": "Psittaciformes"
+  }
+ },
+ {
+  "scientific": "Milvus migrans",
+  "common": "Milano negro",
+  "summary": "Rapaz parda de tamaño mediano y cola ahorquillada que gira por cientos sobre las ciudades del sur de Asia, buscando restos en vertederos, mataderos y mercados. Probablemente es una de las aves de presa más numerosas del mundo.",
+  "nativeRange": "Gran parte de Europa, África, Asia y Australia; ausente de América",
+  "biomes": [
+   "Urbano",
+   "Tierras de cultivo",
+   "Humedal",
+   "Bosque abierto"
+  ],
+  "abilities": [
+   "Se dirige con su larga cola ahorquillada, que gira constantemente para maniobrar en el aire congestionado de la ciudad",
+   "Arrebata comida del suelo, del agua o incluso de las manos de las personas en vuelo, sin posarse",
+   "Las poblaciones septentrionales migran miles de kilómetros, mientras que las aves de las ciudades del sur de Asia son residentes",
+   "Acude a los incendios de pastos para atrapar insectos y pequeños animales que huyen"
+  ],
+  "lore": "En Wazirabad (Delhi), los hermanos Nadeem Shehzad y Mohammad Saud han rescatado a miles de milanos heridos, muchos cortados por los hilos de las cometas; su labor es el tema del documental de 2022 'All That Breathes' (Todo lo que respira).",
+  "funFact": "Se ha documentado que milanos negros del norte de Australia recogen palos encendidos y los dejan caer para propagar incendios de pastos y hacer salir a sus presas.",
+  "animal": {
+   "diet": "Carroña, basura, peces, roedores, insectos y aves pequeñas; carroñero oportunista",
+   "habitat": "Ciudades, aldeas, riberas, humedales y campo abierto",
+   "size": "Unos 50–60 cm de longitud; envergadura de unos 130–155 cm",
+   "behaviour": "Planea y gira sobre las ciudades durante horas, y luego desciende en picado para atrapar restos con las patas; en los días de verano pueden girar juntas bandadas de cientos de aves.",
+   "fieldMarks": [
+    "Rapaz pardo oscura con una cola larga y ligeramente ahorquillada (parece recta cuando está totalmente abierta)",
+    "Alas largas y acodadas, con un panel claro en la cara superior y 'ventanas' más claras cerca de las puntas por debajo",
+    "Cabeza clara con una mancha ocular oscura; patas amarillas",
+    "Giro constante de la cola en vuelo"
+   ],
+   "voice": "Un relincho agudo y trémulo, 'pii-errrr', a menudo emitido en vuelo",
+   "lookalikes": "El milano brahmán es castaño, con la cabeza blanca y la cola redondeada; el milano real (raro en Asia) es rufo y tiene la cola profundamente ahorquillada; los aguiluchos laguneros tienen la cola larga y sin horquilla y planean con las alas levantadas.",
+   "whereToSee": "Sobre todas las grandes ciudades del sur de Asia, sobre todo Delhi, Lahore, Karachi y Daca",
+   "season": "Residente en las ciudades del sur de Asia; la forma de orejas negras (lineatus) es visitante invernal procedente de Asia central y oriental",
+   "order": "Accipitriformes"
+  }
+ },
+ {
+  "scientific": "Tachyspiza badia",
+  "common": "Gavilán shikra",
+  "summary": "Pequeño gavilán de un gris pálido que caza lagartijas y aves en jardines y arboledas del sur de Asia y África. Su nombre procede de la misma raíz que 'shikar', la caza, y los cetreros del subcontinente lo utilizaban.",
+  "nativeRange": "África subsahariana y, desde el sur de Asia central e Irán, por Pakistán, India y Sri Lanka, hasta el sur de China y el Sudeste Asiático",
+  "biomes": [
+   "Bosque abierto",
+   "Urbano",
+   "Tierras de cultivo",
+   "Sabana"
+  ],
+  "abilities": [
+   "Embosca a sus presas desde un posadero oculto con una arrancada corta y rápida",
+   "Captura del suelo muchas lagartijas e insectos grandes, además de aves pequeñas",
+   "Vive discretamente en parques y jardines urbanos, a menudo inadvertido"
+  ],
+  "lore": "Los shikras se adiestraban para la caza menor en la cetrería mogol y, más tarde, en la india, y la palabra inglesa 'shikra' se tomó directamente del indostaní.",
+  "funFact": "Un estudio genético de 2024 dividió el antiguo género Accipiter, y el shikra pasó al género recuperado Tachyspiza.",
+  "animal": {
+   "diet": "Lagartijas, aves pequeñas, roedores, insectos grandes y ranas",
+   "habitat": "Bosque abierto, arboledas, jardines y tierras de cultivo",
+   "size": "Unos 26–30 cm de longitud",
+   "behaviour": "Se posa en un árbol frondoso y lanza un ataque corto y rápido, volando bajo y veloz; las aves pequeñas emiten secos reclamos de alarma cuando aparece, y el drongo real imita su reclamo.",
+   "fieldMarks": [
+    "Gavilán pequeño con alas cortas y redondeadas y cola mediana",
+    "Adulto gris azulado pálido por encima, con un fino barrado rufo por debajo",
+    "Fina lista oscura en el centro de la garganta",
+    "Ojo rojo (macho) o amarillo (hembra); patas amarillas"
+   ],
+   "voice": "Un fuerte y estridente 'ti-tui' o 'kik-ki', repetido; a menudo se oye antes de verse",
+   "lookalikes": "El gavilán común (invernante en Pakistán y el Himalaya) tiene la cola más larga y el dorso de un gris más oscuro; el gavilán besra es más oscuro, con una marcada lista gular y un barrado más grueso; el dorso gris pálido y el fino barrado rufo del shikra son característicos.",
+   "whereToSee": "Parques urbanos, huertos frutales y árboles junto a canales en todo Pakistán y la India",
+   "season": "Residente todo el año",
+   "order": "Accipitriformes"
+  }
+ },
+ {
+  "scientific": "Lophophorus impejanus",
+  "common": "Monal colirrojo (monal del Himalaya)",
+  "summary": "Faisán de los prados y bosques altos del Himalaya cuyo macho reluce en verde metálico, cobre, púrpura y azul, coronado por una cresta de plumas filiformes con la punta en forma de espátula. Es el ave nacional de Nepal.",
+  "nativeRange": "Himalaya, desde el este de Afganistán y el norte de Pakistán, por India, Nepal y Bután, hasta el sur del Tíbet y el noreste de la India",
+  "biomes": [
+   "Bosque montano",
+   "Prado alpino"
+  ],
+  "abilities": [
+   "Escarba con energía con su fuerte pico curvo en busca de raíces, tubérculos y larvas de insectos, incluso a través de la nieve",
+   "Vive entre unos 2.100 y 4.500 m y desciende ladera abajo en invierno",
+   "El plumaje del macho tiene un color estructural iridiscente que cambia con el ángulo de la luz"
+  ],
+  "lore": "Con el nombre de Danphe es el ave nacional de Nepal y aparece en sellos nepalíes; también es el ave oficial de Uttarakhand. En Himachal Pradesh los hombres llevaban antiguamente la cresta del macho en la gorra, costumbre que impulsó su caza hasta que se le concedió protección legal.",
+  "funFact": "El antiguo nombre inglés 'Impeyan pheasant' y el epíteto específico honran a Lady Mary Impey, que mantuvo una colección de animales en la Calcuta del siglo XVIII.",
+  "animal": {
+   "diet": "Tubérculos, raíces, brotes, semillas, bayas e invertebrados",
+   "habitat": "Bosque de robles, rododendros y coníferas con laderas herbosas abiertas y prados alpinos",
+   "size": "Unos 63–72 cm de longitud; los machos, hasta unos 2,4 kg",
+   "behaviour": "Se alimenta en grupos laxos en laderas abiertas al amanecer y al anochecer; cuando se le levanta, se precipita ladera abajo con un silbido resonante.",
+   "fieldMarks": [
+    "Macho: cabeza verde iridiscente, cresta de plumas con punta en espátula, nuca cobriza, dorso azul purpúreo",
+    "Macho: llamativo obispillo blanco y cola rufo canela en vuelo",
+    "Hembra: parda jaspeada, con garganta blanca, piel desnuda azul alrededor del ojo y cola con la punta blanca",
+    "Pico robusto y curvo, que usa para escarbar"
+   ],
+   "voice": "Silbidos fuertes y lastimeros, 'cur-leiu' o 'cliii-uic', que se oyen a menudo al amanecer y cuando se le levanta",
+   "lookalikes": "El monal de Sclater (Himalaya oriental) tiene la cresta rizada y la cola con la punta blanca; el monal chino (centro de China, fuera de su área) tiene una cresta púrpura caída en lugar de plumas en espátula; el faisán koklass es gris listado, con un largo penacho auricular oscuro.",
+   "whereToSee": "Valles de Kaghan y Neelum y Ayubia en Pakistán; Tungnath-Chopta y Kedarnath en Uttarakhand; parques nacionales de Sagarmatha y Langtang en Nepal",
+   "season": "Residente; en invierno desciende a bosques más bajos; más fácil de ver en primavera y otoño",
+   "order": "Galliformes"
+  }
+ },
+ {
+  "scientific": "Tragopan melanocephalus",
+  "common": "Tragopán occidental",
+  "summary": "Quizá el faisán más raro del Himalaya occidental: el macho es negro y carmesí, salpicado de motas blancas, y en la exhibición hincha una vistosa papada azul y rosa y dos 'cuernos' carnosos azules. Vive en una estrecha franja de bosque templado en Pakistán y la India.",
+  "nativeRange": "Himalaya occidental: Kohistán y Cachemira en el norte de Pakistán; Jammu y Cachemira, Himachal Pradesh y el oeste de Uttarakhand en la India",
+  "biomes": [
+   "Bosque montano"
+  ],
+  "abilities": [
+   "Durante la exhibición nupcial, el macho hincha una papada de piel desnuda en forma de babero y yergue unos 'cuernos' carnosos",
+   "Sobrevive a los nevados inviernos del Himalaya alimentándose de hojas, brotes y semillas",
+   "Algo inusual en un faisán: a menudo se alimenta y duerme en los árboles"
+  ],
+  "lore": "Con el nombre de 'jujurana' es el ave oficial de Himachal Pradesh, y un programa de cría en cautividad en Sarahan (Himachal) reproduce la especie desde la década de 1990.",
+  "funFact": "Los 'cuernos' carnosos que dan nombre a los tragopanes (del griego, 'Pan cabra') son piel desnuda que el macho solo yergue durante la exhibición.",
+  "animal": {
+   "diet": "Hojas, brotes, yemas, semillas, bellotas y algunos invertebrados",
+   "habitat": "Bosque templado y subalpino denso de robles, abetos y rododendros con sotobosque espeso, a unos 1.750–3.600 m",
+   "size": "Machos de unos 55–72 cm de longitud (las cifras publicadas varían)",
+   "behaviour": "Extremadamente tímido y rara vez visto; en primavera los machos cantan desde laderas boscosas empinadas y se exhiben ocultos a la vista.",
+   "fieldMarks": [
+    "Macho: cabeza y pecho negros con el cuello carmesí; cuerpo cubierto de motas blancas ribeteadas de negro",
+    "Macho: piel facial desnuda roja, papada azul y cuernos carnosos azules visibles en la exhibición",
+    "Hembra: pardo grisácea, finamente vermiculada y moteada de blanco",
+    "Silueta de faisán robusto y de cola corta"
+   ],
+   "voice": "Un fuerte lamento, como el balido de una cabra, 'uaa-uaa-uu-a', emitido sobre todo al amanecer en primavera",
+   "lookalikes": "El tragopán sátiro (Himalaya central y oriental) es en conjunto de un rojo intenso con motas blancas y el pecho rojo; sus áreas apenas se tocan, y el cuerpo negro y gris y el cuello carmesí del occidental lo distinguen.",
+   "whereToSee": "Parque Nacional del Gran Himalaya y Santuario de Daranghati en Himachal Pradesh; valle de Palas en Kohistán (Pakistán)",
+   "season": "Residente; los machos cantan de abril a junio; desciende en invierno",
+   "order": "Galliformes"
+  }
+ },
+ {
+  "scientific": "Catreus wallichii",
+  "common": "Faisán de Wallich (faisán chir)",
+  "summary": "Faisán claro y de cola larga de las empinadas laderas herbosas del Himalaya, de color ante grisáceo y densamente barrado, con una larga cresta dirigida hacia atrás. Su dependencia de pastizales con matorral mantenidos por el pastoreo y el fuego lo hace inusual entre los faisanes del Himalaya.",
+  "nativeRange": "Himalaya occidental y central, desde el norte de Pakistán (hoy muy raro), por Himachal Pradesh y Uttarakhand, hasta el centro de Nepal",
+  "biomes": [
+   "Pastizal montano",
+   "Matorral"
+  ],
+  "abilities": [
+   "Vive en laderas de hierba y matorral escarpadas que la mayoría de los faisanes evitan",
+   "Escarba con el pico en busca de raíces y tubérculos",
+   "Parejas y familias cantan en un fuerte coro al amanecer y al anochecer"
+  ],
+  "lore": "El nombre científico honra a Nathaniel Wallich, el botánico danés que dirigió el Jardín Botánico de Calcuta a principios del siglo XIX.",
+  "funFact": "A diferencia de la mayoría de los faisanes, parece depender de pastizales mantenidos abiertos por el pastoreo, la siega y las quemas de las aldeas, de modo que los cambios en los usos tradicionales del suelo pueden perjudicarlo.",
+  "animal": {
+   "diet": "Raíces, tubérculos, semillas, larvas e insectos",
+   "habitat": "Laderas herbosas empinadas con matorral y árboles dispersos, aproximadamente entre 1.200 y 3.000 m",
+   "size": "Machos de unos 90–118 cm, incluida la larga cola",
+   "behaviour": "Los bandos se alimentan en silencio entre la hierba densa y son muy difíciles de ver; cantan con fuerza al amanecer y al anochecer, y huyen volando ladera abajo cuando se les molesta.",
+   "fieldMarks": [
+    "Cuerpo ante claro y gris, barrado y moteado de negro",
+    "Cola muy larga, puntiaguda y con anchas barras",
+    "Cresta larga y filamentosa peinada hacia atrás desde el píleo",
+    "Piel desnuda roja alrededor del ojo"
+   ],
+   "voice": "Un fuerte y resonante 'chir-a-pir, chir-a-pir, chir chir chirua', emitido a dúo o en coro al amanecer y al anochecer",
+   "lookalikes": "El faisán kalij es negro azulado oscuro con el obispillo blanco; el koklass es más gris, con la cabeza oscura y largos penachos auriculares; el plumaje claro y barrado y la cola muy larga del faisán de Wallich son característicos.",
+   "whereToSee": "Santuario de Majathal y Chail en Himachal Pradesh; Reserva de Caza de Dhorpatan en Nepal",
+   "season": "Residente; más vocal en primavera",
+   "order": "Galliformes"
+  }
+ },
+ {
+  "scientific": "Alectoris chukar",
+  "common": "Perdiz chucar",
+  "summary": "Perdiz rechoncha, gris y ante, de las laderas rocosas, con un collar negro que enmarca una garganta crema y llamativas barras negras en los flancos. Es el ave nacional de Pakistán y una figura célebre de la poesía urdu y panyabí.",
+  "nativeRange": "Sureste de Europa y Turquía, por Oriente Próximo, Asia central, Afganistán, Pakistán y el Himalaya occidental, hasta China y Mongolia; introducida en el oeste de Norteamérica, Hawái y Nueva Zelanda",
+  "biomes": [
+   "Ladera rocosa",
+   "Matorral seco",
+   "Pastizal montano"
+  ],
+  "abilities": [
+   "Huye corriendo cuesta arriba y aletea para mejorar la tracción en pendientes pronunciadas",
+   "Sobrevive en montañas áridas obteniendo gran parte del agua de plantas verdes e insectos",
+   "Las poblaciones introducidas prosperan en las sierras secas del oeste de EE. UU."
+  ],
+  "lore": "En la poesía urdu, panyabí e hindi se dice que el chakor contempla la luna toda la noche y bebe su luz, símbolo del anhelo devoto del enamorado. Es el ave nacional de Pakistán, y en el noroeste se crían tradicionalmente perdices chucar para peleas.",
+  "funFact": "Introducida en Nevada y otros estados del oeste de EE. UU. para la caza, la perdiz chucar prospera hoy en terrenos abruptos donde viven pocas aves de caza nativas.",
+  "animal": {
+   "diet": "Semillas, hierbas, hojas, bayas e insectos",
+   "habitat": "Colinas y laderas de montaña rocosas y con escasa vegetación, desde cerca del nivel del mar hasta más de 4.000 m",
+   "size": "Unos 32–35 cm de longitud",
+   "behaviour": "Los bandos suben corriendo por las laderas en lugar de volar, y luego se lanzan al aire y planean cuesta abajo con las alas arqueadas; los machos cantan con fuerza desde las rocas.",
+   "fieldMarks": [
+    "Dorso pardo grisáceo y pecho gris azulado",
+    "Garganta y cara blanco crema, bordeadas por una banda negra que atraviesa el ojo y rodea la garganta",
+    "Llamativas barras negras y castañas en los flancos claros",
+    "Pico rojo, patas rojas y anillo ocular rojo"
+   ],
+   "voice": "Un fuerte 'chuc-chuc-chucar-chucar' que se acelera, del que deriva su nombre",
+   "lookalikes": "La perdiz griega (sureste de Europa) tiene la garganta blanca sin tonos ante; la perdiz see-see (colinas bajas de Pakistán) es mucho más pequeña, de color arena y sin collar negro; la perdiz roja (oeste de Europa) tiene un collar negro que se deshace en listas.",
+   "whereToSee": "Salt Range, colinas de Margalla, tierras altas de Baluchistán y Gilgit-Baltistán en Pakistán; Ladakh y Spiti en la India",
+   "season": "Residente todo el año",
+   "order": "Galliformes"
+  }
+ },
+ {
+  "scientific": "Ortygornis pondicerianus",
+  "common": "Francolín gris",
+  "summary": "Perdiz de color pardo grisáceo finamente barrado, propia de las llanuras secas, cuyos fuertes y rítmicos reclamos resuenan al amanecer en los campos de Pakistán y la India. Es el 'teetar' de la vida rural, criado desde antiguo como ave canora de jaula y de pelea en el Punyab.",
+  "nativeRange": "Sureste de Irán y el golfo Pérsico, por Pakistán, la India y el terai de Nepal, hasta Sri Lanka; introducido en las islas Andamán, Hawái y otros lugares",
+  "biomes": [
+   "Matorral seco",
+   "Tierras de cultivo",
+   "Semidesierto"
+  ],
+  "abilities": [
+   "Prospera en matorral árido y llanuras cultivadas con poca cobertura",
+   "Los machos cantan a dúo con sus vecinos para proclamar su territorio",
+   "Prefiere correr a volar y escapa a través de los campos de cultivo"
+  ],
+  "lore": "El teetar que canta en una jaula de caña es una imagen tradicional del Punyab rural, y los dichos sobre el ave se repiten en el habla popular panyabí y urdu; las peleas de teetar eran un pasatiempo muy extendido en las aldeas.",
+  "funFact": "El epíteto pondicerianus alude a Pondicherry, la colonia francesa del sur de la India desde la que llegaron a Europa los primeros ejemplares.",
+  "animal": {
+   "diet": "Semillas, grano, brotes e insectos como termitas y escarabajos",
+   "habitat": "Llanuras abiertas y secas, matorral espinoso, bordes de cultivos y semidesierto",
+   "size": "Unos 30–34 cm de longitud",
+   "behaviour": "Parejas y pequeños bandos buscan alimento en el suelo a primera hora de la mañana y a última de la tarde, y por la noche duermen en árboles y arbustos espinosos.",
+   "fieldMarks": [
+    "Partes superiores pardo grisáceas finamente barradas de ante y castaño",
+    "Partes inferiores claras, densamente barradas",
+    "Garganta ante rufa bordeada por una fina línea oscura",
+    "Plumas caudales externas castañas, visibles en vuelo"
+   ],
+   "voice": "Un fuerte y resonante 'ca-ti-tar, ca-ti-tar' o 'pateela-pateela' repetido, que a menudo se acelera; uno de los sonidos característicos del amanecer en las llanuras del Indo",
+   "lookalikes": "El macho de francolín ventrinegro es negro, con la mejilla blanca y un collar castaño; las hembras de francolín ventrinegro tienen una mancha castaña en la parte posterior del cuello; el francolín pintado (centro de la India) está moteado de blanco sobre negro.",
+   "whereToSee": "Común en tierras de cultivo secas y matorrales de todo el Punyab y Sind, en los bordes del desierto de Thar y en la India peninsular",
+   "season": "Residente todo el año",
+   "order": "Galliformes"
+  }
+ },
+ {
+  "scientific": "Dicrurus macrocercus",
+  "common": "Drongo real",
+  "summary": "Ave de un negro brillante y cola ahorquillada que viaja a lomos del ganado en pastoreo y se lanza en picado sin miedo contra cuervos, milanos y águilas que se acercan a su nido. Las aves más pequeñas suelen nidificar cerca de los drongos en busca de protección.",
+  "nativeRange": "Sureste de Irán y Afganistán, por Pakistán, India, Sri Lanka, Nepal y Bangladés, hasta el sur de China, el Sudeste Asiático y Java; introducido en las islas Marianas",
+  "biomes": [
+   "Tierras de cultivo",
+   "Bosque abierto",
+   "Pastizal",
+   "Urbano"
+  ],
+  "abilities": [
+   "Ataca con agresividad a rapaces mucho más grandes y a cuervos cerca de su nido",
+   "Caza al vuelo los insectos que levantan el ganado, los tractores y los incendios de pastos",
+   "Imita los reclamos de otras especies, entre ellas el gavilán shikra"
+  ],
+  "lore": "Su nombre en hindi y urdu, kotwal, significa 'jefe de policía de la ciudad', en alusión a cómo patrulla y expulsa a los intrusos.",
+  "funFact": "Se sabe que aves más pequeñas, como bulbules y oropéndolas, nidifican cerca de los nidos de drongo, al parecer para beneficiarse de su agresiva defensa.",
+  "animal": {
+   "diet": "Insectos capturados en el aire o en el suelo: saltamontes, polillas, termitas y abejas; ocasionalmente pequeños vertebrados",
+   "habitat": "Tierras de cultivo abiertas, pastizales, bordes de carreteras y bosque claro",
+   "size": "Unos 28–31 cm, incluida la cola",
+   "behaviour": "Se posa en cables, postes de cercas y a lomos de búfalos y vacas, desde donde sale tras los insectos; en la época de cría persigue y golpea a rapaces muchas veces más grandes que él.",
+   "fieldMarks": [
+    "Plumaje enteramente negro azulado brillante",
+    "Cola larga y profundamente ahorquillada, con las puntas externas abiertas hacia fuera",
+    "Pequeña mancha blanca en la comisura del pico en los adultos",
+    "Postura erguida en posaderos expuestos"
+   ],
+   "voice": "Reclamos ásperos y variados, 'ti-tiu' y 'chiis-chiis'; a menudo es una de las primeras aves en cantar antes del amanecer",
+   "lookalikes": "El drongo cenizo es gris pizarra con el ojo rojo; el drongo bronceado y el drongo de raquetas son aves de bosque, este último con largas raquetas en la cola, como de alambre; el macho de koel común es negro, pero tiene el ojo rojo y el pico claro.",
+   "whereToSee": "Común sobre las tierras de cultivo de todo Pakistán y la India; fácil de ver sobre el ganado en las llanuras del Indo y el Ganges",
+   "season": "Mayoritariamente residente; las poblaciones del norte (incluida gran parte de Pakistán) son en parte migratorias y están más extendidas en verano",
+   "order": "Passeriformes"
+  }
+ },
+ {
+  "scientific": "Terpsiphone paradisi",
+  "common": "Monarca colilargo indio (monarca del paraíso)",
+  "summary": "Pequeño papamoscas cuyo macho adulto arrastra dos plumas caudales como cintas, varias veces más largas que su cuerpo, de color rufo o blanco, con la cabeza crestada de un negro brillante. Verlo flotar a través de una arboleda sombría es una de las estampas clásicas del monzón en el sur de Asia.",
+  "nativeRange": "Cría desde el Turquestán y Afganistán, por el norte de Pakistán, el Himalaya y la India, hasta Sri Lanka y Bangladés; las aves del norte invernan en el sur de la India y Sri Lanka",
+  "biomes": [
+   "Bosque",
+   "Bosque ribereño",
+   "Jardines"
+  ],
+  "abilities": [
+   "Al macho le crecen unas plumas caudales en cinta que pueden añadir más de 20 cm a un cuerpo de unos 20 cm",
+   "Captura insectos en ágiles salidas aéreas bajo el dosel",
+   "Los machos presentan dos morfos de color, rufo y blanco"
+  ],
+  "lore": "Es el ave oficial de Madhya Pradesh, y su nombre urdu, shah bulbul ('bulbul rey'), refleja su cola majestuosa.",
+  "funFact": "Los machos jóvenes empiezan siendo rufos como las hembras, y algunos machos blancos solo se vuelven blancos tras varias mudas.",
+  "animal": {
+   "diet": "Insectos voladores: moscas, polillas, mariposas y escarabajos",
+   "habitat": "Bosque caducifolio sombrío, arboledas, huertos frutales y jardines arbolados, a menudo cerca del agua",
+   "size": "Cuerpo de unos 19–22 cm; las cintas del macho añaden hasta unos 24 cm",
+   "behaviour": "Ambos progenitores se reparten la incubación, incluido el macho de cola larga, cuyas cintas cuelgan por el borde del pequeño nido en forma de taza.",
+   "fieldMarks": [
+    "Cabeza negra brillante con cresta corta y anillo ocular azul en ambos sexos",
+    "Macho adulto: plumas caudales centrales muy largas, de color castaño rufo o blancas",
+    "Hembra y macho joven: dorso y cola rufos, pecho gris, sin cintas",
+    "Pico pequeño, gris azulado"
+   ],
+   "voice": "Un reclamo áspero y chirriante, 'che' o 'chue'; un canto corto y gorjeado en la época de cría",
+   "lookalikes": "El monarca colilargo del Amur (de paso en el noreste de la India y el Sudeste Asiático) tiene la garganta de un gris más oscuro y la capucha menos contrastada; el monarca colilargo de Blyth (del noreste de la India al Sudeste Asiático) es muy parecido; la larga cola distingue a los machos de todos los demás papamoscas del sur de Asia.",
+   "whereToSee": "Parque Nacional de las Colinas de Margalla, cerca de Islamabad, y las estribaciones de Murree en verano; Corbett, Pench y Kanha en la India; muy extendido en Sri Lanka en invierno",
+   "season": "Visitante estival en Pakistán y el norte de la India (de abril a septiembre); residente o visitante invernal en el sur",
+   "order": "Passeriformes"
+  }
+ },
+ {
+  "scientific": "Copsychus saularis",
+  "common": "Shama oriental (dayal)",
+  "summary": "Ave de plumaje blanco y negro que levanta la cola y canta melodías dulces y variadas desde tejados y árboles de jardín al amanecer. Con el nombre de doel, es el ave nacional de Bangladés.",
+  "nativeRange": "Pakistán, India, Sri Lanka, Nepal, Bangladés y Myanmar, por el sur de China, hasta el Sudeste Asiático",
+  "biomes": [
+   "Urbano",
+   "Jardines",
+   "Bosque abierto",
+   "Tierras de cultivo"
+  ],
+  "abilities": [
+   "Canto rico y variado que incluye imitaciones de otras aves",
+   "Nidifica con facilidad en agujeros de muros y cajas nido en aldeas y ciudades",
+   "Los machos defienden ferozmente sus territorios y cantan durante los meses más calurosos"
+  ],
+  "lore": "El doel es el ave nacional de Bangladés y da nombre al Doel Chattar, un conocido monumento de Daca. En el Sudeste Asiático se capturó y se tuvo en jaula durante mucho tiempo por su canto, lo que provocó su declive en Singapur y partes de Indonesia.",
+  "animal": {
+   "diet": "Insectos y otros invertebrados; ocasionalmente lagartijas pequeñas, néctar y fruta",
+   "habitat": "Jardines, aldeas, bosque abierto y cultivos",
+   "size": "Unos 19–21 cm de longitud",
+   "behaviour": "Salta por el suelo con la cola levantada y abierta en abanico, moviéndola arriba y abajo; los machos cantan desde posaderos expuestos, sobre todo al amanecer.",
+   "fieldMarks": [
+    "Macho: cabeza, pecho y partes superiores negro azulados brillantes, con el vientre blanco",
+    "Llamativa franja alar blanca y plumas caudales externas blancas",
+    "Hembra: mismo diseño, pero gris donde el macho es negro",
+    "Cola a menudo levantada en vertical"
+   ],
+   "voice": "Canto dulce y variado de silbidos y gorjeos, a menudo con imitaciones; alarma: un 'chrrr' de reprimenda",
+   "lookalikes": "El shama culiblanco tiene la cola larga, el vientre naranja y el obispillo blanco; la tarabilla pía es más pequeña, de cola corta y sin blanco en los lados de la cola; el macho de petirrojo indio es negro con la zona cloacal castaña.",
+   "whereToSee": "Jardines de Daca, Calcuta y Colombo; barrios arbolados de Lahore e Islamabad; muy extendido en las ciudades del Sudeste Asiático",
+   "season": "Residente todo el año; canta sobre todo de febrero a junio",
+   "order": "Passeriformes"
+  }
+ },
+ {
+  "scientific": "Pitta brachyura",
+  "common": "Pita india",
+  "summary": "Ave terrestre rechoncha y de cola corta, pintada de verde, azul cielo, ante, negro y escarlata, que salta por el suelo del bosque dando la vuelta a las hojas. Migra dentro del subcontinente y llega a los bosques del norte con el monzón para criar.",
+  "nativeRange": "Cría en las estribaciones del Himalaya (del noreste de Pakistán a Nepal) y en el centro y oeste de la India; inverna en la India peninsular y Sri Lanka",
+  "biomes": [
+   "Bosque caducifolio",
+   "Bosque de matorral",
+   "Jardines"
+  ],
+  "abilities": [
+   "Migra de noche dentro del sur de Asia y a veces aparece exhausta en las ciudades",
+   "Aparta las hojas secas con el pico para dejar al descubierto insectos y gusanos",
+   "Construye un gran nido abovedado de ramitas y hojas en el suelo o cerca de él"
+  ],
+  "lore": "Su nombre popular, navrang, 'nueve colores', se usa en todo el norte de la India para un ave cuyo plumaje parece reunir todos los colores del bosque.",
+  "funFact": "Las pitas indias en migración aparecen con regularidad en ciudades del sur de la India y Sri Lanka tras chocar con edificios durante sus vuelos nocturnos.",
+  "animal": {
+   "diet": "Insectos, lombrices, caracoles y otros invertebrados del suelo",
+   "habitat": "Sotobosque de bosque caducifolio y perennifolio, jungla de matorral y jardines con abundante vegetación",
+   "size": "Unos 15–19 cm de longitud",
+   "behaviour": "Casi siempre silenciosa y reservada, pero canta con fuerza al amanecer y al anochecer, a menudo desde un posadero en un árbol en la época de cría.",
+   "fieldMarks": [
+    "Ave robusta, casi sin cola, de patas largas",
+    "Dorso verde brillante; mancha azul reluciente en el ala y el obispillo",
+    "Partes inferiores ante, con el vientre y la zona cloacal de un escarlata carmesí",
+    "Marcada lista ocular negra con blanco encima y una lista ante en el píleo"
+   ],
+   "voice": "Un silbido fuerte y claro de dos notas, 'uiit-tiu', emitido sobre todo al amanecer y al anochecer",
+   "lookalikes": "La pita encapuchada (noreste de la India, Sudeste Asiático) tiene la cabeza negra con el píleo castaño y carece de ceja blanca; la pita aliazul tiene la cabeza más oscura y más azul en el ala.",
+   "whereToSee": "Bosques de cría de Uttarakhand, Madhya Pradesh y Maharashtra; en invernada, en la zona seca de Sri Lanka y los Ghats occidentales; ocasionalmente en las colinas de Margalla (Pakistán)",
+   "season": "Cría en verano (monzón) en el norte (de mayo a septiembre); visitante invernal en el sur y Sri Lanka (de octubre a abril)",
+   "order": "Passeriformes"
+  }
+ },
+ {
+  "scientific": "Psilopogon haemacephalus",
+  "common": "Barbudo calderero",
+  "summary": "Pequeño barbudo verde con la frente y una mancha pectoral carmesíes, cuyo monótono y metálico 'tuc-tuc-tuc' suena como un calderero martilleando una olla. Es un frugívoro familiar de las higueras de las ciudades desde Pakistán hasta Filipinas.",
+  "nativeRange": "Pakistán (Punyab y noroeste), India, Sri Lanka, Nepal y Bangladés, por el Sudeste Asiático, hasta Filipinas y las islas de la Sonda Mayores",
+  "biomes": [
+   "Urbano",
+   "Bosque abierto",
+   "Jardines"
+  ],
+  "abilities": [
+   "Dispersa las semillas de higueras y otros árboles frutales",
+   "Excava su propio agujero de nido en madera muerta y blanda",
+   "Canta durante largos periodos, inflando la garganta con cada nota"
+  ],
+  "lore": "Sus nombres en inglés e hindi describen el reclamo; en las ciudades del norte de la India, su martilleo constante es uno de los sonidos característicos de la estación cálida.",
+  "funFact": "Al cantar, cada 'tuc' va acompañado de un abultamiento visible de la piel de la garganta, mientras el ave gira la cabeza de modo que el sonido parece venir de distintas direcciones.",
+  "animal": {
+   "diet": "Principalmente higos y otras frutas; algunos insectos",
+   "habitat": "Arboledas, jardines y bosque abierto con higueras y otros árboles frutales",
+   "size": "Unos 15–17 cm de longitud",
+   "behaviour": "A menudo se posa por la mañana en una rama desnuda en lo alto de un árbol, al sol, cantando y girando la cabeza a izquierda y derecha con cada nota.",
+   "fieldMarks": [
+    "Barbudo verde, pequeño y rechoncho, de pico robusto",
+    "Frente carmesí y mancha carmesí en la parte alta del pecho",
+    "Garganta amarilla y manchas amarillas encima y debajo del ojo, separadas por negro",
+    "Partes inferiores claras listadas de verde"
+   ],
+   "voice": "Un 'tuc… tuc… tuc' fuerte, repetitivo y metálico, mantenido durante minutos, como un martillo sobre cobre",
+   "lookalikes": "El barbudo cabecipardo es más grande, con la cabeza parda y listada y una mancha ocular naranja; el barbudo gorgiazul (Himalaya) tiene la cara y la garganta azules.",
+   "whereToSee": "Higueras y pipales de Lahore, Delhi, Calcuta y Colombo; Parque Nacional de Keoladeo",
+   "season": "Residente; canta con fuerza de febrero a mayo",
+   "order": "Piciformes"
+  }
+ },
+ {
+  "scientific": "Ocyceros birostris",
+  "common": "Cálao gris indio",
+  "summary": "Cálao gris y discreto, con un casco negro sobre el pico curvo, común en arboledas, templos y avenidas urbanas de gran parte del subcontinente. Como otros cálaos, la hembra se empareda dentro de un nido en el hueco de un árbol mientras el macho la alimenta a través de una rendija.",
+  "nativeRange": "Subcontinente indio: este de Pakistán, India y el terai de Nepal, al sur del Himalaya",
+  "biomes": [
+   "Bosque abierto",
+   "Urbano",
+   "Bosque caducifolio seco"
+  ],
+  "abilities": [
+   "La hembra sella la entrada del nido con barro y excrementos, dejando solo una estrecha rendija",
+   "Dispersa las grandes semillas de higueras y otros árboles frutales",
+   "Sobrevive en parques y avenidas urbanas con higueras viejas"
+  ],
+  "lore": "Es uno de los pocos cálaos que viven en grandes ciudades del sur de Asia, y los observadores de aves urbanos de Delhi y Lahore han seguido durante años a parejas que nidifican en árboles viejos.",
+  "funFact": "Mientras está encerrada, la hembra muda las plumas de vuelo y depende por completo del macho para que le lleve comida.",
+  "animal": {
+   "diet": "Principalmente fruta, sobre todo higos; también insectos, lagartijas y aves pequeñas",
+   "habitat": "Bosque abierto seco, arboledas, jardines y árboles grandes en las ciudades",
+   "size": "Unos 50–61 cm de longitud",
+   "behaviour": "Parejas y pequeños grupos vuelan entre los árboles alternando aleteos y planeos; la hembra muda las plumas de vuelo mientras está encerrada en el nido.",
+   "fieldMarks": [
+    "Pardo grisáceo en conjunto, más claro por debajo",
+    "Pico oscuro y curvo con un casco negro puntiagudo",
+    "Cola larga y escalonada con una banda oscura y la punta blanca",
+    "Ceja clara"
+   ],
+   "voice": "Un chillido agudo y estridente, 'kii-kii-kii', y un grito parecido al de un milano",
+   "lookalikes": "El cálao gris de Malabar (Ghats occidentales) carece de casco y tiene el pico amarillento; el cálao gris de Ceilán es endémico de Sri Lanka; el cálao cariblanco, más grande, es blanco y negro.",
+   "whereToSee": "Árboles viejos de parques y avenidas de Lahore (p. ej., Bagh-e-Jinnah); los bosques del Ridge de Delhi; Ranthambore y Keoladeo",
+   "season": "Residente todo el año",
+   "order": "Bucerotiformes"
+  }
+ },
+ {
+  "scientific": "Antigone antigone",
+  "common": "Grulla sarus",
+  "summary": "El ave voladora más alta del mundo, de unos 1,5–1,8 m, gris, con la cabeza y la parte superior del cuello desnudas y rojas. Las parejas son famosas por su fidelidad y cantan a dúo con toques de trompeta en las tierras de cultivo húmedas del norte de la India.",
+  "nativeRange": "Norte y centro de la India, el terai de Nepal, Myanmar, Camboya, Vietnam y Laos, y el norte de Australia; extinguida en Pakistán, Tailandia (reintroducida) y gran parte del Sudeste Asiático",
+  "biomes": [
+   "Humedal",
+   "Tierras de cultivo",
+   "Pastizal"
+  ],
+  "abilities": [
+   "El ave voladora viva más alta",
+   "Las parejas realizan reclamos al unísono sincronizados y danzas con saltos",
+   "Cría en arrozales y estanques de aldea junto a los agricultores"
+  ],
+  "lore": "En el Ramayana, el primer verso del sabio Valmiki nació del dolor al ver a un cazador matar a uno de una pareja de aves krauncha, a menudo identificadas con la grulla sarus. La sarus es el ave oficial de Uttar Pradesh y muchos agricultores, que la consideran sagrada, la protegen.",
+  "funFact": "Uttar Pradesh alberga la mayor población, y la mayoría de estas grullas nidifican en tierras de cultivo y no en áreas protegidas.",
+  "animal": {
+   "diet": "Raíces, tubérculos, grano, plantas acuáticas, insectos, ranas, caracoles y pequeños vertebrados",
+   "habitat": "Marismas, humedales someros, campos inundados y tierras de cultivo húmedas",
+   "size": "Altura de unos 1,5–1,8 m; envergadura de unos 2,2–2,5 m",
+   "behaviour": "Las parejas permanecen juntas todo el año y, durante el monzón, construyen en aguas someras un gran nido en forma de montículo de juncos.",
+   "fieldMarks": [
+    "Grulla muy alta, de un gris pálido, con largas patas de color rosa rojizo",
+    "Piel desnuda roja en la cabeza y la parte superior del cuello; píleo gris",
+    "Pico gris verdoso oscuro",
+    "Plumas terciarias blancas que caen sobre la cola"
+   ],
+   "voice": "Toques de trompeta fuertes y de largo alcance; las parejas emiten un reclamo al unísono en el que las notas largas del macho y las más cortas de la hembra se entrelazan",
+   "lookalikes": "La grulla común (visitante invernal) es más pequeña, con la cabeza y el cuello negros y blancos; la grulla damisela es pequeña, con el cuello negro y penachos auriculares blancos; la grulla brolga (Australia) solo tiene una banda roja en la cabeza y una papada.",
+   "whereToSee": "Tierras de cultivo y humedales de Uttar Pradesh (Etawah, Mainpuri), el Parque Nacional de Keoladeo y el distrito de Kheda en Guyarat; Lumbini en Nepal",
+   "season": "Residente; cría durante el monzón",
+   "order": "Gruiformes"
+  }
+ },
+ {
+  "scientific": "Leucogeranus leucogeranus",
+  "common": "Grulla siberiana (grulla blanca siberiana)",
+  "summary": "Grulla de un blanco níveo con la cara roja y las puntas de las alas negras, que migra desde la tundra ártica hasta los humedales de China. Su bandada occidental, que invernaba en la India e Irán, prácticamente ha desaparecido.",
+  "nativeRange": "Cría en la Yakutia ártica y el oeste de Siberia; la población principal inverna en el lago Poyang, junto al Yangtsé, en China; antiguos lugares de invernada en Irán y la India (Keoladeo)",
+  "biomes": [
+   "Tundra",
+   "Humedal",
+   "Orilla de lago"
+  ],
+  "abilities": [
+   "Migra unos 5.000 km entre Siberia y China",
+   "Escarba en aguas someras en busca de raíces y tubérculos de plantas acuáticas",
+   "Depende de humedales someros muy concretos, lo que la hace muy vulnerable"
+  ],
+  "lore": "Keoladeo (Bharatpur), en la India, fue el célebre lugar de invernada de la población occidental hasta que las últimas aves dejaron de llegar después de 2002. La ruta de la bandada occidental atravesaba Afganistán y Pakistán, donde la caza se cobró un alto precio.",
+  "funFact": "Casi toda la población mundial, unos pocos miles de aves, pasa el invierno en un único sistema lacustre de China.",
+  "animal": {
+   "diet": "Raíces, tubérculos y brotes de plantas acuáticas; también invertebrados y pequeños animales en verano",
+   "habitat": "Humedales de tundra abierta en verano; lagos someros y marismas en invierno",
+   "size": "Unos 140 cm de altura; envergadura de unos 210–230 cm",
+   "behaviour": "Se alimenta en aguas someras sondeando profundamente en el fango; es más estrictamente acuática que cualquier otra grulla.",
+   "fieldMarks": [
+    "Plumaje enteramente blanco, con las primarias negras visibles en vuelo",
+    "Piel desnuda rojo ladrillo en la cara y la frente",
+    "Patas largas de color rosa rojizo y pico largo, ligeramente aserrado",
+    "Los juveniles son de color canela herrumbroso"
+   ],
+   "voice": "Un 'kuunc-kuunc' suave, musical y aflautado, distinto de los ásperos toques de trompeta de otras grullas",
+   "lookalikes": "La cigüeña blanca tiene el pico rojo y plumas de vuelo negras a lo largo de todo el borde posterior del ala; la garceta grande y las espátulas son más esbeltas y carecen de cara roja.",
+   "whereToSee": "Lago Poyang, Jiangxi (China), en invierno; reserva de Momoge, en Jilin, durante la migración",
+   "season": "Visitante invernal en China (de noviembre a marzo); cría en Siberia (de mayo a agosto)",
+   "order": "Gruiformes"
+  }
+ },
+ {
+  "scientific": "Ardeotis nigriceps",
+  "common": "Avutarda india",
+  "summary": "Avutarda alta, de aspecto de avestruz, una de las aves voladoras más pesadas del mundo, reducida hoy a menos de 200 ejemplares (incluidos los que están en cautividad), casi todos en el desierto de Thar, en Rajastán. La colisión con tendidos eléctricos aéreos es una de sus principales causas de muerte.",
+  "nativeRange": "Antiguamente, gran parte de la India y el este de Pakistán; hoy sobre todo el distrito de Jaisalmer (Rajastán), con diminutos restos en Guyarat, Maharashtra y Karnataka; posiblemente ocasional en Cholistán (Pakistán)",
+  "biomes": [
+   "Semidesierto",
+   "Pastizal"
+  ],
+  "abilities": [
+   "Los machos pueden pesar unos 15 kg, entre las aves voladoras más pesadas",
+   "Durante la exhibición, el macho hincha un gran saco gular y levanta la cola mientras emite un sonido retumbante",
+   "Pone un único huevo en el suelo desnudo"
+  ],
+  "lore": "El ornitólogo Salim Ali la propuso como ave nacional de la India. Es el ave oficial de Rajastán, y el Tribunal Supremo de la India ha examinado causas sobre el soterramiento o la señalización de los tendidos eléctricos en su hábitat.",
+  "funFact": "Un centro de cría en cautividad en Jaisalmer ha sacado adelante decenas de pollos desde 2019 como seguro frente a la extinción.",
+  "animal": {
+   "diet": "Saltamontes, escarabajos, lagartijas pequeñas y roedores; también semillas, bayas y brotes",
+   "habitat": "Pastizal árido y semiárido con matorral disperso",
+   "size": "Alrededor de 1 m de altura; machos de hasta unos 15 kg",
+   "behaviour": "Camina despacio por el pastizal; sus ojos orientados hacia delante y su escasa maniobrabilidad en vuelo le impiden esquivar los tendidos eléctricos.",
+   "fieldMarks": [
+    "Ave muy grande, de patas largas y cuerpo horizontal",
+    "Píleo y cresta negros sobre la cabeza y el cuello blancos",
+    "Dorso y alas pardos; los machos tienen una banda pectoral negra",
+    "Diseño alar blanco y negro en vuelo"
+   ],
+   "voice": "Un 'junc' grave y retumbante que se oye a gran distancia, emitido por los machos en exhibición",
+   "lookalikes": "La hubara asiática es mucho más pequeña, de color arena, con una lista negra en el cuello; el sisón indio es pequeño, y los machos reproductores tienen largas plumas en la cabeza.",
+   "whereToSee": "Parque Nacional del Desierto, cerca de Jaisalmer, Rajastán (con permisos)",
+   "season": "Residente; se exhibe sobre todo durante el monzón",
+   "order": "Otidiformes"
+  }
+ },
+ {
+  "scientific": "Gyps indicus",
+  "common": "Buitre indio",
+  "summary": "Gran buitre de la India y Pakistán que nidifica en cortados y que antaño se arremolinaba sobre cada cadáver. Desde la década de 1990 sus efectivos se desplomaron más de un 95 %, envenenados por el diclofenaco, un fármaco veterinario presente en los cadáveres de ganado de los que se alimentaba.",
+  "nativeRange": "Centro y sur peninsular de la India y sureste de Pakistán (Sind, sobre todo Nagarparkar)",
+  "biomes": [
+   "Bosque caducifolio seco",
+   "Tierras de cultivo",
+   "Ladera rocosa"
+  ],
+  "abilities": [
+   "Elimina los cadáveres con rapidez, lo que reduce las enfermedades y las poblaciones de perros asilvestrados",
+   "Planea durante horas sobre las térmicas, escudriñando en busca de alimento",
+   "Nidifica en colonias en cortados y edificios antiguos"
+  ],
+  "lore": "Su desplome llevó a la India, Pakistán y Nepal a prohibir el diclofenaco veterinario en 2006, y la tradición parsi de exponer a los muertos en las Torres del Silencio de Bombay se ha visto alterada por la desaparición de los buitres.",
+  "funFact": "Los investigadores calculan que el desplome de los buitres en la India permitió que aumentaran los cadáveres en descomposición y los perros asilvestrados, con un incremento medible de las muertes humanas.",
+  "animal": {
+   "diet": "Carroña, sobre todo de ganado muerto",
+   "habitat": "Campo abierto cerca de aldeas y cortados; regiones montuosas secas",
+   "size": "Unos 80–100 cm de longitud; envergadura de unos 2 m",
+   "behaviour": "Los grupos descienden sobre un cadáver y pueden dejarlo en los huesos en menos de una hora; nidifican en colonias en repisas de cortados.",
+   "fieldMarks": [
+    "Gran buitre de color pardo arena claro con las plumas de vuelo oscuras",
+    "Cabeza y cuello desnudos de color gris oscuro; gola blanca",
+    "Pico amarillento claro",
+    "Alas largas y anchas mantenidas planas al planear"
+   ],
+   "voice": "Casi siempre silencioso; sisea y gruñe junto a la carroña",
+   "lookalikes": "El buitre picofino (norte de la India, Nepal) es más oscuro, tiene el pico oscuro y fino y nidifica en árboles; el buitre dorsiblanco bengalí es más oscuro, con una mancha blanca en el dorso; el buitre leonado es más grande y rojizo.",
+   "whereToSee": "Cortados de Ranthambore, Orchha y Panna en la India; colinas de Karoonjhar en Nagarparkar (Sind)",
+   "season": "Residente todo el año",
+   "order": "Accipitriformes"
+  }
+ },
+ {
+  "scientific": "Mycteria leucocephala",
+  "common": "Tántalo indio (cigüeña pintada)",
+  "summary": "Gran cigüeña blanca con un pico amarillo de aspecto céreo, la cara desnuda anaranjada y plumas de color rosa en el dorso, que nidifica en ruidosas colonias en árboles de humedales e incluso de aldeas. Sus efectivos se han recuperado lo suficiente como para pasar de Casi amenazada a Preocupación menor en 2023.",
+  "nativeRange": "Pakistán (Sind) e India, por Sri Lanka, Nepal y Bangladés, hasta el Sudeste Asiático y el sur de China",
+  "biomes": [
+   "Humedal",
+   "Tierras de cultivo"
+  ],
+  "abilities": [
+   "Detecta los peces por el tacto barriendo el agua con el pico entreabierto, que cierra de golpe en milisegundos",
+   "Nidifica en grandes colonias mixtas junto con garzas, cormoranes y pelícanos",
+   "Se refresca a sí misma y a sus pollos jadeando y dándoles sombra con las alas extendidas"
+  ],
+  "lore": "En Kokkare Bellur (Karnataka), los aldeanos protegen desde hace mucho a los tántalos y pelícanos que nidifican en sus árboles, y usan sus excrementos como fertilizante.",
+  "funFact": "Su golpe de barrido es un reflejo táctil: puede capturar peces en aguas fangosas a través de las cuales no ve.",
+  "animal": {
+   "diet": "Principalmente peces; también ranas, crustáceos y serpientes",
+   "habitat": "Marismas de agua dulce, lagos, arrozales y embalses",
+   "size": "Unos 93–102 cm de longitud; envergadura de unos 150–160 cm",
+   "behaviour": "Vadea aguas someras con el pico sumergido y entreabierto, moviéndolo de lado a lado y removiendo el agua con una pata.",
+   "fieldMarks": [
+    "Gran cigüeña blanca con un pico amarillo largo, robusto y ligeramente curvado hacia abajo",
+    "Cara desnuda de color rojo anaranjado",
+    "Alas blancas y negras y banda negra que cruza el pecho",
+    "Terciarias teñidas de rosa en el dorso; patas rosadas"
+   ],
+   "voice": "Casi siempre silenciosa; los adultos castañetean el pico en el nido; los pollos emiten fuertes reclamos para pedir comida",
+   "lookalikes": "El picotenaza asiático es más pequeño, grisáceo, con una abertura entre las mandíbulas; la cigüeña lanuda es oscura con el cuello blanco; el ibis cabecinegro tiene la cabeza negra y el pico negro y curvado.",
+   "whereToSee": "Parque Nacional de Keoladeo (Bharatpur), la aldea de Kokkare Bellur en Karnataka y Ranganathittu",
+   "season": "Residente con desplazamientos locales; cría después del monzón (de agosto a marzo)",
+   "order": "Ciconiiformes"
+  }
+ },
+ {
+  "scientific": "Ephippiorhynchus asiaticus",
+  "common": "Jabirú asiático",
+  "summary": "Cigüeña alta y llamativa, de cuello negro brillante con destellos verdes y púrpuras, un enorme pico negro y patas de un rojo coral. Es una de las pocas cigüeñas en las que machos y hembras se distinguen por el color de los ojos.",
+  "nativeRange": "India, Nepal y Sri Lanka, por el Sudeste Asiático, hasta Nueva Guinea y el norte y el este de Australia",
+  "biomes": [
+   "Humedal",
+   "Tierras de cultivo"
+  ],
+  "abilities": [
+   "Caza presas grandes, como peces, tortugas y serpientes",
+   "Las parejas defienden grandes territorios en los humedales",
+   "Realiza en el nido una exhibición de saludo extendiendo las alas y castañeteando el pico"
+  ],
+  "lore": "Los australianos lo llamaron durante mucho tiempo jabiru, nombre tomado de una cigüeña sudamericana bastante distinta.",
+  "funFact": "El iris amarillo de la hembra es una de las formas más sencillas de sexar en el campo a cualquier ave grande.",
+  "animal": {
+   "diet": "Peces, ranas, tortugas, serpientes, crustáceos y ocasionalmente aves",
+   "habitat": "Marismas de agua dulce, riberas, lagos y campos inundados",
+   "size": "Unos 130–150 cm de altura; envergadura de unos 2,3 m",
+   "behaviour": "Acecha lentamente en aguas someras y ensarta las presas con su enorme pico; las parejas nidifican solas en árboles altos, no en colonias.",
+   "fieldMarks": [
+    "Cigüeña muy alta, blanca y negra",
+    "Cabeza y cuello negros y brillantes con reflejos verdes y púrpuras",
+    "Pico negro, recto y enorme",
+    "Patas de un rojo coral brillante; la hembra tiene el iris amarillo y el macho pardo oscuro"
+   ],
+   "voice": "Por lo general silencioso; castañeteo del pico en el nido",
+   "lookalikes": "El marabú menor es gris y tiene la cabeza desnuda; la cigüeña lanuda tiene el cuello blanco; el jabirú africano vive en África.",
+   "whereToSee": "Parque Nacional de Keoladeo y los humedales de Uttar Pradesh en la India; Chitwan y Koshi Tappu en Nepal; Kakadu en Australia",
+   "season": "Residente",
+   "order": "Ciconiiformes"
+  }
+ },
+ {
+  "scientific": "Anas poecilorhyncha",
+  "common": "Ánade picopinto indio",
+  "summary": "Pato de superficie grande, de color pardo escamado, propio de los humedales del sur de Asia, fácil de reconocer por la punta amarilla de su pico oscuro y una mancha roja en la base del pico. Es uno de los pocos patos que residen y crían en todas las llanuras del subcontinente.",
+  "nativeRange": "Pakistán, India, Sri Lanka, Nepal, Bangladés y Myanmar",
+  "biomes": [
+   "Humedal",
+   "Tierras de cultivo"
+  ],
+  "abilities": [
+   "Cría durante el monzón en humedales pequeños con vegetación",
+   "Se alimenta de plantas sumergidas basculando el cuerpo con la cola hacia arriba",
+   "Se alimenta de noche en los arrozales"
+  ],
+  "funFact": "La mancha roja cerca de la base del pico es el principal rasgo de campo que lo separa de su pariente cercano de Asia oriental, el ánade picopinto oriental.",
+  "animal": {
+   "diet": "Plantas acuáticas, semillas, grano e invertebrados",
+   "habitat": "Lagos de agua dulce, marismas, estanques de aldea y arrozales",
+   "size": "Unos 55–63 cm de longitud",
+   "behaviour": "Suele verse en parejas o pequeños grupos; la hembra esconde a los patitos entre carrizos densos.",
+   "fieldMarks": [
+    "Pato pardo grande con el cuerpo densamente escamado y moteado",
+    "Pico oscuro con la punta de un amarillo brillante",
+    "Mancha roja en la cara, en la base del pico (en la forma india)",
+    "Cabeza clara con píleo y lista ocular oscuros; espejuelo verde bordeado de blanco; terciarias blancas"
+   ],
+   "voice": "La hembra emite un fuerte graznido parecido al del ánade azulón; el macho, una nota más suave y áspera",
+   "lookalikes": "El ánade picopinto oriental (Asia oriental) carece de la mancha roja loral y tiene el plumaje corporal más oscuro; la hembra de ánade azulón tiene el pico naranja y oscuro, sin punta amarilla.",
+   "whereToSee": "Parque Nacional de Keoladeo; lagos Haleji y Keenjhar en Sind; humedales de Sri Lanka",
+   "season": "Residente todo el año",
+   "order": "Anseriformes"
+  }
+ },
+ {
+  "scientific": "Hydrophasianus chirurgus",
+  "common": "Jacana colilarga",
+  "summary": "Elegante ave de humedal que camina sobre las hojas de lotos y nenúfares con unos dedos enormemente largos; en plumaje nupcial es de color chocolate y blanco, con la nuca dorada y una cola larga y curva como la de un faisán. Las hembras son poliándricas: se aparean con varios machos, cada uno de los cuales cría solo una puesta.",
+  "nativeRange": "Pakistán e India, por Sri Lanka, Bangladés y el Sudeste Asiático, hasta el sur de China y Taiwán; las aves del norte migran",
+  "biomes": [
+   "Humedal"
+  ],
+  "abilities": [
+   "Reparte su peso sobre unos dedos muy largos para caminar sobre las hojas flotantes",
+   "Las hembras ponen huevos para varios machos, que los incuban y crían a los pollos",
+   "Los machos pueden transportar huevos o pollos bajo las alas para trasladarlos"
+  ],
+  "lore": "En Taiwán se creó en Guantian una reserva dedicada a esta especie después de que una línea de tren de alta velocidad amenazara sus humedales de cría.",
+  "funFact": "Es la única jacana que realiza migraciones de larga distancia: las aves del norte, procedentes de China, se desplazan al sur para pasar el invierno.",
+  "animal": {
+   "diet": "Insectos, caracoles y otros invertebrados, y semillas de plantas acuáticas",
+   "habitat": "Lagos, estanques y marismas con vegetación flotante como lotos y nenúfares",
+   "size": "Unos 39–58 cm en plumaje nupcial, incluida la cola",
+   "behaviour": "La hembra defiende un territorio que contiene los nidos de varios machos; cada macho incuba los huevos en un nido flotante.",
+   "fieldMarks": [
+    "Plumaje nupcial: cuerpo pardo chocolate, cara y cuello blancos, parte posterior del cuello amarillo dorado, cola larga y oscura en forma de hoz",
+    "Alas mayoritariamente blancas, muy llamativas en vuelo",
+    "Plumaje no nupcial: pardo por encima, blanco por debajo, con una banda pectoral oscura y sin cola larga",
+    "Patas y dedos muy largos"
+   ],
+   "voice": "Un maullido nasal, 'me-onp' o 'tiun', emitido a menudo en la época de cría",
+   "lookalikes": "La jacana bronceada es oscura y brillante, con ceja blanca y cola corta; las aves en plumaje no nupcial pueden recordar a una limícola grande, pero los dedos y las alas blancas son característicos.",
+   "whereToSee": "Parque Nacional de Keoladeo; lagos con lotos en Sind (Haleji) y los haors de Bangladés; la reserva de Guantian en Taiwán",
+   "season": "Residente en el sur de Asia; plumaje nupcial durante el monzón (de junio a septiembre)",
+   "order": "Charadriiformes"
+  }
+ },
+ {
+  "scientific": "Ploceus philippinus",
+  "common": "Tejedor baya",
+  "summary": "Tejedor del tamaño de un gorrión cuyos machos reproductores cosen largos nidos colgantes en forma de retorta con tiras de hierba verde y hoja de palmera, a menudo sobre el agua. Las hembras inspeccionan los nidos a medio construir y eligen pareja por la calidad de su trabajo.",
+  "nativeRange": "Pakistán, India, Sri Lanka, Nepal y Bangladés, por Myanmar y Tailandia, hasta Sumatra y Java",
+  "biomes": [
+   "Tierras de cultivo",
+   "Pastizal",
+   "Humedal"
+  ],
+  "abilities": [
+   "Teje los nidos con nudos y lazadas usando tiras de hierba arrancadas de hojas vivas",
+   "Construye un largo tubo de entrada que disuade a serpientes y otros depredadores",
+   "Los machos construyen varios nidos en una temporada y cortejan a las hembras en cada uno",
+   "Aplica pegotes de barro en el interior de la cámara del nido, posiblemente para equilibrarlo con el viento"
+  ],
+  "lore": "El poema 'Swadhinatar Sukh' ('La dicha de la libertad'), del poeta bengalí Rajanikanta Sen, contrapone al tejedor babui en su nido hecho a mano con un gorrión que se cobija en una casa prestada; los escolares de Bangladés y Bengala Occidental lo aprenden de memoria.",
+  "funFact": "Una creencia popular sostiene que el ave pega luciérnagas en el barro del interior del nido para iluminarlo; los pegotes de barro son reales, pero las luciérnagas no.",
+  "animal": {
+   "diet": "Semillas y grano, sobre todo arroz; insectos para los pollos",
+   "habitat": "Cultivos, pastizales y matorral con palmeras, acacias o árboles cerca del agua",
+   "size": "Unos 15 cm de longitud",
+   "behaviour": "Las colonias de nidos cuelgan de palmeras datileras y palmiras, acacias espinosas y cables telefónicos; los machos aletean y cantan en los nidos para atraer a las hembras.",
+   "fieldMarks": [
+    "Macho reproductor: píleo y mancha pectoral de un amarillo brillante, antifaz y garganta pardo oscuros",
+    "Hembra y macho no reproductor: pardos y listados, de aspecto de gorrión, con ceja ante",
+    "Pico cónico y robusto",
+    "El nido colgante en forma de retorta es la señal más fácil de la especie"
+   ],
+   "voice": "Reclamos parloteados, 'chit-chit', y un canto sibilante y chisporroteante de los machos en el nido",
+   "lookalikes": "El tejedor bengalí tiene una banda pectoral negra; el tejedor listado tiene el pecho densamente listado; la hembra se parece al gorrión común, pero tiene el pico más robusto y el píleo listado.",
+   "whereToSee": "Zonas de arroz y caña de azúcar de todo el Punyab, Sind y la India; los nidos se ven con facilidad en Keoladeo y en los arrozales de Kerala y Sri Lanka",
+   "season": "Residente; las colonias están activas durante el monzón (de mayo a septiembre)",
+   "order": "Passeriformes"
+  }
+ },
+ {
+  "scientific": "Orthotomus sutorius",
+  "common": "Sastrecillo común (pájaro sastre)",
+  "summary": "Diminuto pájaro verde de la familia de las currucas, con el píleo rojizo y la cola levantada, que literalmente cose su nido: perfora con el pico los bordes de hojas grandes y las une en forma de taza con seda de araña o fibra vegetal. Su fuerte reclamo contrasta con su tamaño.",
+  "nativeRange": "Pakistán, India, Sri Lanka, Nepal y Bangladés hasta el sur de China, el Sudeste Asiático y Java",
+  "biomes": [
+   "Jardines",
+   "Matorral",
+   "Bosque abierto",
+   "Urbano"
+  ],
+  "abilities": [
+   "Perfora agujeros a lo largo del borde de una hoja y pasa fibras a través de ellos, anudándolas como remaches",
+   "Construye el nido dentro de una o varias hojas vivas, de modo que se mantiene verde y camuflado",
+   "Prospera en jardines urbanos y plantas en maceta"
+  ],
+  "lore": "En 'Rikki-Tikki-Tavi', de Rudyard Kipling, aparecen Darzee y su esposa, una pareja de sastrecillos cuyo nombre es la palabra indostaní para 'sastre'.",
+  "funFact": "Las 'puntadas' no son una verdadera costura: las fibras se pasan por cada agujero y se esponjan por fuera, de modo que sujetan como un remache.",
+  "animal": {
+   "diet": "Pequeños insectos, larvas y arañas",
+   "habitat": "Jardines, setos, matorral, plantaciones y lindes de bosque",
+   "size": "Unos 10–14 cm de longitud; los machos reproductores tienen las plumas caudales centrales más largas",
+   "behaviour": "Inquieto, se mueve entre los arbustos bajos con la cola levantada y agitándola; la cuna de hojas cosidas alberga una taza mullida de vilano vegetal.",
+   "fieldMarks": [
+    "Diminuto pájaro de un verde oliva brillante con las partes inferiores blanquecinas",
+    "Frente y parte delantera del píleo rufas",
+    "Pico largo, fino y ligeramente curvado",
+    "Cola larga mantenida en vertical; a veces con manchas oscuras en la base de la garganta"
+   ],
+   "voice": "Un fuerte 'tuit-tuit-tuit' o 'chiyup-chiyup' repetido, sorprendentemente sonoro para el tamaño del ave",
+   "lookalikes": "El sastrecillo cuellinegro (noreste de la India, Sudeste Asiático) tiene una mancha oscura en la garganta; las prinias son más pardas, con colas largas y escalonadas, y carecen del píleo rufo.",
+   "whereToSee": "Setos y arbustos de jardín en todo Pakistán y la India, p. ej., en Lahore, Karachi, Delhi y Colombo",
+   "season": "Residente todo el año",
+   "order": "Passeriformes"
+  }
+ },
+ {
+  "scientific": "Argya striata",
+  "common": "Tordalino de la jungla",
+  "summary": "Timálido desaliñado, de color pardo grisáceo, que vive en ruidosas pandillas de unas siete a diez aves, saltando por la hojarasca y riñendo sin cesar. Las familias defienden juntas el territorio y ayudan a criar a los pollos de los demás.",
+  "nativeRange": "Pakistán (llanuras del Indo), India, Nepal, Bután y Bangladés",
+  "biomes": [
+   "Bosque",
+   "Jardines",
+   "Matorral"
+  ],
+  "abilities": [
+   "Criador cooperativo: los ayudantes alimentan a pollos que no son suyos",
+   "Los grupos apostan un centinela que vigila a los depredadores mientras los demás se alimentan",
+   "Acosa en grupo a serpientes, gatos y rapaces",
+   "Es hospedador de parásitos de puesta como el críalo blanquinegro y el cuco chikra"
+  ],
+  "lore": "En todo el norte de la India y Bengala se le conoce como 'los siete hermanos' (en inglés, 'seven sisters', 'las siete hermanas'), por su costumbre de desplazarse en grupos familiares que riñen sin parar.",
+  "animal": {
+   "diet": "Insectos, arañas, lagartijas pequeñas, semillas, néctar y fruta",
+   "habitat": "Bosque, matorral, jardines y bordes de cultivos",
+   "size": "Unos 25 cm de longitud",
+   "behaviour": "Los grupos avanzan por la vegetación baja en una procesión desordenada, saltando por el suelo y dando la vuelta a las hojas; los miembros se acicalan mutuamente y se apiñan en las ramas.",
+   "fieldMarks": [
+    "Pardo grisáceo con un listado tenue, de aspecto bastante desaliñado",
+    "Iris amarillo crema pálido y pico amarillento claro",
+    "Cola larga y laxa, y alas cortas y redondeadas",
+    "Siempre en grupos ruidosos"
+   ],
+   "voice": "Un parloteo áspero y continuo, con maullidos 'que-que-que', de todo el grupo",
+   "lookalikes": "El tordalino piquigualdo (sur de la India, Sri Lanka) tiene la cabeza más clara; el tordalino grande tiene las plumas caudales externas blancas; el tordalino común es más pequeño y más listado, y vive en terrenos más secos.",
+   "whereToSee": "Parques y jardines arbolados de toda la India, p. ej., el Lodhi Garden de Delhi y Keoladeo; también Koshi Tappu, en las tierras bajas de Nepal",
+   "season": "Residente todo el año",
+   "order": "Passeriformes"
+  }
+ },
+ {
+  "scientific": "Vanellus indicus",
+  "common": "Avefría india",
+  "summary": "Chorlito alto, de capirote negro, mancha facial blanca y una carúncula carnosa roja delante de cada ojo, cuyos frenéticos reclamos, que en inglés se transcriben 'did-he-do-it', dan la alarma en los campos del sur de Asia a cualquier hora. Nidifica en el suelo desnudo e incluso en azoteas planas de las ciudades.",
+  "nativeRange": "Irak y el golfo Pérsico, por Irán, Afganistán, Pakistán, India, Sri Lanka, Nepal y Bangladés, hasta el Sudeste Asiático",
+  "biomes": [
+   "Tierras de cultivo",
+   "Humedal",
+   "Pastizal",
+   "Urbano"
+  ],
+  "abilities": [
+   "Alerta a todo el entorno de la llegada de personas y depredadores con fuertes reclamos",
+   "Los progenitores se lanzan en picado contra los intrusos y fingen tener un ala rota para distraerlos",
+   "Empapa las plumas del vientre para llevar agua a los huevos y los pollos cuando hace mucho calor"
+  ],
+  "lore": "Un cuento popular muy extendido en el sur de Asia dice que la titeeri duerme boca arriba con las patas en alto, lista para sostener el cielo si llegara a caer; su nombre tamil significa 'la que señala a la gente', por su reclamo de alarma.",
+  "animal": {
+   "diet": "Insectos, caracoles, gusanos y otros invertebrados",
+   "habitat": "Terreno abierto cerca del agua: bordes de campos, riberas, lechos secos de lagos y céspedes",
+   "size": "Unos 32–35 cm de longitud",
+   "behaviour": "Pone sus huevos, muy bien camuflados, en una somera depresión en terreno abierto; los pollos pueden correr y alimentarse por sí mismos a las pocas horas de eclosionar.",
+   "fieldMarks": [
+    "Capirote, garganta y pecho negros, con una mancha blanca en la mejilla que se prolonga hasta el vientre blanco",
+    "Pequeña carúncula carnosa roja delante del ojo; pico rojo con la punta negra",
+    "Dorso pardo claro; patas largas y amarillas",
+    "En vuelo, ancha franja alar blanca y cola blanca y negra"
+   ],
+   "voice": "Un fuerte y estridente 'did-he-do-it, did-he-do-it' o 'pity-to-do-it' (transcripciones inglesas), emitido a menudo en vuelo y de noche",
+   "lookalikes": "La avefría carunculada tiene carúnculas y patas amarillas y vive en terrenos más secos; la avefría coliblanca (invierno) tiene la cabeza pardo grisácea uniforme y la cola blanca; la avefría sociable (rara visitante invernal en Pakistán y la India) tiene el capirote negro con ceja blanca.",
+   "whereToSee": "Bordes de campos y canales de todo el Punyab y Sind; parques urbanos de Lahore, Delhi y Colombo",
+   "season": "Residente todo el año",
+   "order": "Charadriiformes"
+  }
+ },
+ {
+  "scientific": "Centropus sinensis",
+  "common": "Cucal chino (cucal grande)",
+  "summary": "Gran cuco del tamaño de un cuervo, de cuerpo negro brillante, alas castañas y ojo rojo rubí, que trepa por los setos y recorre el suelo en busca de serpientes y caracoles. A diferencia de muchos cucos, construye su propio nido y cría a sus propios pollos.",
+  "nativeRange": "Pakistán, India, Sri Lanka, Nepal y Bangladés, por el sur de China, hasta el Sudeste Asiático y las islas de la Sonda Mayores",
+  "biomes": [
+   "Matorral",
+   "Tierras de cultivo",
+   "Jardines",
+   "Humedal"
+  ],
+  "abilities": [
+   "Caza serpientes, lagartijas, insectos grandes, huevos y pollos",
+   "Construye un nido abovedado de hierba y hojas en la vegetación densa",
+   "Vuela con torpeza y prefiere trepar y correr entre la vegetación"
+  ],
+  "lore": "Los cazadores británicos en la India lo llamaban 'crow pheasant' (faisán cuervo), nombre que aún aparece en los libros de aves indios más antiguos.",
+  "funFact": "Pese a ser un cuco, no es parásito de puesta: ambos progenitores construyen el nido y alimentan a los pollos.",
+  "animal": {
+   "diet": "Insectos grandes, caracoles, lagartijas, serpientes pequeñas, ranas, huevos y pollos; algo de fruta",
+   "habitat": "Matorral denso, setos, carrizales, jardines y lindes de bosque",
+   "size": "Unos 48 cm de longitud",
+   "behaviour": "Camina con paso deliberado por el sotobosque y los bordes de los campos; después de la lluvia toma el sol sobre los arbustos con las alas extendidas.",
+   "fieldMarks": [
+    "Cabeza, cuerpo y larga cola de un negro brillante",
+    "Alas y dorso de un castaño intenso",
+    "Ojo rojo oscuro",
+    "Pico negro y robusto"
+   ],
+   "voice": "Un 'cup-cup-cup' grave, resonante y retumbante, a menudo en largas series y a dúo entre los miembros de la pareja",
+   "lookalikes": "El cucal bengalí es más pequeño, con listas anteadas en el dorso; el macho de koel común es enteramente negro con el pico claro; los cuervos carecen de las alas castañas.",
+   "whereToSee": "Jardines y setos de toda la India y Sri Lanka; orillas de canales y zonas arboladas del norte del Punyab",
+   "season": "Residente todo el año",
+   "order": "Cuculiformes"
+  }
+ },
+ {
+  "scientific": "Athene brama",
+  "common": "Mochuelo brahmán",
+  "summary": "Pequeño búho moteado de blanco, de mirada fija y ojos amarillos, que vive en parejas y grupos familiares en árboles viejos, ruinas y edificios de todo el sur de Asia. Cabecea de forma cómica cuando siente curiosidad y parlotea con fuerza al anochecer.",
+  "nativeRange": "Sur de Irán, por Pakistán, India, Nepal y Bangladés, hasta Myanmar e Indochina (ausente de Sri Lanka)",
+  "biomes": [
+   "Tierras de cultivo",
+   "Urbano",
+   "Bosque abierto",
+   "Semidesierto"
+  ],
+  "abilities": [
+   "Caza escarabajos, polillas y roedores alrededor de las farolas y en las aldeas",
+   "Nidifica en huecos de árboles, grietas de muros y edificios antiguos",
+   "Activo al anochecer y a veces de día"
+  ],
+  "lore": "En la tradición hindú, el búho (uluka) es el vahana (montura) de la diosa Lakshmi; sin embargo, búhos y mochuelos, incluida esta especie, se capturan ilegalmente y se sacrifican en rituales de magia negra en torno a Diwali, un comercio documentado por TRAFFIC India.",
+  "animal": {
+   "diet": "Insectos grandes, roedores, lagartijas y aves pequeñas",
+   "habitat": "Campo abierto, aldeas, ciudades, arboledas y ruinas",
+   "size": "Unos 20–21 cm de longitud",
+   "behaviour": "De día, parejas y familias se posan apiñadas en la entrada de un hueco de árbol, y al anochecer se vuelven ruidosas y activas.",
+   "fieldMarks": [
+    "Búho pequeño, de cabeza redonda y sin penachos",
+    "Partes superiores pardo grisáceas densamente moteadas de blanco",
+    "Partes inferiores blancas barradas de pardo",
+    "Grandes ojos amarillos con cejas blancas y un collar blanco"
+   ],
+   "voice": "Un parloteo áspero y chillón, 'chirurr-chirurr-chirurr' y 'chiivac, chiivac', normalmente de parejas o grupos",
+   "lookalikes": "El mochuelo de jungla tiene la cabeza y el dorso barrados (no moteados); el mochuelo europeo (norte de Pakistán) es más pardo y tiene menos moteado por debajo; el autillo indio tiene penachos y ojos oscuros.",
+   "whereToSee": "Árboles viejos y ruinas de Lahore, Delhi, Agra y Karachi; canales entre tierras de cultivo de todo el Punyab",
+   "season": "Residente todo el año",
+   "order": "Strigiformes"
+  }
+ },
+ {
+  "scientific": "Aix galericulata",
+  "common": "Pato mandarín",
+  "summary": "El macho es una de las aves más ornamentadas del mundo, con 'patillas' naranjas, un par de plumas naranjas erguidas como velas en el dorso y el pecho púrpura bordeado de barras blancas. Símbolo del amor conyugal en China, Corea y Japón, nidifica en huecos de árboles a gran altura sobre el suelo.",
+  "nativeRange": "Extremo Oriente ruso, noreste de China, Corea y Japón; inverna en el este y el sur de China, Corea y Japón; poblaciones asilvestradas en Gran Bretaña y otros lugares de Europa",
+  "biomes": [
+   "Bosque templado",
+   "Humedal",
+   "Bosque ribereño"
+  ],
+  "abilities": [
+   "Nidifica en cavidades de árboles situadas a 10 m o más del suelo",
+   "Los patitos saltan ilesos del agujero del nido al suelo antes de cumplir un día",
+   "Se alimenta de bellotas y otros frutos secos, algo inusual en un pato"
+  ],
+  "lore": "En chino, la pareja 鸳鸯 (yuānyāng) significa 'amantes devotos', y las tallas de patos mandarines son un regalo de boda tradicional en China y Corea. En realidad, las parejas suelen formarse de nuevo cada invierno.",
+  "funFact": "En verano, el macho muda a un plumaje de eclipse apagado, parecido al de la hembra, aunque sigue siendo identificable por el pico rojo.",
+  "animal": {
+   "diet": "Bellotas, castañas, semillas, plantas acuáticas, insectos y caracoles",
+   "habitat": "Estanques arbolados, ríos y lagos con árboles que cuelgan sobre el agua",
+   "size": "Unos 41–49 cm de longitud",
+   "behaviour": "Los machos cortejan a las hembras en grupo con exhibiciones rituales: erizan la cresta, fingen beber y se acicalan detrás de las plumas en vela.",
+   "fieldMarks": [
+    "Macho: pico rojo, media luna blanca sobre el ojo, 'patillas' naranjas en las mejillas y plumas naranjas erguidas en forma de vela",
+    "Macho: pecho púrpura con dos barras verticales blancas y negras; flancos dorados",
+    "Hembra: gris, con anillo ocular blanco y una lista detrás del ojo; flancos moteados de blanco",
+    "Pato pequeño y crestado que se posa en los árboles"
+   ],
+   "voice": "Por lo general silencioso; los machos emiten un silbido seco y las hembras un suave cloqueo",
+   "lookalikes": "El macho de pato joyuyo (Norteamérica; escapado en otros lugares) tiene la cabeza verde y carece de velas; la hembra de pato joyuyo tiene una mancha ocular blanca en forma de lágrima más grande y no tiene la lista clara detrás del ojo.",
+   "whereToSee": "Estanques del jardín Shinjuku Gyoen de Tokio en invierno, el palacio Changgyeonggung de Seúl (estanque Chundangji) y el Palacio de Verano de Pekín; asilvestrado en Virginia Water (Inglaterra)",
+   "season": "Residente en Japón; migratorio en Asia continental, donde inverna de octubre a marzo en el sur de China y Corea",
+   "order": "Anseriformes"
+  }
+ },
+ {
+  "scientific": "Zosterops japonicus",
+  "common": "Anteojitos japonés (mejiro)",
+  "summary": "Pequeña ave verde amarillenta con un nítido anillo blanco alrededor de cada ojo, visitante animada y gregaria de las camelias y los ciruelos en flor de los jardines japoneses en invierno. Es un importante polinizador de las camelias en su área nativa.",
+  "nativeRange": "Japón (incluidas las islas Ryukyu y Ogasawara) y Corea del Sur; las poblaciones de Filipinas e Indonesia se denominaban antes anteojitos montano; introducido en Hawái",
+  "biomes": [
+   "Bosque templado",
+   "Jardines",
+   "Urbano"
+  ],
+  "abilities": [
+   "Poliniza las camelias y otras flores invernales al alimentarse de su néctar",
+   "Las bandadas se apiñan estrechamente unas aves junto a otras en las ramas",
+   "Su lengua con la punta en forma de pincel lame el néctar"
+  ],
+  "lore": "La expresión japonesa mejiro-oshi ('empujones de anteojitos') describe a personas apiñadas, por la forma en que estas aves se alinean hombro con hombro en una rama. El mejiro junto a la flor del ciruelo es un motivo clásico de la pintura japonesa.",
+  "funFact": "Muchos japoneses creen que el pájaro verde de las flores del ciruelo es el uguisu (cetia japonesa), pero el ave que más a menudo se ve allí es el mejiro; el verdadero uguisu es apagado y esquivo.",
+  "animal": {
+   "diet": "Néctar, fruta y pequeños insectos",
+   "habitat": "Bosque de frondosas, parques, huertos frutales y jardines",
+   "size": "Unos 11–12 cm de longitud",
+   "behaviour": "Se desplaza en grupos activos entre las flores, colgándose boca abajo para alcanzarlas; en invierno, las bandadas duermen apretadas unas contra otras.",
+   "fieldMarks": [
+    "Ave pequeña de color verde oliva con la garganta de un amarillo brillante",
+    "Llamativo anillo ocular blanco",
+    "Vientre blanco grisáceo pálido",
+    "Pico fino, puntiagudo y ligeramente curvado"
+   ],
+   "voice": "Un reclamo de contacto fino y agudo, 'chii'; el canto es un gorjeo rápido y trinado",
+   "lookalikes": "El anteojitos de Swinhoe (China, Taiwán, Sudeste Asiático) tiene los flancos más claros y la garganta amarilla más reducida; el anteojitos castaño tiene los flancos rufos; la cetia japonesa es de colores más apagados y no tiene anillo ocular.",
+   "whereToSee": "Jardines de ciruelos y cerezos de Tokio, Kioto y Osaka en invierno y primavera; la isla de Jeju en Corea",
+   "season": "Residente todo el año; más visible en invierno en las flores",
+   "order": "Passeriformes"
+  }
+ },
+ {
+  "scientific": "Ciconia boyciana",
+  "common": "Cigüeña oriental",
+  "summary": "Gran cigüeña blanca con las plumas de vuelo negras y un pico negro y robusto, que cría en la cuenca del Amur e inverna a lo largo del Yangtsé. Se extinguió en estado silvestre en Japón en 1971 y ha vuelto gracias a la reintroducción en Toyooka.",
+  "nativeRange": "Cría en las cuencas del Amur y el Ussuri, en el Extremo Oriente ruso y el noreste de China; inverna sobre todo en la cuenca del Yangtsé, con números menores en Corea, Japón y Taiwán",
+  "biomes": [
+   "Humedal",
+   "Tierras de cultivo"
+  ],
+  "abilities": [
+   "Migra entre el Extremo Oriente ruso y la llanura aluvial del Yangtsé",
+   "Nidifica en árboles altos y torres de alta tensión",
+   "Se comunica mediante un fuerte castañeteo del pico, ya que es casi muda"
+  ],
+  "lore": "En Japón, como en Europa, la cigüeña llegó a asociarse con la llegada de los bebés. La ciudad de Toyooka empezó a liberar cigüeñas criadas en cautividad en 2005 y promovió, como parte de la recuperación, un arroz 'amigo de la cigüeña' cultivado con menos plaguicidas.",
+  "funFact": "Las cigüeñas silvestres volvieron a criar en Japón en 2007: el primer pollo nacido en libertad en el país en más de cuatro décadas.",
+  "animal": {
+   "diet": "Peces, ranas, serpientes, crustáceos e insectos",
+   "habitat": "Humedales, llanuras aluviales, arrozales y orillas de lagos",
+   "size": "Unos 110–128 cm de longitud; envergadura de unos 2,1 m",
+   "behaviour": "Se alimenta caminando despacio por aguas someras; en Japón, las cigüeñas reintroducidas buscan alimento en arrozales cultivados sin plaguicidas.",
+   "fieldMarks": [
+    "Gran cigüeña blanca con las plumas de vuelo negras",
+    "Pico negro y robusto (rojo en la cigüeña blanca)",
+    "Piel desnuda roja alrededor de un ojo blanquecino",
+    "Patas rojas"
+   ],
+   "voice": "Casi silenciosa; fuerte castañeteo del pico en el nido",
+   "lookalikes": "La cigüeña blanca (Europa, Asia central) es más pequeña y tiene el pico rojo; la espátula menor y las garcetas son más pequeñas y tienen picos distintos.",
+   "whereToSee": "Lagos Poyang y Dongting en China en invierno; Toyooka, prefectura de Hyogo (Japón), todo el año",
+   "season": "Visitante invernal en el Yangtsé (de noviembre a marzo); visitante estival en las áreas de cría; residente en las poblaciones reintroducidas de Japón",
+   "order": "Ciconiiformes"
+  }
+ },
+ {
+  "scientific": "Nipponia nippon",
+  "common": "Ibis nipón (ibis crestado)",
+  "summary": "Ibis blanco teñido de rosa salmón, con una cresta desgreñada en la nuca y la cara desnuda y roja, que llegó a quedar reducido a siete aves. A partir de un puñado de ejemplares hallados en Shaanxi en 1981, una protección cuidadosa ha reconstruido una población de miles.",
+  "nativeRange": "Antiguamente Japón, Corea, el este de China y el Extremo Oriente ruso; hoy silvestre sobre todo en la provincia de Shaanxi (China), con poblaciones reintroducidas en la isla de Sado (Japón) y en Corea del Sur",
+  "biomes": [
+   "Humedal",
+   "Tierras de cultivo",
+   "Bosque templado"
+  ],
+  "abilities": [
+   "Sondea arrozales y arroyos en busca de lochas, ranas e invertebrados",
+   "Se unta el plumaje con una secreción oscura del cuello, que lo vuelve gris en la época de cría",
+   "Se recuperó a partir de una población silvestre de siete aves"
+  ],
+  "lore": "El toki dio al japonés el nombre de color 'toki-iro' (un rosa suave), y es el símbolo de la prefectura de Niigata. El último ibis nipón nacido en Japón, Kin, murió en 2003, y la especie se reintrodujo en Sado en 2008 a partir de ejemplares chinos.",
+  "funFact": "Tanto su nombre genérico, Nipponia, como el específico, nippon, significan 'Japón', lo que lo convierte en uno de los nombres más rotundamente japoneses de la zoología.",
+  "animal": {
+   "diet": "Peces pequeños, lochas, ranas, cangrejos, caracoles e insectos",
+   "habitat": "Arrozales, arroyos y humedales cerca de árboles altos que utiliza para nidificar y dormir",
+   "size": "Unos 55–79 cm de longitud",
+   "behaviour": "Se alimenta hundiendo su largo pico curvo en el fango y el agua; nidifica en árboles altos de laderas boscosas cercanas a los arrozales.",
+   "fieldMarks": [
+    "Plumaje blanco con un tinte rosa salmón en alas y cola, más intenso por debajo en vuelo",
+    "Cara desnuda roja y patas rojas",
+    "Pico negro, largo y curvado hacia abajo, con la punta roja",
+    "Cresta desgreñada en la parte posterior de la cabeza; cabeza y dorso grises en la época de cría"
+   ],
+   "voice": "Un reclamo áspero, como de cuervo, 'aaa'",
+   "lookalikes": "El ibis cabecinegro tiene la cabeza y el cuello negros y carece del rosa; las espátulas tienen el pico plano en forma de cuchara; las garcetas tienen el pico recto.",
+   "whereToSee": "Condado de Yangxian, Shaanxi (China); isla de Sado, prefectura de Niigata (Japón)",
+   "season": "Residente",
+   "order": "Pelecaniformes"
+  }
+ },
+ {
+  "scientific": "Pithecophaga jefferyi",
+  "common": "Águila monera (águila filipina)",
+  "summary": "Una de las águilas más grandes y poderosas del mundo, con una cresta desgreñada, un enorme pico arqueado gris azulado y ojos azul pálido. Exclusiva de las selvas de Filipinas, es el ave nacional del país y una de las rapaces más raras de la Tierra.",
+  "nativeRange": "Endémica de Filipinas: Mindanao, Luzón, Sámar y Leyte",
+  "biomes": [
+   "Selva tropical"
+  ],
+  "abilities": [
+   "Caza colugos (lémures voladores), monos, civetas y aves grandes en el dosel",
+   "Las parejas cazan en cooperación: una distrae a una tropa de monos mientras la otra ataca",
+   "Cría un único pollo cada dos años"
+  ],
+  "lore": "Proclamada ave nacional de Filipinas en 1995, dio su nombre filipino, Haribon ('rey de las aves'), a la principal sociedad conservacionista del país. El primer pollo criado en cautividad, Pag-asa ('esperanza'), nació en 1992.",
+  "funFact": "Pese a su antiguo nombre de 'águila comemonos', su presa principal en Mindanao es el colugo, un mamífero planeador.",
+  "animal": {
+   "diet": "Colugos (lémures voladores filipinos), macacos, civetas de palmera, ardillas voladoras, cálaos y serpientes",
+   "habitat": "Bosque primario de dipterocarpáceas en laderas de montaña empinadas",
+   "size": "Unos 86–102 cm de longitud; envergadura de unos 1,8–2,2 m",
+   "behaviour": "Caza posándose en el dosel y desplazándose de árbol en árbol, y luego vuela rápido a través del bosque para atrapar a la presa con sus enormes garras.",
+   "fieldMarks": [
+    "Águila muy grande con una cresta desgreñada y erizada",
+    "Pico enorme, muy arqueado, gris azulado",
+    "Cara oscura, partes superiores pardas y partes inferiores blanco crema",
+    "Ojos gris azulado pálido; alas anchas y cortas, y cola larga"
+   ],
+   "voice": "Silbidos agudos que ascienden al final, sobre todo de los jóvenes que piden comida",
+   "lookalikes": "El águila-azor variable y el águila-azor filipina son mucho más pequeñas y tienen el pico menos masivo; ninguna otra rapaz filipina se acerca a su tamaño.",
+   "whereToSee": "Philippine Eagle Center, cerca de Davao; monte Kitanglad y monte Apo, en Mindanao",
+   "season": "Residente todo el año",
+   "order": "Accipitriformes"
+  }
+ },
+ {
+  "scientific": "Argusianus argus",
+  "common": "Argos real",
+  "summary": "Faisán enorme y esquivo de la selva de la Sonda cuyo macho tiene unas plumas alares gigantescas cubiertas de hileras de ocelos sombreados, que despliega como una gran pantalla circular durante la exhibición. Charles Darwin escribió extensamente sobre estos ocelos como prueba de la selección sexual.",
+  "nativeRange": "Península malaya (sur de Myanmar, Tailandia, Malasia), Sumatra y Borneo",
+  "biomes": [
+   "Selva tropical"
+  ],
+  "abilities": [
+   "El macho despeja de hojas y restos una 'pista de baile' en el suelo del bosque",
+   "Despliega sus enormes plumas secundarias en un disco vertical que muestra cientos de ocelos",
+   "Los ocelos están sombreados de modo que parecen tridimensionales, como bolas en sus cuencas"
+  ],
+  "lore": "Debe su nombre a Argos Panoptes, el gigante de cien ojos de la mitología griega. En 'The Descent of Man' (El origen del hombre, 1871), Darwin utilizó la gradación de los ocelos del argos real para explicar cómo la selección sexual podía construir paso a paso ornamentos complejos.",
+  "funFact": "La exhibición del macho se observa tan rara vez en libertad que gran parte de lo que se sabe procede de aves en cautividad y de cámaras trampa.",
+  "animal": {
+   "diet": "Fruta caída, semillas, hojas, hormigas y otros invertebrados",
+   "habitat": "Selva de dipterocarpáceas de tierras bajas y colinas",
+   "size": "Machos de hasta unos 1,6–2 m, incluida la cola; hembras de unos 75 cm",
+   "behaviour": "Los machos cantan desde sus pistas de baile y se exhiben allí ante las hembras que los visitan; la especie se oye mucho más a menudo de lo que se ve.",
+   "fieldMarks": [
+    "Faisán muy grande con una cabeza pequeña, desnuda y azul",
+    "Macho: plumas caudales centrales extremadamente largas y secundarias anchas con hileras de ocelos",
+    "Plumaje pardo en conjunto, con un diseño fino",
+    "Hembra mucho más pequeña, de cola corta"
+   ],
+   "voice": "Fuertes reclamos de largo alcance de los machos, 'cuau-uau', y una larga serie de notas 'uau' que se acelera; uno de los sonidos clásicos de los bosques de Malasia",
+   "lookalikes": "El argos ocelado (Vietnam, Laos y tierras altas de Malasia) tiene cresta y un diseño de ocelos distinto; los espoloneros (Polyplectron) son mucho más pequeños y tienen ocelos metálicos.",
+   "whereToSee": "Taman Negara (Malasia); valle de Danum (Sabah); Khao Sok y Hala-Bala en Tailandia",
+   "season": "Residente todo el año",
+   "order": "Galliformes"
+  }
+ },
+ {
+  "scientific": "Buceros rhinoceros",
+  "common": "Cálao rinoceronte",
+  "summary": "Enorme cálao blanco y negro coronado por un extravagante casco rojo anaranjado curvado hacia arriba, como el cuerno de un rinoceronte. Es el ave oficial de Sarawak, la 'Tierra de los Cálaos', y un importante dispersor de semillas de la selva.",
+  "nativeRange": "Sur de Tailandia, Malasia peninsular, Sumatra, Java y Borneo; extinguido hace mucho como reproductor en Singapur, donde desde 2025 se han registrado ocasionalmente ejemplares silvestres errantes",
+  "biomes": [
+   "Selva tropical"
+  ],
+  "abilities": [
+   "Dispersa las grandes semillas de higueras y otros árboles de la selva en amplias zonas",
+   "La hembra se encierra en un nido en una cavidad de árbol y el macho la alimenta",
+   "Sus aleteos son tan sonoros que se oyen a distancia como un rugido silbante"
+  ],
+  "lore": "Entre los iban de Sarawak, el kenyalang es el mensajero del mundo de arriba, y en la fiesta Gawai Kenyalang se erigían efigies talladas de cálaos. El ave figura en el escudo de armas de Sarawak.",
+  "funFact": "Su casco es en su mayor parte hueco y ligero, a diferencia del casco macizo del cálao de yelmo.",
+  "animal": {
+   "diet": "Principalmente higos y otras frutas; también insectos, lagartijas y pequeños vertebrados",
+   "habitat": "Selva de tierras bajas y colinas con árboles grandes y viejos",
+   "size": "Unos 80–120 cm de longitud",
+   "behaviour": "Las parejas vuelan entre árboles con fruto con aleteos fuertes y silbantes; la hembra encerrada depende del macho durante meses.",
+   "fieldMarks": [
+    "Cálao negro muy grande con el vientre blanco y la cola blanca con una banda negra",
+    "Enorme pico amarillo marfil coronado por un casco rojo anaranjado que se curva hacia arriba como un cuerno",
+    "Ojo rojo en los machos, blanco en las hembras",
+    "Fuerte ruido de las alas en vuelo"
+   ],
+   "voice": "Graznidos graves y resonantes, 'gronc'; las parejas cantan a dúo con las notas graves del macho y las más agudas de la hembra",
+   "lookalikes": "El cálao bicorne tiene un casco amarillo más plano y con dos puntas, y el cuello blanco; el cálao de yelmo tiene un casco rojo corto y largas plumas caudales centrales.",
+   "whereToSee": "Taman Negara (Malasia), río Kinabatangan y valle de Danum (Sabah), Lambir Hills (Sarawak), Khao Sok (Tailandia)",
+   "season": "Residente todo el año",
+   "order": "Bucerotiformes"
+  }
+ },
+ {
+  "scientific": "Pavo muticus",
+  "common": "Pavo cuelliverde (pavo real verde)",
+  "summary": "Pavo real alto y erguido, revestido de escamas verdes y bronce relucientes y con una cresta estrecha como un penacho, contrapartida en el Sudeste Asiático del pavo real común. Ambos sexos tienen colores vivos, y el macho luce una centelleante cola de plumas con ocelos.",
+  "nativeRange": "Antiguamente del noreste de la India y Bangladés al Sudeste Asiático y Java; hoy en poblaciones fragmentadas en Yunnan (China), Myanmar, Tailandia, Camboya, Laos, Vietnam y Java",
+  "biomes": [
+   "Bosque caducifolio seco",
+   "Bosque abierto",
+   "Bosque ribereño"
+  ],
+  "abilities": [
+   "Durante la exhibición, los machos levantan una cola de más de 100 plumas con ocelos",
+   "Duerme en lo alto de los árboles y canta con fuerza al amanecer y al anochecer",
+   "Vuela con potencia pese a su tamaño"
+  ],
+  "lore": "El pavo real fue el emblema de los reyes birmanos de la dinastía Konbaung y sigue siendo un símbolo nacional de Myanmar.",
+  "funFact": "Un censo de 2016 estimó que quedaban menos de 500 pavos cuelliverdes silvestres en China, todos en Yunnan.",
+  "animal": {
+   "diet": "Semillas, grano, fruta, insectos, pequeños reptiles y ranas",
+   "habitat": "Bosque abierto, riberas y lindes de bosque con claros herbosos",
+   "size": "Machos de unos 1,8–3 m, incluida la cola; hembras de unos 1–1,1 m",
+   "behaviour": "Se alimenta en claros y riberas a primera hora de la mañana y al atardecer, y se retira a la espesura; los machos se exhiben en lugares tradicionales.",
+   "fieldMarks": [
+    "Cresta erguida y estrecha de penachos (no en abanico como en el pavo real común)",
+    "Cuello y pecho escamados verdes y bronce (no azules)",
+    "Piel facial desnuda amarilla y azul",
+    "Las hembras son casi tan coloridas como los machos, pero sin la larga cola"
+   ],
+   "voice": "Un fuerte graznido, 'ki-uao' o 'aou-aau', menos estridente que el del pavo real común",
+   "lookalikes": "El macho de pavo real común tiene el cuello azul y la cresta en abanico, y la hembra es de un pardo apagado; en cautividad existen híbridos (pavos 'Spalding').",
+   "whereToSee": "Santuario de Vida Silvestre de Huai Kha Khaeng (Tailandia), Parque Nacional de Baluran (Java), Cat Tien (Vietnam) y partes de Yunnan",
+   "season": "Residente todo el año; exhibición nupcial en la estación seca",
+   "order": "Galliformes"
+  }
+ },
+ {
+  "scientific": "Leucopsar rothschildi",
+  "common": "Estornino de Bali (miná de Bali)",
+  "summary": "Estornino de un blanco níveo con las puntas de las alas negras, una cresta caída y una mancha de piel desnuda azul cielo alrededor de cada ojo, que solo vive en libertad en Bali. La captura para el comercio de aves de jaula lo redujo a un puñado de aves silvestres hacia el año 2000; desde entonces, las liberaciones han reconstruido pequeñas poblaciones.",
+  "nativeRange": "Endémico del noroeste de Bali, Indonesia (Parque Nacional de Bali Occidental); reintroducido en Nusa Penida y otros lugares de Bali",
+  "biomes": [
+   "Bosque monzónico seco",
+   "Sabana"
+  ],
+  "abilities": [
+   "Yergue su larga cresta de plumas finas durante la exhibición",
+   "Nidifica en huecos de árboles, incluidos viejos agujeros de pájaros carpinteros y barbudos",
+   "Sobrevive en un bosque seco marcadamente estacional"
+  ],
+  "lore": "Es el símbolo faunístico oficial de la provincia de Bali. En Nusa Penida, las aldeas balinesas acordaron mediante el derecho tradicional (awig-awig) proteger a las aves liberadas, un modelo de conservación comunitaria.",
+  "funFact": "No se describió para la ciencia hasta 1912 y debe su nombre a Walter Rothschild, el zoólogo propietario del famoso museo privado de Tring.",
+  "animal": {
+   "diet": "Fruta, semillas, insectos y otros invertebrados",
+   "habitat": "Bosque monzónico caducifolio seco, sabana de acacias y bordes de aldeas",
+   "size": "Unos 25 cm de longitud",
+   "behaviour": "Parejas y pequeños grupos se desplazan por el dosel y los bordes del bosque, irguiendo la cresta y emitiendo fuertes reclamos.",
+   "fieldMarks": [
+    "Estornino casi enteramente blanco",
+    "Puntas de las alas y de la cola negras",
+    "Piel desnuda de un azul brillante alrededor del ojo",
+    "Cresta blanca, larga y caída; pico amarillento y patas gris azuladas"
+   ],
+   "voice": "Parloteo fuerte y variado, reclamos ásperos y silbidos típicos de los estorninos",
+   "lookalikes": "El estornino alinegro (Java, Bali) tiene amplias zonas negras en las alas, la cola negra y una mancha facial amarilla; los anteojitos de Java son diminutos y verdes.",
+   "whereToSee": "Parque Nacional de Bali Occidental (Bali Barat), isla de Nusa Penida",
+   "season": "Residente",
+   "order": "Passeriformes"
+  }
+ },
+ {
+  "scientific": "Psilopogon asiaticus",
+  "common": "Barbudo gorgiazul",
+  "summary": "Barbudo verde brillante con la cara y la garganta azul cielo y el píleo rojo cruzado por una banda negra, cuyos fuertes reclamos ondulantes resuenan en los bosques de las estribaciones del Himalaya. Es un especialista en higos que excava su agujero de nido en madera muerta.",
+  "nativeRange": "Estribaciones del Himalaya, desde Uttarakhand, por Nepal, Bután y el noreste de la India, hasta Bangladés, Myanmar, el sur de China, Tailandia e Indochina",
+  "biomes": [
+   "Bosque montano",
+   "Bosque subtropical",
+   "Jardines"
+  ],
+  "abilities": [
+   "Dispersa las semillas de higueras y otros árboles frutales",
+   "Excava cavidades de nido en ramas muertas",
+   "Canta con insistencia desde las copas de los árboles durante toda la época de cría"
+  ],
+  "lore": "Su canto incesante lo convierte en uno de los sonidos característicos de las estaciones de montaña del Himalaya, como Darjeeling y Katmandú, en primavera.",
+  "funFact": "Los barbudos asiáticos se incluyeron antes en la misma familia que los barbudos africanos y americanos, pero la genética demostró que forman una familia aparte, Megalaimidae.",
+  "animal": {
+   "diet": "Higos y otras frutas; algunos insectos",
+   "habitat": "Bosque de frondosas, lindes de bosque, huertos frutales y jardines, hasta unos 2.400 m",
+   "size": "Unos 19–23 cm de longitud",
+   "behaviour": "Permanece inmóvil durante largos ratos en lo alto de árboles con fruto, por lo que es más fácil oírlo que verlo, pese a sus colores.",
+   "fieldMarks": [
+    "Barbudo robusto de un verde brillante con el pico grueso, claro en la base, con la mandíbula superior y la punta oscuras",
+    "Cara, mejillas y garganta azul cielo",
+    "Frente y píleo rojos con una banda negra que cruza el píleo",
+    "Pequeña mancha roja a los lados de la garganta"
+   ],
+   "voice": "Un fuerte y ondulante 'tuc-a-ruc, tuc-a-ruc' o 'kutru-kutru', repetido sin fin",
+   "lookalikes": "El barbudo gorgigualdo tiene la garganta amarilla; el barbudo grande es más grande, con la cabeza negro azulada y la zona cloacal roja; el barbudo calderero es más pequeño, con la garganta amarilla y una mancha roja en el pecho.",
+   "whereToSee": "Jardines del valle de Katmandú (Nepal), Corbett y Nainital (Uttarakhand), Darjeeling, Doi Inthanon (Tailandia)",
+   "season": "Residente todo el año; más vocal en primavera",
+   "order": "Piciformes"
+  }
+ },
+ {
+  "scientific": "Oriolus chinensis",
+  "common": "Oropéndola china (oriol de nuca negra)",
+  "summary": "Ave de un amarillo dorado brillante con una banda negra que atraviesa el ojo y rodea la nuca, cuyos reclamos líquidos y aflautados se oyen en jardines y bosques desde China hasta Indonesia. Las aves del norte migran al sur para invernar en el Sudeste Asiático y la India.",
+  "nativeRange": "Cría desde el Extremo Oriente ruso, el noreste de China y Corea, al sur por el este de China; residente en el Sudeste Asiático, Filipinas e Indonesia; inverna en la India (sobre todo en el sur y el noreste) y el Sudeste Asiático",
+  "biomes": [
+   "Bosque",
+   "Jardines",
+   "Manglar",
+   "Urbano"
+  ],
+  "abilities": [
+   "Teje un nido en forma de taza, como una hamaca, colgado de una horquilla horizontal",
+   "Come orugas, incluidas las peludas que muchas aves evitan",
+   "Migrante de larga distancia en el norte de su área"
+  ],
+  "lore": "El huánglí del célebre cuarteto de Du Fu, de la dinastía Tang, 两个黄鹂鸣翠柳 ('Dos oropéndolas cantan en los sauces verdes'), es esta especie, y desde entonces el ave es un símbolo de la primavera en la poesía china.",
+  "funFact": "Su nombre japonés significa 'cetia coreana', aunque no es una cetia en absoluto; en Japón solo es un visitante escaso.",
+  "animal": {
+   "diet": "Insectos, orugas, fruta, bayas y néctar",
+   "habitat": "Bosque, parques, jardines, plantaciones y manglares",
+   "size": "Unos 26–27 cm de longitud",
+   "behaviour": "Permanece en lo alto del dosel y a menudo solo se ve como un destello amarillo en su vuelo ondulante entre los árboles.",
+   "fieldMarks": [
+    "Cuerpo de un amarillo dorado brillante",
+    "Ancha lista negra que atraviesa el ojo y se une en la parte posterior de la cabeza",
+    "Alas negras con bordes amarillos; cola negra con las esquinas amarillas",
+    "Pico rojo rosado"
+   ],
+   "voice": "Silbidos ricos, líquidos y aflautados, como 'lui-ui-ui-liau', y un áspero 'kiaaa' nasal de alarma",
+   "lookalikes": "La oropéndola india tiene un antifaz negro que solo atraviesa el ojo y no se une en la nuca; la oropéndola picofina tiene el pico más fino y una banda nucal más estrecha; las hembras y los jóvenes son más verdes, con las partes inferiores listadas.",
+   "whereToSee": "Parques de Singapur y Kuala Lumpur todo el año; parques de Pekín y Seúl en verano; islas Andamán todo el año (raza residente); escaso visitante invernal en la India peninsular",
+   "season": "Residente en el Sudeste Asiático; visitante estival en el norte de China y Corea (de mayo a septiembre); visitante invernal en la India",
+   "order": "Passeriformes"
+  }
+ },
+ {
+  "scientific": "Calidris pygmaea",
+  "common": "Correlimos cuchareta",
+  "summary": "Correlimos del tamaño de un gorrión con una punta del pico en forma de espátula única, que solo cría en la tundra costera de Chukotka y el norte de Kamchatka y migra unos 8.000 km por la ruta migratoria de Asia oriental-Australasia para invernar sobre todo en Bangladés y Myanmar. Solo sobreviven unos 400–450 adultos.",
+  "nativeRange": "Cría en Chukotka y el norte de Kamchatka (Rusia); migra por las costas de Japón, Corea y China (sobre todo el mar Amarillo); inverna principalmente en Myanmar (golfo de Mottama) y Bangladés",
+  "biomes": [
+   "Tundra",
+   "Llanura fangosa",
+   "Costa"
+  ],
+  "abilities": [
+   "Usa la punta del pico en forma de cuchara para barrer el fango blando en busca de diminutos invertebrados",
+   "Migra unos 8.000 km en cada sentido por la ruta migratoria de Asia oriental-Australasia",
+   "Depende de unas pocas llanuras fangosas intermareales críticas como áreas de descanso, sobre todo en el mar Amarillo"
+  ],
+  "lore": "Desde 2012, un proyecto de 'ventaja inicial' (head-starting) en Meinypilgyno (Chukotka) recoge huevos, los incuba artificialmente y libera a los volantones para aumentar el éxito reproductor. Las llanuras fangosas de Tiaozini, donde hace escala, pasaron a formar parte en 2019 del sitio del Patrimonio Mundial del mar Amarillo en China.",
+  "funFact": "Su pico en forma de cuchara ya está presente cuando el pollo eclosiona.",
+  "animal": {
+   "diet": "Pequeños invertebrados: gusanos, crustáceos y larvas de insectos; semillas en las áreas de cría",
+   "habitat": "Flechas litorales de lagunas y tundra costera en la época de cría; llanuras fangosas intermareales en migración y en invierno",
+   "size": "Unos 14–16 cm de longitud",
+   "behaviour": "Se alimenta con un movimiento de barrido del pico de lado a lado, como una espátula diminuta, en aguas someras y fango blando.",
+   "fieldMarks": [
+    "Correlimos pequeño, del tamaño de un correlimos menudo",
+    "Pico negro que se ensancha en la punta en una espátula plana (se ve mejor de frente o de perfil a corta distancia)",
+    "Plumaje nupcial: cabeza, cuello y pecho rufos",
+    "Invierno: gris claro por encima, blanco por debajo, con la frente blanca"
+   ],
+   "voice": "Un suave y áspero 'priip' en vuelo; en las áreas de cría, los machos emiten un canto zumbante y trinado en su vuelo de exhibición",
+   "lookalikes": "El correlimos cuellirrojo es casi idéntico en tamaño y plumaje, pero tiene el pico fino y puntiagudo; hay que examinar con cuidado la punta del pico y fijarse en el movimiento de barrido al alimentarse.",
+   "whereToSee": "Golfo de Mottama (Martaban), Myanmar, y la isla de Sonadia, Bangladés, en invierno; llanuras fangosas de Rudong y Tiaozini, Jiangsu (China), durante la migración",
+   "season": "Visitante invernal en Bangladés y Myanmar (de noviembre a marzo); migrante de paso en China (abril–mayo, septiembre–octubre); cría de junio a agosto en Chukotka",
+   "order": "Charadriiformes"
+  }
+ },
+ {
+  "scientific": "Horornis diphone",
+  "common": "Cetia japonesa (uguisu)",
+  "summary": "Pájaro de color pardo oliváceo apagado que se esconde en los bambusales, pero anuncia la primavera en todo Japón con su silbido claro y ascendente, 'juu-jokekyo'. Es tan central en la cultura japonesa que su nombre se convirtió en sinónimo de voz hermosa.",
+  "nativeRange": "Japón e islas cercanas, incluidas Sajalín y las Ryukyu; algunas autoridades incluyen en esta especie formas emparentadas de Corea, el este de China y Taiwán; introducida en Hawái",
+  "biomes": [
+   "Bosque templado",
+   "Bambusal",
+   "Matorral"
+  ],
+  "abilities": [
+   "Su canto llega lejos desde la espesura pese al pequeño tamaño del ave",
+   "Los machos cantan casi sin cesar durante la primavera y el verano",
+   "La población introducida prospera en los bosques de Hawái"
+  ],
+  "lore": "El prefacio del Kokinshū (905) menciona al uguisu que canta entre las flores como una voz de la poesía, y su canto se interpreta como 'Hokekyō', el nombre japonés del Sutra del Loto. Sus excrementos (uguisu no fun) se usaban tradicionalmente en la cosmética facial japonesa.",
+  "funFact": "Los chirriantes 'suelos de ruiseñor' (uguisubari) del castillo de Nijō y del templo Chion-in, en Kioto, deben su nombre al gorjeo de esta ave.",
+  "animal": {
+   "diet": "Insectos y arañas; algo de néctar y fruta",
+   "habitat": "Sotobosque denso, bambusales, matorral y lindes de bosque, desde las tierras bajas hasta las montañas",
+   "size": "Unos 14–16 cm de longitud (los machos, más grandes que las hembras)",
+   "behaviour": "Se mueve escondida en la vegetación densa y rara vez se ve al descubierto; en invierno baja a cotas inferiores y solo emite breves reclamos 'chat'.",
+   "fieldMarks": [
+    "Partes superiores de un pardo oliváceo uniforme y partes inferiores gris anteado",
+    "Ceja clara",
+    "Cola redondeada y alas cortas",
+    "Carece del llamativo anillo ocular y de los tonos verde amarillentos del anteojitos japonés"
+   ],
+   "voice": "Un largo silbido ascendente seguido de un remate explosivo, escrito 'hoo-hokekyo' (juu-jokekyo); también una rápida secuencia 'kekyo-kekyo-kekyo'",
+   "lookalikes": "El anteojitos japonés (mejiro) es de un verde más brillante, con anillo ocular blanco, y a menudo se confunde con el uguisu; la cetia de Manchuria es más grande y parda.",
+   "whereToSee": "Parques urbanos y jardines de templos de todo Japón en primavera, p. ej., Higashiyama en Kioto y el bosque del santuario Meiji Jingu en Tokio; también Oahu (Hawái)",
+   "season": "Residente; canta desde finales de febrero hasta el verano; en invierno solo se oye su reclamo",
+   "order": "Passeriformes"
+  }
+ },
+ {
+  "scientific": "Halcyon smyrnensis",
+  "common": "Alción de Esmirna (martín pescador de garganta blanca)",
+  "summary": "Martín pescador de pico grande, con la cabeza color chocolate, el dorso de un turquesa brillante y un reluciente babero blanco, que a menudo se ve lejos del agua, posado en cables sobre los campos. Come lagartijas, cangrejos, insectos e incluso pequeñas serpientes con tanta facilidad como peces.",
+  "nativeRange": "Turquía, el Levante e Irak, por Irán, Pakistán, India, Sri Lanka y Bangladés, hasta el sur de China, el Sudeste Asiático y Filipinas",
+  "biomes": [
+   "Tierras de cultivo",
+   "Humedal",
+   "Bosque abierto",
+   "Urbano"
+  ],
+  "abilities": [
+   "Caza tanto en tierra firme como en el agua, capturando lagartijas, ranas, ratones e insectos grandes",
+   "Excava con el pico un túnel de nido en taludes de tierra",
+   "Golpea las presas grandes contra un posadero antes de tragarlas"
+  ],
+  "lore": "Es el ave oficial de Bengala Occidental. El epíteto smyrnensis alude a Esmirna (la actual Izmir), en Turquía, de donde procedía el primer ejemplar descrito.",
+  "funFact": "Pese a ser un martín pescador, a menudo vive lejos de cualquier masa de agua y caza lagartijas e insectos en campos secos.",
+  "animal": {
+   "diet": "Insectos grandes, lagartijas, ranas, cangrejos, peces, serpientes pequeñas, roedores y ocasionalmente aves pequeñas",
+   "habitat": "Campo abierto, canales, arrozales, jardines, manglares y lindes de bosque",
+   "size": "Unos 27–28 cm de longitud",
+   "behaviour": "Se posa a la vista en cables y postes y se deja caer al suelo sobre las presas; se exhibe desde las copas de los árboles con las alas extendidas para mostrar las manchas blancas.",
+   "fieldMarks": [
+    "Martín pescador grande con un enorme pico rojo",
+    "Cabeza y vientre pardo chocolate, con garganta y pecho blancos nítidamente delimitados",
+    "Dorso, alas y cola de un azul turquesa brillante",
+    "Grandes manchas alares blancas visibles en vuelo"
+   ],
+   "voice": "Un trino fuerte, estridente y relinchante, 'kililili', emitido desde posaderos y en vuelo",
+   "lookalikes": "El alción picocigüeña es más grande, con la cabeza y el cuerpo ocres; el alción capirotado tiene el capirote negro y un collar blanco; el martín pescador común es diminuto y tiene las partes inferiores naranjas.",
+   "whereToSee": "Canales y campos de todo el Punyab y Sind, Keoladeo, los arrozales de Sri Lanka; jardines de Lahore y Delhi",
+   "season": "Residente todo el año",
+   "order": "Coraciiformes"
+  }
+ },
+ {
+  "scientific": "Rhinoplax vigil",
+  "common": "Cálao de yelmo",
+  "summary": "Cálao enorme con un casco macizo, como de marfil, en la frente y dos plumas caudales centrales muy largas, cuyo reclamo de ululatos acelerados termina en un estallido de carcajadas desquiciadas. Cazado por su 'marfil rojo', en 2015 pasó directamente de Casi amenazado a En peligro crítico.",
+  "nativeRange": "Sur de Myanmar y Tailandia, Malasia peninsular, Sumatra y Borneo",
+  "biomes": [
+   "Selva tropical"
+  ],
+  "abilities": [
+   "El único cálao con el casco macizo, que los machos usan en combates aéreos a cabezazos",
+   "Su reclamo es uno de los más fuertes de las selvas asiáticas",
+   "Dispersa las semillas de las higueras estranguladoras"
+  ],
+  "lore": "Su casco macizo, el 'marfil de cálao' (ho-ting en chino), se tallaba en hebillas de cinturón, frascos de rapé y adornos durante las dinastías Ming y Qing, y se comerció desde Borneo durante siglos. En Borneo, los iban y otros pueblos dayak veneraban al ave y lucían sus plumas caudales.",
+  "funFact": "Su nombre malayo, 'tebang mentua' ('tala a la suegra'), procede de un cuento popular sobre un hombre que derribó los postes de la casa de su suegra con ella dentro y fue convertido en esta ave: las notas 'tuc' cada vez más rápidas del reclamo son sus hachazos, y el cacareo final, su risa cuando la casa se derrumba.",
+  "animal": {
+   "diet": "Principalmente higos; también pequeños animales",
+   "habitat": "Selva alta de dipterocarpáceas de tierras bajas y colinas",
+   "size": "Unos 110–120 cm de longitud, más las plumas caudales centrales, de hasta unos 50 cm",
+   "behaviour": "Los machos chocan en vuelo, golpeando sus cascos con un fuerte crujido; la hembra se encierra en un hueco de árbol para nidificar.",
+   "fieldMarks": [
+    "Cálao muy grande, pardo negruzco, con el vientre blanco y la cola blanca con una banda negra",
+    "Casco corto, alto y rojo, y pico amarillo y rojo; el casco es macizo",
+    "Piel gular desnuda y arrugada, roja en los machos y azulada pálida en las hembras",
+    "Dos plumas caudales centrales blancas y muy largas que sobresalen por detrás"
+   ],
+   "voice": "Una larga serie de fuertes notas 'tuc', espaciadas al principio y cada vez más rápidas, que termina en un crescendo de cacareos parecidos a carcajadas",
+   "lookalikes": "El cálao rinoceronte tiene un gran casco naranja curvado hacia arriba y carece de las largas plumas caudales; el cálao bicorne tiene un casco amarillo y plano y el cuello blanco.",
+   "whereToSee": "Valle de Danum y Tabin (Sabah), Gunung Leuser (Sumatra), Budo-Sungai Padi (Tailandia)",
+   "season": "Residente todo el año",
+   "order": "Bucerotiformes"
+  }
+ },
+ {
+  "scientific": "Chrysolophus pictus",
+  "common": "Faisán dorado",
+  "summary": "Una de las aves de colores más brillantes del mundo: el macho tiene la cresta dorada, el cuerpo escarlata, una esclavina de plumas naranjas barradas de negro y una cola muy larga y jaspeada. Pese a sus colores, es un ave tímida de los matorrales densos de montaña del centro de China.",
+  "nativeRange": "Montañas del centro y el oeste de China (Gansu, Shaanxi, Sichuan, Hubei, Guizhou y provincias vecinas); poblaciones asilvestradas en Gran Bretaña",
+  "biomes": [
+   "Bosque montano",
+   "Bambusal",
+   "Matorral"
+  ],
+  "abilities": [
+   "Durante el cortejo, el macho despliega su esclavina dorada y negra en abanico alrededor de la cara",
+   "Vive en bambusales y matorrales densos donde sus colores resultan sorprendentemente difíciles de ver",
+   "Por la noche duerme en los árboles"
+  ],
+  "lore": "En la China de los Ming y los Qing, el faisán dorado se bordaba en las insignias cuadradas ('cuadros de mandarín') de los funcionarios civiles de segundo rango. Se cría ampliamente en aviarios y figura en colecciones europeas al menos desde el siglo XVIII.",
+  "funFact": "Linneo lo describió en 1758 en la primera edición del Systema Naturae, con la que comienzan los nombres zoológicos modernos.",
+  "animal": {
+   "diet": "Semillas, hojas, brotes, bayas e invertebrados",
+   "habitat": "Bosque joven denso, bambusales y matorral en laderas de montaña",
+   "size": "Machos de unos 90–105 cm, incluida la larga cola; hembras de 60–80 cm",
+   "behaviour": "Muy esquivo en libertad; los machos se exhiben ante las hembras desplegando la esclavina hacia un lado y mostrándola desde distintos ángulos.",
+   "fieldMarks": [
+    "Macho: cresta y obispillo de un amarillo dorado, partes inferiores escarlatas",
+    "Macho: esclavina naranja barrada de negro, parte alta del dorso verde",
+    "Cola muy larga, de color canela con manchas oscuras",
+    "Hembra: pardo anteada barrada, con la cola larga"
+   ],
+   "voice": "Un reclamo áspero y metálico, 'cha-chac', en primavera",
+   "lookalikes": "El macho de faisán de Lady Amherst es blanco, negro y verde, con una esclavina blanca barrada de negro; los híbridos entre ambos son frecuentes en cautividad.",
+   "whereToSee": "Reservas de Foping y Changqing, en los montes Qinling (Shaanxi); Wolong, en Sichuan",
+   "season": "Residente todo el año",
+   "order": "Galliformes"
+  }
+ },
+ {
+  "scientific": "Rynchops albicollis",
+  "common": "Rayador indio",
+  "summary": "Ave de aspecto de charrán con un pico de un naranja brillante cuya mitad inferior es más larga que la superior, que corta la superficie del agua en vuelo para atrapar peces. Nidifica en bancos de arena de los grandes ríos del sur de Asia, cada vez más alterados por las personas y las presas.",
+  "nativeRange": "Ríos de la India y Bangladés (sobre todo los sistemas del Chambal y el Ganges), con invernada en la costa de Bangladés; antiguamente en el Indo (Pakistán) y en el Irawadi y el Mekong",
+  "biomes": [
+   "Río",
+   "Banco de arena",
+   "Costa"
+  ],
+  "abilities": [
+   "Vuela rozando el agua con su larga mandíbula inferior cortando la superficie, y cierra el pico de golpe al contacto con un pez",
+   "Sus pupilas son ranuras verticales, algo inusual entre las aves, que podrían reducir el deslumbramiento del agua",
+   "Se alimenta al anochecer y de noche, además de durante el día"
+  ],
+  "lore": "Antes se registraba en el Indo, en Pakistán, y en los ríos de Myanmar, pero las presas, la extracción de arena y las molestias en las islas fluviales lo han dejado raro o ausente allí.",
+  "funFact": "Los rayadores son las únicas aves con la mandíbula inferior más larga que la superior.",
+  "animal": {
+   "diet": "Peces pequeños y crustáceos",
+   "habitat": "Grandes ríos con bancos de arena; estuarios y costas en invierno",
+   "size": "Unos 40–43 cm de longitud",
+   "behaviour": "Vuela bajo sobre aguas tranquilas con la mandíbula inferior cortando la superficie; en primavera nidifica en colonias, en depresiones sobre bancos de arena expuestos.",
+   "fieldMarks": [
+    "Capirote y partes superiores negros, con frente, collar y partes inferiores blancos",
+    "Pico de un rojo anaranjado intenso con la punta amarilla; la mandíbula inferior, mucho más larga que la superior",
+    "Alas largas y puntiagudas con el borde posterior blanco",
+    "Patas cortas y rojas"
+   ],
+   "voice": "Reclamos nasales, como ladridos, 'cap-cap', sobre todo en las colonias",
+   "lookalikes": "El charrán indio tiene el pico amarillo, con ambas mandíbulas iguales, y el dorso gris; el charrán ventrinegro es más pequeño y tiene el vientre negro en plumaje nupcial.",
+   "whereToSee": "Santuario Nacional del Chambal (Madhya Pradesh/Rajastán/Uttar Pradesh); ríos Padma y Meghna y la costa de Bangladés en invierno",
+   "season": "Residente con desplazamientos locales; cría de marzo a mayo en bancos de arena fluviales",
+   "order": "Charadriiformes"
+  }
+ },
+ {
+  "scientific": "Urocissa ornata",
+  "common": "Urraca de Ceilán (urraca azul de Sri Lanka)",
+  "summary": "Urraca de colores vivos de las selvas de la zona húmeda de Sri Lanka, con el cuerpo azul ultramar, la cabeza y las alas castañas y una larga cola con la punta blanca. Vive en grupos familiares que crían a los pollos de forma cooperativa.",
+  "nativeRange": "Endémica de la zona húmeda y las colinas centrales de Sri Lanka",
+  "biomes": [
+   "Selva tropical",
+   "Bosque montano"
+  ],
+  "abilities": [
+   "Cría de forma cooperativa, con ayudantes que asisten a la pareja reproductora",
+   "Se une a bandadas mixtas de alimentación en la selva",
+   "Caza insectos grandes, ranas y lagartijas en el dosel"
+  ],
+  "lore": "Es una de las aves endémicas de Sri Lanka más buscadas por los observadores de aves que visitan la isla, y las bandadas mixtas de alimentación de Sinharaja, a menudo encabezadas por sus reclamos, son un clásico de la ornitología tropical.",
+  "funFact": "Los censos de 2004–2006 estimaron que solo quedaban unos 10.000–20.000 individuos.",
+  "animal": {
+   "diet": "Insectos, ranas, lagartijas pequeñas y fruta",
+   "habitat": "Bosque perennifolio húmedo no alterado, desde las tierras bajas hasta unos 2.100 m",
+   "size": "Unos 42–47 cm de longitud, incluida la cola",
+   "behaviour": "Los grupos se desplazan ruidosamente por el estrato medio del dosel; en Sinharaja se dejan observar bastante de cerca desde los senderos del bosque.",
+   "fieldMarks": [
+    "Cuerpo de un azul cobalto brillante y larga cola azul con las puntas blancas",
+    "Cabeza, alas y cuello de un castaño intenso",
+    "Pico, patas y anillo ocular de un rojo brillante",
+    "Cola larga y escalonada"
+   ],
+   "voice": "Reclamos fuertes y variados, entre ellos un resonante 'chinc-chinc' y notas ásperas y rasposas",
+   "lookalikes": "No hay aves parecidas en Sri Lanka; la urraca azul piquirroja del Himalaya tiene la cabeza negra y no vive en la isla.",
+   "whereToSee": "Reserva Forestal de Sinharaja, Horton Plains y Kitulgala (Sri Lanka)",
+   "season": "Residente todo el año",
+   "order": "Passeriformes"
+  }
+ },
+ {
+  "scientific": "Houbaropsis bengalensis",
+  "common": "Sisón bengalí",
+  "summary": "Avutarda rara de los altos pastizales de llanura aluvial, cuyo macho negro salta por encima de la hierba en espectaculares vuelos de exhibición que muestran unas alas casi enteramente blancas. Sobreviven menos de unos 1.000 ejemplares en dos poblaciones, en el subcontinente indio y en Camboya.",
+  "nativeRange": "Pastizales de las llanuras aluviales del terai y el Brahmaputra en Nepal y el noreste de la India (Assam, Uttar Pradesh, Arunachal Pradesh); una subespecie separada en Camboya y el sur de Vietnam",
+  "biomes": [
+   "Pastizal",
+   "Llanura aluvial"
+  ],
+  "abilities": [
+   "Durante la exhibición, los machos saltan muy por encima de la hierba y descienden planeando con un zumbido de alas",
+   "Las hembras crían solas a los pollos, ocultos entre la hierba alta",
+   "Depende de pastizales mantenidos por las inundaciones y el fuego"
+  ],
+  "lore": "Los cazadores de la época colonial lo apreciaban como pieza de caza, y desde entonces el drenaje y la roturación de los pastizales aluviales lo han reducido a las reservas protegidas.",
+  "funFact": "A diferencia de la mayoría de las avutardas, la hembra es más grande que el macho.",
+  "animal": {
+   "diet": "Saltamontes, escarabajos, hormigas y otros insectos; brotes, semillas y flores",
+   "habitat": "Pastizal aluvial alto y húmedo, intercalado con zonas de hierba más corta",
+   "size": "Unos 66–68 cm de longitud",
+   "behaviour": "En primavera, los machos mantienen territorios de exhibición en parches de hierba corta y saltan repetidamente en vertical al amanecer y al anochecer.",
+   "fieldMarks": [
+    "Macho: cabeza, cuello y partes inferiores negros, con una ligera cresta",
+    "Macho: alas casi enteramente blancas, llamativas en vuelo",
+    "Hembra: pardo anteada y con un diseño denso, más grande que el macho",
+    "Patas y cuello largos; camina erguido entre la hierba"
+   ],
+   "voice": "Por lo general silencioso; un 'chic-chic' metálico cuando se le levanta",
+   "lookalikes": "El sisón indio (India) es más pequeño, y los machos tienen largas plumas en la cabeza y un collar blanco; la hembra de sisón indio es más pequeña y esbelta.",
+   "whereToSee": "Kaziranga y Manas (Assam), Dudhwa (Uttar Pradesh), Shuklaphanta y Koshi Tappu (Nepal), pastizales del Tonlé Sap (Camboya)",
+   "season": "Residente; se ve mejor durante las exhibiciones, de marzo a mayo",
+   "order": "Otidiformes"
+  }
+ },
+ {
+  "scientific": "Ibidorhyncha struthersii",
+  "common": "Picoibis",
+  "summary": "Limícola gris con un pico carmesí curvado hacia abajo y la cara y una banda pectoral negras, que vive en los lechos de grava de los rápidos ríos de montaña de la Alta Asia. Es tan singular que constituye por sí sola una familia.",
+  "nativeRange": "Montañas de Asia central y la Alta Asia: Kazajistán, Kirguistán y Tayikistán, por el norte de Pakistán, Ladakh, Nepal, Bután y el Tíbet, hasta el norte y el centro de China",
+  "biomes": [
+   "Río",
+   "Alpino"
+  ],
+  "abilities": [
+   "Sondea bajo las piedras de los rápidos ríos glaciares en busca de larvas",
+   "Su plumaje gris de camuflaje se confunde con la grava del río",
+   "Cría a altitudes de hasta unos 4.400 m"
+  ],
+  "lore": "Es un avistamiento codiciado por los observadores de aves que visitan el Karakórum y Ladakh, donde su plumaje gris se desvanece contra las piedras del río.",
+  "funFact": "Es el único miembro de la familia Ibidorhynchidae.",
+  "animal": {
+   "diet": "Insectos acuáticos y sus larvas, peces pequeños y crustáceos",
+   "habitat": "Lechos fluviales trenzados de grava y piedras en valles de montaña, aproximadamente entre 1.700 y 4.400 m",
+   "size": "Unos 38–41 cm de longitud",
+   "behaviour": "Vadea aguas impetuosas, metiendo el pico curvo bajo las piedras; es muy difícil de detectar hasta que se mueve.",
+   "fieldMarks": [
+    "Partes superiores pardo grisáceas y cuello y pecho grises",
+    "Pico carmesí, largo y curvado hacia abajo",
+    "Cara negra y banda pectoral negra bordeada de blanco",
+    "Patas rojas (más apagadas fuera de la época de cría)"
+   ],
+   "voice": "Un 'cli-cli' resonante y silbado y un trino 'ti-ti-ti' que se oyen por encima del ruido de los ríos",
+   "lookalikes": "No tiene ningún doble real: los zarapitos son pardos, listados y carecen de la banda pectoral negra y del pico rojo.",
+   "whereToSee": "Ríos Hunza y Chitral en el norte de Pakistán; el valle del Indo cerca de Leh, en Ladakh; Langtang y Mustang en Nepal; ríos de montaña cerca de Pekín en invierno",
+   "season": "Residente; en invierno baja a valles fluviales más bajos",
+   "order": "Charadriiformes"
+  }
+ },
+ {
+  "scientific": "Urocissa erythroryncha",
+  "common": "Urraca azul piquirroja",
+  "summary": "Urraca de cola larga de los bosques de colinas del Himalaya y China, con capucha negra, nuca blanca, dorso azul lavanda y una cola más larga que su cuerpo, con la punta blanca. Audaz y ruidosa, saquea nidos y visita los campamentos en busca de restos.",
+  "nativeRange": "Himalaya occidental (Himachal Pradesh), al este por Nepal, Bután y el noreste de la India, hasta Myanmar, gran parte del este de China e Indochina",
+  "biomes": [
+   "Bosque montano",
+   "Bosque subtropical",
+   "Jardines"
+  ],
+  "abilities": [
+   "Saquea los nidos de otras aves en busca de huevos y pollos",
+   "Esconde alimento en el suelo o en grietas",
+   "Los grupos acosan ruidosamente a los depredadores"
+  ],
+  "lore": "Es un ave común en los parques del centro y el sur de China y un motivo habitual de la pintura china de aves y flores.",
+  "funFact": "Su cola puede representar aproximadamente dos tercios de su longitud total.",
+  "animal": {
+   "diet": "Insectos, fruta, huevos y pollos, pequeños reptiles, carroña y restos",
+   "habitat": "Bosque de colinas de frondosas y mixto, lindes de bosque, aldeas y parques",
+   "size": "Unos 65–68 cm de longitud, incluida una cola de unos 45 cm",
+   "behaviour": "Los grupos pequeños se siguen unos a otros en una fila desordenada entre los árboles, con las largas colas ondeando tras ellos.",
+   "fieldMarks": [
+    "Cabeza y pecho negros con una mancha blanca en el píleo y la nuca",
+    "Dorso y alas azul lavanda",
+    "Cola azul muy larga y escalonada, con las puntas blancas y bandas negras",
+    "Pico y patas de un rojo brillante"
+   ],
+   "voice": "Reclamos fuertes y variados, entre ellos un áspero 'chuc-chuc' y un resonante 'pit-pit-pitpit'",
+   "lookalikes": "La urraca azul piquigualda (Himalaya occidental, a mayor altitud) tiene el pico amarillo y una mancha nucal blanca más pequeña; la urraca verde común es verde, con el pico rojo.",
+   "whereToSee": "Bosques del valle de Katmandú (Shivapuri), Corbett y Nainital (India), las Colinas Fragantes de Pekín",
+   "season": "Residente todo el año",
+   "order": "Passeriformes"
+  }
+ },
+ {
+  "scientific": "Lanius schach",
+  "common": "Alcaudón schach (alcaudón colilargo)",
+  "summary": "Paseriforme depredador con un antifaz negro de bandido y el dorso rufo, que se posa en arbustos y cables para abalanzarse sobre insectos, lagartijas y aves pequeñas. Como otros alcaudones, ensarta las presas sobrantes en espinas a modo de despensa.",
+  "nativeRange": "Kazajistán e Irán, por Afganistán, Pakistán, India, Sri Lanka y Nepal, hasta China, el Sudeste Asiático y Nueva Guinea",
+  "biomes": [
+   "Matorral",
+   "Tierras de cultivo",
+   "Bosque abierto"
+  ],
+  "abilities": [
+   "Ensarta las presas en espinas y alambre de espino para almacenarlas y despedazarlas",
+   "Imita los reclamos de otras aves dentro de su canto",
+   "Captura presas vertebradas del tamaño de aves pequeñas y ratones"
+  ],
+  "lore": "La costumbre de los alcaudones de ensartar a sus presas valió a la familia el nombre popular inglés de 'butcher-bird' (pájaro carnicero).",
+  "animal": {
+   "diet": "Insectos grandes, lagartijas, aves pequeñas, roedores y ranas",
+   "habitat": "Matorral abierto, cultivos, jardines y setos",
+   "size": "Unos 25 cm de longitud",
+   "behaviour": "Se posa erguido en posaderos expuestos, balanceando su larga cola, y luego se deja caer sobre la presa; los machos defienden sus territorios con reclamos ásperos y cantos llenos de imitaciones.",
+   "fieldMarks": [
+    "Antifaz negro que atraviesa el ojo; píleo y nuca grises",
+    "Dorso, obispillo y flancos rufos",
+    "Cola negra, larga y escalonada, con bordes claros",
+    "Pico negro ganchudo; pequeña mancha alar blanca"
+   ],
+   "voice": "Un áspero 'chaac' y reclamos chirriantes; el canto es un gorjeo suave y divagante con muchas imitaciones",
+   "lookalikes": "El alcaudón dorsicastaño es más pequeño, con la frente negra y el dorso granate; el alcaudón isabel es pardo arena; el alcaudón tibetano (Himalaya) tiene el dorso enteramente gris.",
+   "whereToSee": "Setos y tierras de cultivo de todo el Punyab, los parques de los sectores de Islamabad y los valles del norte de Pakistán en verano; muy extendido en la India y Sri Lanka en invierno",
+   "season": "Residente o parcialmente migratorio; los reproductores del norte se desplazan al sur en invierno",
+   "order": "Passeriformes"
+  }
+ },
+ {
+  "scientific": "Gallus lafayettii",
+  "common": "Gallo de Ceilán (gallo de Lafayette)",
+  "summary": "El ave nacional de Sri Lanka, un pariente silvestre de la gallina cuyo gallo resplandece en rojo anaranjado y oro, con una cresta roja marcada por un centro amarillo. Es endémico de la isla y común en sus parques nacionales.",
+  "nativeRange": "Endémico de Sri Lanka",
+  "biomes": [
+   "Bosque tropical",
+   "Matorral",
+   "Bosque seco"
+  ],
+  "abilities": [
+   "Se hibrida ocasionalmente con gallinas domésticas",
+   "Vive tanto en la zona húmeda como en la seca de Sri Lanka, desde el nivel del mar hasta las colinas",
+   "Busca alimento escarbando la hojarasca en busca de semillas e insectos"
+  ],
+  "lore": "Es el ave nacional de Sri Lanka y aparece en sellos de correos del país.",
+  "funFact": "Es una de las cuatro especies silvestres de Gallus; la gallina doméstica desciende principalmente del gallo bankiva, pero en algunas razas domésticas se han encontrado genes del gallo gris y del gallo de Ceilán.",
+  "animal": {
+   "diet": "Semillas, grano, bayas, insectos y otros invertebrados",
+   "habitat": "Bosque, jungla de matorral y plantaciones",
+   "size": "Machos de unos 66–73 cm; hembras de unos 35 cm",
+   "behaviour": "Los gallos cantan al amanecer y al anochecer desde sus posaderos; las aves suelen alimentarse al descubierto junto a los caminos de los parques a primera hora de la mañana.",
+   "fieldMarks": [
+    "Macho: cuerpo rojo anaranjado con las plumas del cuello (esclavina) doradas",
+    "Macho: cresta roja con una mancha central amarilla; barbillas rojas",
+    "Macho: alas y cola arqueada de un negro purpúreo oscuro",
+    "Hembra: parda jaspeada, con las alas con diseño"
+   ],
+   "voice": "Un canto característico, 'chuc-chrau-choyic', muy distinto del quiquiriquí del gallo doméstico",
+   "lookalikes": "El gallo bankiva y las gallinas domésticas tienen la cresta enteramente roja y un canto distinto; las gallinas asilvestradas cerca de las aldeas pueden causar confusión.",
+   "whereToSee": "Parques nacionales de Sinharaja, Yala, Udawalawe y Horton Plains",
+   "season": "Residente todo el año",
+   "order": "Galliformes"
+  }
+ }
+]

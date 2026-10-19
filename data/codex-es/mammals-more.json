@@ -1,0 +1,1823 @@
+[
+ {
+  "scientific": "Platanista minor",
+  "common": "Delfín del Indo",
+  "summary": "Un delfín de río casi ciego que se orienta en las aguas cargadas de limo del Indo exclusivamente por ecolocalización, nadando de lado y arrastrando una aleta por el lecho. Antes se extendía por todo el sistema del Indo; hoy está atrapado entre presas de riego en unos pocos tramos del Indo en Pakistán, con un pequeño remanente en el río Beas, en la India. En 2021 fue reconocido como especie distinta del delfín del Ganges.",
+  "nativeRange": "Río Indo, Pakistán (principalmente entre las presas de Chashma y Kotri); una población remanente en el río Beas, Punyab, India",
+  "biomes": [
+   "Gran río limoso",
+   "Agua dulce"
+  ],
+  "abilities": [
+   "Sus ojos carecen de cristalino; probablemente solo percibe la luz y su dirección, y depende de chasquidos de ecolocalización casi continuos",
+   "Nada de lado, barriendo el fondo con la cabeza y una aleta pectoral para encontrar presas con visibilidad casi nula",
+   "Hocico largo y estrecho con dientes en forma de aguja que encajan entre sí y siguen visibles con la boca cerrada",
+   "Sus vértebras cervicales no están fusionadas, lo que le permite girar la cabeza bruscamente, a diferencia de la mayoría de los delfines"
+  ],
+  "lore": "Según el folclore sindhi, el bhulan fue en otro tiempo una mujer, convertida en delfín ciego tras ser maldecida por un santón. Desde 1992 el Departamento de Fauna de Sindh y WWF-Pakistán mantienen un programa de rescate de delfines varados en canales de riego.",
+  "funFact": "En los censos de los últimos años se han contado unos 1800–2000 delfines del Indo, casi todos en un tramo de río de menos de 1000 km.",
+  "animal": {
+   "diet": "Peces y camarones de agua dulce, capturados en el lecho del río y a media agua",
+   "habitat": "Canales profundos, confluencias y remolinos del turbio cauce principal del Indo; necesita profundidad de agua durante la estación seca",
+   "lifespan": "Hasta unos 30 años (poco conocido)",
+   "size": "Alrededor de 1,5–2,5 m de longitud; las hembras son mayores que los machos; unos 70–110 kg",
+   "behaviour": "Sale a la superficie cada uno o dos minutos con un giro breve y bajo y un soplido parecido a un estornudo, y luego desaparece; rara vez salta o nada en la proa de las embarcaciones. Suele verse solo o en grupos laxos en las uniones de canales.",
+   "fieldMarks": [
+    "Silueta en la superficie: un arco breve y bajo que muestra un hocico largo y fino, un melón redondeado y solo una joroba triangular baja en lugar de una verdadera aleta dorsal",
+    "Cuerpo pardo grisáceo, a menudo rosado en el vientre; aletas anchas en forma de remo",
+    "El soplido es una bocanada corta y audible, con poca rociada visible",
+    "Suele verse en los canales principales fangosos aguas abajo de las presas o entre ellas, a menudo cerca de confluencias"
+   ],
+   "lookalikes": "El delfín del Ganges (Platanista gangetica) es casi idéntico, pero vive en los sistemas del Ganges–Brahmaputra–Meghna y del Karnaphuli; basta la distribución para distinguirlos. Ningún otro delfín vive en el Indo.",
+   "whereToSee": "Reserva del Delfín del Indo, entre las presas de Guddu y Sukkur, Sindh, Pakistán; Santuario de Fauna de la Presa de Taunsa, Punyab; Reserva de Conservación del Beas, cerca de Harike, Punyab, India",
+   "season": "Residente todo el año; es más fácil de ver en los meses de aguas bajas del invierno y principios de la primavera, cuando los delfines se concentran en los canales más profundos",
+   "order": "Artiodactyla (Cetacea)"
+  }
+ },
+ {
+  "scientific": "Capra falconeri",
+  "common": "Markhor",
+  "summary": "Una gran cabra salvaje del Himalaya occidental, el Hindu Kush y el Karakórum, cuyos machos lucen enormes cuernos en tirabuzón y una melena colgante. Es el animal nacional de Pakistán y un caso de éxito en conservación: los programas de caza de trofeos gestionados por las comunidades ayudaron a que sus poblaciones se recuperaran lo suficiente como para que la especie pasara de En Peligro a Casi Amenazada en 2015.",
+  "nativeRange": "Norte de Pakistán, este de Afganistán, Cachemira (India), sur de Tayikistán, Uzbekistán y Turkmenistán",
+  "biomes": [
+   "Bosque montano de matorral",
+   "Acantilados y peñascos",
+   "Bosque montano abierto"
+  ],
+  "abilities": [
+   "Trepa por acantilados casi verticales e incluso sube a las encinas para ramonear",
+   "Los cuernos en espiral de los machos pueden superar 1,5 m medidos a lo largo de la curva",
+   "En verano se alimenta a gran altitud y en invierno baja a laderas más bajas, siguiendo el límite de la nieve"
+  ],
+  "lore": "El nombre se interpreta popularmente como «comedor de serpientes» en persa, y según el folclore del Hindu Kush el markhor mataba serpientes y dejaba una espuma cuyo residuo seco se usaba para extraer el veneno de serpiente. El Proyecto de Conservación de Torghar, iniciado por miembros de tribus pastunes en 1985, es un célebre modelo de recuperación de fauna dirigida por la comunidad.",
+  "funFact": "Un permiso de caza de trofeo de markhor en Pakistán se ha vendido por más de 100 000 dólares estadounidenses, y la mayor parte del importe va a la comunidad local.",
+  "animal": {
+   "diet": "Gramíneas y hierbas en primavera y verano; en invierno ramonea hojas y ramitas de roble, enebro y arbustos",
+   "habitat": "Terreno escarpado y abrupto con matorral o bosque abierto, aproximadamente entre 600 y 3600 m",
+   "lifespan": "Unos 12–13 años en libertad",
+   "size": "Altura a la cruz de 65–115 cm; los machos alcanzan unos 110 kg y las hembras son mucho menores",
+   "behaviour": "Los machos viven separados de las hembras y las crías la mayor parte del año y se unen a ellas durante el celo invernal, cuando chocan los cuernos y se alzan sobre las patas traseras en combates en terreno empinado.",
+   "fieldMarks": [
+    "Silueta: cabra robusta con cuernos en tirabuzón que se retuercen hacia fuera (machos); la espiral, y no un arco hacia atrás, es diagnóstica",
+    "Los machos adultos tienen una larga melena de pelo hirsuto en la garganta, el pecho y las canillas",
+    "Pelaje pardo grisáceo, más claro en invierno; las hembras son rojizas, de cuernos cortos y sin melena",
+    "Rastros: montones de excrementos tipo cabra en las cornisas y huellas de pezuña hendida y punta roma en las sendas de los acantilados"
+   ],
+   "lookalikes": "El íbice siberiano tiene cuernos largos en forma de cimitarra, curvados hacia atrás y con crestas nudosas, no en tirabuzón. El urial (oveja salvaje) tiene cuernos enroscados que describen un círculo junto a la cara y carece de barba caprina.",
+   "whereToSee": "Parque Nacional de Chitral Gol y Reserva de Tooshi-Shasha, Chitral; reservas comunitarias de Kargah y Gilgit-Baltistán; colinas de Torghar, Baluchistán; Parque Nacional de Kazinag, Cachemira",
+   "season": "Residente; los machos son más fáciles de ver cerca de las aldeas y en las laderas bajas durante el celo invernal (noviembre–enero)",
+   "order": "Artiodactyla"
+  }
+ },
+ {
+  "scientific": "Panthera leo",
+  "common": "León",
+  "summary": "El único felino verdaderamente social, que vive en manadas de hembras emparentadas con uno o unos pocos machos residentes. Los leones se extendían antes desde el sur de Europa y Oriente Próximo hasta la India y por toda África; hoy sobreviven en el África subsahariana y en un pequeño reducto asiático, el bosque de Gir y las tierras circundantes de Guyarat, India. Los leones asiáticos (Panthera leo leo, en la actual subespecie septentrional) pasaron de unas pocas decenas hacia 1900 a 891 ejemplares contados en el censo de Guyarat de 2025.",
+  "nativeRange": "África subsahariana; en Asia, solo la península de Saurashtra, en Guyarat, India (Parque Nacional de Gir y distritos circundantes)",
+  "biomes": [
+   "Sabana",
+   "Pastizal seco",
+   "Bosque caducifolio seco",
+   "Matorral"
+  ],
+  "abilities": [
+   "Cazadores cooperativos: las leonas se despliegan y tienden emboscadas para abatir búfalos, cebras e incluso elefantes jóvenes",
+   "Su rugido es audible para las personas hasta a unos 8 km y sirve para anunciar el territorio",
+   "Puede comer más de 30 kg de carne de una sola vez y luego descansar la mayor parte del día",
+   "Como superdepredadores, condicionan el comportamiento y el número de los grandes herbívoros de pasto"
+  ],
+  "lore": "El capitel de los leones de Ashoka en Sarnath, con cuatro leones espalda con espalda, es el emblema nacional de la India. El nabab de Junagadh protegió a los últimos leones de Gir a principios del siglo XX y salvó de la extinción a la población asiática.",
+  "funFact": "En 2025, alrededor del 57 % de los leones de Guyarat se contaron fuera del núcleo protegido de Gir, viviendo entre granjas y aldeas costeras.",
+  "animal": {
+   "diet": "Carnívoro: ñus, cebras, búfalos y antílopes en África; en Gir, sobre todo chitales, sambares, nilgós, jabalíes y ganado",
+   "habitat": "Sabana abierta, pastizal, bosque seco y matorral con agua; en Gir, bosque seco de teca, matorral y tierras de cultivo",
+   "lifespan": "Las hembras, unos 15–18 años; los machos, a menudo 10–12 en libertad",
+   "size": "Machos de 150–250 kg y unos 2,5–3,3 m incluida la cola; hembras de 110–180 kg",
+   "behaviour": "Las manadas defienden sus territorios durante generaciones; los machos recién llegados suelen matar a los cachorros pequeños para que las hembras vuelvan a entrar en celo. En Gir las manadas son más pequeñas y machos y hembras suelen juntarse solo para aparearse o compartir presas grandes.",
+   "fieldMarks": [
+    "Silueta: gran felino de color leonado uniforme con la punta de la cola en un mechón negro; es el único felino con borla en la cola",
+    "Los machos adultos tienen melena; la de los machos asiáticos suele ser más corta y deja ver las orejas",
+    "Los leones asiáticos suelen tener un pliegue longitudinal de piel a lo largo del vientre, raro en los africanos",
+    "Huellas: redondas, de unos 11–14 cm de ancho, cuatro dedos, sin marcas de uñas y con el borde posterior de la almohadilla trilobulado"
+   ],
+   "voice": "Una serie grave y ondulante de rugidos quejumbrosos que se apagan en gruñidos, emitida sobre todo al anochecer y antes del alba, a menudo por varios miembros de la manada a la vez.",
+   "lookalikes": "Las leonas pueden confundirse con pumas en zoológicos o fotografías, pero ambas especies nunca coinciden en libertad; las leonas son mucho más grandes y tienen la borla en la cola. Los leopardos tienen manchas en roseta.",
+   "whereToSee": "Parque Nacional de Gir y Parque Safari de Devalia, Guyarat; Serengeti y Ngorongoro (Tanzania); Masái Mara (Kenia); delta del Okavango (Botsuana); Kruger (Sudáfrica)",
+   "season": "Residente todo el año; Gir cierra a los safaris del 16 de junio al 15 de octubre por el monzón, y en África las estaciones secas ofrecen los mejores avistamientos",
+   "order": "Carnivora"
+  }
+ },
+ {
+  "scientific": "Rhinoceros unicornis",
+  "common": "Rinoceronte indio",
+  "summary": "Un rinoceronte de un solo cuerno, con la piel plegada como placas de armadura remachadas, que vive en los altos pastizales de las llanuras de inundación del Brahmaputra y el terai de Nepal. De menos de 200 animales a principios del siglo XX se ha recuperado hasta superar los 4000, una de las grandes recuperaciones de la conservación en Asia; unas dos terceras partes viven en el Parque Nacional de Kaziranga.",
+  "nativeRange": "Noreste de la India (Assam, Bengala Occidental, Uttar Pradesh) y tierras bajas de Nepal; antes, por las llanuras del Indo y el Ganges",
+  "biomes": [
+   "Pastizal alto de llanura de inundación",
+   "Bosque ribereño",
+   "Humedal"
+  ],
+  "abilities": [
+   "Pasta la alta hierba elefante y mantiene abiertos los pastizales de las llanuras de inundación para otras especies",
+   "Buen nadador que cruza ríos y se revuelca en el barro durante horas",
+   "Se defiende sobre todo con los afilados colmillos inferiores (incisivos) más que con el cuerno",
+   "Usa estercoleros comunales (letrinas) que funcionan como tablones de anuncios olfativos"
+  ],
+  "lore": "Los rinocerontes aparecen en varios sellos de la civilización del valle del Indo procedentes de Mohenjo-daro, y el emperador mogol Babur dejó constancia de su caza cerca de Peshawar a principios del siglo XVI. El famoso grabado en madera de Alberto Durero de 1515 representa un rinoceronte indio enviado desde Guyarat a Lisboa.",
+  "funFact": "Durero nunca vio el animal que dibujó: su rinoceronte acorazado, basado en un boceto y una carta, siguió siendo la imagen estándar del rinoceronte en Europa hasta el siglo XVIII.",
+  "animal": {
+   "diet": "Gramíneas, juncos, plantas acuáticas, frutos, hojas y cultivos",
+   "habitat": "Pastizal aluvial de llanura de inundación, pantanos y bosque contiguo",
+   "lifespan": "Unos 35–45 años",
+   "size": "1,7–2 m a la cruz; los machos pesan unos 2000–2700 kg",
+   "behaviour": "Mayormente solitario, aunque se congrega en los revolcaderos y en los prados de pasto. Se alimenta sobre todo por la mañana y al atardecer, y pasa las horas de calor tumbado en el barro o en el agua.",
+   "fieldMarks": [
+    "Silueta: enorme cuerpo gris con profundos pliegues de piel en la espalda, el flanco y la grupa que le dan un aspecto «acorazado»",
+    "Un solo cuerno en la nariz, normalmente de 20–30 cm",
+    "Piel cubierta de protuberancias verrugosas en los hombros y las patas",
+    "Rastros: grandes estercoleros a lo largo de las sendas, huellas de tres dedos de unos 25 cm de ancho y revolcaderos de barro"
+   ],
+   "lookalikes": "El rinoceronte de Java (también de un cuerno) solo sobrevive en Ujung Kulon, Java, y tiene una piel de textura más fina, como un mosaico, sin verrugas. Los rinocerontes blanco y negro africanos tienen dos cuernos.",
+   "whereToSee": "Parques nacionales de Kaziranga, Pobitora y Manas (Assam); Jaldapara y Gorumara (Bengala Occidental); Dudhwa (Uttar Pradesh); Chitwan y Bardia (Nepal)",
+   "season": "Residente; Kaziranga abre aproximadamente de noviembre a abril y cierra durante las inundaciones del monzón",
+   "order": "Perissodactyla"
+  }
+ },
+ {
+  "scientific": "Vulpes bengalensis",
+  "common": "Zorro de Bengala",
+  "summary": "Un zorro pequeño y esbelto de las llanuras abiertas, exclusivo del subcontinente indio. Prefiere el pastizal bajo y el semidesierto, evita el bosque denso y caza insectos y roedores sobre todo al anochecer y de noche.",
+  "nativeRange": "India, Pakistán, Nepal y Bangladés, desde las estribaciones del Himalaya hasta Tamil Nadu",
+  "biomes": [
+   "Pastizal bajo",
+   "Matorral semiárido",
+   "Tierras de cultivo"
+  ],
+  "abilities": [
+   "Excava madrigueras complejas con varias entradas, que reutiliza durante muchos años",
+   "Come grandes cantidades de roedores, termitas y plagas de cultivos",
+   "Las parejas forman vínculos estables y ambos progenitores alimentan a las crías"
+  ],
+  "lore": "Zorros y chacales desempeñan los papeles de astutos en los cuentos del Panchatantra y los Jataka. La especie fue descrita por George Shaw en 1800, de ahí el nombre, aunque hoy es rara allí.",
+  "funFact": "Pese a su nombre, el zorro de Bengala es hoy escaso en la propia Bengala; sus bastiones son los pastizales secos del oeste y de la India peninsular.",
+  "animal": {
+   "diet": "Omnívoro: insectos, roedores, reptiles, huevos de aves y frutos como el ber (azufaifo indio) y el nim",
+   "habitat": "Pastizal bajo abierto, matorral y semidesierto; evita el bosque denso y el terreno escarpado",
+   "lifespan": "Unos 6–8 años en libertad",
+   "size": "Cuerpo de 45–60 cm más una cola de 25–35 cm; 2–4 kg",
+   "behaviour": "Descansa en la madriguera durante las horas de calor y es más activo al anochecer y a primera hora de la mañana; las crías nacen en la estación seca, hacia febrero–marzo.",
+   "fieldMarks": [
+    "Zorro gris, pequeño y de patas largas, con las patas rojizas",
+    "Cola tupida con la punta claramente negra",
+    "Mancha oscura en el hocico, delante de los ojos; orejas de dorso oscuro",
+    "Rastros: madrigueras con varias entradas en pequeños montículos en terreno abierto, con excrementos llenos de restos de insectos y semillas"
+   ],
+   "lookalikes": "El zorro rojo (subespecie desértica del Thar y Pakistán) es más grande, más rojizo por encima y tiene la punta de la cola blanca. El chacal dorado es más grande y pesado, y tiene una cola menos tupida sin punta negra.",
+   "whereToSee": "Parque Nacional del Antílope Negro de Velavadar y Pequeño Rann de Kutch (Guyarat); Tal Chhapar y Parque Nacional del Desierto (Rajastán); Rollapadu (Andhra Pradesh); pastizales del Decán en torno a Pune y Bangalore",
+   "season": "Residente; las crías se dejan ver en las madrigueras hacia marzo–mayo",
+   "order": "Carnivora"
+  }
+ },
+ {
+  "scientific": "Antilope cervicapra",
+  "common": "Antílope negro (antílope indio)",
+  "summary": "Uno de los mamíferos terrestres más rápidos, un antílope esbelto de las llanuras indias cuyos machos adultos son de un negro brillante y blanco, con largos cuernos en espiral. Antaño uno de los grandes mamíferos más numerosos de Asia meridional, sobrevive en pastizales protegidos y entre comunidades como los bishnoi, que se niegan a hacerle daño.",
+  "nativeRange": "India y Nepal; extinto en libertad en Bangladés y Pakistán (reintroducido en Lal Suhanra, Pakistán); introducido en Texas y Argentina",
+  "biomes": [
+   "Pastizal abierto",
+   "Llanuras semiáridas",
+   "Tierras de cultivo"
+  ],
+  "abilities": [
+   "Puede correr hasta a unos 80 km/h y mantener altas velocidades en largas distancias",
+   "Da grandes saltos en el aire mientras huye (stotting o pronking)",
+   "En algunas poblaciones los machos defienden pequeños territorios de apareamiento (leks)"
+  ],
+  "lore": "En la tradición hindú, el antílope negro es la montura de Chandra, la luna, y de Vayu, y los textos védicos prescribían su piel como asiento ritual. Su caza por un actor de Bollywood cerca de una aldea bishnoi en 1998 dio lugar a una célebre condena.",
+  "funFact": "El antílope negro es el único miembro vivo del género Antilope, el género que da nombre a la subfamilia de los antílopes, Antilopinae.",
+  "animal": {
+   "diet": "Gramíneas; también vainas, flores y cultivos",
+   "habitat": "Pastizales bajos abiertos y llanuras con escasa cubierta arbórea",
+   "lifespan": "Unos 10–15 años",
+   "size": "Altura a la cruz de 74–84 cm; 20–57 kg; los cuernos de los machos alcanzan unos 70 cm",
+   "behaviour": "Vive en manadas de hembras y crías con machos territoriales. Los machos dominantes, en sus exhibiciones ante los rivales, mantienen la cabeza alta y echada hacia atrás, con los cuernos tendidos sobre el cuello.",
+   "fieldMarks": [
+    "Machos adultos: partes superiores de pardo oscuro a negro, netamente separadas del vientre blanco; anillo ocular y barbilla blancos",
+    "Cuernos en tirabuzón con 3–5 vueltas de espiral (solo los machos)",
+    "Hembras y machos jóvenes: pardo amarillentos por encima, blancos por debajo, sin cuernos",
+    "Rastros: los machos territoriales dejan grandes estercoleros en su parcela"
+   ],
+   "lookalikes": "La chinkara (gacela india) es de color arena, ambos sexos tienen cuernos cortos, casi rectos y anillados, y presenta una franja lateral oscura. El nilgó es mucho más grande y gris.",
+   "whereToSee": "Parque Nacional del Antílope Negro de Velavadar (Guyarat); Santuario de Tal Chhapar y aldeas bishnoi en torno a Jodhpur (Rajastán); Point Calimere (Tamil Nadu); Ranibennur (Karnataka); Parque Nacional de Lal Suhanra (Pakistán)",
+   "season": "Residente; las exhibiciones alcanzan su máximo durante el celo (aproximadamente marzo–abril y agosto–octubre, según la región)",
+   "order": "Artiodactyla"
+  }
+ },
+ {
+  "scientific": "Boselaphus tragocamelus",
+  "common": "Nilgó",
+  "summary": "El mayor antílope de Asia, un animal de aspecto caballuno y lomo inclinado, propio de las llanuras secas y las tierras de cultivo del norte y el centro de la India. Como muchos hindúes lo asocian con la vaca, se le tolera ampliamente, y se ha vuelto tan abundante que es un conocido saqueador de cultivos.",
+  "nativeRange": "India, este de Pakistán y sur de Nepal; extinto en Bangladés; introducido en Texas, EE. UU.",
+  "biomes": [
+   "Bosque caducifolio seco",
+   "Matorral",
+   "Pastizal",
+   "Tierras de cultivo"
+  ],
+  "abilities": [
+   "Puede pasar largos periodos sin beber, obteniendo humedad de las plantas",
+   "Prospera junto a la agricultura y se alimenta de los cultivos por la noche",
+   "Los machos se enfrentan de rodillas, empujándose cuello con cuello"
+  ],
+  "lore": "El emperador mogol Jahangir dejó constancia de sus cacerías de nilgós en sus memorias, el Jahangirnama, y su pintor de corte Ustad Mansur pintó al animal del natural. Su asociación con la vaca sagrada lo ha protegido durante mucho tiempo, aunque en diciembre de 2015 el ministerio de Medio Ambiente de la India lo declaró alimaña en Bihar para permitir su sacrificio.",
+  "funFact": "El nilgó es la única especie viva de su género y, junto con el antílope de cuatro cuernos, forma una tribu (Boselaphini) cuyos parientes recorrieron en otro tiempo Europa.",
+  "animal": {
+   "diet": "Gramíneas, hierbas, hojas, frutos y vainas (por ejemplo, de Prosopis y Acacia) y cultivos",
+   "habitat": "Matorral abierto, bosque seco y tierras agrícolas; evita el bosque denso",
+   "lifespan": "Unos 10 años en libertad",
+   "size": "1–1,5 m a la cruz; los machos alcanzan unos 280 kg",
+   "behaviour": "Las manadas usan estercoleros compartidos, a veces decenas de montones en un mismo lugar, que marcan sus áreas de campeo. Hembras y crías forman pequeñas manadas, mientras que los toros viven solos o en grupos de solteros.",
+   "fieldMarks": [
+    "Silueta: caballuna, con la cruz alta y el lomo descendiendo hacia unos cuartos traseros más bajos",
+    "Toros adultos gris azulados, con una mancha blanca en la garganta y un mechón de pelo negro (una «barba») en la garganta",
+    "Hembras y jóvenes pardo leonados; manchas blancas en las mejillas y anillos blancos sobre las pezuñas",
+    "Los toros tienen cuernos cortos, rectos y cónicos (unos 20 cm); entre los rastros, grandes estercoleros comunales"
+   ],
+   "lookalikes": "El sambar es más oscuro, tiene cornamenta ramificada (los machos) y cola tupida, y vive en el bosque. El gaur es un bóvido negro mucho más pesado, con cuernos curvos y «calcetines» blancos.",
+   "whereToSee": "Ranthambore, Keoladeo (Bharatpur) y Tal Chhapar (Rajastán); Gir y Pequeño Rann de Kutch (Guyarat); tierras de cultivo de Haryana y Uttar Pradesh",
+   "season": "Residente todo el año",
+   "order": "Artiodactyla"
+  }
+ },
+ {
+  "scientific": "Melursus ursinus",
+  "common": "Oso perezoso (oso bezudo)",
+  "summary": "Un oso de pelo hirsuto de la India y Sri Lanka que se alimenta de termitas y aspira los insectos de sus montículos. Carece de incisivos superiores, puede cerrar las fosas nasales y usa sus labios protráctiles como un tubo de succión. Pese a su dieta de insectos, es uno de los animales más peligrosos de la India: ataca cuando se le sorprende a corta distancia.",
+  "nativeRange": "India, Sri Lanka, Nepal y Bután; posiblemente extinto en Bangladés",
+  "biomes": [
+   "Bosque caducifolio seco",
+   "Matorral",
+   "Colinas rocosas",
+   "Pastizal"
+  ],
+  "abilities": [
+   "Succiona termitas de los montículos con un silbido audible a 100 m",
+   "Sus garras largas y curvas excavan termiteros y nidos de abejas",
+   "Las madres llevan a las crías a la espalda durante meses, costumbre que no se observa de forma habitual en otros osos"
+  ],
+  "lore": "Durante siglos la comunidad kalandar adiestró osos perezosos como «osos bailarines»; gracias a un programa de rehabilitación dirigido por Wildlife SOS y sus socios, la práctica terminó en la India hacia 2009. Baloo, de El libro de la selva de Kipling, es un oso perezoso.",
+  "funFact": "Los naturalistas europeos lo clasificaron primero como un tipo de perezoso y lo llamaron Bradypus ursinus en 1791, basándose en sus largas garras curvas y la falta de incisivos superiores; el nombre de «oso perezoso» se quedó.",
+  "animal": {
+   "diet": "Termitas, hormigas y otros insectos; frutos y flores como las de mahua, el ber (azufaifo indio) y los higos; miel",
+   "habitat": "Bosque seco y húmedo, matorral y colinas rocosas con cuevas entre peñascos, generalmente por debajo de 1500 m",
+   "lifespan": "Unos 20 años en libertad; hasta 40 en cautividad",
+   "size": "Machos de 80–145 kg, hembras de 55–95 kg; alrededor de 1,5–1,9 m de longitud",
+   "behaviour": "En gran medida nocturno donde se le molesta. No hiberna. Embiste cuando se sobresalta, una reacción defensiva que causa muchas de las heridas a personas.",
+   "fieldMarks": [
+    "Pelaje negro, hirsuto y desgreñado, más largo en los hombros y el cuello",
+    "Hocico claro y móvil con un largo labio inferior",
+    "Marca pectoral blanca o amarillenta en forma de U o de Y",
+    "Rastros: termiteros destrozados con la tierra esparcida; huellas con largas marcas de garras muy por delante de los dedos; excrementos repletos de restos de termitas"
+   ],
+   "lookalikes": "El oso negro asiático tiene un pelaje corto y pulcro, una media luna en forma de V en el pecho, orejas redondas, y vive sobre todo en el Himalaya y el noreste. El jabalí, visto de lejos, tiene la cabeza más pequeña y una cresta de cerdas.",
+   "whereToSee": "Santuario de Osos de Daroji (Karnataka); Satpura, Kanha y Tadoba (India central); Ranthambore (Rajastán); Yala y Wilpattu (Sri Lanka)",
+   "season": "Residente; la floración de la mahua (marzo–abril) atrae a los osos a campo abierto",
+   "order": "Carnivora"
+  }
+ },
+ {
+  "scientific": "Ursus arctos",
+  "common": "Oso pardo",
+  "summary": "El oso de distribución más amplia, desde España y Escandinavia, a través de Siberia, hasta Alaska y las Rocosas, e incluye al grizzly y al gigantesco oso de Kodiak. En Asia meridional sobrevive como el oso pardo del Himalaya (U. a. isabellinus), pálido y escaso, de Deosai, Ladakh y el Karakórum, un linaje genéticamente distinto de los demás osos pardos.",
+  "nativeRange": "Norte de Eurasia y noroeste de Norteamérica; poblaciones aisladas en los Pirineos, los Apeninos, los Cárpatos, el Cáucaso, el Himalaya, el Karakórum y el Hindu Kush",
+  "biomes": [
+   "Bosque boreal",
+   "Tundra",
+   "Bosque templado",
+   "Prado alpino"
+  ],
+  "abilities": [
+   "Hiberna hasta 7 meses sin comer, beber ni orinar",
+   "Puede oler cadáveres a varios kilómetros de distancia",
+   "Los osos que comen salmón llevan nitrógeno marino a los bosques al arrastrar los peces tierra adentro"
+  ],
+  "lore": "Los ainu de Hokkaido celebraban la ceremonia iyomante para devolver el espíritu del oso a los dioses. El nombre griego del oso, Arktos, nos dio «Ártico», la tierra situada bajo la constelación de la Osa Mayor.",
+  "funFact": "El Parque Nacional de Deosai se creó en 1993 en gran parte para proteger a los osos pardos del Himalaya de Pakistán, que entonces eran solo unos 20 allí.",
+  "animal": {
+   "diet": "Omnívoro: gramíneas, raíces, bayas, frutos secos, insectos, salmón, roedores y grandes mamíferos; los osos del Himalaya desentierran marmotas y pastan plantas alpinas",
+   "habitat": "Bosque, tundra, prados alpinos y altiplanos",
+   "lifespan": "Unos 20–30 años en libertad",
+   "size": "Muy variable: unos 80–600 kg; los machos de la costa de Alaska y de Kodiak son los más grandes",
+   "behaviour": "Solitario, salvo las madres con crías y las concentraciones en fuentes de alimento como los saltos de salmón. Excava su propia osera invernal en las laderas.",
+   "fieldMarks": [
+    "Silueta: marcada joroba en los hombros (músculo excavador) y perfil facial cóncavo",
+    "El pelaje va de casi negro a rubio; los osos del Himalaya son de color arena rojizo o pálidos",
+    "Orejas cortas y redondeadas",
+    "Huellas: la trasera mide hasta ~30 cm, con largas marcas de garras 5 cm o más por delante de los dedos, dispuestos en una fila bastante recta; entre los rastros, madrigueras de marmota excavadas y piedras volteadas"
+   ],
+   "lookalikes": "El oso negro americano y el oso negro asiático carecen de joroba, tienen un perfil facial más recto, orejas más grandes y garras cortas y curvas. En el Himalaya, el oso negro asiático tiene una media luna blanca en el pecho.",
+   "whereToSee": "Parque Nacional de Deosai (Gilgit-Baltistán, Pakistán); Katmai y Denali (Alaska); Yellowstone (EE. UU.); Kamchatka (Rusia); Shiretoko (Hokkaido); cordillera Cantábrica (España); observatorios en la frontera entre Finlandia y Rusia",
+   "season": "Activo aproximadamente de abril a noviembre; se observa mejor durante las migraciones del salmón (julio–septiembre) y en Deosai en julio–agosto",
+   "order": "Carnivora"
+  }
+ },
+ {
+  "scientific": "Vulpes vulpes",
+  "common": "Zorro rojo (zorro común)",
+  "summary": "El carnívoro salvaje de distribución más amplia de la Tierra, desde el Ártico hasta los desiertos de Pakistán y los suburbios de Londres. Entre sus formas de Asia meridional figuran el pálido zorro del desierto del Thar y Baluchistán y el zorro rojo del Himalaya, de pelaje espeso. Introducido en Australia, ha contribuido a la extinción de muchos pequeños marsupiales.",
+  "nativeRange": "Todo el hemisferio norte (Europa, Asia, incluido el norte de Asia meridional, norte de África, Norteamérica); introducido en Australia",
+  "biomes": [
+   "Bosque templado",
+   "Pastizal",
+   "Desierto",
+   "Tundra",
+   "Tierras de cultivo",
+   "Medio urbano"
+  ],
+  "abilities": [
+   "Oye a los roedores moverse bajo la nieve y se lanza sobre ellos con un salto en arco muy alto",
+   "Esconde el alimento sobrante y lo recupera después gracias a la memoria y el olfato",
+   "Se adapta a las ciudades y cría bajo cobertizos y en terraplenes ferroviarios"
+  ],
+  "lore": "En Japón, el kitsune es el mensajero de Inari, deidad del arroz, y estatuas de zorros guardan miles de santuarios de Inari. La épica animal medieval europea del zorro Renart satirizaba las cortes y el clero.",
+  "funFact": "El genetista soviético Dmitri Beliáyev crió zorros mansos a partir de 1959; en pocas décadas movían la cola y tenían orejas caídas y pelajes pintos.",
+  "animal": {
+   "diet": "Omnívoro: roedores, conejos, aves, insectos, lombrices, fruta y carroña o restos de comida",
+   "habitat": "Casi cualquier hábitat con refugio, desde la tundra y el desierto hasta el centro de las ciudades",
+   "lifespan": "Normalmente 2–4 años en libertad; hasta unos 14",
+   "size": "Cuerpo de 45–90 cm, cola de 30–55 cm; 3–14 kg; las formas desérticas son las más pequeñas",
+   "behaviour": "Mayormente nocturno y crepuscular. Las parejas comparten territorio y pueden recibir la ayuda de jóvenes no reproductores de camadas anteriores.",
+   "fieldMarks": [
+    "Pelaje naranja rojizo con la garganta blanca y el dorso de las orejas negro",
+    "«Medias» negras en la parte inferior de las patas",
+    "Cola larga y tupida, normalmente con la punta blanca",
+    "Huellas: ovaladas y nítidas, de unos 5 cm, en una línea casi recta; fuerte olor almizclado en los puntos de marcaje y las madrigueras"
+   ],
+   "voice": "En invierno las hembras emiten un chillido prolongado e inquietante; ambos sexos usan un ladrido triple y seco, «guau-guau-guau».",
+   "lookalikes": "El zorro de Bengala es más pequeño y gris, con la punta de la cola negra (no blanca). El chacal dorado es más grande y gris, con la cola más corta y las patas más largas. El zorro ártico tiene las orejas más pequeñas y es blanco o gris azulado.",
+   "whereToSee": "Ciudades como Londres y Bristol; Deosai y Khunjerab (Pakistán) y Ladakh para el zorro del Himalaya; Parque Nacional del Desierto y Rann de Kutch para el zorro del desierto; Hokkaido (Japón)",
+   "season": "Residente; crías en las madrigueras de abril a junio; chillidos de las hembras en la época de celo, de diciembre a febrero",
+   "order": "Carnivora"
+  }
+ },
+ {
+  "scientific": "Urva edwardsii",
+  "common": "Mangosta gris india",
+  "summary": "La famosa mangosta de Asia meridional que lucha con serpientes, un cazador gris entrecano de jardines, matorrales y campos. Su rapidez, su pelaje grueso y unos receptores de acetilcolina modificados que resisten las neurotoxinas de la cobra le permiten enfrentarse a serpientes venenosas, aunque la mayor parte de su dieta son roedores, insectos y lagartos.",
+  "nativeRange": "India, Pakistán, Nepal, Sri Lanka y Bangladés, y hacia el oeste por Afganistán e Irán hasta el golfo Pérsico",
+  "biomes": [
+   "Matorral",
+   "Bosque seco",
+   "Tierras de cultivo",
+   "Jardines urbanos"
+  ],
+  "abilities": [
+   "Es parcialmente resistente a las neurotoxinas de serpiente, gracias a unas proteínas receptoras alteradas",
+   "Se mueve tan rápido que puede esquivar el ataque de una cobra y luego morderle la nuca",
+   "Caza entrando y saliendo velozmente del alcance de la presa, y a menudo atrapa ratas o lagartos con un solo mordisco en la cabeza"
+  ],
+  "lore": "Kubera, dios hindú de la riqueza, y el budista Jambhala se representan sosteniendo una mangosta que escupe joyas. El Panchatantra narra la historia de una mangosta leal muerta a manos de un brahmán que confundió la sangre de una serpiente abatida con la de su bebé; el Rikki-Tikki-Tavi de Kipling suele identificarse con esta especie.",
+  "funFact": "La palabra inglesa mongoose procede de nombres maratíes y telugus como mangūs y mungisa.",
+  "animal": {
+   "diet": "Roedores, insectos, serpientes, lagartos, aves, huevos, carroña y fruta",
+   "habitat": "Bosque abierto, matorral, tierras cultivadas y márgenes de aldeas y pueblos",
+   "lifespan": "Unos 7–8 años en libertad; hasta 12 en cautividad",
+   "size": "Cuerpo de 36–45 cm, cola de 45 cm; alrededor de 0,9–1,7 kg",
+   "behaviour": "Diurna, a diferencia de muchas mangostas; suele ir sola o en pareja. Eriza el pelo para parecer más grande cuando se enfrenta a una serpiente.",
+   "fieldMarks": [
+    "Animal gris, bajo y de cuerpo alargado, con el pelaje entrecano («sal y pimienta»)",
+    "Cola tan larga como el cuerpo, ahusada, con la punta clara o rojiza",
+    "Patas y cara rojizas alrededor de los ojos",
+    "Corre con la cola extendida o algo levantada; las huellas muestran cinco dedos con uñas"
+   ],
+   "lookalikes": "La mangosta india pequeña (Urva auropunctata) es más pequeña y tiene el pelaje moteado de dorado; la mangosta rojiza (Urva smithii) tiene la punta de la cola negra; la mangosta de cuello rayado tiene una franja negra en el cuello. Las ardillas tienen cola tupida y trepan.",
+   "whereToSee": "Común en jardines, tierras de cultivo y parques de toda la India y Pakistán; Sariska y Ranthambore (Rajastán); Gir (Guyarat); colinas de Margalla (Islamabad)",
+   "season": "Residente; activa durante el día todo el año",
+   "order": "Carnivora"
+  }
+ },
+ {
+  "scientific": "Canis aureus",
+  "common": "Chacal dorado",
+  "summary": "Un cánido salvaje de tamaño mediano de Asia meridional, Oriente Próximo y el sureste de Europa, conocido por su coro de aullidos al anochecer. Se está expandiendo con rapidez por Europa y ya alcanza los países bálticos y más allá. Desde 2015, las poblaciones africanas antes llamadas chacales dorados se consideran una especie aparte, el lobo dorado africano.",
+  "nativeRange": "Asia meridional y sudoriental, Oriente Próximo, Cáucaso, Asia central y sureste de Europa, en expansión hacia el norte y el oeste",
+  "biomes": [
+   "Matorral",
+   "Tierras de cultivo",
+   "Bosque seco",
+   "Márgenes de humedales",
+   "Periferia urbana"
+  ],
+  "abilities": [
+   "Carroñea y caza, limpiando cadáveres y desperdicios en torno a las aldeas",
+   "Se coordina en pareja para cazar roedores, liebres y cervatillos",
+   "Amplía rápidamente su área de distribución a medida que declinan los lobos y se extienden las tierras de cultivo"
+  ],
+  "lore": "Los dos chacales Karataka y Damanaka narran el primer libro del Panchatantra; su traducción árabe se titula Kalila wa-Dimna por ellos. En la iconografía hindú, los chacales acompañan a la diosa Chamunda.",
+  "funFact": "La palabra «chacal» llega a través del turco desde el persa shaghāl, y en última instancia del sánscrito śṛgāla.",
+  "animal": {
+   "diet": "Omnívoro: roedores, liebres, aves, peces, insectos, carroña, fruta (ber, higos) y desperdicios de comida humana",
+   "habitat": "Campo abierto seco, matorral, tierras de cultivo, humedales y lindes de bosque, a menudo cerca de asentamientos",
+   "lifespan": "Unos 8–9 años en libertad",
+   "size": "Cuerpo de 70–85 cm, cola de 20–30 cm; 7–15 kg",
+   "behaviour": "Las parejas son duraderas y defienden un territorio; los cachorros mayores pueden quedarse para ayudar a criar la camada siguiente.",
+   "fieldMarks": [
+    "Forma de perro mediano, pelaje de dorado a gris leonado con una «silla» más oscura",
+    "Cola tupida con la punta negra, llevada baja",
+    "Garganta clara; hocico estrecho y orejas puntiagudas",
+    "Huellas: de tipo canino, de unos 5–6 cm, con las almohadillas de los dos dedos centrales a menudo unidas por detrás"
+   ],
+   "voice": "Un coro creciente de aullidos y gañidos al anochecer y de noche, a menudo desencadenado por sirenas; una llamada provoca otras por toda la aldea.",
+   "lookalikes": "El lobo indio es más grande, de patas más largas y más gris. El zorro rojo es más pequeño, con la punta de la cola blanca y el dorso de las orejas negro. Los perros asilvestrados varían de color y no tienen la punta de la cola negra.",
+   "whereToSee": "Keoladeo (Bharatpur) y Ranthambore (Rajastán); Velavadar (Guyarat); Sundarbans; afueras de Lahore, Karachi y Delhi; delta del Danubio (Rumanía)",
+   "season": "Residente; más vocal en invierno",
+   "order": "Carnivora"
+  }
+ },
+ {
+  "scientific": "Manis crassicaudata",
+  "common": "Pangolín indio",
+  "summary": "Un comedor de hormigas y termitas acorazado del subcontinente indio, cubierto de escamas de queratina superpuestas y capaz de enrollarse en una bola casi inexpugnable. Es uno de los mamíferos más traficados del mundo, cazado furtivamente por sus escamas y su carne, y está protegido por el Anexo I de la Ley de Protección de la Fauna de la India.",
+  "nativeRange": "India, Pakistán, Sri Lanka, Nepal y posiblemente Bangladés",
+  "biomes": [
+   "Bosque caducifolio seco",
+   "Matorral",
+   "Pastizal",
+   "Tierras de cultivo"
+  ],
+  "abilities": [
+   "Carece de dientes; una lengua pegajosa de unos 40 cm, que sobresale unos 25 cm de la boca, llega hasta lo más hondo de las galerías de las termitas",
+   "Ante una amenaza se enrolla en una bola apretada, protegida por escamas de bordes afilados",
+   "Excava madrigueras de varios metros de longitud con sus potentes garras delanteras",
+   "Puede cerrar las fosas nasales y los oídos frente a las hormigas que muerden"
+  ],
+  "lore": "En 1820 el marqués de Hastings regaló al rey Jorge III una armadura hecha de escamas de pangolín indio, que hoy se exhibe en las Royal Armouries de Leeds. La demanda de sus escamas para la medicina tradicional china, sin ningún efecto medicinal demostrado, impulsa la mayor parte de la caza furtiva.",
+  "funFact": "Las escamas del pangolín están hechas de queratina, la misma proteína que las uñas humanas.",
+  "animal": {
+   "diet": "Hormigas y termitas, incluidos sus huevos y larvas",
+   "habitat": "Pastizal, bosque seco y húmedo, matorral y tierras de cultivo, incluidos terrenos montañosos y semidesérticos",
+   "lifespan": "Poco conocida; hasta unos 19 años en cautividad",
+   "size": "Cabeza y cuerpo de 45–75 cm, cola de 33–47 cm; unos 9–16 kg",
+   "behaviour": "Nocturno y solitario; duerme de día en madrigueras o grietas de las rocas. Camina apoyándose en los nudillos y las patas traseras, y a veces se yergue sobre estas.",
+   "fieldMarks": [
+    "Silueta: cuerpo bajo y ahusado, como una piña andante, con una cola ancha y gruesa",
+    "11–13 hileras de grandes escamas superpuestas de color pardo amarillento en el cuerpo",
+    "Cabeza diminuta y cónica, con ojos pequeños y sin dientes visibles",
+    "Rastros: madrigueras con tierra fresca en la entrada, termiteros y hormigueros excavados, y una línea de arrastre de la cola entre las huellas"
+   ],
+   "lookalikes": "El pangolín chino (en las estribaciones del Himalaya nororiental) tiene escamas más pequeñas, orejas externas prominentes y cola más corta. El pangolín malayo solo vive en el Sudeste Asiático. Ningún otro mamífero de Asia meridional tiene escamas.",
+   "whereToSee": "Rara vez se ve; censos nocturnos en Kanha y Satpura (India central), meseta de Pothohar (Pakistán), zona seca de Sri Lanka y Similipal (Odisha)",
+   "season": "Residente; activo de noche todo el año",
+   "order": "Pholidota"
+  }
+ },
+ {
+  "scientific": "Macaca mulatta",
+  "common": "Macaco rhesus",
+  "summary": "El conocido mono de templos y calles del norte de Asia meridional y de China, con la distribución más amplia de todos los primates no humanos. Ha influido en la medicina moderna: el factor sanguíneo Rh lleva su nombre, y los monos rhesus fueron fundamentales en el desarrollo de la vacuna contra la poliomielitis y en los primeros vuelos espaciales.",
+  "nativeRange": "Desde Afganistán y Pakistán, hacia el este, por el norte de la India, Nepal, Bangladés, Birmania, Tailandia e Indochina hasta China; introducido en Florida y Puerto Rico",
+  "biomes": [
+   "Bosque templado y tropical",
+   "Manglar",
+   "Tierras de cultivo",
+   "Medio urbano"
+  ],
+  "abilities": [
+   "Vive desde los manglares a nivel del mar hasta los bosques del Himalaya por encima de 3000 m, y en grandes ciudades",
+   "Nada bien y cruza ríos con facilidad",
+   "Guarda comida en los abazones para comerla después en lugar seguro"
+  ],
+  "lore": "Los monos que viven en torno a los templos hindúes son alimentados por su vínculo con Hanuman, el dios mono del Ramayana. La India prohibió la exportación de monos rhesus en 1978, tras décadas de abastecer a laboratorios de todo el mundo.",
+  "funFact": "Un mono rhesus llamado Albert II se convirtió en el primer primate en el espacio en junio de 1949, a bordo de un cohete V-2 lanzado desde Nuevo México.",
+  "animal": {
+   "diet": "Omnívoro: frutos, semillas, hojas, raíces, insectos y comida humana",
+   "habitat": "Bosques de muchos tipos, tierras de cultivo, templos y poblaciones",
+   "lifespan": "Unos 25 años; hasta 40 en cautividad",
+   "size": "Cuerpo de 45–64 cm, cola de 20–30 cm; los machos pesan unos 7–12 kg",
+   "behaviour": "Vive en grupos de varios machos y varias hembras con estrictas jerarquías de dominancia femenina que se heredan de madres a hijas.",
+   "fieldMarks": [
+    "Mono pardo grisáceo con la grupa y la parte baja de la espalda de color rojo anaranjado",
+    "Cara y grupa desnudas, de rosadas a rojas",
+    "Cola de longitud media (más corta que el cuerpo)",
+    "Rastros: grupos atrevidos en torno a templos, carreteras y merenderos"
+   ],
+   "lookalikes": "El macaco gorrito (sur de la India) tiene un casquete de pelo con raya en medio y la cola más larga. El macaco de Assam es más oscuro y carece de la grupa anaranjada. Los langures tienen la cara negra y la cola muy larga.",
+   "whereToSee": "Templos de Vrindavan y Benarés; Delhi Ridge; Murree y colinas de Margalla (Pakistán); parques nacionales de Corbett y Kaziranga; Cayo Santiago, Puerto Rico (colonia de investigación en semilibertad)",
+   "season": "Residente todo el año",
+   "order": "Primates"
+  }
+ },
+ {
+  "scientific": "Hoolock hoolock",
+  "common": "Gibón hulock occidental",
+  "summary": "Uno de los dos simios de la India (junto con el hulock oriental), un gibón de brazos largos de los bosques del noreste de la India, Bangladés y el oeste de Birmania que se desplaza por el dosel balanceándose con los brazos. Cada mañana las parejas se saludan con sonoros duetos que se oyen a kilómetros por las colinas. Su área de distribución se ha reducido drásticamente por la tala del bosque.",
+  "nativeRange": "Noreste de la India al sur del Brahmaputra, este de Bangladés y oeste de Birmania (al oeste del río Chindwin)",
+  "biomes": [
+   "Bosque tropical perennifolio",
+   "Bosque semiperennifolio"
+  ],
+  "abilities": [
+   "Se desplaza por braquiación, balanceándose de brazo en brazo y saltando huecos de varios metros",
+   "Sus duetos se oyen a unos 1–2 km de distancia",
+   "Dispersa las semillas de muchos árboles frutales del bosque"
+  ],
+  "lore": "Richard Harlan describió la especie en 1834 a partir de ejemplares de Assam, usando un nombre local del animal. En Meghalaya, los bosques sagrados protegidos por las comunidades aún albergan algunos grupos de hulocks.",
+  "funFact": "Los hulocks tienen 38 cromosomas, el número más bajo de todos los gibones (los demás tienen 44–52), una de las razones por las que en 2005 se les asignó su propio género, Hoolock.",
+  "animal": {
+   "diet": "Principalmente frutos maduros, sobre todo higos; también hojas, flores e insectos",
+   "habitat": "Bosque alto perennifolio y semiperennifolio con dosel continuo",
+   "lifespan": "Unos 25 años en libertad",
+   "size": "Cabeza y cuerpo de unos 60–90 cm; 6–9 kg; sin cola",
+   "behaviour": "Vive en pequeños grupos familiares formados por una pareja y sus crías, que defienden un territorio con su canto. Casi nunca baja al suelo.",
+   "fieldMarks": [
+    "Silueta en el dosel: simio sin cola, de brazos muy largos, que se balancea bajo las ramas",
+    "Machos adultos negros con llamativas cejas blancas",
+    "Hembras adultas de color ante a pardo dorado, con la cara más oscura rodeada de un anillo más claro",
+    "Rastros: sonoros duetos matinales, frutos caídos bajo las higueras"
+   ],
+   "voice": "Las parejas cantan a dúo a primera hora de la mañana con llamadas ululantes que van in crescendo, a menudo transcritas como «hu-kau, hu-kau»; las notas de la hembra ascienden hasta un clímax.",
+   "lookalikes": "El gibón hulock oriental (al este del Chindwin y en Arunachal Pradesh) es muy parecido; los machos tienen las cejas blancas separadas y las hembras son más claras. Los monos como el langur de capucha tienen colas largas.",
+   "whereToSee": "Santuario de Gibones de Hollongapar (Assam); Parque Nacional de Lawachara (Bangladés); Nokrek y Balpakram (Meghalaya); Reserva de Tigres de Dampa (Mizoram)",
+   "season": "Residente; se oye mejor a primera hora de la mañana, sobre todo en la estación seca",
+   "order": "Primates"
+  }
+ },
+ {
+  "scientific": "Elephas maximus",
+  "common": "Elefante asiático",
+  "summary": "El mayor animal terrestre de Asia, un elefante de bosque que ha trabajado, combatido y sido venerado junto a las personas durante más de 4000 años. Quedan menos de unos 50 000 en 13 países, la mayor parte en la India, cada vez más arrinconados en bosques fragmentados donde el conflicto con los agricultores mata tanto a personas como a elefantes.",
+  "nativeRange": "India, Sri Lanka, Nepal, Bután, Bangladés, Birmania, Tailandia, Laos, Camboya, Vietnam, sur de China, Malasia, Sumatra y Borneo",
+  "biomes": [
+   "Bosque tropical",
+   "Pastizal",
+   "Matorral",
+   "Bosque ribereño"
+  ],
+  "abilities": [
+   "La trompa contiene decenas de miles de fascículos musculares y termina en una sola punta en forma de dedo capaz de recoger un único fruto",
+   "Se comunica con retumbos de baja frecuencia, en parte por debajo del umbral del oído humano",
+   "Abre el bosque, excava charcas en los lechos secos de los ríos y dispersa semillas grandes",
+   "Las hembras guían a las manadas usando rutas y fuentes de agua memorizadas durante décadas"
+  ],
+  "lore": "Ganesha, el dios hindú de los comienzos con cabeza de elefante, y Airavata, el elefante blanco de Indra, lo convierten en un animal sagrado en toda la India. Los elefantes aparecen en los sellos del valle del Indo, y sobre los edictos de Ashoka en Dhauli (Odisha) hay un elefante tallado en la roca.",
+  "funFact": "En Sri Lanka, menos de uno de cada diez elefantes macho tiene colmillos.",
+  "animal": {
+   "diet": "Gramíneas, corteza, raíces, hojas, bambú y frutos; también cultivos como el arroz, la caña de azúcar y el plátano",
+   "habitat": "Bosque, pastizal y matorral con acceso al agua",
+   "lifespan": "Unos 60 años",
+   "size": "Altura a la cruz de 2–3,2 m; los machos alcanzan unos 5000 kg",
+   "behaviour": "Las manadas de hembras emparentadas y crías están guiadas por una matriarca; los machos adultos deambulan solos o en grupos laxos y entran en musth, un periodo de testosterona alta y agresividad que se reconoce por la secreción de las glándulas temporales.",
+   "fieldMarks": [
+    "Orejas más pequeñas y redondeadas que las de los elefantes africanos; cabeza con dos abultamientos en la parte superior",
+    "Lomo recto o arqueado (convexo), más alto en el centro",
+    "Una sola prolongación en forma de dedo en la punta de la trompa",
+    "Solo algunos machos tienen colmillos; muchos machos (makhnas) y todas las hembras no tienen o tienen colmillos diminutos (tushes)",
+    "Rastros: grandes huellas redondas de 40–50 cm de diámetro, bolas de excremento fibrosas, árboles descortezados y rotos"
+   ],
+   "voice": "Barrita cuando está excitado o alarmado; también emite retumbos graves, rugidos y chillidos y gorjeos agudos.",
+   "lookalikes": "Los elefantes africanos de sabana y de bosque tienen orejas enormes, un perfil con el lomo hundido y dos puntas en forma de dedo en la trompa. Solo podrían confundirse animales en cautividad.",
+   "whereToSee": "Nagarhole–Kabini y Bandipur (Karnataka); Corbett (Uttarakhand); Kaziranga (Assam); Periyar (Kerala); la «Concentración» de Minneriya y Kaudulla (Sri Lanka, julio–septiembre); Udawalawe (Sri Lanka); Kui Buri (Tailandia)",
+   "season": "Residente; concentraciones en la estación seca cerca de embalses y ríos",
+   "order": "Proboscidea"
+  }
+ },
+ {
+  "scientific": "Bubalus arnee",
+  "common": "Búfalo de agua salvaje (arni)",
+  "summary": "El antepasado salvaje del búfalo de agua doméstico, un enorme bóvido de los pastizales de llanura de inundación con la mayor envergadura de cuernos de todos los bóvidos vivos. Se cree que sobreviven menos de 4000, la mayoría en Assam, y muchos corren el riesgo de hibridarse con búfalos domésticos.",
+  "nativeRange": "Noreste de la India (Assam, Arunachal), Chhattisgarh, Nepal (Koshi Tappu), Bután, Birmania, Tailandia y Camboya",
+  "biomes": [
+   "Pastizal de llanura de inundación",
+   "Pantano",
+   "Bosque ribereño"
+  ],
+  "abilities": [
+   "Pasa las horas de calor sumergido en ríos y revolcaderos, con solo la cabeza y los cuernos fuera del agua",
+   "Sus cuernos pueden alcanzar unos 2 m de punta a punta",
+   "Las manadas se defienden de los tigres cargando juntas"
+  ],
+  "lore": "El búfalo es el vahana (montura) de Yama, el dios hindú de la muerte, y el demonio Mahishasura adoptó forma de búfalo antes de que Durga le diera muerte. Es el animal emblemático del estado de Chhattisgarh.",
+  "funFact": "Los búfalos de agua domésticos, descendientes de esta especie, suman hoy unos 200 millones en todo el mundo, mientras que su antepasado salvaje está en peligro.",
+  "animal": {
+   "diet": "Gramíneas, juncias, plantas acuáticas, hierbas y cultivos",
+   "habitat": "Pastizales húmedos, pantanos y valles fluviales con vegetación densa y agua",
+   "lifespan": "Unos 25 años",
+   "size": "Altura a la cruz de 1,5–1,9 m; 600–1200 kg",
+   "behaviour": "Hembras y crías viven en manadas de 10–30; los toros forman grupos de solteros y se unen a las manadas en el celo, después del monzón.",
+   "fieldMarks": [
+    "Silueta: enorme bóvido gris oscuro a negro, con cuernos en media luna muy anchos, dirigidos hacia fuera y hacia atrás",
+    "Cuernos aplanados y con crestas cerca de la base",
+    "Galón claro en la garganta y parte inferior de las patas blanquecina («calcetines»)",
+    "Pelaje ralo; entre los rastros, revolcaderos de barro y sendas pisoteadas entre los carrizales"
+   ],
+   "lookalikes": "Los búfalos de agua domésticos y asilvestrados son más pequeños, con cuernos más cortos y a menudo el vientre colgante; los híbridos son difíciles de distinguir. El gaur tiene una alta cresta sobre los hombros, calcetines blancos y cuernos más cortos curvados hacia arriba.",
+   "whereToSee": "Parques nacionales de Kaziranga y Manas, Dibru-Saikhowa (Assam); Reserva de Fauna de Koshi Tappu (Nepal); Reserva de Tigres de Udanti-Sitanadi (Chhattisgarh); Huai Kha Khaeng (Tailandia)",
+   "season": "Residente; mejor en la estación seca de Kaziranga (noviembre–abril)",
+   "order": "Artiodactyla"
+  }
+ },
+ {
+  "scientific": "Bos gaurus",
+  "common": "Gaur",
+  "summary": "El más grande y alto de todos los bovinos salvajes, un gigante del bosque de color pardo negruzco con «medias» blancas y una cresta muscular sobre los hombros. La India alberga la gran mayoría de los gaures del mundo, y en los Ghats occidentales las manadas han aprendido a pastar en las plantaciones de té y en los márgenes de las aldeas.",
+  "nativeRange": "India, Nepal, Bután, Bangladés, Birmania, Tailandia, Laos, Camboya, Vietnam, Malasia peninsular y sur de China",
+  "biomes": [
+   "Bosque tropical",
+   "Bosque caducifolio húmedo",
+   "Pastizal de linde de bosque"
+  ],
+  "abilities": [
+   "Los toros adultos son tan grandes que incluso los tigres suelen evitarlos y cazan en su lugar a los terneros",
+   "La cresta de los hombros está formada por largas apófisis espinosas de las vértebras",
+   "Sube por colinas boscosas empinadas hasta unos 2800 m"
+  ],
+  "lore": "El gaur era el «bisonte indio» de la literatura cinegética colonial británica, y es el animal emblemático de los estados de Goa y Bihar. El gaur domesticado, el mithun, es una medida de riqueza y un animal de sacrificio entre las comunidades naga, mizo y adi.",
+  "funFact": "Un toro de gaur puede superar los 2 m a la cruz, más que la estatura de un hombre medio.",
+  "animal": {
+   "diet": "Gramíneas, bambú, brotes, hojas, corteza y frutos",
+   "habitat": "Bosque perennifolio y caducifolio con claros y agua, normalmente en terreno montañoso",
+   "lifespan": "Unos 20–25 años",
+   "size": "Altura a la cruz de 1,7–2,2 m; toros de 650–1500 kg",
+   "behaviour": "Las manadas de vacas y jóvenes están guiadas por una hembra vieja; los toros se exhiben colocándose de costado para mostrar su corpulencia.",
+   "fieldMarks": [
+    "Silueta: enorme bóvido oscuro con una alta joroba en los hombros que desciende hasta la mitad del lomo",
+    "«Medias» blancas o amarillentas desde las pezuñas hasta las rodillas",
+    "Mechón de pelo gris claro o ante entre los cuernos; cuernos curvados hacia arriba y hacia dentro",
+    "Huellas: grandes pezuñas hendidas de unos 13 cm de longitud; excrementos como boñigas de vaca doméstica"
+   ],
+   "lookalikes": "El banteng (Sudeste Asiático) tiene una mancha blanca en la grupa y carece de la marcada cresta dorsal. El búfalo de agua salvaje tiene enormes cuernos planos dirigidos hacia atrás y un pelaje gris y ralo. El mithun (Bos frontalis doméstico del noreste de la India) es más pequeño y de cuernos más rectos.",
+   "whereToSee": "Nagarhole y Bandipur (Karnataka); Kanha y Pench (Madhya Pradesh); Tadoba (Maharashtra); Periyar y Eravikulam (Kerala); Taman Negara (Malasia); Kui Buri (Tailandia)",
+   "season": "Residente; en la estación seca las manadas visitan los prados del bosque y los saladeros",
+   "order": "Artiodactyla"
+  }
+ },
+ {
+  "scientific": "Panthera pardus",
+  "common": "Leopardo",
+  "summary": "El gran felino más adaptable, presente desde El Cabo hasta el Extremo Oriente ruso y desde la selva hasta el desierto y los márgenes de Bombay. Cazador sigiloso y solitario, es lo bastante fuerte como para subir a los árboles presas más pesadas que él. Ha perdido gran parte de su área histórica, y algunas subespecies, como el leopardo del Amur y el de Arabia, están en peligro crítico.",
+  "nativeRange": "África subsahariana, de forma dispersa en el norte de África y Arabia, Cáucaso e Irán, Asia meridional, Sudeste Asiático, China y Extremo Oriente ruso",
+  "biomes": [
+   "Sabana",
+   "Bosque tropical",
+   "Bosque seco",
+   "Montañas",
+   "Margen del desierto",
+   "Periferia urbana"
+  ],
+  "abilities": [
+   "Sube a los árboles cadáveres de antílopes y jirafas jóvenes para ponerlos fuera del alcance de leones y hienas",
+   "Come presas que van desde escarabajos peloteros hasta elands; una de las dietas más amplias de todos los felinos",
+   "Vive en grandes ciudades como Bombay y sus alrededores, donde caza perros y cerdos por la noche"
+  ],
+  "lore": "El libro de Jim Corbett «The Man-eating Leopard of Rudraprayag» (El leopardo devorador de hombres de Rudraprayag) narra la historia de un leopardo que mató a más de 120 personas en Garhwal antes de que él lo abatiera en 1926. La piel de leopardo formaba parte de los atributos de muchos reyes y jefes africanos.",
+  "funFact": "Las panteras negras son leopardos (o jaguares) melánicos: con luz intensa, las rosetas aún se distinguen a través del pelaje negro.",
+  "animal": {
+   "diet": "Carnívoro: antílopes, ciervos, monos, cerdos salvajes, roedores, aves, perros y ganado",
+   "habitat": "Casi cualquier hábitat con refugio: bosques, sabana, colinas rocosas, montañas y tierras de cultivo",
+   "lifespan": "Unos 12–17 años en libertad",
+   "size": "Machos de 37–90 kg, hembras de 28–60 kg; 1,6–2,9 m incluida la cola",
+   "behaviour": "Solitario y principalmente nocturno; acecha hasta muy corta distancia antes de saltar. Las hembras crían solas a los cachorros y los trasladan entre guaridas ocultas.",
+   "fieldMarks": [
+    "Pelaje de dorado a leonado con rosetas negras (anillos sin mancha central) en el cuerpo y manchas macizas en la cabeza y las patas",
+    "Cola larga, a menudo con la parte inferior de la punta blanca, que usa como señal",
+    "Constitución compacta y baja; cabeza relativamente grande",
+    "Huellas: redondeadas, de unos 7–10 cm de ancho, cuatro dedos y sin marcas de uñas; entre los rastros, presas escondidas en los árboles y arañazos en los troncos"
+   ],
+   "voice": "Una tos áspera y rasposa repetida, como una sierra cortando madera, con la que anuncia su territorio.",
+   "lookalikes": "El guepardo tiene manchas redondas macizas (no rosetas), «líneas de lágrimas» negras y una constitución esbelta. El jaguar (solo en América) es más pesado y tiene rosetas más grandes con manchas centrales. El leopardo de las nieves es blanco grisáceo y tiene una cola muy gruesa.",
+   "whereToSee": "Parque Nacional de Yala (Sri Lanka); Reserva de Leopardos de Jhalana (Jaipur); Parque Nacional Sanjay Gandhi (Bombay); Bera (Rajastán); colinas de Margalla (Islamabad); Sabi Sands (Sudáfrica); Masái Mara (Kenia); South Luangwa (Zambia)",
+   "season": "Residente todo el año",
+   "order": "Carnivora"
+  }
+ },
+ {
+  "scientific": "Panthera onca",
+  "common": "Jaguar (yaguareté)",
+  "summary": "El mayor felino de América y el único Panthera vivo allí, un cazador de constitución poderosa de ríos y selvas. Su mordida es tan fuerte para su tamaño que mata perforando el cráneo o triturando caparazones de tortuga. El Pantanal brasileño alberga una de las poblaciones de jaguares más densas del mundo.",
+  "nativeRange": "Desde México, a través de Centroamérica, hasta el norte de Argentina; algunos ejemplares errantes llegan a Arizona y Nuevo México",
+  "biomes": [
+   "Selva tropical",
+   "Humedal",
+   "Bosque seco",
+   "Manglar"
+  ],
+  "abilities": [
+   "Su mordida perfora los cráneos de tortugas y caimanes; a menudo mata mordiendo a través de la parte posterior del cráneo",
+   "Excelente nadador que caza caimanes y peces en los ríos",
+   "Superdepredador cuya presencia regula las poblaciones de capibaras, pecaríes y caimanes"
+  ],
+  "lore": "Los olmecas tallaron figuras de hombres-jaguar hace más de 3000 años, y los reyes mayas adoptaron nombres de jaguar como Yaxuun Bahlam (Jaguar Pájaro). Los guerreros de élite aztecas eran los «caballeros jaguar» (ocelomeh).",
+  "funFact": "La cuenca de Cockscomb, en Belice, declarada reserva forestal sin caza en 1984 y santuario de fauna en 1986, es considerada en general la primera área protegida del mundo dedicada a los jaguares.",
+  "animal": {
+   "diet": "Carnívoro: capibaras, pecaríes, ciervos, caimanes, tortugas, armadillos, peces y ganado",
+   "habitat": "Selva densa, pantanos y humedales que se inundan estacionalmente, por lo general cerca del agua",
+   "lifespan": "Unos 12–15 años en libertad",
+   "size": "Normalmente 56–96 kg; los machos del Pantanal pueden superar los 120 kg; 1,6–2,7 m incluida la cola",
+   "behaviour": "Solitario y mayormente crepuscular; caza tanto acechando en tierra como emboscado en las orillas de los ríos.",
+   "fieldMarks": [
+    "Felino grande, de pecho profundo, con la cabeza ancha y las patas cortas y gruesas",
+    "Rosetas grandes y angulosas, que a menudo encierran una o más manchas negras",
+    "Cola relativamente corta en comparación con la del leopardo",
+    "Huellas: anchas y redondas, de 9–12 cm, en las orillas de los ríos; entre los rastros, arañazos en árboles y raspaduras en el suelo"
+   ],
+   "voice": "Una serie de gruñidos graves y roncos, a menudo comparada con el serrar de la madera; en Brasil se le llama también «roncar».",
+   "lookalikes": "El leopardo (solo en el Viejo Mundo) es de constitución más ligera, con rosetas más pequeñas sin manchas centrales. El ocelote es mucho más pequeño y tiene franjas en forma de cadena. El puma es de color leonado uniforme.",
+   "whereToSee": "Porto Jofre y los ríos Cuiabá, Piquiri y Tres Irmãos (norte del Pantanal, Brasil); Santuario de Fauna de la Cuenca de Cockscomb (Belice); Iwokrama (Guyana); Calakmul (México); Corcovado (Costa Rica)",
+   "season": "Residente; los avistamientos en los ríos del Pantanal alcanzan su máximo en la estación seca, aproximadamente de julio a octubre",
+   "order": "Carnivora"
+  }
+ },
+ {
+  "scientific": "Puma concolor",
+  "common": "Puma (león de montaña)",
+  "summary": "Un gran felino de pelaje uniforme con la distribución más amplia de todos los mamíferos terrestres salvajes de América, desde el Yukón hasta el estrecho de Magallanes. No puede rugir, pero ronronea, gorjea y chilla. Los pumas matan ciervos y guanacos y dejan restos que alimentan a carroñeros, desde cóndores hasta escarabajos.",
+  "nativeRange": "Oeste de Canadá y oeste de EE. UU. (además de Florida), México, Centroamérica y toda Sudamérica hasta la Patagonia",
+  "biomes": [
+   "Montañas",
+   "Bosque templado",
+   "Desierto",
+   "Selva tropical",
+   "Estepa patagónica"
+  ],
+  "abilities": [
+   "Salta hasta unos 5 m en vertical y mucho más en horizontal",
+   "Mata presas varias veces más grandes que él con un mordisco en el cuello",
+   "Los machos jóvenes se dispersan cientos de kilómetros; uno recorrió unos 2900 km desde las Black Hills de Dakota del Sur hasta Connecticut"
+  ],
+  "lore": "Según la tradición, la ciudad inca de Cuzco se trazó con la forma de un puma, con Sacsayhuamán como cabeza.",
+  "funFact": "El puma tiene un récord Guinness como el animal con más nombres: más de 40 solo en inglés.",
+  "animal": {
+   "diet": "Carnívoro: ciervos, wapitíes, guanacos, pecaríes, roedores y liebres",
+   "habitat": "Cualquier terreno con refugio y presas, desde el nivel del mar hasta 5800 m en los Andes",
+   "lifespan": "8–13 años en libertad",
+   "size": "Machos de 53–100 kg, hembras de 29–64 kg; 1,5–2,75 m incluida la cola",
+   "behaviour": "Solitario y territorial. Esconde sus presas bajo hojas y tierra y vuelve a comer de ellas durante varios días.",
+   "fieldMarks": [
+    "Pelaje uniforme de gris leonado a rojizo, más claro por debajo",
+    "Cabeza pequeña y redondeada; cola larga y gruesa con la punta oscura",
+    "Marcas oscuras a los lados del hocico; las crías tienen manchas",
+    "Huellas: redondas, de 7–10 cm, almohadilla trilobulada y sin marcas de uñas; entre los rastros, presas cubiertas de hojarasca y raspaduras bajo los árboles"
+   ],
+   "voice": "No ruge; emite silbidos, gorjeos, ronroneos y, en la época de cría, chillidos penetrantes.",
+   "lookalikes": "El jaguar tiene manchas y es más robusto. El yaguarundí es mucho más pequeño y tiene un cuerpo de comadreja. El lince rojo y el lince tienen colas cortas y truncadas.",
+   "whereToSee": "Parque Nacional Torres del Paine (Chile, el mejor lugar para observarlo); Parque Patagonia (Chile); Big Bend y las Montañas Rocosas (EE. UU., rara vez se ve); Refugio Nacional de Fauna de la Pantera de Florida",
+   "season": "Residente; los recorridos de rastreo en Torres del Paine funcionan casi todo el año, mejor en otoño e invierno (abril–septiembre)",
+   "order": "Carnivora"
+  }
+ },
+ {
+  "scientific": "Lynx lynx",
+  "common": "Lince euroasiático (lince boreal)",
+  "summary": "El mayor de los linces y el tercer depredador más grande de Europa, un felino de patas largas y orejas con pinceles que habita bosques y montañas desde Escandinavia hasta la meseta tibetana. Las reintroducciones lo han devuelto a Suiza, Alemania y Francia, y la pálida forma del Himalaya vive en Ladakh y el norte de Pakistán.",
+  "nativeRange": "Norte y centro de Europa, Rusia, Asia central, el Cáucaso, Ladakh, Gilgit-Baltistán, Tíbet y noreste de China",
+  "biomes": [
+   "Bosque boreal",
+   "Bosque templado",
+   "Matorral alpino",
+   "Desierto frío"
+  ],
+  "abilities": [
+   "Mata ciervos como el corzo e incluso renos, presas varias veces más pesadas que él",
+   "Sus patas grandes, acolchadas de pelo, funcionan como raquetas de nieve",
+   "Los pinceles de las orejas y la gorguera facial ayudan en la comunicación visual"
+  ],
+  "lore": "La leyenda griega relacionaba al lince con Linceo, el argonauta que podía ver a través de las paredes, y el ideal de la «vista de lince» dio nombre a la Accademia dei Lincei de Roma (fundada en 1603). Teofrasto describió el «lyngurium», una gema que supuestamente se formaba a partir de orina de lince endurecida.",
+  "funFact": "La Accademia dei Lincei, llamada así por la aguda vista del lince, contó a Galileo entre sus primeros miembros.",
+  "animal": {
+   "diet": "Corzos, rebecos, ciervos almizcleros, renos, liebres, marmotas y aves",
+   "habitat": "Bosque denso y terreno montañoso rocoso; en Ladakh, laderas rocosas áridas y matorral de sauces",
+   "lifespan": "Unos 15 años en libertad",
+   "size": "18–30 kg (los machos son mayores); cuerpo de 80–130 cm y cola corta de 11–25 cm",
+   "behaviour": "Cazador solitario que embosca desde la cobertura o acecha; vuelve a las presas grandes durante varias noches.",
+   "fieldMarks": [
+    "Silueta: patas largas, cuerpo corto y cola corta y truncada con la punta negra",
+    "Pinceles negros en las orejas y amplia gorguera facial",
+    "Pelaje de grisáceo a rojizo con manchas oscuras variables; el lince del Himalaya es de color arena pálido y con manchas tenues",
+    "Huellas: redondas, de 7–9 cm, sin marcas de uñas; en la nieve, muy anchas por las patas peludas; entre los rastros, corzos abatidos cubiertos de nieve o de hojas"
+   ],
+   "voice": "Mayormente silencioso; en la época de cría, a finales del invierno, emite llamadas lastimeras que se oyen a gran distancia y bufidos.",
+   "lookalikes": "El lince ibérico (solo en España y Portugal) es más pequeño y tiene manchas oscuras muy marcadas. El caracal (tierras bajas de Pakistán y la India) es de color leonado uniforme, con pinceles muy largos en las orejas y sin gorguera ni cola truncada. El gato montés tiene una cola larga y anillada.",
+   "whereToSee": "Bosque de Bohemia (Chequia–Alemania); Jura y Alpes suizos; Cárpatos (Eslovaquia, Rumanía); Białowieża (Polonia); Hemis y Changthang (Ladakh); observatorios en la taiga finlandesa",
+   "season": "Residente; la nieve invernal facilita el rastreo (enero–marzo es la época de cría)",
+   "order": "Carnivora"
+  }
+ },
+ {
+  "scientific": "Gulo gulo",
+  "common": "Glotón",
+  "summary": "Una gran comadreja de aspecto de oso del extremo norte, famosa por su resistencia y su fuerza. Los glotones recorren decenas de kilómetros al día por las montañas, trituran cadáveres congelados con sus potentes mandíbulas y almacenan comida en la nieve y en grietas de las rocas.",
+  "nativeRange": "Circumpolar: Escandinavia, norte de Rusia, Siberia, Alaska, Canadá y las zonas altas de las Rocosas y las Cascadas en el noroeste de EE. UU.",
+  "biomes": [
+   "Bosque boreal",
+   "Tundra",
+   "Alta montaña"
+  ],
+  "abilities": [
+   "Tritura carne y huesos congelados con una mandíbula fuerte y un molar girado de lado en la mandíbula superior",
+   "Recorre áreas de campeo enormes, de más de 1000 km² en algunos machos",
+   "Un macho con collar emisor subió unos 1500 m por el monte Cleveland, en el Parque Nacional de los Glaciares, en unos 90 minutos en pleno invierno"
+  ],
+  "lore": "Olao Magno, en su Historia de las gentes septentrionales de 1555, afirmaba que el «gulo» se atiborraba hasta tener que apretujarse entre dos árboles para vaciar el vientre. Su nombre latino significa «glotón».",
+  "funFact": "La piel del glotón resiste la escarcha, por lo que los inuit y otros pueblos del norte la usaban para ribetear las capuchas de sus parkas.",
+  "animal": {
+   "diet": "Carroña de renos, alces y otros ungulados; también caza liebres, roedores, aves y a veces renos en nieve profunda",
+   "habitat": "Tundra, taiga y zonas alpinas remotas con una capa de nieve primaveral profunda para sus madrigueras",
+   "lifespan": "Unos 7–12 años en libertad",
+   "size": "Machos de 11–18 kg, hembras de 7–12 kg; cuerpo de 65–105 cm",
+   "behaviour": "Solitario y de amplios desplazamientos. Las hembras excavan madrigueras en la nieve profunda para parir a finales del invierno.",
+   "fieldMarks": [
+    "Silueta: cuerpo pequeño de oso, lomo arqueado, patas cortas y cola tupida",
+    "Pelaje pardo oscuro con una banda de color ante claro a lo largo de cada flanco, de los hombros a la cola",
+    "Antifaz claro sobre la frente",
+    "Huellas: de cinco dedos, unos 10–13 cm, a menudo en la nieve con un patrón de saltos «2–1–2» o «3–4»"
+   ],
+   "lookalikes": "Los oseznos carecen de la franja lateral clara y tienen la cola más pequeña; los tejones son más grises y tienen la cara listada; las martas pescadoras y las martas son más esbeltas y pequeñas.",
+   "whereToSee": "Observatorios de fauna de Kuhmo y Lieksa, este de Finlandia; montañas de Noruega y Suecia (p. ej., Dovrefjell); Denali (Alaska); Kluane (Yukón)",
+   "season": "Residente; los observatorios de Finlandia ofrecen avistamientos de abril a septiembre",
+   "order": "Carnivora"
+  }
+ },
+ {
+  "scientific": "Vulpes lagopus",
+  "common": "Zorro ártico",
+  "summary": "Un pequeño zorro del Ártico más septentrional, con el pelaje más cálido de todos los mamíferos, que se vuelve blanco en invierno y pardo grisáceo en verano (o gris azulado todo el año en la forma «azul»). Los zorros árticos siguen a los osos polares para aprovechar sus restos, almacenan lemmings y huevos de aves marinas, y algunos cruzan el hielo marino a lo largo de miles de kilómetros.",
+  "nativeRange": "Tundra circumpolar de Eurasia y Norteamérica, Groenlandia, Islandia, Svalbard y las islas del Comandante y Pribilof",
+  "biomes": [
+   "Tundra",
+   "Hielo marino",
+   "Acantilados costeros"
+  ],
+  "abilities": [
+   "No empieza a tiritar hasta que la temperatura desciende a unos −70 °C",
+   "Una hembra joven recorrió 3500 km desde Svalbard hasta la isla de Ellesmere (Canadá) en 76 días a través del hielo marino (2018)",
+   "En los años buenos de lemmings puede tener camadas de hasta unas 20 crías"
+  ],
+  "lore": "El zorro ártico era el único mamífero terrestre autóctono de Islandia cuando llegaron los nórdicos, hacia el año 870. En el folclore finlandés, la aurora es «revontulet», «fuegos del zorro», que serían chispas de la cola de un zorro al rozar la nieve.",
+  "funFact": "Su nombre específico, lagopus, significa «pie de liebre», por el denso pelo que cubre las plantas de sus patas.",
+  "animal": {
+   "diet": "Lemmings y topillos, aves marinas y sus huevos, peces, carroña (incluidos los restos de las presas de los osos polares) y bayas",
+   "habitat": "Tundra, mesetas de montaña, márgenes del hielo marino y acantilados costeros",
+   "lifespan": "3–4 años en libertad",
+   "size": "Cuerpo de 46–68 cm, cola de 25–42 cm; 2,5–9 kg",
+   "behaviour": "Excava sus madrigueras en montículos arenosos, y algunas se reutilizan durante siglos. Las parejas crían juntas a los cachorros.",
+   "fieldMarks": [
+    "Zorro pequeño y compacto, de patas cortas, orejas cortas y redondeadas y hocico corto",
+    "Invierno: blanco puro (forma blanca) o gris azulado pizarra (forma azul); verano: pardo grisáceo con el vientre más claro",
+    "Cola muy tupida y plantas de las patas peludas",
+    "Rastros: madrigueras en montículos con muchas entradas y una vegetación verde y exuberante, abonada por los restos de presas"
+   ],
+   "lookalikes": "El zorro rojo, que se desplaza cada vez más al norte, es más grande y rojizo, con orejas más grandes y puntiagudas y patas más largas. En su librea blanca puede confundirse por un instante, a distancia, con una liebre americana o una perdiz nival.",
+   "whereToSee": "Reserva Natural de Hornstrandir (Islandia); Svalbard; Dovrefjell–Sunndalsfjella (Noruega); Churchill (Manitoba); islas del Comandante (Rusia)",
+   "season": "Residente; pelaje blanco de octubre a mayo",
+   "order": "Carnivora"
+  }
+ },
+ {
+  "scientific": "Alces alces",
+  "common": "Alce",
+  "summary": "El mayor ciervo vivo, un ramoneador de patas largas de los bosques y lagos del norte. Los machos desarrollan amplias cornamentas palmeadas que pueden superar 1,5 m de envergadura y que mudan cada invierno. Los alces se adentran en los lagos e incluso bucean para comer plantas acuáticas ricas en sodio.",
+  "nativeRange": "Bosques boreales y mixtos del norte de Europa, Rusia y Siberia, Mongolia, noreste de China, Canadá, Alaska y norte de EE. UU.",
+  "biomes": [
+   "Bosque boreal",
+   "Bosque templado",
+   "Humedal",
+   "Orilla de lago"
+  ],
+  "abilities": [
+   "Bucea hasta unos 5–6 m y permanece sumergido casi un minuto para pastar plantas acuáticas",
+   "Puede cerrar las fosas nasales bajo el agua",
+   "Sus largas patas le permiten avanzar por nieve profunda y pasar por encima de árboles caídos",
+   "Cada primavera y verano le crece una nueva cornamenta, de hasta unos 30 kg"
+  ],
+  "lore": "En el arte rupestre de la Edad de Piedra de Escandinavia y Rusia aparecen pinturas y grabados de alces, entre ellos los grabados rupestres de Alta, en Noruega. La Guerra de las Galias de Julio César recoge el relato de que los «alces» no tenían articulaciones en las rodillas y dormían apoyados en los árboles.",
+  "funFact": "La palabra inglesa moose procede de un nombre algonquino oriental que suele traducirse como «comedor de ramitas» o «el que arranca la corteza».",
+  "animal": {
+   "diet": "Ramoneo: brotes y corteza de sauce, abedul y álamo temblón; plantas acuáticas en verano",
+   "habitat": "Bosque septentrional con lagos, turberas, ríos y rebrote joven",
+   "lifespan": "Unos 15–20 años",
+   "size": "Altura a la cruz de 1,4–2,1 m; machos de 380–700 kg",
+   "behaviour": "Mayormente solitario. En el celo otoñal los machos se enfrentan y llaman, y las hembras con crías son ferozmente protectoras.",
+   "fieldMarks": [
+    "Silueta: hombros muy altos y abultados, patas largas, cuello corto y un hocico largo y colgante",
+    "Papada («campana») de piel que cuelga de la garganta",
+    "Cornamenta de los machos ancha y en forma de pala (palmeada), con menos frecuencia ramificada",
+    "Huellas: pezuñas hendidas de 13–15 cm; entre los rastros, corteza arrancada, copas de árboles jóvenes ramoneadas y grandes montones de excrementos ovalados"
+   ],
+   "voice": "En el celo las hembras emiten una llamada larga, nasal y quejumbrosa; los machos responden con gruñidos o graznidos graves.",
+   "lookalikes": "El uapití (Cervus canadensis) es rojizo, con una mancha clara en la grupa y cornamenta ramificada (no palmeada). Los renos son más pequeños, con el cuello blanco y cornamenta en ambos sexos.",
+   "whereToSee": "Parque Provincial Algonquin (Ontario); Denali (Alaska); Grand Teton (Wyoming); Parque Estatal Baxter (Maine); Parque Nacional de Biebrza (Polonia); bosques del centro de Suecia y Noruega",
+   "season": "Residente; celo en septiembre–octubre; en verano se ve en lagos y estanques al amanecer y al anochecer",
+   "order": "Artiodactyla"
+  }
+ },
+ {
+  "scientific": "Rangifer tarandus",
+  "common": "Reno (caribú)",
+  "summary": "El único ciervo en el que ambos sexos tienen cornamenta, adaptado a la tundra ártica y al bosque boreal. Las manadas salvajes de caribúes realizan algunas de las migraciones terrestres más largas del planeta, mientras que los renos domésticos han sido fundamentales en la vida de los sami, los nénets y los evenkis durante siglos. Muchas manadas salvajes han disminuido drásticamente, y la especie está catalogada como Vulnerable.",
+  "nativeRange": "Circumpolar: Escandinavia, Rusia, Siberia, Groenlandia, Alaska y Canadá; introducido en Georgia del Sur (ya erradicado) y Kerguelen",
+  "biomes": [
+   "Tundra",
+   "Bosque boreal",
+   "Alta montaña"
+  ],
+  "abilities": [
+   "Algunas manadas recorren más de 1000 km al año entre las zonas de invernada y las de parto",
+   "Sus ojos ven la luz ultravioleta, lo que les ayuda a distinguir líquenes y depredadores sobre la nieve",
+   "Su tapetum pasa del dorado en verano a un azul intenso en invierno, lo que mejora la visión durante la larga oscuridad",
+   "Excava en la nieve con sus anchas pezuñas para llegar a los líquenes"
+  ],
+  "lore": "El pastoreo de renos ha definido la cultura sami durante siglos, y los pastores nénets de la península de Yamal aún migran con sus manadas más de 1000 km al año. Un único reno tiró por primera vez del trineo de Santa Claus en el poema de 1821 «Old Santeclaus with Much Delight» (El viejo Santeclaus, con gran deleite); «A Visit from St. Nicholas» (Una visita de san Nicolás; 1823, atribuido a Clement Clarke Moore) amplió el tiro a ocho y les dio nombre.",
+  "funFact": "Un tendón que se desliza sobre un hueso del pie hace que los renos emitan al caminar un chasquido que ayuda a las manadas a mantenerse unidas.",
+  "animal": {
+   "diet": "Líquenes («musgo de reno», Cladonia) en invierno; gramíneas, juncias, hojas de sauce y setas en verano",
+   "habitat": "Tundra ártica, mesetas de montaña y taiga septentrional",
+   "lifespan": "Unos 15 años",
+   "size": "Altura a la cruz de 0,8–1,5 m; 80–180 kg (los machos son mayores)",
+   "behaviour": "Se reúne en enormes manadas durante la migración y en las zonas de parto, donde la mayoría de las crías nacen en pocas semanas, entre finales de mayo y junio. Las crías pueden seguir a sus madres a las pocas horas de nacer.",
+   "fieldMarks": [
+    "Ambos sexos tienen cornamentas largas y amplias con una «pala» frontal proyectada hacia delante",
+    "Cuerpo pardo grisáceo con el cuello claro y la grupa y la cola blancas",
+    "Pezuñas grandes, anchas y cóncavas",
+    "Rastros: hoyos de pastoreo de líquenes en la nieve, sendas marcadas en la tundra; huellas en forma de media luna y casi redondas"
+   ],
+   "lookalikes": "El alce es mucho más grande, con un hocico largo y colgante y cornamenta palmeada solo en los machos. El buey almizclero es lanudo y tiene cuernos, no cornamenta.",
+   "whereToSee": "Refugio Nacional de Vida Silvestre del Ártico y Denali (Alaska); Hardangervidda y Snøhetta (Noruega, renos salvajes); Laponia finlandesa y sueca (renos de pastoreo); oeste de Groenlandia, en torno a Kangerlussuaq",
+   "season": "Residente o migratorio: migración primaveral de abril a junio; celo otoñal en septiembre–octubre",
+   "order": "Artiodactyla"
+  }
+ },
+ {
+  "scientific": "Ovibos moschatus",
+  "common": "Buey almizclero",
+  "summary": "Un superviviente de la Edad de Hielo del Ártico más septentrional, un bóvido lanudo y de patas cortas más emparentado con las cabras que con el ganado vacuno. Su lana interior, el qiviut, es una de las fibras naturales más cálidas. Ante los lobos, las manadas forman un círculo cerrado con las crías en el centro y los cuernos hacia fuera.",
+  "nativeRange": "Ártico canadiense y Groenlandia; reintroducido o introducido en Alaska, Noruega (Dovrefjell), Suecia y Siberia (Taimyr, isla de Wrangel)",
+  "biomes": [
+   "Tundra",
+   "Desierto polar"
+  ],
+  "abilities": [
+   "La lana interior qiviut abriga más que la lana de oveja a igualdad de peso y se muda cada primavera",
+   "La formación defensiva en círculo repele a los lobos, aunque no a los cazadores humanos",
+   "Sobrevive a inviernos de −40 °C con juncias y sauces helados que desentierra de la nieve"
+  ],
+  "lore": "Los bueyes almizcleros fueron exterminados por la caza en Alaska a principios del siglo XX; unas pocas decenas de animales traídos de Groenlandia y liberados en la isla de Nunivak en 1935–36 fundaron la mayoría de las manadas actuales de Alaska. Los inuit utilizaban tradicionalmente los cuernos para hacer cucharones, arcos y arpones de pesca.",
+  "funFact": "Pese a su nombre, el buey almizclero no es un buey: sus parientes vivos más cercanos son las cabras y las ovejas.",
+  "animal": {
+   "diet": "Gramíneas, juncias, sauce ártico, hierbas y líquenes",
+   "habitat": "Tundra ártica y valles fluviales con una capa de nieve delgada",
+   "lifespan": "Unos 12–20 años",
+   "size": "Altura a la cruz de 1,1–1,5 m; toros de 270–410 kg",
+   "behaviour": "En el celo de finales del verano los toros embisten frontalmente unos contra otros con un estruendo que se oye a gran distancia. Lo habitual son manadas de 10–30 animales.",
+   "fieldMarks": [
+    "Silueta: animal pardo oscuro, bajo y cuadrado, con una larga «falda» de pelo de cobertura que llega casi al suelo",
+    "Cuernos con una enorme base central que cruza la frente y se curvan hacia abajo y luego hacia arriba junto a la cara",
+    "Silla clara y parte inferior de las patas clara",
+    "Rastros: mechones de qiviut mudado en sauces y rocas a principios del verano; huellas de pezuña redondeadas"
+   ],
+   "lookalikes": "El bisonte (ausente del Ártico) tiene una joroba alta y cuernos cortos vueltos hacia arriba. Los renos son más esbeltos y tienen cornamenta. El takín (Himalaya) es dorado y tiene cuernos de curvatura distinta.",
+   "whereToSee": "Parque Nacional Dovrefjell–Sunndalsfjella (Noruega); Kangerlussuaq (Groenlandia); isla de Nunivak y Nome (Alaska); isla de Banks, Parque Nacional Aulavik (Canadá); isla de Wrangel (Rusia)",
+   "season": "Residente todo el año; el verano es la mejor época para acceder",
+   "order": "Artiodactyla"
+  }
+ },
+ {
+  "scientific": "Megaptera novaeangliae",
+  "common": "Ballena jorobada (yubarta)",
+  "summary": "Una ballena barbada acrobática con enormes aletas en forma de ala, conocida por sus saltos, su pesca con redes de burbujas y algunos de los cantos más complejos del reino animal. Tras el fin de la caza comercial, la mayoría de sus poblaciones se han recuperado con fuerza. Cada año migra miles de kilómetros entre las frías zonas de alimentación y las zonas tropicales de cría.",
+  "nativeRange": "Todos los océanos, desde las zonas polares de alimentación hasta las zonas tropicales de cría; en el mar Arábigo vive una población no migratoria",
+  "biomes": [
+   "Mar abierto",
+   "Aguas costeras",
+   "Lagunas de arrecife de coral"
+  ],
+  "abilities": [
+   "Los grupos soplan «redes de burbujas» en espiral para arrinconar a los peces en una bola compacta y luego se lanzan a través de ella",
+   "Los machos entonan cantos complejos y estructurados que cambian de una temporada a otra y se propagan entre poblaciones de cuencas oceánicas enteras",
+   "Migraciones de hasta unos 8000 km en un solo sentido, de las más largas de cualquier mamífero",
+   "Aletas de hasta un tercio de la longitud del cuerpo, con bordes de ataque nudosos que mejoran la sustentación"
+  ],
+  "lore": "El artículo de Roger Payne y Scott McVay de 1971 y el álbum «Songs of the Humpback Whale» (Cantos de la ballena jorobada; 1970) contribuyeron a impulsar el movimiento «Salvad a las ballenas»; una grabación viajó en los Discos de Oro de las Voyager en 1977.",
+  "funFact": "Su nombre genérico, Megaptera, significa «alas grandes», por sus aletas, que pueden alcanzar 5 m de longitud.",
+  "animal": {
+   "diet": "Kril y pequeños peces que forman cardúmenes, como arenques, capelanes, anchoas y lanzones",
+   "habitat": "Aguas costeras y de plataforma continental; aguas tropicales poco profundas para la cría",
+   "lifespan": "Unos 45–50 años, posiblemente más",
+   "size": "12–16 m; 25–30 toneladas (las hembras son mayores)",
+   "behaviour": "Salta, golpea el agua con las aletas y la cola, y viaja en grupos laxos. Madres y crías permanecen juntas alrededor de un año.",
+   "fieldMarks": [
+    "Aletas pectorales muy largas, blancas o parcialmente blancas",
+    "Aleta dorsal pequeña y achaparrada sobre una joroba, a dos tercios de la longitud del cuerpo",
+    "Tubérculos nudosos en la cabeza y la mandíbula",
+    "Levanta en alto la aleta caudal antes de una inmersión profunda; el dibujo blanco y negro de la cara inferior de cada cola es único",
+    "Soplo tupido, de 3–4 m de altura"
+   ],
+   "voice": "Los cantos de los machos son largas secuencias de quejidos, gemidos, aullidos y chillidos ordenadas en temas repetidos, que duran hasta media hora y se repiten durante horas.",
+   "lookalikes": "La ballena gris carece de aleta dorsal y de aletas pectorales largas, y es de un gris jaspeado. El rorcual común y el rorcual aliblanco tienen aletas dorsales altas y falciformes y rara vez levantan la cola. Las ballenas francas carecen de aleta dorsal y tienen callosidades blancas.",
+   "whereToSee": "Bahía de Hervey (Queensland); Maui (Hawái); Vava'u (Tonga); Silver Bank (República Dominicana); banco de Stellwagen (Massachusetts); bahía de Monterrey (California); Juneau (Alaska); Húsavík (Islandia); golfo de Masirah y costa de Dhofar (Omán) para las ballenas del mar Arábigo",
+   "season": "Zonas de cría del norte de enero a abril; zonas de alimentación del norte de mayo a octubre; Australia y Tonga de julio a octubre",
+   "order": "Artiodactyla (Cetacea)"
+  }
+ },
+ {
+  "scientific": "Eschrichtius robustus",
+  "common": "Ballena gris",
+  "summary": "Una ballena barbada jaspeada e incrustada de percebes que se alimenta en el fondo marino aspirando el lodo y filtrando diminutos crustáceos. Las ballenas grises del Pacífico oriental migran unos 15 000–20 000 km al año entre el Ártico y las lagunas de Baja California, donde las madres son famosas por acercarse a las embarcaciones pequeñas. La población del Atlántico fue exterminada por la caza en el siglo XVIII.",
+  "nativeRange": "Pacífico Norte: población oriental desde los mares de Bering y Chukotka hasta Baja California; una pequeña población occidental frente a Sajalín y Kamchatka",
+  "biomes": [
+   "Aguas costeras",
+   "Mares someros de plataforma",
+   "Lagunas"
+  ],
+  "abilities": [
+   "Se tumba de lado y aspira sedimento del fondo marino, filtrando anfípodos a través de unas barbas cortas",
+   "Deja en el lecho marino hoyos de alimentación que reciclan sedimentos y nutrientes",
+   "Una ballena gris occidental marcada, «Varvara», nadó unos 22 500 km desde Sajalín hasta México y de vuelta en 2011–12, la migración de mamífero más larga registrada hasta entonces"
+  ],
+  "lore": "Los balleneros llamaban a las madres «peces diablo» por la violencia con que defendían a sus crías en la laguna de Scammon en la década de 1850. Los makah del estado de Washington tienen un derecho, reconocido por tratado, a cazar ballenas grises, algo central en su cultura.",
+  "funFact": "Una ballena gris vista frente a Israel y España en 2010 fue la primera en la cuenca atlántica en siglos; probablemente había cruzado el Ártico, con menos hielo.",
+  "animal": {
+   "diet": "Anfípodos bentónicos, camarones fantasma, larvas de cangrejo y otros pequeños invertebrados",
+   "habitat": "Aguas costeras poco profundas; lagunas cálidas para el parto",
+   "lifespan": "Unos 50–70 años",
+   "size": "13–15 m; hasta unas 35 toneladas",
+   "behaviour": "Durante la migración viaja cerca de la costa. En las lagunas de Baja California algunas madres acercan a sus crías para que las toquen personas desde pequeñas embarcaciones.",
+   "fieldMarks": [
+    "Piel gris jaspeada cubierta de manchas blancas y anaranjadas de percebes y piojos de ballena",
+    "Sin aleta dorsal: una joroba baja seguida de una serie de «nudillos» a lo largo del pedúnculo caudal",
+    "Soplo en forma de corazón o de V, de 3–4 m de altura",
+    "Cabeza estrecha y ligeramente arqueada; en las inmersiones profundas suele levantar la cola, con una muesca y cicatrices claras"
+   ],
+   "lookalikes": "La ballena jorobada tiene aleta dorsal y aletas pectorales blancas muy largas. La ballena de Groenlandia y las ballenas francas son negras y sin el jaspeado de percebes (las francas tienen callosidades).",
+   "whereToSee": "Laguna San Ignacio, laguna Ojo de Liebre (de Scammon) y bahía Magdalena (Baja California, México); bahía de Monterrey y Point Reyes (California); Depoe Bay (Oregón); Tofino (Columbia Británica)",
+   "season": "Lagunas de Baja California de enero a abril; migración frente a California de diciembre a mayo; algunas ballenas «residentes» se quedan en verano frente a Oregón y Columbia Británica",
+   "order": "Artiodactyla (Cetacea)"
+  }
+ },
+ {
+  "scientific": "Balaena mysticetus",
+  "common": "Ballena de Groenlandia (ballena boreal)",
+  "summary": "La única ballena barbada que vive en el Ártico todo el año, un gigante negro con un enorme cráneo arqueado capaz de romper el hielo marino para respirar. Las ballenas de Groenlandia son los mamíferos más longevos que se conocen: puntas de arpón del siglo XIX halladas en ballenas vivas y la datación del cristalino indican edades de más de 200 años.",
+  "nativeRange": "Mares árticos y subárticos: Bering–Chukotka–Beaufort, bahía de Baffin, bahía de Hudson, Groenlandia oriental–Svalbard–Barents y mar de Ojotsk",
+  "biomes": [
+   "Hielo marino",
+   "Mares polares"
+  ],
+  "abilities": [
+   "Puede atravesar con la cabeza hielo marino de al menos 60 cm de grosor",
+   "Es el mamífero más longevo: se estimó que un individuo tenía unos 211 años",
+   "Tiene las barbas más largas de todas las ballenas, de hasta unos 4 m",
+   "Posee la capa de grasa más gruesa de todos los animales, de hasta unos 50 cm"
+  ],
+  "lore": "Para las comunidades balleneras iñupiat del norte de Alaska, la caza primaveral de la ballena de Groenlandia y el festival Nalukataq que la sigue son el corazón del año. Balleneros vascos, neerlandeses y británicos cazaron «ballenas de Groenlandia» en Svalbard desde principios del siglo XVII.",
+  "funFact": "En 2007 se encontró incrustado en una ballena de Groenlandia capturada frente a Alaska un fragmento de un arpón fabricado en New Bedford en la década de 1880.",
+  "animal": {
+   "diet": "Copépodos, kril y otro zooplancton pequeño, filtrado en la superficie o cerca del fondo",
+   "habitat": "Aguas del borde del hielo, canales y polinias del Ártico",
+   "lifespan": "A menudo más de 100 años; más de 200 en algunos individuos",
+   "size": "14–18 m; 75–100 toneladas",
+   "behaviour": "En primavera migra a lo largo de los canales del hielo marino y en otoño regresa hacia el sur. En invierno los machos entonan cantos diversos y siempre cambiantes: frente a Svalbard se registraron casi 200 tipos de canto distintos en tres años.",
+   "fieldMarks": [
+    "Cuerpo enorme y negro, sin aleta dorsal",
+    "Línea de la boca muy arqueada, en forma de arco; la cabeza mide hasta un tercio del cuerpo",
+    "Mancha blanca en la barbilla, a menudo con puntos negros; banda clara cerca de la cola",
+    "Soplo en forma de V por dos espiráculos muy separados; al salir a la superficie se ven dos jorobas (cabeza y lomo)"
+   ],
+   "voice": "Cantos muy variados de aullidos, quejidos y trinos, comparados con el jazz porque cada año aparecen canciones nuevas.",
+   "lookalikes": "Las ballenas francas del Atlántico Norte y del Pacífico Norte carecen de la barbilla blanca y tienen callosidades blancas y rugosas en la cabeza. La ballena gris está jaspeada de percebes.",
+   "whereToSee": "Bahía de Disko (Groenlandia occidental, primavera); bahía de Isabella/Igaliqtuuq (isla de Baffin, final del verano); Utqiaġvik, Alaska (migración primaveral); islas Shantar (mar de Ojotsk); Svalbard (rara)",
+   "season": "Migración primaveral de abril a junio; alimentación a finales del verano en los mares de Baffin y Beaufort; invernada en el mar de Bering",
+   "order": "Artiodactyla (Cetacea)"
+  }
+ },
+ {
+  "scientific": "Delphinapterus leucas",
+  "common": "Beluga",
+  "summary": "Una ballena ártica de un blanco puro, con una frente bulbosa que cambia de forma, tan parlanchina que los marineros la llamaban «canario del mar». Cada verano se reúnen miles en cálidos estuarios fluviales para parir, alimentarse y mudar la piel frotándose contra la grava. Algunas remontan incluso largos tramos de río.",
+  "nativeRange": "Aguas árticas y subárticas: bahía de Hudson, bahía de Baffin, mares de Beaufort y Bering, mar Blanco, Svalbard y mar de Ojotsk; poblaciones aisladas en el estuario del San Lorenzo y en Cook Inlet",
+  "biomes": [
+   "Mares polares",
+   "Estuarios",
+   "Hielo marino"
+  ],
+  "abilities": [
+   "Sus vértebras cervicales no están fusionadas, lo que le permite asentir y girar la cabeza, algo inusual entre las ballenas",
+   "Cambia la forma de su melón graso para enfocar la ecolocalización y quizá para emitir señales",
+   "Se orienta y localiza orificios para respirar en la densa banquisa mediante ecolocalización",
+   "Se ha adentrado en ríos muy tierra adentro, por ejemplo cientos de kilómetros por el Yukón, el Amur y el Rin"
+  ],
+  "lore": "Las comunidades inuit cazan belugas para obtener muktuk (piel y grasa), una fuente clave de vitamina C en la dieta tradicional del Ártico. En la década de 1980 se registró a una beluga de la Armada de EE. UU. llamada NOC imitando patrones del habla humana.",
+  "funFact": "Las belugas mudan cada verano: se frotan contra la grava de los estuarios para desprenderse de la piel vieja y amarillenta y dejar al descubierto la piel blanca y nueva.",
+  "animal": {
+   "diet": "Peces (bacalao, salmón, capelán), calamares, camarones, cangrejos y gusanos",
+   "habitat": "Aguas costeras árticas, estuarios y bordes del hielo",
+   "lifespan": "Normalmente 35–50 años; se estima que algunas llegan a 80",
+   "size": "3–5,5 m; hasta unos 1600 kg (los machos son mayores)",
+   "behaviour": "Social; viaja en grupos que pueden fundirse en concentraciones de miles en los estuarios. Las crías nacen grises y se blanquean a lo largo de varios años.",
+   "fieldMarks": [
+    "Adulto totalmente blanco (jóvenes grises) sin aleta dorsal, solo una cresta baja a lo largo del lomo",
+    "Melón redondeado y móvil, y pico corto",
+    "Aletas pectorales anchas en forma de remo, con las puntas curvadas en los machos viejos",
+    "Soplo pequeño y bajo; a menudo se ve en aguas someras y fangosas de estuario"
+   ],
+   "voice": "Un amplio repertorio de silbidos, gorjeos, chillidos, chasquidos y trinos como de campanilla, audibles a través del casco de las embarcaciones, que le valen el nombre de «canario del mar».",
+   "lookalikes": "El narval es de un gris negruzco jaspeado, y los machos tienen un colmillo en espiral. Con poca luz, la cresta blanca de una ola o un témpano pueden confundirse con el lomo de una beluga.",
+   "whereToSee": "Estuario del río Churchill, Manitoba (bahía de Hudson, decenas de miles en julio–agosto); Parque Marino Saguenay–San Lorenzo, Tadoussac (Quebec); Cunningham Inlet, isla de Somerset (Nunavut); islas Solovetski, mar Blanco (Rusia); Turnagain Arm, Alaska",
+   "season": "Concentraciones en los estuarios de finales de junio a agosto; en invierno, en el borde de la banquisa",
+   "order": "Artiodactyla (Cetacea)"
+  }
+ },
+ {
+  "scientific": "Trichechus manatus",
+  "common": "Manatí antillano (manatí del Caribe)",
+  "summary": "Un herbívoro acuático lento y apacible de las costas y ríos cálidos desde Florida hasta Brasil, más emparentado con los elefantes que con las focas. Los manatíes no toleran el agua fría, por lo que cada invierno la población de Florida se amontona en manantiales cálidos y en los vertidos de las centrales eléctricas. Las colisiones con embarcaciones y la pérdida de praderas marinas son sus principales amenazas.",
+  "nativeRange": "Sureste de EE. UU. (Florida, ocasionalmente hacia el norte hasta Virginia y la costa del Golfo), golfo de México, Caribe, Centroamérica y noreste de Sudamérica hasta Brasil",
+  "biomes": [
+   "Praderas marinas",
+   "Ríos",
+   "Manantiales",
+   "Manglar",
+   "Estuarios"
+  ],
+  "abilities": [
+   "Sus molares se reponen continuamente desde atrás y avanzan como en una cinta transportadora a medida que se caen los dientes desgastados",
+   "Come cada día alrededor del 10 % de su peso corporal en plantas",
+   "Se mueve libremente entre el agua dulce y la salada",
+   "Su labio superior, prensil y hendido, agarra la vegetación"
+  ],
+  "lore": "En enero de 1493 Colón anotó haber visto frente a La Española tres «sirenas» que «not as pretty as they are painted» (no eran tan hermosas como las pintan). Los taínos tallaban hueso de manatí para hacer objetos rituales como espátulas vómicas.",
+  "funFact": "Los pulmones del manatí se extienden a lo largo de su espalda y le ayudan a controlar la flotabilidad, lo que le permite quedarse inmóvil suspendido en el agua.",
+  "animal": {
+   "diet": "Fanerógamas marinas, plantas de agua dulce, algas y hojas de mangle",
+   "habitat": "Aguas costeras poco profundas, ríos, estuarios y manantiales a más de unos 20 °C",
+   "lifespan": "Hasta unos 60 años",
+   "size": "2,7–3,5 m; 400–550 kg (excepcionalmente 1500 kg)",
+   "behaviour": "Mayormente solitario o en parejas de madre y cría, pero se congrega en refugios de agua cálida. Sale a respirar cada pocos minutos, con más frecuencia cuando está activo.",
+   "fieldMarks": [
+    "Cuerpo grande, pardo grisáceo y arrugado, a menudo con cicatrices de hélices y cubierto de algas",
+    "Cola ancha, redondeada, en forma de remo",
+    "Aletas con tres o cuatro uñas",
+    "Rastros: «huellas» (círculos de agua lisa) en la superficie cuando la cola empuja hacia abajo, y una respiración en la que solo asoma la nariz"
+   ],
+   "lookalikes": "El dugongo (solo en el Indo-Pacífico) tiene una cola con aletas caudales como la de una ballena. El manatí amazónico (solo en agua dulce) carece de uñas y suele tener una mancha blanca en el pecho. El manatí de África occidental es muy parecido, pero solo vive frente a África occidental.",
+   "whereToSee": "Crystal River y Three Sisters Springs, Parque Estatal Blue Spring y Manatee Lagoon (Florida); Swallow Caye (Belice); Puerto Rico; laguna de Términos (México)",
+   "season": "Manantiales de Florida de noviembre a marzo (los frentes fríos traen las mayores concentraciones); todo el año en el Caribe",
+   "order": "Sirenia"
+  }
+ },
+ {
+  "scientific": "Dugong dugon",
+  "common": "Dugongo",
+  "summary": "El único mamífero herbívoro estrictamente marino, que pasta praderas marinas en las aguas someras y cálidas del Indo-Pacífico y tiene una cola con aletas caudales como la de una ballena. Los dugongos aran las praderas marinas como vacas submarinas y dejan surcos de alimentación en el lecho. Australia alberga la mayor parte de la población mundial; en la India sobreviven en números ínfimos en el golfo de Mannar, la bahía de Palk, el golfo de Kutch y las islas Andamán.",
+  "nativeRange": "Costas del Indo-Pacífico occidental, desde África oriental y el mar Rojo, pasando por el golfo Pérsico y Asia meridional y sudoriental, hasta el norte de Australia, Nueva Guinea y Vanuatu",
+  "biomes": [
+   "Praderas marinas",
+   "Bahías someras",
+   "Lagunas de arrecife de coral"
+  ],
+  "abilities": [
+   "Arranca plantas marinas enteras y deja surcos de alimentación que pueden favorecer el rebrote de especies de crecimiento rápido y más nutritivas",
+   "Puede vivir más de 70 años",
+   "A los machos maduros y a algunas hembras viejas les crecen colmillos cortos"
+  ],
+  "lore": "Los dugongos y manatíes, el orden Sirenia, deben su nombre a las sirenas de la mitología griega, y los relatos de sirenas de los navegantes suelen atribuirse a ellos. En 2022 Tamil Nadu declaró en la bahía de Palk la primera Reserva de Conservación del Dugongo de la India.",
+  "funFact": "Los parientes vivos más cercanos del dugongo en tierra son los elefantes.",
+  "animal": {
+   "diet": "Fanerógamas marinas, sobre todo raíces y rizomas; ocasionalmente invertebrados",
+   "habitat": "Aguas costeras cálidas, someras y resguardadas, con praderas marinas",
+   "lifespan": "Hasta unos 70 años",
+   "size": "2,4–3 m; 250–500 kg",
+   "behaviour": "Se alimenta hozando en el sedimento con su hocico musculoso y vuelto hacia abajo. Las madres amamantan a una sola cría durante unos 18 meses.",
+   "fieldMarks": [
+    "Cuerpo fusiforme y liso, de gris a pardo",
+    "Cola con aletas caudales como la de una ballena y una muesca central (no un remo redondeado)",
+    "Hocico ancho y vuelto hacia abajo, con un disco labial superior cubierto de cerdas",
+    "Rastros: surcos de alimentación arenosos y sinuosos en las praderas marinas; al salir a la superficie solo asoman las fosas nasales"
+   ],
+   "lookalikes": "Los manatíes (solo en el Atlántico) tienen colas redondeadas en forma de remo. Las tortugas marinas también pastan praderas marinas, pero tienen caparazón y mantienen la cabeza fuera del agua más tiempo.",
+   "whereToSee": "Bahía Shark y bahía Moreton (Australia); Marsa Alam y Marsa Abu Dabbab (mar Rojo, Egipto); Reserva Marina de Marawah (Abu Dabi); Coron, Palawan (Filipinas); archipiélago de Bazaruto (Mozambique); Reserva de Conservación del Dugongo de la bahía de Palk (Tamil Nadu, India)",
+   "season": "Residente todo el año",
+   "order": "Sirenia"
+  }
+ },
+ {
+  "scientific": "Odobenus rosmarus",
+  "common": "Morsa",
+  "summary": "Un gigantesco pinnípedo con colmillos del Ártico, que se congrega por miles en témpanos y playas. Las morsas localizan almejas al tacto con cientos de bigotes sensibles y las succionan de sus conchas. La pérdida del hielo marino estival obliga ahora a enormes multitudes a salir a tierra, donde las estampidas matan a las crías.",
+  "nativeRange": "Mares árticos: morsa del Pacífico en los mares de Bering y Chukotka; morsa del Atlántico desde el Ártico canadiense y Groenlandia hasta Svalbard y el mar de Kara",
+  "biomes": [
+   "Hielo marino",
+   "Mares polares",
+   "Plataforma continental somera"
+  ],
+  "abilities": [
+   "Usa sus colmillos, de hasta cerca de 1 m de longitud, como piolets para salir del agua; «Odobenus» significa «el que camina con los dientes»",
+   "Cientos de bigotes rígidos y sensibles detectan almejas en el lodo del fondo marino",
+   "Produce una potente succión que extrae el cuerpo de las almejas de sus conchas, y lanza chorros de agua para desenterrarlas",
+   "Puede ralentizar su ritmo cardíaco al bucear; la mayoría de las inmersiones de alimentación duran menos de 10 minutos, aunque se han registrado inmersiones de unos 25 minutos"
+  ],
+  "lore": "Las piezas de ajedrez de Lewis, del siglo XII y halladas en Escocia, se tallaron principalmente en marfil de morsa, probablemente procedente del comercio con Noruega y Groenlandia. Los nórdicos de Groenlandia pagaban diezmos y comerciaban con colmillos de morsa.",
+  "funFact": "Las morsas pueden dormir flotando en vertical, inflando unos sacos de aire del cuello como si fueran chalecos salvavidas incorporados.",
+  "animal": {
+   "diet": "Principalmente moluscos bivalvos; también gusanos, caracoles y cangrejos; ocasionalmente focas",
+   "habitat": "Aguas someras de plataforma continental con hielo marino; zonas de descanso en tierra cuando no hay hielo",
+   "lifespan": "Unos 30–40 años",
+   "size": "Machos de 2,7–3,6 m y hasta unos 1500 kg; las hembras son menores",
+   "behaviour": "Extremadamente gregaria; descansa en montones apretados. En invierno los machos entonan bajo el agua, durante días, cantos de cortejo de golpes, toques y tonos como de campana.",
+   "fieldMarks": [
+    "Cuerpo enorme y arrugado, de pardo canela a rosado (más rosado cuando tiene calor)",
+    "Dos largos colmillos de marfil en ambos sexos (más largos en los machos)",
+    "Ancho «bigote» de vibrisas erizadas",
+    "Sin orejas externas; las aletas traseras pueden girarse hacia delante para caminar en tierra",
+    "Rastros: playas de descanso con la grava aplastada, conchas y hielo marcado por los colmillos"
+   ],
+   "voice": "Fuertes rugidos, gruñidos y ladridos en las zonas de descanso; bajo el agua, los machos producen golpes, chasquidos y un sonido resonante como de campana.",
+   "lookalikes": "La foca barbuda tiene bigotes largos pero no colmillos y es mucho más pequeña. Los elefantes marinos (ausentes del Ártico) tienen una nariz en forma de trompa y carecen de colmillos.",
+   "whereToSee": "Isla Round, Santuario Estatal de las Islas de las Morsas (Alaska); Svalbard (Poolepynten, Torellneset); Point Lay, Alaska; cabo Serdtse-Kamen e isla de Wrangel (Chukotka); Igloolik y cuenca de Foxe (Nunavut)",
+   "season": "Zonas de descanso de Svalbard e isla Round de junio a septiembre",
+   "order": "Carnivora"
+  }
+ },
+ {
+  "scientific": "Hydrurga leptonyx",
+  "common": "Foca leopardo",
+  "summary": "El superdepredador entre las focas antárticas, un cazador estilizado con cabeza de reptil, famoso por emboscar pingüinos en el borde del hielo. También filtra enormes cantidades de kril a través de unos dientes posteriores de lóbulos intrincados. Es la única foca que caza habitualmente otros animales de sangre caliente.",
+  "nativeRange": "Aguas antárticas y subantárticas, sobre todo la banquisa; ejemplares divagantes llegan a Sudamérica, Sudáfrica, Australia y Nueva Zelanda",
+  "biomes": [
+   "Banquisa",
+   "Mares polares"
+  ],
+  "abilities": [
+   "Enorme apertura bucal y largos caninos para atrapar pingüinos y focas jóvenes",
+   "Sus dientes posteriores tricúspides, que encajan entre sí, filtran el kril del agua como un tamiz",
+   "Patrulla las colonias de pingüinos y captura las aves cuando entran o salen del agua"
+  ],
+  "lore": "En la expedición Endurance de Shackleton, en 1916, una foca leopardo persiguió a Thomas Orde-Lees por el hielo marino hasta que Frank Wild la abatió de un disparo. En 2003 una foca leopardo ahogó a la bióloga marina británica Kirsty Brown mientras buceaba con tubo en la estación Rothera.",
+  "funFact": "El fotógrafo Paul Nicklen contó que una hembra de foca leopardo le llevaba pingüinos una y otra vez, como si quisiera enseñarle a cazar.",
+  "animal": {
+   "diet": "Kril, pingüinos, peces, calamares y otras focas (sobre todo crías de foca cangrejera)",
+   "habitat": "Borde de la banquisa antártica e islas subantárticas",
+   "lifespan": "Unos 26 años",
+   "size": "2,5–3,5 m; hasta unos 600 kg; las hembras son mayores que los machos",
+   "behaviour": "Solitaria. Durante la época de cría (noviembre–enero) los machos se suspenden bocabajo bajo el agua y emiten fuertes trinos y quejidos.",
+   "fieldMarks": [
+    "Cuerpo largo, esbelto y serpentino, con una gran cabeza de aspecto reptiliano",
+    "Dorso gris oscuro y vientre y garganta claros con manchas negras",
+    "Boca ancha que parece «sonreír»",
+    "Largas aletas delanteras con las que nada; a menudo se la ve tumbada sola sobre los témpanos"
+   ],
+   "voice": "Bajo el agua, durante la época de cría, los machos emiten trinos fuertes y largos y quejidos graves, que los hidrófonos captan a gran distancia.",
+   "lookalikes": "La foca de Weddell es más rechoncha, con una cabeza pequeña y redondeada y el hocico corto. La foca cangrejera es más clara, de cabeza más pequeña y suele ir en grupos. El elefante marino del sur es enorme y tiene aletas más cortas.",
+   "whereToSee": "Península Antártica: colonias de pingüinos de la isla Pléneau, bahía Paraíso, isla Cuverville y Brown Bluff; Georgia del Sur; ocasionalmente en las costas de Nueva Zelanda en invierno",
+   "season": "Temporada de cruceros antárticos de noviembre a marzo; mayor presencia en las colonias de pingüinos cuando los polluelos dejan el nido (enero–febrero)",
+   "order": "Carnivora"
+  }
+ },
+ {
+  "scientific": "Hydrochoerus hydrochaeris",
+  "common": "Capibara (carpincho, chigüire)",
+  "summary": "El roedor más grande del mundo, un herbívoro semiacuático de los humedales sudamericanos que vive en grupos sociales y rara vez se aleja del agua. Con patas parcialmente palmeadas y los ojos, las orejas y las fosas nasales situados en lo alto de la cabeza, puede permanecer casi sumergido. Aves, monos y otros animales suelen posarse sobre él o descansar a su lado.",
+  "nativeRange": "Sudamérica al este de los Andes, desde Colombia y Venezuela hasta el noreste de Argentina y Uruguay; también Panamá",
+  "biomes": [
+   "Humedal",
+   "Sabana inundable estacionalmente",
+   "Orilla de río",
+   "Bosque de galería"
+  ],
+  "abilities": [
+   "Puede permanecer sumergido unos cinco minutos y dormir en el agua con solo la nariz fuera",
+   "Vuelve a ingerir sus propios excrementos blandos para extraer más nutrientes de la hierba",
+   "Sus dientes crecen continuamente para soportar las hierbas abrasivas"
+  ],
+  "lore": "Los católicos venezolanos comen tradicionalmente chigüire salado durante la Cuaresma, costumbre que se atribuye a una decisión eclesiástica de la época colonial según la cual este animal semiacuático contaba como pescado. Su nombre procede del tupí ka'apiûara, que suele traducirse como «comedor de hierba».",
+  "funFact": "La ciudad brasileña de Curitiba y el adinerado barrio de Nordelta, en las afueras de Buenos Aires, tienen conocidas poblaciones urbanas de capibaras.",
+  "animal": {
+   "diet": "Gramíneas, plantas acuáticas, corteza y frutos; herbívoro selectivo",
+   "habitat": "Marismas, ríos, lagos y pastizales inundados con terreno seco cercano",
+   "lifespan": "Unos 8–10 años",
+   "size": "1–1,3 m; 35–66 kg",
+   "behaviour": "Vive en grupos de 10–20 encabezados por un macho dominante; en la estación seca los grupos se funden en concentraciones de cientos en torno al agua que queda.",
+   "fieldMarks": [
+    "Silueta: roedor en forma de barril, sin cola, de cabeza roma y del tamaño de un perro grande",
+    "Pelo áspero y ralo, de pardo rojizo a gris",
+    "Los machos dominantes tienen una gran glándula odorífera desnuda («morrillo») en la parte superior del hocico",
+    "Huellas: cuatro dedos en las patas delanteras y tres en las traseras, parcialmente palmeados; entre los rastros, céspedes de pastoreo y excrementos cerca del agua"
+   ],
+   "voice": "Ladra secamente en señal de alarma; también silba, chasquea, ronronea y gruñe dentro del grupo.",
+   "lookalikes": "La paca común es más pequeña y tiene hileras de manchas blancas en los flancos. El coipo (nutria) es mucho más pequeño, con una larga cola de rata e incisivos anaranjados.",
+   "whereToSee": "Esteros del Iberá (Argentina); Pantanal (Brasil); Los Llanos, p. ej., Hato El Cedral (Venezuela); lago Paranoá y parques urbanos de Brasilia y Curitiba (Brasil)",
+   "season": "Residente todo el año; concentraciones en la estación seca en torno a las masas de agua menguantes (aproximadamente de julio a octubre en el Pantanal)",
+   "order": "Rodentia"
+  }
+ },
+ {
+  "scientific": "Myrmecophaga tridactyla",
+  "common": "Oso hormiguero gigante (oso bandera)",
+  "summary": "Un insectívoro sin dientes, con un hocico tubular, una lengua de unos 60 cm y una enorme cola en forma de bandera. Asalta termiteros y hormigueros durante apenas un minuto cada uno, moviendo la lengua hasta 150 veces por minuto, y se marcha antes de que los soldados de la colonia organicen la defensa. El fuego, las carreteras y la pérdida de hábitat lo han convertido en una especie Vulnerable.",
+  "nativeRange": "Centroamérica (escaso, de Honduras hacia el sur) y Sudamérica al este de los Andes hasta el norte de Argentina; extinto en Uruguay y en gran parte de Centroamérica",
+  "biomes": [
+   "Sabana (cerrado)",
+   "Pastizal",
+   "Humedal",
+   "Bosque tropical"
+  ],
+  "abilities": [
+   "Come unas 30 000 hormigas y termitas al día",
+   "Las garras de sus patas delanteras, de hasta 10 cm, desgarran termiteros duros como el hormigón y, en defensa propia, pueden dejar fuera de combate a un jaguar",
+   "Tiene una de las temperaturas corporales más bajas de todos los mamíferos terrestres, unos 33 °C",
+   "Camina apoyado en los nudillos para proteger sus largas garras"
+  ],
+  "lore": "En guaraní el animal se llama yurumí, y el oso hormiguero gigante aparece en relatos indígenas de todo el Gran Chaco y el cerrado. Desde 2007 un programa de renaturalización en Argentina ha reintroducido osos hormigueros gigantes en los Esteros del Iberá, donde habían desaparecido.",
+  "funFact": "La lengua del oso hormiguero está anclada al esternón, no a la boca, lo que le permite extenderla tanto.",
+  "animal": {
+   "diet": "Hormigas y termitas; ocasionalmente larvas de escarabajo y frutos",
+   "habitat": "Pastizal abierto, sabana, humedales y lindes de bosque",
+   "lifespan": "Unos 15 años en libertad; más de 30 en cautividad",
+   "size": "Cuerpo de alrededor de 1–1,2 m más una cola de 65–90 cm; 27–50 kg",
+   "behaviour": "Solitario. Las madres llevan a su única cría a la espalda durante meses, con la franja oscura de la cría alineada con la suya a modo de camuflaje.",
+   "fieldMarks": [
+    "Silueta: cabeza larga y tubular, cuerpo bajo y una enorme cola tupida que lleva horizontal o sobre el cuerpo como una manta",
+    "Llamativa franja diagonal negra bordeada de blanco que va de la garganta al hombro",
+    "Patas delanteras claras con una banda negra sobre unas enormes garras curvas",
+    "Rastros: termiteros con agujeros recientes del tamaño de un puño abiertos en un costado; huellas de marcha sobre los nudillos vueltas hacia dentro"
+   ],
+   "lookalikes": "Los tamandúas del sur y del norte son mucho más pequeños, trepan a los árboles y tienen una cola prensil corta y desnuda. Ningún otro animal de su área reúne el hocico largo y la cola enorme.",
+   "whereToSee": "Parques nacionales de la Serra da Canastra y das Emas (cerrado brasileño); Pantanal (Brasil); Esteros del Iberá (Argentina, reintroducido); Los Llanos (Venezuela, Colombia)",
+   "season": "Residente; con tiempo fresco a menudo está activo de día, y con calor es nocturno",
+   "order": "Pilosa"
+  }
+ },
+ {
+  "scientific": "Dasypus novemcinctus",
+  "common": "Armadillo de nueve bandas (cachicamo)",
+  "summary": "Un excavador de caparazón óseo de América que desde el siglo XIX se ha ido expandiendo de forma constante hacia el norte por EE. UU. Las hembras casi siempre paren cuatrillizos genéticamente idénticos, todos procedentes de un único óvulo fecundado. Es también uno de los pocos animales, además del ser humano, que porta la lepra de forma natural.",
+  "nativeRange": "Sudamérica (hasta el norte de Argentina), Centroamérica, México y el sur y centro de EE. UU. (en expansión hacia el norte)",
+  "biomes": [
+   "Bosque tropical",
+   "Pastizal",
+   "Matorral",
+   "Tierras de cultivo"
+  ],
+  "abilities": [
+   "Pare cuatrillizos idénticos a partir de un solo óvulo (poliembrionía)",
+   "Puede contener la respiración unos seis minutos, caminando por el fondo de los arroyos o tragando aire para flotar",
+   "Da un salto de alrededor de 1 m en el aire cuando se sobresalta",
+   "Excava decenas de madrigueras que luego usan otros animales"
+  ],
+  "lore": "Los aztecas lo llamaban ayotochtli, «conejo-tortuga», y los músicos andinos fabricaban el charango, un pequeño laúd, con caparazones de armadillo. Es el pequeño mamífero emblemático del estado de Texas.",
+  "funFact": "Su salto de sobresalto es tan alto que a menudo golpea los bajos de los coches, una de las principales causas de atropello.",
+  "animal": {
+   "diet": "Insectos y otros invertebrados (escarabajos, hormigas, termitas, larvas), pequeños vertebrados, huevos y frutos",
+   "habitat": "Bosque, matorral y pastizal con suelo blando",
+   "lifespan": "Unos 7–15 años",
+   "size": "Cuerpo de 38–58 cm, cola de 26–45 cm; 3–7 kg",
+   "behaviour": "Mayormente nocturno en verano y activo de día con tiempo fresco. Busca alimento escarbando con el hocico pegado al suelo, olfateando a sus presas.",
+   "fieldMarks": [
+    "Caparazón coriáceo y acorazado con un escudo escapular, un escudo pélvico y 7–11 (normalmente 8–9) bandas móviles entre ambos",
+    "Cola larga, acorazada y ahusada",
+    "Cabeza pequeña y puntiaguda y orejas grandes y erguidas",
+    "Rastros: hoyos de alimentación cónicos y poco profundos («hocicadas») en céspedes y hojarasca; madrigueras de unos 20 cm de ancho"
+   ],
+   "lookalikes": "Otras especies de Dasypus de Sudamérica son muy parecidas; el armadillo de siete bandas y la mulita grande se distinguen por el número de bandas y la distribución. El armadillo de seis bandas es amarillento y tiene menos bandas y más anchas.",
+   "whereToSee": "Florida y Texas, p. ej., Refugio Nacional de Fauna de Aransas y Big Thicket; Pantanal (Brasil); Los Llanos (Venezuela)",
+   "season": "Residente todo el año",
+   "order": "Cingulata"
+  }
+ },
+ {
+  "scientific": "Gorilla beringei",
+  "common": "Gorila oriental (incluido el gorila de montaña)",
+  "summary": "El mayor primate vivo, con dos subespecies: el gorila de Grauer, de los bosques de tierras bajas del este de la R. D. del Congo, y el famoso gorila de montaña de los volcanes Virunga y Bwindi. Los gorilas de montaña, estudiados desde los trabajos de Dian Fossey en la década de 1960, han aumentado hasta algo más de 1000 y en 2018 pasaron de En Peligro Crítico a En Peligro, mientras que la especie en su conjunto sigue En Peligro Crítico porque los gorilas de Grauer han disminuido drásticamente.",
+  "nativeRange": "Montes Virunga (Ruanda, Uganda, R. D. del Congo), Bosque Impenetrable de Bwindi (Uganda) y bosques de tierras bajas y montanos del este de la R. D. del Congo",
+  "biomes": [
+   "Bosque montano",
+   "Bosque de bambú",
+   "Selva de tierras bajas"
+  ],
+  "abilities": [
+   "Los machos de espalda plateada pueden pesar más de 200 kg y son varias veces más fuertes que las personas",
+   "Cada noche construye un nido nuevo de hojas y ramas para dormir",
+   "Dispersa semillas y abre claros en el bosque al alimentarse y desplazarse"
+  ],
+  "lore": "Dian Fossey fundó el Centro de Investigación Karisoke en Ruanda en 1967 y escribió «Gorillas in the Mist» (Gorilas en la niebla; 1983) antes de ser asesinada en 1985. La ceremonia anual ruandesa de Kwita Izina pone nombre a cada cría de gorila de montaña nacida.",
+  "funFact": "La especie lleva el nombre del oficial alemán Robert von Beringe, que en 1902 abatió dos en el monte Sabyinyo, los primeros conocidos por la ciencia.",
+  "animal": {
+   "diet": "Principalmente hojas, tallos, brotes y médula (apio silvestre, ortigas, brotes de bambú); frutos cuando los hay; ocasionalmente hormigas",
+   "habitat": "Bosque montano y de bambú (gorilas de montaña, hasta unos 4000 m) y selva de tierras bajas (gorila de Grauer)",
+   "lifespan": "Unos 35–40 años en libertad",
+   "size": "Machos de 1,5–1,8 m de pie y 140–220 kg; las hembras pesan aproximadamente la mitad",
+   "behaviour": "Vive en grupos encabezados por uno o varios machos de espalda plateada. Los machos se exhiben irguiéndose y golpeándose el pecho con las manos ahuecadas, un sonido que se oye a más de 1 km.",
+   "fieldMarks": [
+    "Simio negro muy grande; los gorilas de montaña tienen el pelo largo, espeso y negro",
+    "Los machos adultos tienen una «silla» plateada en la espalda",
+    "Cabeza enorme con una marcada cresta sagital en los machos; fosas nasales anchas",
+    "Rastros: nidos nocturnos en el suelo con excrementos, sendas de vegetación pisoteada y tallos de apio rotos; huellas de nudillos"
+   ],
+   "voice": "Tamborileo «pok-pok» al golpearse el pecho, ululatos, rugidos y suaves gruñidos de satisfacción, como «eructos», entre los miembros del grupo.",
+   "lookalikes": "Los gorilas occidentales (Gorilla gorilla) de África occidental y central son de un gris más pardo, con la coronilla rojiza y el pelo más corto. Los chimpancés son mucho más pequeños, con orejas grandes y brazos largos.",
+   "whereToSee": "Parque Nacional de los Volcanes (Ruanda); parques nacionales del Bosque Impenetrable de Bwindi y de los Gorilas de Mgahinga (Uganda); Parque Nacional de Virunga (R. D. del Congo); Parque Nacional de Kahuzi-Biega (R. D. del Congo, gorila de Grauer)",
+   "season": "Residente; las caminatas se organizan todo el año, y los meses más secos (junio–septiembre y diciembre–febrero) son los más fáciles",
+   "order": "Primates"
+  }
+ },
+ {
+  "scientific": "Pan paniscus",
+  "common": "Bonobo",
+  "summary": "Uno de los dos parientes vivos más cercanos del ser humano, presente solo al sur del río Congo, en la R. D. del Congo. A diferencia de los chimpancés, las sociedades de bonobos están dirigidas por alianzas de hembras, y rebajan las tensiones mediante el contacto sexual y social en lugar de la violencia. Incluso comparten comida con desconocidos.",
+  "nativeRange": "Selvas de tierras bajas de la cuenca del Congo al sur del río Congo, solo en la R. D. del Congo",
+  "biomes": [
+   "Selva de tierras bajas",
+   "Bosque pantanoso"
+  ],
+  "abilities": [
+   "Comparte ADN con el ser humano aproximadamente en la misma proporción (alrededor del 98,7 %) que los chimpancés",
+   "En experimentos muestra empatía, consuelo y disposición a compartir con individuos desconocidos",
+   "Kanzi, un bonobo en cautividad, aprendió a comunicarse con cientos de símbolos lexigráficos"
+  ],
+  "lore": "El bonobo no se reconoció como especie distinta hasta 1929, a partir de un cráneo de un museo belga. En la región de Wamba, un tabú mongandu que prohíbe comer bonobos, considerados parientes ancestrales, contribuyó a protegerlos.",
+  "funFact": "Los bonobos no se reconocieron como especie hasta 1929, más de 150 años después que los chimpancés, porque se parecen mucho.",
+  "animal": {
+   "diet": "Frutos, hojas, médula, semillas, insectos y ocasionalmente pequeños mamíferos",
+   "habitat": "Bosque húmedo de tierras bajas y mosaico de bosque y sabana al sur del río Congo",
+   "lifespan": "Unos 40 años",
+   "size": "70–83 cm sentado; machos de unos 39 kg, hembras de unos 31 kg",
+   "behaviour": "Vive en comunidades de fisión-fusión de 30–80 individuos. Las hembras forman vínculos fuertes y dominan colectivamente a los machos.",
+   "fieldMarks": [
+    "Simio esbelto de piernas largas y cabeza relativamente pequeña y redonda",
+    "Cara negra desde el nacimiento y labios rosados",
+    "Pelo negro y largo, peinado con una raya en medio en la coronilla",
+    "Rastros: nidos nocturnos en lo alto de los árboles; sus llamadas agudas los distinguen de los jadeos-ululatos de los chimpancés"
+   ],
+   "voice": "Ululatos y silbidos más agudos que los de los chimpancés, incluida una llamada aguda y seca, como de pájaro, «ji-ji».",
+   "lookalikes": "El chimpancé (al norte del río Congo) es más robusto, con la cara más clara de joven, orejas más grandes y sin raya central en el pelo. Sus áreas de distribución no se solapan.",
+   "whereToSee": "Santuario Lola ya Bonobo (cerca de Kinsasa); Wamba y la Reserva Científica de Luo; LuiKotale y el Parque Nacional de Salonga; Reserva de Fauna de Lomako-Yokokala (todos en la R. D. del Congo)",
+   "season": "Residente todo el año",
+   "order": "Primates"
+  }
+ },
+ {
+  "scientific": "Lemur catta",
+  "common": "Lémur de cola anillada (maki)",
+  "summary": "El lémur más conocido de Madagascar, un primate amante del sol de los bosques secos y los cañones rocosos del sur y el suroeste de la isla. Los grupos están liderados por hembras, y los machos libran «peleas apestosas» impregnándose la cola de olor y agitándola ante sus rivales. Aunque es común en los zoológicos, su número en libertad ha caído drásticamente por la pérdida de bosque y el comercio de mascotas.",
+  "nativeRange": "Sur y suroeste de Madagascar",
+  "biomes": [
+   "Bosque caducifolio seco",
+   "Bosque espinoso",
+   "Bosque de galería",
+   "Cañones rocosos"
+  ],
+  "abilities": [
+   "Toma el sol en una postura de «yoga», con el vientre y los brazos abiertos al sol de la mañana",
+   "Los machos libran «peleas apestosas», untándose la cola con el olor de las glándulas de la muñeca y del pecho",
+   "Pasa más tiempo en el suelo que cualquier otro lémur"
+  ],
+  "lore": "Muchas comunidades malgaches mantienen fady (tabúes) que prohíben dañar a los lémures, y en Anja la reserva gestionada por la comunidad ha convertido a la especie en una fuente de ingresos turísticos. Linneo la describió en 1758 como especie tipo del género Lemur, nombre tomado de los espíritus romanos de los muertos (lemures).",
+  "funFact": "Los censos publicados en 2016–2017 contaron solo unos 2000–2400 lémures de cola anillada en los lugares estudiados, lo que hizo temer un desplome de la población salvaje; el total real se discute porque muchos lugares siguen sin censarse.",
+  "animal": {
+   "diet": "Frutos (sobre todo tamarindo), hojas, flores, corteza, savia e insectos",
+   "habitat": "Bosque de galería a lo largo de los ríos, matorral seco, bosque espinoso y afloramientos rocosos",
+   "lifespan": "Unos 16–19 años en libertad",
+   "size": "Cuerpo de unos 40 cm, cola de 55–62 cm; 2,2 kg",
+   "behaviour": "Vive en grupos de hasta unos 30 individuos con dominancia femenina. En las noches frías los miembros del grupo se apiñan en «bolas de lémures» para conservar el calor.",
+   "fieldMarks": [
+    "Larga cola anillada en blanco y negro (unas 13 bandas alternas) que lleva alzada como una bandera al caminar",
+    "Dorso gris y partes inferiores más claras",
+    "Cara blanca con antifaces negros alrededor de los ojos y nariz oscura",
+    "Rastros: grupos en el suelo y sobre las rocas; marcas de olor en arbolillos"
+   ],
+   "voice": "Maullidos como de gato para mantener el contacto, gañidos y lamentos fuertes como llamadas de alarma, y un ronroneo de «satisfacción».",
+   "lookalikes": "Ningún otro lémur tiene la cola anillada. El lémur pardo y el lémur de frente roja son más pardos y tienen la cola uniforme.",
+   "whereToSee": "Reserva Comunitaria de Anja; Parque Nacional de Isalo; Reserva Privada de Berenty; Parque Nacional de Andringitra; Parque Nacional de Tsimanampesotse (todos en Madagascar)",
+   "season": "Residente; los partos son en septiembre–octubre, por lo que en primavera se ven crías aferradas a sus madres",
+   "order": "Primates"
+  }
+ },
+ {
+  "scientific": "Loris tardigradus",
+  "common": "Loris esbelto rojo",
+  "summary": "Un diminuto primate nocturno de miembros finos como lápices del húmedo suroeste de Sri Lanka, con enormes ojos frontales para cazar insectos de noche. Se mueve despacio y en silencio por las ramas y luego se abalanza con ambas manos. El loris esbelto gris, emparentado con él, vive en las zonas más secas de Sri Lanka y en el sur de la India.",
+  "nativeRange": "Endémico de la zona húmeda del suroeste de Sri Lanka, incluida una forma de montaña en las colinas centrales",
+  "biomes": [
+   "Selva tropical de tierras bajas",
+   "Bosque montano",
+   "Huertos familiares"
+  ],
+  "abilities": [
+   "Ojos enormes con un tapetum reflectante para ver casi a oscuras",
+   "Su agarre es tan fuerte que puede quedar colgado durante largos periodos, gracias a unos vasos sanguíneos especiales (retia mirabilia) en las extremidades",
+   "Come insectos tóxicos o de mal sabor que otros depredadores evitan"
+  ],
+  "lore": "Según las creencias populares de Sri Lanka y el sur de la India, los ojos y partes del cuerpo del loris se usaban en amuletos y remedios, lo que, junto con el comercio de mascotas, ha contribuido desde hace mucho a su persecución.",
+  "funFact": "Su nombre específico, tardigradus, significa «de paso lento», la misma raíz que los microscópicos tardígrados.",
+  "animal": {
+   "diet": "Sobre todo insectos (incluidas hormigas y escarabajos), además de otros invertebrados, pequeños lagartos, huevos y algo de materia vegetal",
+   "habitat": "Bosque húmedo de tierras bajas y submontano y huertos cercanos con densas marañas de enredaderas",
+   "lifespan": "Unos 15–18 años en cautividad",
+   "size": "Cuerpo de unos 17–26 cm, sin cola externa; 85–170 g",
+   "behaviour": "Estrictamente nocturno y arborícola. De día duerme enroscado como una bola entre el follaje denso, a menudo en pequeños grupos.",
+   "fieldMarks": [
+    "Miembros muy delgados y cuerpo diminuto sin cola",
+    "Ojos enormes y redondos rodeados de manchas oscuras y separados por una franja blanca que baja por la nariz",
+    "Pelaje pardo rojizo (más rojo que el del loris esbelto gris)",
+    "De noche, a la luz de una linterna, los ojos reflejan un brillo rojo anaranjado intenso; avanza despacio, mano tras mano"
+   ],
+   "lookalikes": "El loris esbelto gris (Loris lydekkerianus), de la zona seca de Sri Lanka y el sur de la India, es más gris y tiene las partes inferiores más claras. Los loris perezosos (noreste de la India y Sudeste Asiático) son mucho más robustos.",
+   "whereToSee": "Reserva Forestal Propuesta de Masmullah; bosque de Kottawa y Reserva Forestal de Kanneliya; Reserva Forestal de Sinharaja (todos en Sri Lanka); mejor en un paseo nocturno guiado",
+   "season": "Residente; activo de noche todo el año",
+   "order": "Primates"
+  }
+ },
+ {
+  "scientific": "Sarcophilus harrisii",
+  "common": "Demonio de Tasmania",
+  "summary": "El mayor marsupial carnívoro superviviente, un carroñero negro y robusto con una mordida que tritura huesos y un chillido que pone los pelos de punta. Desde la década de 1990 un cáncer transmisible, el tumor facial del demonio, ha matado a la mayoría de los demonios salvajes; se propaga directamente a través de los mordiscos. Las poblaciones de reserva de la isla María y de santuarios del continente ayudan ahora a salvaguardar la especie.",
+  "nativeRange": "Tasmania; extinto en el continente australiano desde hace unos 3000 años (pequeñas poblaciones reintroducidas en santuarios de Nueva Gales del Sur desde 2020)",
+  "biomes": [
+   "Bosque templado",
+   "Matorral costero",
+   "Bosque abierto",
+   "Tierras de cultivo"
+  ],
+  "abilities": [
+   "Tiene una de las mordidas más fuertes en proporción a su tamaño de todos los mamíferos vivos; tritura huesos y come casi todas las partes de un cadáver",
+   "Elimina cadáveres y frena a los gatos asilvestrados, lo que ayuda a proteger a los pequeños mamíferos autóctonos",
+   "Recorre hasta unos 16 km por noche en busca de alimento"
+  ],
+  "lore": "Los primeros colonos europeos de Tasmania lo llamaron «demonio» por sus sobrenaturales chillidos nocturnos. Con la extinción del tilacino en 1936, se convirtió en el mayor marsupial carnívoro superviviente del mundo.",
+  "funFact": "El tumor facial del demonio es uno de los poquísimos cánceres contagiosos conocidos: lo que se transmite entre animales son las propias células tumorales.",
+  "animal": {
+   "diet": "Principalmente carroña (ualabíes, zarigüeyas, wombats, ganado); también caza animales pequeños",
+   "habitat": "Bosque, bosque abierto, brezal costero y tierras de cultivo de toda Tasmania",
+   "lifespan": "Unos 5–6 años en libertad",
+   "size": "Cuerpo de 52–80 cm, cola de 23–30 cm; 6–12 kg (los machos son mayores)",
+   "behaviour": "Solitario, pero se congrega ruidosamente en los cadáveres, donde establece el orden para comer con chillidos, gruñidos y exhibiciones con la boca abierta. Las crías pasan unos 100 días en el marsupio.",
+   "fieldMarks": [
+    "Marsupial negro y robusto del tamaño de un perro, con la cabeza grande y las patas cortas",
+    "Banda blanca en el pecho y a menudo manchas blancas en la grupa",
+    "Las orejas se enrojecen cuando el animal está estresado",
+    "Huellas: cinco dedos delante y cuatro detrás; entre los rastros, grandes excrementos llenos de fragmentos de hueso y pelo en los caminos"
+   ],
+   "voice": "Chillidos sobrenaturales, gruñidos y alaridos agudos, sobre todo de noche en los cadáveres compartidos.",
+   "lookalikes": "El cuol de cola manchada es más pequeño, más esbelto y está cubierto de manchas blancas. Los gatos asilvestrados tienen orejas puntiagudas y colas largas.",
+   "whereToSee": "Parque Nacional Cradle Mountain–Lake St Clair y Parque Nacional Narawntapu (Tasmania); isla María (población de reserva); santuarios de Bonorong y Devils@Cradle; Aussie Ark, Barrington Tops (Nueva Gales del Sur)",
+   "season": "Residente; cría en marzo; los jóvenes se dispersan a finales del verano",
+   "order": "Dasyuromorphia"
+  }
+ },
+ {
+  "scientific": "Vombatus ursinus",
+  "common": "Wombat común",
+  "summary": "Un marsupial robusto y excavador del sureste de Australia y Tasmania, famoso por sus excrementos en forma de cubo. Su marsupio, orientado hacia atrás, impide que entre tierra mientras excava, y sus madrigueras dan refugio a muchos otros animales, sobre todo durante los incendios forestales.",
+  "nativeRange": "Sureste de Australia (Nueva Gales del Sur, Victoria, sureste de Australia Meridional y frontera de Queensland), Tasmania e isla Flinders",
+  "biomes": [
+   "Bosque templado",
+   "Bosque abierto",
+   "Brezal",
+   "Pastizal alpino"
+  ],
+  "abilities": [
+   "Produce excrementos cúbicos, modelados por la elasticidad variable de la pared intestinal",
+   "Su marsupio orientado hacia atrás impide que entre tierra al excavar",
+   "Excava sistemas de madrigueras de hasta unos 20 m de longitud",
+   "Una dura placa de cartílago en la grupa le sirve para taponar la entrada de la madriguera frente a los depredadores"
+  ],
+  "lore": "La palabra «wombat» procede del idioma dharug de la zona de Sídney. El poeta prerrafaelita Dante Gabriel Rossetti tuvo un wombat como mascota en Londres en 1869.",
+  "funFact": "Un wombat puede producir unos 80–100 excrementos cúbicos en una noche.",
+  "animal": {
+   "diet": "Gramíneas, juncias, raíces y tubérculos",
+   "habitat": "Bosque, bosque abierto, brezal y pastizal con suelo apto para excavar",
+   "lifespan": "Unos 15 años en libertad",
+   "size": "Alrededor de 1 m de longitud; 20–35 kg",
+   "behaviour": "Mayormente nocturno; pasta despacio, pero puede correr a unos 40 km/h. Deja excrementos sobre rocas y troncos como marcas territoriales.",
+   "fieldMarks": [
+    "Silueta: animal bajo, en forma de barril, casi sin cola y de cabeza ancha",
+    "Pelaje áspero, de pardo grisáceo a color arena o negro",
+    "Nariz grande, desnuda y granulosa; orejas cortas y redondeadas",
+    "Rastros: excrementos cúbicos depositados en rocas, troncos y bordes de caminos; grandes entradas de madriguera con montones de tierra"
+   ],
+   "lookalikes": "El wombat de nariz peluda del sur tiene la nariz cubierta de pelo, orejas más largas y puntiagudas y un pelaje más sedoso, y vive en las zonas más secas de Australia Meridional. Los equidnas tienen púas.",
+   "whereToSee": "Isla María y Cradle Mountain (Tasmania); Wilsons Promontory (Victoria); área recreativa de Bendeela, Kangaroo Valley (Nueva Gales del Sur); Parque Nacional Kosciuszko",
+   "season": "Residente; con el tiempo fresco del invierno a menudo está activo de día",
+   "order": "Diprotodontia"
+  }
+ },
+ {
+  "scientific": "Tachyglossus aculeatus",
+  "common": "Equidna de hocico corto",
+  "summary": "Uno de los únicos cinco monotremas vivos, los mamíferos que ponen huevos. Comedor de hormigas y termitas cubierto de púas y con una lengua pegajosa, vive en casi toda Australia y en Nueva Guinea. Las hembras ponen un único huevo de cáscara coriácea en un marsupio temporal y amamantan a la cría desde unas áreas lácteas, sin pezones.",
+  "nativeRange": "Australia (todos los estados, incluidas Tasmania y la isla Canguro) y tierras bajas del sur de Nueva Guinea",
+  "biomes": [
+   "Bosque",
+   "Bosque abierto",
+   "Desierto",
+   "Alta montaña",
+   "Pastizal"
+  ],
+  "abilities": [
+   "Pone huevos; la cría («puggle») eclosiona en el marsupio al cabo de unos 10 días",
+   "Su hocico tiene electrorreceptores que podrían detectar insectos en el suelo húmedo",
+   "Se entierra verticalmente en el suelo en cuestión de minutos para escapar de los depredadores, dejando solo las púas al descubierto",
+   "Entra en letargo e hibernación, con un descenso de su temperatura corporal hasta pocos grados por encima de la del entorno"
+  ],
+  "lore": "Un equidna aparece en la moneda australiana de cinco centavos. En muchas tradiciones aborígenes hay relatos que explican cómo consiguió el equidna sus púas, a menudo a raíz de una pelea o un castigo con lanzas.",
+  "funFact": "Cuando se describió por primera vez, en 1792, se creyó que era un tipo de oso hormiguero; que ponía huevos no se confirmó hasta 1884.",
+  "animal": {
+   "diet": "Hormigas, termitas, larvas de escarabajo y lombrices",
+   "habitat": "Casi todos los hábitats terrestres de Australia, desde los campos de nieve hasta los desiertos",
+   "lifespan": "Hasta unos 45 años en libertad",
+   "size": "30–45 cm; 2–7 kg",
+   "behaviour": "Solitario. En invierno se forman «trenes de equidnas», en los que hasta 10 machos o más siguen a una hembra en fila, morro con cola, durante días.",
+   "fieldMarks": [
+    "Cuerpo redondeado cubierto de púas color crema con la punta negra entre un pelaje pardo",
+    "Hocico (pico) fino, tubular y desnudo",
+    "Patas cortas con potentes garras excavadoras; las patas traseras apuntan hacia atrás",
+    "Rastros: agujeros del tamaño del hocico en el suelo, termiteros y hormigueros abiertos, excrementos llenos de restos de hormigas y tierra; las huellas muestran las garras traseras apuntando hacia atrás"
+   ],
+   "lookalikes": "Ningún otro mamífero australiano tiene púas. En Australia no hay erizos introducidos. Los equidnas de hocico largo (tierras altas de Nueva Guinea) son más grandes, con hocicos más largos y curvados hacia abajo.",
+   "whereToSee": "Isla Canguro (Australia Meridional); Tasmania, p. ej., Freycinet y Cradle Mountain; Wilsons Promontory (Victoria); Parque Nacional Real (Nueva Gales del Sur); extendido por el monte",
+   "season": "Residente; más activo en los días templados de primavera; trenes de equidnas de junio a septiembre",
+   "order": "Monotremata"
+  }
+ },
+ {
+  "scientific": "Desmodus rotundus",
+  "common": "Vampiro común",
+  "summary": "Los únicos mamíferos que se alimentan exclusivamente de sangre: los vampiros hacen un corte diminuto en el ganado o en mamíferos salvajes dormidos y lamen la sangre que mana. Unas fosetas termosensibles en la nariz los guían hasta los vasos sanguíneos próximos a la piel, y su saliva contiene anticoagulantes que se han estudiado para fármacos contra el ictus. Es célebre que los compañeros de refugio comparten sangre regurgitada con los que no han logrado alimentarse.",
+  "nativeRange": "Desde México, a través de Centroamérica, hasta el norte de Chile, Argentina y Uruguay; islas de Trinidad y Margarita",
+  "biomes": [
+   "Bosque tropical",
+   "Bosque seco",
+   "Pastizal con ganado",
+   "Cuevas"
+  ],
+  "abilities": [
+   "Percibe el calor infrarrojo con las fosetas de la nariz, mediante un receptor TRPV1 modificado de forma especial",
+   "El anticoagulante de su saliva (draculina y activadores del plasminógeno) mantiene la sangre fluyendo; un derivado, la desmoteplasa, se ensayó como fármaco contra el ictus",
+   "Corre y salta por el suelo apoyándose en las extremidades anteriores, algo inusual en un murciélago",
+   "Comparte sangre con los compañeros de refugio hambrientos, y da preferencia a los que antes compartieron con él"
+  ],
+  "lore": "Los naturalistas europeos le dieron el nombre del vampiro del folclore eslavo; a su vez, el Drácula de Bram Stoker (1897) dio al murciélago un lugar central en la ficción de vampiros. La rabia transmitida por los vampiros es un grave problema veterinario en toda América Latina.",
+  "funFact": "Un vampiro que pasa dos noches sin alimentarse de sangre puede morir de inanición; por eso es tan importante que los compañeros de refugio compartan.",
+  "animal": {
+   "diet": "Sangre de mamíferos, principalmente vacas, caballos y cerdos; también mamíferos salvajes",
+   "habitat": "Cuevas, árboles huecos, minas y edificios al alcance de mamíferos presa",
+   "lifespan": "Hasta unos 29 años en cautividad; unos 9 en libertad",
+   "size": "Cuerpo de 7–9 cm, envergadura de unos 35–40 cm; 25–40 g",
+   "behaviour": "Sale del refugio cuando ya es noche cerrada, y a menudo evita la luz de luna intensa. En una toma de 20–30 minutos bebe alrededor de la mitad de su propio peso en sangre.",
+   "fieldMarks": [
+    "Hocico corto y aplastado, como de carlino, con una pequeña hoja nasal en forma de U",
+    "Pulgares largos y fuertes que usa para caminar",
+    "Sin cola; pelaje pardo grisáceo",
+    "Incisivos superiores afilados como cuchillas; entre los rastros, pequeños cortes e hilillos de sangre en el ganado, y refugios que huelen a amoníaco con excrementos oscuros y alquitranados"
+   ],
+   "lookalikes": "El vampiro de alas blancas y el vampiro de patas peludas (Diaemus, Diphylla) se alimentan sobre todo de aves y tienen las puntas de las alas blancas o las patas peludas. Los murciélagos frugívoros de hoja nasal tienen hojas nasales altas en forma de lanza.",
+   "whereToSee": "Reserva Arqueológica de Lamanai (Belice, recorridos nocturnos de murciélagos); cuevas del Yucatán (México); ranchos ganaderos del Pantanal y la Amazonia (Brasil)",
+   "season": "Residente todo el año",
+   "order": "Chiroptera"
+  }
+ },
+ {
+  "scientific": "Plecotus auritus",
+  "common": "Murciélago orejudo dorado",
+  "summary": "Un pequeño murciélago de bosque con orejas casi tan largas como su cuerpo, que usa para oír el roce de los insectos sobre las hojas. «Susurra» sus llamadas de ecolocalización y a menudo recoge polillas y arañas del follaje, cerniéndose en el dosel. Suele refugiarse en los desvanes de casas antiguas, graneros e iglesias.",
+  "nativeRange": "Europa, desde Irlanda y la península ibérica hasta los Urales, el Cáucaso y el oeste de Siberia",
+  "biomes": [
+   "Bosque templado",
+   "Parques arbolados",
+   "Jardines",
+   "Edificios"
+  ],
+  "abilities": [
+   "Orejas de unas tres cuartas partes de la longitud de su cabeza y cuerpo",
+   "Ecolocalización muy silenciosa y de baja intensidad, además de escucha pasiva de los sonidos de las presas",
+   "Recoge las presas de las hojas y puede cernirse",
+   "Hiberna en cuevas, sótanos y árboles, a veces con las orejas recogidas bajo las alas"
+  ],
+  "lore": "Los murciélagos orejudos de los tejados de las iglesias son un elemento clásico de la vida rural inglesa; en el Reino Unido todas las especies de murciélagos y sus refugios están protegidos por ley. En la Europa medieval los murciélagos se asociaban con la brujería y la noche.",
+  "funFact": "Puede oír a una mariquita caminando sobre una hoja y encontrar presas solo por el sonido.",
+  "animal": {
+   "diet": "Polillas, escarabajos, tijeretas, arañas y otros artrópodos",
+   "habitat": "Bosques, jardines arbolados y parques; se refugia en desvanes, graneros, iglesias y huecos de árboles",
+   "lifespan": "Normalmente 4–5 años; hasta unos 30",
+   "size": "Cuerpo de 4–5 cm, envergadura de 23–28 cm; 6–12 g",
+   "behaviour": "A menudo lleva las polillas grandes a un posadero favorito para comérselas, y deja debajo montones de alas desechadas.",
+   "fieldMarks": [
+    "Orejas enormes unidas por la base sobre la frente",
+    "En reposo, las orejas se pliegan hacia atrás bajo las alas y solo queda a la vista el trago, largo y puntiagudo",
+    "Pelaje pardo y esponjoso, más claro por debajo; cara pardo rosada",
+    "Rastros: montones de alas de polillas y mariposas bajo porches o vigas de graneros (posaderos de alimentación); excrementos en los desvanes"
+   ],
+   "lookalikes": "El murciélago orejudo gris (Plecotus austriacus) es más gris, con la cara más oscura y el trago más largo; para distinguirlos con seguridad a menudo hacen falta medidas. Los demás murciélagos tienen las orejas mucho más cortas.",
+   "whereToSee": "Iglesias antiguas, graneros y casas de campo de Gran Bretaña e Irlanda; bosques de Escandinavia y Europa central; paseos guiados de murciélagos del Bat Conservation Trust y organizaciones similares",
+   "season": "Activo aproximadamente de abril a octubre; hiberna de noviembre a marzo",
+   "order": "Chiroptera"
+  }
+ },
+ {
+  "scientific": "Condylura cristata",
+  "common": "Topo de nariz estrellada",
+  "summary": "Un topo de humedal cuya nariz está rodeada por 22 tentáculos carnosos y rosados, el órgano táctil más sensible que se conoce en un mamífero. Toca su entorno unas 10 veces por segundo y puede identificar y comerse una presa en una fracción de segundo. También nada y busca alimento bajo el agua.",
+  "nativeRange": "Este de Canadá y noreste de EE. UU., y hacia el sur a lo largo de los Apalaches hasta Georgia; también la costa de las Carolinas",
+  "biomes": [
+   "Humedal",
+   "Prado húmedo",
+   "Orillas de arroyos",
+   "Turberas"
+  ],
+  "abilities": [
+   "Su estrella contiene unos 25 000 receptores táctiles (órganos de Eimer) inervados por más de 100 000 fibras nerviosas",
+   "Identifica y come una presa en apenas unos 120 milisegundos, uno de los buscadores de alimento más rápidos que se conocen",
+   "Huele bajo el agua expulsando burbujas de aire y volviéndolas a inhalar",
+   "Nada bien y excava túneles en las orillas de los arroyos y bajo el hielo"
+  ],
+  "lore": "Linneo lo describió en 1758 como Sorex cristatus; los estudios del neurocientífico Kenneth Catania desde la década de 1990 convirtieron la estrella en un modelo de cómo el cerebro cartografía el tacto.",
+  "funFact": "Pese a su aspecto, la estrella no sirve para atrapar el alimento; es exclusivamente un órgano táctil, y son los dientes del topo los que se encargan de comer.",
+  "animal": {
+   "diet": "Insectos acuáticos, gusanos, pequeños crustáceos, moluscos y peces pequeños",
+   "habitat": "Suelos húmedos y mal drenados de marismas, turberas, prados húmedos y orillas de arroyos",
+   "lifespan": "Unos 3–4 años",
+   "size": "Cuerpo de 10–13 cm, cola de 6–8 cm; 35–75 g",
+   "behaviour": "Activo de día y de noche durante todo el año; busca alimento en túneles, en la superficie y bajo el agua, incluso bajo el hielo invernal.",
+   "fieldMarks": [
+    "Inconfundible anillo de 22 radios carnosos y rosados alrededor de las fosas nasales",
+    "Pelaje oscuro, denso e impermeable",
+    "Cola larga y peluda (se engrosa en invierno al almacenar grasa)",
+    "Patas delanteras anchas y excavadoras; entre los rastros, toperas en suelo húmedo y túneles que desembocan en el agua"
+   ],
+   "lookalikes": "El topo oriental y el topo de cola peluda carecen de la estrella y viven en suelos más secos; las musarañas son más pequeñas y tienen el hocico puntiagudo.",
+   "whereToSee": "Rara vez se ve; prados húmedos y bordes de turberas en Nueva Escocia y Quebec; Parque Nacional de las Grandes Montañas Humeantes; Adirondacks (Nueva York); a menudo lo encuentran los gatos o aparece en muestreos con trampas de caída",
+   "season": "Residente; activo todo el año",
+   "order": "Eulipotyphla"
+  }
+ },
+ {
+  "scientific": "Nycticebus bengalensis",
+  "common": "Loris perezoso de Bengala",
+  "summary": "El mayor de los loris perezosos y uno de los pocos primates venenosos del mundo. Cuando se siente amenazado levanta los brazos por encima de la cabeza, lame una glándula situada en la cara interna del codo y mezcla la secreción con saliva para propinar una mordedura dolorosa y a veces peligrosa. Es el único loris perezoso de la India y sufre una fuerte caza para el comercio de mascotas y de medicina tradicional.",
+  "nativeRange": "Noreste de la India, Bangladés, Birmania, sur de China, Tailandia, Laos, Camboya y Vietnam",
+  "biomes": [
+   "Bosque tropical perennifolio",
+   "Bosque semiperennifolio",
+   "Bosque de bambú"
+  ],
+  "abilities": [
+   "La secreción de la glándula braquial (del codo), combinada con la saliva, produce una mordedura tóxica que puede causar en las personas una inflamación grave y shock anafiláctico",
+   "Su agarre puede mantenerse durante horas, gracias a redes de vasos sanguíneos en las extremidades",
+   "Se alimenta de goma de los árboles, que obtiene raspando la corteza con su peine dental; es un alimento importante en la estación seca"
+  ],
+  "lore": "En bengalí se le llama «mono tímido» (lajjabati banor) porque se tapa la cara con las manos cuando le sorprende la luz. Partes de su cuerpo se han vendido en mercados del Sudeste Asiático y de China para remedios tradicionales.",
+  "funFact": "Los loris perezosos son los únicos primates de los que se ha confirmado que producen veneno.",
+  "animal": {
+   "diet": "Goma y savia vegetal, néctar, frutos, insectos, caracoles y huevos de aves",
+   "habitat": "Bosque perennifolio y semiperennifolio y bambusales con dosel continuo",
+   "lifespan": "Unos 20 años en cautividad",
+   "size": "Cuerpo de 26–38 cm; 1–2,1 kg; cola vestigial",
+   "behaviour": "Nocturno y de movimientos lentos, pero capaz de abalanzarse con rapidez. De día duerme enroscado como una bola en el follaje denso.",
+   "fieldMarks": [
+    "Primate robusto y lanoso, de cabeza redonda y casi sin cola",
+    "Franja pardo oscura a lo largo de la columna que llega hasta la coronilla",
+    "Ojos grandes rodeados de anillos oscuros, con una franja blanca entre ellos",
+    "De noche, a la luz de una linterna, los ojos reflejan un brillo anaranjado intenso; trepa de forma lenta y pausada"
+   ],
+   "lookalikes": "El loris perezoso pigmeo (Indochina) es mucho más pequeño y rojizo. Los loris esbeltos tienen miembros delgados y solo viven en el sur de la India y en Sri Lanka.",
+   "whereToSee": "Santuario de Gibones de Hollongapar (Assam); Parque Nacional de Lawachara (Bangladés); Reserva de Tigres de Dampa (Mizoram); Parque Nacional de Khao Yai (Tailandia); paseos nocturnos con guías",
+   "season": "Residente todo el año",
+   "order": "Primates"
+  }
+ },
+ {
+  "scientific": "Solenodon paradoxus",
+  "common": "Solenodonte de La Española (almiquí)",
+  "summary": "Un insectívoro nocturno de aspecto de musaraña de La Española que inyecta veneno a través de unos surcos de sus incisivos inferiores; es uno de los poquísimos mamíferos venenosos. Su linaje se separó de los demás insectívoros hace unos 70–78 millones de años, antes del asteroide que acabó con los dinosaurios, lo que lo convierte en un vínculo vivo con la fauna de mamíferos del Cretácico.",
+  "nativeRange": "La Española (República Dominicana y Haití)",
+  "biomes": [
+   "Bosque tropical seco",
+   "Bosque húmedo",
+   "Bosque sobre caliza kárstica",
+   "Matorral"
+  ],
+  "abilities": [
+   "Inocula saliva tóxica a través de un surco profundo en cada segundo incisivo inferior («solenodon» significa «diente acanalado»)",
+   "Su linaje sobrevivió a la extinción masiva de finales del Cretácico",
+   "Un hocico largo y flexible, sostenido por una articulación de rótula, sondea las grietas"
+  ],
+  "lore": "El solenodonte de La Española fue descrito por Johann Friedrich Brandt en 1833 a partir de un ejemplar enviado desde Haití, y resultaba tan insólito que recibió el nombre de «paradoxus». Catalogado durante mucho tiempo como En Peligro, la UICN lo rebajó a Preocupación Menor en 2020, cuando los censos mostraron que estaba más extendido de lo que se temía.",
+  "funFact": "Los perros, gatos y mangostas indias pequeñas introducidos son sus principales depredadores: el solenodonte evolucionó sin carnívoros veloces.",
+  "animal": {
+   "diet": "Insectos, arañas, milpiés, gusanos, pequeños vertebrados y algo de fruta",
+   "habitat": "Bosque y matorral con grietas en la caliza, cuevas y troncos huecos donde refugiarse",
+   "lifespan": "Varios años; hasta unos 11 en cautividad",
+   "size": "Cuerpo de 28–33 cm, cola de 17–26 cm; 0,6–1 kg",
+   "behaviour": "Nocturno. Las hembras tienen las mamas muy atrás, cerca de las caderas, y las crías pueden ser arrastradas aferradas a ellas.",
+   "fieldMarks": [
+    "Animal grande, del tamaño de una rata y de aspecto de musaraña, con un hocico muy largo, desnudo y flexible",
+    "Ojos pequeños y pelaje pardo y áspero, con los lados de la cabeza rojizos",
+    "Cola larga, desnuda y escamosa",
+    "Rastros: «hocicadas» cónicas en la hojarasca y el suelo donde ha sondeado en busca de invertebrados"
+   ],
+   "lookalikes": "El almiquí cubano (Atopogale cubana) solo vive en el este de Cuba. Las ratas y mangostas introducidas carecen del largo hocico sondeador y de su extraño andar bamboleante.",
+   "whereToSee": "Muy difícil de ver; censos nocturnos en los parques nacionales Sierra de Bahoruco y Jaragua, Los Haitises y Pedernales (República Dominicana); Macizo de la Hotte (Haití)",
+   "season": "Residente todo el año",
+   "order": "Eulipotyphla"
+  }
+ }
+]

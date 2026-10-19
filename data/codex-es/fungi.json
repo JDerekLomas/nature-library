@@ -1,0 +1,1325 @@
+[
+ {
+  "scientific": "Amanita muscaria",
+  "common": "Matamoscas / amanita muscaria (falsa oronja)",
+  "summary": "La seta de sombrero rojo con motas blancas de los cuentos de hadas. Es socia micorrícica de abedules, pinos y piceas, y contiene los compuestos psicoactivos y venenosos ácido iboténico y muscimol.",
+  "nativeRange": "Zonas templadas y boreales del hemisferio norte; introducida con las plantaciones de pino en Australia, Nueva Zelanda, Sudáfrica y Sudamérica",
+  "biomes": [
+   "Bosque boreal",
+   "Bosque templado",
+   "Abedular",
+   "Plantación de coníferas"
+  ],
+  "abilities": [
+   "Forma asociaciones ectomicorrícicas con abedules, pinos, piceas y abetos, a los que cede nutrientes del suelo a cambio de azúcares",
+   "Produce ácido iboténico, que al secarse se transforma en muscimol, más potente",
+   "Sus “verrugas” blancas son restos del velo universal que envolvía al ejemplar joven",
+   "Se extendió por el hemisferio sur en las raíces de los pinos de plantación"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "Venenosa. El ácido iboténico y el muscimol provocan vómitos, confusión, delirio, espasmos musculares y sueño profundo. Las muertes son raras, pero se han registrado. En algunas regiones se consume tras un sancochado prolongado, pero es arriesgado y no se recomienda. Los ejemplares jóvenes, blancos y cerrados, pueden confundirse con especies mortales de Amanita y con bejines (pedos de lobo).",
+  "seed": {
+   "description": "Esporas (no semillas): esporada blanca; esporas anchamente elipsoides, lisas, no amiloides, de unos 9–13 × 6,5–9 µm",
+   "dispersal": "Basidiosporas transportadas por el viento, liberadas desde las láminas blancas y libres"
+  },
+  "lore": "Pueblos siberianos como los koriakos la usaban ritualmente. El libro de R. Gordon Wasson de 1968, 'Soma: Divine Mushroom of Immortality' (Soma: el hongo divino de la inmortalidad), propuso que era el soma del Rig Veda. El nombre de “matamoscas” procede de la antigua costumbre europea de desmenuzarla en leche para aturdir a las moscas.",
+  "funFact": "El muscimol pasa a la orina en gran parte sin alterar. Relatos de Siberia describen a personas que bebían la orina de alguien que había comido la seta para volver a experimentar el efecto."
+ },
+ {
+  "scientific": "Amanita phalloides",
+  "common": "Oronja verde (cicuta verde, amanita faloide)",
+  "summary": "La seta más mortífera del mundo, responsable de la mayoría de las intoxicaciones mortales por setas. Medio sombrero puede matar a un adulto. Tiene el sombrero verde oliva, las láminas blancas, un anillo en forma de faldilla y una volva en forma de saco en la base, y se dice que su sabor es agradable.",
+  "nativeRange": "Europa; introducida en Norteamérica (sobre todo en California y el noroeste del Pacífico), Australia, el sur de África y Sudamérica",
+  "biomes": [
+   "Bosque templado",
+   "Robledal",
+   "Parques urbanos"
+  ],
+  "abilities": [
+   "Produce amatoxinas (sobre todo α-amanitina), que bloquean la ARN polimerasa II y destruyen las células del hígado",
+   "Sus toxinas resisten la cocción, el secado y la congelación",
+   "Los síntomas se retrasan entre 6 y 12 horas y van seguidos de una engañosa remisión, la “fase de luna de miel”, antes de la insuficiencia hepática",
+   "Se ha extendido a nuevos continentes como polizón micorrícico en raíces importadas de roble y castaño"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "Mortal. Ninguna parte es segura y la cocción no destruye las amatoxinas. Hay víctimas que la confundieron con la seta de la paja (Volvariella volvacea), con especies asiáticas de Amanita, con champiñones silvestres (Agaricus), con rúsulas verdes y con bejines jóvenes. La sospecha de ingestión es una urgencia médica, aunque la persona se encuentre bien.",
+  "seed": {
+   "description": "Esporada blanca; esporas globosas a subglobosas, lisas, amiloides, de unos 8–10,5 × 7–9 µm",
+   "dispersal": "Basidiosporas transportadas por el viento; también se propaga como micorriza en raíces de árboles trasplantados"
+  },
+  "lore": "Los historiadores antiguos escribieron que el emperador romano Claudio murió en el año 54 d. C. después de que Agripina le sirviera setas envenenadas. A menudo se señala a la oronja verde como culpable, aunque es una especulación. Voltaire escribió que un plato de setas mató en 1740 al emperador del Sacro Imperio Romano Germánico Carlos VI y cambió así el rumbo de Europa.",
+  "funFact": "La mortífera amanitina bloquea la transcripción genética de forma tan específica que los biólogos moleculares la usan como herramienta de laboratorio."
+ },
+ {
+  "scientific": "Amanita ocreata",
+  "common": "Ángel destructor occidental",
+  "summary": "Una Amanita mortal, de un blanco puro, de la costa pacífica de Norteamérica. Contiene las mismas amatoxinas que la oronja verde. Fructifica a finales del invierno y en primavera bajo la encina costera de California, justo cuando los recolectores salen a buscar otras setas blancas.",
+  "nativeRange": "Costa pacífica de Norteamérica, desde Washington, pasando por California, hasta Baja California",
+  "biomes": [
+   "Robledal",
+   "Bosque mixto perennifolio",
+   "Matorral mediterráneo"
+  ],
+  "abilities": [
+   "Contiene amatoxinas y falotoxinas que causan insuficiencia hepática y renal de aparición tardía",
+   "Forma micorrizas sobre todo con la encina costera de California (Quercus agrifolia), y también con otros robles y pinos",
+   "Fructifica en la estación fresca y húmeda (enero–abril), algo inusualmente temprano para una Amanita"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "Mortal. Es enteramente blanca, con una volva en forma de saco, y sus ejemplares jóvenes pueden confundirse con bejines comestibles, champiñones de prado (Agaricus), Amanita velosa joven (amanita de primavera) y Lepiota blancas. Desentierre siempre la base completa y corte los ejemplares jóvenes en vertical. Una persona gravemente intoxicada puede sentirse mejor durante un tiempo antes de que comience el fallo orgánico.",
+  "seed": {
+   "description": "Esporada blanca; esporas elipsoides a subglobosas, lisas, amiloides, de unos 9–14 × 7–10 µm",
+   "dispersal": "Basidiosporas transportadas por el viento"
+  },
+  "lore": "Charles Horton Peck la describió formalmente en 1909 a partir de ejemplares de California. Ha causado varias intoxicaciones graves en California.",
+  "funFact": "Una gota de hidróxido de potasio (KOH) tiñe su carne de amarillo, una reacción que comparte con otros ángeles destructores."
+ },
+ {
+  "scientific": "Cantharellus cibarius",
+  "common": "Rebozuelo (chantarela, cabrito)",
+  "summary": "Una seta de bosque de color yema de huevo y aroma a albaricoque, uno de los comestibles silvestres más apreciados de Europa. En lugar de láminas verdaderas tiene pliegues romos y bifurcados que bajan por el pie, un rasgo clave para identificarla.",
+  "nativeRange": "Europa y norte de Asia; los registros norteamericanos de 'cibarius' corresponden en su mayoría a especies emparentadas (p. ej., C. californicus, C. formosus, C. flavus)",
+  "biomes": [
+   "Bosque templado",
+   "Bosque boreal",
+   "Hayedo y robledal",
+   "Brezal con pinos"
+  ],
+  "abilities": [
+   "Ectomicorrícico con hayas, robles, abedules, pinos y piceas; nunca se ha cultivado de forma fiable",
+   "Sus falsas láminas son pliegues romos y bifurcados, no verdaderas láminas en forma de cuchilla",
+   "Muy resistente a las larvas de insectos, por lo que rara vez se agusana",
+   "Puede seguir fructificando en el mismo lugar durante décadas"
+  ],
+  "edibleParts": [
+   "todo el cuerpo fructífero (cocinado)"
+  ],
+  "edibilityNote": "Excelente cocinado. Parecidos peligrosos: la seta del olivo (Omphalotus olearius en Europa, O. illudens en Norteamérica), que tiene láminas verdaderas y afiladas, crece en grupos sobre madera y provoca vómitos intensos; el falso rebozuelo (Hygrophoropsis aurantiaca), que tiene láminas verdaderas, finas y bifurcadas; y los cortinarios anaranjados (especies de Cortinarius, entre ellas los mortales C. orellanus y C. rubellus), de esporada color óxido. Compruebe que tiene pliegues romos, carne maciza y pálida y esporada pálida.",
+  "seed": {
+   "description": "Esporada de amarillo pálido a crema rosada; esporas elipsoides, lisas, de unos 8–11 × 4,5–6 µm",
+   "dispersal": "Basidiosporas transportadas por el viento, liberadas desde la cara inferior plegada"
+  },
+  "lore": "Los rebozuelos encurtidos y secos han sido durante mucho tiempo un alimento básico de invierno en los hogares bálticos y eslavos. Lituania y Polonia todavía los exportan por toneladas, y buena parte de los rebozuelos que se consumen en Europa procede de recolectores de Europa del Este.",
+  "funFact": "Los estudios de ADN realizados desde 2011 han demostrado que los “rebozuelos dorados” de Norteamérica son varias especies distintas; el verdadero Cantharellus cibarius es esencialmente una seta europea."
+ },
+ {
+  "scientific": "Boletus edulis",
+  "common": "Boleto comestible (hongo calabaza, porro, cep)",
+  "summary": "Una seta robusta, de sombrero abombado como un bollo, con una esponja de poros en lugar de láminas y un pie grueso con un retículo en relieve. Es una de las setas silvestres más comercializadas del mundo y da a la cocina italiana el sabor intenso y a nuez de los porcini secos.",
+  "nativeRange": "Zonas templadas y boreales del hemisferio norte; introducido con pinos y robles en el sur de África, Australia y Nueva Zelanda",
+  "biomes": [
+   "Bosque templado",
+   "Bosque boreal",
+   "Plantación de coníferas"
+  ],
+  "abilities": [
+   "Ectomicorrícico con pinos, piceas, abetos, robles, hayas, castaños y abedules",
+   "Los poros son blancos al principio y se vuelven amarillo oliváceos al madurar las esporas, sin azulear al tacto",
+   "Puede producir cuerpos fructíferos de más de 3 kg",
+   "Acumula selenio del suelo y, en zonas contaminadas, radiocesio"
+  ],
+  "edibleParts": [
+   "todo el cuerpo fructífero (cocinado o seco)"
+  ],
+  "edibilityNote": "Comestible excelente. Parecidos: el boleto amargo (Tylopilus felleus), de poros rosados y retículo oscuro, no es peligroso pero arruina un plato; el boleto de Satanás (Rubroboletus satanas) y otros boletos de poros rojos que azulean causan intoxicaciones gastrointestinales graves. Regla práctica: evite los boletos con poros rojos o anaranjados o con carne que azulea rápidamente. Nunca lo coma crudo en cantidad.",
+  "seed": {
+   "description": "Esporada pardo oliva; esporas fusiformes, lisas, de unos 12–17 × 4–5,5 µm",
+   "dispersal": "Basidiosporas transportadas por el viento, liberadas desde los tubos"
+  },
+  "lore": "Los italianos lo llaman porcino ('cerdito'). El nombre latino 'edulis' (comestible) se lo dio Pierre Bulliard en 1782. Los porcini secos se comercian a través de los Alpes desde hace siglos.",
+  "funFact": "Pese a enormes esfuerzos, nadie ha logrado cultivar el boleto comestible de forma comercial. Todos los que se venden se han recolectado en el monte."
+ },
+ {
+  "scientific": "Morchella esculenta",
+  "common": "Colmenilla (morilla, cagarria)",
+  "summary": "Una seta de primavera con el sombrero en forma de panal, hueca desde la punta del sombrero hasta la base del pie. Es tan apreciada que las gucchi silvestres de Cachemira y Himachal se cuentan entre los alimentos más caros del sur de Asia. Es un ascomiceto, más emparentado con las trufas que con las setas de láminas.",
+  "nativeRange": "Hemisferio norte templado: Europa, Asia (incluido el Himalaya) y Norteamérica (en esta última, en parte como especies hermanas crípticas)",
+  "biomes": [
+   "Bosque templado",
+   "Huertos antiguos",
+   "Bosque de ribera",
+   "Bosque quemado"
+  ],
+  "abilities": [
+   "Fructifica en una breve ventana primaveral, a menudo cuando el suelo alcanza unos 10–12 °C",
+   "Produce esclerocios, reservas endurecidas de hifas que la ayudan a sobrevivir y fructificar",
+   "Algunas colmenillas fructifican en enormes cantidades sobre el suelo el año siguiente a un incendio forestal",
+   "Dispara ascosporas desde los alvéolos del sombrero en nubecillas visibles"
+  ],
+  "edibleParts": [
+   "todo el cuerpo fructífero (bien cocinado)"
+  ],
+  "edibilityNote": "Comestible excelente, pero cocínela siempre a fondo. Las colmenillas crudas o poco hechas causan trastornos gástricos, y algunas personas reaccionan incluso a las cocinadas, sobre todo con alcohol. Parecido mortal: la falsa colmenilla o bonete (Gyromitra esculenta), que tiene el sombrero lobulado, como un cerebro, y el interior tabicado o algodonoso, y contiene giromitrina. Cuidado también con Verpa bohemica, cuyo sombrero cuelga suelto como un dedal sobre un pie relleno de algodón. Una colmenilla verdadera es hueca de la punta a la base, con el sombrero unido directamente al pie. Las colmenillas de huertos antiguos pueden contener plomo y arsénico procedentes de plaguicidas históricos.",
+  "seed": {
+   "description": "Ascosporas (no semillas), 8 por asca, elipsoides, lisas, de unos 20–24 × 12–14 µm; esporada de crema a amarillo anaranjado pálido",
+   "dispersal": "Ascosporas expulsadas con fuerza desde el sombrero alveolado y transportadas por el viento"
+  },
+  "grow": {
+   "climates": [
+    "Templado"
+   ],
+   "sun": "Sombra o luz tamizada",
+   "water": "Suelo húmedo en primavera",
+   "soil": "Suelo franco, calcáreo o enriquecido con ceniza",
+   "propagation": "Micelio (semilla) en grano; bancales al aire libre con bolsas de nutrientes (método desarrollado comercialmente en China para M. importuna y especies afines)",
+   "timeToHarvest": "Siembre el micelio a finales de otoño; coseche la primavera siguiente",
+   "steps": [
+    "Prepare un bancal exterior sombreado de tierra franca suelta, idealmente mezclada con ceniza de madera o cal",
+    "Esparza el micelio en grano de colmenilla en otoño y cúbralo ligeramente con tierra",
+    "Cuando el micelio se haya extendido, coloque sobre el bancal “bolsas de nutrientes exógenos” de grano húmedo esterilizado",
+    "Mantenga el suelo húmedo durante el invierno; la fructificación comienza cuando el suelo alcanza en primavera unos 8–15 °C",
+    "Los resultados son poco fiables fuera de las explotaciones especializadas, así que considérelo un experimento"
+   ]
+  },
+  "lore": "Las gucchi recolectadas en las estribaciones del Himalaya se secan ensartadas en cordeles y se venden a precios altos, y el gucchi pulao es un plato de fiesta de Cachemira. En Europa, Carolus Clusius describió las colmenillas en su relato de 1601 sobre los hongos de Panonia (Hungría), el primer libro dedicado a los hongos.",
+  "funFact": "Cuando una colmenilla libera sus esporas, a veces se ve subir del sombrero una nubecilla de “humo”."
+ },
+ {
+  "scientific": "Hericium erinaceus",
+  "common": "Melena de león (hericio, barba de chivo)",
+  "summary": "Una cascada blanca como la nieve de púas blandas, parecidas a carámbanos, que brota de las heridas de frondosas viejas. Es una seta gourmet de textura parecida a la del cangrejo y se estudia por compuestos que, en el laboratorio, estimulan el factor de crecimiento nervioso.",
+  "nativeRange": "Hemisferio norte templado: Europa, Asia y Norteamérica; rara y legalmente protegida en partes de Europa (p. ej., el Reino Unido)",
+  "biomes": [
+   "Bosque templado",
+   "Bosque maduro de frondosas"
+  ],
+  "abilities": [
+   "Descompone el duramen de hayas, robles y otras frondosas vivas y muertas (podredumbre blanca)",
+   "Produce hericenonas (en el cuerpo fructífero) y erinacinas (en el micelio), que favorecen el factor de crecimiento nervioso en estudios con células y animales",
+   "Sus esporas se forman en la superficie externa de las púas colgantes, que pueden medir 1–5 cm"
+  ],
+  "edibleParts": [
+   "todo el cuerpo fructífero (cocinado, mientras sigue blanco)"
+  ],
+  "edibilityNote": "Buen comestible cuando es joven y blanco; con la edad amarillea y se vuelve agrio. No tiene parecidos peligrosos conocidos. Especies afines como H. coralloides y H. americanum también son comestibles. Los ejemplares silvestres son raros en Europa y están protegidos en Gran Bretaña, así que consuma los cultivados. Algunas personas desarrollan erupciones cutáneas o alergias respiratorias.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Medicina tradicional china",
+     "use": "Se toma para molestias de estómago y digestivas y como tónico general"
+    },
+    {
+     "tradition": "Investigación japonesa moderna",
+     "use": "Ensayos pequeños con la seta seca en el deterioro cognitivo leve"
+    }
+   ],
+   "cautions": "Los ensayos clínicos son pocos y pequeños. Se han descrito reacciones alérgicas, como erupción cutánea y dificultad para respirar. Posible efecto sobre la glucemia y la coagulación; tenga precaución si toma anticoagulantes o medicamentos para la diabetes."
+  },
+  "seed": {
+   "description": "Esporada blanca; esporas subglobosas, de lisas a ligeramente rugosas, amiloides, de unos 5–6,5 × 4–5,5 µm",
+   "dispersal": "Basidiosporas transportadas por el viento, liberadas desde las púas colgantes"
+  },
+  "grow": {
+   "climates": [
+    "Templado",
+    "Subtropical (en interior)"
+   ],
+   "sun": "Luz indirecta (en interior)",
+   "water": "Humedad alta, 85–95 %",
+   "soil": "Serrín de frondosas enriquecido (p. ej., serrín de roble con un 10–20 % de salvado de trigo) o troncos de frondosas",
+   "propagation": "Micelio en grano o en serrín",
+   "timeToHarvest": "Unas 4–6 semanas desde la inoculación de un bloque de serrín",
+   "steps": [
+    "Esterilice bolsas de serrín húmedo de frondosas con salvado y, una vez frías, inocúlelas con micelio",
+    "Incube a oscuras a 21–24 °C durante 2–3 semanas, hasta que esté completamente blanco",
+    "Haga una pequeña X en la bolsa y pásela a condiciones de fructificación: 15–21 °C, 85–95 % de humedad, aire fresco y luz indirecta",
+    "Coseche cuando las púas midan unos 0,5–1 cm y sigan blancas, antes de que amarilleen"
+   ]
+  },
+  "lore": "En China, la “seta cabeza de mono” (hou tou gu) se aprecia desde hace mucho como un “manjar de montaña” de la cocina de banquete. El nombre japonés 'yamabushitake' compara la seta desgreñada con los pompones de las túnicas de los yamabushi, ascetas de montaña.",
+  "funFact": "Los cocineros vegetarianos de China y Japón desmenuzan desde hace tiempo la melena de león como sustituto convincente de la carne de cangrejo."
+ },
+ {
+  "scientific": "Ganoderma lingzhi",
+  "common": "Lingzhi (reishi)",
+  "summary": "Una ménsula brillante, de un rojo lacado, sobre un pie lateral. Durante dos mil años ha simbolizado en el arte de Asia oriental la longevidad y la inmortalidad. Los estudios de ADN muestran que la mayor parte del “reishi” comercial es esta especie de Asia oriental, y no el europeo Ganoderma lucidum, cuyo nombre llevó durante mucho tiempo.",
+  "nativeRange": "Asia oriental (China, Corea, Japón, Taiwán); ampliamente cultivado",
+  "biomes": [
+   "Bosque templado",
+   "Bosque subtropical de frondosas"
+  ],
+  "abilities": [
+   "Causa podredumbre blanca en tocones y raíces de frondosas",
+   "Produce más de 150 triterpenoides (ácidos ganodéricos), que lo hacen intensamente amargo",
+   "Su superficie barnizada procede de una costra resinosa que se forma a medida que crece la ménsula",
+   "Crece en forma de cuernos en lugar de sombreros cuando se mantiene con mucho dióxido de carbono"
+  ],
+  "edibleParts": [
+   "cuerpo fructífero en láminas (decocción o infusión)",
+   "extractos"
+  ],
+  "edibilityNote": "Demasiado leñoso para comerlo. Se cuece a fuego lento como infusión amarga o se toma en extracto. Hay casos descritos de toxicidad hepática asociados a productos de reishi en polvo. Muchos productos contienen otras especies de Ganoderma, y algunos solo contienen micelio cultivado sobre grano.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Medicina tradicional china",
+     "use": "Tónico “superior” en el Shennong Bencao Jing, para calmar el espíritu, la longevidad y la vitalidad"
+    },
+    {
+     "tradition": "Medicina popular japonesa y coreana",
+     "use": "Infusión para el cansancio, los problemas de sueño y la resistencia general"
+    },
+    {
+     "tradition": "Oncología integrativa moderna",
+     "use": "Estudiado como complemento del tratamiento del cáncer, en marcadores inmunitarios y calidad de vida"
+    }
+   ],
+   "cautions": "Una revisión Cochrane (2016) encontró pruebas insuficientes para respaldarlo como tratamiento de primera línea del cáncer. Hay casos descritos de toxicidad hepática con los polvos. Puede aumentar el riesgo de hemorragia con anticoagulantes o antiagregantes plaquetarios. Puede bajar la presión arterial y la glucemia. Evítelo antes de una cirugía y durante el embarazo."
+  },
+  "seed": {
+   "description": "Esporada parda; esporas ovoides con el ápice truncado, de doble pared con la pared interna ornamentada, de unos 9–12 × 6–8 µm",
+   "dispersal": "Viento; las ménsulas maduras cubren las superficies cercanas con un polvo de esporas color cacao"
+  },
+  "grow": {
+   "climates": [
+    "Templado",
+    "Subtropical"
+   ],
+   "sun": "Luz indirecta",
+   "water": "Humedad alta, 85–95 %",
+   "soil": "Troncos de frondosas (roble, arce) o serrín de frondosas enriquecido",
+   "propagation": "Micelio en serrín o en tacos",
+   "timeToHarvest": "2–4 meses sobre serrín; los troncos fructifican el primer o segundo verano",
+   "steps": [
+    "Inocule con micelio serrín de frondosas esterilizado (o troncos cortos recién cortados)",
+    "Incube a 24–29 °C hasta la colonización completa",
+    "Fructifique a 24–28 °C con humedad alta; mantenga el aire quieto y el CO₂ alto para obtener cuernos, o ventile para obtener sombreros",
+    "Coseche cuando el borde blanco de crecimiento se vuelva pardo rojizo y empiecen a caer esporas; séquelo y córtelo en láminas para infusión"
+   ]
+  },
+  "lore": "El Shennong Bencao Jing (h. siglos I–II d. C.) incluye el lingzhi entre las hierbas de grado más alto. Las cortes de la dinastía Han registraban su aparición como presagio favorable. El cetro ruyi en forma de nube del arte chino está inspirado en su forma.",
+  "funFact": "El nombre científico procede de una descripción de 2012; antes, el reishi de Asia oriental estuvo mal clasificado durante más de un siglo con el nombre de una seta europea."
+ },
+ {
+  "scientific": "Lentinula edodes",
+  "common": "Shiitake",
+  "summary": "Una de las setas más cultivadas del mundo, con aproximadamente una cuarta parte de la producción de setas cultivadas. Se cultiva sobre troncos en China desde hace unos mil años. Es rica en guanilato, un compuesto sabroso (umami), y en ácido lentínico, un precursor azufrado del aroma.",
+  "nativeRange": "Asia oriental y sudoriental (China, Japón, Corea, Indochina); cultivado en todo el mundo",
+  "biomes": [
+   "Bosque templado",
+   "Bosque subtropical de frondosas"
+  ],
+  "abilities": [
+   "Descompone la madera muerta del shii, robles, castaños y otras frondosas (podredumbre blanca)",
+   "Produce lentinano, un β-glucano aprobado en Japón como coadyuvante inyectable en el cáncer gástrico",
+   "Su compuesto aromático azufrado, la lentionina, se forma cuando la seta se seca y se rehidrata",
+   "Contiene eritadenina, que reduce el colesterol en estudios con animales"
+  ],
+  "edibleParts": [
+   "sombrero y pie (cocinados; los pies son duros)"
+  ],
+  "edibilityNote": "Comestible excelente cocinado. El shiitake crudo o poco hecho puede causar la “dermatitis por shiitake”, una erupción con picor en forma de latigazos, asociada al lentinano, que aparece uno o dos días después. Recolectarlo silvestre sobre madera conlleva el riesgo de coger la mortal Galerina marginata, una pequeña seta parda que descompone la madera, con amatoxinas y esporada pardo herrumbre. El shiitake tiene la esporada blanca. Cómprelo cultivado.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Medicina tradicional china",
+     "use": "Registrado por Wu Rui en el Ri Yong Ben Cao (dinastía Yuan) como alimento que fortalece el qi y el cuerpo"
+    },
+    {
+     "tradition": "Oncología japonesa",
+     "use": "Lentinano purificado administrado por inyección junto con la quimioterapia en el cáncer gástrico"
+    }
+   ],
+   "cautions": "Dermatitis por shiitake con setas crudas o poco hechas. Enfermedad pulmonar alérgica en cultivadores que inhalan las esporas. El lentinano medicinal es un fármaco con receta, no equivale a comer shiitake."
+  },
+  "seed": {
+   "description": "Esporada blanca; esporas elipsoides, lisas, de unos 5–6,5 × 3–3,5 µm",
+   "dispersal": "Basidiosporas transportadas por el viento desde las láminas"
+  },
+  "grow": {
+   "climates": [
+    "Templado",
+    "Subtropical"
+   ],
+   "sun": "Sombra total en exterior; luz indirecta en interior",
+   "water": "Mantenga los troncos húmedos; sumérjalos para provocar la fructificación",
+   "soil": "Troncos recién cortados de roble u otras frondosas (10–15 cm de diámetro), o bloques de serrín de frondosas enriquecido",
+   "propagation": "Micelio en tacos o en serrín",
+   "timeToHarvest": "Troncos: 6–18 meses, y luego fructifican durante 3–6 años. Bloques de serrín: unos 2–3 meses",
+   "steps": [
+    "Corte troncos sanos de frondosas a finales del invierno e inocúlelos en pocas semanas",
+    "Taladre agujeros cada 15 cm aproximadamente en un patrón de rombos, introduzca los tacos de micelio y séllelos con cera",
+    "Apile los troncos a la sombra total y manténgalos húmedos mientras el micelio coloniza (6–18 meses)",
+    "Provoque una oleada sumergiendo un tronco en agua fría durante 12–24 horas; las setas aparecen en una semana aproximadamente a 10–25 °C",
+    "Recoja cuando los sombreros estén abiertos en un 70–90 %; deje reposar el tronco 6–8 semanas entre inmersiones"
+   ]
+  },
+  "lore": "La tradición china atribuye a Wu Sangong, de Zhejiang (dinastía Song, hacia el año 1000 d. C.), el descubrimiento de que golpear los troncos los hacía fructificar. Longquan y Qingyuan todavía lo honran en templos. La técnica pasó a Japón, donde el 'donko', de sombrero grueso y de estación fresca, se convirtió en una calidad muy apreciada.",
+  "funFact": "Secar el shiitake al sol, con las láminas hacia arriba, aumenta mucho su contenido de vitamina D."
+ },
+ {
+  "scientific": "Pleurotus ostreatus",
+  "common": "Seta de ostra (gírgola, orellana)",
+  "summary": "Grupos en forma de repisa, con sombreros como conchas de ostra, sobre madera muerta de frondosas. Es una de las setas más fáciles de cultivar y fructifica sobre paja, posos de café o cartón. También es una depredadora secreta: sus hifas paralizan y digieren gusanos nematodos.",
+  "nativeRange": "Bosques templados y subtropicales de todo el mundo (sobre todo del hemisferio norte); cultivada en todo el planeta",
+  "biomes": [
+   "Bosque templado",
+   "Bosque de ribera",
+   "Bosque subtropical"
+  ],
+  "abilities": [
+   "Libera desde diminutas protuberancias de sus hifas una toxina volátil (3-octanona) que paraliza a los nematodos en minutos y luego los digiere para obtener nitrógeno",
+   "Descompone la lignina y la celulosa, y puede degradar algunos hidrocarburos del petróleo y plaguicidas (micorremediación)",
+   "Contiene de forma natural lovastatina, una estatina que reduce el colesterol",
+   "Crece sobre casi cualquier residuo lignocelulósico, desde paja hasta posos de café usados"
+  ],
+  "edibleParts": [
+   "sombreros y pies tiernos (cocinados)"
+  ],
+  "edibilityNote": "Buen comestible cocinado. Parecidos peligrosos: Pleurocybella porrigens (oreja de ángel), una especie blanca y delgada que crece en madera de coníferas, asociada a una enfermedad cerebral mortal en Japón (2004), sobre todo en personas con enfermedad renal; la seta del olivo (especies de Omphalotus), que es anaranjada y provoca vómitos violentos; y las especies amargas de Lentinellus, de láminas aserradas. Las setas de ostra crecen sobre frondosas, tienen la esporada de blanca a gris lila y un olor suave, anisado. Quienes las cultivan en interior pueden desarrollar alergia a las esporas.",
+  "seed": {
+   "description": "Esporada de blanca a gris lila; esporas cilíndricas, lisas, de unos 7–11 × 3–4 µm",
+   "dispersal": "Viento; los grupos densos liberan nubes de esporas"
+  },
+  "grow": {
+   "climates": [
+    "Templado",
+    "Subtropical",
+    "Tropical (cepas de clima cálido)"
+   ],
+   "sun": "Luz indirecta, 8–12 horas diarias",
+   "water": "Humedad del 85–95 %",
+   "soil": "Paja de trigo o arroz pasteurizada, posos de café usados, serrín de frondosas o cartón",
+   "propagation": "Micelio en grano (normalmente un 5–10 % del peso húmedo)",
+   "timeToHarvest": "Unas 3–5 semanas desde la inoculación",
+   "steps": [
+    "Trocee la paja y pasteurícela en agua a 65–80 °C durante una hora aproximadamente; escúrrala y déjela enfriar",
+    "Mézclela con el micelio en grano y compáctela en bolsas perforadas o cubos",
+    "Incube a 20–24 °C a oscuras durante 2–3 semanas, hasta que esté blanca por completo",
+    "Fructifique a 15–21 °C con aire fresco, luz indirecta y humedad alta; pulverice las paredes, no las setas",
+    "Coseche los grupos enteros cuando los bordes de los sombreros sigan ligeramente enrollados hacia abajo"
+   ]
+  },
+  "lore": "Alemania fue el primer país en cultivar experimentalmente la seta de ostra sobre troncos y tocones, en torno a la Primera Guerra Mundial, como medida de seguridad alimentaria. Hoy las granjas de dhingri de la India y la industria del ping gu de China la cultivan sobre paja de arroz y de trigo.",
+  "funFact": "Es una de las pocas setas conocidas que cazan animales. Los nematodos que tocan sus hifas pueden quedar paralizados en minutos."
+ },
+ {
+  "scientific": "Cordyceps militaris",
+  "common": "Cordyceps militaris (cordiceps escarlata)",
+  "summary": "Mazas de color naranja vivo que se alzan desde pupas de polillas y mariposas enterradas en el suelo, a las que el hongo ha matado y llenado de micelio. A diferencia de su pariente del Himalaya, puede cultivarse sobre grano, y en los mercados asiáticos se vende seco como “flor de cordyceps” para sopas.",
+  "nativeRange": "Hemisferio norte templado: Europa, Asia y Norteamérica",
+  "biomes": [
+   "Bosque templado",
+   "Pradera",
+   "Lindes de bosque"
+  ],
+  "abilities": [
+   "Infecta larvas y pupas de lepidópteros, sustituye sus tejidos por micelio y luego fructifica desde el cadáver",
+   "Produce cordicepina (3′-desoxiadenosina), un análogo de la adenosina estudiado como compuesto anticanceroso y antiviral",
+   "Necesita luz para fabricar sus pigmentos carotenoides anaranjados",
+   "Sus ascosporas filiformes se fragmentan en muchas esporas parciales cortas"
+  ],
+  "edibleParts": [
+   "cuerpos fructíferos cultivados y secos (sopas, infusión)"
+  ],
+  "edibilityNote": "Los cuerpos fructíferos anaranjados cultivados se consumen en sopas e infusiones chinas y coreanas. Al recolectar, no lo confunda con otros hongos de insectos ni con clavarias y hongos coraliformes anaranjados de comestibilidad desconocida. La mayoría de las personas debería comprar el producto cultivado.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Medicina tradicional china",
+     "use": "Sustituto más barato de Ophiocordyceps sinensis (yartsa gunbu) como tónico pulmonar y renal"
+    },
+    {
+     "tradition": "Medicina popular coreana",
+     "use": "Infusión para el cansancio y la resistencia física"
+    }
+   ],
+   "cautions": "Las pruebas de ensayos en humanos son limitadas. La cordicepina afecta al metabolismo de las purinas. Evítelo si toma inmunosupresores o anticoagulantes, o durante el embarazo. La calidad de los suplementos varía mucho."
+  },
+  "seed": {
+   "description": "Ascosporas (no semillas) largas y filiformes, multiseptadas, que se fragmentan en esporas parciales cilíndricas cortas de unos 3–6 × 1 µm; no da una esporada convencional",
+   "dispersal": "Ascosporas expulsadas desde peritecios en forma de matraz situados en la cabeza anaranjada de la maza; los conidios asexuales también infectan insectos"
+  },
+  "grow": {
+   "climates": [
+    "Templado (en interior)"
+   ],
+   "sun": "Luz indirecta intensa, 12 horas diarias (necesaria para el color naranja)",
+   "water": "Humedad del 80–90 %",
+   "soil": "Arroz integral u otro grano con caldo nutritivo; comercialmente también pupas de gusano de seda",
+   "propagation": "Cultivo líquido; las cepas degeneran rápido, así que parta de un cultivo fresco",
+   "timeToHarvest": "Unas 6–8 semanas",
+   "steps": [
+    "Llene frascos con arroz integral y un caldo nutritivo (p. ej., patata-dextrosa con un poco de peptona) y esterilícelos",
+    "Inocule con cultivo líquido e incube a oscuras a unos 18–22 °C durante 1–2 semanas",
+    "Una vez colonizado y amarilleando, dele 12 horas de luz diarias y noches frescas (unos 16–20 °C)",
+    "Coseche las mazas anaranjadas cuando midan unos 5–8 cm y séquelas a baja temperatura"
+   ]
+  },
+  "lore": "Desde la década de 1980, los productores chinos lo fabrican en masa como 'chong cao hua', sustituto del hongo oruga silvestre del Himalaya, que cuesta más que su peso en oro. Dio al “cordyceps” de la cultura popular un sustituto fácil de cultivar.",
+  "funFact": "La cordicepina se aisló por primera vez de Cordyceps militaris en 1950; fue uno de los primeros antibióticos nucleosídicos descubiertos."
+ },
+ {
+  "scientific": "Inonotus obliquus",
+  "common": "Chaga",
+  "summary": "Lo que parece un trozo de carbón quemado sobre el tronco de un abedul es en realidad una masa estéril de hongo y madera, el esclerocio. Su interior, de color naranja dorado, se prepara como infusión en Siberia y el norte de Europa desde hace siglos.",
+  "nativeRange": "Zonas boreales y templado-frías del hemisferio norte, sobre todo en abedules: Rusia, Escandinavia, países bálticos, Corea, Japón, Canadá, norte de EE. UU.",
+  "biomes": [
+   "Bosque boreal",
+   "Abedular"
+  ],
+  "abilities": [
+   "Infecta abedules vivos a través de heridas y descompone su duramen durante décadas (podredumbre blanca)",
+   "La costra negra es rica en melanina; el interior concentra betulina y ácido betulínico procedentes de la corteza del abedul",
+   "Fructifica una sola vez, como una fina capa de poros bajo la corteza, después de que muera el árbol hospedador"
+  ],
+  "edibleParts": [
+   "esclerocio estéril (molido, en decocción o infusión)"
+  ],
+  "edibilityNote": "No es un alimento. El esclerocio se cuece a fuego lento como infusión. Su contenido de oxalato es altísimo, y el consumo diario abundante ha causado insuficiencia renal (nefropatía por oxalato). No lo confunda con madera quemada ni con ménsulas negras de Phellinus. Recójalo solo de abedules.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Medicina popular rusa y siberiana (incl. los janti)",
+     "use": "Infusión para dolencias de estómago, la tuberculosis y como tónico general"
+    },
+    {
+     "tradition": "Uso popular finlandés y báltico",
+     "use": "Sucedáneo del café en tiempos de guerra y bebida saludable"
+    },
+    {
+     "tradition": "Medicina soviética",
+     "use": "El befungin, un extracto de chaga, fue aprobado en la URSS para la gastritis"
+    }
+   ],
+   "cautions": "Contenido muy alto de oxalato; se han documentado daños renales con el uso regular. Puede aumentar el riesgo de hemorragia con anticoagulantes y bajar la glucemia. No hay buenos ensayos en humanos. La sobreexplotación está agotando las poblaciones silvestres."
+  },
+  "seed": {
+   "description": "Las esporas solo las produce una capa de poros efímera bajo la corteza de los árboles muertos. Esporada de blanca a amarillenta pálida; esporas elipsoides, lisas, hialinas, de unos 8–10 × 5–7,5 µm",
+   "dispersal": "Basidiosporas transportadas por el viento, que entran en los abedules vivos a través de heridas"
+  },
+  "lore": "En la novela de Aleksandr Solzhenitsyn 'Pabellón del cáncer' (1966), un médico cree que los campesinos rusos se libran del cáncer bebiendo chaga. El libro contribuyó a difundir la fama del chaga por todo el mundo.",
+  "funFact": "La palabra 'chaga' llega al ruso desde el komi (tšak), una lengua urálica de la cuenca del Kama, donde significa simplemente “seta”."
+ },
+ {
+  "scientific": "Trametes versicolor",
+  "common": "Cola de pavo (yesquero multicolor)",
+  "summary": "Ménsulas finas y aterciopeladas, con bandas pardas, azuladas y crema, desplegadas en abanico como la cola de un pavo sobre troncos muertos. Es uno de los hongos más comunes de la Tierra. También es la fuente del PSK (Krestin), un polisacárido unido a proteínas que se usa en Japón junto con el tratamiento del cáncer desde la década de 1970.",
+  "nativeRange": "Cosmopolita sobre madera muerta de frondosas en bosques templados y tropicales",
+  "biomes": [
+   "Bosque templado",
+   "Bosque tropical",
+   "Bosque",
+   "Parques urbanos"
+  ],
+  "abilities": [
+   "Descomponedor de podredumbre blanca que degrada la lignina de la madera muerta de frondosas",
+   "Sus enzimas lacasas pueden degradar tintes, PCB y otros contaminantes (se estudian para la biorremediación)",
+   "Tiene por debajo una superficie de poros, con 3–5 poros diminutos por milímetro, que lo distingue de parecidos sin poros",
+   "Sus sombreros aterciopelados, con bandas concéntricas, varían mucho de color; de ahí 'versicolor'"
+  ],
+  "edibleParts": [
+   "ménsulas secas (decocción o infusión)"
+  ],
+  "edibilityNote": "Demasiado coriáceo para comerlo; se cuece a fuego lento como infusión o se toma en extracto. Parecidos como la falsa cola de pavo (Stereum ostrea, de cara inferior lisa y sin poros) y las especies de Trichaptum no se consideran peligrosos, pero no tienen valor medicinal.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Medicina tradicional china",
+     "use": "Decocción de yun zhi para eliminar la humedad-calor y apoyar el bazo y los pulmones"
+    },
+    {
+     "tradition": "Oncología japonesa",
+     "use": "PSK (Krestin) administrado por vía oral como complemento de la quimioterapia en el cáncer gástrico y colorrectal"
+    },
+    {
+     "tradition": "Oncología china",
+     "use": "Extractos de PSP (polisacaropéptido) usados en los cuidados de apoyo en el cáncer"
+    }
+   ],
+   "cautions": "El PSK es un fármaco aprobado en Japón, y sus ensayos usaron ese extracto estandarizado, no una infusión casera. Puede causar molestias digestivas o heces oscuras. Consulte a un oncólogo antes de combinarlo con la quimioterapia."
+  },
+  "seed": {
+   "description": "Esporada de blanca a crema pálida; esporas de cilíndricas a ligeramente curvadas (alantoides), lisas, de unos 5–6 × 1,5–2 µm",
+   "dispersal": "Basidiosporas transportadas por el viento desde la superficie de poros"
+  },
+  "grow": {
+   "climates": [
+    "Templado"
+   ],
+   "sun": "Sombra",
+   "water": "Mantenga los troncos húmedos",
+   "soil": "Troncos o tocones de frondosas recién cortados (roble, arce, abedul)",
+   "propagation": "Micelio en tacos",
+   "timeToHarvest": "Normalmente 1–2 años sobre troncos",
+   "steps": [
+    "Taladre troncos frescos de frondosas, introduzca tacos de micelio de cola de pavo y séllelos con cera",
+    "Apile o entierre parcialmente los troncos en un lugar sombreado y húmedo",
+    "Manténgalos húmedos; tras la colonización aparecen ménsulas a lo largo de la corteza",
+    "Coseche ménsulas firmes y frescas y séquelas para infusión"
+   ]
+  },
+  "lore": "Investigadores japoneses de Kureha Chemical aislaron el PSK en la década de 1960, después de que, según se cuenta, un ingeniero químico viera a un vecino tratarse su propio cáncer con infusión de kawaratake. El ministerio de sanidad japonés aprobó el Krestin en 1977.",
+  "funFact": "Un solo tronco caído puede albergar cientos de ménsulas de cola de pavo, y cada una puede ser un individuo genéticamente distinto que compite por la madera."
+ },
+ {
+  "scientific": "Tuber melanosporum",
+  "common": "Trufa negra (trufa del Périgord)",
+  "summary": "Un cuerpo fructífero subterráneo, negro y verrugoso, de un hongo asociado a encinas, robles y avellanos. Su carne jaspeada tiene un aroma intenso y puede venderse a bastante más de 1000 € el kilo. Como sus esporas no pueden viajar con el viento, depende de su olor para atraer a mamíferos que la desentierran y las dispersan.",
+  "nativeRange": "Europa mediterránea sobre suelos calcáreos: sur de Francia, norte y centro de España, Italia; cultivada en Australia, Nueva Zelanda, Chile y EE. UU.",
+  "biomes": [
+   "Bosque mediterráneo",
+   "Plantaciones de encina y avellano",
+   "Matorral calcáreo"
+  ],
+  "abilities": [
+   "Forma ectomicorrizas con encinas y robles (Quercus ilex, Q. pubescens) y con avellanos",
+   "Crea “quemados” (brûlés), calvas desnudas alrededor de los árboles hospedadores donde inhibe a las plantas competidoras",
+   "Libera compuestos volátiles, entre ellos sulfuro de dimetilo, que los animales pueden oler a través del suelo",
+   "Tiene dos tipos sexuales y necesita ambos para fructificar, un hallazgo (2011) que hoy se aplica en el manejo de las plantaciones"
+  ],
+  "edibleParts": [
+   "todo el cuerpo fructífero (crudo en láminas o ligeramente calentado)"
+  ],
+  "edibilityNote": "Comestible muy apreciado. Parecidos: los esclerodermas (Scleroderma), tóxicos y duros, con masas de esporas de color negro violáceo oscuro pero sin jaspeado; y los Elaphomyces subterráneos. Trufas chinas más baratas (Tuber indicum) se venden fraudulentamente como trufas del Périgord. Córtela para comprobar el fino jaspeado blanco y el aroma intenso.",
+  "seed": {
+   "description": "Esporas (no semillas) pardo oscuras, elipsoides, densamente espinosas (equinuladas), de unos 25–45 × 20–35 µm, agrupadas de 1 a 6 en ascas en forma de saco dentro de la carne jaspeada; no da esporada, porque fructifica bajo tierra",
+   "dispersal": "Comida y dispersada por jabalíes, roedores y otros mamíferos atraídos por su olor"
+  },
+  "grow": {
+   "climates": [
+    "Mediterráneo",
+    "Templado"
+   ],
+   "sun": "Pleno sol sobre el suelo de la plantación",
+   "water": "Riego en verano en caso de sequía",
+   "soil": "Bien drenado, calcáreo, pH 7,5–8,3",
+   "propagation": "Plantones de encina, roble o avellano micorrizados con trufa en vivero",
+   "timeToHarvest": "Las primeras trufas suelen aparecer 5–10 años después de la plantación",
+   "steps": [
+    "Encale el suelo hasta un pH de 7,5–8,3 y asegure un drenaje excelente",
+    "Plante plantones certificados de encina, roble o avellano micorrizados, a unos 4–6 m de distancia",
+    "Mantenga el suelo libre de malas hierbas y riegue durante la sequía estival",
+    "A partir del quinto año aproximadamente, busque trufas maduras en invierno (diciembre–marzo) con un perro adiestrado"
+   ],
+   "zones": "Roughly USDA 6–9 (mild winters, warm summers)"
+  },
+  "lore": "Brillat-Savarin llamó a la trufa “el diamante de la cocina” en 'Physiologie du goût' (Fisiología del gusto, 1825). Las primeras plantaciones truferas empezaron en Vaucluse a comienzos del siglo XIX, cuando Joseph Talon sembró bellotas de robles productores de trufa.",
+  "funFact": "Tradicionalmente se usaban cerdos truferos porque el aroma de la trufa incluye androstenol, una feromona sexual del cerdo. Hoy se prefieren los perros porque no se comen el hallazgo."
+ },
+ {
+  "scientific": "Tricholoma matsutake",
+  "common": "Matsutake",
+  "summary": "Una seta parda, escamosa y de pie grueso que crece bajo el pino rojo japonés. Tiene un aroma especiado, a canela y pino, que Japón atesora como el olor del otoño. Las mejores calidades se venden a cientos de dólares el kilo. Está catalogada como Vulnerable porque sus pinares están en declive.",
+  "nativeRange": "Asia oriental (Japón, Corea, China, incl. Yunnan y Tíbet), norte de Europa (Escandinavia, países bálticos) y Siberia",
+  "biomes": [
+   "Pinar",
+   "Bosque boreal",
+   "Bosque montano de coníferas"
+  ],
+  "abilities": [
+   "Ectomicorrícico sobre todo con el pino rojo japonés (Pinus densiflora) y otros pinos; nunca se ha cultivado",
+   "Forma una densa estera blanca de micelio llamada 'shiro' que se extiende hacia fuera en forma de anillo",
+   "Su aroma procede sobre todo del 1-octen-3-ol y del cinamato de metilo",
+   "Prospera en suelos minerales pobres y alterados, que el ser humano mantenía en los antiguos bosques satoyama de Japón"
+  ],
+  "edibleParts": [
+   "todo el cuerpo fructífero (cocinado)"
+  ],
+  "edibilityNote": "Comestible excelente. Parecidos peligrosos: los ejemplares jóvenes de las mortales Amanita blancas (A. phalloides, ángeles destructores), que tienen volva en la base y son blancas, con un olor que no es especiado; y, en Norteamérica, Amanita smithiana, que crece junto al afín T. murrillianum y causa insuficiencia renal de aparición tardía. Compruebe la base, el olor especiado y la ausencia de volva.",
+  "seed": {
+   "description": "Esporada blanca; esporas de anchamente elipsoides a subglobosas, lisas, de unos 6–7,5 × 4,5–6 µm",
+   "dispersal": "Basidiosporas transportadas por el viento desde las láminas"
+  },
+  "lore": "El matsutake aparece en la antología poética del siglo VIII Man'yōshū, donde se elogia su fragancia. 'The Mushroom at the End of the World' (La seta del fin del mundo, 2015), de Anna Tsing, sigue el comercio mundial del matsutake recolectado en Oregón, Yunnan y Finlandia.",
+  "funFact": "El nematodo de la madera del pino ha matado enormes extensiones de pino rojo en Japón, y la cosecha japonesa de matsutake ha caído más de un 90 % desde la década de 1940."
+ },
+ {
+  "scientific": "Armillaria ostoyae",
+  "common": "Armilaria oscura (hongo de miel, “hongo gigante”)",
+  "summary": "Un solo individuo de este hongo que pudre las raíces se extiende bajo tierra por unas 965 hectáreas en las Blue Mountains de Oregón, lo que lo convierte en uno de los organismos más grandes de la Tierra. Su edad estimada va de unos 2400 a 8650 años. En la superficie, en otoño, brotan grupos de setas de miel pardas con anillo en el pie.",
+  "nativeRange": "Bosques de coníferas del hemisferio norte templado: Europa, Norteamérica, Asia",
+  "biomes": [
+   "Bosque de coníferas",
+   "Bosque templado",
+   "Bosque montano"
+  ],
+  "abilities": [
+   "Se extiende por el suelo mediante rizomorfos negros, como cordones de zapato, que pueden avanzar metros al año",
+   "Mata coníferas vivas colonizando las raíces y el cámbium bajo la corteza",
+   "Su micelio en la madera podrida emite un tenue brillo verde (“fuego fatuo” o foxfire)",
+   "Alimenta a la orquídea medicinal china Gastrodia elata (tianma), que carece de clorofila y digiere a Armillaria",
+   "El “hongo gigante” de Oregón (Bosque Nacional de Malheur) es un único individuo genético que ocupa unas 965 ha"
+  ],
+  "edibleParts": [
+   "sombreros jóvenes (bien cocinados)"
+  ],
+  "edibilityNote": "Se consume mucho en Europa del Este, pero solo bien cocinado; crudo o poco hecho causa trastornos estomacales, y algunas personas reaccionan incluso al cocinado. Parecido mortal: Galerina marginata, una seta parda más pequeña que descompone la madera, con amatoxinas y esporada pardo herrumbre, que puede crecer entre las armilarias. También se confunde con Pholiota y con el tóxico Hypholoma fasciculare (hifoloma de láminas verdes, con láminas verdosas y esporas negro violáceas). La armilaria tiene la esporada blanca. Haga una esporada de cada sombrero en las recolecciones dudosas.",
+  "seed": {
+   "description": "Esporada de blanca a crema; esporas elipsoides, lisas, de unos 8–11 × 5–7 µm",
+   "dispersal": "Basidiosporas transportadas por el viento; se propaga sobre todo vegetativamente, por rizomorfos y contacto entre raíces"
+  },
+  "lore": "El foxfire, el brillo de la madera infestada por hongos (a menudo Armillaria), ya lo describió Aristóteles. Se dice que iluminaba el indicador de profundidad del submarino 'Turtle' de David Bushnell, de 1775. Los rusos encurten por barriles las setas de miel llamadas 'opyata'.",
+  "funFact": "Los investigadores cartografiaron al gigante de Oregón comparando genéticamente muestras del hongo tomadas de cientos de árboles moribundos por todo el bosque."
+ },
+ {
+  "scientific": "Psilocybe cubensis",
+  "common": "Hongo de San Isidro (hongo mágico, cucumelo)",
+  "summary": "Una seta de sombrero dorado, amante del estiércol, que azulea al tocarla. Es la seta con psilocibina más cultivada del mundo. La psilocibina, el compuesto que contiene, está en ensayos clínicos de fase avanzada para la depresión, y su posesión es ilegal en la mayoría de los países.",
+  "nativeRange": "Pantropical y subtropical; crece sobre estiércol de ganado vacuno en América, el Sudeste Asiático, la India y Australia",
+  "biomes": [
+   "Pasto tropical",
+   "Pradera subtropical"
+  ],
+  "abilities": [
+   "Produce psilocibina, que el organismo convierte en psilocina, un agonista del receptor de serotonina 5-HT2A",
+   "Azulea hasta el negro azulado por la oxidación y polimerización de la psilocina",
+   "Crece sobre el estiércol de vacas y búfalos de agua, que dispersan sus esporas",
+   "Sus esporas sobreviven al paso por el intestino de una vaca"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "No es un alimento. Provoca alucinaciones intensas, ansiedad y pánico, aumento de la frecuencia cardiaca y alteración del juicio, lo que puede causar accidentes peligrosos. Está controlada por ley en la mayoría de los países. Hay recolectores que han muerto tras confundir con Psilocybe las mortales Galerina marginata o Pholiotina rugosa (P. filaris), que contienen amatoxinas; además, sobre estiércol crecen también Panaeolus y Agrocybe no psicoactivos.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Ceremonia mazateca (Oaxaca, México)",
+     "use": "Setas Psilocybe (tradicionalmente otras especies, p. ej., P. mexicana y P. caerulescens) usadas en rituales curativos de velada"
+    },
+    {
+     "tradition": "Psiquiatría clínica moderna",
+     "use": "Psilocibina sintética con apoyo psicológico, ensayada en la depresión resistente al tratamiento, la angustia al final de la vida y las adicciones"
+    }
+   ],
+   "cautions": "Puede desencadenar psicosis en personas con antecedentes personales o familiares de trastornos psicóticos. Peligrosa con litio (se han descrito convulsiones) y con algunos otros fármacos. Los ensayos clínicos usan dosis medidas de psilocibina sintética en entornos supervisados. Su posesión es ilegal en la mayoría de las jurisdicciones."
+  },
+  "seed": {
+   "description": "Esporada de pardo violácea oscura a negro violácea; esporas de elipsoides a subelipsoides, de pared gruesa con poro germinativo, de unos 11–17 × 7–12 µm",
+   "dispersal": "Viento; también pasa por el tubo digestivo de los animales de pasto y acaba en el estiércol"
+  },
+  "lore": "El artículo de R. Gordon Wasson de 1957 en la revista Life, 'Seeking the Magic Mushroom' (En busca del hongo mágico), sobre la curandera mazateca María Sabina, dio a conocer las setas con psilocibina en Occidente. Albert Hofmann aisló la psilocibina en 1958. P. cubensis se describió por primera vez a partir de ejemplares de Cuba en 1906, como Stropharia cubensis.",
+  "funFact": "'Teonanácatl', el nombre náhuatl recogido por los frailes españoles del siglo XVI, suele traducirse como “carne de los dioses”."
+ },
+ {
+  "scientific": "Claviceps purpurea",
+  "common": "Cornezuelo del centeno",
+  "summary": "Un parásito del centeno y otras gramíneas que sustituye el grano por un esclerocio duro, negro violáceo y en forma de cuerno, lleno de alcaloides. El pan contaminado causó intoxicaciones masivas en la Europa medieval. Esos mismos alcaloides dieron a la medicina fármacos para el parto y la migraña, y a la química, el LSD.",
+  "nativeRange": "Todo el mundo, en gramíneas y cereales de zonas templadas; sobre todo en el centeno en Europa",
+  "biomes": [
+   "Pradera",
+   "Tierras de cultivo"
+  ],
+  "abilities": [
+   "Infecta las flores de las gramíneas y sustituye el ovario por un esclerocio (el “cornezuelo”)",
+   "Exuda una “melaza” pegajosa y azucarada llena de conidios que los insectos llevan a nuevas flores",
+   "Produce alcaloides del cornezuelo (ergotamina, ergometrina, derivados del ácido lisérgico) que contraen los vasos sanguíneos y actúan sobre los receptores de serotonina y dopamina",
+   "Los esclerocios pasan el invierno en el suelo y en primavera brotan de ellos diminutos estromas en forma de palillo de tambor"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "Mortal. El ergotismo adopta dos formas: gangrenosa (extremidades que arden, se ennegrecen y se desprenden) y convulsiva (convulsiones, alucinaciones). El grano se criba para eliminar los esclerocios, y la normativa moderna fija límites de cornezuelo en la harina.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Partería europea (siglos XVI–XIX)",
+     "use": "'Pulvis parturiens' administrado para acelerar el parto; más tarde usado contra la hemorragia posparto"
+    },
+    {
+     "tradition": "Farmacología moderna",
+     "use": "Ergometrina/metilergometrina para la hemorragia posparto; ergotamina y dihidroergotamina para la migraña"
+    }
+   ],
+   "cautions": "El cornezuelo crudo es letal; solo los fármacos farmacéuticos estandarizados son seguros. Los fármacos derivados del cornezuelo son peligrosos con los inhibidores de la proteasa del VIH, los antibióticos macrólidos y los triptanes, y en el embarazo fuera del uso obstétrico."
+  },
+  "seed": {
+   "description": "Ascosporas (no semillas) filiformes, de unos 50–76 × 0,6–0,7 µm, procedentes de peritecios en forma de matraz en estromas violáceos; conidios asexuales en la melaza azucarada",
+   "dispersal": "Ascosporas disparadas al aire en primavera; conidios dispersados por insectos atraídos por la melaza y por las salpicaduras de lluvia"
+  },
+  "lore": "En la Europa medieval el ergotismo se llamaba “fuego de San Antonio”, y los monjes antonianos dirigían hospitales para las víctimas. Albert Hofmann sintetizó por primera vez el LSD a partir del ácido lisérgico del cornezuelo en Sandoz en 1938. En 1976, Linnda Caporael propuso (de forma controvertida) que el ergotismo estuvo detrás de los juicios por brujería de Salem.",
+  "funFact": "Uno de los últimos brotes importantes se produjo en Pont-Saint-Esprit (Francia) en 1951, aunque su causa sigue debatiéndose."
+ },
+ {
+  "scientific": "Mycena chlorophos",
+  "common": "Mycena chlorophos (micena luminosa)",
+  "summary": "Una diminuta y pálida seta de sombrero acampanado de los bosques subtropicales, cuyo sombrero y láminas brillan en la oscuridad con un inquietante color verde. En la isla japonesa de Hachijō-jima ilumina el suelo del bosque tras las lluvias de verano.",
+  "nativeRange": "Asia subtropical y tropical (Japón, Taiwán, Indonesia, Malasia), islas del Pacífico, Australia y Brasil",
+  "biomes": [
+   "Bosque subtropical",
+   "Selva tropical"
+  ],
+  "abilities": [
+   "Bioluminiscente: la reacción luciferina–luciferasa, dependiente del oxígeno (la luciferina fúngica es la 3-hidroxihispidina), emite luz verde en torno a 520 nm",
+   "Brilla con más intensidad a unos 27 °C y deja de brillar con frío o sequedad",
+   "Descompone ramitas caídas, corteza y restos de palmeras",
+   "Los sombreros miden solo unos 1–3 cm de diámetro"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "No se consume; es demasiado pequeña y su comestibilidad es desconocida. Muchas especies pequeñas de Mycena contienen toxinas.",
+  "seed": {
+   "description": "Esporada blanca; esporas elipsoides, lisas, amiloides, de unos 7–9 × 5–6 µm",
+   "dispersal": "Basidiosporas transportadas por el viento; el brillo podría atraer a insectos que dispersan las esporas"
+  },
+  "lore": "Hachijō-jima, al sur de Tokio, ha convertido su luminosa yakōtake en una atracción turística. Allí los investigadores la cultivan para estudiar la reacción luminosa de los hongos.",
+  "funFact": "La ruta de la luciferina fúngica se descifró en 2018. Desde entonces sus genes se han usado para crear plantas que brillan por sí solas."
+ },
+ {
+  "scientific": "Phallus impudicus",
+  "common": "Falo hediondo (falo impúdico)",
+  "summary": "Brota de un “huevo de bruja” relleno de gelatina en forma de un tallo blanco inconfundiblemente fálico, coronado por un limo verde oliva que huele a carroña. Las moscas se llevan sus esporas, y el tallo puede crecer unos 10–15 cm en pocas horas.",
+  "nativeRange": "Europa y partes de Asia y Norteamérica; sobre todo en bosques y jardines",
+  "biomes": [
+   "Bosque templado",
+   "Jardines",
+   "Bosque"
+  ],
+  "abilities": [
+   "Su crecimiento es de los más rápidos entre las estructuras fúngicas: hincha su tallo esponjoso por presión de agua",
+   "Su olor fétido se percibe a muchos metros y atrae a las moscas",
+   "Las moscas comen el limo de esporas (gleba) y dispersan las esporas en sus excrementos",
+   "Descompone madera enterrada y hojarasca"
+  ],
+  "edibleParts": [
+   "capa interna en la fase de “huevo” (cruda o cocinada)"
+  ],
+  "edibilityNote": "El “huevo” inmaduro se come en partes de Europa (p. ej., Alemania y Francia), en láminas crudo o frito. Parecido mortal: los ejemplares jóvenes en forma de huevo de las especies de Amanita, incluida la oronja verde. Corte siempre los huevos en vertical: el falo hediondo muestra gelatina y un tallo blanco enrollado; una Amanita muestra láminas y el contorno de un sombrero. El falo hediondo maduro no se come.",
+  "seed": {
+   "description": "Esporas (no semillas) en una gleba viscosa verde oliva; esporas elipsoides, lisas, de unos 3–5 × 1,5–2 µm",
+   "dispersal": "Las moscas, atraídas por el olor a carroña, comen el limo y dispersan las esporas"
+  },
+  "lore": "Las memorias de Gwen Raverat, 'Period Piece' (1952), recuerdan a su tía Etty, hija de Charles Darwin, cazando falos hediondos en el bosque. Los quemaba en secreto 'for the sake of the maids' morals' (por la moral de las criadas).",
+  "funFact": "Su nombre de género, Phallus, y su epíteto específico, 'impudicus' ('desvergonzado'), se los dio Linneo en 1753."
+ },
+ {
+  "scientific": "Calvatia gigantea",
+  "common": "Pedo de lobo gigante (bejín gigante)",
+  "summary": "Un balón blanco de fútbol (o mayor) en un prado de verano: una esfera sin láminas, hecha de tejido productor de esporas. Un solo ejemplar puede producir billones de esporas. Cortado en rodajas mientras su interior es de un blanco puro, se fríe como un filete de seta.",
+  "nativeRange": "Hemisferio norte templado: Europa y Norteamérica, también partes de Asia",
+  "biomes": [
+   "Pradera templada",
+   "Prados",
+   "Lindes de bosque",
+   "Jardines"
+  ],
+  "abilities": [
+   "Puede alcanzar 20–80 cm de diámetro, y a veces más",
+   "Un solo cuerpo fructífero grande produce varios billones de esporas",
+   "Al madurar, su piel externa se agrieta y se desprende, y el viento y la lluvia liberan el polvo de esporas pardo oliváceo",
+   "Crece en suelos ricos y cargados de nitrógeno, como pastos y setos"
+  ],
+  "edibleParts": [
+   "cuerpo fructífero joven, de un blanco puro en todo su interior (cocinado)"
+  ],
+  "edibilityNote": "Comestible solo cuando es joven, con el interior firme y de un blanco puro, como un malvavisco, y cocinado. Deseche cualquier ejemplar con la carne amarilla, oliva o parda. Parecidos mortales: los ejemplares jóvenes en fase de huevo de las especies de Amanita, incluidas la oronja verde y los ángeles destructores. Córtelo siempre de arriba abajo: cualquier contorno de sombrero, láminas o pie significa que no es un pedo de lobo. Evite también los esclerodermas (Scleroderma), que tienen una corteza gruesa y el interior negro violáceo y son venenosos.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Medicina popular europea y de los pueblos indígenas de Norteamérica",
+     "use": "Masa de esporas seca o rodajas aplicadas sobre heridas y hemorragias nasales para detener la sangre"
+    }
+   ],
+   "cautions": "Inhalar grandes cantidades de esporas puede causar licoperdonosis, una inflamación pulmonar grave. La investigación sobre la calvacina se abandonó por su toxicidad."
+  },
+  "seed": {
+   "description": "Masa de esporas pardo oliva; esporas globosas, finamente verrugosas, de unos 3,5–5,5 µm",
+   "dispersal": "Viento y lluvia cuando la piel externa se abre"
+  },
+  "lore": "Pastores europeos y pueblos indígenas de Norteamérica usaban los pedos de lobo secos como yesca, como apósito para heridas y para atontar a las abejas al recoger miel.",
+  "funFact": "Lycoperdon, el antiguo nombre de género de los pedos de lobo, significa “pedo de lobo”, por la nubecilla polvorienta de esporas."
+ },
+ {
+  "scientific": "Penicillium rubens",
+  "common": "Moho de la penicilina de Fleming",
+  "summary": "El moho verdeazulado cuyo crecimiento accidental en una placa de Staphylococcus en el Hospital St Mary's de Londres, en 1928, llevó a Alexander Fleming a la penicilina. Estudios de ADN de 2011 mostraron que tanto el aislado de Fleming como la cepa industrial de alto rendimiento pertenecen a P. rubens, y no a P. notatum ni a P. chrysogenum, como se creyó durante mucho tiempo.",
+  "nativeRange": "Cosmopolita en el suelo, el aire de interiores, los edificios húmedos y los alimentos en descomposición",
+  "biomes": [
+   "Suelo",
+   "Ambientes interiores",
+   "Materia orgánica en descomposición"
+  ],
+  "abilities": [
+   "Segrega penicilina, un β-lactámico que bloquea la construcción de la pared celular bacteriana",
+   "Sus conidióforos en forma de pincel ('penicillus' = pincelito) liberan cadenas secas de esporas que viajan por el aire",
+   "Es un moho común en interiores, sobre paredes húmedas, pan y fruta",
+   "Las cepas industriales, descendientes de un aislado de 1943 de un melón cantalupo mohoso de Peoria (Illinois), producen miles de veces más penicilina que la cepa original de Fleming"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "No se consume. Los alimentos con moho deben desecharse. Mohos alimentarios emparentados (P. roqueforti, P. camemberti) se usan deliberadamente en los quesos. Las esporas pueden desencadenar alergias y asma.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Medicina moderna",
+     "use": "Fuente de la penicilina, el primer antibiótico de uso generalizado, que transformó el tratamiento de las infecciones bacterianas"
+    }
+   ],
+   "cautions": "La alergia a la penicilina (desde erupciones hasta anafilaxia) afecta a un pequeño porcentaje de personas. La resistencia bacteriana se debe al uso excesivo. El moho en sí es un alérgeno, no un medicamento."
+  },
+  "seed": {
+   "description": "Conidios (esporas asexuales) verdeazulados en masa, de globosos a subglobosos, lisos, de unos 2,5–3,5 µm, en cadenas secas desde conidióforos en forma de pincel",
+   "dispersal": "Conidios transportados por el aire, abundantes en el aire interior y exterior"
+  },
+  "lore": "Howard Florey y Ernst Chain convirtieron la observación de Fleming en un medicamento en Oxford en 1940–41, y los tres compartieron el Premio Nobel de 1945. La producción en masa en EE. UU., a tiempo para el Día D en 1944, salvó a muchos miles de soldados heridos.",
+  "funFact": "Mary Hunt, una auxiliar de laboratorio apodada 'Mouldy Mary' (María la Mohosa), encontró la cepa superproductora en un melón cantalupo podrido de un mercado de Peoria."
+ },
+ {
+  "scientific": "Saccharomyces cerevisiae",
+  "common": "Levadura de panadería y de cerveza",
+  "summary": "Un hongo unicelular que está detrás del pan, la cerveza y el vino desde hace al menos 5000 años. Fue el primer eucariota cuyo genoma se secuenció por completo (1996), y sigue siendo uno de los organismos modelo más importantes de la biología.",
+  "nativeRange": "Ancestros silvestres en Asia oriental (corteza de roble y fruta); hoy cosmopolita gracias a la domesticación",
+  "biomes": [
+   "Superficie de la fruta",
+   "Corteza de los árboles",
+   "Fermentación humana"
+  ],
+  "abilities": [
+   "Fermenta los azúcares a etanol y dióxido de carbono incluso en presencia de oxígeno (efecto Crabtree)",
+   "Se reproduce por gemación, aproximadamente cada 90 minutos en un medio rico",
+   "Comparte miles de genes con los humanos; muchos genes humanos pueden sustituir a sus equivalentes ausentes en la levadura",
+   "En condiciones de inanición forma cuatro esporas resistentes en un asca (una tétrada)"
+  ],
+  "edibleParts": [
+   "células enteras (en el pan y la cerveza; inactivadas como levadura nutricional)"
+  ],
+  "edibilityNote": "Segura y consumida en todo el mundo. La levadura viva puede causar hinchazón abdominal. La variedad probiótica S. cerevisiae var. boulardii ha causado, muy rara vez, infecciones en la sangre en pacientes gravemente enfermos con vías centrales.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Medicina moderna",
+     "use": "Probiótico S. cerevisiae var. boulardii (Saccharomyces boulardii) para la diarrea asociada a antibióticos y la diarrea infecciosa"
+    },
+    {
+     "tradition": "Biotecnología",
+     "use": "Cepas modificadas producen insulina, el antígeno de la vacuna contra la hepatitis B y ácido artemisínico"
+    },
+    {
+     "tradition": "Nutrición popular",
+     "use": "Levadura de cerveza tomada como suplemento de vitaminas B y cromo"
+    }
+   ],
+   "cautions": "Evite la levadura probiótica en personas inmunodeprimidas y en pacientes con catéteres venosos centrales (riesgo de fungemia). La levadura de cerveza puede interactuar con los inhibidores de la MAO (tiramina)."
+  },
+  "seed": {
+   "description": "Ascosporas, cuatro por asca (una tétrada), redondas, de unos 3–5 µm; células ovoides, de unos 5–10 µm. No forma seta ni esporada",
+   "dispersal": "Transportada por insectos (avispas y moscas de la fruta) entre frutas y árboles, y por las personas a través de la fermentación"
+  },
+  "grow": {
+   "climates": [
+    "Cualquiera (en interior)"
+   ],
+   "sun": "No necesita",
+   "water": "Masa húmeda o líquido",
+   "soil": "Harina y agua o líquido azucarado (mosto de cerveza, mosto de uva)",
+   "propagation": "Una pizca de levadura seca o una porción de masa madre activa",
+   "timeToHarvest": "Horas (levado del pan) a semanas (cerveza, vino)",
+   "steps": [
+    "Disuelva la levadura en agua tibia (unos 30–35 °C; por encima de unos 50 °C muere)",
+    "Mézclela con harina o con un líquido azucarado; para la masa madre silvestre, mantenga una mezcla de harina y agua y aliméntela a diario",
+    "Mantenga a unos 24–30 °C para el pan, o a 15–22 °C para la mayoría de las cervezas ale y los vinos",
+    "Las burbujas y el levado indican fermentación activa; hornee, o embotelle cuando termine la fermentación"
+   ]
+  },
+  "lore": "Restos hallados en cerámica de Jiahu (China, hacia 7000 a. C.) revelan bebidas fermentadas de arroz, miel y fruta. En el antiguo Egipto, panaderos y cerveceros trabajaban codo con codo. Louis Pasteur demostró en 1857–60 que la fermentación la causan células vivas de levadura.",
+  "funFact": "Los mutantes del “ciclo de división celular” (cdc) de esta levadura, obtenidos por Leland Hartwell, contribuyeron al Premio Nobel de 2001 por descubrir cómo controlan las células su división, un mecanismo compartido con las células humanas."
+ },
+ {
+  "scientific": "Ophiocordyceps unilateralis",
+  "common": "Hongo de las hormigas zombi",
+  "summary": "Un parásito de las hormigas carpinteras que se apodera del comportamiento de su hospedadora. La hormiga infectada abandona la colonia, trepa a una planta y muerde el envés de un nervio de una hoja con un “mordisco mortal”. Después brota un tallo de la parte posterior de su cabeza que deja caer una lluvia de esporas sobre el sendero de hormigas de abajo.",
+  "nativeRange": "Bosques tropicales de todo el mundo (un complejo de muchas especies específicas de cada hospedador), sobre todo en Tailandia, Brasil, Ghana y Australia",
+  "biomes": [
+   "Selva tropical"
+  ],
+  "abilities": [
+   "Manipula a las hormigas Camponotus para que suban a unos 25 cm sobre el suelo del bosque, donde la humedad y la temperatura favorecen el crecimiento del hongo",
+   "Las hormigas infectadas muerden los nervios de las hojas de forma sincronizada, a menudo hacia el mediodía solar",
+   "Cada especie críptica del complejo se especializa en una especie de hormiga",
+   "Cicatrices de mordiscos en hojas fósiles de 48 millones de años de Messel (Alemania) sugieren que el comportamiento es antiguo"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "No se consume.",
+  "seed": {
+   "description": "Ascosporas (no semillas) largas y multiseptadas, producidas en peritecios sobre un cojinete a media altura del tallo; pueden germinar en “capiliconidios” secundarios sobre tallos como pelos que se adhieren a las hormigas que pasan",
+   "dispersal": "Esporas disparadas o dejadas caer desde la hormiga muerta al suelo del bosque, donde las recogen las hormigas que buscan alimento"
+  },
+  "lore": "Los hermanos Tulasne lo describieron en 1865 como Torrubia unilateralis. El hongo inspiró la infección del videojuego y la serie de televisión 'The Last of Us'.",
+  "funFact": "Un estudio de 2017 descubrió que las células del hongo forman una red conectada por el cuerpo y los músculos mandibulares de la hormiga, pero dejan su cerebro prácticamente intacto. El hongo maneja el cuerpo como a una marioneta."
+ },
+ {
+  "scientific": "Flammulina velutipes",
+  "common": "Enoki (seta de pie aterciopelado)",
+  "summary": "En la naturaleza, esta seta invernal tiene sombreros viscosos pardo anaranjados sobre pies oscuros y aterciopelados, y sobrevive a quedar congelada por completo. Cultivado en la oscuridad con mucho CO₂, el mismo hongo se convierte en el enoki: largos pies pálidos, como fideos, que se venden en los mercados asiáticos.",
+  "nativeRange": "Hemisferio norte templado: Europa, Asia y Norteamérica; cultivada sobre todo en Asia oriental",
+  "biomes": [
+   "Bosque templado",
+   "Bosque de ribera",
+   "Setos"
+  ],
+  "abilities": [
+   "Fructifica durante el invierno y reanuda el crecimiento tras congelarse y descongelarse",
+   "Descomponedor de podredumbre blanca de frondosas muertas o moribundas (olmo, sauce, fresno, aulaga)",
+   "Las formas cultivadas tienen pies largos y blancos porque la oscuridad y el CO₂ alto estiran el tallo",
+   "Contiene flamutoxina, una proteína formadora de poros que se destruye con la cocción"
+  ],
+  "edibleParts": [
+   "sombreros y pies (bien cocinados)"
+  ],
+  "edibilityNote": "Comestible, pero cocine siempre bien el enoki. Contiene flamutoxina, sensible al calor, y el enoki envasado ha causado brotes mortales de Listeria (p. ej., en EE. UU., 2016–2020) al comerse crudo. Parecido silvestre mortal: Galerina marginata, una seta parda que descompone la madera, con amatoxinas, que crece en los mismos hábitats en otoño y a principios del invierno. Galerina tiene la esporada pardo herrumbre y a menudo anillo; Flammulina tiene la esporada blanca, la base del pie oscura y aterciopelada y no tiene anillo. También se confunde con el hifoloma de láminas verdes (Hypholoma fasciculare).",
+  "seed": {
+   "description": "Esporada blanca; esporas de elipsoides a cilíndricas, lisas, de unos 6,5–9 × 3–4 µm",
+   "dispersal": "Basidiosporas transportadas por el viento"
+  },
+  "grow": {
+   "climates": [
+    "Templado fresco (en interior)"
+   ],
+   "sun": "Oscuridad (para el enoki blanco) o poca luz",
+   "water": "Humedad del 80–90 %",
+   "soil": "Serrín de frondosas o zuro de maíz enriquecidos con salvado de arroz, en botellas",
+   "propagation": "Micelio en grano o líquido",
+   "timeToHarvest": "Unas 6–8 semanas",
+   "steps": [
+    "Llene botellas de boca ancha con una mezcla esterilizada de serrín y salvado e inocúlelas con micelio",
+    "Incube a 18–22 °C durante 3–4 semanas, hasta la colonización completa",
+    "Raspe la superficie y enfríe a 10–14 °C para inducir la formación de primordios",
+    "Coloque un collar de papel o plástico alrededor del cuello de la botella y mantenga a oscuras con CO₂ alto para que los pies crezcan largos y pálidos",
+    "Coseche el manojo cuando los pies midan 12–15 cm y cocínelo antes de comerlo"
+   ]
+  },
+  "lore": "El enokitake debe su nombre al árbol enoki (Celtis sinensis), en cuyos tocones crece silvestre en Japón. El cultivo en botella del enoki blanco comenzó en la prefectura de Nagano, que sigue siendo la principal productora de Japón.",
+  "funFact": "Su nombre chino, jin zhen gu, significa “seta aguja de oro”, por sus pies finos."
+ },
+ {
+  "scientific": "Grifola frondosa",
+  "common": "Maitake (gallina de los bosques)",
+  "summary": "Una roseta rizada, gris parda, de frondas superpuestas en la base de robles viejos, que a veces pesa más de 20 kg. En Japón se decía que era tan valiosa que quien la encontraba bailaba de alegría; de ahí 'maitake', la seta que baila.",
+  "nativeRange": "Hemisferio norte templado: Japón, China, Europa y el este de Norteamérica",
+  "biomes": [
+   "Bosque templado",
+   "Robledal"
+  ],
+  "abilities": [
+   "Parásito y descomponedor de las raíces y el duramen del roble (podredumbre blanca), que vuelve al mismo árbol durante años",
+   "Crece a partir de un esclerocio subterráneo parecido a un tubérculo",
+   "Rica en β-glucanos, entre ellos la “fracción D”, estudiada por sus efectos inmunitarios"
+  ],
+  "edibleParts": [
+   "frondas (cocinadas)"
+  ],
+  "edibilityNote": "Comestible excelente cocinada. Sus parecidos no son mortales: el políporo que ennegrece (Meripilus sumstinei/giganteus, comestible pero más duro y que se mancha de negro al rozarlo) y el políporo de Berkeley (Bondarzewia berkeleyi, comestible pero amargo). Los principiantes deben comprobar que la cara inferior tiene poros, no láminas. Algunas personas reaccionan a raciones grandes, y puede bajar la glucemia.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Medicina popular japonesa y china",
+     "use": "Se come como tónico y para favorecer la digestión"
+    },
+    {
+     "tradition": "Oncología integrativa moderna",
+     "use": "Extractos de la fracción D de maitake ensayados para la modulación inmunitaria en pacientes con cáncer"
+    }
+   ],
+   "cautions": "Puede bajar la glucemia y la presión arterial; tenga precaución si toma medicamentos para la diabetes o la tensión, y con la warfarina. Los ensayos en humanos son pequeños y de fase inicial."
+  },
+  "seed": {
+   "description": "Esporada blanca; esporas de anchamente elipsoides a ovoides, lisas, de unos 5–7 × 3,5–5 µm",
+   "dispersal": "Basidiosporas transportadas por el viento desde diminutos poros bajo las frondas"
+  },
+  "grow": {
+   "climates": [
+    "Templado"
+   ],
+   "sun": "Luz indirecta",
+   "water": "Humedad del 85–95 %",
+   "soil": "Serrín de roble enriquecido, o troncos cortos de roble enterrados en suelo sombreado",
+   "propagation": "Micelio en serrín",
+   "timeToHarvest": "Bloques de interior: 3–4 meses; los troncos enterrados fructifican a partir del segundo otoño",
+   "steps": [
+    "Inocule serrín de roble esterilizado con salvado, o troncos cortos de roble pasteurizados",
+    "Incube a unos 20–24 °C durante 6–10 semanas, hasta que se forme una piel firme que se va oscureciendo",
+    "Enfríe a unos 10–15 °C con humedad alta y aire fresco para provocar los primordios",
+    "Coseche la roseta cuando los bordes de las frondas sigan blandos"
+   ]
+  },
+  "lore": "Los recolectores de montaña de Tōhoku, en Japón, guardaban tradicionalmente en secreto sus lugares de maitake, incluso ante su familia, hasta la muerte. El cultivo comercial en Japón comenzó en la década de 1980.",
+  "funFact": "Una sola maitake puede volver al mismo roble cada otoño durante décadas."
+ },
+ {
+  "scientific": "Laetiporus sulphureus",
+  "common": "Políporo azufrado (pollo del bosque)",
+  "summary": "Repisas superpuestas de un amarillo azufre y naranja brillantes sobre robles, sauces y cerezos, visibles desde lejos en el bosque. De joven tiene una textura tan parecida a la pechuga de pollo que es un sustituto habitual de la carne.",
+  "nativeRange": "Europa y el este de Norteamérica en sentido estricto; especies afines lo sustituyen en el oeste de Norteamérica y en otros lugares",
+  "biomes": [
+   "Bosque templado",
+   "Parques y árboles viejos",
+   "Bosque de ribera"
+  ],
+  "abilities": [
+   "Causa podredumbre parda cúbica del duramen en árboles vivos: digiere la celulosa y deja la lignina",
+   "Puede producir en un solo árbol ménsulas que suman más de 20 kg",
+   "No tiene láminas; libera las esporas por diminutos poros en la cara inferior, de color amarillo azufre"
+  ],
+  "edibleParts": [
+   "bordes externos tiernos de las ménsulas jóvenes (bien cocinados)"
+  ],
+  "edibilityNote": "Comestible popular, pero debe cocinarse bien. Una minoría de personas sufre vómitos, mareos o hinchazón de labios, incluso con setas cocinadas. Evite los ejemplares que crecen sobre tejo (Taxus), eucalipto, robinia o coníferas, que algunos recolectores señalan como más propensos a causar malestar. No existe un parecido mortal con forma de ménsula, pero la tóxica seta del olivo (Omphalotus), que tiene láminas y crece en grupos, a veces se confunde con él a distancia. Las ménsulas viejas son duras y agrias.",
+  "seed": {
+   "description": "Esporada blanca; esporas de elipsoides a ovoides, lisas, de unos 5–7 × 3,5–5 µm",
+   "dispersal": "Basidiosporas transportadas por el viento; también se propaga mediante clamidosporas asexuales de pared gruesa"
+  },
+  "lore": "Los forestales alemanes lo llaman 'Schwefelporling' (políporo de azufre). Es temido en los huertos antiguos porque su podredumbre parda deja los troncos huecos y quebradizos.",
+  "funFact": "El duramen podrido que deja este hongo se rompe en cubos regulares, el signo clásico de la podredumbre parda."
+ },
+ {
+  "scientific": "Coprinus comatus",
+  "common": "Barbuda (coprino melenudo)",
+  "summary": "Un cilindro blanco, alto y desgreñado, que brota en céspedes y cunetas, a veces incluso a través del asfalto. Pocas horas después de recogerlo se autodigiere de abajo arriba hasta convertirse en tinta negra. También se ha descubierto que atrapa y digiere gusanos nematodos.",
+  "nativeRange": "Cosmopolita en regiones templadas; Europa, Asia, Norteamérica, e introducido en otros lugares",
+  "biomes": [
+   "Pradera",
+   "Céspedes",
+   "Cunetas",
+   "Terrenos alterados"
+  ],
+  "abilities": [
+   "Autodigiere (delicuesce) sus láminas en una tinta negra cargada de esporas a medida que estas maduran",
+   "Inmoviliza y digiere nematodos mediante estructuras celulares espinosas y una toxina (descrito por primera vez en 2004)",
+   "Puede atravesar suelo duro y asfalto fino por la presión de su crecimiento",
+   "Acumula metales pesados y arsénico de los suelos contaminados"
+  ],
+  "edibleParts": [
+   "sombreros jóvenes y blancos (cocinados poco después de recogerlos)"
+  ],
+  "edibilityNote": "Buen comestible cuando es joven y blanco, cocinado en las pocas horas siguientes a su recogida. Parecidos: el coprino entintado (Coprinopsis atramentaria), que contiene coprina y causa una reacción grave con el alcohol (enrojecimiento, palpitaciones, vómitos) si se bebe alcohol con la comida o hasta unos tres días después; y las especies blancas de Amanita y Lepiota, que tienen láminas blancas, volva o anillo y esporada blanca. Las láminas de la barbuda se vuelven rosadas y luego negras, y su esporada es negra. Evite recogerla en cunetas o terrenos contaminados.",
+  "seed": {
+   "description": "Esporada negra; esporas elipsoides, lisas, con poro germinativo, de unos 10–15 × 6–8,5 µm",
+   "dispersal": "Basidiosporas transportadas por el viento, liberadas a medida que las láminas se licúan desde el borde del sombrero hacia arriba"
+  },
+  "grow": {
+   "climates": [
+    "Templado"
+   ],
+   "sun": "Semisombra",
+   "water": "Mantener húmedo",
+   "soil": "Estiércol compostado, compost a base de paja o tierra rica de césped",
+   "propagation": "Micelio en grano mezclado con el compost",
+   "timeToHarvest": "Unas 4–8 semanas después de la cobertura",
+   "steps": [
+    "Mezcle el micelio con estiércol compostado pasteurizado o compost de paja en una bandeja o bancal exterior",
+    "Incube a unos 22–26 °C hasta la colonización",
+    "Cubra con una capa de “cobertura” de 2–3 cm de tierra húmeda",
+    "Fructifique a 15–20 °C con humedad alta; coseche mientras los sombreros estén cerrados y blancos"
+   ]
+  },
+  "lore": "Los coprinos (este y el coprino entintado) se cocían antiguamente para obtener tinta de escribir y dibujar, como sugiere su nombre en inglés (ink cap, “sombrero de tinta”). Su cultivo comercial en China como 'ji tui gu' se extendió a partir de la década de 1980.",
+  "funFact": "La autodigestión tiene un propósito: las láminas se licúan desde el borde inferior hacia arriba para que cada nueva capa de esporas que queda al descubierto pueda caer libremente."
+ },
+ {
+  "scientific": "Auricularia auricula-judae",
+  "common": "Oreja de Judas (oreja de madera)",
+  "summary": "Un hongo gelatinoso pardo, gomoso y en forma de oreja, que en Europa crece sobre todo en saúcos. Al secarse se endurece y revive al ponerlo en remojo. Las orejas de madera asiáticas, muy próximas (A. heimuer, A. cornea), están entre las setas más consumidas del planeta.",
+  "nativeRange": "Europa, sobre saúco (Sambucus) y otras frondosas; el 'mu'er' de Asia oriental se considera hoy A. heimuer",
+  "biomes": [
+   "Bosque templado",
+   "Setos",
+   "Matorral"
+  ],
+  "abilities": [
+   "Sobrevive a la desecación completa y revive en minutos con la lluvia",
+   "Descompone ramas muertas, sobre todo de saúco",
+   "Contiene compuestos que inhiben la agregación de las plaquetas"
+  ],
+  "edibleParts": [
+   "todo el cuerpo fructífero (rehidratado brevemente y cocinado)"
+  ],
+  "edibilityNote": "Comestible y muy consumida cocinada, pero ponga en remojo la oreja de madera seca solo unas horas, en el frigorífico. La oreja de madera remojada durante días a temperatura ambiente ha causado intoxicaciones mortales por ácido bongkrékico debidas a contaminación bacteriana (Burkholderia gladioli), con muertes registradas en China. Fluidifica ligeramente la sangre. No tiene parecidos mortales; otros hongos gelatinosos como la mantequilla de bruja y Exidia no son peligrosos.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Medicina tradicional china",
+     "use": "El mu'er se toma para “mover la sangre” y nutrir los pulmones y el estómago"
+    },
+    {
+     "tradition": "Medicina popular europea",
+     "use": "Hervida en leche para el dolor de garganta; usada en cataplasmas para los ojos (recogido en herbarios de la Edad Moderna)"
+    }
+   ],
+   "cautions": "Puede aumentar el sangrado con anticoagulantes o antiagregantes plaquetarios, y antes de una cirugía. Riesgo de intoxicación por ácido bongkrékico con setas remojadas en exceso."
+  },
+  "seed": {
+   "description": "Esporada blanca; esporas en forma de salchicha (alantoides), lisas, de unos 15–23 × 4–8 µm",
+   "dispersal": "Basidiosporas transportadas por el viento desde la superficie interna lisa"
+  },
+  "grow": {
+   "climates": [
+    "Templado",
+    "Subtropical"
+   ],
+   "sun": "Sombra en exterior; luz indirecta en interior",
+   "water": "Humedad alta; tolera secarse entre lluvias",
+   "soil": "Troncos de frondosas (saúco, roble, haya) o bolsas de serrín enriquecido",
+   "propagation": "Micelio en tacos o en serrín",
+   "timeToHarvest": "Bolsas de serrín: unos 2 meses; troncos: 6–12 meses",
+   "steps": [
+    "Inocule troncos frescos de frondosas con tacos de micelio, o bolsas de serrín esterilizado con micelio",
+    "Incube a unos 22–28 °C hasta la colonización",
+    "Haga cortes en las bolsas (o riegue los troncos) y mantenga la humedad alta a unos 18–28 °C",
+    "Recoja las orejas cuando estén totalmente extendidas y séquelas para conservarlas"
+   ]
+  },
+  "lore": "Su nombre procede de la leyenda medieval según la cual Judas Iscariote se ahorcó en un saúco, del que después brotaron estas orejas. En inglés, 'Judas's ear' se deformó en 'Jew's ear'. Textos chinos describen el cultivo del mu'er sobre troncos al menos desde la dinastía Tang (siglo VII d. C.).",
+  "funFact": "La oreja de madera seca puede multiplicar varias veces su tamaño en una hora de remojo."
+ },
+ {
+  "scientific": "Cortinarius rubellus",
+  "common": "Cortinario de montaña (cortinario mortal)",
+  "summary": "Una modesta seta pardo anaranjada de turberas de coníferas y bosques musgosos. Contiene orellanina, que destruye los riñones días o incluso semanas después de la comida, cuando quizá ya no se sospecha la causa.",
+  "nativeRange": "Norte de Europa (sobre todo Escandinavia y Escocia) y partes de Norteamérica y Asia, con coníferas",
+  "biomes": [
+   "Bosque boreal",
+   "Bosque de coníferas",
+   "Turbera de esfagno"
+  ],
+  "abilities": [
+   "Contiene orellanina, una toxina bipiridínica que se acumula en los riñones y causa insuficiencia renal",
+   "La orellanina emite un brillo blanco azulado bajo luz ultravioleta, lo que ayuda a la identificación forense",
+   "Forma ectomicorrizas con piceas y pinos",
+   "Su velo en forma de telaraña (cortina) deja hilos color óxido en el pie"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "Mortal. Los síntomas empiezan entre 2 y 20 días después de comerlo, primero con sed, náuseas y dolor lumbar, seguidos de insuficiencia renal. Muchos supervivientes necesitan diálisis de por vida o un trasplante de riñón. La cocción no destruye la orellanina. Hay víctimas que lo confundieron con boletos (Boletus edulis, que tiene poros, no láminas), con rebozuelos (Cantharellus, con pliegues romos y esporada pálida) y con Psilocybe alucinógenos. Los cortinarios tienen la esporada pardo herrumbre y láminas verdaderas.",
+  "seed": {
+   "description": "Esporada pardo herrumbre; esporas de anchamente elipsoides a subglobosas, verrugosas, de unos 9–12 × 6,5–8,5 µm",
+   "dispersal": "Basidiosporas transportadas por el viento"
+  },
+  "lore": "En 2008, Nicholas Evans, autor de 'El hombre que susurraba a los caballos', y tres familiares se intoxicaron en Escocia tras confundir cortinarios mortales con boletos. Tres de ellos sufrieron insuficiencia renal, y Evans recibió en 2011 un riñón de su hija. El peligro de la orellanina salió a la luz tras una intoxicación masiva en 1952 por el afín Cortinarius orellanus en Konin (Polonia), que afectó a 102 personas y mató a 11; Stanisław Grzymala aisló la toxina en 1962.",
+  "funFact": "La estructura química de la orellanina no se determinó hasta 1979, casi tres décadas después de que la intoxicación de Konin revelara el peligro."
+ },
+ {
+  "scientific": "Gyromitra esculenta",
+  "common": "Falsa colmenilla (bonete, giromitra)",
+  "summary": "Una seta primaveral pardo rojiza, con aspecto de cerebro, de los bosques arenosos de coníferas. Contiene giromitrina, que el organismo convierte en monometilhidrazina, un componente del combustible de cohetes. Pese a ello, Finlandia la vende como manjar tradicional con advertencias obligatorias e instrucciones de sancochado.",
+  "nativeRange": "Europa y Norteamérica, sobre todo en bosques de coníferas sobre suelo arenoso",
+  "biomes": [
+   "Bosque boreal",
+   "Bosque de coníferas",
+   "Talas rasas y suelos arenosos alterados"
+  ],
+  "abilities": [
+   "Contiene giromitrina, que se descompone en la toxina monometilhidrazina (MMH)",
+   "Los vapores de la cocción pueden intoxicar a quien cocina",
+   "Fructifica a principios de la primavera, al mismo tiempo que las colmenillas verdaderas",
+   "La MMH es cancerígena en estudios con animales, incluso en dosis pequeñas repetidas"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "Mortal cruda y peligrosa incluso preparada. La giromitrina causa vómitos y diarrea, y después daño hepático, convulsiones y la muerte. La práctica finlandesa de hervirla dos veces en agua limpia con buena ventilación reduce la toxina, pero no la elimina de forma fiable, y persisten los riesgos acumulativos y cancerígenos. No la coma. Se confunde a menudo con las colmenillas verdaderas (Morchella), que tienen un panal regular de alvéolos y son huecas por completo; la falsa colmenilla tiene el sombrero arrugado, como un cerebro, y el interior tabicado o relleno de algodón.",
+  "seed": {
+   "description": "Ascosporas (no semillas) elipsoides, lisas, con dos gotas de aceite, de unos 17–22 × 7–10 µm, 8 por asca; esporada blanquecina",
+   "dispersal": "Ascosporas expulsadas con fuerza desde la superficie del sombrero"
+  },
+  "lore": "En Finlandia, la korvasieni se vende fresca con etiquetas de advertencia e instrucciones para sancocharla. También se ha consumido en partes de Suecia, los Pirineos y Míchigan. Muchos otros países europeos prohíben su venta.",
+  "funFact": "La monometilhidrazina, su producto de descomposición, se usaba como combustible en los propulsores de maniobra del transbordador espacial."
+ },
+ {
+  "scientific": "Xanthoria parietina",
+  "common": "Liquen amarillo de los muros (xantoria)",
+  "summary": "Rosetas de un amarillo anaranjado vivo sobre muros, tejados y cortezas, desde la costa hasta la ciudad. Es una asociación de un hongo y un alga verde (Trebouxia), coloreada por la parietina, un pigmento que actúa como protector solar. Prospera donde la contaminación por nitrógeno mata a líquenes más sensibles.",
+  "nativeRange": "Europa, norte de África, Asia occidental; introducido o en expansión en Norteamérica, Australia y Nueva Zelanda",
+  "biomes": [
+   "Rocas costeras",
+   "Muros urbanos",
+   "Árboles de zonas agrícolas",
+   "Bosque templado"
+  ],
+  "abilities": [
+   "Simbiosis del hongo con el alga verde Trebouxia",
+   "Fabrica parietina, una antraquinona anaranjada que protege a sus algas de la luz ultravioleta; a la sombra se vuelve verde grisáceo",
+   "Tolera e incluso prefiere el aire rico en nitrógeno (amoniaco de granjas y excrementos de aves), por lo que es un indicador de contaminación",
+   "Puede sobrevivir meses de sequía y revivir en minutos con la lluvia"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "No se consume.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Herboristería europea de la Edad Moderna (doctrina de las signaturas)",
+     "use": "Su color amarillo llevó a usarlo contra la ictericia"
+    }
+   ],
+   "cautions": "No tiene valor medicinal demostrado. Los líquenes acumulan metales pesados del aire."
+  },
+  "seed": {
+   "description": "Ascosporas (no semillas) incoloras, bicelulares con una gruesa pared central (polariloculares), de unos 12–16 × 6–9 µm, procedentes de apotecios anaranjados en forma de copa",
+   "dispersal": "Las ascosporas disparadas desde los apotecios deben encontrar un alga compatible para formar un nuevo liquen; también se propaga por fragmentos"
+  },
+  "lore": "Siguiendo la doctrina de las signaturas, los herbolarios del siglo XVII recetaban este liquen amarillo para la ictericia. Desde entonces, los liquenólogos han usado su expansión sobre las ramitas para cartografiar la contaminación por amoniaco de origen agrícola.",
+  "funFact": "Una gota de hidróxido de potasio lo vuelve de un carmesí intenso, una prueba de campo estándar para los líquenes que contienen parietina."
+ },
+ {
+  "scientific": "Cladonia rangiferina",
+  "common": "Liquen de los renos (musgo de reno)",
+  "summary": "Un liquen gris pálido, finamente ramificado, que tapiza enormes extensiones de tundra y del suelo del bosque boreal. Es el principal alimento invernal de renos y caribúes, que lo huelen bajo la nieve. Crece solo unos milímetros al año, por lo que las alfombras sobrepastoreadas tardan décadas en recuperarse.",
+  "nativeRange": "Regiones árticas y boreales circumpolares; también altas montañas más al sur",
+  "biomes": [
+   "Tundra",
+   "Bosque boreal",
+   "Brezal"
+  ],
+  "abilities": [
+   "Puede constituir la mayor parte de la dieta invernal de renos y caribúes",
+   "Crece solo unos 3–5 mm al año",
+   "Produce atranorina y ácido fumarprotocetrárico; sus ácidos liquénicos lo hacen difícil de digerir para la mayoría de los animales",
+   "Sobrevive a la congelación y la desecación, y revive al humedecerse"
+  ],
+  "edibleParts": [
+   "talo entero (tras lixiviarlo y hervirlo)"
+  ],
+  "edibilityNote": "Alimento de hambruna para las personas, que solo se come tras remojarlo en agua o en lejía de ceniza de madera y hervirlo para eliminar los ácidos liquénicos amargos. El liquen crudo causa trastornos estomacales. Los líquenes acumulan lluvia radiactiva y metales pesados; los pastores de renos de Escandinavia se vieron afectados en 1986 por el cesio de Chernóbil a través del liquen.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Pueblos indígenas árticos y subárticos (p. ej., cree, dene)",
+     "use": "Decocciones tomadas para resfriados, fiebres y dolores articulares"
+    },
+    {
+     "tradition": "Medicina popular escandinava",
+     "use": "Hervido para la tos y la diarrea"
+    }
+   ],
+   "cautions": "Los ácidos liquénicos irritan el intestino cuando el liquen está crudo. Los líquenes concentran metales pesados y radionúclidos."
+  },
+  "seed": {
+   "description": "Se reproduce sobre todo por fragmentos; rara vez produce apotecios pardos con ascosporas incoloras y unicelulares",
+   "dispersal": "Fragmentos desprendidos por el pisoteo de los animales, el viento y el agua"
+  },
+  "lore": "El pastoreo de renos de los sami ha seguido los pastos de liquen durante siglos. Los pueblos indígenas árticos comían el liquen semidigerido del estómago de los caribúes. Tras Chernóbil, en 1986, el cesio radiactivo de los renos alimentados con liquen obligó a Suecia y Noruega a sacrificar rebaños.",
+  "funFact": "Pese al nombre de “musgo de reno”, no es un musgo, sino un hongo asociado a algas verdes."
+ },
+ {
+  "scientific": "Physarum polycephalum",
+  "common": "Physarum polycephalum (moho mucilaginoso, “el blob”)",
+  "summary": "Una única célula de un amarillo brillante, sin cerebro, que puede extenderse por un metro cuadrado con millones de núcleos. Encuentra el camino más corto en un laberinto y, en un experimento de 2010, reconstruyó algo muy parecido a la red ferroviaria de Tokio. Es un amebozoo, no un hongo.",
+  "nativeRange": "Cosmopolita en bosques templados frescos y húmedos",
+  "biomes": [
+   "Bosque templado",
+   "Madera en descomposición",
+   "Hojarasca"
+  ],
+  "abilities": [
+   "Resuelve laberintos y encuentra la ruta más corta entre dos fuentes de alimento (Nakagaki et al., Nature 2000)",
+   "Construyó redes de transporte que unían copos de avena colocados como las ciudades del área de Tokio y que igualaban en eficiencia al sistema ferroviario real (Tero et al., Science 2010)",
+   "Aprende a cruzar sustancias amargas que antes evitaba, y puede transmitir esta habituación a otra célula fusionándose con ella",
+   "Su célula gigante (plasmodio) bombea el citoplasma de un lado a otro aproximadamente cada 1–2 minutos",
+   "Tiene más de 700 tipos sexuales"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "No se consume.",
+  "seed": {
+   "description": "Esporas (no semillas) pardo negruzcas, globosas, espinosas, de unos 9–11 µm, procedentes de esporangios pedunculados que se forman cuando se acaba el alimento",
+   "dispersal": "Esporas transportadas por el viento; también puede sobrevivir a la sequía como un esclerocio seco y duro"
+  },
+  "grow": {
+   "climates": [
+    "Cualquiera (en interior)"
+   ],
+   "sun": "Oscuridad (la luz desencadena la esporulación)",
+   "water": "Húmedo, no encharcado",
+   "soil": "Papel de cocina húmedo o agar en una placa de Petri",
+   "propagation": "Un trozo de esclerocio seco o de plasmodio vivo",
+   "timeToHarvest": "Se extiende de forma visible en un día",
+   "steps": [
+    "Coloque un esclerocio seco sobre papel de cocina húmedo o agar al 2 % en una placa tapada",
+    "Manténgalo a oscuras a unos 20–25 °C",
+    "Aliméntelo con unos copos de avena cada uno o dos días; retire la avena enmohecida",
+    "Para hacer un laberinto, coloque avena en los extremos y observe cómo encuentra la ruta"
+   ]
+  },
+  "lore": "El emperador japonés Hirohito fue investigador aficionado de mohos mucilaginosos, como el naturalista Minakata Kumagusu. El Parque Zoológico de París expuso 'le blob' en 2019, y el astronauta francés Thomas Pesquet lo llevó a la Estación Espacial Internacional en 2021.",
+  "funFact": "Investigadores de la Universidad de Hokkaido ganaron un Premio Ig Nobel en 2008 y otro en 2010 por demostrar que los mohos mucilaginosos pueden resolver acertijos."
+ }
+]

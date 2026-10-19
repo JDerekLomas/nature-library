@@ -2,6 +2,8 @@
 
 import { useEffect, useRef, useState } from "react";
 import { useRouter } from "next/navigation";
+import { useLang, useT } from "@/i18n/LangProvider";
+import { lp } from "@/i18n/config";
 
 interface Hit {
   id: number;
@@ -14,6 +16,8 @@ interface Hit {
 
 export default function SearchBox({ autoFocus = false, big = false }: { autoFocus?: boolean; big?: boolean }) {
   const router = useRouter();
+  const lang = useLang();
+  const t = useT().common.search;
   const [q, setQ] = useState("");
   const [hits, setHits] = useState<Hit[]>([]);
   const [open, setOpen] = useState(false);
@@ -27,7 +31,7 @@ export default function SearchBox({ autoFocus = false, big = false }: { autoFocu
     }
     const ctl = new AbortController();
     const t = setTimeout(() => {
-      fetch(`https://api.inaturalist.org/v1/taxa/autocomplete?q=${encodeURIComponent(q)}&per_page=8&locale=en`, { signal: ctl.signal })
+      fetch(`https://api.inaturalist.org/v1/taxa/autocomplete?q=${encodeURIComponent(q)}&per_page=8&locale=${lang}`, { signal: ctl.signal })
         .then((r) => r.json())
         .then((j) => {
           setHits(j.results || []);
@@ -40,7 +44,7 @@ export default function SearchBox({ autoFocus = false, big = false }: { autoFocu
       clearTimeout(t);
       ctl.abort();
     };
-  }, [q]);
+  }, [q, lang]);
 
   useEffect(() => {
     const close = (e: MouseEvent) => {
@@ -52,8 +56,8 @@ export default function SearchBox({ autoFocus = false, big = false }: { autoFocu
 
   const go = (h?: Hit) => {
     setOpen(false);
-    if (h) router.push(`/taxon/${h.id}`);
-    else if (q.trim()) router.push(`/search?q=${encodeURIComponent(q.trim())}`);
+    if (h) router.push(lp(lang, `/taxon/${h.id}`));
+    else if (q.trim()) router.push(lp(lang, `/search?q=${encodeURIComponent(q.trim())}`));
   };
 
   return (
@@ -83,9 +87,9 @@ export default function SearchBox({ autoFocus = false, big = false }: { autoFocu
               setActive((a) => Math.max(-1, a - 1));
             } else if (e.key === "Escape") setOpen(false);
           }}
-          placeholder={big ? "Look up any living thing — “neem”, “Quercus”, “axolotl”…" : "Look up any living thing"}
+          placeholder={big ? t.placeholderBig : t.placeholder}
           className={`w-full bg-transparent outline-none px-2 placeholder:text-ink-2/60 ${big ? "text-xl font-display" : "text-sm"}`}
-          aria-label="Search species"
+          aria-label={t.aria}
         />
       </form>
       {open && hits.length > 0 && (
@@ -115,7 +119,7 @@ export default function SearchBox({ autoFocus = false, big = false }: { autoFocu
           ))}
           <li>
             <button onClick={() => go()} className="w-full text-left px-3 py-2 label text-moss hover:bg-paper-2">
-              All results for “{q}” →
+              {t.allResults(q)}
             </button>
           </li>
         </ul>

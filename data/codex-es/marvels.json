@@ -1,0 +1,2936 @@
+[
+ {
+  "scientific": "Sequoiadendron giganteum",
+  "common": "Secuoya gigante",
+  "summary": "El árbol de tronco único más voluminoso de la Tierra. El General Sherman, en el Parque Nacional de las Secuoyas, contiene unos 1487 metros cúbicos de madera, y las secuoyas más viejas datadas por sus anillos superaron los 3000 años. Su corteza, de hasta unos 90 cm de grosor en la base y casi sin resina, le permite resistir los fuegos bajos de los que dependen sus piñas.",
+  "nativeRange": "Unas 70 arboledas dispersas en la vertiente occidental de Sierra Nevada (California), entre 1400 y 2000 m",
+  "biomes": [
+   "Bosque montano mixto de coníferas"
+  ],
+  "abilities": [
+   "Desarrolla una corteza fibrosa, rica en taninos, de hasta unos 90 cm de grosor, que aísla el cámbium de los incendios de superficie",
+   "Mantiene las piñas cerradas y verdes en el árbol hasta 20 años; el calor del fuego, las ardillas de Douglas y un escarabajo perforador de piñas liberan las semillas",
+   "Las plántulas necesitan suelo mineral desnudo y cielo abierto, condiciones que crea el fuego de baja intensidad",
+   "Alcanza el mayor volumen de tronco de cualquier árbol: el General Sherman mide unos 83,8 m de alto y 11 m de diámetro en la base"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "No se come ninguna parte. No se conoce que sea significativamente tóxica.",
+  "fruit": {
+   "type": "Piña leñosa",
+   "season": "Madura a lo largo de dos temporadas; puede permanecer verde durante muchos años",
+   "description": "Piñas del tamaño de un huevo, de 4–7 cm de largo, con unas 200 semillas cada una."
+  },
+  "seed": {
+   "description": "Semillas planas, aladas, de color pajizo",
+   "size": "~4–5 mm (con ala)",
+   "dispersal": "Viento, después de que el fuego seque las piñas o de que ardillas y escarabajos las abran royéndolas",
+   "germination": "Estratificar en frío 4–8 semanas; sembrar en superficie sobre suelo mineral desnudo y húmedo"
+  },
+  "grow": {
+   "zones": "USDA 6–9",
+   "climates": [
+    "Templado",
+    "Mediterráneo",
+    "Montano"
+   ],
+   "sun": "Pleno sol",
+   "water": "Moderado; riegos profundos mientras es joven",
+   "soil": "Franco profundo, bien drenado y ligeramente ácido",
+   "propagation": "Semilla (estratificada); los esquejes son difíciles",
+   "timeToHarvest": "Ornamental; las piñas aparecen hacia los 10–20 años",
+   "steps": [
+    "Estratificar la semilla en arena húmeda en el frigorífico durante 4–8 semanas",
+    "Sembrar en superficie en un sustrato muy drenante y mantenerlo uniformemente húmedo y luminoso",
+    "Trasplantar a una maceta mayor cada año y plantar en tierra a los 1–3 años donde tenga sitio para volverse enorme",
+    "Evitar plantarla cerca de edificios: las raíces se extienden mucho y la copa llega a ser descomunal"
+   ]
+  },
+  "lore": "En la década de 1850 se descortezaron ejemplares y se enviaron al este para exhibirlos, y la indignación por la tala del 'Árbol del Descubrimiento' contribuyó a que Lincoln firmara en 1864 la Concesión de Yosemite, uno de los primeros actos de protección de espacios naturales en Estados Unidos. Los incendios de 2020–2021 mataron a entre un 13 y un 19 % estimado de todas las secuoyas grandes.",
+  "funFact": "Pese a su fama de ignífuga, solo el incendio Castle de 2020 mató a unas 7500–10 600 secuoyas grandes, alrededor de una décima parte de la población adulta mundial."
+ },
+ {
+  "scientific": "Sequoia sempervirens",
+  "common": "Secuoya roja (secuoya costera)",
+  "summary": "El ser vivo más alto que se conoce. Hyperion, hallado en el Parque Nacional Redwood en 2006, medía unos 116 m, más que un edificio de 35 plantas. Las secuoyas rojas beben niebla a través de las hojas, rebrotan nuevos troncos a partir de sus lignotubérculos y albergan jardines colgantes enteros en sus copas.",
+  "nativeRange": "Una estrecha franja de niebla a lo largo de la costa del Pacífico, desde el suroeste de Oregón hasta Big Sur (California)",
+  "biomes": [
+   "Bosque lluvioso templado",
+   "Bosque costero de niebla"
+  ],
+  "abilities": [
+   "Absorbe el agua de la niebla directamente a través del follaje, algo importante en los veranos sin lluvia de California",
+   "Rebrota a partir de lignotubérculos basales y del cuello de la raíz tras un incendio o una tala, formando 'corros de hadas' de clones",
+   "Forma suelos en el dosel que sostienen helechos, arándanos e incluso otros árboles a gran altura sobre el suelo",
+   "Tiene un genoma hexaploide, con seis juegos de cromosomas, algo poco común entre las coníferas"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "No se come. No se considera significativamente tóxica.",
+  "fruit": {
+   "type": "Pequeña piña leñosa",
+   "season": "Madura en otoño",
+   "description": "Piñas del tamaño de una aceituna, de 1,5–3 cm de largo, que liberan semillas diminutas."
+  },
+  "seed": {
+   "description": "Semillas pardas diminutas con dos alas, en su mayoría de baja viabilidad",
+   "size": "~3–4 mm",
+   "dispersal": "Viento; la mayor parte de la regeneración es por rebrote clonal",
+   "germination": "No necesita tratamiento previo; sembrar en sustrato húmedo; la germinación suele ser inferior al 10 %"
+  },
+  "grow": {
+   "zones": "USDA 7–9",
+   "climates": [
+    "Templado",
+    "Oceánico",
+    "Mediterráneo"
+   ],
+   "sun": "Pleno sol a semisombra",
+   "water": "Alto; humedad ambiental y humedad en verano",
+   "soil": "Franco profundo, húmedo y bien drenado",
+   "propagation": "Semilla, esquejes o brotes de lignotubérculo",
+   "timeToHarvest": "Ornamental o maderable; piñas a partir de los 5–15 años",
+   "steps": [
+    "Sembrar semilla fresca en primavera sobre sustrato húmedo y estéril (cuente con una germinación baja)",
+    "Mantener las plántulas en ambiente húmedo y protegidas del viento secante",
+    "Plantar en suelo profundo y regar durante los veranos secos de los primeros años",
+    "Dele espacio: en buenas condiciones puede crecer 1 m o más al año"
+   ]
+  },
+  "lore": "La tala de bosque primario tras la fiebre del oro de 1849 eliminó alrededor del 95 % del bosque original de secuoya roja; la Save the Redwoods League, fundada en 1918, empezó a recomprar arboledas. Los yurok y los tolowa usaban secuoyas caídas para construir casas de tablones y canoas monóxilas.",
+  "funFact": "La ubicación exacta de Hyperion se mantiene en secreto y, desde 2022, quien salga del sendero para buscarlo se arriesga a una multa de hasta 5000 dólares y hasta seis meses de cárcel."
+ },
+ {
+  "scientific": "Pinus longaeva",
+  "common": "Pino longevo de la Gran Cuenca",
+  "summary": "Uno de los organismos individuales no clonales más viejos de la Tierra. El árbol llamado Matusalén, en las White Mountains de California, germinó hace más de 4800 años, antes de que se terminara la Gran Pirámide. Estos pinos sobreviven creciendo con una lentitud extrema y dejando morir la mayor parte de su corteza.",
+  "nativeRange": "Altas montañas del este de California, Nevada y Utah, sobre todo entre 2600 y 3500 m",
+  "biomes": [
+   "Bosque subalpino",
+   "Montañas de desierto frío"
+  ],
+  "abilities": [
+   "Vive más de 4800 años sobre dolomía seca y alcalina donde crecen pocos competidores",
+   "Practica una 'arquitectura sectorizada': cuando mueren unas raíces, solo muere la franja de corteza correspondiente, de modo que el árbol sobrevive sobre una estrecha cinta viva",
+   "Produce una madera densa y resinosa que resiste la pudrición, los insectos y los hongos, por lo que la madera muerta puede permanecer en el suelo miles de años",
+   "Conserva las acículas hasta 40 años o más, ahorrando energía en terreno seco"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "Sus piñones son pequeños y no son un alimento tradicional; no se considera tóxico.",
+  "fruit": {
+   "type": "Piña leñosa",
+   "season": "Madura en el segundo otoño",
+   "description": "Piñas de color púrpura oscuro, de 6–10 cm de largo, con una frágil cerda en cada escama."
+  },
+  "seed": {
+   "description": "Semillas pequeñas con un ala desprendible",
+   "size": "~5 mm (ala ~12 mm)",
+   "dispersal": "Viento, y almacenamiento en escondites por los cascanueces americanos",
+   "germination": "Estratificar en frío ~60 días; sembrar en una mezcla mineral arenosa y gruesa"
+  },
+  "grow": {
+   "zones": "USDA 4–7",
+   "climates": [
+    "Montano",
+    "Continental",
+    "Árido"
+   ],
+   "sun": "Pleno sol",
+   "water": "Bajo",
+   "soil": "Pobre, pedregoso y con drenaje muy rápido",
+   "propagation": "Semilla",
+   "timeToHarvest": "Ornamental; extremadamente lento",
+   "steps": [
+    "Estratificar la semilla en frío unos dos meses",
+    "Sembrar en una mezcla gruesa y pobre en nutrientes",
+    "Cultivar a pleno sol con un mínimo de abono",
+    "Plantar en terreno pobre y bien drenado; el suelo rico y las raíces encharcadas lo matan"
+   ]
+  },
+  "lore": "Los recuentos de anillos de Edmund Schulman en la década de 1950 revelaron la edad de estos árboles, y las cronologías de este pino, que se remontan más de 8000 años, sirvieron para calibrar la datación por radiocarbono. En 1964 un investigador taló, con permiso del Servicio Forestal, el árbol que después se llamaría Prometeo, de unos 4900 años.",
+  "funFact": "Como la anchura de sus anillos registra el clima del pasado, estos pinos ayudaron a demostrar que las primeras dataciones por radiocarbono se desviaban siglos."
+ },
+ {
+  "scientific": "Ficus benghalensis",
+  "common": "Baniano (higuera de Bengala)",
+  "summary": "Un árbol que se convierte en bosque. El baniano deja caer desde sus ramas raíces aéreas que engrosan hasta formar nuevos troncos, de modo que un solo individuo puede extenderse por más de una hectárea. Árbol nacional de la India, ha dado sombra a consejos de aldea, mercados y maestros durante milenios.",
+  "nativeRange": "Subcontinente indio; plantado en todos los trópicos",
+  "biomes": [
+   "Bosque tropical seco",
+   "Bosque tropical húmedo",
+   "Aldeas y templos"
+  ],
+  "abilities": [
+   "Convierte las raíces aéreas colgantes en troncos-pilar, lo que permite a un solo árbol expandirse indefinidamente",
+   "A menudo empieza su vida como epífita a partir de una semilla depositada por un ave, y luego estrangula y reemplaza a su hospedador",
+   "El Thimmamma Marrimanu, en Andhra Pradesh, cubre unas 1,9 hectáreas a partir de un solo árbol",
+   "En muchos lugares fructifica todo el año, alimentando a aves, murciélagos y monos cuando hay poca fruta más",
+   "Depende de una sola especie de avispa de los higos, Eupristina masoni, para la polinización"
+  ],
+  "edibleParts": [
+   "higos maduros (alimento de hambruna y de aldea)"
+  ],
+  "edibilityNote": "Los higos maduros son comestibles pero insípidos y a menudo contienen avispas de los higos. El látex lechoso irrita la piel y los ojos.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Ayurveda",
+     "use": "La corteza y las raíces aéreas (vata) se usan como astringentes para la diarrea y en preparados para la diabetes"
+    },
+    {
+     "tradition": "Unani",
+     "use": "El látex se aplica en talones agrietados, llagas y dolor de muelas"
+    }
+   ],
+   "cautions": "El látex irrita la piel y los ojos y puede causar alergia en personas sensibles a Ficus o al látex."
+  },
+  "fruit": {
+   "type": "Sicono (higo)",
+   "season": "Gran parte del año",
+   "description": "Higos en pares, del tamaño de una cereza, que maduran a escarlata, situados en las axilas de las hojas."
+  },
+  "seed": {
+   "description": "Aquenios diminutos dentro del higo",
+   "size": "~1 mm",
+   "dispersal": "Aves, murciélagos y monos; las semillas suelen germinar en copas de árboles o en muros",
+   "germination": "Sembrar en superficie sobre sustrato húmedo, con calor y luz; 2–4 semanas"
+  },
+  "grow": {
+   "zones": "Tropical only (USDA 10–12)",
+   "climates": [
+    "Tropical",
+    "Subtropical"
+   ],
+   "sun": "Pleno sol",
+   "water": "Moderado",
+   "soil": "La mayoría de suelos bien drenados",
+   "propagation": "Esquejes o acodo aéreo; semilla",
+   "timeToHarvest": "Árbol de sombra en 10–15 años",
+   "steps": [
+    "Enraizar un esqueje semileñoso o hacer un acodo aéreo de una rama en condiciones cálidas y húmedas",
+    "Plantar lejos de edificios, desagües y muros",
+    "Guiar las raíces aéreas jóvenes hasta el suelo (si hace falta, dentro de tubos con tierra) para que formen pilares",
+    "En interior puede mantenerse como planta de maceta o bonsái"
+   ]
+  },
+  "lore": "El baniano es el árbol del ayuno hindú de Vat Purnima, en el que las mujeres casadas atan hilos a su alrededor en recuerdo de Savitri, que recuperó de Yama la vida de su marido. La palabra inglesa 'banyan' procede de 'banias', los mercaderes hindúes que los comerciantes portugueses e ingleses veían negociar a su sombra.",
+  "funFact": "El Gran Baniano del jardín botánico de Howrah perdió su tronco principal por una pudrición fúngica en 1925 y, aun así, sigue en pie como un anillo de más de 3000 troncos de raíces aéreas."
+ },
+ {
+  "scientific": "Ficus religiosa",
+  "common": "Higuera sagrada (árbol Bodhi)",
+  "summary": "El árbol bajo el cual, según la tradición, Siddhartha Gautama alcanzó la iluminación en Bodh Gaya. Sus hojas acorazonadas terminan en una larga 'punta de goteo' que escurre la lluvia y tiemblan con la brisa más leve. Un esqueje plantado en Sri Lanka en el 288 a. C. sigue vivo.",
+  "nativeRange": "Subcontinente indio e Indochina; plantada en templos de toda Asia",
+  "biomes": [
+   "Bosque tropical seco",
+   "Templos y aldeas"
+  ],
+  "abilities": [
+   "Las hojas se estrechan en una larga punta de goteo que canaliza la lluvia fuera de la hoja",
+   "Germina en muros, templos y otros árboles, y separa la mampostería con sus raíces",
+   "La poliniza únicamente su propia avispa de los higos, Platyscapa quadraticeps",
+   "Vive muchos siglos; el Jaya Sri Maha Bodhi tiene una historia documentada de más de 2300 años"
+  ],
+  "edibleParts": [
+   "higos maduros",
+   "hojas y brotes tiernos (cocinados, alimento de hambruna)"
+  ],
+  "edibilityNote": "Los higos pequeños se comen, pero suelen contener avispas de los higos. El látex es irritante.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Ayurveda",
+     "use": "Decocción de corteza para problemas de piel, heridas y diarrea; el fruto, para el asma"
+    },
+    {
+     "tradition": "Unani",
+     "use": "Corteza y látex para la inflamación y los problemas de encías"
+    }
+   ],
+   "cautions": "El látex puede irritar la piel y los ojos y causar alergia."
+  },
+  "fruit": {
+   "type": "Sicono (higo)",
+   "season": "De principios a mediados del verano en la India",
+   "description": "Higos en pares, del tamaño de un guisante, que maduran a púrpura oscuro."
+  },
+  "seed": {
+   "description": "Aquenios minúsculos dentro del higo",
+   "size": "~1 mm",
+   "dispersal": "Aves y murciélagos",
+   "germination": "Sembrar en superficie sobre sustrato húmedo, con calor y luz"
+  },
+  "grow": {
+   "zones": "Tropical only (USDA 10–12)",
+   "climates": [
+    "Tropical",
+    "Subtropical"
+   ],
+   "sun": "Pleno sol",
+   "water": "Moderado",
+   "soil": "Bien drenado; tolerante",
+   "propagation": "Esquejes, acodo aéreo o semilla",
+   "timeToHarvest": "Árbol de sombra en 10–15 años",
+   "steps": [
+    "Enraizar un esqueje o hacer un acodo aéreo en condiciones cálidas y húmedas",
+    "Trasplantar a una maceta con sustrato muy drenante y mucha luz",
+    "Plantar lejos de muros y cimientos, que sus raíces agrietan",
+    "En climas frescos, cultivar como planta de interior grande o como bonsái"
+   ]
+  },
+  "lore": "Se dice que Sanghamitta, hija del emperador Ashoka, llevó un esqueje del árbol de Bodh Gaya a Anuradhapura, donde el rey Devanampiya Tissa lo plantó en el 288 a. C.; a menudo se lo considera el árbol plantado por el ser humano más antiguo con fecha de plantación registrada. Los hindúes rodean el pipal y le atan hilos; es el ashvattha de la Bhagavad Gita (15.1), el árbol cósmico con las raíces arriba y las ramas abajo.",
+  "funFact": "Según la tradición, el árbol actual de Bodh Gaya desciende del de Sri Lanka, de modo que el árbol cingalés es, en la práctica, el 'progenitor' del sustituto de su propio antepasado."
+ },
+ {
+  "scientific": "Ginkgo biloba",
+  "common": "Ginkgo (árbol de los cuarenta escudos)",
+  "summary": "El último superviviente de un orden de árboles que se remonta a más de 290 millones de años, a menudo llamado fósil viviente. Sus hojas en abanico se parecen mucho a fósiles del Jurásico, y varios árboles cercanos al hipocentro de Hiroshima sobrevivieron al bombardeo de 1945 y siguen echando hojas cada primavera.",
+  "nativeRange": "Posibles poblaciones silvestres en Zhejiang y Guizhou/Chongqing (China); plantado en todo el mundo",
+  "biomes": [
+   "Bosque templado de frondosas",
+   "Templos y calles urbanas"
+  ],
+  "abilities": [
+   "Tiene espermatozoides móviles, nadadores, con miles de flagelos, descubiertos en 1896 por Sakugoro Hirase",
+   "Tolera la contaminación atmosférica, el suelo compactado y la sal de las carreteras, lo que lo convierte en un árbol de alineación muy apreciado",
+   "Tiene muy pocas plagas de insectos o enfermedades",
+   "Vive mucho más de 1000 años; se calcula que algunos árboles de templos chinos superan los 3000"
+  ],
+  "edibleParts": [
+   "almendras de las semillas cocinadas (bái guǒ / ginnan)"
+  ],
+  "edibilityNote": "Solo se come la almendra cocinada, y solo unas pocas cada vez. Las almendras contienen ginkgotoxina (4′-O-metilpiridoxina), que puede causar vómitos y convulsiones, sobre todo en niños que comen muchas; las almendras crudas son más peligrosas. La cubierta carnosa y maloliente de la semilla contiene ácidos ginkgólicos que causan una dermatitis similar a la de la hiedra venenosa, así que use guantes.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Medicina tradicional china",
+     "use": "Semillas para la tos, el asma y la micción frecuente"
+    },
+    {
+     "tradition": "Fitomedicina europea moderna",
+     "use": "Extracto de hoja estandarizado (p. ej., EGb 761) estudiado para la demencia, la memoria y la circulación"
+    }
+   ],
+   "cautions": "El extracto de hoja puede aumentar el riesgo de hemorragia con anticoagulantes o antiagregantes plaquetarios y antes de una cirugía. Las semillas pueden causar intoxicación y convulsiones; la cubierta de la semilla causa dermatitis de contacto."
+  },
+  "fruit": {
+   "type": "Semilla carnosa (no es un fruto verdadero)",
+   "season": "Otoño",
+   "description": "Semillas parecidas a albaricoques en los árboles femeninos, con una cubierta exterior amarilla que huele a mantequilla rancia (ácido butírico)."
+  },
+  "seed": {
+   "description": "Cáscara interior dura, de color crema, que envuelve una almendra verde, dentro de una cubierta exterior carnosa",
+   "size": "~2–3 cm",
+   "dispersal": "Cae al suelo; probablemente la transportaban antaño animales hoy extintos",
+   "germination": "Retirar la pulpa con guantes, estratificar en frío 1–3 meses y sembrar a 2–3 cm de profundidad"
+  },
+  "grow": {
+   "zones": "USDA 3–9",
+   "climates": [
+    "Templado",
+    "Continental",
+    "Subtropical"
+   ],
+   "sun": "Pleno sol",
+   "water": "Moderado",
+   "soil": "Adaptable; bien drenado",
+   "propagation": "Semilla, esquejes, injerto (clones masculinos para calles)",
+   "timeToHarvest": "Los árboles femeninos producen semilla a los 20–35 años",
+   "steps": [
+    "Limpiar la semilla con guantes y estratificarla en arena húmeda en el frigorífico",
+    "Sembrar en macetas hondas, porque forma una raíz pivotante larga",
+    "Cultivar a pleno sol; el crecimiento es lento los primeros años",
+    "Plantar clones masculinos injertados si no quiere las semillas malolientes"
+   ]
+  },
+  "lore": "Los monjes mantuvieron vivo el ginkgo durante siglos en jardines de templos de China, Corea y Japón; Engelbert Kaempfer lo describió para Europa tras visitar Japón en la década de 1690. Goethe envió una hoja prensada con su poema de 1815 'Ginkgo biloba', usando su hoja hendida como imagen de un ser que es a la vez dos.",
+  "funFact": "Durante mucho tiempo se atribuyó la extraña grafía 'Ginkgo' a una errata de Engelbert Kaempfer; investigaciones posteriores sugieren que refleja cómo pronunciaba 'ginkyō' su intérprete de Nagasaki."
+ },
+ {
+  "scientific": "Welwitschia mirabilis",
+  "common": "Welwitschia",
+  "summary": "Una planta que en toda su vida, que puede superar los mil años, produce solo dos hojas. Las hojas siguen creciendo desde la base como cintas transportadoras mientras las puntas se deshilachan con el viento del Namib. Es la única especie de su familia, un linaje de gimnospermas que se separó hace más de 100 millones de años.",
+  "nativeRange": "Desierto del Namib, en el oeste de Namibia y el suroeste de Angola",
+  "biomes": [
+   "Desierto costero de niebla"
+  ],
+  "abilities": [
+   "Produce solo dos hojas en forma de cinta, que se alargan continuamente desde un meristemo basal durante toda su vida",
+   "La datación por radiocarbono estima que las plantas grandes tienen 1000–2000 años",
+   "Sobrevive donde puede pasar años sin llover, gracias a la niebla y a una raíz pivotante profunda",
+   "Su genoma muestra señales de una duplicación antigua y de adaptaciones de tolerancia al estrés ligadas a su longevidad"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "Según algunos relatos, los pueblos locales comían su parte central cruda o asada en tiempos difíciles, pero está protegida y no debe recolectarse.",
+  "fruit": {
+   "type": "Conos (masculinos y femeninos en plantas distintas)",
+   "season": "Sobre todo en primavera y verano, tras las raras lluvias",
+   "description": "Las plantas femeninas llevan conos de color verde azulado a salmón; los conos masculinos son más pequeños y de color salmón."
+  },
+  "seed": {
+   "description": "Semillas con alas papiráceas",
+   "size": "~2–3 cm con el ala",
+   "dispersal": "Viento; solo se establecen tras lluvias excepcionales",
+   "germination": "Sembrar fresca en sustrato arenoso a 25–30 °C; la podredumbre por hongos es la principal causa de muerte"
+  },
+  "grow": {
+   "zones": "USDA 10–11 (or glasshouse)",
+   "climates": [
+    "Árido"
+   ],
+   "sun": "Pleno sol",
+   "water": "Poco pero regular, en macetas hondas",
+   "soil": "Mezcla muy profunda de arena y grava pura",
+   "propagation": "Solo por semilla",
+   "timeToHarvest": "Ornamental; conos tras varios años",
+   "steps": [
+    "Espolvorear la semilla fresca con fungicida y sembrarla en una maceta muy honda de arena estéril",
+    "Mantener a 25–30 °C y ligeramente húmeda hasta la germinación (1–3 semanas)",
+    "No trasplantar nunca: la raíz pivotante no tolera que la muevan",
+    "Darle sol intenso y regar a fondo pero de forma espaciada"
+   ]
+  },
+  "lore": "El botánico austriaco Friedrich Welwitsch la encontró en el sur de Angola en 1859 y, según se cuenta, se arrodilló y se quedó mirándola, temiendo que desapareciera si la tocaba; Joseph Hooker la describió en 1863. Figura en el escudo nacional de Namibia.",
+  "funFact": "Cada planta tiene solo dos hojas verdaderas; las muchas 'hojas' que se ven son esas dos, rasgadas a lo largo en tiras por el viento."
+ },
+ {
+  "scientific": "Dracaena cinnabari",
+  "common": "Drago de Socotra",
+  "summary": "Un árbol en forma de paraguas que solo se encuentra en la isla de Socotra y cuya corteza sangra una resina rojo intenso, la 'sangre de dragón' que se comerciaba por todo el mundo antiguo. Su copa densa y vuelta hacia arriba atrapa la neblina y da sombra a sus propias raíces en un clima duro y seco.",
+  "nativeRange": "Endémico del archipiélago de Socotra (Yemen)",
+  "biomes": [
+   "Bosque montano árido",
+   "Mesetas calizas"
+  ],
+  "abilities": [
+   "Su copa en paraguas condensa la neblina y conduce el agua por las ramas mientras da sombra al suelo",
+   "Exuda una resina roja (sangre de dragón) cuando se corta la corteza",
+   "Sobrevive gracias a la niebla y la humedad del monzón en mesetas calizas secas",
+   "Da sombra a plántulas de otras especies y crea microhábitats en terreno desnudo"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "No es un alimento; la resina se usa como medicina y como tinte. El ganado ramonea las plántulas.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Medicina popular socotrí",
+     "use": "La resina se aplica en heridas y quemaduras y se toma para la diarrea y las fiebres"
+    },
+    {
+     "tradition": "Medicina grecorromana (Dioscórides, como 'kinnabari')",
+     "use": "Resina como astringente para heridas y problemas oculares"
+    }
+   ],
+   "cautions": "La 'sangre de dragón' comercial procede a menudo de otras especies (Daemonorops, Croton); su identidad varía."
+  },
+  "fruit": {
+   "type": "Baya",
+   "season": "Tras la floración, a comienzos del año",
+   "description": "Pequeñas bayas de color rojo anaranjado que comen las aves."
+  },
+  "seed": {
+   "description": "Semillas redondas, 1–3 por baya",
+   "size": "~5 mm",
+   "dispersal": "Aves",
+   "germination": "Sembrar fresca en sustrato cálido y muy drenante; la germinación es lenta"
+  },
+  "grow": {
+   "zones": "USDA 10–11",
+   "climates": [
+    "Árido",
+    "Subtropical"
+   ],
+   "sun": "Pleno sol",
+   "water": "Bajo",
+   "soil": "Mineral y con drenaje muy rápido",
+   "propagation": "Semilla",
+   "timeToHarvest": "Ornamental; extremadamente lento",
+   "steps": [
+    "Sembrar semilla fresca en sustrato con grava a 25 °C",
+    "Cultivar con mucha luz, dejando secar entre riegos",
+    "Protegerlo de las heladas; el exceso de riego provoca podredumbre",
+    "Tenga paciencia: puede tardar décadas en ramificarse"
+   ]
+  },
+  "lore": "Se cree que la resina de Socotra es el 'cinabrio' de Plinio y del Periplo del mar Eritreo. Una leyenda socotrí cuenta que los primeros árboles brotaron de la sangre de dos hermanos que lucharon hasta la muerte.",
+  "funFact": "Solo se ramifica cuando su yema terminal se detiene, normalmente tras florecer, así que las bifurcaciones de su copa en paraguas registran la historia de floraciones del árbol."
+ },
+ {
+  "scientific": "Rafflesia arnoldii",
+  "common": "Rafflesia (flor cadáver)",
+  "summary": "Una de las flores individuales más grandes de la Tierra: hasta un metro de diámetro y unos 11 kg de peso. La rafflesia no tiene hojas, tallos ni raíces: vive como filamentos dentro de una liana de la selva y solo se deja ver cuando un capullo parecido a una col atraviesa la corteza y se abre en una flor que huele a carne podrida.",
+  "nativeRange": "Selvas de Sumatra y Borneo",
+  "biomes": [
+   "Selva tropical de tierras bajas y de colinas"
+  ],
+  "abilities": [
+   "Es una holoparásita sin hojas, tallo, raíces ni clorofila, que vive como cordones de células dentro de lianas del género Tetrastigma",
+   "Produce flores de hasta 1 m de diámetro, las flores individuales más grandes que se conocen",
+   "Imita a un cadáver en color, textura y olor para atraer como polinizadoras a moscas carroñeras",
+   "Ha perdido su genoma cloroplástico y ha incorporado muchos genes de su hospedador por transferencia horizontal"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "No se come como alimento. En algunas zonas se recolectan los capullos para la medicina tradicional, lo que amenaza a las poblaciones silvestres.",
+  "fruit": {
+   "type": "Fruto carnoso parecido a una baya",
+   "season": "Meses después de la polinización",
+   "description": "Fruto redondo y áspero, con pulpa aceitosa y miles de semillas diminutas."
+  },
+  "seed": {
+   "description": "Semillas minúsculas en una pulpa aceitosa",
+   "size": "<1 mm",
+   "dispersal": "Probablemente pequeños mamíferos como las tupayas, y hormigas",
+   "germination": "Solo sobre lianas hospedadoras de Tetrastigma; se conoce mal cómo se produce la infección"
+  },
+  "lore": "Un guía que trabajaba para Joseph Arnold y Stamford Raffles la encontró en Sumatra en 1818; Arnold murió poco después y la planta recibió el nombre de ambos. Es una de las tres flores nacionales de Indonesia.",
+  "funFact": "Cada flor dura solo unos cinco a siete días, tras un capullo que ha tardado entre unos nueve meses y un año en desarrollarse."
+ },
+ {
+  "scientific": "Amorphophallus titanum",
+  "common": "Aro gigante (flor cadáver)",
+  "summary": "La mayor inflorescencia no ramificada del reino vegetal, que se eleva hasta unos 3 m desde un cormo que puede pesar más de 150 kg. Cuando florece calienta su espiga central y desprende un hedor a carne en descomposición para atraer escarabajos y moscas carroñeros a través del bosque de Sumatra.",
+  "nativeRange": "Selva ecuatorial del oeste de Sumatra (Indonesia)",
+  "biomes": [
+   "Selva tropical (laderas y claros)"
+  ],
+  "abilities": [
+   "Calienta su espádice (termogénesis) hasta cerca de la temperatura del cuerpo humano, lo que ayuda a difundir el olor",
+   "Libera compuestos de azufre como el trisulfuro de dimetilo, que huelen a cadáver",
+   "Almacena energía en un cormo gigante; un cormo récord en Edimburgo pesó 153,9 kg en 2010",
+   "Entre floraciones produce una única hoja enorme que puede alcanzar unos 6 m, como un pequeño árbol"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "No se come. Como muchas aráceas, sus tejidos contienen cristales de oxalato de calcio, que queman la boca si se comen crudos.",
+  "fruit": {
+   "type": "Bayas en la base del espádice",
+   "season": "Meses después de la polinización",
+   "description": "Cientos de bayas del tamaño de una aceituna que maduran de amarillo a rojo."
+  },
+  "seed": {
+   "description": "Una o dos semillas por baya",
+   "size": "~1–2 cm",
+   "dispersal": "Aves como los cálaos comen las bayas",
+   "germination": "Sembrar fresca (las semillas no se conservan) en sustrato cálido y húmedo"
+  },
+  "grow": {
+   "zones": "Tropical only (USDA 11–12) or heated glasshouse",
+   "climates": [
+    "Tropical"
+   ],
+   "sun": "Luz intensa filtrada",
+   "water": "Alto mientras tiene hoja; reducir durante el reposo",
+   "soil": "Sustrato para aráceas, rico y muy bien drenado",
+   "propagation": "Semilla fresca, o esquejes de hoja en colecciones especializadas",
+   "timeToHarvest": "La primera floración suele llegar tras 7–10 años",
+   "steps": [
+    "Sembrar la semilla fresca de inmediato en condiciones cálidas y húmedas",
+    "Trasplantar el cormo a recipientes cada vez mayores a medida que crece",
+    "Mantener en ambiente húmedo y cálido (24–30 °C) todo el año",
+    "Dejar que la hoja se seque de forma natural y que el cormo repose antes de rebrotar"
+   ]
+  },
+  "lore": "El botánico italiano Odoardo Beccari envió semillas a Europa tras encontrarla en 1878, y floreció por primera vez en cultivo en Kew en 1889. David Attenborough acuñó el nombre 'titan arum' para su serie de la BBC The Private Life of Plants, porque el nombre latino le parecía demasiado grosero para la televisión.",
+  "funFact": "El nombre latino significa 'falo deforme gigante'."
+ },
+ {
+  "scientific": "Dionaea muscipula",
+  "common": "Venus atrapamoscas (dionea)",
+  "summary": "Una planta que cuenta. Sus trampas foliares con bisagra se cierran en una décima de segundo, pero solo tras dos roces de los pelos sensores en unos 20 segundos, y solo empieza a fabricar enzimas digestivas tras más roces. En estado silvestre crece únicamente en una pequeña zona de las Carolinas.",
+  "nativeRange": "Humedales de la llanura costera en un radio de unos 120 km de Wilmington, en Carolina del Norte y Carolina del Sur",
+  "biomes": [
+   "Sabana de pino de hoja larga",
+   "Bordes de humedales pocosin"
+  ],
+  "abilities": [
+   "Cierra la trampa en unos 100 milisegundos usando energía elástica almacenada que invierte la curvatura de la hoja",
+   "Cuenta los roces de los pelos sensores: dos para cerrarse, unos cinco para iniciar la digestión completa",
+   "Envía potenciales de acción eléctricos a través de la hoja, de forma muy parecida a un nervio",
+   "Obtiene nitrógeno y fósforo de sus presas, lo que le permite crecer en suelos pantanosos muy pobres",
+   "Depende de incendios periódicos que impidan que otras plantas la sombreen"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "No se come. No es significativamente tóxica.",
+  "fruit": {
+   "type": "Cápsula",
+   "season": "Principios del verano",
+   "description": "Pequeñas cápsulas en un tallo alto, muy por encima de las trampas, para que no se atrape a los polinizadores."
+  },
+  "seed": {
+   "description": "Semillas negras y brillantes en forma de pera",
+   "size": "~1 mm",
+   "dispersal": "Caen cerca de la planta madre",
+   "germination": "Sembrar en superficie sobre turba y arena húmedas; 2–4 semanas con luz y calor"
+  },
+  "grow": {
+   "zones": "USDA 7–10 outdoors (needs winter dormancy)",
+   "climates": [
+    "Subtropical",
+    "Templado"
+   ],
+   "sun": "Pleno sol",
+   "water": "Siempre húmedo, solo con agua de lluvia o destilada",
+   "soil": "Turba de esfagno sin abonar con arena o perlita",
+   "propagation": "Semilla, hojas arrancadas con su base, división del rizoma",
+   "timeToHarvest": "Adulta en 3–5 años desde semilla",
+   "steps": [
+    "Plantar en turba pura y perlita (sin abono ni sustrato universal)",
+    "Colocar la maceta en una bandeja con agua de lluvia a pleno sol",
+    "No usar nunca agua del grifo con minerales disueltos ni abonar nunca el sustrato",
+    "Darle un reposo invernal fresco (unos 0–10 °C) durante 3–4 meses"
+   ]
+  },
+  "lore": "El gobernador Arthur Dobbs, de Carolina del Norte, la describió en 1759, y Charles Darwin la llamó 'one of the most wonderful plants in the world' (una de las plantas más maravillosas del mundo) en Insectivorous Plants (1875). Desde 2014, recolectar furtivamente atrapamoscas silvestres en Carolina del Norte es un delito grave.",
+  "funFact": "Los insectos pequeños que logran escabullirse entre los 'dientes' se liberan a propósito: la trampa no se sella ante presas demasiado pequeñas para que valga la pena digerirlas."
+ },
+ {
+  "scientific": "Nepenthes rajah",
+  "common": "Nepenthes rajah (planta jarro gigante)",
+  "summary": "Produce los jarros más grandes de todas las plantas carnívoras, de hasta unos 40 cm de alto y con capacidad para litros de líquido. Atrapa insectos, pero también obtiene nitrógeno de las tupayas que se sientan en el borde para lamer el néctar de la tapa y dejan sus excrementos dentro del jarro.",
+  "nativeRange": "Endémica del monte Kinabalu y del monte Tambuyukon, en Sabah (Borneo malasio), entre unos 1500 y 2650 m",
+  "biomes": [
+   "Pastizales montanos ultramáficos y bordes de bosque"
+  ],
+  "abilities": [
+   "Forma jarros en forma de urna capaces de contener varios litros de líquido",
+   "Alimenta con el néctar de la tapa a las tupayas de montaña (Tupaia montana), y el jarro encaja exactamente con el cuerpo de una tupaya",
+   "Su borde resbaladizo (peristoma) hace caer a los insectos en el líquido digestivo",
+   "Crece en suelos serpentínicos (ultramáficos), ricos en metales y pobres en nutrientes",
+   "Ocasionalmente atrapa ranas, lagartijas o ratas"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "No se come. Especie protegida.",
+  "fruit": {
+   "type": "Cápsula",
+   "season": "Todo el año",
+   "description": "Cápsulas estrechas en un racimo alto; las plantas son masculinas o femeninas."
+  },
+  "seed": {
+   "description": "Semillas aladas filiformes",
+   "size": "~5 mm",
+   "dispersal": "Viento",
+   "germination": "Sembrar fresca en superficie sobre esfagno triturado, con humedad alta y noches frescas"
+  },
+  "grow": {
+   "zones": "Glasshouse/terrarium only (highland conditions)",
+   "climates": [
+    "Tropical de montaña"
+   ],
+   "sun": "Luz intensa filtrada",
+   "water": "Humedad ambiental alta; agua pura",
+   "soil": "Mezcla aireada de esfagno, corteza, perlita y pumita",
+   "propagation": "Cultivo de tejidos o semilla (la recolección silvestre es ilegal)",
+   "timeToHarvest": "Jarros grandes tras 5–10 años",
+   "steps": [
+    "Comprar plantas legales de cultivo de tejidos (está en el Apéndice I de la CITES)",
+    "Mantener días de unos 20–25 °C y noches de unos 10–15 °C",
+    "Dar un 70–90 % de humedad y solo agua de lluvia",
+    "No abonar el sustrato; basta con algún insecto ocasional en un jarro"
+   ]
+  },
+  "lore": "Hugh Low la recolectó en el Kinabalu en 1858 y Joseph Hooker la bautizó en 1859 en honor de James Brooke, el 'rajá blanco' de Sarawak. Viveros victorianos como Veitch enviaron recolectores a Borneo en busca de estas plantas.",
+  "funFact": "La boca del jarro coincide con la longitud del cuerpo de una tupaya, de modo que el animal se sienta justo donde sus excrementos caen dentro."
+ },
+ {
+  "scientific": "Drosera rotundifolia",
+  "common": "Rocío del sol (drosera)",
+  "summary": "Una pequeña planta de turbera cuyas hojas están cubiertas de tentáculos rojos, cada uno rematado por una gota de 'rocío' pegajoso. Los insectos que se posan quedan adheridos, los tentáculos se doblan lentamente sobre ellos y la hoja los digiere. Darwin pasó años experimentando con ella.",
+  "nativeRange": "Circumboreal: Europa, norte de Asia, Norteamérica, Groenlandia",
+  "biomes": [
+   "Turbera",
+   "Turbera baja (fen)",
+   "Brezal húmedo"
+  ],
+  "abilities": [
+   "Sus tentáculos glandulares segregan un mucílago pegajoso que atrapa insectos",
+   "Dobla los tentáculos, y a veces la hoja entera, alrededor de la presa que forcejea, en minutos u horas",
+   "Segrega enzimas digestivas y absorbe nitrógeno de sus presas",
+   "Sobrevive a inviernos duros en forma de yema compacta (hibernáculo)"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "No es un alimento. Históricamente se usó para aromatizar licores y cuajar la leche.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Medicina popular europea",
+     "use": "Infusión o tintura de la planta para la tos seca y espasmódica y la tos ferina"
+    },
+    {
+     "tradition": "Homeopatía (Drosera)",
+     "use": "Remedio para la tos (los preparados homeopáticos no contienen prácticamente material vegetal)"
+    }
+   ],
+   "cautions": "La recolección silvestre está restringida en muchos países; la mayor parte de la Drosera comercial corresponde a otras especies. Las naftoquinonas irritan la piel."
+  },
+  "fruit": {
+   "type": "Cápsula",
+   "season": "Verano",
+   "description": "Cápsulas diminutas en un tallo fino, muy por encima de las hojas."
+  },
+  "seed": {
+   "description": "Semillas minúsculas en forma de huso",
+   "size": "~1–1,5 mm",
+   "dispersal": "Viento y agua",
+   "germination": "Estratificar en frío 4–8 semanas; sembrar en superficie sobre turba húmeda, con luz"
+  },
+  "grow": {
+   "zones": "USDA 3–8",
+   "climates": [
+    "Templado",
+    "Boreal",
+    "Oceánico"
+   ],
+   "sun": "Pleno sol",
+   "water": "Siempre encharcado; solo agua de lluvia",
+   "soil": "Esfagno vivo o turba con arena",
+   "propagation": "Semilla, esquejes de hoja, gemas",
+   "timeToHarvest": "Adulta en 1–2 años",
+   "steps": [
+    "Sembrar semilla estratificada sobre turba húmeda o esfagno vivo",
+    "Mantener en una bandeja con agua de lluvia a pleno sol",
+    "Darle un reposo invernal frío al aire libre o en el frigorífico",
+    "No abonar; deje que cace sus propios insectos"
+   ]
+  },
+  "lore": "Darwin escribió en 1860 que le importaba más la Drosera que el origen de todas las especies del mundo, y su Insectivorous Plants (1875) comienza con ella. El licor italiano rosolio debe su nombre a esta planta (ros solis, 'rocío del sol').",
+  "funFact": "Una hoja de drosera distingue un insecto real de una gota de lluvia o un grano de arena, y responde con mucha más fuerza a los objetos que contienen nitrógeno."
+ },
+ {
+  "scientific": "Wollemia nobilis",
+  "common": "Pino de Wollemi",
+  "summary": "Un árbol conocido solo por fósiles hasta 1994, cuando el guardabosques David Noble descendió en rápel a un cañón del Parque Nacional Wollemi, cerca de Sídney, y encontró una arboleda viva. En estado silvestre sobreviven menos de 100 árboles adultos, en un lugar que se mantiene en secreto.",
+  "nativeRange": "Unos pocos cañones de arenisca del Parque Nacional Wollemi, Nueva Gales del Sur (Australia)",
+  "biomes": [
+   "Cañones de selva templada cálida"
+  ],
+  "abilities": [
+   "Pertenece a un linaje antiguo de las araucariáceas; un polen semejante (Dilwynites) se remonta a unos 90 millones de años",
+   "Desarrolla varios troncos desde la base (rebrote de cepa), lo que le ayuda a sobrevivir a desprendimientos de rocas e incendios",
+   "Deja caer ramas enteras en lugar de hojas sueltas",
+   "Tiene una corteza burbujeante de color pardo chocolate, que a menudo se compara con los cereales Coco Pops"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "No se come.",
+  "fruit": {
+   "type": "Cono seminífero",
+   "season": "Madura en unos 18 meses",
+   "description": "Conos femeninos verdes y esféricos en las puntas de las ramas; los conos masculinos, más abajo."
+  },
+  "seed": {
+   "description": "Semillas pequeñas con alas papiráceas",
+   "size": "~1 cm con el ala",
+   "dispersal": "Viento y gravedad",
+   "germination": "Sembrar fresca a 18–25 °C; la germinación puede ser irregular"
+  },
+  "grow": {
+   "zones": "USDA 7–10",
+   "climates": [
+    "Templado",
+    "Subtropical",
+    "Oceánico"
+   ],
+   "sun": "Semisombra a pleno sol",
+   "water": "Moderado",
+   "soil": "Bien drenado, ligeramente ácido",
+   "propagation": "Esquejes (la mayoría de las plantas vendidas son clones del programa de lanzamiento de 2005)",
+   "timeToHarvest": "Ornamental",
+   "steps": [
+    "Comprar una planta criada en vivero",
+    "Plantar en suelo resguardado y bien drenado o en una maceta grande",
+    "Regar con regularidad mientras es joven y evitar el encharcamiento",
+    "No visite nunca el enclave silvestre: las pisadas transportan la mortal podredumbre de raíz Phytophthora cinnamomi"
+   ]
+  },
+  "lore": "Su descubrimiento en 1994 se comparó con encontrar un dinosaurio vivo. En enero de 2020, durante los incendios del 'Verano Negro', bomberos descendidos desde helicópteros instalaron riego y realizaron descargas de agua que salvaron la arboleda silvestre.",
+  "funFact": "Desde 2005 se vendieron plantas de vivero en todo el mundo, en parte para quitar a los coleccionistas el incentivo de saquear la arboleda silvestre secreta."
+ },
+ {
+  "scientific": "Cedrus libani",
+  "common": "Cedro del Líbano",
+  "summary": "Un árbol que construyó imperios. Su madera aromática y resistente a la pudrición se empleó en barcos fenicios, tumbas egipcias y, según la Biblia, en el Templo de Salomón. La demanda antigua despojó las montañas del Líbano, de modo que hoy solo sobreviven arboledas dispersas, y el árbol figura en la bandera libanesa.",
+  "nativeRange": "Montañas del Líbano, el oeste de Siria y el sur de Turquía (Tauro), entre 1300 y 3000 m",
+  "biomes": [
+   "Bosque montano mediterráneo"
+  ],
+  "abilities": [
+   "En la vejez desarrolla ramas horizontales amplias y escalonadas",
+   "Produce una madera aromática rica en sesquiterpenos que resiste los insectos y la descomposición",
+   "Vive mucho más de 1000 años en lugares favorables",
+   "Soporta inviernos de montaña fríos y nevados y veranos mediterráneos secos"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "No se come. El aceite esencial no es para uso interno.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Práctica del antiguo Egipto",
+     "use": "Aceite y resina de cedro usados en el embalsamamiento (se discute el origen botánico de algunos aceites de 'cedro')"
+    },
+    {
+     "tradition": "Medicina popular levantina",
+     "use": "Resina y aceite aplicados en infecciones de la piel y como repelente de insectos"
+    }
+   ],
+   "cautions": "Los aceites esenciales pueden irritar la piel y son tóxicos si se ingieren en cantidad."
+  },
+  "fruit": {
+   "type": "Piña leñosa erguida",
+   "season": "Madura en 2 años",
+   "description": "Piñas en forma de barril, de 8–12 cm, que se deshacen en el árbol para liberar las semillas."
+  },
+  "seed": {
+   "description": "Semillas resinosas con un ala grande",
+   "size": "~1 cm (ala ~2,5 cm)",
+   "dispersal": "Viento",
+   "germination": "Estratificación en frío breve (2–4 semanas); sembrar en primavera"
+  },
+  "grow": {
+   "zones": "USDA 5–9",
+   "climates": [
+    "Mediterráneo",
+    "Templado"
+   ],
+   "sun": "Pleno sol",
+   "water": "Bajo a moderado una vez establecido",
+   "soil": "Bien drenado; tolera la cal",
+   "propagation": "Semilla",
+   "timeToHarvest": "Piñas tras 25–40 años",
+   "steps": [
+    "Remojar la semilla una noche y estratificarla brevemente",
+    "Sembrar en macetas hondas en primavera",
+    "Plantar joven (no le gusta que le muevan las raíces) en un lugar amplio y soleado",
+    "Regar durante los primeros veranos; después tolera la sequía"
+   ]
+  },
+  "lore": "En la Epopeya de Gilgamesh, el héroe mata a Humbaba, guardián del Bosque de Cedros, para llevarse sus árboles. La arboleda de los Cedros de Dios, en Bsharri (Líbano), fue inscrita por la UNESCO en 1998 junto con el valle de Qadisha.",
+  "funFact": "La Piedra de Palermo registra que el faraón Snefru (h. 2600 a. C.) trajo 40 barcos cargados de madera de cedro, lo que suele interpretarse como un envío desde Biblos, en la costa libanesa."
+ },
+ {
+  "scientific": "Quercus robur",
+  "common": "Roble común (roble carvallo)",
+  "summary": "Una ciudad viva. Un estudio de 2019 halló que el roble común sostiene a más de 2300 especies en Gran Bretaña, entre ellas cientos que no viven en ninguna otra planta. Algunos ejemplares pueden vivir más de 1000 años, y el roble es un árbol sagrado en Europa desde antes de la historia escrita.",
+  "nativeRange": "La mayor parte de Europa hasta el Cáucaso y el norte de Turquía",
+  "biomes": [
+   "Bosque templado de frondosas",
+   "Dehesa arbolada",
+   "Setos vivos"
+  ],
+  "abilities": [
+   "Sostiene más invertebrados, líquenes y hongos que cualquier otro árbol autóctono británico",
+   "Tiene vecería: algunos años produce enormes cosechas de bellotas y otros muy pocas, lo que desborda a los comedores de semillas",
+   "Depende de los arrendajos para plantar las bellotas, a veces a kilómetros de distancia",
+   "Vive más de 1000 años, a menudo se ahueca en la vejez y sobrevive como un armazón",
+   "Reacciona a las avispas gallícolas formando agallas ricas en taninos, usadas para la tinta ferrogálica"
+  ],
+  "edibleParts": [
+   "bellotas (tras lixiviarlas)"
+  ],
+  "edibilityNote": "Las bellotas crudas son amargas por los taninos y causan malestar estomacal; deben lixiviarse repetidamente en agua antes de molerlas en harina. Las bellotas y las hojas envenenan al ganado vacuno y a los caballos si las consumen en cantidad.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Fitoterapia europea",
+     "use": "Decocción de corteza como astringente para la diarrea, el dolor de garganta y la inflamación de la piel"
+    },
+    {
+     "tradition": "Comisión E alemana",
+     "use": "Corteza de roble aprobada para uso externo en piel inflamada y para la diarrea aguda"
+    }
+   ],
+   "cautions": "Los preparados con mucho tanino pueden irritar el estómago y reducir la absorción de otros medicamentos; evítense en zonas extensas de piel dañada."
+  },
+  "fruit": {
+   "type": "Nuez (bellota)",
+   "season": "Otoño",
+   "description": "Bellotas sostenidas en cúpulas escamosas sobre pedúnculos largos."
+  },
+  "seed": {
+   "description": "Bellota; la semilla no debe secarse",
+   "size": "~2–3 cm",
+   "dispersal": "Arrendajos, ardillas y ratones que entierran bellotas y las olvidan",
+   "germination": "Sembrar fresca en otoño; la raíz sale ese mismo invierno y el tallo en primavera"
+  },
+  "grow": {
+   "zones": "USDA 4–8",
+   "climates": [
+    "Templado",
+    "Oceánico",
+    "Continental"
+   ],
+   "sun": "Pleno sol",
+   "water": "Moderado",
+   "soil": "Profundo y fértil; tolera la arcilla",
+   "propagation": "Bellotas frescas",
+   "timeToHarvest": "Bellotas tras 40–50 años",
+   "steps": [
+    "Recoger las bellotas cuando caen y hacer la prueba de flotación (descartar las que flotan)",
+    "Sembrar enseguida en macetas hondas o directamente en el suelo",
+    "Protegerlas de ratones y ardillas con malla",
+    "Plantar en su lugar definitivo en 1–2 años, antes de que la raíz pivotante se alargue"
+   ]
+  },
+  "lore": "Plinio el Viejo describió a los druidas galos cortando muérdago de los robles con una hoz de oro, y Carlos II se escondió en el 'Royal Oak' de Boscobel en 1651. El roble fue la madera de la Marina Real británica y de las catedrales de Europa.",
+  "funFact": "La Carta Magna, los cuadernos de Leonardo y los manuscritos de Bach se escribieron con tinta ferrogálica, hecha con agallas de roble ricas en taninos y sales de hierro."
+ },
+ {
+  "scientific": "Fagus sylvatica",
+  "common": "Haya",
+  "summary": "El árbol que deja en sombra a casi todo lo demás. El haya proyecta una sombra tan densa que llegó a dominar enormes extensiones de Europa tras la última glaciación, formando bosques como catedrales casi sin sotobosque. La palabra inglesa 'book' (libro) procede de ella.",
+  "nativeRange": "Europa occidental, central y meridional, desde el sur de Escandinavia hasta Sicilia y los Balcanes",
+  "biomes": [
+   "Bosque templado de frondosas"
+  ],
+  "abilities": [
+   "Proyecta una de las sombras más densas de todos los árboles europeos y suprime a sus competidores",
+   "Sus plántulas toleran sombra profunda durante décadas, a la espera de que se abra un claro",
+   "Tiene vecería intensa cada pocos años e inunda el bosque de hayucos",
+   "Forma extensas redes de raíces con hongos ectomicorrícicos como los rebozuelos y los boletos"
+  ],
+  "edibleParts": [
+   "hayucos (tostados)",
+   "hojas tiernas de primavera"
+  ],
+  "edibilityNote": "Los hayucos son comestibles en pequeñas cantidades y mejor tostados; comer muchos crudos causa malestar estomacal, por compuestos ligeramente tóxicos (llamados históricamente \"fagina\"). Los hayucos son tóxicos para los caballos.",
+  "fruit": {
+   "type": "Nuez en una cúpula espinosa",
+   "season": "Otoño",
+   "description": "Cúpulas erizadas que se abren en cuatro para liberar dos nueces triangulares."
+  },
+  "seed": {
+   "description": "Nuez parda de tres caras (hayuco)",
+   "size": "~1,5 cm",
+   "dispersal": "Gravedad, además de arrendajos, roedores y, antiguamente, cerdos",
+   "germination": "Estratificar en frío 8–12 semanas; sembrar en primavera"
+  },
+  "grow": {
+   "zones": "USDA 4–7",
+   "climates": [
+    "Templado",
+    "Oceánico"
+   ],
+   "sun": "Pleno sol a sombra densa",
+   "water": "Moderado; no tolera el encharcamiento ni la sequía",
+   "soil": "Bien drenado, de calizo a ácido",
+   "propagation": "Semilla",
+   "timeToHarvest": "Hayucos tras 40–60 años",
+   "steps": [
+    "Recoger los hayucos cuando caen y estratificarlos durante el invierno",
+    "Sembrar en primavera en macetas o en semillero",
+    "Mantener las plantas jóvenes con algo de sombra y humedad",
+    "Plantar como árbol o mantener recortado como seto, que conserva las hojas secas todo el invierno"
+   ]
+  },
+  "lore": "Los pueblos germánicos grababan runas en tablillas de haya, y el inglés antiguo 'bōc' y el alemán 'Buche/Buch' vinculan haya y libro. Los 'Hayedos primarios y antiguos de los Cárpatos y otras regiones de Europa' fueron declarados Patrimonio Mundial por la UNESCO en 2007 y después se ampliaron hasta abarcar 18 países.",
+  "funFact": "El haya conserva las hojas muertas durante el invierno cuando es joven o se mantiene como seto (marcescencia), por eso los setos de haya siguen pardos y tupidos en invierno."
+ },
+ {
+  "scientific": "Betula pendula",
+  "common": "Abedul común (abedul péndulo)",
+  "summary": "La pionera del norte. El abedul es uno de los primeros árboles en recolonizar terrenos quemados, talados o erosionados por los glaciares, y su corteza blanca, rica en betulina, refleja la luz solar. Desde hace miles de años la gente sangra su savia, escribe sobre su corteza y fabrica con ella canoas y cajas.",
+  "nativeRange": "La mayor parte de Europa hasta Siberia y el norte de Kazajistán, y al sur hasta Turquía e Irán",
+  "biomes": [
+   "Bosque boreal",
+   "Bosque templado de frondosas",
+   "Brezal"
+  ],
+  "abilities": [
+   "Dispersa millones de semillas aladas ligeras, por lo que coloniza rápidamente el terreno abierto",
+   "Su corteza es rica en betulina, un triterpeno blanco que refleja la luz y repele el agua",
+   "En primavera, antes de echar hojas, hace subir grandes volúmenes de savia azucarada",
+   "Prepara el suelo para árboles posteriores reciclando nutrientes a través de hojas que se descomponen rápido"
+  ],
+  "edibleParts": [
+   "savia de primavera (fresca o fermentada)",
+   "hojas tiernas (infusión)",
+   "corteza interna (harina de hambruna)"
+  ],
+  "edibilityNote": "La savia se bebe fresca en primavera en toda Europa del Este y Escandinavia. El polen de abedul es una causa importante de fiebre del heno, y las personas alérgicas al abedul a menudo reaccionan a las manzanas crudas, las avellanas y las cerezas.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Fitoterapia europea",
+     "use": "Infusión de hojas como diurético para la irrigación de las vías urinarias (aprobada por la Comisión E alemana)"
+    },
+    {
+     "tradition": "Medicina popular rusa",
+     "use": "Alquitrán de abedul (dyogot) aplicado en afecciones de la piel; ramas de abedul usadas en la banya"
+    }
+   ],
+   "cautions": "No apto para personas con edema por insuficiencia cardiaca o renal. El alquitrán de abedul contiene sustancias irritantes. La alergia al polen de abedul es frecuente."
+  },
+  "fruit": {
+   "type": "Núcula alada en un amento",
+   "season": "Final del verano",
+   "description": "Los amentos cilíndricos se deshacen en semillas aladas diminutas y escamas trilobuladas."
+  },
+  "seed": {
+   "description": "Núculas diminutas con dos alas",
+   "size": "~2 mm",
+   "dispersal": "Viento, a menudo sobre la nieve",
+   "germination": "Sembrar en superficie; necesita luz. Una breve estratificación en frío mejora la germinación."
+  },
+  "grow": {
+   "zones": "USDA 2–7",
+   "climates": [
+    "Boreal",
+    "Templado",
+    "Continental"
+   ],
+   "sun": "Pleno sol",
+   "water": "Moderado",
+   "soil": "Ligero, ácido y bien drenado",
+   "propagation": "Semilla",
+   "timeToHarvest": "Savia de árboles de ~20 cm de diámetro, hacia los 15–20 años",
+   "steps": [
+    "Sembrar en superficie a finales del invierno y mantener húmedo y con luz",
+    "Plantar cuando aún es pequeño: los abedules toleran mal el trasplante cuando son mayores",
+    "Para sangrar la savia, perforar un pequeño agujero a principios de primavera, antes de la brotación, y recoger solo durante unos días",
+    "Taponar después el orificio para proteger el árbol"
+   ]
+  },
+  "lore": "Los ciudadanos medievales de Nóvgorod grababan letras en corteza de abedul; desde 1951 se han desenterrado más de 1000 de estos documentos 'beresty'. Ötzi, el hombre de hielo, llevaba recipientes de corteza de abedul y adhesivo de alquitrán de abedul. Es el árbol nacional de Finlandia y de Rusia.",
+  "funFact": "El alquitrán de abedul es el material sintético más antiguo que se conoce; los neandertales ya lo fabricaban como pegamento hace más de 200 000 años."
+ },
+ {
+  "scientific": "Acer saccharum",
+  "common": "Arce de azúcar",
+  "summary": "La fuente del sirope de arce y del incendio de colores de los otoños de Nueva Inglaterra. En los días de primavera que siguen a noches de helada, los cambios de presión dentro de la madera empujan la savia azucarada fuera de cualquier herida, y unos 40 litros de savia se reducen por ebullición a un litro de sirope.",
+  "nativeRange": "Este de Canadá y noreste y centro de Estados Unidos",
+  "biomes": [
+   "Bosque templado de frondosas"
+  ],
+  "abilities": [
+   "La savia fluye durante los ciclos de helada y deshielo, cuando la presión del gas en las fibras de la madera la empuja fuera de las heridas",
+   "Por la noche extrae agua del subsuelo profundo y la libera en la capa superficial seca (elevación hidráulica), lo que ayuda a las plantas cercanas",
+   "En otoño se vuelve rojo, naranja y amarillo brillantes a medida que la clorofila se degrada y se forman antocianinas",
+   "De joven tolera la sombra densa y espera décadas a que se abra un claro en el dosel"
+  ],
+  "edibleParts": [
+   "savia (sirope, azúcar)",
+   "semillas (cocinadas)"
+  ],
+  "edibilityNote": "La savia se hierve para hacer sirope y azúcar. No es tóxico para las personas, pero las hojas marchitas del arce rojo emparentado (Acer rubrum) envenenan a los caballos.",
+  "fruit": {
+   "type": "Disámara",
+   "season": "Otoño",
+   "description": "Semillas aladas en pares ('helicópteros') unidas en ángulo en forma de U."
+  },
+  "seed": {
+   "description": "Semilla redonda en la base de un ala papirácea",
+   "size": "~2,5 cm con el ala",
+   "dispersal": "Viento, girando",
+   "germination": "Estratificar en frío 60–90 días; sembrar en primavera"
+  },
+  "grow": {
+   "zones": "USDA 3–8",
+   "climates": [
+    "Templado",
+    "Continental"
+   ],
+   "sun": "Pleno sol a semisombra",
+   "water": "Moderado",
+   "soil": "Profundo, fértil y bien drenado; no tolera la sal de carretera",
+   "propagation": "Semilla",
+   "timeToHarvest": "Se sangra para sirope a unos 25 cm de diámetro (30–40 años)",
+   "steps": [
+    "Estratificar la semilla durante el invierno en arena húmeda",
+    "Sembrar en primavera; proteger las plántulas de los ciervos",
+    "Plantar en suelo profundo, húmedo y bien drenado, lejos de carreteras con sal",
+    "Sangrar a finales del invierno, cuando los días están por encima de cero y las noches por debajo; hervir la savia hasta un 66 % de azúcar"
+   ]
+  },
+  "lore": "Los anishinaabe, los haudenosaunee y otras naciones elaboraban azúcar de arce mucho antes de la llegada de los europeos, con campamentos azucareros cada primavera; los haudenosaunee celebran la subida de la savia con una Ceremonia del Arce de acción de gracias. Una hoja de arce estilizada figura en la bandera de Canadá desde 1965.",
+  "funFact": "En el 'Gran Robo del Sirope de Arce' de 2012 se robaron unas 3000 toneladas de sirope, valoradas en unos 18 millones de dólares canadienses, de una reserva estratégica de Quebec."
+ },
+ {
+  "scientific": "Tectona grandis",
+  "common": "Teca",
+  "summary": "Un árbol de la familia de la menta que se convirtió en la madera naval más famosa del mundo. La madera aceitosa y rica en sílice de la teca resiste el agua, la pudrición y las termitas, por lo que durante siglos se usó para buques de guerra, templos y tablazones de cubierta. Los grandes bosques naturales de teca de Myanmar, Laos y Tailandia han desaparecido en gran parte.",
+  "nativeRange": "India, Myanmar, Laos y Tailandia; naturalizada desde antiguo en Java; plantaciones en todos los trópicos",
+  "biomes": [
+   "Bosque tropical monzónico (caducifolio)"
+  ],
+  "abilities": [
+   "Forma un duramen con aceites naturales y tectoquinona que repelen termitas y hongos",
+   "Su madera apenas se contrae o se hincha con la humedad, por lo que era ideal para cubiertas de barco",
+   "Pierde sus enormes hojas en la estación seca y sobrevive al fuego",
+   "Sus hojas están entre las más grandes de cualquier árbol, de hasta unos 50 cm de largo, y producen un tinte rojo"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "No es un alimento. En partes de la India y Java sus hojas se usan para envolver alimentos. El serrín de teca puede causar dermatitis y asma.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Ayurveda",
+     "use": "Corteza y madera (shaka) como astringentes; preparados de hoja para enfermedades de la piel y hemorragias"
+    },
+    {
+     "tradition": "Medicina popular javanesa",
+     "use": "Hojas tiernas usadas como tinte rojo y para problemas de piel"
+    }
+   ],
+   "cautions": "El polvo de teca es un sensibilizante cutáneo y respiratorio para quienes trabajan la madera."
+  },
+  "fruit": {
+   "type": "Drupa en un cáliz inflado",
+   "season": "Estación seca, tras la floración del monzón",
+   "description": "Hueso duro de cuatro cámaras dentro de un cáliz papiráceo en forma de globo."
+  },
+  "seed": {
+   "description": "Hueso de fruto muy duro y leñoso con hasta cuatro semillas",
+   "size": "~1–1,5 cm",
+   "dispersal": "Viento (cáliz papiráceo), agua y gravedad",
+   "germination": "Alternar remojo y secado al sol de los frutos durante 1–2 semanas para romper la latencia; la germinación es irregular"
+  },
+  "grow": {
+   "zones": "Tropical only (USDA 10–12)",
+   "climates": [
+    "Tropical",
+    "Monzónico"
+   ],
+   "sun": "Pleno sol",
+   "water": "Estación húmeda y estación seca",
+   "soil": "Profundo, bien drenado y rico en calcio",
+   "propagation": "Semilla, tocones (stumps), cultivo de tejidos",
+   "timeToHarvest": "Madera de plantación en 20–60 años",
+   "steps": [
+    "Remojar los frutos por la noche y secarlos al sol de día durante 1–2 semanas",
+    "Sembrar en semilleros de vivero; trasplantar 'tocones' (plántulas podadas) al comienzo de las lluvias",
+    "Desherbar bien: la teca no tolera la competencia",
+    "Aclarar las plantaciones con el tiempo para obtener troncos rectos"
+   ]
+  },
+  "lore": "La Marina Real británica y la Compañía de las Indias Orientales construyeron barcos con teca de Malabar y de Birmania, y el comercio de esta madera moldeó la silvicultura colonial en la India británica.",
+  "funFact": "La teca pertenece a la familia de la menta, Lamiaceae, la misma que la albahaca y la lavanda."
+ },
+ {
+  "scientific": "Swietenia macrophylla",
+  "common": "Caoba (caoba de hoja ancha)",
+  "summary": "La caoba 'auténtica' de la ebanistería fina, cuya madera rojo intenso y estable la convirtió en una de las maderas más valiosas de América. La tala intensiva fue por delante de la ley, y en 2003 se incluyó en el Apéndice II de la CITES. Sus cápsulas apuntan hacia el cielo y se abren para liberar semillas aladas.",
+  "nativeRange": "Del sur de México, a través de Centroamérica, hasta la cuenca amazónica (Bolivia, Brasil, Perú)",
+  "biomes": [
+   "Bosque tropical húmedo",
+   "Bosque tropical seco"
+  ],
+  "abilities": [
+   "Produce un duramen pardo rojizo denso, estable y resistente a la pudrición",
+   "Sus cápsulas erguidas se abren en cinco valvas y liberan semillas aladas que se alejan girando con el viento",
+   "Llega a ser un gigante del bosque de más de 40 m de alto, con troncos con contrafuertes",
+   "Se regenera mejor tras grandes perturbaciones como inundaciones, incendios o huracanes"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "No es un alimento. Las semillas son muy amargas y solo se usan con fines medicinales; las dosis altas se han relacionado con lesiones hepáticas.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Medicina popular malasia e indonesia",
+     "use": "Semillas tomadas para la diabetes y la hipertensión"
+    },
+    {
+     "tradition": "Medicina popular amazónica",
+     "use": "Decocciones de corteza para la fiebre y la diarrea"
+    }
+   ],
+   "cautions": "Los preparados de semilla han causado toxicidad hepática en casos clínicos publicados; pueden sumarse al efecto de los fármacos para la diabetes."
+  },
+  "fruit": {
+   "type": "Cápsula leñosa",
+   "season": "Estación seca",
+   "description": "Cápsulas pardas erguidas, en forma de pera, de 12–20 cm de largo, que se abren desde la base."
+  },
+  "seed": {
+   "description": "Semillas planas con un ala parda larga",
+   "size": "~7–10 cm con el ala",
+   "dispersal": "Viento",
+   "germination": "Sembrar fresca (viabilidad corta); 2–4 semanas con calor"
+  },
+  "grow": {
+   "zones": "Tropical only (USDA 10–12)",
+   "climates": [
+    "Tropical"
+   ],
+   "sun": "Pleno sol",
+   "water": "Moderado a alto",
+   "soil": "Profundo y bien drenado",
+   "propagation": "Semilla",
+   "timeToHarvest": "Madera tras 25–40 años en plantación",
+   "steps": [
+    "Sembrar semilla fresca con el ala hacia arriba, apenas cubierta",
+    "Mantener en semisombra en el vivero",
+    "Plantar en masas mixtas: los monocultivos los ataca el barrenador de los brotes de la caoba (Hypsipyla)",
+    "Podar para dejar una sola guía"
+   ]
+  },
+  "lore": "Los muebles de caoba se convirtieron en símbolo de estatus en la Gran Bretaña del siglo XVIII, y los diseños de Chippendale dependían de caoba caribeña y centroamericana talada y transportada en gran parte por mano de obra esclavizada y forzada. La tala ilegal de mogno en la Amazonia brasileña fue un gran escándalo de conservación en la década de 1990.",
+  "funFact": "En Malasia a la semilla la llaman 'fruta del cielo' porque sus cápsulas apuntan directamente hacia arriba."
+ },
+ {
+  "scientific": "Rhizophora mangle",
+  "common": "Mangle rojo",
+  "summary": "Un árbol que se adentra en el mar sobre zancos. El mangle rojo arquea sus raíces zancudas en el fango salado, impide la entrada de la mayor parte de la sal en la superficie de la raíz y deja caer plántulas que ya han germinado en el árbol y pueden flotar durante meses. Sus raíces dan refugio a peces jóvenes y protegen las costas de las tormentas.",
+  "nativeRange": "Costas tropicales del Atlántico y del Pacífico oriental: Florida, Caribe, golfo de México, Centroamérica y Sudamérica, África occidental; introducido en Hawái",
+  "biomes": [
+   "Manglar",
+   "Estuario intermareal"
+  ],
+  "abilities": [
+   "Es vivíparo: las semillas germinan en el árbol y caen como propágulos en forma de lápiz de hasta unos 30 cm de largo",
+   "Sus propágulos flotan y siguen siendo viables durante meses, colonizando nuevas costas",
+   "Sus raíces filtran la mayor parte de la sal del agua de mar",
+   "Respira a través de lenticelas en las raíces zancudas que sobresalen del fango anóxico",
+   "Construye litoral atrapando sedimentos y amortigua las mareas de tormenta"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "Los propágulos se han comido como alimento de hambruna tras procesarlos, pero son astringentes y amargos; en general no se comen.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Medicina popular caribeña y latinoamericana",
+     "use": "Decocción de corteza como astringente para la diarrea, el dolor de garganta y las heridas"
+    }
+   ],
+   "cautions": "Los preparados con mucho tanino pueden irritar el intestino."
+  },
+  "fruit": {
+   "type": "Baya con plántula vivípara",
+   "season": "Gran parte del año, con un máximo en verano",
+   "description": "Fruto pardo y coriáceo del que crece un largo propágulo verde mientras sigue en el árbol."
+  },
+  "seed": {
+   "description": "Germina en el árbol y forma un propágulo largo en forma de puro",
+   "size": "Propágulo de ~15–30 cm",
+   "dispersal": "Corrientes oceánicas",
+   "germination": "Ya germinado; plantar el propágulo en posición vertical en fango intermareal"
+  },
+  "lore": "La palabra 'mangle' llegó al español desde el taíno del Caribe. El tanino de la corteza del mangle rojo se usó en todos los trópicos para curtir cuero y conservar redes de pesca y velas, a las que daba un color pardo rojizo.",
+  "funFact": "Los propágulos de mangle pueden ir a la deriva durante meses y aun así enraizar; así es como Rhizophora llegó a ambas orillas del Atlántico."
+ },
+ {
+  "scientific": "Sphagnum palustre",
+  "common": "Esfagno (musgo de turbera)",
+  "summary": "Un musgo que construye paisajes y almacena carbono. El esfagno retiene muchas veces su propio peso en agua en células muertas y vacías, acidifica su entorno y se descompone tan despacio que sus restos se acumulan en forma de turba. Las turberas cubren alrededor del 3 % de la superficie terrestre, pero almacenan más carbono que todos los bosques del mundo juntos.",
+  "nativeRange": "Extendido por las regiones templadas y boreales del hemisferio norte, con registros en otros continentes",
+  "biomes": [
+   "Turbera",
+   "Turbera baja (fen)",
+   "Bosque húmedo"
+  ],
+  "abilities": [
+   "Retiene hasta unas 20 veces su peso seco en agua en grandes células hialinas muertas",
+   "Acidifica su entorno intercambiando iones de hidrógeno por cationes minerales",
+   "Forma turba que conserva la materia orgánica durante miles de años, incluidos cuerpos de turbera como el Hombre de Tollund",
+   "Dispara sus esporas desde una cápsula presurizada, formando un diminuto anillo de vórtice que las eleva"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "No se come.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Medicina de campaña en tiempo de guerra (Primera Guerra Mundial)",
+     "use": "El esfagno seco se usó por millones como apósito absorbente y ligeramente antiséptico para heridas"
+    },
+    {
+     "tradition": "Prácticas populares indígenas del norte y europeas",
+     "use": "Usado como forro de pañales y como compresa menstrual"
+    }
+   ],
+   "cautions": "El esfagno puede portar el hongo Sporothrix, que causa la 'enfermedad del jardinero de rosas' a través de cortes en la piel; use guantes."
+  },
+  "seed": {
+   "description": "Esporas en una cápsula redonda sobre un pedúnculo corto",
+   "size": "Esporas de ~20–40 µm",
+   "dispersal": "Lanzamiento explosivo desde la cápsula y luego el viento",
+   "germination": "Se propaga sobre todo por fragmentos; coloque hebras vivas sobre turba húmeda"
+  },
+  "grow": {
+   "zones": "USDA 3–8 (outdoors)",
+   "climates": [
+    "Templado",
+    "Boreal",
+    "Oceánico"
+   ],
+   "sun": "Pleno sol a sombra ligera",
+   "water": "Siempre encharcado; solo agua de lluvia",
+   "soil": "Turba ácida y húmeda, o ninguno",
+   "propagation": "Fragmentos",
+   "timeToHarvest": "Cubre una bandeja en pocos meses",
+   "steps": [
+    "Extender hebras vivas troceadas sobre turba húmeda en una bandeja",
+    "Mantener encharcado con agua de lluvia y en ambiente húmedo",
+    "Darle luz intensa para que se mantenga compacto y colorido",
+    "Úselo como cobertura viva para plantas carnívoras"
+   ]
+  },
+  "lore": "Los ácidos de turbera y el esfagnano de la turba de Sphagnum conservaron con asombroso detalle cuerpos de la Edad del Hierro como el Hombre de Tollund (hallado en Dinamarca en 1950). La turba extraída de las turberas de esfagno calentó hogares en Irlanda, Escocia y los Países Bajos durante siglos.",
+  "funFact": "El vídeo de alta velocidad muestra que las cápsulas de Sphagnum lanzan las esporas a unos 3,6 m/s, y que un anillo de vórtice creado por ellas mismas las eleva 10–20 cm."
+ },
+ {
+  "scientific": "Macrocystis pyrifera",
+  "common": "Kelp gigante (huiro, sargazo gigante)",
+  "summary": "Uno de los organismos de crecimiento más rápido de la Tierra: crece hasta medio metro al día y alcanza longitudes de 45 m o más. El kelp gigante es un alga parda, no una planta, y forma bosques submarinos que dan refugio a peces, nutrias marinas e innumerables invertebrados.",
+  "nativeRange": "Aguas costeras frías del Pacífico oriental (de Alaska a Baja California; Perú y Chile), costas del Atlántico sur y subantárticas, sur de Australia y Nueva Zelanda",
+  "biomes": [
+   "Bosque de kelp",
+   "Arrecife rocoso submareal"
+  ],
+  "abilities": [
+   "Crece hasta unos 50 cm al día en buenas condiciones",
+   "Mantiene sus frondas a flote en la superficie con vesículas llenas de gas (neumatocistos) en cada lámina",
+   "Se sujeta a la roca con un rizoide parecido a una raíz que no sirve para alimentarse",
+   "Forma hábitats forestales que sostienen a cientos de especies, en equilibrio gracias a las nutrias marinas que se comen a los erizos que pastan el kelp"
+  ],
+  "edibleParts": [
+   "frondas y láminas (secas, como kelp)"
+  ],
+  "edibilityNote": "Comestible, pero con un contenido muy alto de yodo; tomar raciones grandes con frecuencia puede alterar la función tiroidea. Puede concentrar metales pesados como el arsénico procedentes de aguas contaminadas.",
+  "seed": {
+   "description": "Se reproduce mediante zoosporas microscópicas liberadas por láminas especiales (esporófilos) cerca de la base",
+   "size": "Esporas de ~5–10 µm",
+   "dispersal": "Corrientes de agua, sobre todo a cortas distancias",
+   "germination": "Las esporas se convierten en diminutos gametofitos masculinos y femeninos cuya descendencia da lugar a nuevo kelp"
+  },
+  "lore": "La hipótesis de la 'autopista del kelp' propone que los primeros pobladores siguieron las productivas costas de bosques de kelp alrededor del borde del Pacífico hasta llegar a América. Darwin, a bordo del Beagle, comparó los bosques de kelp australes con los bosques terrestres y dijo que su pérdida acabaría con muchos animales.",
+  "funFact": "Durante gran parte del siglo XX, el kelp gigante cosechado frente a California fue una fuente importante de alginato, el espesante de helados, pastas de dientes y apósitos para heridas."
+ },
+ {
+  "scientific": "Phyllostachys edulis",
+  "common": "Bambú moso",
+  "summary": "Una hierba que se convierte en bosque. Los brotes del moso pueden crecer cerca de un metro al día y alcanzar su altura total de 20 m o más en un par de meses. Es el bambú maderero más importante de China, usado en andamios, suelos, textiles y, por sus brotes primaverales, en la cocina de Asia oriental.",
+  "nativeRange": "Centro y sur de China y Taiwán; cultivado desde hace mucho en Japón",
+  "biomes": [
+   "Bosque subtropical",
+   "Plantaciones en colinas"
+  ],
+  "abilities": [
+   "Las cañas nuevas pueden crecer cerca de 1 m en un día en su máximo crecimiento",
+   "Una caña alcanza su altura total en una temporada y luego se endurece durante varios años",
+   "Se extiende mediante vigorosos rizomas corredores, formando enormes bosquetes conectados",
+   "Florece solo a intervalos largos; una masa japonesa floreció 67 años después de la siembra y luego murió"
+  ],
+  "edibleParts": [
+   "brotes tiernos (hervidos)"
+  ],
+  "edibilityNote": "Los brotes deben pelarse y hervirse antes de comerlos: los brotes crudos contienen glucósidos cianogénicos (taxifilina) que liberan cianuro.",
+  "fruit": {
+   "type": "Cariópside (grano)",
+   "season": "Floración masiva poco frecuente",
+   "description": "Granos parecidos a los de las gramíneas, producidos solo en raras floraciones."
+  },
+  "seed": {
+   "description": "Cariópside parecida a un grano",
+   "size": "~1–2 cm",
+   "dispersal": "Gravedad; rara vez se consigue semilla",
+   "germination": "Sembrar fresca a 20–25 °C; la viabilidad cae en pocos meses"
+  },
+  "grow": {
+   "zones": "USDA 7–10",
+   "climates": [
+    "Subtropical",
+    "Templado",
+    "Monzónico"
+   ],
+   "sun": "Pleno sol a semisombra",
+   "water": "Moderado a alto",
+   "soil": "Profundo, húmedo, bien drenado y ácido",
+   "propagation": "División de rizomas; semilla cuando la hay",
+   "timeToHarvest": "Brotes en primavera tras 3–5 años; cañas maderables a los 4–6 años",
+   "steps": [
+    "Plantar una división de rizoma en primavera en suelo profundo y rico",
+    "Instalar una barrera antirrizomas de al menos 60 cm de profundidad, ya que el bambú corredor es invasor",
+    "Regar y acolchar abundantemente",
+    "Cosechar los brotes cuando asoman en primavera y hervirlos antes de comerlos"
+   ]
+  },
+  "lore": "Letrados chinos como Su Shi elogiaron el bambú, y el moso forma parte de la historia de Meng Zong, uno de los Veinticuatro Ejemplos de Piedad Filial, que lloró en un bosquete invernal hasta que brotaron retoños de bambú para su madre enferma; el nombre japonés 'mōsōchiku' lo honra.",
+  "funFact": "Un bosquete de moso suele ser una sola planta conectada, con todas las cañas unidas por una red subterránea de rizomas."
+ },
+ {
+  "scientific": "Nelumbo nucifera",
+  "common": "Loto sagrado",
+  "summary": "La flor que surge limpia del barro, central en el hinduismo y el budismo. Sus hojas repelen tanto el agua que las gotas ruedan arrastrando la suciedad (el 'efecto loto'), sus flores se calientan a sí mismas y se ha logrado hacer germinar una semilla de unos 1300 años.",
+  "nativeRange": "Sur y este de Asia hasta el norte de Australia; introducciones antiguas en otros lugares",
+  "biomes": [
+   "Humedales de agua dulce",
+   "Estanques y lagos poco profundos"
+  ],
+  "abilities": [
+   "La superficie de sus hojas está cubierta de nanoprotuberancias de cera que la hacen superhidrófoba y autolimpiable",
+   "Calienta sus flores a unos 30–35 °C durante días, incluso en noches frescas",
+   "Produce semillas que pueden seguir vivas durante siglos; una procedente del lecho seco de un lago del noreste de China germinó tras unos 1300 años",
+   "Conduce aire hasta sus rizomas por canales huecos de sus pecíolos"
+  ],
+  "edibleParts": [
+   "rizoma (raíz de loto)",
+   "semillas",
+   "hojas tiernas",
+   "estambres (infusión)",
+   "hojas (para envolver alimentos)"
+  ],
+  "edibilityNote": "Se comen todas sus partes principales. Cocine el rizoma antes de comerlo, ya que las plantas acuáticas crudas pueden portar parásitos como Fasciolopsis; si se desea, retire el embrión verde y amargo de las semillas.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Medicina tradicional china",
+     "use": "Semillas (lian zi) para calmar el corazón; hojas (he ye) para el calor del verano; el embrión de la semilla (lian zi xin) como amargo refrescante"
+    },
+    {
+     "tradition": "Ayurveda",
+     "use": "Flores y rizoma (kamala) para hemorragias, diarrea y afecciones de la piel"
+    }
+   ],
+   "cautions": "Los preparados de hoja y de embrión pueden bajar la tensión arterial y la glucemia; precaución si se toma medicación."
+  },
+  "fruit": {
+   "type": "Núculas en un receptáculo agrandado",
+   "season": "Final del verano",
+   "description": "Una cápsula de semillas de parte superior plana, como una alcachofa de ducha, con cada nuez encajada en su propio hueco."
+  },
+  "seed": {
+   "description": "Nuez dura parecida a una bellota",
+   "size": "~1,5 cm",
+   "dispersal": "Agua, después de que la cápsula se vuelque",
+   "germination": "Limar la cubierta dura por el extremo no puntiagudo y remojar en agua tibia; brota en pocos días"
+  },
+  "grow": {
+   "zones": "USDA 4–11 (rhizome must not freeze)",
+   "climates": [
+    "Tropical",
+    "Subtropical",
+    "Templado"
+   ],
+   "sun": "Pleno sol",
+   "water": "Acuático: 10–60 cm de agua quieta",
+   "soil": "Franco pesado o arcilla en el fondo del estanque",
+   "propagation": "Semilla escarificada o tubérculos del rizoma",
+   "timeToHarvest": "Flores en 1–2 años desde semilla; rizomas tras una temporada",
+   "steps": [
+    "Hacer una muesca en la cubierta de la semilla y remojarla en agua tibia, cambiándola a diario",
+    "Plantar la semilla germinada en franco pesado en un recipiente ancho y sin agujeros",
+    "Sumergir en agua quieta y soleada y aumentar la profundidad a medida que crecen las hojas",
+    "Darle al menos 6 horas de sol y agua templada para que florezca"
+   ]
+  },
+  "lore": "En la iconografía hindú, Lakshmi y Brahma se sientan sobre lotos, y el arte budista muestra al Buda en un trono de loto; 'Om mani padme hum' significa 'la joya en el loto'. El ensayo del siglo XI de Zhou Dunyi 'Sobre el amor al loto' lo elogió por surgir sin mancha del barro.",
+  "funFact": "Las pinturas y tejidos autolimpiables imitan la microestructura de la hoja de loto; 'Lotus-Effect' es una marca registrada."
+ },
+ {
+  "scientific": "Victoria amazonica",
+  "common": "Victoria regia (irupé)",
+  "summary": "Un nenúfar cuyas hojas alcanzan unos 3 m de diámetro, con nervios por debajo como las vigas de un puente. Sus flores se abren blancas y perfumadas la primera noche, encierran escarabajos en su interior y vuelven a abrirse rosadas la noche siguiente para liberarlos cubiertos de polen.",
+  "nativeRange": "Cuenca amazónica: Brasil, Perú, Colombia, Bolivia, Guyana",
+  "biomes": [
+   "Lagos de llanura de inundación",
+   "Remansos de aguas lentas"
+  ],
+  "abilities": [
+   "Produce hojas flotantes de hasta unos 3 m de diámetro con el borde levantado",
+   "Los nervios espinosos de su cara inferior atrapan aire y reparten la carga, de modo que una hoja puede sostener a un niño pequeño si el peso se reparte",
+   "Calienta su flor de la primera noche y libera un aroma parecido al de la piña para atraer a escarabajos escarabeidos del género Cyclocephala",
+   "Cambia de sexo en dos noches: femenina y blanca la primera noche, masculina y rosada la segunda"
+  ],
+  "edibleParts": [
+   "semillas (tostadas o molidas)",
+   "rizoma (cocinado)"
+  ],
+  "edibilityNote": "Localmente, sus semillas ricas en almidón se tuestan o se muelen para hacer harina. Los pecíolos y el envés de las hojas están cubiertos de espinas afiladas.",
+  "fruit": {
+   "type": "Baya espinosa",
+   "season": "Después de la floración",
+   "description": "Fruto espinoso que se desarrolla bajo el agua y libera semillas del tamaño de un guisante."
+  },
+  "seed": {
+   "description": "Semillas redondas y duras",
+   "size": "~1 cm",
+   "dispersal": "Agua",
+   "germination": "Conservar en agua (mueren si se secan); germinar a unos 30 °C"
+  },
+  "grow": {
+   "zones": "Tropical only (USDA 11–12) or heated glasshouse pool",
+   "climates": [
+    "Tropical"
+   ],
+   "sun": "Pleno sol",
+   "water": "Agua quieta y cálida, a 28–32 °C",
+   "soil": "Franco pesado y rico en un recipiente grande",
+   "propagation": "Semilla (normalmente se cultiva como anual)",
+   "timeToHarvest": "Flores a los 4–6 meses desde semilla",
+   "steps": [
+    "Mantener la semilla en agua hasta la siembra",
+    "Germinar en agua poco profunda a unos 30 °C",
+    "Pasar a un recipiente grande y muy fértil en un estanque amplio y cálido",
+    "Abonar abundantemente: una sola planta necesita mucho alimento"
+   ]
+  },
+  "lore": "John Lindley dio al género el nombre de la joven reina Victoria en 1837, a partir de ejemplares que Robert Schomburgk envió desde la Guayana Británica; Joseph Paxton, en Chatsworth, logró que floreciera por primera vez en noviembre de 1849. Paxton dijo que la hoja nervada inspiró la estructura de hierro y vidrio del Palacio de Cristal de la Gran Exposición de 1851.",
+  "funFact": "Paxton hizo que su hija Annie se pusiera de pie sobre una hoja (sobre una bandeja para repartir su peso), una imagen que hizo famosa a la planta."
+ },
+ {
+  "scientific": "Carnegiea gigantea",
+  "common": "Saguaro",
+  "summary": "El cactus gigante del desierto de Sonora, que puede superar los 12 m de altura, vivir unos 150–200 años y pesar varias toneladas cuando está lleno de agua. Puede tardar 50–100 años en desarrollar su primer brazo. Sus pliegues se hinchan como un acordeón después de la lluvia.",
+  "nativeRange": "Desierto de Sonora, en Arizona, el sureste de California y Sonora (México)",
+  "biomes": [
+   "Desierto cálido"
+  ],
+  "abilities": [
+   "Expande su tallo plegado para almacenar cientos de litros de agua tras la lluvia",
+   "Abre flores nocturnas polinizadas por el murciélago magueyero menor, y de día por aves y abejas",
+   "Sus oquedades, excavadas por el carpintero de Gila y el carpintero collarejo dorado, albergan búhos, golondrinas purpúreas y otras aves",
+   "Alimenta a los animales del desierto a principios del verano, cuando madura su fruto y hay poco más disponible"
+  ],
+  "edibleParts": [
+   "pulpa del fruto",
+   "semillas"
+  ],
+  "edibilityNote": "El fruto maduro se come fresco, seco o hervido como sirope y mermelada. Recolectarlo de plantas silvestres en terrenos protegidos requiere permiso.",
+  "fruit": {
+   "type": "Baya",
+   "season": "Junio–julio",
+   "description": "Los frutos verdes se abren y dejan ver una pulpa roja repleta de diminutas semillas negras."
+  },
+  "seed": {
+   "description": "Semillas negras diminutas y brillantes",
+   "size": "~1,5 mm",
+   "dispersal": "Aves, murciélagos y mamíferos",
+   "germination": "Sembrar en superficie sobre sustrato con grava, con calor y humedad; las plántulas necesitan sombra"
+  },
+  "grow": {
+   "zones": "USDA 9–11",
+   "climates": [
+    "Árido"
+   ],
+   "sun": "Pleno sol (sombra para las plántulas)",
+   "water": "Muy bajo",
+   "soil": "Con grava, pedregoso y con drenaje perfecto",
+   "propagation": "Semilla",
+   "timeToHarvest": "Florece hacia los 35–70 años",
+   "steps": [
+    "Sembrar en superficie bajo una cubierta transparente y mantener con calor y ligeramente húmedo",
+    "Dar sombra a las plántulas, ya que en la naturaleza crecen bajo árboles 'nodriza' como el palo verde",
+    "Regar con moderación; proteger de las heladas",
+    "Compre solo plantas de vivero: arrancar saguaros silvestres es ilegal en Arizona"
+   ]
+  },
+  "lore": "Para los tohono o'odham, la cosecha del saguaro (bahidaj) a principios del verano marca el año nuevo, y el vino fermentado de saguaro se usa en una ceremonia de lluvia para llamar al monzón. La flor del saguaro es la flor oficial del estado de Arizona.",
+  "funFact": "Las plántulas de saguaro pueden crecer solo unos pocos centímetros en su primera década."
+ },
+ {
+  "scientific": "Yucca brevifolia",
+  "common": "Árbol de Josué",
+  "summary": "La yuca arborescente, desgreñada y retorcida, del desierto de Mojave, que depende por completo de una sola polilla. La polilla de la yuca introduce deliberadamente polen en la flor y pone allí sus huevos, y sus larvas se comen algunas semillas, pero no todas. El calentamiento climático está reduciendo las zonas donde puede vivir.",
+  "nativeRange": "Oeste del desierto de Mojave, en California y Nevada (las poblaciones orientales suelen tratarse como Yucca jaegeriana)",
+  "biomes": [
+   "Desierto cálido",
+   "Bosque desértico"
+  ],
+  "abilities": [
+   "La poliniza únicamente la polilla de la yuca Tegeticula synthetica, que recoge polen y lo introduce a propósito en la flor",
+   "Genera clones a partir de raíces y rizomas, sobre todo después de sufrir daños",
+   "Solo se ramifica después de florecer o cuando se daña su yema terminal",
+   "Ofrece lugares de nidificación y alimento a aves, lagartos y ratas cambalacheras del desierto"
+  ],
+  "edibleParts": [
+   "botones florales (asados)",
+   "semillas"
+  ],
+  "edibilityNote": "Los pueblos indígenas del Mojave asaban los botones florales y comían las semillas. Como otras yucas, contiene saponinas, que son amargas y pueden causar malestar estomacal.",
+  "fruit": {
+   "type": "Cápsula",
+   "season": "Final de la primavera",
+   "description": "Cápsulas verdes en forma de huevo que se secan y liberan semillas negras y planas."
+  },
+  "seed": {
+   "description": "Semillas negras y planas",
+   "size": "~1 cm",
+   "dispersal": "Roedores que almacenan semillas en escondites",
+   "germination": "Sembrar fresca, con calor, en sustrato arenoso; germina rápido, pero las plántulas crecen despacio"
+  },
+  "grow": {
+   "zones": "USDA 6–10",
+   "climates": [
+    "Árido"
+   ],
+   "sun": "Pleno sol",
+   "water": "Muy bajo",
+   "soil": "Arenoso, pedregoso y con drenaje muy rápido",
+   "propagation": "Semilla, hijuelos",
+   "timeToHarvest": "Florece tras 30–60 años",
+   "steps": [
+    "Sembrar en macetas hondas con sustrato arenoso",
+    "Mantener con calor y apenas húmedo",
+    "Plantar joven a pleno sol en terreno muy drenante",
+    "No traslade plantas silvestres: el árbol de Josué está protegido en California"
+   ]
+  },
+  "lore": "Se cuenta que los colonos mormones que cruzaban el Mojave en la década de 1850 le dieron el nombre del Josué bíblico, alzando las manos al cielo. Los cahuilla usaban las fibras de sus hojas para cestos y sandalias, y sus raíces para obtener un tinte rojo.",
+  "funFact": "Los estudios predicen que, en escenarios de fuerte calentamiento, el Parque Nacional Joshua Tree podría perder para 2100 la mayor parte de su hábitat adecuado para el árbol de Josué."
+ },
+ {
+  "scientific": "Populus tremuloides",
+  "common": "Álamo temblón americano",
+  "summary": "Una arboleda de álamos de Utah, llamada Pando, es un único clon masculino con unos 47 000 troncos sobre un mismo sistema de raíces, que cubre unas 43 hectáreas y pesa alrededor de 6000 toneladas. A menudo se la considera el organismo más pesado conocido. Sus hojas, con pecíolos aplanados, se agitan con la brisa más leve.",
+  "nativeRange": "Todo Canadá y Alaska, y al sur por las Montañas Rocosas hasta el norte de México",
+  "biomes": [
+   "Bosque boreal",
+   "Bosque montano",
+   "Bosque abierto con pradera"
+  ],
+  "abilities": [
+   "Se extiende mediante brotes de raíz formando clones enormes; Pando es un solo individuo genético de unos 47 000 tallos",
+   "Sus pecíolos aplanados hacen que las hojas tiemblen con el viento más leve",
+   "Realiza la fotosíntesis a través de su corteza de color blanco verdoso pálido, incluso en invierno",
+   "Rebrota rápidamente tras un incendio, actuando como cortafuegos natural y especie pionera",
+   "Es el árbol de distribución más amplia de Norteamérica"
+  ],
+  "edibleParts": [
+   "corteza interna (primavera, alimento de hambruna)",
+   "amentos"
+  ],
+  "edibilityNote": "Los pueblos indígenas comían la corteza interna en primavera y en épocas difíciles. La corteza contiene salicina y compuestos afines, por lo que las personas alérgicas a la aspirina deben evitarla.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Medicina indígena norteamericana (p. ej., cree)",
+     "use": "Infusión de corteza para la fiebre, el dolor y la tos; el polvo blanco de la corteza se usaba como protector solar"
+    }
+   ],
+   "cautions": "Salicilatos: evítese en caso de alergia a la aspirina, con anticoagulantes y en niños con enfermedades víricas."
+  },
+  "fruit": {
+   "type": "Cápsula",
+   "season": "Final de la primavera",
+   "description": "Amentos de pequeñas cápsulas que liberan semillas algodonosas."
+  },
+  "seed": {
+   "description": "Semillas minúsculas con pelos algodonosos",
+   "size": "<1 mm",
+   "dispersal": "Viento",
+   "germination": "Sembrar de inmediato sobre suelo húmedo; la viabilidad dura solo de días a semanas"
+  },
+  "grow": {
+   "zones": "USDA 1–7",
+   "climates": [
+    "Boreal",
+    "Continental",
+    "Montano"
+   ],
+   "sun": "Pleno sol",
+   "water": "Moderado",
+   "soil": "Adaptable; húmedo y bien drenado",
+   "propagation": "Esquejes de raíz o brotes de raíz; semilla fresca",
+   "timeToHarvest": "Ornamental; cada tallo vive unos 100–150 años",
+   "steps": [
+    "Tomar esquejes de raíz o desenterrar un brote de raíz a principios de primavera",
+    "Plantar a pleno sol con espacio para extenderse",
+    "Cuente con que saldrán brotes de raíz; siéguelos o córtelos donde no los quiera",
+    "Proteger los tallos jóvenes del ramoneo de ciervos y uapitíes"
+   ]
+  },
+  "lore": "Pando se identificó como un único clon en la década de 1970, y las pruebas genéticas lo confirmaron en 2008. Un estudio genético de 2024 estimó que Pando podría tener entre unos 16 000 y 80 000 años, aunque la cifra es incierta.",
+  "funFact": "Pando no se está regenerando bien, porque los ciervos mulos y los uapitíes se comen casi todos los brotes jóvenes; se están usando zonas valladas para ayudarlo."
+ },
+ {
+  "scientific": "Mimosa pudica",
+  "common": "Mimosa púdica (sensitiva, dormilona)",
+  "summary": "Una planta que pliega las hojas en segundos cuando se la toca. Unas señales eléctricas recorren el tallo, y las células motoras de los engrosamientos situados en la base de las hojas pierden agua de golpe y se colapsan. Los experimentos sugieren que puede 'aprender' a ignorar molestias repetidas e inofensivas.",
+  "nativeRange": "Centroamérica y Sudamérica tropicales; hoy es una mala hierba pantropical",
+  "biomes": [
+   "Pastizal tropical",
+   "Terrenos alterados",
+   "Bordes de caminos"
+  ],
+  "abilities": [
+   "Pliega los folíolos a los pocos segundos de un roce, calor o sacudida (sismonastia) mediante las células motoras del pulvínulo",
+   "Envía potenciales de acción eléctricos a lo largo del tallo para coordinar el plegado de las hojas",
+   "Pliega las hojas por la noche siguiendo un reloj circadiano interno",
+   "En un experimento de 2014 dejó de plegarse ante caídas repetidas e inofensivas y conservó esta 'memoria' durante semanas",
+   "Fija nitrógeno mediante nódulos en las raíces"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "No se come. Contiene el aminoácido mimosina, tóxico para el ganado en cantidad (caída del pelo, crecimiento deficiente). Los tallos tienen pequeñas espinas.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Ayurveda / Siddha",
+     "use": "Raíces y hojas (lajjalu) para las hemorroides sangrantes, la diarrea y la cicatrización de heridas"
+    },
+    {
+     "tradition": "Medicina tradicional de Filipinas y África",
+     "use": "Cataplasmas de hojas para heridas e hinchazones"
+    }
+   ],
+   "cautions": "La mimosina es tóxica en grandes cantidades; evítese durante el embarazo. Es una mala hierba invasora en muchos países."
+  },
+  "fruit": {
+   "type": "Legumbre (vaina)",
+   "season": "Gran parte del año en los trópicos",
+   "description": "Racimos de pequeñas vainas erizadas que se rompen en segmentos de una semilla."
+  },
+  "seed": {
+   "description": "Semillas pardas, planas y duras",
+   "size": "~2,5 mm",
+   "dispersal": "Los segmentos de la vaina se adhieren al pelaje y a la ropa",
+   "germination": "Remojar en agua caliente durante la noche; sembrar a 20–30 °C, 1–3 semanas"
+  },
+  "grow": {
+   "zones": "USDA 9–11 (houseplant elsewhere)",
+   "climates": [
+    "Tropical",
+    "Subtropical"
+   ],
+   "sun": "Pleno sol a luz intensa",
+   "water": "Moderado",
+   "soil": "Sustrato de maceta bien drenado",
+   "propagation": "Semilla",
+   "timeToHarvest": "Hojas sensibles en pocas semanas",
+   "steps": [
+    "Verter agua caliente sobre las semillas y dejarlas en remojo toda la noche",
+    "Sembrar a poca profundidad, con calor y luz",
+    "Mantener uniformemente húmeda y por encima de 15 °C",
+    "Cultivar en maceta donde sea invasora al aire libre"
+   ]
+  },
+  "lore": "En 1729 el astrónomo francés Jean-Jacques d'Ortous de Mairan mantuvo una sensitiva en oscuridad total y comprobó que sus hojas seguían abriéndose y cerrándose cada día: el primer experimento que mostró la existencia de un reloj biológico interno.",
+  "funFact": "El experimento de Monica Gagliano de 2014 halló que las plantas habituadas seguían 'recordando' que debían ignorar las caídas inofensivas hasta 28 días después."
+ },
+ {
+  "scientific": "Lithops lesliei",
+  "common": "Piedra viva de Leslie (lithops)",
+  "summary": "Una planta disfrazada de guijarro. Cada Lithops es solo un par de hojas gruesas y soldadas, hundidas en el suelo, de las que únicamente asoman unas 'ventanas' con dibujos en la parte superior. La luz entra por esas ventanas e ilumina el interior de la hoja, lo que le permite hacer la fotosíntesis permaneciendo casi enterrada.",
+  "nativeRange": "Pastizales y afloramientos rocosos del norte de Sudáfrica (Gauteng, Noroeste, Estado Libre, Limpopo, Cabo Septentrional) y bordes de Botsuana",
+  "biomes": [
+   "Pastizal del Highveld",
+   "Afloramientos rocosos"
+  ],
+  "abilities": [
+   "Se camufla como una piedra, con colores que imitan la roca del lugar",
+   "Deja entrar la luz en la hoja a través de 'ventanas' translúcidas en la parte superior mientras el resto del cuerpo permanece bajo tierra",
+   "Cada año forma un nuevo par de hojas dentro del viejo, que después se arruga y es reabsorbido",
+   "Sus cápsulas de semillas solo se abren cuando se mojan, de modo que las gotas de lluvia hacen saltar las semillas"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "No se come.",
+  "fruit": {
+   "type": "Cápsula higrocástica",
+   "season": "Tras la floración otoñal",
+   "description": "Pequeñas cápsulas que se abren al mojarse y se cierran al secarse."
+  },
+  "seed": {
+   "description": "Semillas pardas como polvo",
+   "size": "~0,5 mm",
+   "dispersal": "Salpicadura de las gotas de lluvia",
+   "germination": "Sembrar en superficie sobre sustrato con grava, mantener húmedo a 15–25 °C; 1–3 semanas"
+  },
+  "grow": {
+   "zones": "USDA 10–11 (or sunny windowsill)",
+   "climates": [
+    "Árido",
+    "Semiárido"
+   ],
+   "sun": "Pleno sol a luz muy intensa",
+   "water": "Muy bajo; regar durante el crecimiento de verano y otoño, nada mientras se reabsorben las hojas viejas",
+   "soil": "Sobre todo grava mineral (pumita, arena) con un poco de compost",
+   "propagation": "Semilla, rara vez división",
+   "timeToHarvest": "Flores (margaritas amarillas) tras 3–4 años",
+   "steps": [
+    "Sembrar en superficie sobre grava fina y cubrir para mantener la humedad",
+    "Reducir poco a poco la humedad a medida que crecen las plántulas",
+    "Regar durante el crecimiento de verano y otoño; dejar de regar mientras salen las hojas nuevas",
+    "El exceso de riego es la principal causa de muerte: las hojas viejas se rajan y se pudren"
+   ]
+  },
+  "lore": "Debe su nombre a Thomas Leslie, botánico aficionado que la recolectó cerca de Pietersburg (hoy Polokwane) en 1912. Los granjeros afrikáneres llamaban a los Lithops 'beeskloutjies' porque su forma hendida recuerda la huella de la pezuña de una vaca.",
+  "funFact": "Los Lithops están tan bien escondidos que muchas especies solo se descubrieron cuando las plantas estaban en flor."
+ },
+ {
+  "scientific": "Selaginella lepidophylla",
+  "common": "Flor de piedra (doradilla, falsa rosa de Jericó)",
+  "summary": "Una selaginela del desierto que puede secarse hasta parecer muerta, enrollarse en una apretada bola parda y volver a ponerse verde a las pocas horas de regarla. Puede perder alrededor del 95 % de su agua y sobrevivir así durante años. Pertenece a las licófitas, un linaje de más de 400 millones de años.",
+  "nativeRange": "Desierto de Chihuahua, en el norte de México y el suroeste de Estados Unidos (Texas, Nuevo México, Arizona)",
+  "biomes": [
+   "Desierto cálido",
+   "Laderas rocosas calizas"
+  ],
+  "abilities": [
+   "Sobrevive a la pérdida de alrededor del 95 % de su contenido de agua (tolerancia a la desecación)",
+   "Enrolla los tallos hacia dentro al secarse, protegiendo del sol su centro vivo",
+   "Acumula trehalosa y otros azúcares que protegen sus células mientras está seca",
+   "Se desenrolla y reanuda la fotosíntesis a las pocas horas de rehidratarse"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "No es un alimento; solo se usa como infusión en la medicina popular.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Medicina popular mexicana",
+     "use": "Infusión (doradilla) para los cálculos renales, las afecciones urinarias y como diurético"
+    }
+   ],
+   "cautions": "Hay pocos datos de seguridad; evítese durante el embarazo."
+  },
+  "seed": {
+   "description": "Se reproduce por esporas (no tiene semillas): megasporas grandes y microsporas diminutas",
+   "size": "Esporas de microscópicas a ~0,3 mm",
+   "dispersal": "Viento y agua; también rueda cuando se desarraiga",
+   "germination": "Normalmente se cultiva por división, no por esporas"
+  },
+  "grow": {
+   "zones": "USDA 8–11",
+   "climates": [
+    "Árido",
+    "Semiárido"
+   ],
+   "sun": "Luz intensa a semisombra",
+   "water": "Bajo; dejar que se seque",
+   "soil": "Con grava, muy drenante",
+   "propagation": "División",
+   "timeToHarvest": "Revive en 3–4 horas tras el riego",
+   "steps": [
+    "Colocar la bola seca en un plato con grava y un poco de agua",
+    "Dejar que se abra y reverdezca, y luego pasarla a un sustrato con grava",
+    "Dejar que se seque entre riegos; la humedad constante provoca podredumbre",
+    "Puede secarse y revivir repetidamente, pero cada ciclo la somete a estrés"
+   ]
+  },
+  "lore": "Se vende en mercados de México y Estados Unidos para atraer la suerte y la prosperidad, a menudo con el nombre de 'rosa de Jericó', que en realidad corresponde a la especie de Oriente Próximo Anastatica hierochuntica. En la tradición mexicana se pone en agua los viernes para atraer la buena fortuna.",
+  "funFact": "No es un musgo ni un helecho, sino una licófita, emparentada con los licopodios gigantes cuyos restos formaron gran parte del carbón del mundo."
+ },
+ {
+  "scientific": "Hura crepitans",
+  "common": "Jabillo (ceiba amarilla, árbol del diablo)",
+  "summary": "Un árbol acorazado con espinas cónicas oscuras cuyas cápsulas de semillas, con forma de calabaza, estallan con un ruido como de disparo. Se han registrado velocidades de semilla de unos 70 m/s, que lanzan las semillas a decenas de metros. Su savia lechosa es cáustica y se ha usado como veneno para pescar y para flechas.",
+  "nativeRange": "América tropical, desde Centroamérica y el Caribe hasta la Amazonia; invasora en partes de África tropical",
+  "biomes": [
+   "Bosque tropical húmedo",
+   "Bosque de llanura inundable"
+  ],
+  "abilities": [
+   "Sus cápsulas, al secarse, acumulan tensión y revientan, lanzando las semillas a unos 60–70 m/s",
+   "Lanza las semillas hasta unos 45 m del árbol",
+   "Protege su tronco con espinas cónicas densas y afiladas",
+   "Crece rápido hasta convertirse en un árbol de dosel de 40–60 m"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "Todas sus partes son tóxicas. La savia lechosa (látex) causa quemaduras cutáneas con ampollas y puede causar lesiones oculares graves. Las semillas causan vómitos violentos, calambres abdominales y diarrea si se ingieren; contienen la proteína tóxica hurina. A veces se intoxican niños tras comer las semillas, que parecen pequeñas nueces.",
+  "fruit": {
+   "type": "Cápsula explosiva (regma)",
+   "season": "Estación seca",
+   "description": "Cápsulas segmentadas como pequeñas calabazas, de hasta 8 cm de diámetro, que se secan y estallan."
+  },
+  "seed": {
+   "description": "Semillas planas y redondas, como monedas",
+   "size": "~2 cm",
+   "dispersal": "Expulsión explosiva y después agua",
+   "germination": "Sembrar fresca en suelo cálido; manipular con guantes"
+  },
+  "lore": "Antes del papel secante, las cápsulas inmaduras se cortaban y se llenaban de arena fina para secar la tinta, origen del nombre inglés 'sandbox' (salvadera). Según se cuenta, los pueblos caribes usaban la savia para envenenar flechas y aturdir peces.",
+  "funFact": "El nombre de la especie, crepitans, significa 'crepitante' en latín, por el chasquido de disparo de sus cápsulas al estallar."
+ },
+ {
+  "scientific": "Cannabis sativa",
+  "common": "Cáñamo (cannabis)",
+  "summary": "Uno de los cultivos más antiguos de la humanidad, cultivado para cuerda y tela, semillas comestibles, aceite, medicina y su resina psicoactiva. Las glándulas resiníferas de las flores producen THC y CBD, compuestos que actúan sobre el sistema endocannabinoide del propio organismo.",
+  "nativeRange": "Asia central y meridional (posiblemente Asia oriental); cultivado en todo el mundo",
+  "biomes": [
+   "Pastizal templado",
+   "Terrenos alterados",
+   "Cultivo"
+  ],
+  "abilities": [
+   "Produce fibras liberianas largas y resistentes que se usan para cuerdas, velas, papel y tela",
+   "Produce resina en tricomas glandulares ricos en cannabinoides (THC, CBD) y terpenos",
+   "Muchas variedades pasan a florecer cuando las noches se alargan",
+   "Crece con extrema rapidez y alcanza 2–5 m en una sola temporada"
+  ],
+  "edibleParts": [
+   "semillas (semillas de cáñamo peladas)",
+   "aceite de semilla",
+   "hojas tiernas (en algunas cocinas)"
+  ],
+  "edibilityNote": "Las semillas y el aceite de cáñamo contienen poco o ningún THC y se consumen ampliamente. Las flores y la resina son psicoactivas; los comestibles pueden causar intoxicaciones graves, sobre todo en niños y mascotas (los perros son muy sensibles). Su situación legal varía según el país.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Ayurveda",
+     "use": "Bhang purificado (vijaya) para el dolor, la digestión y el sueño"
+    },
+    {
+     "tradition": "Medicina tradicional china",
+     "use": "Semillas (huo ma ren) como laxante"
+    },
+    {
+     "tradition": "Medicina moderna",
+     "use": "CBD purificado (Epidiolex) aprobado para ciertas epilepsias; fármacos de THC (dronabinol, nabilona) para las náuseas de la quimioterapia y la pérdida de apetito"
+    }
+   ],
+   "cautions": "El THC puede causar ansiedad, psicosis en personas vulnerables, alteración de la capacidad de conducir y dependencia; el consumo intenso se asocia al síndrome de hiperémesis cannabinoide. El CBD interactúa con fármacos como el clobazam y los anticoagulantes. Evítese durante el embarazo."
+  },
+  "fruit": {
+   "type": "Aquenio",
+   "season": "Otoño",
+   "description": "Semillas pequeñas, lisas, de color pardo grisáceo, envueltas en una bráctea."
+  },
+  "seed": {
+   "description": "Aquenios duros, ovalados y jaspeados",
+   "size": "~3–5 mm",
+   "dispersal": "Aves y personas",
+   "germination": "Sembrar a 1 cm de profundidad a 20–25 °C; 3–7 días"
+  },
+  "grow": {
+   "zones": "Annual; any frost-free season",
+   "climates": [
+    "Templado",
+    "Subtropical",
+    "Tropical"
+   ],
+   "sun": "Pleno sol",
+   "water": "Moderado",
+   "soil": "Franco fértil y bien drenado",
+   "propagation": "Semilla, esquejes",
+   "timeToHarvest": "Fibra en 70–90 días; semilla en 100–120 días",
+   "steps": [
+    "Consulte la legislación local: el cultivo está restringido o requiere licencia en muchos lugares",
+    "Sembrar después de la última helada en suelo fértil",
+    "Para fibra, sembrar denso; para semilla, sembrar con mucho espacio",
+    "Cosechar los tallos para fibra al inicio de la floración; cosechar la semilla cuando la mayoría esté parda"
+   ]
+  },
+  "lore": "Se conocen telas y cordeles de cáñamo del Neolítico chino, y Heródoto (siglo V a. C.) describió a los escitas arrojando semillas de cáñamo sobre piedras calientes y aullando de placer en el vapor. Unos braseros de un cementerio de unos 2500 años en Jirzankal, en el Pamir, contienen residuos de cannabis rico en THC.",
+  "funFact": "La palabra inglesa 'canvas' (lona, lienzo), igual que la española 'cañamazo', procede de cannabis, a través del francés antiguo y el latín."
+ },
+ {
+  "scientific": "Erythroxylum coca",
+  "common": "Coca",
+  "summary": "La hoja sagrada de los Andes, mascada durante miles de años para aliviar el hambre, el cansancio y los efectos de la altitud. Sus hojas contienen alrededor de un 0,5–1 % de cocaína, que en forma de hoja es suave, pero que se convirtió en una potente droga adictiva una vez extraída en 1860.",
+  "nativeRange": "Vertientes orientales de los Andes en Perú y Bolivia; cultivada en Colombia y otros lugares",
+  "biomes": [
+   "Bordes del bosque nuboso montano (yungas)",
+   "Cultivo"
+  ],
+  "abilities": [
+   "Produce en sus hojas cocaína y alcaloides afines, que disuaden a los insectos herbívoros",
+   "Crece en laderas andinas empinadas y en terrazas, y puede cosecharse varias veces al año",
+   "Su hoja es nutritiva, con cantidades importantes de calcio y hierro"
+  ],
+  "edibleParts": [
+   "hojas (mascadas o en infusión)"
+  ],
+  "edibilityNote": "Las hojas se mascan con una ceniza alcalina (llipta) o se preparan como mate de coca, legal en Perú y Bolivia pero ilegal en muchos países. La cocaína extraída es muy adictiva y puede causar infarto de miocardio, ictus y la muerte. El consumo de la hoja da positivo en los controles de drogas.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Medicina tradicional andina",
+     "use": "Hojas mascadas o bebidas en infusión para el mal de altura, el hambre, el cansancio y el dolor de estómago"
+    },
+    {
+     "tradition": "Medicina moderna",
+     "use": "Clorhidrato de cocaína usado como anestésico tópico y vasoconstrictor en intervenciones de nariz y garganta"
+    }
+   ],
+   "cautions": "La cocaína es adictiva y cardiotóxica. Los productos de la hoja están controlados en la mayoría de los países fuera de los Andes."
+  },
+  "fruit": {
+   "type": "Drupa",
+   "season": "Todo el año",
+   "description": "Pequeñas drupas rojas de alrededor de 1 cm de largo."
+  },
+  "seed": {
+   "description": "Una sola semilla por drupa",
+   "size": "~5–8 mm",
+   "dispersal": "Aves",
+   "germination": "Sembrar fresca; germina en pocas semanas"
+  },
+  "lore": "La coca aparece en cerámicas mochicas que muestran a coqueros con las mejillas abultadas, y bajo los incas su uso estaba reservado en gran medida a la nobleza y a los rituales. Albert Niemann aisló la cocaína en 1860, y en 1884 Carl Koller demostró que podía insensibilizar el ojo para la cirugía: el primer anestésico local.",
+  "funFact": "La Coca-Cola contenía originalmente extracto de coca; la empresa aún usa un aromatizante de hoja de coca descocainizada, procesado por una única instalación con licencia en Estados Unidos."
+ },
+ {
+  "scientific": "Lophophora williamsii",
+  "common": "Peyote",
+  "summary": "Un pequeño cactus sin espinas del desierto de Chihuahua que produce mescalina, usada en ceremonias por pueblos indígenas desde hace al menos 5700 años. Crece muy despacio, tarda años en alcanzar el tamaño de cosecha, y la sobrerrecolección y el desmonte de tierras lo han vuelto vulnerable.",
+  "nativeRange": "Desierto de Chihuahua y matorral espinoso tamaulipeco del sur de Texas y el centro-norte de México",
+  "biomes": [
+   "Desierto cálido",
+   "Matorral espinoso"
+  ],
+  "abilities": [
+   "Sintetiza mescalina y decenas de alcaloides afines de tipo fenetilamina e isoquinolina",
+   "No tiene espinas; se defiende con alcaloides amargos y camuflándose bajo los arbustos",
+   "Si se corta correctamente, rebrota nuevos 'botones' desde su raíz en forma de zanahoria tras cortar la corona",
+   "Crece con extrema lentitud: en estado silvestre a menudo tarda más de 10 años en alcanzar el tamaño de floración"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "No es un alimento. La corona es intensamente amarga y suele causar náuseas y vómitos, junto con potentes alucinaciones por la mescalina y aumento de la frecuencia cardiaca y la presión arterial. Es peligroso para personas con afecciones cardiacas o psicosis; es ilegal en la mayoría de los lugares, salvo para el uso religioso protegido.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Medicina indígena mexicana y nativa americana",
+     "use": "Usado para el dolor, la fiebre, las heridas y en ceremonias de curación"
+    },
+    {
+     "tradition": "Iglesia Nativa Americana",
+     "use": "Uso sacramental en reuniones de oración que duran toda la noche"
+    }
+   ],
+   "cautions": "Alucinógeno; puede desencadenar psicosis y conductas peligrosas; interactúa con los IMAO y otros fármacos."
+  },
+  "fruit": {
+   "type": "Baya",
+   "season": "Verano",
+   "description": "Pequeño fruto rosado en forma de maza, con semillas negras."
+  },
+  "seed": {
+   "description": "Pequeñas semillas negras",
+   "size": "~1–1,5 mm",
+   "dispersal": "Animales y lluvia",
+   "germination": "Sembrar en superficie sobre sustrato con grava, bajo cubierta; crecimiento muy lento"
+  },
+  "lore": "Unos botones de peyote hallados en las cuevas de Shumla (Texas) se han datado por radiocarbono en unos 5700 años de antigüedad. Los wixárika (huicholes) peregrinan cada año a Wirikuta, en San Luis Potosí, para recolectar hikuri, y la ley federal de Estados Unidos (enmiendas a la AIRFA, 1994) protege su uso sacramental por los miembros de la Iglesia Nativa Americana.",
+  "funFact": "La mescalina, aislada del peyote por Arthur Heffter en 1897, fue el primer compuesto psicodélico que se aisló."
+ },
+ {
+  "scientific": "Banisteriopsis caapi",
+  "common": "Ayahuasca (caapi, yagé)",
+  "summary": "Una liana leñosa amazónica que es el núcleo de la ayahuasca, el brebaje visionario de muchos pueblos amazónicos. Sus alcaloides harmálicos bloquean la enzima monoaminooxidasa, lo que permite que la DMT de hojas como la chacruna (Psychotria viridis) actúe al beberse.",
+  "nativeRange": "Cuenca amazónica y zonas tropicales adyacentes de Sudamérica (Brasil, Colombia, Ecuador, Perú, Bolivia)",
+  "biomes": [
+   "Selva tropical"
+  ],
+  "abilities": [
+   "Produce alcaloides β-carbolínicos (harmina, harmalina, tetrahidroharmina) que inhiben la monoaminooxidasa A",
+   "Trepa hasta lo alto del dosel de la selva como una liana gruesa y retorcida",
+   "Su inhibición de la MAO permite que la DMT sea activa por vía oral, una combinación que los pueblos indígenas descubrieron sin ninguna química"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "No es un alimento. El brebaje causa vómitos y diarrea (considerados una 'purga' en el ritual) y visiones intensas. Es peligroso combinado con ISRS, otros antidepresivos, estimulantes y ciertos alimentos, porque la inhibición de la MAO puede causar síndrome serotoninérgico o crisis hipertensiva; se han producido muertes, a menudo con brebajes mezclados o interacciones con fármacos.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Vegetalismo indígena y mestizo amazónico",
+     "use": "Curación, adivinación y guía espiritual en ceremonias dirigidas por curanderos"
+    },
+    {
+     "tradition": "Religiones ayahuasqueras brasileñas (Santo Daime, União do Vegetal)",
+     "use": "Uso sacramental"
+    },
+    {
+     "tradition": "Investigación clínica",
+     "use": "Pequeños ensayos de ayahuasca para la depresión resistente al tratamiento"
+    }
+   ],
+   "cautions": "Inhibidor de la MAO: interacciones graves con antidepresivos, estimulantes y alimentos ricos en tiramina; no apto para personas con psicosis o cardiopatías ni durante el embarazo."
+  },
+  "fruit": {
+   "type": "Sámara",
+   "season": "Variable",
+   "description": "Frutos alados típicos de la familia de las malpigiáceas."
+  },
+  "seed": {
+   "description": "Sámara alada",
+   "size": "~2–3 cm con el ala",
+   "dispersal": "Viento",
+   "germination": "Normalmente se propaga por esquejes de tallo y no por semilla"
+  },
+  "lore": "El botánico inglés Richard Spruce recolectó la liana entre los pueblos tucano del río Negro en 1851. En 2006 el Tribunal Supremo de Estados Unidos (Gonzales v. O Centro Espírita Beneficente União do Vegetal) confirmó el derecho de una iglesia a usar el té de hoasca.",
+  "funFact": "En la década de 1920 la harmina llegó a llamarse 'telepatina' por las visiones que referían quienes bebían ayahuasca."
+ },
+ {
+  "scientific": "Nerium oleander",
+  "common": "Adelfa (laurel rosa)",
+  "summary": "Un arbusto florido, hermoso y resistente, plantado en autopistas y jardines de todos los climas cálidos, y una de las plantas de jardín comunes más venenosas. Todas sus partes contienen glucósidos cardiacos que alteran el ritmo del corazón. Fue la primera planta que floreció en Hiroshima tras el bombardeo de 1945.",
+  "nativeRange": "Región mediterránea y norte de África, a través de Oriente Próximo, hasta el sur de Asia y el sur de China",
+  "biomes": [
+   "Matorral mediterráneo",
+   "Cauces de ríos y uadis"
+  ],
+  "abilities": [
+   "Tolera la sequía, la salpicadura salina, el calor, los suelos pobres y la contaminación urbana",
+   "Produce potentes glucósidos cardiacos (oleandrina) en todos sus tejidos",
+   "Crece a lo largo de cauces estacionales y sobrevive a crecidas y largas estaciones secas",
+   "Sus flores no ofrecen néctar; la polinizan insectos a los que 'engaña'"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "Todas sus partes son venenosas: hojas, flores, tallos, semillas, raíces y savia, frescas o secas. Los glucósidos cardiacos oleandrina y nerina causan náuseas, vómitos, dolor abdominal, latido lento o irregular y potasio alto en sangre, y pueden causar una parada cardiaca mortal. El humo de quemarla, el uso de sus tallos como pinchos y la miel de zonas ricas en adelfas han causado intoxicaciones. Es mortal para perros, gatos, caballos y ganado. El tratamiento puede incluir fragmentos de anticuerpos específicos antidigoxina. No debe confundirse con la adelfa amarilla (Cascabela thevetia), también mortal.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Ayurveda",
+     "use": "Raíz y hoja (karavira), tras su purificación, aplicadas externamente para enfermedades de la piel"
+    },
+    {
+     "tradition": "Unani",
+     "use": "Preparados de hoja usados externamente para la tiña y las hinchazones"
+    }
+   ],
+   "cautions": "Potencialmente mortal si se toma por vía interna; los suplementos y extractos de 'oleandrina' son peligrosos y no tienen eficacia demostrada."
+  },
+  "fruit": {
+   "type": "Folículo",
+   "season": "Final del verano–otoño",
+   "description": "Vainas largas y estrechas, en pares, que se abren para liberar semillas con pelos sedosos."
+  },
+  "seed": {
+   "description": "Semillas pardas con un penacho de pelos",
+   "size": "~5 mm",
+   "dispersal": "Viento",
+   "germination": "Normalmente se propaga por esquejes; la semilla germina con facilidad con calor"
+  },
+  "grow": {
+   "zones": "USDA 8–11",
+   "climates": [
+    "Mediterráneo",
+    "Subtropical",
+    "Árido"
+   ],
+   "sun": "Pleno sol",
+   "water": "Bajo una vez establecida",
+   "soil": "Cualquier suelo bien drenado",
+   "propagation": "Esquejes semileñosos",
+   "timeToHarvest": "Florece en 1–2 años",
+   "steps": [
+    "Use guantes al podar; la savia irrita la piel",
+    "Enraizar esquejes en agua o arena húmeda en verano",
+    "Plantar a pleno sol, lejos de donde jueguen niños y mascotas",
+    "No queme nunca los restos de poda ni use los tallos como pinchos"
+   ]
+  },
+  "lore": "La adelfa aparece pintada en los frescos de jardín de Pompeya, y Plinio el Viejo advirtió que era venenosa para los animales. Es la flor oficial de Hiroshima porque fue la primera en florecer tras el bombardeo atómico.",
+  "funFact": "Pese a su veneno, la adelfa es el alimento principal de la oruga de la adelfa (larva de la polilla Syntomeida epilais), que almacena las toxinas de la planta para su propia defensa."
+ },
+ {
+  "scientific": "Ricinus communis",
+  "common": "Ricino (higuerilla, tártago)",
+  "summary": "Una planta llamativa y de crecimiento rápido cuyas semillas jaspeadas contienen a la vez aceite de ricino y ricina, una de las proteínas naturales más tóxicas. El prensado las separa: el aceite es un laxante antiguo y seguro y un lubricante industrial, mientras que la ricina queda en la torta de semillas.",
+  "nativeRange": "Probablemente el noreste de África (Etiopía) y Oriente Próximo; naturalizado en todos los trópicos y regiones templadas cálidas",
+  "biomes": [
+   "Terrenos alterados",
+   "Riberas",
+   "Cultivo"
+  ],
+  "abilities": [
+   "Produce ricina, una proteína que inutiliza los ribosomas e impide que las células fabriquen proteínas",
+   "Almacena hasta ~50 % de aceite en sus semillas, sobre todo ácido ricinoleico, un hidroxiácido graso poco común",
+   "Lanza las semillas desde cápsulas explosivas y luego las hormigas se las llevan agarrándolas por su carúncula grasa",
+   "Crece varios metros en una sola temporada"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "Las semillas son mortales si se mastican o se trituran: la ricina causa síntomas tras un retraso de varias horas, como vómitos intensos, diarrea con sangre, deshidratación, presión arterial baja e insuficiencia del hígado, los riñones y el bazo; unas pocas semillas bien masticadas pueden matar a un niño. Las semillas tragadas enteras pueden atravesar el tubo digestivo intactas. El aceite de ricino comercial no contiene ricina. Las semillas se usan en bisutería y resultan atractivas para los niños; también son muy tóxicas para los perros.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Medicina del antiguo Egipto (papiro Ebers)",
+     "use": "Aceite de ricino como laxante y en ungüentos"
+    },
+    {
+     "tradition": "Ayurveda",
+     "use": "Aceite de ricino (eranda taila) como purgante y para el dolor articular (trastornos de vata)"
+    },
+    {
+     "tradition": "Medicina moderna",
+     "use": "El aceite de ricino es un laxante estimulante aprobado; el ácido ricinoleico también se usa en formulaciones farmacéuticas"
+    }
+   ],
+   "cautions": "El aceite de ricino puede causar calambres y diarrea y desencadenar contracciones uterinas; evítese durante el embarazo salvo bajo supervisión médica. No ingiera nunca las semillas."
+  },
+  "fruit": {
+   "type": "Cápsula espinosa",
+   "season": "Verano–otoño",
+   "description": "Cápsulas trilobuladas y espinosas, de verdes a rojas, que se abren de forma explosiva."
+  },
+  "seed": {
+   "description": "Semillas brillantes jaspeadas de pardo, negro y blanco, con una carúncula pálida",
+   "size": "~1–1,5 cm",
+   "dispersal": "Cápsulas explosivas y después hormigas",
+   "germination": "Remojar una noche y sembrar con calor (con guantes); 1–3 semanas"
+  },
+  "grow": {
+   "zones": "USDA 9–11 perennial; annual elsewhere",
+   "climates": [
+    "Tropical",
+    "Subtropical",
+    "Mediterráneo",
+    "Templado (anual)"
+   ],
+   "sun": "Pleno sol",
+   "water": "Moderado",
+   "soil": "Rico y bien drenado",
+   "propagation": "Semilla",
+   "timeToHarvest": "Semillas en 4–5 meses",
+   "steps": [
+    "Use guantes y mantenga las semillas lejos de niños y mascotas",
+    "Remojar la semilla una noche y sembrar en interior con calor",
+    "Plantar en el exterior tras las heladas en suelo rico",
+    "Retirar las espigas florales antes de que se formen semillas si acuden niños o animales"
+   ]
+  },
+  "lore": "Se han hallado semillas de ricino en tumbas egipcias de hacia el 4000 a. C., y Heródoto describió a los egipcios usando aceite de 'kiki' en sus lámparas. En 1978 el disidente búlgaro Georgi Markov fue asesinado en Londres con un diminuto perdigón de ricina disparado, según se cree, desde un paraguas modificado.",
+  "funFact": "'Ricinus' significa 'garrapata' en latín, porque las semillas parecen una garrapata hinchada."
+ },
+ {
+  "scientific": "Conium maculatum",
+  "common": "Cicuta (cicuta mayor)",
+  "summary": "El veneno que mató a Sócrates. La cicuta parece una zanahoria silvestre o un perejil altos y de follaje fino, pero todas sus partes contienen coniína y alcaloides afines que paralizan los músculos de las piernas hacia arriba, hasta acabar en insuficiencia respiratoria mientras la mente permanece lúcida.",
+  "nativeRange": "Europa, norte de África y Asia occidental; invasora en América, Australia y Nueva Zelanda",
+  "biomes": [
+   "Terrenos alterados",
+   "Riberas",
+   "Bordes de campos y cunetas"
+  ],
+  "abilities": [
+   "Produce alcaloides piperidínicos (coniína, γ-coniceína) que bloquean los receptores nicotínicos de la unión neuromuscular",
+   "Crece como bienal hasta 2–3 m de altura y forma rodales densos a lo largo de las acequias",
+   "Al estrujarla desprende un olor rancio, como a ratón, debido a sus alcaloides",
+   "La coniína fue el primer alcaloide sintetizado en un laboratorio (por Albert Ladenburg, en 1886)"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "Todas sus partes son mortales, sobre todo las semillas y las raíces; las hojas son más tóxicas en primavera, antes de la floración. Los síntomas empiezan entre 30 minutos y unas horas después de ingerirla: ardor en la boca, salivación, pupilas dilatadas, temblores y, después, parálisis muscular ascendente, enlentecimiento del corazón y muerte por insuficiencia respiratoria. Especies parecidas: zanahoria silvestre/encaje de la reina Ana (tallo peludo, sin manchas púrpuras, olor a zanahoria), perejil, perifollo, hinojo, perifollo silvestre y chirivía silvestre. Rasgos clave de la cicuta: tallo liso y hueco con manchas de color rojo púrpura y olor a ratón. Incluso manipularla puede causar irritación; lávese después del contacto.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Medicina grecorromana y europea medieval",
+     "use": "Aplicada externamente para tumores e hinchazones y como sedante; usada en Atenas como método de ejecución"
+    }
+   ],
+   "cautions": "Mortal; no tiene ningún uso doméstico seguro."
+  },
+  "fruit": {
+   "type": "Esquizocarpo",
+   "season": "Verano–otoño",
+   "description": "Frutos pequeños, de color pardo grisáceo, con costillas onduladas, dispuestos en umbelas."
+  },
+  "seed": {
+   "description": "Mericarpos con costillas, ~2–3 mm",
+   "size": "~2–3 mm",
+   "dispersal": "Viento, agua, animales y maquinaria",
+   "germination": "No apta para el cultivo; en muchos lugares se controla como mala hierba nociva"
+  },
+  "lore": "El Fedón de Platón describe la muerte de Sócrates en el 399 a. C. tras beber cicuta, con el entumecimiento subiendo desde sus pies. La cicuta figura entre los ingredientes del brebaje de las brujas en Macbeth: 'Root of hemlock digg'd i' the dark' (raíz de cicuta arrancada en la oscuridad).",
+  "funFact": "Según se ha documentado, codornices migratorias que comen semillas de cicuta han envenenado a personas que se comieron las aves, un síndrome llamado coturnismo."
+ },
+ {
+  "scientific": "Cicuta maculata",
+  "common": "Cicuta acuática manchada",
+  "summary": "A menudo se la considera la planta más tóxica de Norteamérica. Las raíces gruesas y tabicadas de la cicuta acuática contienen cicutoxina, que desencadena convulsiones violentas en apenas 15 minutos. Un trozo de raíz del tamaño de una nuez puede matar a una vaca de 550 kg, y ha muerto gente tras comer solo pequeñas cantidades.",
+  "nativeRange": "La mayor parte de Norteamérica, desde Canadá hasta México",
+  "biomes": [
+   "Prados húmedos",
+   "Marismas y pantanos",
+   "Orillas de arroyos y acequias"
+  ],
+  "abilities": [
+   "Produce cicutoxina, que bloquea los receptores GABA-A del cerebro y causa convulsiones incontroladas",
+   "Almacena la mayor parte de la toxina en raíces engrosadas y tabicadas que rezuman un líquido aceitoso amarillento al cortarlas",
+   "Crece en terrenos húmedos, donde puede confundirse con plantas comestibles de humedal",
+   "Es lo bastante tóxica para matar al ganado que come unas pocas raíces expuestas por el arado o las inundaciones"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "Todas sus partes son mortales, sobre todo las raíces y la base del tallo, especialmente en primavera. Síntomas en 15–60 minutos: náuseas, vómitos, dolor abdominal, espuma por la boca y, después, convulsiones violentas, latido irregular y muerte por insuficiencia respiratoria; los supervivientes pueden sufrir problemas musculares y de memoria duraderos. Especies parecidas: chirivía de agua (Sium suave), chirivía silvestre, zanahoria silvestre, angélica, chirivía de vaca y raíces comestibles de humedal. Rasgo clave: cuello de la raíz tabicado (hueco con paredes transversales) y nervios de las hojas que terminan en las escotaduras entre los dientes y no en las puntas.",
+  "fruit": {
+   "type": "Esquizocarpo",
+   "season": "Final del verano",
+   "description": "Frutos pequeños, redondos y con costillas, en umbelas laxas."
+  },
+  "seed": {
+   "description": "Pequeños mericarpos con costillas acorchadas",
+   "size": "~2–4 mm",
+   "dispersal": "Agua",
+   "germination": "No apta para el cultivo"
+  },
+  "lore": "Tanto los cronistas coloniales como las tradiciones indígenas registraron la cicuta acuática como un veneno mortal, y durante mucho tiempo fue una temida asesina de ganado en la frontera estadounidense, donde los animales comían las raíces expuestas por las crecidas de primavera o el arado.",
+  "funFact": "Se han intoxicado niños por usar sus tallos huecos como cerbatanas o silbatos."
+ },
+ {
+  "scientific": "Aconitum napellus",
+  "common": "Acónito (napelo, matalobos)",
+  "summary": "Una vivaz de jardín de porte señorial, con flores en forma de capucha de color azul violáceo, y una de las plantas más venenosas de Europa. La aconitina puede penetrar a través de la piel y causa hormigueo y entumecimiento, vómitos y arritmias cardiacas mortales. Según el mito griego, nació de la saliva de Cerbero.",
+  "nativeRange": "Montañas de Europa occidental y central",
+  "biomes": [
+   "Prados de montaña",
+   "Orillas de arroyos",
+   "Bordes de bosques húmedos"
+  ],
+  "abilities": [
+   "Produce aconitina, que mantiene abiertos de forma permanente los canales de sodio de los nervios y del músculo cardiaco",
+   "Sus flores en capucha solo pueden abrirlas abejorros de lengua larga",
+   "Almacena raíces tuberosas ricas en toxina que se renuevan cada año",
+   "Sus alcaloides pueden absorberse a través de la piel lesionada al manipularla"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "Todas las partes son mortales, sobre todo las raíces y las semillas. En cuestión de minutos a una hora: hormigueo y entumecimiento de la boca y la cara que se extienden a las extremidades, náuseas, vómitos, sudoración, debilidad y, después, arritmias ventriculares peligrosas y muerte. Sus raíces se han confundido con rábano picante u otras raíces, y sus hojas con verduras silvestres. Use guantes al manipularla; hay jardineros que se han intoxicado a través de la piel. No existe antídoto; el tratamiento es de soporte.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Medicina europea de los siglos XVIII–XIX",
+     "use": "Tintura de acónito como analgésico y remedio para la fiebre (hoy abandonada)"
+    },
+    {
+     "tradition": "Medicina tradicional china (especies afines)",
+     "use": "Raíces procesadas de Aconitum carmichaelii (fuzi) usadas para afecciones de 'frío'; el procesado reduce la toxicidad"
+    }
+   ],
+   "cautions": "Potencialmente mortal, incluso en productos de herbolario; en Asia se siguen notificando intoxicaciones por hierbas de acónito mal procesadas."
+  },
+  "fruit": {
+   "type": "Folículos",
+   "season": "Final del verano–otoño",
+   "description": "Grupos de tres a cinco cápsulas secas que se abren por un lado."
+  },
+  "seed": {
+   "description": "Semillas pequeñas, arrugadas y oscuras",
+   "size": "~3–4 mm",
+   "dispersal": "El viento las sacude de las cápsulas",
+   "germination": "Necesita estratificación en frío; lenta"
+  },
+  "grow": {
+   "zones": "USDA 3–8",
+   "climates": [
+    "Templado",
+    "Montano",
+    "Continental"
+   ],
+   "sun": "Semisombra a pleno sol",
+   "water": "Húmedo",
+   "soil": "Fértil y que retenga la humedad",
+   "propagation": "División de tubérculos; semilla",
+   "timeToHarvest": "Ornamental; florece a los 2–3 años desde semilla",
+   "steps": [
+    "Use siempre guantes al plantarlo, dividirlo o cortarlo",
+    "Plantar los tubérculos en suelo húmedo y rico, en semisombra",
+    "Mantenerlo lejos de los bancales de hortalizas y de los lugares donde juegan niños o mascotas",
+    "Etiquetarlo claramente; no plantarlo nunca cerca de rábano picante ni de otras raíces comestibles"
+   ]
+  },
+  "lore": "Las Metamorfosis de Ovidio cuentan que el acónito brotó de la espuma de Cerbero cuando Hércules lo arrastró fuera del inframundo. El nombre inglés 'wolfsbane' (matalobos) procede de su uso en cebos y venenos de flechas para lobos.",
+  "funFact": "La 'capucha de monje' es un sépalo, no un pétalo; los pétalos verdaderos se reducen a dos espolones ocultos dentro de ella que contienen néctar."
+ },
+ {
+  "scientific": "Hippomane mancinella",
+  "common": "Manzanillo de la muerte (manzanillo)",
+  "summary": "A menudo llamado el árbol más peligroso del mundo. Sus pequeños frutos verdes, parecidos a manzanas, queman la boca y la garganta; su savia lechosa produce ampollas en la piel, y refugiarse bajo él cuando llueve puede causar quemaduras, porque la lluvia arrastra la savia de las hojas. Aun así cumple una función importante sujetando las playas del Caribe.",
+  "nativeRange": "Sur de Florida, el Caribe, las Bahamas, Centroamérica y el norte de Sudamérica",
+  "biomes": [
+   "Franja costera",
+   "Bordes de manglar",
+   "Playas"
+  ],
+  "abilities": [
+   "Su látex contiene ésteres de forbol que causan ampollas graves en la piel y los ojos",
+   "Estabiliza playas y dunas de arena con raíces densas y copas que hacen de cortavientos",
+   "Tolera la salpicadura salina, los temporales y la arena pobre en nutrientes",
+   "Sus frutos flotan y extienden el árbol a lo largo de las costas por mar"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "Todas las partes son tóxicas. Comer el fruto, de olor dulce, causa ardor intenso, ampollas e hinchazón de la boca y la garganta, vómitos y diarrea con sangre; los relatos históricos describen muertes, aunque las muertes documentadas en época moderna son raras. La savia causa dermatitis con ampollas y puede provocar ceguera temporal; la lluvia que gotea de las hojas y el humo de la madera quemada también son nocivos. Se confunde con: manzanas silvestres o guayaba. Los árboles suelen estar señalados con bandas rojas o carteles de advertencia.",
+  "fruit": {
+   "type": "Drupa",
+   "season": "Gran parte del año",
+   "description": "Frutos pequeños, de verdes a amarillentos, como manzanas silvestres, de olor agradable."
+  },
+  "seed": {
+   "description": "Hueso duro con varias semillas",
+   "size": "~1,5 cm",
+   "dispersal": "Corrientes marinas; cangrejos terrestres",
+   "germination": "No apto para cultivo"
+  },
+  "lore": "Los españoles lo llamaron 'manzanilla de la muerte', y se dice que los pueblos del Caribe usaban su savia en las flechas; según la leyenda, Juan Ponce de León murió en 1521 tras ser herido por una de esas flechas en Florida.",
+  "funFact": "A algunos animales no les afecta: la iguana negra de cola espinosa (Ctenosaura similis) come el fruto e incluso vive entre sus ramas."
+ },
+ {
+  "scientific": "Abrus precatorius",
+  "common": "Jequirití (ojo de pájaro, peonía)",
+  "summary": "Una leguminosa trepadora cuyas semillas escarlatas y brillantes, con un 'ojo' negro, se ensartan en rosarios, collares y juguetes, y contienen abrina, una toxina aún más potente que la ricina. La cubierta dura suele proteger una semilla tragada entera, pero una sola semilla masticada o triturada puede ser mortal.",
+  "nativeRange": "Asia tropical y probablemente África tropical y Australia; ampliamente naturalizada, invasora en Florida y el Caribe",
+  "biomes": [
+   "Bosque tropical seco",
+   "Matorrales y espesuras",
+   "Terrenos alterados"
+  ],
+  "abilities": [
+   "Produce abrina, una proteína que inutiliza los ribosomas, como hace la ricina",
+   "Su cubierta seminal dura e impermeable permite a las semillas sobrevivir años",
+   "Sus hojas contienen glicirricina y son dulces, como el regaliz",
+   "Fija nitrógeno y trepa sobre otra vegetación"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "Las semillas son mortales si se mastican, trituran o rompen (perforar semillas para bisutería ha intoxicado a artesanos). Tras un retraso de horas a días: vómitos intensos, diarrea con sangre, deshidratación, convulsiones y fallo del hígado, los riñones y otros órganos. Las semillas tragadas enteras e intactas a menudo pasan sin causar daño. En la India se mastican las hojas como edulcorante, pero la planta no debe comerse; mantenga la bisutería hecha con estas semillas lejos de los niños.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Ayurveda / Siddha",
+     "use": "Semillas usadas solo tras su 'purificación' (shodhana) hirviéndolas en leche; raíces y hojas para la tos y el dolor de garganta"
+    },
+    {
+     "tradition": "Medicina tradicional africana y caribeña",
+     "use": "Infusión de hojas para la tos y los resfriados"
+    }
+   ],
+   "cautions": "Las semillas pueden ser mortales; la desintoxicación tradicional no es fiable para uso doméstico."
+  },
+  "fruit": {
+   "type": "Legumbre (vaina)",
+   "season": "Estación seca",
+   "description": "Vainas cortas que se abren enrollándose y muestran semillas rojas y negras."
+  },
+  "seed": {
+   "description": "Semilla escarlata brillante con una mancha negra en el hilo",
+   "size": "~5–7 mm",
+   "dispersal": "Aves atraídas por las semillas llamativas (que no ofrecen recompensa alimenticia)",
+   "germination": "No recomendado: invasora y tóxica"
+  },
+  "lore": "En la India las semillas servían a los orfebres como unidad de peso, el ratti (unos 0,12 g), y el nombre sánscrito gunja aparece en textos ayurvédicos que prescriben una elaborada purificación antes de cualquier uso.",
+  "funFact": "En 2012 el Eden Project de Cornualles retiró de su tienda unas pulseras al descubrirse que estaban hechas con semillas de peonía de rosario."
+ },
+ {
+  "scientific": "Taxus baccata",
+  "common": "Tejo",
+  "summary": "El antiguo árbol de los cementerios de Europa, con algunos ejemplares de posiblemente 2000 años o más, y uno de sus árboles más venenosos. Sus acículas y semillas contienen alcaloides de taxina que pueden detener el corazón y, sin embargo, sus acículas son también la materia prima del fármaco anticanceroso docetaxel.",
+  "nativeRange": "Europa, norte de África (montes Atlas), Asia occidental hasta el norte de Irán",
+  "biomes": [
+   "Bosque templado de frondosas y mixto",
+   "Cantiles calizos",
+   "Cementerios"
+  ],
+  "abilities": [
+   "Vive muchos siglos; se calcula que el tejo de Fortingall, en Escocia, tiene 2000–3000 años",
+   "Rebrota de madera vieja y puede emitir raíces internas dentro de su tronco hueco",
+   "Tolera la sombra densa y las podas intensas, lo que lo hace ideal para setos y topiaria",
+   "Su duramen elástico y su albura flexible daban los mejores arcos largos"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "Todo excepto el arilo rojo y carnoso es mortal; la semilla del interior del arilo es tóxica si se mastica, así que los arilos no deben comerse. Las acículas (frescas o secas) contienen taxina B, que causa mareo, sequedad de boca, pupilas dilatadas, vómitos, latido lento o irregular y paro cardiaco súbito, a veces en cuestión de horas. Los restos de poda son mortales para caballos y ganado vacuno. Se confunde con: otras coníferas oscuras; los niños pueden comerse las 'bayas' rojas y dulces.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Medicina moderna",
+     "use": "La 10-desacetilbacatina III de las acículas de tejo se usa para semisintetizar docetaxel y paclitaxel, fármacos de quimioterapia contra el cáncer de mama, pulmón y próstata"
+    },
+    {
+     "tradition": "Unani (tejo del Himalaya, zarnab)",
+     "use": "Hojas usadas para afecciones respiratorias"
+    }
+   ],
+   "cautions": "El material vegetal crudo es mortal; los fármacos taxanos solo se administran bajo atención especializada."
+  },
+  "fruit": {
+   "type": "Arilo (copa carnosa alrededor de la semilla)",
+   "season": "Otoño",
+   "description": "Copas rojas brillantes y jugosas con una sola semilla oscura visible en la abertura."
+  },
+  "seed": {
+   "description": "Semilla dura y oscura dentro de un arilo rojo",
+   "size": "~6–7 mm",
+   "dispersal": "Zorzales y otras aves comen los arilos y expulsan la semilla",
+   "germination": "Necesita estratificación cálida y luego fría; a menudo tarda dos años"
+  },
+  "grow": {
+   "zones": "USDA 6–8",
+   "climates": [
+    "Templado",
+    "Oceánico"
+   ],
+   "sun": "Pleno sol a sombra densa",
+   "water": "Moderado; no tolera el encharcamiento",
+   "soil": "Cualquier suelo bien drenado, incluido el calizo",
+   "propagation": "Esquejes, semilla",
+   "timeToHarvest": "Seto en 5–10 años",
+   "steps": [
+    "Tomar esquejes semileñosos a finales del verano",
+    "Plantar en suelo bien drenado; el tejo muere en terreno encharcado",
+    "Recortar cada año para setos o topiaria",
+    "No deje nunca que el ganado o los caballos se acerquen a los restos de poda"
+   ]
+  },
+  "lore": "La lanza de Clacton, de unos 400 000 años y uno de los artefactos de madera más antiguos que se conocen, es de tejo, y Ötzi, el hombre de hielo, llevaba un arco largo de tejo. En Gran Bretaña se plantaban tejos en los cementerios, y en Macbeth de Shakespeare las brujas echan 'slips of yew' (esquejes de tejo) en su caldero.",
+  "funFact": "El paclitaxel (Taxol) se descubrió en la corteza del tejo del Pacífico en la década de 1960; obtenerlo de las acículas del tejo europeo hizo innecesario descortezar árboles."
+ },
+ {
+  "scientific": "Datura stramonium",
+  "common": "Estramonio (chamico, toloache)",
+  "summary": "Una solanácea ruderal y maloliente, con grandes flores blancas en forma de trompeta y cápsulas espinosas, cargada de alcaloides tropánicos que provocan un delirio aterrador. Su nombre inglés, 'jimsonweed', procede de Jamestown, donde, según se cuenta, unos soldados que la comieron en 1676 se comportaron como necios durante once días.",
+  "nativeRange": "Probablemente Norteamérica y Centroamérica; hoy es una mala hierba cosmopolita",
+  "biomes": [
+   "Terrenos alterados",
+   "Tierras de cultivo",
+   "Baldíos"
+  ],
+  "abilities": [
+   "Produce escopolamina, hiosciamina y atropina, que bloquean los receptores de acetilcolina",
+   "Abre flores perfumadas al anochecer para las esfinges polinizadoras",
+   "Produce semillas que siguen vivas en el suelo durante décadas",
+   "Prospera en terrenos alterados y fértiles y contamina cultivos de cereales y hortalizas"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "Todas las partes son tóxicas, sobre todo las semillas. El síndrome anticolinérgico ('blind as a bat, mad as a hatter, red as a beet, hot as a hare, dry as a bone': ciego como un murciélago, loco como un sombrerero, rojo como una remolacha, caliente como una liebre, seco como un hueso) incluye pupilas dilatadas, visión borrosa, piel enrojecida, caliente y seca, taquicardia, retención urinaria, alucinaciones y delirio, convulsiones y, a veces, la muerte. Se han producido intoxicaciones por semillas que contaminaban trigo sarraceno, soja o mijo, por hojas confundidas con otras verduras y por su uso deliberado como alucinógeno. La fisostigmina se usa como antídoto bajo atención médica.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Ayurveda",
+     "use": "Dhatura purificada usada para el asma, el dolor y las enfermedades de la piel"
+    },
+    {
+     "tradition": "Medicina europea y estadounidense de los siglos XIX–XX",
+     "use": "Hojas fumadas en 'cigarrillos para el asma' contra el broncoespasmo"
+    }
+   ],
+   "cautions": "Potencialmente mortal; la dosis varía enormemente de una planta a otra. La atropina y la escopolamina purificadas son fármacos aprobados, pero la planta en sí no es segura para su uso."
+  },
+  "fruit": {
+   "type": "Cápsula espinosa",
+   "season": "Final del verano–otoño",
+   "description": "Cápsulas verdes del tamaño de una nuez, cubiertas de espinas, que se abren en cuatro para liberar muchas semillas."
+  },
+  "seed": {
+   "description": "Semillas oscuras con forma de riñón",
+   "size": "~3 mm",
+   "dispersal": "Caen de la cápsula; viajan en grano contaminado",
+   "germination": "No se recomienda su cultivo"
+  },
+  "lore": "The History and Present State of Virginia (1705), de Robert Beverley, describe a unos soldados de Jamestown que comieron la planta en ensalada y pasaron días en un delirio necio. En la tradición hindú, las flores y los frutos de dhatura se ofrecen a Shiva.",
+  "funFact": "Las semillas de Datura pueden permanecer en el suelo más de 30 años, esperando a que se remueva la tierra."
+ },
+ {
+  "scientific": "Ageratina altissima",
+  "common": "Eupatorio blanco (raíz de serpiente blanca)",
+  "summary": "Una bonita flor silvestre del bosque que mató indirectamente a miles de colonos estadounidenses. El ganado que la pasta transmite su toxina, el tremetol, a la leche, y las personas que bebían esa leche desarrollaban la 'enfermedad de la leche', que mató en 1818 a la madre de Abraham Lincoln, Nancy Hanks Lincoln.",
+  "nativeRange": "Este y centro de Norteamérica",
+  "biomes": [
+   "Bosque caducifolio",
+   "Bordes de bosque",
+   "Espesuras sombrías"
+  ],
+  "abilities": [
+   "Produce tremetol (una mezcla que incluye tremetona), una toxina que se acumula en la leche y la carne de los animales que la pastan",
+   "Florece a finales del verano y en otoño, alimentando a abejas, mariposas y polillas cuando quedan pocas flores",
+   "Crece bien a la sombra, donde no crecen la mayoría de las plantas forrajeras tóxicas",
+   "Se extiende por semilla y rizomas cortos formando colonias en el bosque"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "Las hojas y los tallos son tóxicos para el ganado (caballos, vacas, ovejas, cabras) y causan 'temblores'. Las personas se intoxican indirectamente al beber leche o comer carne de animales intoxicados: debilidad, vómitos, temblores, estreñimiento grave, aliento con olor a acetona y, en los casos graves, la muerte. La leche moderna, que mezcla la de muchas granjas, no supone riesgo. Se confunde con: eupatorio perfoliado (Eupatorium perfoliatum) y otras especies de Eupatorium de flor blanca.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Medicina cheroqui y de otros pueblos indígenas",
+     "use": "Infusión de raíz para la diarrea, los cálculos renales y las fiebres, y la raíz como cataplasma para mordeduras de serpiente (como sugiere su nombre)"
+    }
+   ],
+   "cautions": "Tóxica; no apta para uso interno."
+  },
+  "fruit": {
+   "type": "Cipsela (aquenio) con vilano",
+   "season": "Otoño",
+   "description": "Aquenios negros diminutos con pelos blancos."
+  },
+  "seed": {
+   "description": "Pequeño aquenio negro con vilano blanco",
+   "size": "~2 mm",
+   "dispersal": "Viento",
+   "germination": "Estratificar en frío; se resiembra sola con facilidad"
+  },
+  "grow": {
+   "zones": "USDA 3–8",
+   "climates": [
+    "Templado",
+    "Continental"
+   ],
+   "sun": "Semisombra a sombra total",
+   "water": "Moderado",
+   "soil": "Húmedo y rico en humus",
+   "propagation": "Semilla, división",
+   "timeToHarvest": "Ornamental; florece a finales del verano–otoño",
+   "steps": [
+    "Sembrar en otoño o estratificar la semilla en frío",
+    "Plantar a la sombra, donde pueda naturalizarse",
+    "Mantenerla fuera de cualquier pasto que use el ganado",
+    "Eliminar las flores marchitas para limitar la autosiembra"
+   ]
+  },
+  "lore": "La enfermedad de la leche devastó los asentamientos de la frontera en Ohio, Indiana e Illinois a principios del siglo XIX; la tradición local atribuye a la doctora Anna Pierce Hobbs Bixby, de Illinois, la identificación de la planta en la década de 1830 con ayuda de una mujer shawnee. La ciencia no aceptó la causa hasta la década de 1920.",
+  "funFact": "Los casos de enfermedad de la leche han desaparecido casi por completo desde que las granjas empezaron a mezclar la leche de muchos rebaños."
+ },
+ {
+  "scientific": "Toxicodendron radicans",
+  "common": "Hiedra venenosa",
+  "summary": "Una trepadora, arbusto o planta tapizante cuya resina oleosa, el urushiol, causa en la mayoría de las personas una erupción con picor y ampollas. El urushiol sigue activo durante mucho tiempo en la ropa, las herramientas y el pelo de las mascotas. Para la fauna es una planta valiosa: decenas de especies de aves comen sus bayas pálidas en invierno.",
+  "nativeRange": "Este y centro de Norteamérica, México, Centroamérica y el Caribe; formas emparentadas en Asia oriental",
+  "biomes": [
+   "Bordes de bosque",
+   "Terrenos alterados",
+   "Riberas",
+   "Dunas"
+  ],
+  "abilities": [
+   "Produce urushiol, que desencadena dermatitis alérgica de contacto en la mayoría de las personas",
+   "Crece como planta tapizante, arbusto o trepadora de gran altura con raíces aéreas pilosas",
+   "Alimenta a pájaros cantores, pájaros carpinteros y pavos salvajes con bayas invernales ricas en grasa",
+   "Según los experimentos, crece más deprisa y produce un urushiol más potente con niveles más altos de CO₂"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "Todas las partes contienen urushiol: hojas, tallos, raíces y bayas, en todas las estaciones, incluso las plantas muertas. Tocarla causa una erupción roja con picor y ampollas a las 12–72 horas. Quemarla libera urushiol en el humo, lo que puede causar una inflamación grave de los pulmones y los ojos. Comer cualquier parte es peligroso. Se confunde con: parra virgen (cinco folíolos), plántulas de arce negundo, zumaque aromático y frambuesos o zarzamoras jóvenes; 'leaves of three, let it be' (si tiene tres hojas, no la toques) es una buena guía. Lave la piel con jabón y agua fría poco después del contacto.",
+  "fruit": {
+   "type": "Drupa",
+   "season": "Final del verano–invierno",
+   "description": "Racimos de bayas pequeñas, céreas, de color blanco grisáceo."
+  },
+  "seed": {
+   "description": "Hueso estriado dentro de la baya",
+   "size": "~4–5 mm",
+   "dispersal": "Aves",
+   "germination": "No apta para cultivo"
+  },
+  "lore": "El capitán John Smith la describió en Jamestown en 1609, comparándola con la hiedra común y anotando que causaba 'redness, itchiness, and lastly blisters' (enrojecimiento, picor y, por último, ampollas). El urushiol debe su nombre al urushi, la laca del árbol asiático de la laca, emparentado con ella.",
+  "funFact": "En un experimento de la Universidad Duke, la hiedra venenosa cultivada con CO₂ elevado creció más y produjo una forma de urushiol más alergénica."
+ },
+ {
+  "scientific": "Heracleum mantegazzianum",
+  "common": "Perejil gigante (panacea de Mantegazza)",
+  "summary": "Una planta monstruosa de hasta unos 5 m de altura, con inflorescencias en paraguas de hasta un metro de diámetro, introducida en Europa y Norteamérica como ornamental en la época victoriana. Su savia vuelve la piel peligrosamente sensible a la luz solar y causa quemaduras y ampollas que pueden dejar marcas durante años.",
+  "nativeRange": "Oeste del Gran Cáucaso; invasora en toda Europa, Canadá y el norte de Estados Unidos",
+  "biomes": [
+   "Riberas",
+   "Terrenos alterados",
+   "Cunetas"
+  ],
+  "abilities": [
+   "Su savia contiene furanocumarinas que se unen al ADN al recibir luz ultravioleta, causando fitofotodermatitis",
+   "Alcanza unos 5 m de altura con umbelas de hasta un metro de diámetro",
+   "Produce miles de semillas por planta (a menudo unas 20 000), que se dispersan a lo largo de los ríos",
+   "Vive varios años como roseta de hojas, luego florece una sola vez y muere"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "La savia de todas las partes, sobre todo de tallos y hojas, contiene furanocumarinas (p. ej., bergapteno, psoralenos). Sobre la piel seguida de exposición al sol, causa quemaduras y ampollas en 24–48 horas, y deja manchas oscuras y sensibilidad durante meses o años; la savia en los ojos puede causar ceguera temporal o permanente. No coma ninguna parte. Se confunde con: la branca ursina autóctona (Heracleum maximum o H. sphondylium), la angélica, la chirivía silvestre y la cicuta. Si ha estado expuesto, lávese de inmediato y manténgase fuera de la luz solar durante 48 horas.",
+  "fruit": {
+   "type": "Esquizocarpo",
+   "season": "Final del verano",
+   "description": "Frutos planos, ovales y estriados, con canales de aceite pardos."
+  },
+  "seed": {
+   "description": "Mericarpos planos y ovales",
+   "size": "~1 cm",
+   "dispersal": "Viento y agua, a menudo a lo largo de los ríos",
+   "germination": "No la plante: en muchos países es una especie invasora sujeta a control legal"
+  },
+  "lore": "En 1817 los jardines de Kew registraron semillas procedentes del Cáucaso, y se plantó en jardines victorianos como espectáculo. Genesis grabó 'The Return of the Giant Hogweed' (1971), una epopeya burlesca sobre la planta vengándose de Gran Bretaña.",
+  "funFact": "Debe su nombre a Paolo Mantegazza, médico, fisiólogo y antropólogo italiano del siglo XIX."
+ },
+ {
+  "scientific": "Dendrocnide moroides",
+  "common": "Gympie-gympie (árbol urticante)",
+  "summary": "La planta más dolorosa de Australia, pariente de la ortiga, cuyas hojas acorazonadas están cubiertas de pelos huecos con punta de sílice. Una picadura puede causar un dolor atroz que se reaviva durante días o semanas y, en algunos casos, meses. En 2020 los investigadores hallaron la causa: diminutas toxinas peptídicas a las que llamaron gimpietidas.",
+  "nativeRange": "Selvas del noreste de Queensland (Australia); también el este de Indonesia (Molucas) y Papúa Nueva Guinea",
+  "biomes": [
+   "Claros y bordes de selva tropical"
+  ],
+  "abilities": [
+   "Cubre hojas, tallos y frutos con pelos huecos con punta de sílice que inyectan toxina como agujas hipodérmicas",
+   "Produce gimpietidas, toxinas peptídicas que actúan sobre los canales de sodio que detectan el dolor, similares a las toxinas de arañas y caracoles cono",
+   "Es una especie pionera que ocupa rápidamente los claros de la selva tras tormentas o talas",
+   "Sus pelos siguen pudiendo picar en ejemplares secos de herbario durante décadas"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "Toda la superficie de la planta pica. El contacto causa un dolor urente intenso, hinchazón y enrojecimiento, con recaídas durante semanas al tocar la zona o exponerla al frío o al agua; las picaduras graves han provocado desvanecimientos. Los animales comen sus frutos de color rosa purpúreo, pero los pelos urticantes los hacen peligrosos para las personas. Retire los pelos con bandas de cera o cinta adhesiva, sin frotar; busque atención médica si la picadura es extensa.",
+  "fruit": {
+   "type": "Agrupación carnosa de aquenios",
+   "season": "Variable",
+   "description": "Racimos parecidos a moras, de frutos rosados a púrpura, también cubiertos de pelos."
+  },
+  "seed": {
+   "description": "Pequeños aquenios sobre pedicelos carnosos",
+   "size": "~2 mm",
+   "dispersal": "Aves",
+   "germination": "No apta para cultivo"
+  },
+  "lore": "El nombre gympie-gympie procede de la lengua del pueblo gubbi gubbi (kabi kabi), del sureste de Queensland, y los relatos de los primeros colonos hablan, según se cuenta, de caballos enloquecidos por la planta. La ecóloga australiana Marina Hurley, que la estudió, describió la picadura como ser 'burnt with hot acid and electrocuted at the same time' (quemada con ácido caliente y electrocutada a la vez).",
+  "funFact": "Pese a sus picaduras, los pademelones de patas rojas y ciertos escarabajos comen hojas de Dendrocnide, y no parecen verse afectados."
+ },
+ {
+  "scientific": "Brugmansia suaveolens",
+  "common": "Trompeta de ángel (floripondio)",
+  "summary": "Un arbusto de enormes trompetas blancas colgantes que perfuman el aire nocturno, popular en jardines de todo el mundo. Ya no se conoce en estado silvestre: todas las especies de Brugmansia figuran como Extintas en Estado Silvestre, quizá porque desapareció el animal que dispersaba sus semillas. Todas sus partes contienen escopolamina y alcaloides afines.",
+  "nativeRange": "Mata Atlántica del sureste de Brasil (hoy solo se conoce en cultivo y como planta escapada)",
+  "biomes": [
+   "Bordes de la Mata Atlántica (históricamente)",
+   "Jardines"
+  ],
+  "abilities": [
+   "Produce escopolamina, hiosciamina y atropina en todos sus tejidos",
+   "Desprende al anochecer un fuerte aroma para atraer a las polillas nocturnas",
+   "Produce flores de hasta unos 30 cm de largo",
+   "Hoy solo sobrevive gracias al cultivo humano"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "Todas las partes son venenosas, sobre todo las semillas y las hojas. Comer cualquier parte, o tomar una infusión de sus flores, causa un delirio anticolinérgico: pupilas dilatadas, visión borrosa, taquicardia, piel caliente y seca, confusión, alucinaciones aterradoras, amnesia y, a veces, la muerte. Frotarse un ojo tras manipular las flores puede dilatar una pupila durante horas o días. Los adolescentes que la usan como 'droga legal' acaban a menudo hospitalizados. La Datura, de aspecto similar, es igual de tóxica.",
+  "fruit": {
+   "type": "Cápsula parecida a una baya",
+   "season": "Variable",
+   "description": "Frutos verdes, lisos y fusiformes, que rara vez se forman en cultivo."
+  },
+  "seed": {
+   "description": "Semillas pardas, corchosas y angulosas",
+   "size": "~1 cm",
+   "dispersal": "Desconocida en estado silvestre; posiblemente animales dispersores extintos",
+   "germination": "Normalmente se cultiva a partir de esquejes"
+  },
+  "grow": {
+   "zones": "USDA 9–11 (container plant elsewhere)",
+   "climates": [
+    "Subtropical",
+    "Tropical",
+    "Mediterráneo"
+   ],
+   "sun": "Pleno sol a semisombra",
+   "water": "Alto en verano",
+   "soil": "Rico, húmedo y bien drenado",
+   "propagation": "Esquejes",
+   "timeToHarvest": "Florece en el primer o segundo año",
+   "steps": [
+    "Use guantes y lávese las manos después de manipularla",
+    "Enraizar esquejes en agua o en sustrato húmedo, con calor",
+    "Abonar y regar abundantemente durante el crecimiento",
+    "Mantener lejos de niños y mascotas; resguardar en interior antes de las heladas"
+   ]
+  },
+  "lore": "Los chamanes andinos y amazónicos usan desde hace mucho las especies de Brugmansia como plantas visionarias potentes y peligrosas. Clasificadas durante largo tiempo en Datura, las trompetas de ángel fueron separadas por Christiaan Persoon en 1805 como Brugmansia, en honor del naturalista neerlandés Sebald Justinus Brugmans.",
+  "funFact": "Las flores de Brugmansia cuelgan hacia abajo, mientras que las de Datura apuntan hacia arriba; es la forma más fácil de distinguirlas."
+ },
+ {
+  "scientific": "Strychnos nux-vomica",
+  "common": "Nuez vómica (árbol de la estricnina)",
+  "summary": "Un árbol cuyas semillas en forma de disco contienen estricnina, uno de los venenos más tristemente célebres de la historia. La estricnina bloquea los receptores inhibidores de glicina de la médula espinal, de modo que los músculos convulsionan sin control mientras la víctima permanece plenamente consciente.",
+  "nativeRange": "India, Sri Lanka y el Sudeste Asiático",
+  "biomes": [
+   "Bosque tropical seco",
+   "Bosque tropical húmedo"
+  ],
+  "abilities": [
+   "Produce estricnina y brucina, sobre todo en las semillas (alrededor de un 1–1,5 % de estricnina)",
+   "Produce frutos anaranjados del tamaño de una manzana, cuya pulpa comen aves como los cálaos desechando las semillas",
+   "Sus alcaloides son tan amargos que la estricnina se percibe en diluciones extremadamente bajas",
+   "Crece en bosques secos y húmedos de todo el subcontinente indio"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "Las semillas son mortales; la corteza, las hojas y la raíz también contienen estricnina y brucina. En 15–60 minutos: ansiedad, espasmos musculares y luego convulsiones violentas desencadenadas por cualquier ruido o contacto, arqueamiento de la espalda (opistótonos), una sonrisa fija (risa sardónica) y muerte por insuficiencia respiratoria o agotamiento, mientras la persona permanece consciente. La pulpa del fruto se describe a veces como comestible, pero es arriesgada y no se recomienda.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Ayurveda",
+     "use": "Semillas (kupilu) usadas solo tras purificarlas en orina de vaca, leche o ghee, en dosis mínimas para trastornos nerviosos y digestivos"
+    },
+    {
+     "tradition": "Medicina tradicional china",
+     "use": "Semillas procesadas (ma qian zi) para el dolor y la parálisis"
+    },
+    {
+     "tradition": "Medicina occidental del siglo XIX",
+     "use": "Estricnina usada como 'tónico' y estimulante"
+    }
+   ],
+   "cautions": "Mortal; todavía se notifican intoxicaciones por preparados tradicionales. No existe ningún uso doméstico seguro."
+  },
+  "fruit": {
+   "type": "Baya",
+   "season": "Invierno",
+   "description": "Fruto anaranjado, liso y de cáscara dura, con pulpa blanca gelatinosa y varias semillas."
+  },
+  "seed": {
+   "description": "Discos planos, grises y aterciopelados",
+   "size": "~2–2,5 cm",
+   "dispersal": "Aves y monos que comen la pulpa",
+   "germination": "No apta para cultivo"
+  },
+  "lore": "Pierre Joseph Pelletier y Joseph Bienaimé Caventou aislaron la estricnina en 1818. En los Juegos Olímpicos de San Luis de 1904, el ganador del maratón, Thomas Hicks, recibió de sus entrenadores estricnina y brandi durante la carrera y estuvo a punto de desplomarse.",
+  "funFact": "La compleja estructura de la estricnina no se descifró hasta 1946 (Robert Robinson), y R. B. Woodward la sintetizó por primera vez en 1954."
+ },
+ {
+  "scientific": "Gossypium hirsutum",
+  "common": "Algodón americano (algodón de tierras altas)",
+  "summary": "La fuente de alrededor del 90 % del algodón del mundo. Cada fibra es una sola célula de la cubierta de la semilla que puede alcanzar unos 3 cm de largo. Domesticado en Mesoamérica hace miles de años, se convirtió en el cultivo central de la Revolución Industrial y de la economía esclavista transatlántica.",
+  "nativeRange": "México, Centroamérica y el Caribe (formas silvestres en las costas); cultivado en todo el mundo",
+  "biomes": [
+   "Costas tropicales secas (silvestre)",
+   "Tierras de cultivo"
+  ],
+  "abilities": [
+   "Produce pelos seminales unicelulares de hasta unos 3 cm de largo: la fibra de algodón",
+   "Es un alotetraploide que combina dos genomas antiguos, uno de África/Asia y otro de América, que se fusionaron hace 1–2 millones de años",
+   "Se defiende con glándulas llenas de gosipol, visibles como puntos negros en hojas y semillas",
+   "Alimenta a hormigas y otros insectos con nectarios extraflorales en hojas y brácteas"
+  ],
+  "edibleParts": [
+   "aceite de semilla de algodón refinado",
+   "harina de semilla procesada (pienso)"
+  ],
+  "edibilityNote": "El aceite refinado de semilla de algodón se consume ampliamente. Las semillas crudas contienen gosipol, que es tóxico, puede dañar el hígado y reducir la fertilidad, y es especialmente nocivo para cerdos, aves de corral y animales jóvenes. En 2018–2019 los reguladores estadounidenses autorizaron para uso alimentario una variedad de algodón con bajo contenido en gosipol (TAM 66274).",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Medicina tradicional del sur de Estados Unidos",
+     "use": "Corteza de la raíz usada para provocar la menstruación o el aborto, también por mujeres esclavizadas"
+    },
+    {
+     "tradition": "Investigación clínica china (década de 1970)",
+     "use": "El gosipol se probó en miles de hombres como anticonceptivo masculino; se abandonó por causar infertilidad permanente y potasio bajo"
+    }
+   ],
+   "cautions": "El gosipol es tóxico; los preparados de corteza de raíz pueden provocar un aborto espontáneo."
+  },
+  "fruit": {
+   "type": "Cápsula (bellota de algodón)",
+   "season": "Final del verano–otoño",
+   "description": "Cápsulas verdes que se abren en tres a cinco secciones y liberan la borra blanca y esponjosa que rodea las semillas."
+  },
+  "seed": {
+   "description": "Semillas oscuras cubiertas de fibra larga y pelusa corta",
+   "size": "~8–12 mm",
+   "dispersal": "Viento y agua en las formas silvestres; el ser humano en los cultivos",
+   "germination": "Sembrar a 2–3 cm de profundidad en suelo a más de 18 °C; 1–2 semanas"
+  },
+  "grow": {
+   "zones": "Annual in USDA 7–11; perennial in frost-free areas",
+   "climates": [
+    "Subtropical",
+    "Tropical",
+    "Árido (con riego)"
+   ],
+   "sun": "Pleno sol",
+   "water": "Moderado; necesita mucha agua durante la floración",
+   "soil": "Profundo, fértil y bien drenado",
+   "propagation": "Semilla",
+   "timeToHarvest": "Las cápsulas se abren 150–180 días después de la siembra",
+   "steps": [
+    "Sembrar cuando el suelo se haya calentado, a finales de la primavera",
+    "Aclarar dejando 15–30 cm entre plantas, a pleno sol",
+    "Regar durante la floración y el cuajado de las cápsulas",
+    "Recoger la fibra de las cápsulas abiertas con tiempo seco"
+   ]
+  },
+  "lore": "Los textiles de algodón del valle de Tehuacán, en México, se remontan a miles de años, y los aztecas recaudaban tela de algodón como tributo. La desmotadora de Eli Whitney, de 1793, hizo enormemente rentable el algodón americano y alimentó la expansión de la esclavitud en el sur de Estados Unidos.",
+  "funFact": "En 2019 una semilla de algodón germinó en la cara oculta de la Luna a bordo del módulo chino Chang'e 4, la primera planta que creció allí, aunque murió poco después."
+ },
+ {
+  "scientific": "Indigofera tinctoria",
+  "common": "Añil (índigo)",
+  "summary": "La fuente del índigo, el tinte de los vaqueros y en su día una de las mercancías más valiosas del mundo. Las hojas son verdes; el azul solo aparece cuando se fermentan en agua y el líquido se bate para airearlo, lo que transforma el indicán incoloro en indigotina azul insoluble.",
+  "nativeRange": "Incierta por su cultivo antiquísimo; probablemente Asia o África tropicales; se cultiva en todos los trópicos",
+  "biomes": [
+   "Pastizal tropical seco",
+   "Tierras de cultivo"
+  ],
+  "abilities": [
+   "Almacena indicán, un glucósido incoloro que se convierte en índigo azul al fermentarse y exponerse al aire",
+   "Fija nitrógeno en nódulos de las raíces, por lo que se usaba como cultivo mejorante del suelo",
+   "Rebrota tras el corte, lo que permite varias cosechas de hojas al año"
+  ],
+  "edibleParts": [],
+  "edibilityNote": "No se come. Algunas especies de Indigofera (p. ej., Indigofera spicata) son venenosas para el ganado; I. tinctoria no debe comerse.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Ayurveda",
+     "use": "Hojas (nili) en aceites capilares para el crecimiento del pelo y las canas, y para afecciones del hígado y la piel"
+    },
+    {
+     "tradition": "Medicina tradicional china",
+     "use": "Pigmento índigo (qing dai, obtenido sobre todo de otras plantas) para afecciones cutáneas e inflamatorias"
+    }
+   ],
+   "cautions": "El uso interno está poco estudiado; evítese durante el embarazo."
+  },
+  "fruit": {
+   "type": "Legumbre (vaina)",
+   "season": "Tras la floración",
+   "description": "Vainas pardas, finas y rectas, con semillas pequeñas."
+  },
+  "seed": {
+   "description": "Semillas pequeñas y casi cuadradas",
+   "size": "~2 mm",
+   "dispersal": "Las vainas se abren bruscamente",
+   "germination": "Remojar o escarificar la semilla; sembrar con calor, 1–2 semanas"
+  },
+  "grow": {
+   "zones": "Tropical (USDA 10–12); annual elsewhere",
+   "climates": [
+    "Tropical",
+    "Subtropical"
+   ],
+   "sun": "Pleno sol",
+   "water": "Moderado",
+   "soil": "Bien drenado; tolera suelos pobres",
+   "propagation": "Semilla",
+   "timeToHarvest": "Primera cosecha de hojas a los 3–4 meses",
+   "steps": [
+    "Escarificar y remojar la semilla, y sembrar en suelo cálido",
+    "Cultivar a pleno sol con riego moderado",
+    "Cortar los tallos con hojas justo antes de la floración",
+    "Macerar las hojas en agua 12–24 horas, añadir cal y batir al aire hasta que se vuelva azul"
+   ]
+  },
+  "lore": "Los griegos llamaban al tinte 'indikon', 'de la India'. La revuelta del añil de Bengala de 1859 y la obra teatral Nil Darpan (1860) protestaron contra el cultivo forzoso del añil, y la primera satyagraha de Gandhi en la India, en Champaran en 1917, defendió a los cultivadores de añil.",
+  "funFact": "Adolf von Baeyer descifró la estructura del índigo y su síntesis hacia 1883, y el índigo sintético de BASF, comercializado desde 1897, acabó con el comercio del índigo vegetal en pocas décadas."
+ },
+ {
+  "scientific": "Linum usitatissimum",
+  "common": "Lino (linaza)",
+  "summary": "Uno de los primeros cultivos de la humanidad, que da a la vez tejido de lino y aceite de linaza. Sus fibras liberianas están entre las fibras vegetales más resistentes, y unas fibras de lino silvestre teñidas halladas en una cueva de Georgia tienen unos 30 000 años. Las semillas son ricas en ácidos grasos omega-3 y en fibra.",
+  "nativeRange": "Domesticado en el Creciente Fértil a partir del lino silvestre Linum bienne; cultivado en todo el mundo",
+  "biomes": [
+   "Tierras de cultivo",
+   "Pastizal templado"
+  ],
+  "abilities": [
+   "Produce fibras liberianas largas y resistentes que se usan para tejido de lino, cuerdas y papel fino",
+   "Sus semillas son ricas en ácido α-linolénico (un omega-3) y en lignanos",
+   "Su aceite se seca formando una película resistente, base de las pinturas al óleo, la masilla y el linóleo",
+   "La cubierta de la semilla produce mucílago al mojarse, que se hincha hasta multiplicar muchas veces su volumen"
+  ],
+  "edibleParts": [
+   "semillas (enteras, molidas)",
+   "aceite de semilla"
+  ],
+  "edibilityNote": "Las semillas se consumen ampliamente. Contienen glucósidos cianogénicos (linamarina); las cantidades normales son seguras, pero deben evitarse cantidades muy grandes de semilla cruda o inmadura. Beba abundante agua con la semilla molida, ya que se hincha. El aceite de linaza que se vende para el acabado de la madera no es apto para uso alimentario.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Fitoterapia europea (Comisión E)",
+     "use": "Semilla entera o partida como laxante formador de masa; cataplasmas para la inflamación de la piel"
+    },
+    {
+     "tradition": "Ayurveda",
+     "use": "Semillas (atasi) para la tos, el estreñimiento y las afecciones de la piel"
+    },
+    {
+     "tradition": "Investigación nutricional moderna",
+     "use": "La linaza molida se ha estudiado para reducir la presión arterial y el colesterol"
+    }
+   ],
+   "cautions": "Puede obstruir el intestino si se toma sin agua suficiente; puede retrasar la absorción de otros medicamentos; precaución en caso de obstrucción intestinal."
+  },
+  "fruit": {
+   "type": "Cápsula",
+   "season": "Final del verano",
+   "description": "Cápsulas redondas con diez semillas brillantes."
+  },
+  "seed": {
+   "description": "Semillas planas y brillantes, pardas o doradas",
+   "size": "~4–6 mm",
+   "dispersal": "En los cultivares modernos las cápsulas suelen permanecer cerradas; las cosecha el ser humano",
+   "germination": "Sembrar a 1–2 cm de profundidad en suelo fresco de primavera; 5–10 días"
+  },
+  "grow": {
+   "zones": "Annual; USDA 4–10",
+   "climates": [
+    "Templado",
+    "Continental",
+    "Mediterráneo"
+   ],
+   "sun": "Pleno sol",
+   "water": "Bajo a moderado",
+   "soil": "Ligero, bien drenado y no demasiado rico",
+   "propagation": "Semilla",
+   "timeToHarvest": "Fibra a los ~90 días; semilla a los ~100–120 días",
+   "steps": [
+    "Sembrar a voleo y denso a principios de la primavera",
+    "Mantener libre de malas hierbas las primeras semanas",
+    "Para fibra, arrancar las plantas enteras cuando amarilleen los tallos inferiores y enriarlas con rocío o en agua",
+    "Para semilla, cosechar cuando las cápsulas estén pardas y suenen al agitarlas"
+   ]
+  },
+  "lore": "Los antiguos egipcios envolvían a las momias en lino y lo llamaban 'luz de luna tejida'. En la cueva de Dzudzuana, en Georgia, se hallaron fibras de lino silvestre teñidas de unos 30 000 años, de las fibras usadas por el ser humano más antiguas que se conocen.",
+  "funFact": "El epíteto específico usitatissimum significa 'utilísimo' en latín."
+ }
+]

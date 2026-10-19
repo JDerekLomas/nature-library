@@ -9,7 +9,12 @@ import { COUNTRY_CODES } from "@/lib/countries";
 const BASE = process.env.NEXT_PUBLIC_SITE_URL ?? (process.env.VERCEL_PROJECT_PRODUCTION_URL ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}` : "http://localhost:3000");
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const u = (p: string, priority = 0.5): MetadataRoute.Sitemap[number] => ({ url: `${BASE}${p}`, priority });
+  // every page in English, with its Spanish twin declared as an alternate
+  const u = (p: string, priority = 0.5): MetadataRoute.Sitemap[number] => ({
+    url: `${BASE}${p}`,
+    priority,
+    alternates: { languages: { en: `${BASE}${p}`, es: `${BASE}/es${p === "/" ? "" : p}` } },
+  });
   const rooms = ["/", "/atlas", "/wheel", "/catalogue", "/shelves", "/bestiary", "/aviary", "/plates", "/herball", "/identify", "/grow", "/exhibitions", "/about"].map((p) => u(p, 0.9));
   // most-observed species from the identifier's label table (≈10,000)
   let top: MetadataRoute.Sitemap = [];

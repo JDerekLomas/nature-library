@@ -23,23 +23,23 @@ export interface ITaxon {
   complete_species_count?: number | null;
 }
 
-export async function getTaxon(id: number): Promise<ITaxon | null> {
-  const r = await fetch(`${API}/taxa/${id}?locale=en`, { next: { revalidate: 604800 } });
+export async function getTaxon(id: number, locale = "en"): Promise<ITaxon | null> {
+  const r = await fetch(`${API}/taxa/${id}?locale=${locale}`, { next: { revalidate: 604800 } });
   if (!r.ok) return null;
   const j = await r.json();
   return j.results?.[0] ?? null;
 }
 
-export async function getChildren(id: number, perPage = 60): Promise<ITaxon[]> {
-  const r = await fetch(`${API}/taxa?parent_id=${id}&is_active=true&per_page=${perPage}&order_by=observations_count&order=desc&locale=en`, {
+export async function getChildren(id: number, perPage = 60, locale = "en"): Promise<ITaxon[]> {
+  const r = await fetch(`${API}/taxa?parent_id=${id}&is_active=true&per_page=${perPage}&order_by=observations_count&order=desc&locale=${locale}`, {
     next: { revalidate: 604800 },
   });
   if (!r.ok) return [];
   return (await r.json()).results ?? [];
 }
 
-export async function searchTaxa(q: string, perPage = 30): Promise<ITaxon[]> {
-  const r = await fetch(`${API}/taxa?q=${encodeURIComponent(q)}&per_page=${perPage}&is_active=true&locale=en`, { next: { revalidate: 86400 } });
+export async function searchTaxa(q: string, perPage = 30, locale = "en"): Promise<ITaxon[]> {
+  const r = await fetch(`${API}/taxa?q=${encodeURIComponent(q)}&per_page=${perPage}&is_active=true&locale=${locale}`, { next: { revalidate: 86400 } });
   if (!r.ok) return [];
   return (await r.json()).results ?? [];
 }

@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import { useT } from "@/i18n/LangProvider";
 
 interface Rec {
   url: string;
@@ -14,6 +15,7 @@ interface Rec {
 
 /** Field recordings of this species from iNaturalist, openly licensed only. */
 export default function Sounds({ inatId, name }: { inatId?: number; name: string }) {
+  const t = useT().widgets;
   const [recs, setRecs] = useState<Rec[] | null>(null);
   useEffect(() => {
     if (!inatId) return setRecs([]);
@@ -30,8 +32,8 @@ export default function Sounds({ inatId, name }: { inatId?: number; name: string
       .catch(() => setRecs([]));
   }, [inatId]);
 
-  if (recs === null) return <p className="label text-ink-2">Looking for field recordings…</p>;
-  if (!recs.length) return <p className="text-sm text-ink-2">No openly licensed recordings of the {name.toLowerCase()} on iNaturalist yet.</p>;
+  if (recs === null) return <p className="label text-ink-2">{t.lookingRecordings}</p>;
+  if (!recs.length) return <p className="text-sm text-ink-2">{t.noRecordings(name.toLowerCase())}</p>;
   return (
     <div className="grid sm:grid-cols-2 gap-4">
       {recs.map((r) => (
@@ -40,10 +42,10 @@ export default function Sounds({ inatId, name }: { inatId?: number; name: string
             <source src={r.url} type={r.type === "audio/x-wav" ? "audio/wav" : r.type} />
           </audio>
           <figcaption className="text-xs text-ink-2 mt-2 leading-snug">
-            {r.place ? `${r.place.split(",").slice(-2).join(",").trim()}` : "Unknown place"}
+            {r.place ? `${r.place.split(",").slice(-2).join(",").trim()}` : t.unknownPlace}
             {r.date ? `, ${r.date}` : ""}. {r.attribution}.{" "}
             <a href={`https://www.inaturalist.org/observations/${r.obs}`} target="_blank" rel="noreferrer" className="link-ink">
-              Observation
+              {t.observation}
             </a>
           </figcaption>
         </figure>

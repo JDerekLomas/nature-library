@@ -1,0 +1,1737 @@
+[
+ {
+  "scientific": "Tenualosa ilisha",
+  "common": "Sábalo hilsa (ilish)",
+  "summary": "Un sábalo plateado del golfo de Bengala y del mar Arábigo que remonta el Padma, el Meghna, el Hooghly, el Godavari y el Indo para desovar con las crecidas del monzón. Los bengalíes lo consideran el mejor pescado que existe, y es el pez nacional de Bangladés.",
+  "nativeRange": "Costas del norte del océano Índico, desde el golfo Pérsico y Pakistán hasta Myanmar, y los grandes ríos que desembocan en ellas",
+  "biomes": [
+   "Aguas costeras",
+   "Estuarios",
+   "Grandes ríos"
+  ],
+  "abilities": [
+   "Anádromo: crece en el mar y en los estuarios y luego remonta los ríos cientos de kilómetros para desovar en agua dulce",
+   "Se alimenta por filtración de plancton gracias a sus finas branquiespinas",
+   "Desova en enormes cantidades en torno a la luna llena y la luna nueva de la estación del monzón, liberando huevos que flotan a la deriva río abajo",
+   "El contenido de grasa de la carne aumenta durante la migración río arriba, por lo que la hilsa de río se valora más que la capturada en el mar"
+  ],
+  "edibleParts": [
+   "carne",
+   "huevas"
+  ],
+  "edibilityNote": "Sabrosa, grasa y llena de finas espinas intramusculares, así que conviene comerla despacio. En el sur de Asia siempre se come cocinada (bhapa, shorshe ilish, palla ahumada). Bangladés prohíbe la pesca de hilsa durante unas tres semanas en torno al pico de desove de octubre y prohíbe capturar juveniles (jatka) durante meses cada año. Evite comprar jatka.",
+  "lore": "En Sindh, el palla se asocia al santuario de Khwaja Khizr en la isla de Bukkur, cerca de Sukkur: según el folclore, los peces remontan el río para rendirle homenaje y se dan la vuelta mirando hacia el santuario. Los hindúes bengalíes ofrecen una pareja de hilsas en la Saraswati Puja y en las bodas, y el pez es un tema recurrente de la cocina y la poesía bengalíes.",
+  "funFact": "Bangladés desembarca la mayor parte de las capturas mundiales de hilsa. A sus vedas estacionales, junto con la ayuda alimentaria a las familias pescadoras durante las vedas, se les atribuye haber más que duplicado la captura nacional desde principios de la década de 2000.",
+  "animal": {
+   "diet": "Plancton: diatomeas, algas, copépodos y otros pequeños crustáceos",
+   "habitat": "Mares costeros y estuarios; grandes ríos turbios durante la migración de desove",
+   "lifespan": "Unos 4–5 años",
+   "size": "Normalmente 30–45 cm; hasta unos 60 cm y 2,5 kg",
+   "behaviour": "Los cardúmenes remontan los ríos con las crecidas del monzón y desovan en los cauces principales. Los jóvenes (jatka) derivan de vuelta a los estuarios y al mar para crecer.",
+   "fieldMarks": [
+    "Cuerpo plateado, alto y comprimido lateralmente, con el dorso verde azulado",
+    "Sin línea lateral visible, y con una quilla afilada y aserrada de escudetes a lo largo del vientre",
+    "Una mancha oscura justo detrás del opérculo, a menudo seguida de una hilera de manchas más tenues en los ejemplares jóvenes",
+    "Una muesca marcada en el centro de la mandíbula superior",
+    "Cola profundamente ahorquillada"
+   ],
+   "lookalikes": "El sábalo de río indio (Gudusia chapra) es parecido, pero rara vez supera los 20 cm. El sábalo kelee (Hilsa kelee) es sobre todo marino y tiene una hilera de manchas oscuras en el flanco tanto en adultos como en jóvenes. Una hilsa grande y madura es inconfundible en los mercados del sur de Asia.",
+   "whereToSee": "La confluencia del Padma y el Meghna en Chandpur y el estuario del Meghna (Bangladés); los mercados de pescado de Calcuta y Daca durante el monzón; el bajo Indo, aguas abajo de la presa de Kotri, cerca de Hyderabad (Sindh)",
+   "season": "La principal migración de desove río arriba va de julio a octubre, con el máximo en la luna llena del mes bengalí de Ashwin (normalmente octubre); una migración menor de enero a marzo",
+   "order": "Clupeiformes"
+  }
+ },
+ {
+  "scientific": "Tor putitora",
+  "common": "Mahseer dorado",
+  "summary": "Un enorme barbo de escamas doradas de los rápidos ríos del Himalaya, al que los pescadores deportivos llaman el «tigre del agua». Es el pez nacional de Pakistán, y las presas y la sobrepesca lo han llevado a la categoría de En Peligro.",
+  "nativeRange": "Ríos del Himalaya y del pie del Himalaya en Pakistán, India, Nepal, Bután, Bangladés y el norte de Myanmar (cuencas del Indo, el Ganges y el Brahmaputra)",
+  "biomes": [
+   "Ríos de montaña",
+   "Rápidos rocosos",
+   "Lagos de piedemonte"
+  ],
+  "abilities": [
+   "Migra aguas arriba hacia afluentes frescos para desovar durante el monzón y vuelve a tramos más bajos y cálidos en invierno",
+   "Se mantiene inmóvil en rápidos muy fuertes gracias a su cuerpo grueso y musculoso y sus grandes escamas",
+   "Come casi de todo: algas, frutos que caen al agua, insectos, cangrejos y peces más pequeños",
+   "Alcanza tamaños enormes: según los registros históricos, algunos ejemplares superaron los 2 m y unos 50 kg"
+  ],
+  "edibleParts": [
+   "carne"
+  ],
+  "edibilityNote": "Se ha consumido tradicionalmente en toda su área de distribución, pero está En Peligro y en muchas aguas está protegido o solo se permite la pesca sin muerte. Se desaconseja comer mahseer silvestre. Los peces silvestres de aguas abajo de presas o de tramos contaminados pueden contener contaminantes.",
+  "lore": "«The Rod in India» (1873), de Henry Sullivan Thomas, convirtió al mahseer en el legendario pez deportivo de la India británica. En templos y ghats hindúes, los peregrinos alimentan a los mahseer de los estanques sagrados, que están protegidos de la pesca, y eso ha mantenido con vida algunos de los últimos ejemplares grandes.",
+  "funFact": "Una explicación del nombre es el hindi «maha-sher», que significa «gran tigre»; otra lo relaciona con «maha-shalka», «de grandes escamas».",
+  "animal": {
+   "diet": "Omnívoro: algas, materia vegetal, frutos caídos, insectos, moluscos, crustáceos y peces",
+   "habitat": "Ríos y pozas claros, rápidos y rocosos de colinas y piedemonte; también algunos lagos y embalses",
+   "lifespan": "Varias décadas en los ejemplares grandes (el máximo exacto no está bien establecido)",
+   "size": "Comúnmente 50–100 cm; históricamente más de 2 m",
+   "behaviour": "Los adultos remontan los afluentes alimentados por la nieve y la lluvia para desovar sobre grava durante el monzón. Los ejemplares grandes cazan y se alimentan en las aguas bravas de la cabecera de las pozas.",
+   "fieldMarks": [
+    "Cuerpo grueso y fusiforme con escamas muy grandes",
+    "Flancos dorado-bronce que se oscurecen hacia el dorso; aletas a menudo anaranjado rojizas o doradas",
+    "Dos pares de barbillas y labios gruesos, carnosos y gomosos",
+    "Cabeza larga, de longitud mayor que la altura del cuerpo"
+   ],
+   "lookalikes": "Otros mahseer, en especial el mahseer tor (Tor tor), tienen el cuerpo más alto, de modo que la cabeza es más corta que la altura del cuerpo, y son más plateados. Las carpas indias como el rohu tienen escamas mucho más pequeñas y una boca pequeña o con flecos, sin labios gruesos.",
+   "whereToSee": "Estanques de templos y ghats de Rishikesh y Haridwar, a orillas del Ganges; el Ramganga en el Parque Nacional de Corbett; los ríos Poonch y Jhelum (Pakistán/Cachemira); el río Manas (Bután/Assam)",
+   "season": "Residente todo el año; migraciones de desove aguas arriba durante el monzón (aproximadamente de junio a septiembre), y algunas poblaciones también se reproducen en primavera",
+   "order": "Cypriniformes"
+  }
+ },
+ {
+  "scientific": "Labeo rohita",
+  "common": "Rohu",
+  "summary": "La más conocida de las «carpas mayores indias» y uno de los peces de agua dulce más consumidos del sur de Asia. El rohu, la catla y el mrigal criados juntos en un mismo estanque forman la clásica piscifactoría policultivo de India, Bangladés y Pakistán.",
+  "nativeRange": "Ríos del norte y el centro de la India, Pakistán, Bangladés, Nepal y Myanmar (cuencas del Indo, el Ganges, el Brahmaputra y otras asociadas); ampliamente introducido",
+  "biomes": [
+   "Grandes ríos",
+   "Lagos de llanura de inundación",
+   "Estanques y embalses"
+  ],
+  "abilities": [
+   "Se alimenta en la columna de agua intermedia, ramoneando algas y materia vegetal, por lo que comparte estanques con la catla, que come en superficie, y el mrigal, que come en el fondo",
+   "Se reproduce en las llanuras inundadas por el monzón y pone enormes cantidades de huevos que van a la deriva",
+   "Desova en criaderos tras una inyección hormonal, el método que convirtió a las carpas indias en un cultivo masivo",
+   "Tolera el agua de estanque cálida, turbia y pobre en oxígeno"
+  ],
+  "edibleParts": [
+   "carne",
+   "cabeza (muri ghonto)",
+   "huevas"
+  ],
+  "edibilityNote": "Carne suave y firme con muchas espinas finas en forma de Y. Siempre se come cocinado. En ocasiones se ha encontrado pescado de mercado tratado con formol. Compre a vendedores de confianza y prefiera ejemplares de ojos claros y branquias rojas.",
+  "lore": "En la tradición nupcial bengalí, un rohu grande adornado con cúrcuma y bermellón se envía a la familia de la novia como parte de los regalos del tattwa. En 1957, Hiralal Chaudhuri logró por primera vez la reproducción en cautividad de carpas indias mediante inyección de hipófisis, fundando la piscicultura moderna de la región.",
+  "funFact": "La India celebra el Día Nacional de los Piscicultores el 10 de julio, aniversario de la primera reproducción inducida de carpas indias por Hiralal Chaudhuri.",
+  "animal": {
+   "diet": "Herbívoro: fitoplancton, algas y plantas sumergidas blandas",
+   "habitat": "Ríos, lagos de llanura de inundación, embalses y estanques de cultivo",
+   "lifespan": "Hasta unos 10 años",
+   "size": "Comúnmente 45–60 cm; registrado hasta unos 2 m y 45 kg",
+   "behaviour": "Los adultos silvestres desovan en orillas someras recién inundadas tras las fuertes lluvias del monzón, y las larvas crecen en las aguas de la llanura de inundación.",
+   "fieldMarks": [
+    "Cuerpo moderadamente alto y plateado, con el dorso azulado",
+    "Cada escama con el centro rojizo, de modo que los flancos parecen finamente ajedrezados de rojo, sobre todo en la época de cría",
+    "Aletas a menudo rojizas o con tonos anaranjados",
+    "Hocico romo con labios gruesos y con flecos (fimbriados) y un pequeño par de barbillas",
+    "Boca en la parte inferior de la cabeza"
+   ],
+   "lookalikes": "La catla tiene la cabeza mucho más grande, una boca ancha y orientada hacia arriba y un color más grisáceo. El mrigal es más esbelto y plateado, con las aletas de punta anaranjada, y tiene labios finos sin flecos. El kalbasu (Labeo calbasu) es de gris oscuro a negro.",
+   "whereToSee": "Mercados de pescado de Calcuta, Daca, Lahore y Karachi; el Ganges y el Padma; estanques de carpas de Bengala Occidental, Andhra Pradesh y el Punyab",
+   "season": "Residente todo el año; desova durante el monzón, aproximadamente de junio a agosto",
+   "order": "Cypriniformes"
+  }
+ },
+ {
+  "scientific": "Labeo catla",
+  "common": "Catla",
+  "summary": "La de crecimiento más rápido de las carpas mayores indias, un pez de cabeza grande que se alimenta en superficie. Ocupa la capa superior de los estanques de policultivo del sur de Asia, mientras que el rohu se alimenta a media agua y el mrigal en el fondo.",
+  "nativeRange": "Ríos y lagos del norte de la India, Pakistán, Bangladés, Nepal y Myanmar; ampliamente introducida en otras partes de Asia",
+  "biomes": [
+   "Grandes ríos",
+   "Lagos de llanura de inundación",
+   "Estanques y embalses"
+  ],
+  "abilities": [
+   "Filtra zooplancton y algas flotantes de las aguas superficiales con sus branquiespinas largas y finas",
+   "Puede superar 1 kg en su primer año en un estanque fertilizado",
+   "Desova con las crecidas del monzón; una hembra grande lleva desde cientos de miles hasta millones de huevos"
+  ],
+  "edibleParts": [
+   "carne",
+   "cabeza",
+   "huevas"
+  ],
+  "edibilityNote": "Carne basta y con muchas espinas, muy apreciada en Bengala, donde la cabeza se usa en el muri ghonto. Siempre cocinada. En algunos mercados se aplica la misma precaución que con el rohu respecto a la adulteración con formol.",
+  "lore": "La catla fue descrita por Francis Buchanan-Hamilton en «An Account of the Fishes Found in the River Ganges» («Relación de los peces del río Ganges», 1822), la obra fundacional de la ictiología india. En Bengala, la cabeza de catla cocinada con arroz o con dal de moong (muri ghonto) es un plato clásico para agasajar a los invitados de honor.",
+  "funFact": "Muchas obras de referencia todavía la llaman Catla catla. Los estudios genéticos demostraron que pertenece al género Labeo, y el nombre de iNaturalist sigue esos estudios.",
+  "animal": {
+   "diet": "Principalmente zooplancton, además de fitoplancton y materia vegetal flotante",
+   "habitat": "Ríos, embalses, lagos de llanura de inundación y estanques de cultivo; permanece en las aguas superiores cálidas",
+   "lifespan": "Unos 10–12 años",
+   "size": "Comúnmente 50–80 cm; hasta unos 1,8 m y 39 kg",
+   "behaviour": "Nada cerca de la superficie tamizando plancton, y los ejemplares silvestres desovan en las orillas someras e inundadas de los ríos durante el monzón.",
+   "fieldMarks": [
+    "Cabeza muy grande y ancha, mucho mayor que en otras carpas",
+    "Boca ancha orientada hacia arriba, con la mandíbula inferior prominente y sin barbillas",
+    "Cuerpo alto y corto; dorso grisáceo y flancos blanco plateados con escamas grandes",
+    "Aletas de color gris oscuro"
+   ],
+   "lookalikes": "El rohu tiene la cabeza más pequeña, la boca en la parte inferior con labios con flecos y el centro de las escamas rojizo. La carpa cabezona (Hypophthalmichthys nobilis), introducida en el sur de Asia, también tiene una cabeza enorme, pero sus ojos están situados en la parte baja de la cabeza y sus escamas son diminutas.",
+   "whereToSee": "Los mercados mayoristas de pescado de Calcuta; los mercados de pescado de estanque de Bangladés; los embalses de la llanura del Ganges; el Indo cerca de Sukkur",
+   "season": "Residente; se reproduce durante el monzón (junio–agosto)",
+   "order": "Cypriniformes"
+  }
+ },
+ {
+  "scientific": "Cirrhinus mrigala",
+  "common": "Mrigal",
+  "summary": "El miembro del trío de carpas mayores indias que se alimenta en el fondo. Ramonea los detritos y las algas del suelo del estanque, por debajo del rohu y la catla.",
+  "nativeRange": "Ríos del norte de la India, Pakistán, Bangladés y Nepal (cuencas del Indo, el Ganges y el Brahmaputra); ampliamente sembrado en embalses y estanques",
+  "biomes": [
+   "Grandes ríos",
+   "Embalses",
+   "Estanques"
+  ],
+  "abilities": [
+   "Se alimenta de materia orgánica en descomposición y de algas del fondo, reciclando nutrientes que otras carpas de cultivo no pueden aprovechar",
+   "Tolera una amplia gama de temperaturas y una baja calidad del agua",
+   "Se reproduce fácilmente en criaderos tras una inyección hormonal"
+  ],
+  "edibleParts": [
+   "carne"
+  ],
+  "edibilityNote": "Se considera algo menos sabroso que el rohu o la catla y tiene muchísimas espinas. Siempre cocinado. Los peces del fondo de masas de agua contaminadas pueden acumular contaminantes.",
+  "lore": "La relación de los peces del Ganges de Buchanan-Hamilton (1822) registró el mrigal con su nombre local. El «policultivo compuesto» de rohu, catla y mrigal lo desarrollaron científicos pesqueros indios a partir de la década de 1960 y se extendió por todo el sur de Asia.",
+  "funFact": "Como cada especie se alimenta en una capa distinta, un estanque con catla, rohu y mrigal juntos da una cosecha mayor que el mismo estanque con una sola de ellas.",
+  "animal": {
+   "diet": "Detritos, materia vegetal en descomposición, algas bentónicas y pequeños invertebrados",
+   "habitat": "Capas inferiores de ríos, embalses y estanques",
+   "lifespan": "Hasta unos 12 años",
+   "size": "Comúnmente 40–60 cm; hasta alrededor de 1 m y 12 kg",
+   "behaviour": "Se desplaza en cardúmenes por el fondo cribando el limo; los ejemplares silvestres desovan en las orillas inundadas de los ríos durante el monzón.",
+   "fieldMarks": [
+    "Cuerpo esbelto, hidrodinámico y plateado, con el dorso gris oscuro",
+    "Aletas pectorales, pélvicas y anal con la punta rojo anaranjada, más viva en la época de cría",
+    "Hocico romo con labios finos sin flecos y un par de barbillas cortas",
+    "Ojos dorados"
+   ],
+   "lookalikes": "El rohu tiene el cuerpo más alto, el centro de las escamas rojizo y labios gruesos con flecos. La carpa blanca (Cirrhinus cirrhosus) de la India peninsular es muy parecida y se distingue por detalles de las escamas y las aletas.",
+   "whereToSee": "Mercados de pescado y estanques de Bengala Occidental, Bangladés y el Punyab; embalses de la llanura del Ganges",
+   "season": "Residente; desova de junio a agosto con las crecidas del monzón",
+   "order": "Cypriniformes"
+  }
+ },
+ {
+  "scientific": "Wallago attu",
+  "common": "Wallago (boal)",
+  "summary": "Un siluro largo y veloz, el «tiburón» de agua dulce, de boca enorme y superdepredador de los ríos del sur y el sudeste de Asia. Hoy es Vulnerable a causa de la pesca intensiva y el deterioro de los ríos.",
+  "nativeRange": "Pakistán, India, Nepal, Bangladés, Sri Lanka, Myanmar, Tailandia, Indochina, Malasia e Indonesia",
+  "biomes": [
+   "Grandes ríos",
+   "Lagos",
+   "Humedales de llanura de inundación"
+  ],
+  "abilities": [
+   "La abertura de su boca llega muy por detrás del ojo, por lo que puede tragar enteros peces grandes",
+   "Caza sobre todo de noche usando sus largas barbillas y un sentido de la línea lateral muy desarrollado",
+   "Nada rápido en aguas abiertas persiguiendo a sus presas en lugar de limitarse a esperar al acecho",
+   "Supera los 2 m de longitud"
+  ],
+  "edibleParts": [
+   "carne"
+  ],
+  "edibilityNote": "Carne blanca, sabrosa y sin espinas, popular en la cocina bengalí y tailandesa. Siempre cocinada. Al ser un depredador grande y longevo, en ríos contaminados puede contener niveles altos de mercurio y otros contaminantes. Evite los ejemplares muy grandes y consúmalo solo con moderación.",
+  "lore": "El boal es un personaje habitual de los refranes bengalíes como el pez grande y glotón que se traga al pequeño. Fue descrito a partir de ejemplares de la India por Bloch y Schneider en 1801.",
+  "funFact": "Los pescadores deportivos de la India y Pakistán lo apodaron «tiburón de agua dulce» porque ataca los señuelos con rapidez en aguas abiertas y tiene una silueta esbelta, como de tiburón.",
+  "animal": {
+   "diet": "Carnívoro: peces, gambas, ranas y ocasionalmente aves acuáticas",
+   "habitat": "Grandes ríos, lagos, embalses y beels (lagunas) de llanura de inundación",
+   "lifespan": "Poco documentada; probablemente más de 10 años",
+   "size": "Comúnmente 1 m; hasta unos 2,4 m y 45 kg",
+   "behaviour": "Principalmente nocturno; de día descansa en aguas profundas y al anochecer caza bancos de peces pequeños. Se reproduce en zonas inundadas durante el monzón.",
+   "fieldMarks": [
+    "Cuerpo largo, sin escamas y comprimido lateralmente, que se estrecha hacia una cola ahorquillada",
+    "Boca enorme cuya abertura se extiende por detrás del ojo, con bandas de dientes afilados",
+    "Aleta dorsal diminuta y aleta anal muy larga que llega casi hasta la cola",
+    "Dos pares de barbillas, las de la mandíbula superior muy largas",
+    "De gris plateado a oliva con un brillo rosado"
+   ],
+   "lookalikes": "Los siluros pabda (Ompok) son parecidos, pero mucho más pequeños (menos de 30 cm), y su boca no llega por detrás del ojo. El goonch (Bagarius) es de color pardo jaspeado, vive en el fondo y tiene la cabeza aplanada.",
+   "whereToSee": "Beels de las llanuras inundables de Bengala y Assam; el Ganges y el Brahmaputra; mercados de pescado de Tailandia y Camboya",
+   "season": "Residente; se reproduce durante el monzón (junio–agosto)",
+   "order": "Siluriformes"
+  }
+ },
+ {
+  "scientific": "Channa striata",
+  "common": "Cabeza de serpiente rayado",
+  "summary": "Un resistente depredador de respiración aérea de arrozales, estanques y pantanos de todo el sur y el sudeste de Asia. Puede sobrevivir en el barro húmedo durante la estación seca y es un importante pez de consumo desde Bengala hasta Vietnam.",
+  "nativeRange": "Desde Pakistán y la India hacia el este por Bangladés, Sri Lanka, Myanmar, Tailandia, Indochina y el sur de China hasta Malasia e Indonesia; introducido en otros lugares",
+  "biomes": [
+   "Pantanos",
+   "Arrozales",
+   "Estanques",
+   "Ríos lentos"
+  ],
+  "abilities": [
+   "Respira aire mediante una cámara situada sobre las branquias, por lo que sobrevive en aguas estancadas y pobres en oxígeno",
+   "Sobrevive a la estación seca enterrado en barro húmedo",
+   "Puede reptar distancias cortas por terreno mojado entre charcas",
+   "Ambos progenitores vigilan una bola flotante de alevines de color naranja vivo"
+  ],
+  "edibleParts": [
+   "carne"
+  ],
+  "edibilityNote": "Se consume ampliamente y se valora como alimento para personas que se recuperan de una enfermedad. No lo coma nunca crudo ni poco hecho, por ejemplo en platos fermentados o ligeramente curados: los cabezas de serpiente portan larvas del nematodo Gnathostoma, que pueden migrar por los tejidos humanos y causar gnatostomiasis.",
+  "lore": "En Malasia e Indonesia, la sopa de haruan es un alimento tradicional del puerperio para las madres tras el parto. En Bengala, el shol es uno de los peces favoritos para el curry, y en el mercado se mantiene vivo en barreños porque sobrevive mucho tiempo fuera del agua.",
+  "funFact": "En el inglés de la India a los cabezas de serpiente se les llama «murrels», y en Tailandia el pla chon a la parrilla con sal (pla chon pao) es una comida callejera habitual.",
+  "medicinal": {
+   "uses": [
+    {
+     "tradition": "Medicina tradicional malaya",
+     "use": "Caldo y extracto de pez haruan tomados tras el parto y las operaciones quirúrgicas para favorecer la cicatrización de las heridas"
+    },
+    {
+     "tradition": "Dieta popular bengalí y del sudeste asiático",
+     "use": "Sopa de pescado que se da a los convalecientes"
+    }
+   ],
+   "cautions": "Pequeños estudios clínicos describen una cicatrización posquirúrgica más rápida con extracto de haruan, pero la evidencia es limitada. La calidad de los extractos comerciales es variable. Las personas con alergia al pescado deben evitarlo."
+  },
+  "animal": {
+   "diet": "Carnívoro: peces, ranas, insectos, crustáceos y otros animales pequeños",
+   "habitat": "Pantanos, estanques, arrozales, canales y ríos lentos con vegetación",
+   "lifespan": "Unos 8–10 años",
+   "size": "Comúnmente 30–60 cm; hasta alrededor de 1 m y 3 kg",
+   "behaviour": "Permanece inmóvil entre las plantas acuáticas cerca de la superficie, tragando aire, y luego se lanza sobre las presas que pasan. Las parejas construyen un nido despejado en la vegetación y defienden con fiereza su enjambre de alevines.",
+   "fieldMarks": [
+    "Cuerpo largo y cilíndrico con una cabeza plana, como de serpiente, cubierta de grandes escamas",
+    "Aletas dorsal y anal largas que llegan casi hasta la cola redondeada",
+    "Dorso de pardo oscuro a negro con bandas oscuras oblicuas (rayas) sobre flancos más claros, blanquecinos",
+    "Boca grande con dientes afilados"
+   ],
+   "lookalikes": "El cabeza de serpiente gigante (Channa marulius) alcanza un tamaño mucho mayor y tiene un ocelo negro rodeado de naranja en la base de la cola. El cabeza de serpiente moteado (Channa punctata) es pequeño, con manchas y barras oscuras. El amia o bowfin norteamericano tiene una aleta anal corta y una placa gular ósea bajo el mentón.",
+   "whereToSee": "Arrozales y beels de Bangladés y Bengala Occidental; mercados tradicionales de Bangkok, Kuala Lumpur y Ciudad Ho Chi Minh",
+   "season": "Residente; se reproduce principalmente en la estación de lluvias (de mayo a septiembre en la mayor parte de su área)",
+   "order": "Anabantiformes"
+  }
+ },
+ {
+  "scientific": "Chitala chitala",
+  "common": "Pez cuchillo indio (chital)",
+  "summary": "Un pez jorobado con forma de cuchillo que nada ondulando una única aleta larga bajo el cuerpo y puede avanzar o retroceder. Pertenece a los osteoglosos, un linaje antiguo de peces, y en Bengala es un pescado de lujo.",
+  "nativeRange": "Cuencas del Indo, el Ganges, el Brahmaputra y el Mahanadi en Pakistán, India, Nepal y Bangladés",
+  "biomes": [
+   "Grandes ríos",
+   "Lagos de llanura de inundación",
+   "Embalses"
+  ],
+  "abilities": [
+   "Nada hacia delante o hacia atrás enviando ondas a lo largo de una larga aleta anal que se funde con la cola",
+   "Traga aire gracias a una vejiga natatoria especializada, por lo que sobrevive en aguas cálidas y pobres en oxígeno",
+   "Los machos vigilan los huevos adheridos a troncos y postes sumergidos"
+  ],
+  "edibleParts": [
+   "carne"
+  ],
+  "edibilityNote": "Muy apreciado, pero con muchísimas espinas; los cocineros bengalíes raspan la carne de las espinas para preparar chital macher muitha (albóndigas de pescado). Siempre cocinado.",
+  "lore": "Buchanan-Hamilton lo describió en 1822 con el nombre bengalí de chitala. En Bengala, el curry de chital muitha es desde hace mucho un plato festivo para bodas e invitados de honor.",
+  "funFact": "Los peces cuchillo pertenecen a los osteoglosiformes, un linaje que también incluye el arapaima, las arowanas y los peces elefante de África y que se remonta a más de 100 millones de años.",
+  "animal": {
+   "diet": "Carnívoro: peces, gambas, insectos y moluscos",
+   "habitat": "Pozas profundas y claras de grandes ríos, lagos de llanura de inundación y embalses con refugios sumergidos",
+   "lifespan": "Poco documentada; probablemente más de 10 años",
+   "size": "Comúnmente 60–80 cm; hasta unos 1,2 m",
+   "behaviour": "Principalmente nocturno; de día se mantiene suspendido entre raíces y troncos sumergidos. Las parejas desovan sobre superficies duras durante el monzón y el macho airea y vigila los huevos.",
+   "fieldMarks": [
+    "Dorso muy jorobado detrás de la cabeza, con una pequeña aleta dorsal en forma de pluma",
+    "El cuerpo se estrecha en forma de hoja de cuchillo; la aleta anal va del vientre a la cola",
+    "Plateado, con unas 15 o más barras finas plateadas en el dorso y a veces hileras de pequeñas manchas oscuras cerca de la cola",
+    "Boca grande con la mandíbula extendiéndose mucho más allá del ojo"
+   ],
+   "lookalikes": "El pez cuchillo payaso (Chitala ornata) del sudeste asiático, frecuente en acuariofilia, tiene grandes ocelos negros rodeados de blanco a lo largo de la parte posterior del flanco. El pez cuchillo bronceado (Notopterus notopterus) es más pequeño (menos de 60 cm), no tiene joroba y su boca es mucho más pequeña.",
+   "whereToSee": "Beels de las llanuras inundables de Assam y Bangladés; el Ganges en Bihar y Bengala Occidental; mercados de pescado de Calcuta",
+   "season": "Residente; desova de mayo a julio",
+   "order": "Osteoglossiformes"
+  }
+ },
+ {
+  "scientific": "Anabas testudineus",
+  "common": "Perca trepadora",
+  "summary": "Un pequeño pez acorazado de respiración aérea que puede «caminar» por tierra sobre los opérculos y las aletas en busca de agua nueva. Es un pescado muy apreciado en Bengala, que se vende vivo en los mercados porque sobrevive horas fuera del agua.",
+  "nativeRange": "Desde Pakistán y la India hacia el este hasta el sur de China, Filipinas e Indonesia; introducida en Papúa Nueva Guinea y en islas del norte de Australia",
+  "biomes": [
+   "Pantanos",
+   "Arrozales",
+   "Estanques",
+   "Acequias"
+  ],
+  "abilities": [
+   "Respira aire mediante un órgano laberíntico situado sobre las branquias",
+   "Se desplaza por tierra balanceándose sobre los opérculos espinosos y empujando con las aletas y la cola",
+   "Sobrevive fuera del agua durante horas si se mantiene húmeda, y se entierra en el barro durante la estación seca",
+   "Tolera aguas estancadas, cálidas, pobres en oxígeno y ligeramente salobres"
+  ],
+  "edibleParts": [
+   "carne"
+  ],
+  "edibilityNote": "Sabrosa, pero con muchas espinas y púas; se cocina entera en el koi macher jhol bengalí y en platos tailandeses y vietnamitas. Siempre cocinada. Las afiladas espinas del opérculo y de las aletas cortan las manos al limpiarla.",
+  "lore": "En 1797, un oficial de la Compañía Danesa de las Indias Orientales, Daldorf, afirmó haber visto una trepando por una palmera cerca de Tranquebar, lo que dio al pez su nombre inglés («climbing perch», perca trepadora) y el nombre de su género, Anabas, que en griego significa «trepador». La mayoría de los biólogos dudan de la historia del árbol, pero aceptan que se desplaza por tierra.",
+  "funFact": "Su nombre específico, testudineus, significa «como una tortuga», por su cabeza y sus escamas duras y acorazadas.",
+  "animal": {
+   "diet": "Omnívora: insectos, peces pequeños, camarones, gusanos y materia vegetal",
+   "habitat": "Aguas quietas, someras y con vegetación: pantanos, arrozales, estanques y canales",
+   "lifespan": "Unos 5–8 años",
+   "size": "Normalmente 10–20 cm; hasta unos 25 cm",
+   "behaviour": "Tras las lluvias fuertes puede abandonar las charcas que se secan y desplazarse de noche por tierra hacia otras aguas. Las parejas reproductoras liberan huevos flotantes durante la estación de lluvias.",
+   "fieldMarks": [
+    "Cuerpo pequeño y robusto, como de perca, con escamas ásperas",
+    "De oliva a verde grisáceo, con una mancha oscura en la base de la cola y a menudo otra detrás del opérculo",
+    "Opérculo aserrado con espinas afiladas",
+    "Larga aleta dorsal espinosa"
+   ],
+   "lookalikes": "Los guramis (Trichogaster) son más delgados y tienen aletas pélvicas largas y filiformes. Los cabezas de serpiente tienen el cuerpo largo y cilíndrico y la cabeza plana.",
+   "whereToSee": "Estanques de aldea y arrozales de Bangladés y Bengala Occidental; tanques de peces vivos en los mercados de Daca, Calcuta, Bangkok y Kuala Lumpur",
+   "season": "Residente; se reproduce al comienzo de la estación de lluvias (mayo–agosto); desplazamientos por tierra tras lluvias fuertes",
+   "order": "Anabantiformes"
+  }
+ },
+ {
+  "scientific": "Cyprinus carpio",
+  "common": "Carpa común",
+  "summary": "Un pez de fondo, de cuerpo alto y con barbillas, originario de las cuencas del Danubio, el mar Negro y el Caspio. Los romanos y los monjes medievales lo criaron, y hoy es uno de los peces más extendidos de la Tierra. Es un pescado muy apreciado para comer y para la pesca deportiva, y también una de las peores especies invasoras del mundo, aunque las carpas fluviales verdaderamente silvestres de su área nativa figuran como Vulnerables.",
+  "nativeRange": "Forma silvestre nativa de las cuencas del Danubio, el mar Negro, el Caspio y el mar de Aral; introducida en toda Europa y en todos los continentes excepto la Antártida",
+  "biomes": [
+   "Lagos",
+   "Ríos lentos",
+   "Estanques",
+   "Embalses"
+  ],
+  "abilities": [
+   "Remueve el sedimento en busca de alimento, enturbiando el agua y arrancando las plantas acuáticas, lo que degrada los humedales donde se introduce",
+   "Tolera aguas cálidas, turbias y pobres en oxígeno, y un amplio rango de temperaturas",
+   "Una hembra grande puede poner más de un millón de huevos en una temporada",
+   "Tiene el sentido del gusto repartido por los labios y las barbillas, además de la boca"
+  ],
+  "edibleParts": [
+   "carne",
+   "huevas"
+  ],
+  "edibilityNote": "Carne firme y grasa con muchas espinas intramusculares en forma de Y. Los peces de estanques fangosos pueden saber a tierra, por lo que a menudo se mantienen unos días en agua limpia antes de comerlos. Cocínela siempre: la carpa cruda o poco hecha puede transmitir duelas hepáticas (Clonorchis, Opisthorchis) allí donde existen. Los ejemplares silvestres grandes de lagos contaminados pueden contener PCB y mercurio, así que siga las recomendaciones locales.",
+  "lore": "En toda la Europa medieval los monjes criaban carpas en estanques como alimento de Cuaresma, y en Chequia, Polonia y Eslovaquia todavía se compra una carpa viva y se guarda en la bañera antes de la cena de Nochebuena. Izaak Walton, en «The Compleat Angler» (1653), llamó a la carpa «the queen of rivers, a stately, a good, and a very subtil fish» («la reina de los ríos, un pez majestuoso, bueno y muy astuto»).",
+  "funFact": "Australia ha estudiado liberar el herpesvirus ciprínido 3 (herpesvirus del koi) como control biológico para reducir el número de carpas en la cuenca del Murray-Darling.",
+  "animal": {
+   "diet": "Omnívora: larvas de insectos, gusanos, moluscos, crustáceos, semillas y materia vegetal",
+   "habitat": "Aguas cálidas, quietas o lentas, con fondos blandos y vegetación",
+   "lifespan": "Normalmente 15–20 años; las edades registradas se acercan a los 40",
+   "size": "Comúnmente 40–80 cm; hasta unos 1,2 m y más de 40 kg",
+   "behaviour": "A finales de primavera desova ruidosamente en las orillas someras con vegetación, con los machos chapoteando junto a las hembras. Pasta en el fondo en grupos, dejando nubes de limo y cráteres de alimentación.",
+   "fieldMarks": [
+    "Cuerpo alto y pesado con grandes escamas de bronce dorado a oliva (las formas espejo y cuero tienen escamas dispersas o carecen de ellas)",
+    "Dos pares de barbillas en las comisuras de la boca, el par posterior más largo",
+    "Larga aleta dorsal con una robusta espina delantera aserrada",
+    "Boca de labios gruesos que se proyecta como un tubo al alimentarse"
+   ],
+   "lookalikes": "El carasio (Carassius carassius) y el pez dorado o carpín prusiano no tienen barbillas. La brema común (Abramis brama) tiene los flancos más aplanados, carece de barbillas y tiene una aleta anal larga. El barbo europeo (Barbus barbus) es esbelto, con la boca en la parte inferior y cuatro barbillas junto a los labios.",
+   "whereToSee": "Lagos y graveras de toda Europa; las comarcas de estanques piscícolas de Chequia y Polonia, como Třeboň (Bohemia Meridional); el delta del Danubio; invasora en la cuenca del Murray-Darling (Australia) y en los Grandes Lagos",
+   "season": "Residente; desova de mayo a julio cuando el agua supera unos 18 °C",
+   "order": "Cypriniformes"
+  }
+ },
+ {
+  "scientific": "Cyprinus rubrofuscus",
+  "common": "Koi (carpa del Amur)",
+  "summary": "La carpa de Asia oriental, antepasado silvestre de los koi ornamentales que los criadores japoneses convirtieron en joyas vivientes. En el arte chino y japonés simboliza la perseverancia, por la carpa que salta la Puerta del Dragón y se convierte en dragón.",
+  "nativeRange": "Asia oriental: desde la cuenca del Amur hacia el sur por China, Corea y Vietnam (forma silvestre); los koi se mantienen hoy en estanques de todo el mundo",
+  "biomes": [
+   "Ríos",
+   "Lagos",
+   "Estanques"
+  ],
+  "abilities": [
+   "La cría selectiva ha fijado decenas de variedades de color con nombre propio, como kōhaku (rojo y blanco), taishō sanshoku y shōwa",
+   "Aprende las rutinas de alimentación y llega a comer de la mano de las personas",
+   "Sobrevive a inviernos fríos aletargándose en el fondo del estanque"
+  ],
+  "edibleParts": [
+   "carne"
+  ],
+  "edibilityNote": "Las carpas de Asia oriental silvestres y de cultivo son un pescado de consumo importante en China, Vietnam y Corea. Los koi ornamentales no suelen comerse. Cocínela siempre, porque la carpa cruda puede portar duelas hepáticas (Clonorchis sinensis).",
+  "lore": "A comienzos del siglo XIX, los campesinos de las aldeas de montaña de Niigata empezaron a criar carpas de colores en los estanques de sus arrozales en terrazas. Las familias japonesas izan banderolas en forma de carpa (koinobori) el Día del Niño, el 5 de mayo, inspiradas en la leyenda china de la carpa que remonta las cascadas de la Puerta del Dragón del río Amarillo y se transforma en dragón.",
+  "funFact": "Se decía que una famosa koi llamada Hanako tenía 226 años cuando murió en 1977, una edad estimada contando los anillos de crecimiento de sus escamas. La cifra se pone ampliamente en duda.",
+  "animal": {
+   "diet": "Omnívora: invertebrados, semillas, algas y materia vegetal; pienso en los estanques",
+   "habitat": "Ríos lentos, lagos y estanques",
+   "lifespan": "Comúnmente 25–35 años en buenos estanques; las afirmaciones de más de un siglo no están verificadas",
+   "size": "Normalmente 50–90 cm; los koi grandes superan 1 m",
+   "behaviour": "Los koi se agolpan en la superficie a la hora de comer y aprenden a reconocer a cada cuidador. Las carpas del Amur silvestres desovan en vegetación inundada en primavera.",
+   "fieldMarks": [
+    "Cuerpo de carpa con dos pares de barbillas y una larga aleta dorsal con espina aserrada",
+    "Koi: con dibujos en rojo, blanco, negro, amarillo, naranja o platino metálico",
+    "Ejemplares silvestres: de bronce a oliva, algo más alargados que la carpa común europea"
+   ],
+   "lookalikes": "Los peces dorados de fantasía (Carassius) no tienen barbillas y suelen ser más pequeños, a menudo con aletas dobles o largas. La carpa común europea (Cyprinus carpio) es muy parecida, y la mejor forma de distinguirlas es la genética y el origen.",
+   "whereToSee": "Ojiya y Yamakoshi, en Niigata (cuna de la cría de koi); estanques de templos y castillos de todo Japón; la exposición All Japan Combined Koi Show de Tokio (en invierno)",
+   "season": "Residente; desova de abril a junio",
+   "order": "Cypriniformes"
+  }
+ },
+ {
+  "scientific": "Carassius auratus",
+  "common": "Pez dorado (carpín dorado)",
+  "summary": "Domesticado en China a partir de una apagada carpa de color oliva a lo largo de más de mil años, el pez dorado fue uno de los primeros peces criados por su belleza. Los peces dorados asilvestrados que se sueltan en lagos recuperan colores apagados, crecen mucho y se convierten en invasores destructivos.",
+  "nativeRange": "Asia oriental (China y zonas cercanas); poblaciones ornamentales y asilvestradas en todo el mundo",
+  "biomes": [
+   "Estanques",
+   "Lagos",
+   "Ríos lentos"
+  ],
+  "abilities": [
+   "Sobrevive meses bajo el hielo: en agua sin oxígeno produce etanol en lugar de ácido láctico y lo expulsa por las branquias",
+   "Se le puede adiestrar para responder a sonidos, colores y luces, y recuerda el adiestramiento durante meses (la «memoria de tres segundos» es un mito)",
+   "Los criadores han obtenido formas espectaculares, como los ojos telescópicos, los ojos de burbuja, las cabezas de león y las colas dobles"
+  ],
+  "lore": "En la China de la dinastía Song (siglos X–XIII) ya se mantenían variantes rojo doradas de la carpa silvestre en los «estanques de liberación» de los monasterios budistas, y en la dinastía Ming aparecieron variedades de fantasía criadas en cuencos. Los peces dorados llegaron a Japón a principios del siglo XVI y a Europa en el XVII, donde Samuel Pepys los vio como una novedad en 1665.",
+  "funFact": "El pez dorado y el carasio están entre los poquísimos vertebrados que producen alcohol: en agua sin oxígeno sus músculos convierten el azúcar en etanol para poder sobrevivir meses bajo el hielo.",
+  "animal": {
+   "diet": "Omnívoro: algas, materia vegetal, larvas de insectos, crustáceos y detritos",
+   "habitat": "Estanques, lagos y ríos lentos de aguas quietas y con vegetación; acuarios",
+   "lifespan": "10–20 años con buenos cuidados; se han registrado más de 40",
+   "size": "Normalmente 10–20 cm; los asilvestrados hasta 40 cm y más de 2 kg",
+   "behaviour": "Ramonea y criba el fondo constantemente. En primavera, los machos persiguen a las hembras entre las plantas hasta que estas dispersan sus huevos adhesivos.",
+   "fieldMarks": [
+    "Cuerpo alto, de carpa, sin barbillas",
+    "Naranja, rojo, blanco, negro o calicó en las formas ornamentales; los asilvestrados, de bronce oliváceo",
+    "Larga aleta dorsal con una espina aserrada",
+    "Razas de fantasía con cola doble (gemela), aletas largas u ojos modificados"
+   ],
+   "lookalikes": "La carpa común y los koi tienen dos pares de barbillas. El carasio (Carassius carassius) tiene la aleta dorsal más redondeada y convexa, y los jóvenes tienen una mancha oscura en la base de la cola. El carpín prusiano (C. gibelio) es el pariente más próximo y es difícil de distinguir sin contar las branquiespinas.",
+   "whereToSee": "Criadores de peces dorados de fantasía en Hangzhou y Fuzhou (China) y en Yatomi, Aichi (Japón); poblaciones asilvestradas en el lago Tahoe y en muchos estanques urbanos",
+   "season": "Residente; desova de abril a julio",
+   "order": "Cypriniformes"
+  }
+ },
+ {
+  "scientific": "Oncorhynchus mykiss",
+  "common": "Trucha arcoíris (steelhead)",
+  "summary": "Un salmónido del Pacífico con dos formas de vida: una trucha de arroyo que pasa toda su vida en agua dulce y la steelhead, que va al mar y regresa del océano para desovar. Es uno de los peces más criados y repoblados de la Tierra.",
+  "nativeRange": "Cuencas del Pacífico desde Alaska hasta el noroeste de México y la península de Kamchatka; introducida en más de 80 países",
+  "biomes": [
+   "Ríos fríos",
+   "Arroyos de montaña",
+   "Lagos",
+   "Océano costero (steelhead)"
+  ],
+  "abilities": [
+   "Las steelhead migran al mar y vuelven, y a diferencia de la mayoría de los salmones del Pacífico pueden sobrevivir al desove y regresar a desovar de nuevo",
+   "Salta cascadas y rápidos en sus migraciones de desove",
+   "Se alimenta de insectos a la deriva manteniéndose quieta en la corriente y subiendo a la superficie en el momento justo"
+  ],
+  "edibleParts": [
+   "carne",
+   "huevas"
+  ],
+  "edibilityNote": "La trucha arcoíris de piscifactoría es un pescado de consumo muy importante. Las truchas silvestres pueden portar parásitos, como tenias (Diphyllobothrium) y, en los ejemplares que van al mar, Anisakis, así que cocínela o congélela adecuadamente antes de comerla cruda. Para los peces de algunos lagos repoblados existen avisos por mercurio o PCB.",
+  "lore": "Desde la década de 1870 se enviaron por todo el mundo huevos de piscifactoría procedentes del río McCloud, en California, y los descendientes de esa estirpe viven hoy en seis continentes. La steelhead es el pez oficial del estado de Washington.",
+  "funFact": "La trucha arcoíris y la steelhead son la misma especie. Padres steelhead pueden tener descendencia que se queda en el río, y padres residentes pueden tener descendencia que va al mar.",
+  "animal": {
+   "diet": "Carnívora: insectos acuáticos y terrestres, crustáceos, huevos de peces y peces pequeños; en el mar, las steelhead comen calamares y peces",
+   "habitat": "Arroyos, ríos y lagos frescos, claros y bien oxigenados; las steelhead, en el Pacífico Norte",
+   "lifespan": "Normalmente 4–6 años; hasta 11",
+   "size": "Las de arroyo, 25–50 cm; las steelhead y las de lago, más de 1 m y 20 kg",
+   "behaviour": "En primavera, las hembras excavan nidos en la grava (frezaderos) con la cola, y los machos dominantes se pelean por situarse a su lado.",
+   "fieldMarks": [
+    "Banda de rosa rojizo a magenta a lo largo de cada flanco, más viva en los machos en freza",
+    "Muchas pequeñas manchas negras sobre el dorso, la aleta dorsal y toda la cola",
+    "Dorso de plateado a verde oliva, sin manchas rojas ni manchas con halo claro",
+    "Aleta adiposa pequeña; la boca termina por debajo del ojo o justo por detrás"
+   ],
+   "lookalikes": "La trucha común tiene manchas negras y rojas más grandes con halos claros y pocas manchas en la cola. La trucha degollada tiene una franja rojo anaranjada bajo la mandíbula inferior. Las steelhead recién llegadas del mar son de un plateado brillante y pueden confundirse con el salmón coho, que solo tiene manchas en el lóbulo superior de la cola y las encías blancas.",
+   "whereToSee": "El río McCloud, California (origen de las estirpes de piscifactoría originales); los ríos de Kamchatka; los ríos Skeena y Dean, Columbia Británica (steelhead); los ríos trucheros de Cachemira, Chile, la Patagonia y Nueva Zelanda donde se ha introducido",
+   "season": "Las truchas residentes, todo el año; desova aproximadamente de febrero a junio; las steelhead entran en los ríos en verano o en invierno según la población",
+   "order": "Salmoniformes"
+  }
+ },
+ {
+  "scientific": "Salmo trutta",
+  "common": "Trucha común (reo o trucha marina)",
+  "summary": "La trucha clásica de la pesca con mosca en Europa, moteada de negro y rojo. Algunas se quedan toda la vida en su arroyo natal; otras bajan al mar como reos plateados. Introducida desde Europa, hoy vive desde Cachemira y el Himalaya hasta la Patagonia y Nueva Zelanda.",
+  "nativeRange": "Europa, el norte de África (montes Atlas) y Asia occidental, hacia el este hasta Afganistán y la cuenca del Aral; introducida en todos los continentes excepto la Antártida",
+  "biomes": [
+   "Ríos fríos",
+   "Arroyos de montaña",
+   "Lagos",
+   "Mares costeros (reo)"
+  ],
+  "abilities": [
+   "Una especie con tres historias de vida: truchas residentes de río, truchas de lago y reos que migran al océano",
+   "Muy territorial; cada pez defiende un puesto de alimentación en la corriente",
+   "Los ejemplares grandes de lago y de mar se vuelven piscívoros y pueden superar los 15 kg"
+  ],
+  "edibleParts": [
+   "carne"
+  ],
+  "edibilityNote": "Excelente para comer. Cocine o congele adecuadamente los ejemplares silvestres, que pueden portar larvas de tenia. Muchas poblaciones silvestres son hoy solo de pesca sin muerte.",
+  "lore": "Eliano, hacia el año 200 d. C., describió cómo los pescadores macedonios del río Astreo capturaban «peces moteados» con moscas de lana roja y plumas de gallo, el relato más antiguo conocido de la pesca con mosca. Las truchas se llevaron de Gran Bretaña a Cachemira en 1899, y sus ríos trucheros siguen siendo una pesquería famosa.",
+  "funFact": "Los reos y las truchas comunes residentes del arroyo pueden ser hermanos: que un pez joven vaya al mar depende sobre todo de su crecimiento y su condición física, no solo de genes distintos.",
+  "animal": {
+   "diet": "Carnívora: larvas e insectos adultos, crustáceos, caracoles y peces; los reos comen lanzones y espadines",
+   "habitat": "Arroyos, ríos y lagos fríos y limpios; aguas costeras en el caso de los reos",
+   "lifespan": "Normalmente 5–8 años; algunas de lago, más de 20",
+   "size": "Las de arroyo, 20–40 cm; reos y truchas de lago, más de 1 m",
+   "behaviour": "Los reos regresan a su río natal en verano y remontan la corriente de noche. Las hembras excavan frezaderos en la grava de las cabeceras en otoño y a principios del invierno.",
+   "fieldMarks": [
+    "Cuerpo de pardo dorado a oliva con grandes manchas negras y manchas rojas o naranjas, a menudo rodeadas de halos claros",
+    "Aleta adiposa a menudo con la punta rojo anaranjada",
+    "Cola de borde recto, con pocas manchas o ninguna",
+    "Reos: plateados, con manchas negras en forma de X, como un salmón del Atlántico"
+   ],
+   "lookalikes": "El salmón del Atlántico tiene el pedúnculo caudal más estrecho, la cola ahorquillada y una boca más pequeña cuya mandíbula termina a la altura del ojo (en la trucha llega por detrás del ojo). La trucha arcoíris tiene una banda rosa y pequeñas manchas negras por toda la cola. El salvelino fontinal tiene dibujos vermiculados en el dorso y las aletas inferiores con el borde blanco.",
+   "whereToSee": "Los ríos calizos (chalk streams) del sur de Inglaterra (Test e Itchen); los lagos (loughs) de Irlanda; los valles de Lidder y Sind, en Cachemira; las Tierras Altas Centrales de Tasmania; Taupō y Mataura, en Nueva Zelanda",
+   "season": "Residente; desova de octubre a enero; los reos remontan de junio a septiembre",
+   "order": "Salmoniformes"
+  }
+ },
+ {
+  "scientific": "Salvelinus alpinus",
+  "common": "Salvelino ártico (trucha alpina)",
+  "summary": "El pez de agua dulce más septentrional de la Tierra, presente en lagos y ríos del Alto Ártico alrededor del polo y, como reliquia de la Edad de Hielo, en lagos de montaña profundos más al sur. Los machos en freza adquieren un sorprendente rojo encendido.",
+  "nativeRange": "Ártico y subártico circumpolares: Canadá, Alaska, Groenlandia, Islandia, Escandinavia y la Rusia ártica; poblaciones lacustres relictas en los Alpes, Gran Bretaña e Irlanda",
+  "biomes": [
+   "Lagos árticos",
+   "Ríos fríos",
+   "Aguas costeras árticas"
+  ],
+  "abilities": [
+   "Vive en lagos que permanecen helados la mayor parte del año y a una temperatura cercana a 0 °C",
+   "Las poblaciones anádromas se alimentan en el mar durante el breve verano ártico y vuelven al agua dulce para pasar el invierno",
+   "Un mismo lago puede albergar varias formas distintas (enana, planctófaga, piscívora), como en el Thingvallavatn de Islandia"
+  ],
+  "edibleParts": [
+   "carne",
+   "huevas"
+  ],
+  "edibilityNote": "Carne rosada y fina, muy criada en Islandia y Canadá y un alimento básico de los inuit (se come crudo, congelado, seco o fermentado). Congele los ejemplares silvestres antes de comerlos crudos para matar las larvas de tenia (Diphyllobothrium). En algunos lagos del Alto Ártico, los salvelinos grandes tienen niveles elevados de mercurio.",
+  "lore": "En los siglos XVII y XVIII, los salvelinos del lago Windermere se conservaban en mantequilla y se enviaban a Londres como manjar, servidos en «char dishes», fuentes pintadas. Las comunidades inuit pescan salvelinos con leisters (arpones de tres puntas) en presas de piedra llamadas saputit, que todavía se usan hoy.",
+  "funFact": "El lago Hazen, en la isla de Ellesmere, a unos 82° N, alberga salvelinos y es uno de los lagos con peces más septentrionales del mundo.",
+  "animal": {
+   "diet": "Carnívoro: zooplancton, larvas de insectos, caracoles, crustáceos y peces, incluidos otros salvelinos",
+   "habitat": "Lagos y ríos fríos, profundos y claros; aguas costeras cerca de las desembocaduras",
+   "lifespan": "A menudo 10–20 años; algunos del Alto Ártico superan los 40",
+   "size": "Comúnmente 30–60 cm; los anádromos hasta alrededor de 1 m y 15 kg",
+   "behaviour": "Los salvelinos anádromos bajan por el río tras el deshielo para alimentarse en aguas costeras y a finales del verano vuelven a remontarlo para invernar y desovar en los lagos.",
+   "fieldMarks": [
+    "Dorso de gris verdoso oscuro a azul, con manchas rosa pálido, crema o rojas (sin manchas negras)",
+    "Machos en freza: vientre y parte inferior de los flancos rojo o naranja vivo",
+    "Aletas pectorales, pélvicas y anal con un nítido borde anterior blanco",
+    "Cola ligeramente ahorquillada; escamas pequeñas"
+   ],
+   "lookalikes": "El salvelino fontinal (S. fontinalis) tiene dibujos vermiculados claros en el dorso y manchas rojas con halos azules. La trucha lacustre americana (S. namaycush) es gris con manchas claras, cola profundamente ahorquillada y sin vientre rojo. El Dolly Varden (S. malma) es muy parecido y se distingue por el número de branquiespinas y por su área de distribución.",
+   "whereToSee": "Ríos de Nunavut (Cambridge Bay, Kugluktuk); el Thingvallavatn de Islandia; el lago Windermere (Inglaterra); lagos alpinos de Suiza y Austria",
+   "season": "Los anádromos bajan al mar tras el deshielo (junio–julio) y vuelven a remontar el río en agosto–septiembre; desova en septiembre–octubre",
+   "order": "Salmoniformes"
+  }
+ },
+ {
+  "scientific": "Esox lucius",
+  "common": "Lucio",
+  "summary": "Un largo depredador al acecho de los lagos septentrionales con vegetación, con una mandíbula en pico de pato llena de dientes orientados hacia atrás. Es uno de los pocos peces de agua dulce nativos de todo el hemisferio norte.",
+  "nativeRange": "Circumpolar en aguas dulces y salobres de Norteamérica, Europa y el norte de Asia; introducido en España, Irlanda (discutido) y partes del oeste de Norteamérica",
+  "biomes": [
+   "Lagos",
+   "Ríos lentos",
+   "Bahías con vegetación",
+   "Costas salobres del Báltico"
+  ],
+  "abilities": [
+   "Arranca desde parado con una aceleración extrema, impulsado por las aletas dorsal y anal, situadas muy atrás, cerca de la cola",
+   "Traga presas de hasta aproximadamente la mitad de su propia longitud, incluidos patitos, ranas y otros lucios",
+   "Percibe las vibraciones mediante la línea lateral y los poros sensoriales de la cabeza, por lo que puede cazar en aguas turbias",
+   "Vive tanto en el mar Báltico, de aguas salobres, como en agua dulce"
+  ],
+  "edibleParts": [
+   "carne",
+   "huevas (cocinadas)"
+  ],
+  "edibilityNote": "Carne blanca y magra, un clásico de las quenelles de brochet y de la cocina centroeuropea, pero llena de espinas en Y. El lucio es un huésped clave de la tenia ancha del pescado (Diphyllobothrium latum), así que nunca coma su carne ni sus huevas crudas o poco hechas. Los lucios grandes acumulan mercurio y en muchas regiones están sujetos a recomendaciones de consumo de pescado; los niños y las mujeres embarazadas deben limitar su consumo.",
+  "lore": "En el cuento popular ruso «Por orden del lucio» (Po shchuchyemu veleniyu), el perezoso Emelia pesca un lucio mágico que le concede sus deseos. El «Lucio del Emperador», supuestamente anillado por Federico II en 1230 y pescado 267 años después, es un conocido fraude medieval; su esqueleto, conservado en Mannheim, resultó estar montado con varios peces.",
+  "funFact": "La epopeya nacional finlandesa, el Kalevala, cuenta cómo el héroe Väinämöinen construyó el primer kantele, un instrumento parecido a un arpa, con la mandíbula de un lucio gigante.",
+  "animal": {
+   "diet": "Carnívoro: peces (incluidos lucios más pequeños), ranas, cangrejos de río, pequeños mamíferos y patitos",
+   "habitat": "Lagos de aguas claras o teñidas de taninos, ríos lentos y remansos con vegetación; bahías costeras del Báltico",
+   "lifespan": "Normalmente 10–15 años; más de 25 en aguas frías septentrionales",
+   "size": "Comúnmente 40–90 cm; las hembras hasta unos 1,5 m y más de 25 kg",
+   "behaviour": "Se mantiene inmóvil entre las plantas acuáticas y luego ataca de lado en una fracción de segundo. Desova muy pronto en primavera, a menudo justo después del deshielo, dispersando los huevos sobre la hierba inundada.",
+   "fieldMarks": [
+    "Cuerpo largo y fusiforme con las aletas dorsal y anal situadas muy atrás, cerca de la cola ahorquillada",
+    "Hocico aplanado en forma de pico de pato y una boca llena de dientes afilados",
+    "De verde oliva a pardo, con hileras de manchas claras en forma de judía (dibujos claros sobre fondo oscuro)",
+    "Mejilla totalmente cubierta de escamas; opérculo con escamas solo en la mitad superior"
+   ],
+   "lookalikes": "El muskellunge (E. masquinongy) tiene barras o manchas oscuras sobre fondo claro, lóbulos de la cola puntiagudos y la parte inferior de la mejilla sin escamas. El lucio cadena (E. niger) es más pequeño, con un dibujo oscuro en forma de red o cadena y una barra oscura bajo el ojo.",
+   "whereToSee": "Lagos de Finlandia, Suecia e Irlanda; los archipiélagos bálticos de Estocolmo y Åland; los lagos del Escudo Canadiense en Manitoba, Ontario y Saskatchewan",
+   "season": "Residente; desova de marzo a mayo, justo después del deshielo",
+   "order": "Esociformes"
+  }
+ },
+ {
+  "scientific": "Silurus glanis",
+  "common": "Siluro (siluro europeo)",
+  "summary": "El mayor pez de agua dulce de Europa, un siluro gigante sin escamas, de boca cavernosa y bigotes como los de una morsa. Los siluros introducidos en Francia han aprendido a lanzarse a la orilla de los ríos para atrapar palomas.",
+  "nativeRange": "Europa central y oriental, hacia el este hasta las cuencas del mar Negro, el Caspio y el mar de Aral; introducido en España, Italia, Francia, Gran Bretaña y otros lugares",
+  "biomes": [
+   "Grandes ríos",
+   "Lagos",
+   "Embalses",
+   "Márgenes salobres del mar Negro y el Caspio"
+  ],
+  "abilities": [
+   "Caza en la oscuridad con dos largas barbillas superiores y cuatro barbillas más cortas en el mentón",
+   "Se vara en las orillas de los ríos para atrapar palomas y luego vuelve al agua contoneándose (documentado en el Tarn, en Albi, Francia)",
+   "Alcanza unos 2,8 m, el mayor pez de agua dulce verificado de Europa",
+   "Los machos vigilan y airean el nido de huevos durante días"
+  ],
+  "edibleParts": [
+   "carne"
+  ],
+  "edibilityNote": "Carne grasa, casi sin espinas, popular en Hungría (harcsapaprikás) y en Europa central. Los ejemplares más pequeños saben mejor. Los siluros muy grandes y viejos de ríos industriales pueden contener niveles altos de mercurio y PCB, así que consulte las recomendaciones locales. Siempre cocinado.",
+  "lore": "Aristóteles describió al siluro macho vigilando su nido en la «Historia de los animales» (siglo IV a. C.). La observación fue desestimada hasta que Louis Agassiz la confirmó en 1857 en el siluro griego emparentado, al que llamó Glanis aristotelis (hoy Silurus aristotelis) en honor de Aristóteles.",
+  "funFact": "Alrededor del 28 % de los ataques con varamiento de los siluros contra las palomas en Albi tuvieron éxito, algo que los investigadores compararon con las orcas que se lanzan a las playas para cazar focas.",
+  "animal": {
+   "diet": "Carnívoro y carroñero: peces, cangrejos de río, ranas, aves acuáticas, roedores y carroña",
+   "habitat": "Ríos de llanura profundos y lentos, lagos, embalses y remansos de fondo blando",
+   "lifespan": "Hasta 30 años o más; algunas estimaciones apuntan a unos 50",
+   "size": "Comúnmente 1–1,6 m; ejemplares verificados de hasta unos 2,8 m y más de 130 kg",
+   "behaviour": "Principalmente nocturno; de día descansa en huecos bajo las orillas o bajo árboles sumergidos. Desova a finales de primavera en vegetación somera, y el macho vigila el nido.",
+   "fieldMarks": [
+    "Cuerpo largo, sin escamas y viscoso; cabeza ancha y plana y boca muy ancha",
+    "Un par de barbillas muy largas en la mandíbula superior y dos pares de barbillas cortas bajo el mentón",
+    "Aleta dorsal diminuta y aleta anal muy larga, unida casi hasta la cola",
+    "Dorso negro oliváceo oscuro y jaspeado, flancos más claros y marmóreos y vientre blanquecino"
+   ],
+   "lookalikes": "El siluro de Aristóteles (Silurus aristotelis) de Grecia solo tiene cuatro barbillas. Los bagres de canal y azul norteamericanos introducidos no tienen escamas, pero tienen la cola ahorquillada, una aleta adiposa y ocho barbillas.",
+   "whereToSee": "El Ebro en Mequinenza y Caspe (España); el delta del Po (Italia); el delta del Danubio; el delta del Volga",
+   "season": "Residente; desova de mayo a julio; activo durante los meses cálidos",
+   "order": "Siluriformes"
+  }
+ },
+ {
+  "scientific": "Perca flavescens",
+  "common": "Perca amarilla",
+  "summary": "Un pez gregario, dorado y con barras, de los lagos norteamericanos, muy apreciado para la pesca bajo el hielo y para las frituras de pescado de los viernes por la noche en la región de los Grandes Lagos. Las hembras ponen los huevos en curiosas cintas gelatinosas plegadas en acordeón que pueden superar los 2 m de longitud.",
+  "nativeRange": "Este y centro de Norteamérica: cuencas del Atlántico, el Ártico, los Grandes Lagos, la bahía de Hudson y el Misisipi; ampliamente introducida en el oeste",
+  "biomes": [
+   "Lagos",
+   "Estanques",
+   "Ríos lentos",
+   "Estuarios salobres"
+  ],
+  "abilities": [
+   "Pone los huevos en una única cinta gelatinosa larga, hueca y plegada en acordeón que cuelga sobre las plantas, algo único entre los peces de agua dulce norteamericanos",
+   "Forma grandes cardúmenes que se alimentan activamente todo el invierno bajo el hielo",
+   "Tolera aguas de frescas a cálidas y estuarios ligeramente salobres"
+  ],
+  "edibleParts": [
+   "carne"
+  ],
+  "edibilityNote": "Filetes blancos, dulces y que se deshacen en láminas; uno de los peces de agua dulce más sabrosos. Para algunos lagos existen avisos por mercurio o PCB. Cocínela siempre, porque la perca puede portar parásitos como el «gusano amarillo» (yellow grub), que es inofensivo una vez cocinado.",
+  "lore": "Las frituras de perca amarilla son una institución en los Grandes Lagos, y la pesca comercial de perca del lago Erie sostiene a los pueblos pesqueros de Ohio y Ontario desde el siglo XIX. Los ojibwe y otros pueblos de los Grandes Lagos llevan mucho tiempo pescando percas con arpón y con redes, incluso a través del hielo invernal.",
+  "funFact": "Una sola hembra puede poner más de 40.000 huevos en una cinta gelatinosa, y la gelatina parece protegerlos de los depredadores.",
+  "animal": {
+   "diet": "Carnívora: zooplancton de joven; de adulta, larvas de insectos, cangrejos de río, peces pequeños y huevos de peces",
+   "habitat": "Lagos y estanques claros con vegetación y ríos lentos, normalmente en cardúmenes cerca del fondo",
+   "lifespan": "Normalmente menos de 10 años; máximo registrado de unos 11",
+   "size": "Normalmente 15–25 cm; hasta unos 50 cm",
+   "behaviour": "Los cardúmenes se acercan a la orilla al amanecer y al anochecer para alimentarse. A principios de la primavera, las hembras dejan colgar cintas de huevos sobre plantas o ramas en las aguas someras, y los machos las fecundan.",
+   "fieldMarks": [
+    "Flancos de amarillo a verde dorado con 6–8 barras verticales oscuras en forma de silla de montar",
+    "Dos aletas dorsales separadas, la primera espinosa",
+    "Aletas inferiores de naranja a rojizas, más vivas en los machos reproductores",
+    "Dorso jorobado y sin dientes caninos"
+   ],
+   "lookalikes": "El walleye y el sauger tienen ojos grandes y vidriosos, dientes caninos y carecen de barras verticales marcadas, y el walleye tiene una punta blanca en el lóbulo inferior de la cola. La perca europea (Perca fluviatilis) es extremadamente parecida, con una mancha oscura en la parte posterior de la primera aleta dorsal, pero no vive de forma natural en Norteamérica.",
+   "whereToSee": "El lago Erie, la bahía Green Bay del lago Michigan y el lago Simcoe (Ontario), sobre todo bajo el hielo invernal; los afluentes de la bahía de Chesapeake",
+   "season": "Residente; desova en abril–mayo, poco después del deshielo; temporada de pesca bajo el hielo de diciembre a marzo",
+   "order": "Perciformes"
+  }
+ },
+ {
+  "scientific": "Micropterus nigricans",
+  "common": "Lobina negra (black bass)",
+  "summary": "El pez deportivo más popular de Norteamérica y el centro de una industria de pesca del black bass de miles de millones de dólares. Es un cazador al acecho, de boca grande, de los lagos con vegetación, y sus introducciones lo han convertido en un invasor dañino en Japón, el sur de África y Europa.",
+  "nativeRange": "Este y centro de Norteamérica: Grandes Lagos, cuenca del Misisipi y cuencas de las vertientes atlántica y del golfo (los peces de la península de Florida se consideran hoy una especie aparte, la lobina de Florida); introducida en todo el mundo",
+  "biomes": [
+   "Lagos",
+   "Estanques",
+   "Embalses",
+   "Ríos lentos"
+  ],
+  "abilities": [
+   "Su mandíbula se abre lo suficiente para tragar presas de casi la mitad de su propia longitud, incluidas ranas, ratones y aves pequeñas",
+   "Los machos limpian un nido y defienden con agresividad los huevos y los alevines durante semanas",
+   "Caza al acecho desde un refugio, usando la vista y la línea lateral"
+  ],
+  "edibleParts": [
+   "carne"
+  ],
+  "edibilityNote": "Carne blanca y suave, aunque la mayoría de los pescadores sueltan las lobinas. Para las lobinas grandes de muchos lagos existen avisos por mercurio. Siempre cocinada.",
+  "lore": "George Perry pescó una lobina negra de 22 lb 4 oz (10,1 kg) en el lago Montgomery, Georgia, en 1932, el récord más famoso de la pesca deportiva estadounidense. Manabu Kurita lo igualó en el lago Biwa, Japón, en 2009.",
+  "funFact": "La mayoría de las guías de campo todavía la llaman Micropterus salmoides. Una revisión taxonómica reciente concluyó que el nombre más antiguo, M. nigricans, corresponde a la lobina negra, e iNaturalist lo ha adoptado.",
+  "animal": {
+   "diet": "Carnívora: peces, cangrejos de río, ranas e insectos; ocasionalmente serpientes, ratones y patitos",
+   "habitat": "Lagos, estanques, embalses y ríos lentos de aguas cálidas, claras o algo turbias, con plantas, troncos y otros refugios",
+   "lifespan": "Hasta unos 16 años, rara vez más de 20",
+   "size": "Comúnmente 30–55 cm; hasta unos 75 cm y 10 kg",
+   "behaviour": "En primavera, el macho abanica un nido en forma de plato en las aguas someras, ahuyenta a los intrusos y vigila el enjambre de alevines hasta que se dispersan.",
+   "fieldMarks": [
+    "La mandíbula superior se extiende por detrás del borde posterior del ojo (en los adultos)",
+    "Banda horizontal oscura e irregular, o hilera de manchas, a lo largo de cada flanco verde",
+    "Aletas dorsales espinosa y blanda casi separadas por una profunda escotadura",
+    "Dorso verde oliváceo y vientre claro"
+   ],
+   "lookalikes": "La lobina de boca chica (M. dolomieu) es de color pardo bronceado con barras verticales, y su mandíbula termina por debajo del ojo. La lobina manchada (M. punctulatus) tiene hileras de pequeñas manchas oscuras en la parte inferior de los flancos y una placa de dientes en la lengua. La lobina de Florida (M. floridanus) se distingue principalmente por la genética y el área de distribución.",
+   "whereToSee": "El lago Okeechobee (lobina de Florida); el lago Guntersville (Alabama); el lago Biwa (Japón, introducida); los embalses del sur de Estados Unidos",
+   "season": "Residente; desova en primavera cuando el agua alcanza unos 16–20 °C (desde febrero en el sur hasta junio en el norte)",
+   "order": "Centrarchiformes"
+  }
+ },
+ {
+  "scientific": "Oncorhynchus nerka",
+  "common": "Salmón rojo (sockeye)",
+  "summary": "Un salmón oceánico plateado que se vuelve escarlata y con la cabeza verde cuando regresa a desovar. Sus migraciones en la bahía de Bristol, Alaska, se cuentan por decenas de millones, y los salmones moribundos llevan nutrientes del océano hasta lo más profundo de lagos y bosques.",
+  "nativeRange": "Pacífico Norte: ríos y lagos desde el Columbia (EE. UU.) hasta Alaska y desde Kamchatka hasta el norte de Japón; la forma sin salida al mar (kokanee), muy extendida",
+  "biomes": [
+   "Pacífico Norte",
+   "Lagos",
+   "Ríos fríos"
+  ],
+  "abilities": [
+   "Recorre miles de kilómetros de océano de vuelta a su río natal, orientándose con el campo magnético terrestre y después con el olfato",
+   "Los jóvenes pasan 1–3 años en un lago de cría, una fase que la mayoría de los salmones del Pacífico se saltan",
+   "Desova una sola vez y muere, y sus cadáveres alimentan con nitrógeno marino a osos, águilas, insectos e incluso a los árboles de las orillas",
+   "Se alimenta por filtración de plancton con numerosas branquiespinas largas"
+  ],
+  "edibleParts": [
+   "carne",
+   "huevas (ikura)"
+  ],
+  "edibilityNote": "Carne de un rojo intenso y sabrosa; un salmón comercial importante. Los salmones silvestres del Pacífico pueden portar nematodos Anisakis y larvas de la tenia Diphyllobothrium, así que congélelo (−20 °C durante 7 días) antes de comerlo crudo o ahumado en frío. El contenido de mercurio es bajo.",
+  "lore": "Muchas Primeras Naciones del noroeste del Pacífico celebran cada año una Ceremonia del Primer Salmón, en la que devuelven al río las espinas del primer pez para que los salmones regresen. El nombre inglés «sockeye» es una anglicización del nombre en halkomelem usado a lo largo del río Fraser.",
+  "funFact": "Se ha rastreado nitrógeno procedente de cadáveres de salmón rojo en las píceas de las orillas, y los estudios han hallado que los árboles junto a ríos con salmones crecen más deprisa que los de ríos sin salmones.",
+  "animal": {
+   "diet": "Zooplancton y larvas de insectos en los lagos; en el mar, kril, anfípodos, copépodos y pequeños peces y calamares",
+   "habitat": "Océano Pacífico Norte; ríos con lagos de cría para el desove",
+   "lifespan": "Normalmente 3–5 años (muere tras desovar)",
+   "size": "Normalmente 55–70 cm y 2–3 kg; el kokanee, mucho más pequeño",
+   "behaviour": "Los adultos dejan de comer al entrar en agua dulce y viven de la grasa acumulada durante la migración río arriba. A los machos les crece una joroba y una mandíbula ganchuda, y se pelean por las hembras sobre la grava.",
+   "fieldMarks": [
+    "En el mar y recién llegados: dorso verde azulado metálico, flancos plateados, sin grandes manchas negras en el dorso ni en la cola",
+    "En freza: cuerpo rojo vivo, cabeza verde oliva, mandíbula inferior blanca",
+    "Machos en freza con mandíbula ganchuda (kype) y dorso jorobado",
+    "Numerosas (unas 30–40) branquiespinas largas y finas en el primer arco branquial"
+   ],
+   "lookalikes": "El coho en freza tiene los flancos rojos y la cabeza oscura, pero conserva manchas en el lóbulo superior de la cola y las encías blancas. El salmón keta tiene barras verticales moradas y verdes, como de calicó. El salmón real es mucho más grande, con las encías negras y manchas en ambos lóbulos de la cola.",
+   "whereToSee": "Las cataratas Brooks, Parque Nacional de Katmai, Alaska (con osos pardos); el río Adams, Columbia Británica (migración dominante cada 4 años); el lago Kuril, Kamchatka",
+   "season": "Migraciones de desove de junio a octubre; máximo en julio en las cataratas Brooks y en octubre en el río Adams",
+   "order": "Salmoniformes"
+  }
+ },
+ {
+  "scientific": "Oncorhynchus tshawytscha",
+  "common": "Salmón real (chinook)",
+  "summary": "El mayor de los salmones del Pacífico. Los del río Yukón nadan unos 3.000 km río arriba hasta sus zonas de desove, y las orcas residentes del sur dependen del salmón real para la mayor parte de su dieta.",
+  "nativeRange": "Pacífico Norte: ríos desde el centro de California hasta Alaska y desde Kamchatka hasta el Anadyr; introducido en Nueva Zelanda, Chile y los Grandes Lagos",
+  "biomes": [
+   "Pacífico Norte",
+   "Grandes ríos",
+   "Arroyos fríos"
+  ],
+  "abilities": [
+   "Realiza una de las migraciones en agua dulce más largas de cualquier salmón, Yukón arriba hasta las cabeceras en Canadá",
+   "Distintas migraciones de primavera, verano y otoño usan el mismo río en momentos diferentes",
+   "Puede superar los 45 kg, lo que lo convierte en el mayor de todos los salmones del Pacífico"
+  ],
+  "edibleParts": [
+   "carne",
+   "huevas"
+  ],
+  "edibilityNote": "Carne sabrosa y grasa; el salmón del Pacífico más apreciado. Congélelo antes de comerlo crudo (riesgo de Anisakis y de tenia). Muchas poblaciones están mermadas o protegidas, así que respete la normativa local.",
+  "lore": "La pesquería de salmón real del río Columbia en las cataratas Celilo fue un lugar de reunión de los pueblos nativos durante miles de años, hasta que la presa de The Dalles inundó las cataratas en 1957. El nombre científico tshawytscha procede del nombre kamchadal, registrado por Johann Walbaum en 1792.",
+  "funFact": "El récord de pesca deportiva es un salmón real de 44 kg (97 lb 4 oz) capturado en el río Kenai, Alaska, en 1985.",
+  "animal": {
+   "diet": "Insectos y crustáceos en los ríos; en el mar, arenques, anchoas, lanzones, calamares y kril",
+   "habitat": "Océano Pacífico Norte; ríos grandes y fríos con pozas profundas y grava para el desove",
+   "lifespan": "Normalmente 3–7 años (muere tras desovar)",
+   "size": "Comúnmente 75–90 cm y 9–20 kg; hasta unos 1,5 m y 60 kg",
+   "behaviour": "Los adultos dejan de alimentarse al entrar en agua dulce. Las hembras excavan frezaderos profundos en la grava gruesa de los cauces principales, y los peces moribundos alimentan a osos, águilas y al propio río.",
+   "fieldMarks": [
+    "Encías negras a lo largo de la mandíbula inferior (de ahí el nombre inglés «blackmouth», boca negra)",
+    "Manchas negras irregulares en el dorso, la aleta dorsal y ambos lóbulos de la cola",
+    "Flancos plateados y dorso de verde azulado a purpúreo; los reproductores se oscurecen a oliva, granate o negruzco",
+    "Gran tamaño y pedúnculo caudal grueso"
+   ],
+   "lookalikes": "El salmón coho tiene las encías blancas y manchas solo en el lóbulo superior de la cola. La steelhead tiene la boca más pequeña, el interior de la boca blanco y la mandíbula no llega mucho más allá del ojo.",
+   "whereToSee": "El río Kenai, Alaska; la escala para peces del río Yukón en Whitehorse; la escala de peces de la presa de Bonneville, en el río Columbia; los ríos Rakaia y Waimakariri, Nueva Zelanda (introducido)",
+   "season": "Las migraciones varían según la población: primavera (mar–jun), verano (jun–ago) y otoño (ago–nov)",
+   "order": "Salmoniformes"
+  }
+ },
+ {
+  "scientific": "Arapaima gigas",
+  "common": "Paiche (pirarucú, arapaima)",
+  "summary": "Uno de los mayores peces de agua dulce con escamas del mundo, un gigante de cola roja de los lagos de llanura de inundación amazónicos que debe subir a tragar aire cada pocos minutos. La sobrepesca casi acabó con él, y los lagos gestionados por las comunidades lo han hecho recuperarse.",
+  "nativeRange": "Llanuras de inundación de la cuenca amazónica en Brasil, Perú, Colombia y Ecuador, y el Esequibo (Guyana); introducido en Bolivia y en partes de Asia",
+  "biomes": [
+   "Lagos de llanura de inundación (várzea)",
+   "Bosque inundado",
+   "Ríos lentos"
+  ],
+  "abilities": [
+   "Respirador aéreo obligado: traga aire hacia una vejiga natatoria que funciona como un pulmón y se ahoga si se le impide llegar a la superficie",
+   "Tiene escamas mineralizadas y en capas que resisten las mordeduras de las pirañas, una estructura estudiada por científicos de materiales",
+   "El macho vigila a las crías, que nadan en cardumen alrededor de su cabeza, y se cree que libera por la cabeza sustancias que las nutren o les sirven de señal",
+   "Alcanza unos 3 m y más de 200 kg"
+  ],
+  "edibleParts": [
+   "carne"
+  ],
+  "edibilityNote": "Carne blanca, firme y sin espinas, tradicionalmente salada y secada como «bacalhau da Amazônia» (bacalao de la Amazonia). Compre solo ejemplares legales, de manejo o de cultivo, ya que las capturas silvestres están restringidas. Siempre cocinado.",
+  "lore": "En Mamirauá, Brasil, a partir de 1999 los pescadores locales empezaron a contar los pirarucús por sus respiraciones en la superficie y a fijar sus propias cuotas. El número de peces en los lagos gestionados se multiplicó varias veces, y el método se ha extendido por toda la Amazonia.",
+  "funFact": "La lengua del paiche es ósea y tiene dientes. Los pueblos amazónicos la secaban tradicionalmente para usarla como raspador con el que rallar semillas de guaraná.",
+  "animal": {
+   "diet": "Carnívoro: peces (sobre todo bagres y carácidos), crustáceos y, ocasionalmente, aves y animales pequeños en la superficie",
+   "habitat": "Lagos tranquilos de llanura de inundación, meandros abandonados y bosque inundado de ríos de aguas blancas y claras",
+   "lifespan": "Unos 15–20 años en libertad",
+   "size": "Comúnmente 2 m y 100 kg; hasta unos 3 m y 200 kg",
+   "behaviour": "Sale a la superficie cada 5–15 minutos con una sonora bocanada, que los pescadores usan para contar los peces. En aguas bajas, las parejas excavan nidos en el fondo arenoso de los lagos, y el macho vigila a los alevines durante meses.",
+   "fieldMarks": [
+    "Cuerpo enorme, alargado y cilíndrico, con una cabeza aplanada y ósea",
+    "Escamas muy grandes; la parte posterior del cuerpo y la cola teñidas de rojo vivo, sobre todo en la época de cría",
+    "Aletas dorsal y anal situadas muy atrás, cerca de la cola redondeada",
+    "Boca orientada hacia arriba"
+   ],
+   "lookalikes": "La arowana plateada (Osteoglossum) es mucho más pequeña y aplanada, con barbillas en el mentón y aletas dorsal y anal largas. Se han descrito varias otras especies de Arapaima (A. leptosoma, A. mapae y otras); la mayoría de los ejemplares silvestres de la Amazonia central son A. gigas.",
+   "whereToSee": "Reserva de Desarrollo Sostenible Mamirauá (Amazonas, Brasil); Reserva Nacional Pacaya-Samiria (Perú); humedales del Rupununi (Guyana)",
+   "season": "Residente; anida durante las aguas bajas y en la subida de las aguas, aproximadamente de septiembre a febrero en la Amazonia central",
+   "order": "Osteoglossiformes"
+  }
+ },
+ {
+  "scientific": "Pygocentrus nattereri",
+  "common": "Piraña de vientre rojo (piraña roja)",
+  "summary": "La piraña más famosa, con dientes entrelazados de filo cortante y un vientre rojo intenso. Forma cardúmenes sobre todo para protegerse, carroñea o muerde aletas, y es mucho menos fiera de lo que sugiere su fama cinematográfica.",
+  "nativeRange": "Cuencas del Amazonas, del Paraguay–Paraná y del Esequibo, y ríos costeros del nordeste de Brasil",
+  "biomes": [
+   "Lagos de llanura de inundación",
+   "Ríos lentos",
+   "Bosque inundado",
+   "Humedales (Pantanal)"
+  ],
+  "abilities": [
+   "Tiene en cada mandíbula una sola hilera de dientes triangulares entrelazados que cortan la carne como tijeras",
+   "Posee una de las mordeduras más fuertes en relación con su tamaño corporal de todos los peces óseos",
+   "Forma cardúmenes principalmente para protegerse de cormoranes, delfines y caimanes",
+   "Emite ladridos y sonidos de tamborileo con músculos de la vejiga natatoria cuando se siente amenazada o compite"
+  ],
+  "edibleParts": [
+   "carne"
+  ],
+  "edibilityNote": "Se come en toda la Amazonia y el Pantanal, sobre todo como caldo de piranha (sopa de piraña). Tiene muchas espinas. Manipule las capturas con cuidado: la mordedura produce cortes profundos.",
+  "lore": "«Through the Brazilian Wilderness» (1914), de Theodore Roosevelt, fijó la imagen de devoradora de hombres después de que viera a pirañas hambrientas descarnar una vaca, escena que los lugareños habían preparado para él. El nombre suele derivarse del tupí pirá, «pez», y sainha o anha, «diente».",
+  "funFact": "Las pirañas mudan y reponen los dientes por tandas, un cuadrante entero de la mandíbula a la vez, de modo que nunca quedan huecos en su mordida.",
+  "animal": {
+   "diet": "Omnívora y depredadora: peces, aletas y escamas, insectos, crustáceos, carroña y algunas semillas y plantas",
+   "habitat": "Ríos lentos y cálidos, lagos de llanura de inundación y bosque inundado, a menudo entre la vegetación",
+   "lifespan": "Unos 10 años; más de 20 en cautividad",
+   "size": "Normalmente 20–30 cm; hasta unos 50 cm",
+   "behaviour": "Cardúmenes de 20 o más ejemplares cazan sobre todo al amanecer y al anochecer. Los frenesíes alimentarios son raros y suelen darse en charcas aisladas por la sequía o en torno a animales heridos o muertos. Las parejas desovan entre las plantas y el macho custodia los huevos.",
+   "fieldMarks": [
+    "Cuerpo alto, comprimido y discoidal, con cabeza roma y mandíbula inferior prominente",
+    "Dorso gris plateado a oliváceo con escamas brillantes, y garganta y vientre de rojos a anaranjados",
+    "Mancha oscura cerca del opérculo en los juveniles; los ejemplares grandes son más oscuros",
+    "Aleta adiposa pequeña y cola con borde negro"
+   ],
+   "lookalikes": "Los pacús (Colossoma, Piaractus) son mucho mayores y tienen dientes molariformes cuadrados, parecidos a los humanos. La piraña negra (Serrasalmus rhombeus) es más oscura, con ojos rojos y sin vientre rojo. Los dólares de plata (Metynnis) son planos, redondeados, de aspecto desdentado y herbívoros.",
+   "whereToSee": "El Pantanal (Mato Grosso, Brasil); lagos de llanura de inundación cerca de Manaos; Llanos de Venezuela",
+   "season": "Residente; el desove alcanza su máximo en la estación de lluvias, con la crecida (aproximadamente de diciembre a abril en el Pantanal)",
+   "order": "Characiformes"
+  }
+ },
+ {
+  "scientific": "Electrophorus electricus",
+  "common": "Anguila eléctrica (temblón)",
+  "summary": "No es una anguila, sino un pez cuchillo con órganos de músculo modificado que ocupan la mayor parte del cuerpo y pueden dar descargas de varios cientos de voltios. Respira aire por la boca y salta fuera del agua para electrocutar directamente a sus amenazas.",
+  "nativeRange": "Ríos del escudo guayanés en las Guayanas, el norte de Brasil y el sur de Venezuela (desde 2019 se reconocen otras dos especies de anguila eléctrica en otras zonas de la Amazonia)",
+  "biomes": [
+   "Ríos de aguas claras y aguas negras",
+   "Pantanos",
+   "Bosque inundado"
+  ],
+  "abilities": [
+   "Genera descargas de alto voltaje con tres órganos eléctricos para aturdir a sus presas y disuadir a los depredadores; la muy cercana anguila eléctrica de Volta alcanza unos 860 V",
+   "Usa pulsos eléctricos débiles para percibir su entorno y comunicarse (electrolocalización)",
+   "Emite rápidas ráfagas de pulsos que hacen que las presas ocultas se contraigan y se delaten",
+   "Obtiene la mayor parte del oxígeno tragando aire, a través de un revestimiento bucal muy vascularizado",
+   "Salta fuera del agua y apoya el mentón contra la amenaza para descargarle la corriente directamente"
+  ],
+  "lore": "En 1800, Alexander von Humboldt vio en los Llanos venezolanos cómo los pescadores metían caballos en una charca para que las anguilas eléctricas agotaran su carga en ellos antes de capturarlas. Michael Faraday utilizó una anguila eléctrica en Londres en 1838 para demostrar que la electricidad animal es la misma que la electricidad común.",
+  "funFact": "Los órganos de la anguila eléctrica contienen miles de células apiladas llamadas electrocitos. Cada una produce solo unos 0,15 V, pero conectadas en serie suman cientos de voltios.",
+  "animal": {
+   "diet": "Carnívora: peces, crustáceos y anfibios; los juveniles comen invertebrados",
+   "habitat": "Arroyos lentos, fangosos o rocosos, pozas y pantanos, a menudo en aguas pobres en oxígeno",
+   "lifespan": "Poco conocida en libertad; 15–20 años o más en cautividad",
+   "size": "Hasta unos 2 m y 20 kg",
+   "behaviour": "Sube a tragar aire cada pocos minutos. En la estación seca los machos construyen nidos de espuma con saliva y custodian a las crías; en la anguila eléctrica de Volta se han observado grupos que acorralan y electrocutan peces juntos.",
+   "fieldMarks": [
+    "Cuerpo largo, cilíndrico y sin escamas; gris pardo oscuro a oliváceo por encima, a menudo con la garganta anaranjada o rojiza",
+    "Sin aletas dorsal, pélvicas ni caudal; una larga aleta anal recorre casi toda la parte inferior e impulsa la natación",
+    "Cabeza aplanada con ojos pequeños; ano muy adelantado, justo detrás de la cabeza",
+    "Sale con regularidad a la superficie a tragar aire"
+   ],
+   "lookalikes": "La anguila eléctrica de Volta (E. voltai), del escudo brasileño, y la de Vari (E. varii), de las tierras bajas amazónicas, son casi idénticas y se distinguen sobre todo por la forma del cráneo, el ADN y la distribución. Las anguilas verdaderas (Anguilla) tienen aletas dorsal y caudal, y las anguilas de pantano (Synbranchidae) carecen de la larga aleta anal.",
+   "whereToSee": "Ríos del escudo guayanés en Surinam, la Guayana Francesa y Guyana; acuarios públicos de todo el mundo",
+   "season": "Residente; se reproduce en la estación seca",
+   "order": "Gymnotiformes"
+  }
+ },
+ {
+  "scientific": "Osteoglossum bicirrhosum",
+  "common": "Arawana plateada (arahuana)",
+  "summary": "Un largo pez de lengua ósea, plateado, que patrulla justo bajo la superficie de los bosques inundados amazónicos y salta hasta 2 m para atrapar escarabajos, arañas, aves e incluso murciélagos en las ramas que cuelgan sobre el agua. Los machos incuban los huevos y las crías en la boca.",
+  "nativeRange": "Cuenca del Amazonas y ríos Rupununi y Oyapock (Guyana, Guayana Francesa); introducida en partes de Norteamérica y Asia por liberaciones de acuario",
+  "biomes": [
+   "Bosque inundado (igapó y várzea)",
+   "Lagos de llanura de inundación",
+   "Ríos lentos"
+  ],
+  "abilities": [
+   "Salta fuera del agua para capturar insectos, arañas y pequeñas aves y murciélagos en las ramas, lo que le ha valido el nombre de «mono de agua»",
+   "Los machos incuban los huevos en la boca y después resguardan en ella a los alevines durante semanas",
+   "Dos barbillas en el mentón detectan las ondas de las presas que caen a la superficie"
+  ],
+  "edibleParts": [
+   "carne"
+  ],
+  "edibilityNote": "Se come localmente en la Amazonia. La pesca de machos incubadores para abastecer el comercio de alevines de acuario es un problema de conservación en Perú y Colombia, así que compre solo peces de origen legal.",
+  "lore": "Georges Cuvier describió la especie en 1829 a partir de ejemplares brasileños. En toda la Amazonia brasileña, la aruanã aparece en el folclore ribereño como guardiana del bosque inundado, y el pueblo karajá del río Araguaia celebra una fiesta de Aruanã con danzantes enmascarados.",
+  "funFact": "Osteoglossum significa «lengua ósea» en griego: como el paiche, la arawana tiene una lengua ósea con dientes con la que aplasta a sus presas contra el paladar.",
+  "animal": {
+   "diet": "Carnívora: insectos, arañas, crustáceos, peces y, ocasionalmente, aves, murciélagos y serpientes",
+   "habitat": "Aguas superficiales de bosques inundados, lagos y ríos lentos",
+   "lifespan": "10–15 años o más",
+   "size": "Normalmente 60–90 cm; hasta unos 1,2 m",
+   "behaviour": "Patrulla justo bajo la superficie con su gran boca vuelta hacia arriba. En la época de crecida se adentra en el bosque, entre las copas de los árboles inundados, para cazar.",
+   "fieldMarks": [
+    "Cuerpo plateado largo, comprimido lateralmente y ahusado, con escamas muy grandes",
+    "Aletas dorsal y anal largas y muy retrasadas, casi unidas a la pequeña cola",
+    "Boca marcadamente vuelta hacia arriba, con dos barbillas dirigidas hacia delante en la punta del mentón",
+    "Los juveniles llevan un gran saco vitelino bajo el vientre"
+   ],
+   "lookalikes": "La arawana negra (O. ferreirai), del río Negro, es muy similar, pero sus juveniles son negros con una franja amarilla. La arawana asiática (Scleropages) tiene el cuerpo más alto, la aleta anal más corta y escamas más grandes, a menudo coloreadas.",
+   "whereToSee": "Lagos de llanura de inundación cerca de Iquitos (Perú) y Manaos (Brasil); Reserva de Mamirauá",
+   "season": "Residente; se reproduce al comienzo de la crecida (aproximadamente de diciembre a febrero)",
+   "order": "Osteoglossiformes"
+  }
+ },
+ {
+  "scientific": "Scleropages formosus",
+  "common": "Arowana asiática (pez dragón)",
+  "summary": "Un pez de lengua ósea de escamas metálicas, venerado en la cultura china como un dragón vivo que trae suerte y riqueza. Las variedades rojas y doradas más cotizadas se han vendido por decenas de miles de dólares, y los peces silvestres son hoy escasos.",
+  "nativeRange": "Sudeste asiático: Camboya, Vietnam, Tailandia, Myanmar, Malasia peninsular, Sumatra y Borneo (Indonesia y Malasia)",
+  "biomes": [
+   "Ríos de aguas negras",
+   "Bosque pantanoso de turba",
+   "Bosque inundado"
+  ],
+  "abilities": [
+   "Los machos incuban en la boca los huevos y las crías durante unos dos meses",
+   "Salta fuera del agua para atrapar insectos, arañas y pequeños vertebrados en la vegetación que cuelga sobre el agua",
+   "Las distintas poblaciones silvestres presentan colores diferentes: verde, plateado, dorado (Malasia, Sumatra) y rojo (Borneo)"
+  ],
+  "lore": "Sus grandes escamas en forma de moneda y sus barbillas como bigotes recuerdan al dragón chino, y según el feng shui tener uno trae prosperidad. Figura en el Apéndice I de CITES desde 1975, y solo pueden comerciarse internacionalmente peces criados en cautividad registrados, cada uno con un microchip implantado.",
+  "funFact": "Cada arowana asiática comerciada legalmente lleva un microchip y un certificado que permiten rastrearla hasta una granja registrada.",
+  "animal": {
+   "diet": "Carnívora: insectos, arañas, peces pequeños, ranas y otros animales pequeños en la superficie",
+   "habitat": "Ríos lentos de aguas negras, bosques pantanosos y bosque inundado con vegetación que cuelga sobre el agua",
+   "lifespan": "Unos 15–20 años; se citan ejemplares cautivos más longevos",
+   "size": "Hasta unos 90 cm",
+   "behaviour": "Caza en la superficie con la boca vuelta hacia arriba. En cautividad es solitaria y agresiva con los de su especie.",
+   "fieldMarks": [
+    "Cuerpo largo, comprimido lateralmente, con escamas muy grandes, a menudo metálicas, en cinco hileras horizontales",
+    "Boca vuelta hacia arriba con dos barbillas cortas en el mentón",
+    "Aletas dorsal y anal muy retrasadas, cerca de una cola redondeada",
+    "Variantes de color: verde, plateada, dorada de lomo cruzado («crossback») o roja"
+   ],
+   "lookalikes": "La arawana plateada (Osteoglossum) es más esbelta, con una aleta anal mucho más larga y escamas más pequeñas. La saratoga del norte (del golfo) (Scleropages jardinii), del norte de Australia y Nueva Guinea, y la saratoga moteada (S. leichardti), de Queensland, tienen escamas con manchas rojas.",
+   "whereToSee": "En libertad: la cuenca del Kapuas (Kalimantan Occidental, Borneo) y Danau Sentarum; peces criados en cautividad en acuarios de toda Asia oriental y sudoriental",
+   "season": "Residente; se reproduce en la estación de lluvias",
+   "order": "Osteoglossiformes"
+  }
+ },
+ {
+  "scientific": "Lates niloticus",
+  "common": "Perca del Nilo",
+  "summary": "Un depredador gigante del Nilo, el Níger, el Congo y el lago Chad que puede alcanzar 2 m y 200 kg. Su introducción en el lago Victoria en la década de 1950 provocó una de las mayores extinciones de vertebrados del siglo XX y dio origen a una industria de exportación de filetes.",
+  "nativeRange": "Cuencas del Nilo, Níger, Chad, Senegal, Volta y Congo, y lagos Alberto y Turkana; introducida en los lagos Victoria, Kyoga y otros",
+  "biomes": [
+   "Grandes ríos",
+   "Grandes lagos",
+   "Embalses"
+  ],
+  "abilities": [
+   "Come casi cualquier pez, incluidas percas del Nilo más pequeñas",
+   "Crece rápido, por lo que domina la red trófica de un lago pocas décadas después de llegar",
+   "Una hembra grande puede poner millones de huevos por temporada"
+  ],
+  "edibleParts": [
+   "carne",
+   "vejiga natatoria (seca, exportada como buche de pescado)"
+  ],
+  "edibilityNote": "Filetes firmes, blancos y suaves, exportados desde el lago Victoria a Europa y otros destinos. La vejiga natatoria seca es una exportación de gran valor a Asia oriental. Siempre cocinada. Los ejemplares grandes de bahías contaminadas pueden contener mercurio.",
+  "lore": "Los antiguos egipcios momificaban percas del Nilo en Esna, a la que los griegos llamaban Latópolis, «ciudad del Lates». El documental «La pesadilla de Darwin» (2004), de Hubert Sauper, mostró el coste social del comercio de exportación de perca del Nilo en el lago Victoria.",
+  "funFact": "Tras su introducción, se cree que unas 200 especies de cíclidos haplocrominos endémicos del lago Victoria desaparecieron o se volvieron extremadamente raras, aunque algunas se han vuelto a encontrar desde entonces.",
+  "animal": {
+   "diet": "Carnívora: peces (cíclidos, ciprínidos, percas del Nilo); de juvenil, gambas e insectos",
+   "habitat": "Aguas abiertas y zonas profundas de lagos y grandes ríos; los juveniles, en aguas someras cercanas a la orilla",
+   "lifespan": "Hasta unos 16 años",
+   "size": "Frecuentemente 1 m; hasta unos 2 m y 200 kg",
+   "behaviour": "Los juveniles se alimentan de invertebrados en aguas someras cercanas a la orilla y, a medida que crecen, pasan a cazar peces.",
+   "fieldMarks": [
+    "Cuerpo robusto y plateado, de aspecto de perca, con dorso gris azulado a verdoso",
+    "Dos aletas dorsales casi separadas: una primera alta y espinosa y una segunda blanda",
+    "Boca grande, con la mandíbula prolongada por detrás del ojo; ojo grande que brilla a la luz de una linterna",
+    "Cola redondeada; perfil de la cabeza cóncavo en los ejemplares grandes"
+   ],
+   "lookalikes": "Otras especies de Lates del lago Tanganica (L. angustifrons, L. mariae) son difíciles de distinguir y se limitan a ese lago. El barramundi (L. calcarifer) solo vive en Asia y Australia.",
+   "whereToSee": "Lago Nasser (Egipto) y cataratas Murchison en el Nilo Victoria (Uganda) para la pesca deportiva; desembarcos de pescado en Kisumu y Mwanza, en el lago Victoria",
+   "season": "Residente; se reproduce durante buena parte del año, con picos en la estación de lluvias",
+   "order": "Carangaria incertae sedis (traditionally Perciformes)"
+  }
+ },
+ {
+  "scientific": "Oreochromis niloticus",
+  "common": "Tilapia del Nilo",
+  "summary": "Un resistente cíclido africano que se ha convertido en uno de los peces más cultivados del mundo. Las hembras llevan los huevos y los alevines en la boca. Fue símbolo de renacimiento en el antiguo Egipto y hoy alimenta a millones de personas desde Tailandia hasta Brasil.",
+  "nativeRange": "Cuenca del Nilo, ríos de África occidental (Níger, Volta, Senegal, Gambia), lago Chad y lagos del Rift como el Turkana y el Tanganica; introducida en más de 100 países",
+  "biomes": [
+   "Ríos",
+   "Lagos",
+   "Estanques",
+   "Embalses"
+  ],
+  "abilities": [
+   "Las hembras incuban en la boca los huevos y los alevines, y dejan que las crías vuelvan a refugiarse en ella ante el peligro",
+   "Filtra fitoplancton y pasta algas, por lo que crece con alimento barato",
+   "Tolera aguas cálidas, pobres en oxígeno, superpobladas y ligeramente salobres",
+   "Se vuelve invasora con facilidad y ha desplazado a peces autóctonos en muchos lagos tropicales"
+  ],
+  "edibleParts": [
+   "carne"
+  ],
+  "edibilityNote": "Filetes blancos, magros y de sabor suave; una proteína básica y barata. La calidad de cultivo varía según el agua y el pienso. Cocínela siempre: en el sudeste asiático, el pescado de agua dulce crudo se ha relacionado con infecciones por Streptococcus agalactiae, y la tilapia puede portar larvas de trematodos.",
+  "lore": "El jeroglífico de la tilapia (signo K1 de Gardiner) representaba al pez y al renacimiento, porque las crías parecían ser tragadas y renacer de la boca de la madre. Pinturas de tumbas tebanas, como la de Nebamun, muestran estanques de tilapias en jardines egipcios. En Tailandia, la estirpe cultivada fue un regalo del príncipe heredero Akihito al rey Bhumibol en 1965.",
+  "funFact": "El nombre tailandés pla nin lo acuñó el rey Bhumibol, a partir de «Nilo», después de criar en los estanques del palacio los 50 peces que le envió Akihito.",
+  "animal": {
+   "diet": "Omnívora: fitoplancton, algas, detritos y algunos invertebrados",
+   "habitat": "Lagos, ríos, estanques y canales someros y cálidos",
+   "lifespan": "Unos 9–10 años",
+   "size": "Normalmente 20–40 cm; hasta unos 60 cm y 4 kg",
+   "behaviour": "Los machos excavan hoyos en el fondo del lago y los defienden, enrojeciéndose durante el cortejo. Las hembras recogen los huevos fecundados y los incuban en la boca durante unas dos semanas.",
+   "fieldMarks": [
+    "Cuerpo alto, de aspecto de perca, con una larga aleta dorsal continua, espinosa en la parte anterior",
+    "Barras verticales oscuras y regulares en la aleta caudal (rasgo clave)",
+    "Cuerpo grisáceo a oliváceo con bandas verticales tenues; los machos reproductores tienen la garganta y las aletas de color rojo rosado",
+    "Un solo orificio nasal a cada lado del hocico (típico de los cíclidos)"
+   ],
+   "lookalikes": "La tilapia de Mozambique (O. mossambicus) no tiene barras regulares en la cola, y los machos reproductores son negruzcos con la mandíbula inferior blanca. La tilapia azul (O. aureus) tiene la aleta caudal con borde rojo y sin barras verticales regulares. La tilapia de vientre rojo (Coptodon zillii) tiene una «mancha de tilapia» oscura en la parte blanda de la aleta dorsal.",
+   "whereToSee": "El Nilo en El Cairo y Asuán; lago Turkana (Kenia); estanques piscícolas y mercados de Egipto, Tailandia, Filipinas y Brasil",
+   "season": "Residente; se reproduce todo el año en aguas cálidas",
+   "order": "Cichliformes"
+  }
+ },
+ {
+  "scientific": "Pangasianodon gigas",
+  "common": "Bagre gigante del Mekong (siluro gigante del Mekong)",
+  "summary": "Uno de los peces de agua dulce más grandes jamás pesados, un gigante desdentado y comedor de algas del Mekong que puede superar los 290 kg. Sus poblaciones silvestres se han desplomado por las presas y la sobrepesca, y está en peligro crítico.",
+  "nativeRange": "Cuenca del Mekong en Camboya, Laos, Tailandia, Vietnam y posiblemente Myanmar y China; cultivado en embalses tailandeses",
+  "biomes": [
+   "Grandes ríos",
+   "Pozas fluviales profundas",
+   "Sistema lacustre del Tonlé Sap"
+  ],
+  "abilities": [
+   "Supera los 2,5 m y casi los 300 kg con una dieta compuesta sobre todo de algas y plantas",
+   "Pierde los dientes a medida que crece",
+   "Realiza largas migraciones por el Mekong, al parecer entre zonas de cría en Camboya y zonas de desove río arriba"
+  ],
+  "edibleParts": [
+   "carne"
+  ],
+  "edibilityNote": "Tradicionalmente se come en Tailandia y Laos. La captura silvestre está hoy prohibida o restringida en toda su área de distribución, y la mayor parte del pla buek que se vende en Tailandia procede de embalses de cultivo. No coma ejemplares capturados en libertad.",
+  "lore": "Los pescadores de Chiang Khong (Tailandia) celebraban ceremonias a los espíritus del río antes de la pesca anual del pla buek, una tradición de los tai lue y los lao. En mayo de 2005 capturaron una hembra de 293 kg, el pez de agua dulce más pesado pesado y documentado hasta entonces.",
+  "funFact": "Incluso con casi 300 kg, los adultos se alimentan sobre todo de algas, lo que convierte al bagre gigante del Mekong en uno de los mayores peces herbívoros conocidos.",
+  "animal": {
+   "diet": "Herbívoro de adulto: algas y materia vegetal raspadas del lecho del río; los juveniles comen zooplancton",
+   "habitat": "Canales y pozas profundas del cauce principal del Mekong y de grandes afluentes",
+   "size": "Hasta unos 3 m y 300 kg; el ejemplar récord de 293 kg medía 2,7 m",
+   "behaviour": "Se cree que los adultos remontan el río al final de la estación seca para desovar en el norte de Tailandia y Laos con la crecida.",
+   "fieldMarks": [
+    "Enorme cuerpo gris sin escamas, de aspecto de tiburón, con el vientre blanco",
+    "Ojos pequeños situados bajos en la cabeza, por debajo de la línea de la boca",
+    "Los adultos no tienen barbillas (los juveniles las tienen diminutas) ni dientes",
+    "Cola ahorquillada y pequeña aleta adiposa"
+   ],
+   "lookalikes": "El panga o pangasio (Pangasianodon hypophthalmus), el «swai» o «tra» de cultivo, es mucho más pequeño, con barbillas y, de juvenil, con rayas. El pangasio gigante (Pangasius sanitwongsei) tiene boca con dientes, barbillas largas y aletas con borde oscuro.",
+   "whereToSee": "Embalse de Bueng Boraphet y parques de pesca de Tailandia (peces de cultivo); Chiang Khong, en el Mekong (pesquería histórica); acuarios públicos",
+   "season": "Migración río arriba y desove de abril a junio, con la crecida del Mekong",
+   "order": "Siluriformes"
+  }
+ },
+ {
+  "scientific": "Symphysodon aequifasciatus",
+  "common": "Disco (disco azul / disco pardo)",
+  "summary": "Un cíclido redondo como un plato de los bosques inundables amazónicos y todo un icono del acuarismo. Ambos progenitores alimentan a sus crías con un moco rico en nutrientes que segregan por la piel, una estrategia que se ha comparado con la leche de los mamíferos.",
+  "nativeRange": "Llanuras de inundación de la Amazonia central y occidental en Brasil, Perú y Colombia",
+  "biomes": [
+   "Bosque inundado",
+   "Lagos de llanura de inundación",
+   "Ríos lentos y cálidos"
+  ],
+  "abilities": [
+   "Ambos progenitores alimentan a los alevines con secreciones de la piel durante las primeras semanas de vida",
+   "Forma grupos entre ramas y raíces sumergidas del bosque inundado para protegerse",
+   "Cambia de color con rapidez: se oscurece con el estrés y se aviva durante el cortejo"
+  ],
+  "lore": "Jacob Heckel describió la primera especie de disco en 1840 a partir de las colecciones brasileñas de Johann Natterer. Criadores en Alemania y, más tarde, en el sudeste asiático convirtieron los peces silvestres en variedades de color como turquesa, sangre de pichón («pigeon blood») y melón rojo.",
+  "funFact": "La «leche» del disco contiene anticuerpos y hormonas, y los alevines dependen de ella durante los primeros días tras empezar a nadar libremente; a los acuaristas les resulta muy difícil criarlos sin los padres.",
+  "animal": {
+   "diet": "Omnívoro: pequeños invertebrados, larvas de insectos, algas, materia vegetal y detritos",
+   "habitat": "Bosque inundado de aguas cálidas y blandas y orillas de lagos con árboles caídos y raíces",
+   "lifespan": "Unos 10–15 años en cautividad",
+   "size": "Hasta unos 15–20 cm de diámetro",
+   "behaviour": "Se agrupa entre la madera sumergida en aguas altas. Las parejas ponen los huevos en ramas lisas y los abanican, y los alevines se alimentan del moco de los costados de sus padres.",
+   "fieldMarks": [
+    "Cuerpo casi circular y muy comprimido",
+    "Nueve barras verticales oscuras, a menudo tenues salvo la primera (que atraviesa el ojo) y la última (en la base de la cola)",
+    "Color de fondo pardo a azulado, con líneas onduladas azules en la cabeza y las aletas en muchas poblaciones",
+    "Ojos rojos; aletas dorsal y anal largas que bordean el disco"
+   ],
+   "lookalikes": "El disco Heckel (Symphysodon discus), del río Negro, tiene una barra central oscura, ancha y marcada. Los escalares (Pterophyllum) son más altos que largos, con aletas muy alargadas.",
+   "whereToSee": "Lago Tefé y llanuras de inundación del Purús y el Solimões (Brasil); acuarios públicos; criadores especializados de Alemania y el sudeste asiático",
+   "season": "Residente; se reproduce al subir las aguas, aproximadamente de octubre a enero",
+   "order": "Cichliformes"
+  }
+ },
+ {
+  "scientific": "Pterophyllum scalare",
+  "common": "Escalar (pez ángel)",
+  "summary": "Un cíclido amazónico alto y plateado, de aletas amplias y barras negras, diseñado para ocultarse entre juncos y ramas sumergidas. Es uno de los peces de acuario más conocidos, y las parejas forman vínculos y crían juntas a sus crías.",
+  "nativeRange": "Cuenca del Amazonas en Brasil, Colombia, Perú, Guayana Francesa y Guyana (ríos Amapá, Oyapock y Esequibo)",
+  "biomes": [
+   "Bosque inundado",
+   "Pantanos",
+   "Ríos lentos con vegetación"
+  ],
+  "abilities": [
+   "Su cuerpo muy comprimido y sus barras verticales le ayudan a confundirse entre juncos y raíces verticales",
+   "Las parejas limpian una hoja o una rama, ponen en ella hileras de huevos, y ambos progenitores los abanican y custodian",
+   "Los padres trasladan en la boca a las larvas a nuevos hoyos u hojas"
+  ],
+  "lore": "Importados a Europa a principios del siglo XX, los escalares ya se criaban en acuarios estadounidenses en la década de 1920 y estuvieron entre los primeros peces tropicales mantenidos como mascotas domésticas.",
+  "funFact": "El nombre Pterophyllum significa «hoja alada» en griego, por su cuerpo en forma de hoja y sus aletas como alas.",
+  "animal": {
+   "diet": "Carnívoro y omnívoro: peces pequeños, larvas de insectos, crustáceos y gusanos",
+   "habitat": "Aguas tranquilas, con vegetación y a menudo teñidas de taninos, entre raíces, plantas y madera sumergida",
+   "lifespan": "Unos 10 años en cautividad",
+   "size": "Unos 15 cm de largo y hasta 25 cm de alto incluidas las aletas",
+   "behaviour": "Se mantiene suspendido entre los tallos en pequeños grupos y después se empareja para reproducirse, volviéndose muy territorial.",
+   "fieldMarks": [
+    "Cuerpo discoidal y extremadamente comprimido, más alto que largo contando las aletas",
+    "Aletas dorsal y anal muy largas y triangulares, y aletas pélvicas filiformes",
+    "Plateado con tres o cuatro barras verticales negras muy marcadas, una de ellas a través del ojo"
+   ],
+   "lookalikes": "El escalar altum (P. altum), del Orinoco y el río Negro, es más alto y tiene una muesca sobre el hocico. El escalar de Leopold (P. leopoldi) tiene una mancha oscura en la base de la aleta dorsal y una barra caudal menos marcada. El disco es redondo, no alto.",
+   "whereToSee": "Llanuras de inundación amazónicas cerca de Santarém y Manaos; acuarios públicos y domésticos de todo el mundo",
+   "season": "Residente; se reproduce durante la estación de lluvias",
+   "order": "Cichliformes"
+  }
+ },
+ {
+  "scientific": "Paracheirodon innesi",
+  "common": "Tetra neón (neón)",
+  "summary": "Un diminuto pez amazónico de cardumen cuya resplandeciente franja azul verdosa lo convirtió en el pez de acuario más popular del siglo XX. Su color iridiscente procede de plaquitas reflectantes microscópicas de la piel, no de pigmentos.",
+  "nativeRange": "Arroyos de aguas negras y claras de la Amazonia occidental en Perú, Colombia y Brasil (zona del Putumayo y del alto Solimões)",
+  "biomes": [
+   "Arroyos de aguas negras",
+   "Quebradas forestales",
+   "Bosque inundado"
+  ],
+  "abilities": [
+   "Su franja azul funciona como un filtro de luz vivo: plaquitas apiladas de guanina se inclinan y cambian el color de azul verdoso con luz a azul violáceo en penumbra",
+   "Forma cardúmenes compactos, de modo que los destellos de las franjas pueden confundir a los depredadores",
+   "Vive en aguas blandas y muy ácidas, casi sin minerales disueltos"
+  ],
+  "lore": "Recolectado por primera vez por Auguste Rabaut en la década de 1930 y enviado a Europa en 1936, recibió su nombre en honor del acuarista estadounidense William T. Innes. La mayoría de los neones que se venden hoy en las tiendas proceden de piscifactorías del sudeste asiático y Florida, no de la naturaleza.",
+  "funFact": "La franja del neón cambia de color sin ningún cambio de pigmento: en la oscuridad, las plaquitas reflectantes se inclinan y la franja pasa del cian a un azul violáceo intenso.",
+  "animal": {
+   "diet": "Microdepredador: pequeños insectos, larvas, crustáceos y gusanos",
+   "habitat": "Arroyos forestales sombríos, lentos y teñidos de taninos, con hojarasca y raíces",
+   "lifespan": "Normalmente 2–3 años en libertad; hasta 8–10 en acuario",
+   "size": "Hasta unos 3–4 cm",
+   "behaviour": "Se desplaza en cardúmenes entre raíces y hojarasca, y por la noche atenúa sus colores para descansar.",
+   "fieldMarks": [
+    "Cuerpo diminuto y esbelto, con una franja iridiscente azul verdosa eléctrica desde el ojo hasta la aleta adiposa",
+    "Franja roja solo en la mitad posterior de la parte inferior del cuerpo",
+    "Vientre blanco plateado por delante de la zona roja",
+    "Pequeña aleta adiposa"
+   ],
+   "lookalikes": "El tetra cardenal (P. axelrodi) tiene rojo a lo largo de todo el vientre bajo la franja azul. El neón verde (P. simulans) es más pequeño, con la franja más verde y mucho menos rojo.",
+   "whereToSee": "Quebradas de aguas negras de la Amazonia peruana y colombiana cerca del Putumayo; acuarios de todo el mundo",
+   "season": "Residente; se reproduce al comienzo de la estación de lluvias",
+   "order": "Characiformes"
+  }
+ },
+ {
+  "scientific": "Astyanax mexicanus",
+  "common": "Tetra mexicano (pez ciego de las cavernas)",
+  "summary": "Una especie, dos mundos: un tetra fluvial plateado y formas cavernícolas ciegas y rosadas que perdieron los ojos y el pigmento en la oscuridad de las cuevas mexicanas. Los biólogos estudian la pareja para ver cómo la evolución reconfigura los genes.",
+  "nativeRange": "Bajo río Bravo y Pecos (Texas) hacia el sur por el nordeste y el centro de México; formas cavernícolas en unas 30 cuevas de la Sierra de El Abra y la Sierra de Guatemala, en Tamaulipas y San Luis Potosí",
+  "biomes": [
+   "Ríos y arroyos",
+   "Cuevas calizas"
+  ],
+  "abilities": [
+   "Las formas cavernícolas empiezan a desarrollar ojos en el embrión, pero luego estos degeneran y quedan cubiertos por piel",
+   "Los peces cavernícolas duermen mucho menos que los de superficie de la misma especie",
+   "Resisten la inanición almacenando grasa y viven sanos con niveles altos de azúcar en sangre y resistencia a la insulina",
+   "Compensa la ceguera con más papilas gustativas y una línea lateral más desarrollada"
+  ],
+  "lore": "El biólogo mexicano Salvador Coronado recolectó los primeros peces ciegos de las cavernas en la Cueva Chica en 1936, y se describieron como un género nuevo, Anoptichthys, antes de descubrirse que se cruzaban con los tetras de río. Darwin, que escribió antes de este hallazgo, había sostenido que los animales cavernícolas pierden los ojos por desuso.",
+  "funFact": "Los peces cavernícolas ciegos y los de superficie con vista todavía pueden cruzarse, y algunos de los híbridos tienen ojos parciales.",
+  "animal": {
+   "diet": "Omnívoro: insectos, pequeños crustáceos, algas y detritos; los peces cavernícolas comen guano de murciélago y restos orgánicos",
+   "habitat": "Superficie: arroyos y ríos de aguas claras; formas cavernícolas: pozas y arroyos de cuevas calizas",
+   "lifespan": "Hasta unos 15 años en cautividad",
+   "size": "Hasta unos 12 cm",
+   "behaviour": "Los peces de superficie forman cardúmenes de día, mientras que los cavernícolas buscan alimento solos por el fondo, con la cabeza inclinada hacia abajo.",
+   "fieldMarks": [
+    "Forma de superficie: tetra plateado con una mancha o franja oscura en la base de la cola y aletas rojizas",
+    "Forma cavernícola: blanco rosado, sin ojos visibles, con piel sobre las órbitas",
+    "Aleta adiposa presente en ambas"
+   ],
+   "lookalikes": "Otros tetras Astyanax de Centroamérica (A. aeneus y otros) solo se distinguen con el ejemplar en la mano. En las cuevas de la región de la Sierra de El Abra no hay otro pez sin ojos que se le parezca.",
+   "whereToSee": "Cueva de El Pachón y Sótano de la Tinaja (se necesitan permisos); peces de superficie en el río Tampaón y el río Guayalejo; acuarios y laboratorios de investigación",
+   "season": "Residente; los peces cavernícolas se reproducen de forma oportunista durante todo el año",
+   "order": "Characiformes"
+  }
+ },
+ {
+  "scientific": "Poecilia reticulata",
+  "common": "Guppy (lebistes)",
+  "summary": "Un diminuto pez vivíparo de Trinidad y el norte de Sudamérica cuyos machos, de diseños extravagantes, lo convirtieron en estrella de la investigación evolutiva y en el pez de acuario más conocido del mundo. Se ha liberado por todo el mundo para que coma larvas de mosquito.",
+  "nativeRange": "Nordeste de Sudamérica (Venezuela, Guyana, Surinam, norte de Brasil) y Trinidad, Tobago y Barbados; introducido en todos los trópicos",
+  "biomes": [
+   "Arroyos",
+   "Estanques",
+   "Acequias",
+   "Lagunas salobres"
+  ],
+  "abilities": [
+   "Pare crías vivas; las hembras almacenan esperma y pueden tener varias camadas de un solo apareamiento",
+   "Las poblaciones silvestres desarrollan en pocas generaciones machos más apagados o más vistosos según los depredadores, como demostraron experimentos en Trinidad",
+   "Tolera aguas contaminadas, cálidas y salobres"
+  ],
+  "lore": "Debe su nombre a Robert John Lechmere Guppy, que envió ejemplares de Trinidad al Museo Británico en 1866. Los experimentos de John Endler en Trinidad a finales de la década de 1970, en los que trasladó guppys por encima de cascadas, se convirtieron en una demostración clásica de la selección natural en libertad.",
+  "funFact": "Las hembras de guppy pueden almacenar esperma durante meses, así que una sola hembra introducida en aguas nuevas puede fundar toda una población.",
+  "animal": {
+   "diet": "Omnívoro: algas, larvas de mosquito y de otros insectos, pequeños invertebrados y detritos",
+   "habitat": "Arroyos, charcas, acequias y estanques someros, incluidas aguas alteradas y contaminadas",
+   "lifespan": "Unos 2 años",
+   "size": "Machos de unos 2–3 cm; hembras de hasta unos 5 cm",
+   "behaviour": "Los machos cortejan sin cesar a las hembras con exhibiciones en forma de S o intentan apareamientos furtivos. Las hembras prefieren a los machos con más naranja.",
+   "fieldMarks": [
+    "Machos diminutos con diseños en mosaico de manchas naranjas, negras, azules e iridiscentes, y a menudo una cola grande",
+    "Hembras más grandes, de un gris oliváceo apagado, con una «mancha de gravidez» oscura cerca del ano",
+    "Aleta anal del macho transformada en un gonopodio tubular",
+    "Boca vuelta hacia arriba"
+   ],
+   "lookalikes": "Las gambusias (Gambusia) son vivíparas similares, pero los machos son de un gris liso, a veces con manchas negras. El guppy de Endler (Poecilia wingei), de Venezuela, tiene machos más pequeños y más metálicos.",
+   "whereToSee": "Arroyos de la Cordillera Norte de Trinidad (ríos Aripo y Yarra); desagües y canales de todos los trópicos donde se ha introducido",
+   "season": "Residente; se reproduce todo el año",
+   "order": "Cyprinodontiformes"
+  }
+ },
+ {
+  "scientific": "Betta splendens",
+  "common": "Pez luchador de Siam (betta)",
+  "summary": "Un pequeño pez que respira aire, propio de los arrozales y marismas de Tailandia, criado durante siglos para el combate y después por sus aletas largas y coloridas. Las poblaciones silvestres son hoy vulnerables a medida que desaparecen sus humedales.",
+  "nativeRange": "Centro de Tailandia y cuencas del Chao Phraya y el Mekong (Camboya, Laos, Vietnam); introducido en otros lugares",
+  "biomes": [
+   "Arrozales",
+   "Marismas",
+   "Pantanos",
+   "Acequias"
+  ],
+  "abilities": [
+   "Respira aire mediante un órgano laberíntico, por lo que sobrevive en charcos diminutos y estancados",
+   "Los machos construyen nidos flotantes de burbujas y custodian los huevos y los alevines",
+   "Los machos despliegan los opérculos y las aletas en exhibiciones agresivas ante los rivales"
+  ],
+  "lore": "Durante siglos, los aldeanos siameses criaron estirpes de combate de aletas cortas (pla kat) para hacer apuestas, y se dice que el rey Rama III concedía licencias para las peleas y las gravaba con impuestos. En 2019 Tailandia declaró al betta su animal acuático nacional.",
+  "funFact": "El nombre del género, Betta, podría venir del malayo «ikan bettah», y splendens significa «espléndido».",
+  "animal": {
+   "diet": "Carnívoro: insectos y sus larvas, zooplancton",
+   "habitat": "Aguas someras, quietas y con vegetación: arrozales, marismas y charcas de llanura de inundación",
+   "lifespan": "Unos 2–3 años; hasta 5 en cautividad",
+   "size": "Unos 6 cm",
+   "behaviour": "Los machos defienden un territorio y un nido de burbujas. Tras el desove recogen con la boca los huevos que caen y los colocan en el nido.",
+   "fieldMarks": [
+    "Machos silvestres: pardo rojizo apagado con escamas iridiscentes azul verdosas y aletas teñidas de rojo",
+    "Machos domésticos: aletas muy largas y ondulantes en rojos, azules y blancos",
+    "Boca vuelta hacia arriba; aleta anal larga y dorsal corta y retrasada",
+    "Hembras más pequeñas y apagadas, con aletas más cortas"
+   ],
+   "lookalikes": "Otras especies silvestres de Betta (B. imbellis, B. smaragdina, B. mahachaiensis) son muy similares y se distinguen mejor por su distribución y por detalles de las aletas y el color. Los gouramis tienen aletas pélvicas filiformes.",
+   "whereToSee": "Arrozales y marismas del centro de Tailandia (los peces silvestres son cada vez más raros); mercados de peces de Chatuchak, en Bangkok; acuarios de todo el mundo",
+   "season": "Residente; se reproduce en la estación de lluvias (mayo–octubre)",
+   "order": "Anabantiformes"
+  }
+ },
+ {
+  "scientific": "Danio rerio",
+  "common": "Pez cebra",
+  "summary": "Un pequeño ciprínido rayado de los arrozales y arroyos del sur de Asia que se convirtió en uno de los animales de laboratorio más importantes de la biología. Sus embriones transparentes se desarrollan en días, y puede regenerar el corazón, las aletas y la retina.",
+  "nativeRange": "India, Bangladés, Nepal y Bután (cuencas del Ganges y el Brahmaputra), posiblemente Pakistán y Myanmar",
+  "biomes": [
+   "Arrozales",
+   "Arroyos lentos",
+   "Estanques"
+  ],
+  "abilities": [
+   "Regenera el músculo cardíaco dañado, las aletas, la médula espinal y la retina",
+   "Los embriones son transparentes y pasan de huevo a larva nadadora en unos 3 días",
+   "Alrededor del 70 % de los genes humanos tiene un equivalente en el pez cebra, lo que lo convierte en un modelo para la investigación de enfermedades"
+  ],
+  "lore": "Buchanan-Hamilton lo describió a partir de ejemplares del Ganges en 1822. George Streisinger, de la Universidad de Oregón, lo desarrolló como modelo de laboratorio en la década de 1970, y su artículo de 1981 en Nature sobre la obtención de peces cebra clonales y homocigotos dio inicio a la genética del pez cebra.",
+  "funFact": "Las rayas del pez cebra se autoorganizan mediante interacciones entre tres tipos de células pigmentarias, un ejemplo vivo de manual del mecanismo de formación de patrones propuesto por Alan Turing.",
+  "animal": {
+   "diet": "Omnívoro: zooplancton, insectos y larvas, algas",
+   "habitat": "Aguas someras, quietas o de corriente lenta, con vegetación, incluidos los arrozales",
+   "lifespan": "Normalmente 2–3 años; hasta 5",
+   "size": "Hasta unos 4 cm",
+   "behaviour": "Forma bancos y desova al amanecer; las hembras dispersan los huevos sobre la vegetación y la grava.",
+   "fieldMarks": [
+    "Cuerpo pequeño y esbelto de ciprínido, con 5–7 rayas horizontales negro azuladas que llegan hasta la punta de la cola",
+    "Rayas de dorado plateado a amarillo entre las oscuras",
+    "Dos pares de barbillas",
+    "Aleta anal rayada"
+   ],
+   "lookalikes": "El danio perla (Devario/Danio albolineatus) no tiene rayas, sino un brillo iridiscente rosado. El danio gigante (Devario aequipinnatus) es mayor, con rayas interrumpidas y color de fondo amarillo.",
+   "whereToSee": "Arrozales y arroyos de Bengala Occidental y Bangladés durante el monzón; laboratorios de investigación de todo el mundo",
+   "season": "Residente; se reproduce sobre todo durante el monzón",
+   "order": "Cypriniformes"
+  }
+ },
+ {
+  "scientific": "Toxotes jaculatrix",
+  "common": "Pez arquero",
+  "summary": "Un pez de manglar que derriba insectos con un chorro de agua disparado desde la boca, corrigiendo la desviación de la luz en la superficie. Los experimentos muestran que puede aprender a reconocer rostros humanos.",
+  "nativeRange": "Costas y estuarios desde la India y Sri Lanka, a través del sudeste asiático, hasta el norte de Australia, Nueva Guinea y las islas del Pacífico occidental",
+  "biomes": [
+   "Manglares",
+   "Estuarios",
+   "Ríos costeros"
+  ],
+  "abilities": [
+   "Lanza chorros de agua de hasta unos 2 m, apretando la lengua contra un surco del paladar para formar un cañón",
+   "Da forma al chorro para que la cola del agua alcance a la cabeza y caiga como una gota más pesada",
+   "Corrige la refracción de la luz en la superficie del agua al apuntar",
+   "Puede aprender a distinguir un rostro humano conocido entre docenas de otros"
+  ],
+  "lore": "Los naturalistas occidentales tuvieron noticia del pez que dispara a través de informes de las Indias Orientales Neerlandesas en la década de 1760. El nombre del género, Toxotes, significa «arquero», y jaculatrix, «lanzador de dardos».",
+  "funFact": "En 2016, investigadores de Oxford entrenaron a peces arqueros para escupir a un rostro humano entre 44, lo que hicieron con más de un 80 % de acierto.",
+  "animal": {
+   "diet": "Carnívoro: insectos y arañas derribados de las hojas que cuelgan sobre el agua; también crustáceos y peces pequeños en el agua",
+   "habitat": "Canales salobres de manglar y estuarios; a veces arrecifes costeros y arroyos de agua dulce",
+   "lifespan": "Hasta unos 10 años en cautividad",
+   "size": "Normalmente 10–20 cm; hasta 30 cm",
+   "behaviour": "Patrulla cerca de la superficie, a menudo en grupos pequeños, y salta para atrapar presas a su alcance. Los miembros del grupo se lanzan hacia la presa caída, así que los tiradores predicen dónde caerá.",
+   "fieldMarks": [
+    "Cuerpo alto, comprimido, blanco plateado, con el dorso plano desde el hocico hasta la aleta dorsal",
+    "Cuatro o cinco barras negras en forma de cuña muy marcadas en la parte superior del costado",
+    "Ojos grandes y boca marcadamente vuelta hacia arriba",
+    "Aleta dorsal muy retrasada, sobre la aleta anal"
+   ],
+   "lookalikes": "El pez arquero de siete manchas (T. chatareus) tiene manchas negras más numerosas y pequeñas, y vive con más frecuencia en agua dulce. El argo o pez escato (Scatophagus argus) es más redondo, con muchas manchas oscuras y sin el dorso plano.",
+   "whereToSee": "Manglares de los Sundarbans; río Kinabatangan (Sabah); Kakadu (Australia); acuarios públicos",
+   "season": "Residente todo el año",
+   "order": "Carangaria incertae sedis (traditionally Perciformes)"
+  }
+ },
+ {
+  "scientific": "Lates calcarifer",
+  "common": "Barramundi (perca gigante)",
+  "summary": "Un gran depredador plateado de los ríos, estuarios y costas del Indo-Pacífico que baja por los ríos para desovar en el mar. Todos los barramundis nacen machos y la mayoría cambia después de sexo a hembra. En Bengala es el bhetki, el pescado del clásico «fish fry».",
+  "nativeRange": "Costas del golfo Pérsico y el mar Arábigo hacia el este, por el sur y el sudeste de Asia, hasta el sur de China, Taiwán, Papúa Nueva Guinea y el norte de Australia",
+  "biomes": [
+   "Estuarios",
+   "Manglares",
+   "Ríos costeros",
+   "Mares costeros"
+  ],
+  "abilities": [
+   "Catádromo: crece en los ríos y nada hasta estuarios y mares costeros para desovar",
+   "Hermafrodita protándrico: nace macho y suele convertirse en hembra hacia los 3–5 años y los 80–100 cm",
+   "Vive en agua dulce, salobre o salada",
+   "Una hembra grande puede liberar decenas de millones de huevos en una temporada"
+  ],
+  "edibleParts": [
+   "carne"
+  ],
+  "edibilityNote": "Filetes blancos, firmes y suaves; se cultiva ampliamente. El bhetki frito («fish fry») y el paturi de Bengala son clásicos. Siempre cocinado. Los ejemplares silvestres grandes de estuarios contaminados pueden contener mercurio.",
+  "lore": "El nombre barramundi procede de una lengua aborigen del centro de Queensland y se popularizó como nombre comercial en Australia a partir de la década de 1980. El arte rupestre de Kakadu y la Tierra de Arnhem incluye pinturas de barramundis en «rayos X» que muestran su espina y sus órganos.",
+  "funFact": "Como cambian de sexo al crecer, casi todos los barramundis muy grandes son hembras.",
+  "animal": {
+   "diet": "Carnívoro: peces, gambas, cangrejos e insectos",
+   "habitat": "Ríos, billabongs (lagunas de meandro), estuarios de manglar y aguas costeras",
+   "lifespan": "Hasta unos 20 años",
+   "size": "Frecuentemente 60–120 cm; hasta unos 2 m y 60 kg",
+   "behaviour": "Al comienzo de la estación húmeda, los adultos bajan a las desembocaduras y a las llanuras costeras para desovar con las mareas vivas. Los juveniles remontan hacia pantanos y arroyos de agua dulce para crecer.",
+   "fieldMarks": [
+    "Cuerpo plateado con la frente cóncava y la cabeza puntiaguda",
+    "Boca grande, con la mandíbula prolongada por detrás del ojo; ojo que brilla en rojo de noche",
+    "Aletas dorsales espinosa y blanda casi separadas; cola redondeada",
+    "Los peces de agua dulce son de un bronce dorado; los de estuario y mar, plateados"
+   ],
+   "lookalikes": "La perca del Nilo (L. niloticus) solo vive en África. El pargo de manglar (Lutjanus argentimaculatus) tiene un tinte rojizo y dientes caninos. La perca gigante de Japón (Lates japonicus) es muy similar.",
+   "whereToSee": "Kakadu y los ríos del Territorio del Norte (Australia); los Sundarbans y el estuario del Hooghly; mercados de pescado de Tailandia",
+   "season": "Migraciones de desove hacia los estuarios al comienzo de la estación húmeda (octubre–febrero en el norte de Australia; monzón en el sur de Asia)",
+   "order": "Carangaria incertae sedis (traditionally Perciformes)"
+  }
+ },
+ {
+  "scientific": "Huso huso",
+  "common": "Beluga (esturión beluga)",
+  "summary": "El mayor de los esturiones y uno de los peces óseos más grandes jamás registrados, un gigante longevo de los mares Caspio y Negro que remonta el Volga, el Ural y el Danubio para desovar. La caza furtiva para obtener caviar beluga lo ha llevado a estar en peligro crítico.",
+  "nativeRange": "Cuencas de los mares Caspio y Negro (antes también el Adriático y el mar de Azov), con remontes de desove por el Volga, el Ural, el Kura, el Danubio y otros grandes ríos",
+  "biomes": [
+   "Mares interiores",
+   "Grandes ríos",
+   "Estuarios"
+  ],
+  "abilities": [
+   "Vive más de 100 años y puede no desovar por primera vez hasta los 15–20 años",
+   "Anádromo: migra desde el mar cientos de kilómetros río arriba para desovar en lechos de grava",
+   "Caza peces con una enorme boca en forma de media luna, a diferencia de los esturiones más pequeños, que succionan del fondo",
+   "Históricamente, algunas hembras pesaron más de 1.000 kg, una cuarta parte de ellos en huevas"
+  ],
+  "edibleParts": [
+   "huevas (caviar)",
+   "carne"
+  ],
+  "edibilityNote": "El caviar beluga es el más caro. El comercio internacional de caviar beluga silvestre está en la práctica cerrado bajo CITES, y comprarlo alimenta la caza furtiva, así que elija solo caviar de cultivo certificado. Los esturiones, al ser longevos, acumulan mercurio y otros contaminantes. Debe evitarse la carne de esturión cruda.",
+  "lore": "Heródoto describió los grandes peces sin espinas del Borístenes (Dniéper), llamados antaceos, que los escitas salaban. Los zares rusos y los sahs persas obtuvieron enormes ingresos del caviar del Caspio, y en 1827 se informó de una beluga de unos 1.571 kg en el estuario del Volga.",
+  "funFact": "La cola de pescado (ictiocola), una gelatina usada antaño para clarificar la cerveza y el vino, se elaboró primero con las vejigas natatorias secas de esturiones como la beluga.",
+  "animal": {
+   "diet": "Carnívoro: peces (gobios, arenques, carpas, otros esturiones), crustáceos y moluscos; ocasionalmente focas",
+   "habitat": "Aguas abiertas de los mares Caspio y Negro; grandes ríos durante el desove",
+   "lifespan": "Más de 100 años",
+   "size": "Frecuentemente 2–3 m y 100–300 kg; históricamente hasta unos 6–7 m y 1.500 kg",
+   "behaviour": "Hay remontes en primavera y en otoño; los migrantes otoñales pasan el invierno en fosas profundas del río antes de desovar la primavera siguiente.",
+   "fieldMarks": [
+    "Enorme boca en forma de media luna que ocupa casi todo el ancho de la parte inferior de la cabeza",
+    "Hocico corto y puntiagudo; barbillas aplanadas en forma de hoja",
+    "Cinco hileras de escudos óseos (dorso, costados y vientre); gris oscuro por encima, claro por debajo",
+    "Cola de aspecto de tiburón con el lóbulo superior más largo"
+   ],
+   "lookalikes": "El esturión ruso (Acipenser gueldenstaedtii) y el esturión estrellado (A. stellatus) tienen la boca mucho más pequeña y las barbillas redondas, y el estrellado tiene un hocico muy largo y estrecho. La kaluga (Huso dauricus), de la cuenca del Amur, es su único pariente verdadero.",
+   "whereToSee": "El delta del Volga cerca de Astracán; el bajo Danubio en las Puertas de Hierro (donde las presas bloquean los antiguos remontes); criaderos y acuarios",
+   "season": "Remontes de desove en primavera (marzo–mayo) y otoño (agosto–noviembre)",
+   "order": "Acipenseriformes"
+  }
+ },
+ {
+  "scientific": "Polyodon spathula",
+  "common": "Pez espátula (pez paleta americano)",
+  "summary": "Un gran filtrador de aspecto de tiburón de la cuenca del Misisipi, con un hocico en forma de pala larga y plana. La pala está cubierta de electrorreceptores que detectan enjambres de plancton. Su único pariente reciente, el pez espátula chino, fue declarado extinto en 2022.",
+  "nativeRange": "Cuenca del río Misisipi y cuencas cercanas de la costa del golfo en Estados Unidos; extinguido en Canadá y los Grandes Lagos",
+  "biomes": [
+   "Grandes ríos",
+   "Embalses",
+   "Remansos"
+  ],
+  "abilities": [
+   "Su rostro en forma de pala tiene decenas de miles de electrorreceptores que perciben los débiles campos eléctricos del zooplancton",
+   "Nada con la boca abierta, tamizando el plancton con branquiespinas en forma de peine",
+   "Realiza largas migraciones de desove río arriba, a veces de cientos de kilómetros",
+   "Pertenece a un linaje de más de 100 millones de años; en Montana se encuentran fósiles muy similares"
+  ],
+  "edibleParts": [
+   "carne",
+   "huevas (caviar)"
+  ],
+  "edibilityNote": "Carne blanca y firme; las huevas se venden como caviar americano y son un objetivo importante de la caza furtiva. La pesca comercial y deportiva se limita a temporadas estrictas. En algunos ríos, los ejemplares longevos pueden acumular mercurio, PCB y clordano, así que siga las recomendaciones locales.",
+  "lore": "Los pueblos nativos de la cuenca del Misisipi pescaban peces espátula mucho antes del contacto europeo. Johann Walbaum lo describió en 1792 como un tipo de tiburón, Squalus spathula.",
+  "funFact": "Los peces espátula a los que se ha quitado la pala pueden seguir alimentándose con normalidad, porque los electrorreceptores de la cabeza y los opérculos toman el relevo, pero la pala amplía mucho su alcance de detección.",
+  "animal": {
+   "diet": "Filtrador: zooplancton (pulgas de agua, copépodos) y larvas de insectos",
+   "habitat": "Aguas abiertas, lentas y profundas de grandes ríos, meandros abandonados y embalses",
+   "lifespan": "Normalmente 20–30 años; se han registrado más de 50",
+   "size": "Frecuentemente 1–1,5 m; hasta unos 2,2 m y 90 kg",
+   "behaviour": "En primavera, los adultos remontan los ríos durante las crecidas para desovar sobre bancos de grava. Los huevos adherentes eclosionan en pocos días y las larvas derivan río abajo.",
+   "fieldMarks": [
+    "Hocico largo, plano y en forma de pala (aproximadamente un tercio de la longitud corporal en los adultos)",
+    "Piel lisa, sin escamas, de gris a azulada",
+    "Boca enorme y opérculo largo, puntiagudo y en forma de solapa",
+    "Cola de aspecto de tiburón con el lóbulo superior más largo"
+   ],
+   "lookalikes": "El esturión de hocico de pala (Scaphirhynchus platorynchus) tiene escudos óseos, hocico en forma de pala y barbillas delante de una pequeña boca en la parte inferior. Ningún otro pez de su área de distribución tiene un hocico largo en forma de pala.",
+   "whereToSee": "Río Osage y lago de los Ozarks (Misuri); Grand Lake o' the Cherokees (Oklahoma); presa de Gavins Point en el Misuri (Dakota del Sur/Nebraska) durante la temporada primaveral de pesca con garfio",
+   "season": "Migraciones de desove de marzo a mayo con la crecida de los ríos; temporadas de pesca con garfio en primavera",
+   "order": "Acipenseriformes"
+  }
+ },
+ {
+  "scientific": "Atractosteus spatula",
+  "common": "Catán (pejelagarto)",
+  "summary": "Un pez gigante acorazado de los ríos y bayous del sur de Estados Unidos, con un hocico ancho como el de un caimán y una doble hilera de colmillos. Pertenece a un linaje que ha cambiado poco en unos 100 millones de años, y sus huevos son venenosos.",
+  "nativeRange": "Cuenca baja del Misisipi y cuencas costeras del golfo de México, desde Florida hasta Veracruz (México)",
+  "biomes": [
+   "Grandes ríos",
+   "Bayous",
+   "Pantanos",
+   "Estuarios salobres"
+  ],
+  "abilities": [
+   "Respira aire con una vejiga natatoria vascularizada, por lo que sobrevive en remansos cálidos y estancados",
+   "Sus escamas ganoideas romboidales y entrelazadas forman una armadura que resiste a la mayoría de los depredadores",
+   "Permanece inmóvil como un tronco y luego golpea de lado a los peces con su hocico dentado",
+   "Vive muchas décadas: se han datado ejemplares de más de 50 años por sus otolitos, y se han citado edades cercanas a los 95"
+  ],
+  "edibleParts": [
+   "carne (lomo)"
+  ],
+  "edibilityNote": "La carne blanca se come en el sur de Estados Unidos y en México (albóndigas de pejelagarto, pejelagarto frito). Los huevos son tóxicos: las huevas de pejelagarto contienen una ictiotoxina que causa vómitos, diarrea y otros trastornos en las personas, y nunca deben comerse. La piel y las escamas son extremadamente difíciles de cortar, y los ejemplares grandes y viejos pueden contener mercurio.",
+  "lore": "Los pueblos nativos del bajo Misisipi usaban las escamas del pejelagarto como puntas de flecha y la piel como armadura. Los primeros colonos recubrían las rejas de madera de los arados con su piel. En el siglo XX se le persiguió como «pez basura» hasta que la investigación mostró su papel en los ecosistemas fluviales.",
+  "funFact": "Las huevas del pejelagarto son tóxicas para mamíferos y aves, lo que puede ayudar a proteger los huevos de los depredadores que los comen.",
+  "animal": {
+   "diet": "Carnívoro: peces, cangrejos, tortugas y aves acuáticas; carroñea cadáveres",
+   "habitat": "Grandes ríos lentos, lagos de meandro, bayous, embalses y bahías salobres",
+   "lifespan": "Más de 50 años; hasta unos 95",
+   "size": "Frecuentemente 1,5–2 m; hasta unos 3 m y 150 kg",
+   "behaviour": "Flota cerca de la superficie y se gira para tragar aire. En primavera, los grupos desovan sobre vegetación inundada, dispersando huevos verdes y adherentes que eclosionan en pocos días.",
+   "fieldMarks": [
+    "Hocico ancho y corto, como el de un caimán",
+    "Dos hileras de dientes grandes en la mandíbula superior a cada lado (los demás pejelagartos tienen una)",
+    "Cuerpo largo, en forma de torpedo, acorazado con escamas ganoideas romboidales",
+    "Aletas dorsal y anal muy retrasadas, cerca de la cola redondeada; pardo oliváceo por encima"
+   ],
+   "lookalikes": "El catán de hocico largo (Lepisosteus osseus) tiene un pico muy largo y fino como una aguja. Los catanes moteado y de hocico corto son más pequeños (menos de 1 m), con hocicos más estrechos y una sola hilera de dientes superiores grandes. El catán de Florida está moteado por todo el cuerpo.",
+   "whereToSee": "El río Trinity (Texas); los bayous de Luisiana y la cuenca del Atchafalaya; el bajo Misisipi y sus lagos de meandro",
+   "season": "Residente; desova de abril a junio, cuando las crecidas inundan la vegetación",
+   "order": "Lepisosteiformes"
+  }
+ },
+ {
+  "scientific": "Amia calva",
+  "common": "Amia (pez lodo)",
+  "summary": "Un fósil viviente de la era de los dinosaurios y una de las dos únicas especies supervivientes de un orden conocido por lo demás a partir de fósiles del Jurásico y el Cretácico. Puede tragar aire y refugiarse en el lodo de los pantanos, y los padres custodian ferozmente a sus crías.",
+  "nativeRange": "Llanura costera atlántica y del golfo del sudeste de Estados Unidos (desde 2022, las amias septentrionales y del interior se consideran una especie aparte, A. ocellicauda)",
+  "biomes": [
+   "Pantanos",
+   "Ríos lentos",
+   "Lagos con vegetación",
+   "Bayous"
+  ],
+  "abilities": [
+   "Respira aire mediante una vejiga natatoria a modo de pulmón, por lo que sobrevive en pantanos cálidos y estancados",
+   "Puede sobrevivir en madrigueras en el lodo que se seca",
+   "Los machos limpian nidos y después conducen y custodian durante semanas una bola negra de alevines",
+   "Su orden, Amiiformes, se remonta al Jurásico"
+  ],
+  "edibleParts": [
+   "carne",
+   "huevas"
+  ],
+  "edibilityNote": "Se come en Luisiana como choupique, a menudo frito, ahumado o en tortitas de pescado; las huevas se venden como «caviar cajún». La carne es blanda y se cocina mejor fresca. A diferencia de los del pejelagarto, los huevos de la amia no son tóxicos.",
+  "lore": "En Luisiana, la amia se vende desde hace generaciones como choupique (de una palabra choctaw), un pescado barato. Cuando se hundió el comercio de caviar del Caspio, las huevas de amia se convirtieron en un sustituto nacional del caviar.",
+  "funFact": "El orden de la amia tiene fósiles en varios continentes, pero hoy solo sobreviven las dos especies norteamericanas.",
+  "animal": {
+   "diet": "Carnívora: peces, cangrejos de río, ranas, insectos y otras presas",
+   "habitat": "Pantanos, bayous, ciénagas y aguas lentas con vegetación abundante",
+   "lifespan": "Normalmente 10–12 años; hasta unos 30",
+   "size": "Frecuentemente 45–60 cm; hasta unos 1,1 m",
+   "behaviour": "Caza de noche entre la vegetación. En primavera, el macho construye un nido circular entre las plantas, atrae a las hembras y después custodia los huevos y el enjambre de alevines.",
+   "fieldMarks": [
+    "Cuerpo largo y cilíndrico con una aleta dorsal muy larga y ondulada que recorre casi todo el dorso",
+    "Placa gular ósea entre las mandíbulas inferiores",
+    "Ocelo negro en la parte superior de la base de la cola, rodeado de naranja en los machos",
+    "Aleta anal corta; cola redondeada; orificios nasales tubulares",
+    "Machos reproductores con aletas y vientre de un verde intenso"
+   ],
+   "lookalikes": "La amia de cola ocelada (Amia ocellicauda) es casi idéntica y se distingue sobre todo por su distribución y su genética. El pez cabeza de serpiente del norte (Channa argus, introducido) tiene una aleta anal larga, carece de placa gular y tiene la cabeza con escamas. La lota tiene una barbilla en el mentón y dos aletas dorsales.",
+   "whereToSee": "Pantano de Okefenokee (Georgia); río St. Johns (Florida); ríos de aguas negras de la llanura costera de las Carolinas y Georgia",
+   "season": "Residente; desova en primavera (marzo–mayo en el sur)",
+   "order": "Amiiformes"
+  }
+ },
+ {
+  "scientific": "Neoceratodus forsteri",
+  "common": "Pez pulmonado australiano (barramunda)",
+  "summary": "Un eslabón vivo con los peces que se arrastraron por primera vez a tierra firme, casi idéntico a fósiles de unos 100 millones de años. A diferencia de otros peces pulmonados, respira sobre todo con branquias y usa su único pulmón en aguas pobres en oxígeno.",
+  "nativeRange": "Sudeste de Queensland (Australia): ríos Burnett y Mary (autóctono); trasladado a los ríos Brisbane, Albert, Pine y Coomera",
+  "biomes": [
+   "Ríos lentos",
+   "Pozas profundas",
+   "Embalses"
+  ],
+  "abilities": [
+   "Respira con branquias y un único pulmón, y traga aire cuando el agua está cálida o es pobre en oxígeno",
+   "Tiene uno de los genomas animales más grandes jamás secuenciados, con unos 43.000 millones de pares de bases",
+   "Vive muchas décadas; un ejemplar en cautividad vivió más de 90 años",
+   "Detecta a sus presas con electrorreceptores en el hocico"
+  ],
+  "lore": "Gerard Krefft lo describió en 1870 a partir de un ejemplar que le envió William Forster, un colono ganadero de Queensland. La presa de Traveston Crossing, en el río Mary, se canceló en 2009 en virtud de la legislación ambiental australiana, en parte por la amenaza que suponía para el pez pulmonado.",
+  "funFact": "«Granddad» («Abuelo»), un pez pulmonado australiano que vivió en el Acuario Shedd de Chicago de 1933 a 2017, era al morir el pez de acuario más viejo del que se tiene registro.",
+  "animal": {
+   "diet": "Omnívoro: caracoles, gusanos, gambas, ranas, peces pequeños y plantas",
+   "habitat": "Pozas profundas de corriente lenta en ríos con plantas acuáticas y fondos blandos",
+   "lifespan": "Probablemente 80–100 años",
+   "size": "Hasta unos 1,5 m y 40 kg",
+   "behaviour": "Se desplaza lentamente por el fondo con sus aletas en forma de aleta de foca. En primavera pone los huevos de uno en uno entre las plantas acuáticas, y estos dependen de los lechos de plantas que destruyen las presas y los azudes.",
+   "fieldMarks": [
+    "Cuerpo pesado y alargado cubierto de escamas muy grandes y superpuestas",
+    "Aletas pectorales y pélvicas carnosas, en forma de remo, sobre bases a modo de pedúnculo",
+    "Aleta continua alrededor de la parte posterior del cuerpo que forma una cola puntiaguda",
+    "Pardo oliváceo a gris por encima, a menudo con manchas oscuras; vientre claro"
+   ],
+   "lookalikes": "Los bagres autóctonos e introducidos tienen barbillas y carecen de escamas grandes. Los peces pulmonados africanos y sudamericanos tienen otro aspecto y no viven en Australia: son anguiliformes, con aletas filiformes y escamas pequeñas.",
+   "whereToSee": "Río Mary y río Burnett (Queensland); presas de Wivenhoe y Somerset; Museo de Queensland y acuarios públicos",
+   "season": "Residente; desova de agosto a diciembre",
+   "order": "Ceratodontiformes"
+  }
+ },
+ {
+  "scientific": "Protopterus annectens",
+  "common": "Pez pulmonado africano occidental",
+  "summary": "Un pez anguiliforme que respira aire, propio de las llanuras de inundación de África occidental, que sobrevive a la estación seca encerrado en un capullo de moco dentro del barro endurecido durante meses, a veces años. Camina por el fondo sobre aletas finas como hilos, un indicio de cómo los primeros vertebrados pasaron a tierra firme.",
+  "nativeRange": "África occidental y central: desde Senegal y Gambia por las cuencas del Níger, el Volta y el lago Chad, con poblaciones también en partes de la cuenca del Congo",
+  "biomes": [
+   "Pantanos de llanura de inundación",
+   "Humedales estacionales",
+   "Ríos lentos"
+  ],
+  "abilities": [
+   "Estiva: se entierra en el lodo, segrega un capullo de moco que se endurece y respira aire por un tubo hasta la superficie mientras su metabolismo se ralentiza",
+   "Respira aire de forma obligada y se ahoga si se le impide llegar a la superficie",
+   "Camina y avanza a saltos por el fondo con sus finas aletas pélvicas, una marcha estudiada como modelo del origen de la locomoción de los tetrápodos",
+   "Los machos custodian el nido y oxigenan los huevos"
+  ],
+  "edibleParts": [
+   "carne"
+  ],
+  "edibilityNote": "Se come en África occidental, a menudo desenterrado del barro en la estación seca. Siempre cocinado. Al vivir en el fondo de llanuras de inundación, puede portar parásitos y acumular contaminantes.",
+  "lore": "Richard Owen lo describió en 1839 como Lepidosiren annectens, «el que conecta», porque parecía unir a los peces con los anfibios. Se enviaron vivos a Europa capullos de peces pulmonados extraídos del barro de Gambia, que «despertaban» en los acuarios.",
+  "funFact": "En 2011, unos investigadores filmaron a esta especie levantando el cuerpo y caminando sobre sus aletas pélvicas por el fondo, una forma de marcha que se creía surgida solo en los tetrápodos.",
+  "animal": {
+   "diet": "Omnívoro: caracoles, crustáceos, larvas de insectos, peces, ranas y materia vegetal",
+   "habitat": "Pantanos estacionales, llanuras de inundación, marismas y orillas de ríos que pueden secarse",
+   "lifespan": "Más de 20 años en cautividad",
+   "size": "Normalmente 50–70 cm; hasta unos 1 m",
+   "behaviour": "Cuando bajan las aguas, se introduce en el lodo y se enrosca en un capullo, y sale cuando vuelven las lluvias. Los machos excavan nidos y custodian los huevos y las larvas.",
+   "fieldMarks": [
+    "Cuerpo anguiliforme con una aleta continua alrededor de la parte posterior",
+    "Aletas pectorales y pélvicas largas, finas y filiformes, con un fleco en las pectorales",
+    "Pardo oliváceo a gris con manchas oscuras y vientre claro",
+    "Ojos pequeños y hocico corto y redondeado"
+   ],
+   "lookalikes": "El pez pulmonado jaspeado (Protopterus aethiopicus), de África oriental, es más grande y tiene un dibujo jaspeado. Las anguilas verdaderas y las anguilas espinosas no tienen aletas pares filiformes.",
+   "whereToSee": "Llanuras de inundación del río Gambia; el delta interior del Níger (Malí); humedales arroceros de Senegal y Guinea-Bisáu",
+   "season": "Activo en la estación de lluvias (aproximadamente de junio a octubre); estiva en la estación seca",
+   "order": "Ceratodontiformes"
+  }
+ }
+]
