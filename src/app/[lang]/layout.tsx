@@ -5,6 +5,7 @@ import { notFound } from "next/navigation";
 import SearchBox from "@/components/SearchBox";
 import LangSwitch from "@/components/LangSwitch";
 import Mark from "@/components/Mark";
+import FeedbackButton from "@/components/FeedbackButton";
 import { LangProvider } from "@/i18n/LangProvider";
 import { LANGS, isLang, lp, type Lang } from "@/i18n/config";
 import { dict } from "@/i18n/dict";
@@ -109,7 +110,9 @@ export default async function RootLayout({ children, params }: Readonly<{ childr
                   ["https://www.biodiversitylibrary.org", "Biodiversity Heritage Library"],
                 ]}
               />
-              <FooterCol title={t.footerLibrary} links={t.footerLinks.map(([h, l]) => [L(h), l])} />
+              <FooterCol title={t.footerLibrary} links={t.footerLinks.map(([h, l]) => [L(h), l])}>
+                <FeedbackButton className="text-moss" />
+              </FooterCol>
             </div>
             <div className="mx-auto max-w-[1320px] px-4 sm:px-6 pb-8 flex flex-col sm:flex-row sm:items-baseline sm:justify-between gap-3 border-t rule pt-5">
               <p className="text-sm flex flex-wrap items-center gap-x-2.5 gap-y-2">
@@ -132,7 +135,7 @@ export default async function RootLayout({ children, params }: Readonly<{ childr
   );
 }
 
-function FooterCol({ title, links }: { title: string; links: string[][] }) {
+function FooterCol({ title, links, children }: { title: string; links: string[][]; children?: React.ReactNode }) {
   return (
     <div>
       <p className="label text-ink-2 mb-3">{title}</p>
@@ -144,6 +147,7 @@ function FooterCol({ title, links }: { title: string; links: string[][] }) {
             </Link>
           </li>
         ))}
+        {children && <li>{children}</li>}
       </ul>
     </div>
   );

@@ -9,6 +9,7 @@ import Stacks from "@/components/Stacks";
 import WikiText from "@/components/WikiText";
 import FoundGallery from "@/components/FoundGallery";
 import ShareButton from "@/components/ShareButton";
+import FeedbackButton from "@/components/FeedbackButton";
 import { findImages } from "@/lib/images";
 import { asLang, lp, LOCALE } from "@/i18n/config";
 import { dict } from "@/i18n/dict";
@@ -80,6 +81,7 @@ export default async function ColPage({ params, searchParams }: { params: Promis
         {u.status === "provisionally accepted" && <span>{t.provisional}</span>}
         <span className="ml-auto flex items-center gap-4">
           <span className="hidden sm:inline">{t.kicker("2026")}</span>
+          <FeedbackButton variant="pill" />
           <ShareButton name={mine ? mine.name.charAt(0).toUpperCase() + mine.name.slice(1) : name} scientific={name} />
         </span>
       </div>

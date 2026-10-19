@@ -1,4 +1,28 @@
 export const en = {
+  feedback: {
+    label: "A note to the librarians",
+    general: {
+      button: "Send feedback",
+      title: "Tell us what you think",
+      intro: "A mistake, a missing species, a room you would like, or anything else. We read every note.",
+      placeholder: "What should we know?",
+    },
+    correction: {
+      button: "Correct this",
+      title: "Suggest a correction",
+      intro: "Wrong name, wrong photograph, a claim that needs a source? Say what is wrong and, if you can, where the right answer is.",
+      placeholder: "What is wrong on this page?",
+    },
+    email: "Email, for a reply (optional)",
+    from: (p: string) => `Sent from ${p}`,
+    send: "Send",
+    sending: "Sending…",
+    retry: "Try again",
+    failed: "That did not go through. Please try again in a moment.",
+    thanks: "Thank you.",
+    received: "Your note is with the librarians.",
+    close: "Close",
+  },
   share: {
     button: "Share",
     aria: (n: string) => `Share ${n}`,
@@ -60,6 +84,30 @@ export const en = {
 };
 
 export const es: typeof en = {
+  feedback: {
+    label: "Una nota para los bibliotecarios",
+    general: {
+      button: "Enviar comentarios",
+      title: "Cuéntanos qué piensas",
+      intro: "Un error, una especie que falta, una sala que te gustaría o cualquier otra cosa. Leemos cada nota.",
+      placeholder: "¿Qué deberíamos saber?",
+    },
+    correction: {
+      button: "Corregir",
+      title: "Sugerir una corrección",
+      intro: "¿Nombre equivocado, fotografía equivocada, una afirmación sin fuente? Di qué está mal y, si puedes, dónde está la respuesta correcta.",
+      placeholder: "¿Qué está mal en esta página?",
+    },
+    email: "Correo, para responderte (opcional)",
+    from: (p: string) => `Enviado desde ${p}`,
+    send: "Enviar",
+    sending: "Enviando…",
+    retry: "Reintentar",
+    failed: "No se pudo enviar. Inténtalo de nuevo en un momento.",
+    thanks: "Gracias.",
+    received: "Tu nota ya está con los bibliotecarios.",
+    close: "Cerrar",
+  },
   share: {
     button: "Compartir",
     aria: (n: string) => `Compartir ${n}`,

@@ -7,6 +7,7 @@ import { wikiSections } from "@/lib/wikipedia";
 import { findImages } from "@/lib/images";
 import FoundGallery from "@/components/FoundGallery";
 import ShareButton from "@/components/ShareButton";
+import FeedbackButton from "@/components/FeedbackButton";
 import { asLang, lp, LOCALE } from "@/i18n/config";
 import { dict } from "@/i18n/dict";
 import WhereItLives from "@/components/WhereItLives";
@@ -96,6 +97,7 @@ export default async function GbifPage({ params, searchParams }: { params: Promi
         {t.extinct && <span className="text-stamp">{g.extinct}</span>}
         <span className="ml-auto flex items-center gap-4">
           <span className="hidden sm:inline">{g.catalogue}</span>
+          <FeedbackButton variant="pill" />
           <ShareButton name={english ?? name} scientific={name} />
         </span>
       </div>

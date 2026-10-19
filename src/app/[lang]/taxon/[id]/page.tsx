@@ -9,6 +9,7 @@ import { dict } from "@/i18n/dict";
 import PhotoPlate from "@/components/PhotoPlate";
 import EBirdCard from "@/components/EBirdCard";
 import ShareButton from "@/components/ShareButton";
+import FeedbackButton from "@/components/FeedbackButton";
 import WikiText from "@/components/WikiText";
 import { commonsImages } from "@/lib/images";
 import WhereItLives from "@/components/WhereItLives";
@@ -76,6 +77,7 @@ export default async function TaxonPage({ params }: { params: Promise<{ lang: st
         {t.extinct && <span className="text-stamp">{tr.extinct}</span>}
         <span className="ml-auto flex items-center gap-4">
           <span className="hidden sm:inline">{tr.openStacks}</span>
+          <FeedbackButton variant="pill" />
           <ShareButton name={name} scientific={t.name} />
         </span>
       </div>
