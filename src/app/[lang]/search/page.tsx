@@ -5,6 +5,7 @@ import { asLang, lp, LOCALE } from "@/i18n/config";
 import { dict } from "@/i18n/dict";
 import { searchTaxa } from "@/lib/inat";
 import { gbifSearch } from "@/lib/gbif";
+import { colSearch } from "@/lib/col";
 import SpecimenCard from "@/components/SpecimenCard";
 import { toCard } from "@/lib/cards";
 import SearchBox from "@/components/SearchBox";
@@ -21,11 +22,14 @@ export default async function SearchPage({ params, searchParams }: { params: Pro
   const L = (p: string) => lp(lang, p);
   const q = ((await searchParams).q ?? "").trim();
   const local = q ? searchCodex(q, codexIn(lang)) : [];
-  const [live, gb] = q ? await Promise.all([searchTaxa(q, 40, lang), gbifSearch(q, 40)]) : [[], []];
+  const [live, gb, col] = q ? await Promise.all([searchTaxa(q, 40, lang), gbifSearch(q, 40), colSearch(q, 30)]) : [[], [], []];
   const localIds = new Set(local.map((e) => e.inatId));
   const open = live.filter((t) => !localIds.has(t.id));
   const inatNames = new Set(live.map((t) => t.name.toLowerCase()));
   const catalogued = gb.filter((g) => g.canonicalName && !inatNames.has(g.canonicalName.toLowerCase()) && ["SPECIES", "GENUS", "FAMILY", "SUBSPECIES"].includes(g.rank));
+  // more from the current Catalogue of Life: its pages hand over to GBIF/iNaturalist when they know the species too
+  const known = new Set([...inatNames, ...catalogued.map((g) => g.canonicalName!.toLowerCase()), ...local.map((e) => e.scientific.toLowerCase())]);
+  const recent = col.filter((c) => !c.acceptedId && !known.has(c.name.toLowerCase()) && !gb.some((g) => g.canonicalName?.toLowerCase() === c.name.toLowerCase()));
 
   return (
     <div className="mx-auto max-w-[1320px] px-4 sm:px-6 pt-10">
@@ -83,6 +87,25 @@ export default async function SearchPage({ params, searchParams }: { params: Pro
                       </span>
                       <span className="block text-sm text-ink-2">
                         {(R[g.rank.toLowerCase()] ?? g.rank).toLowerCase()} · {[g.kingdom, g.class, g.family].filter(Boolean).join(" › ")}
+                      </span>
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </section>
+          )}
+          {recent.length > 0 && (
+            <section className="mt-12">
+              <p className="label text-ink-2 border-b border-ink pb-2">{tt.inCol(recent.length)}</p>
+              <ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-8 mt-2">
+                {recent.map((c) => (
+                  <li key={c.id} className="border-b rule">
+                    <Link href={L(`/col/${encodeURIComponent(c.id)}${["species", "subspecies", "variety", "form"].includes(c.rank) ? "" : "?stay=1"}`)} className="block py-3 group">
+                      <span className="block group-hover:text-moss">
+                        <i>{c.name}</i> <span className="text-ink-2 text-sm">{c.authorship}</span>
+                      </span>
+                      <span className="block text-sm text-ink-2">
+                        {(R[c.rank] ?? c.rank).toLowerCase()} · {c.path}
                       </span>
                     </Link>
                   </li>

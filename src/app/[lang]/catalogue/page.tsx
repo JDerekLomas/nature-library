@@ -43,6 +43,9 @@ export default async function Catalogue({ params }: { params: Promise<{ lang: st
 
       <section className="mt-14">
         <h2 className="font-display text-3xl border-b-[3px] border-double border-ink pb-2">{t.byKinship}</h2>
+        <p className="mt-2 text-sm">
+          <Link href={L("/col")} className="link-ink text-moss">{dict(lang).rooms.col.browse}</Link>
+        </p>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-px bg-rule border-x border-b rule">
           {KINGDOMS.map(([k, label], i) => (
             <Link key={k} href={L(`/gbif/${k}?stay=1`)} className="bg-paper p-5 hover:bg-card group">

@@ -4,6 +4,8 @@ import type { Metadata } from "next";
 import { gbifTaxon, gbifParents, gbifChildren, gbifVernacular, gbifEnglishName, gbifIucn, gbifDescriptions, gbifImages, occurrenceCount, wikidataImage } from "@/lib/gbif";
 import { getByInat } from "@/lib/codex";
 import { wikiSections } from "@/lib/wikipedia";
+import { findImages } from "@/lib/images";
+import FoundGallery from "@/components/FoundGallery";
 import { asLang, lp, LOCALE } from "@/i18n/config";
 import { dict } from "@/i18n/dict";
 import WhereItLives from "@/components/WhereItLives";
@@ -78,6 +80,8 @@ export default async function GbifPage({ params, searchParams }: { params: Promi
   const english = spanish ? spanish.charAt(0).toUpperCase() + spanish.slice(1) : englishBest;
   const enWiki = `https://en.wikipedia.org/wiki/${encodeURIComponent(name.replace(/ /g, "_"))}`;
   const wiki = (lang !== "en" ? await wikiSections(enWiki, lang) : null) ?? (await wikiSections(enWiki));
+  // no record images and no Wikidata picture: look for the name on iNaturalist and Wikimedia Commons
+  const found = !images.length && !wd && ["SPECIES", "SUBSPECIES", "VARIETY", "GENUS"].includes(t.rank) ? await findImages(name, 6) : [];
   const homeLang = lang === "es" ? "spa" : "eng";
   const otherNames = vern.filter((v) => v.lang && v.lang !== homeLang && !/^[A-Z]{3,6}$/.test(v.name)).slice(0, 14);
 
@@ -126,9 +130,7 @@ export default async function GbifPage({ params, searchParams }: { params: Promi
               ))}
             </div>
           ) : wd ? null : (
-            <div className="mount aspect-[4/5] flex items-center justify-center text-center px-8">
-              <span className="label text-ink-2">{g.noImage}</span>
-            </div>
+            <FoundGallery images={found} alt={name} none={g.noImage} credit={g.foundCredit} />
           )}
           {images.length > 0 && (
             <p className="text-xs text-ink-2 mt-2 leading-snug">

@@ -8,6 +8,8 @@ import { asLang, lp, LOCALE } from "@/i18n/config";
 import { dict } from "@/i18n/dict";
 import PhotoPlate from "@/components/PhotoPlate";
 import EBirdCard from "@/components/EBirdCard";
+import WikiText from "@/components/WikiText";
+import { commonsImages } from "@/lib/images";
 import WhereItLives from "@/components/WhereItLives";
 import Stacks from "@/components/Stacks";
 import FieldNotes from "@/components/FieldNotes";
@@ -50,7 +52,9 @@ export default async function TaxonPage({ params }: { params: Promise<{ lang: st
 
   const isSpecies = t.rank_level <= 10;
   const name = t.preferred_common_name || t.name;
-  const photos = photosOf(t);
+  const own = photosOf(t);
+  // iNaturalist has no openly licensed photo of it yet: try Wikimedia Commons by name
+  const photos = own.length ? own : (await commonsImages(t.name, 6)).map((f) => ({ url: f.url, square: f.thumb, medium: f.url, attribution: f.attribution, source: "Wikimedia" as const }));
   const summary = stripHtml(t.wikipedia_summary);
   const ancestors = (t.ancestors ?? []).filter((a) => a.rank !== "stateofmatter");
   const children = isSpecies ? [] : await getChildren(id, 60, lang);
@@ -213,14 +217,4 @@ function statusCode(s: string) {
     "least concern": "LC", "near threatened": "NT", vulnerable: "VU", endangered: "EN", "critically endangered": "CR",
   };
   return m[s.toLowerCase()];
-}
-
-function WikiText({ text }: { text: string }) {
-  return (
-    <div className="space-y-3 max-w-[70ch] leading-relaxed">
-      {text.split(/\n\n+/).map((p, i) => (
-        <p key={i}>{p}</p>
-      ))}
-    </div>
-  );
 }

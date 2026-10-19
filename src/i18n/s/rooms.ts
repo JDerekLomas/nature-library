@@ -165,6 +165,28 @@ export const en = {
     more: "← More recorded",
     less: "Less recorded →",
   },
+  col: {
+    kicker: (ed: string) => `The Nature Library · Catalogue of Life, ${ed}`,
+    title: "The current Catalogue of Life",
+    metaDesc: "Every accepted species in the latest edition of the Catalogue of Life, the world's checklist of living things, browsable from the domains down.",
+    intro: (n: string) =>
+      `The Catalogue of Life is the world's checklist of species, assembled each month by more than 160 specialist databases, from FishBase and the Mammal Diversity Database to World Flora Online and Species Fungorum. Its latest edition names ${n} accepted living species. Every one has a page here, including those described too recently to appear anywhere else in the library.`,
+    species: (n: string) => `${n} species`,
+    extinct: "Extinct",
+    provisional: "Provisionally accepted",
+    alsoCalled: "Also called",
+    range: "Recorded from",
+    synonyms: "Also published as",
+    branches: (n: string) => `${n} branches`,
+    previous: "← Previous",
+    next: "Next →",
+    references: "References",
+    recent:
+      "This species is in the Catalogue of Life but not yet in the 2023 GBIF backbone or on iNaturalist: most likely it was described, or split from another species, very recently. What is known so far is below.",
+    credit: "From the Catalogue of Life (catalogueoflife.org), compiled from its specialist databases; CC BY 4.0.",
+    onCol: "This name in the Catalogue of Life",
+    browse: "Browse the current Catalogue of Life →",
+  },
   gbif: {
     catalogue: "The Nature Library · Catalogue of all life",
     records: (n: string) => `${n} occurrence records`,
@@ -188,6 +210,7 @@ export const en = {
     stacks: "In the stacks",
     credit: "From the GBIF Backbone Taxonomy and occurrence records (GBIF.org), with Wikipedia and the Source Library.",
     gbifSpecies: (k: number) => `GBIF species ${k}`,
+    foundCredit: "Found by name on iNaturalist and Wikimedia Commons; click a picture for its photographer and licence.",
   },
   taxon: {
     openStacks: "The Nature Library · Open stacks",
@@ -212,6 +235,7 @@ export const en = {
     inCodex: (n: number) => `In the codex · ${n}`,
     inInat: (n: number) => `In the open stacks of iNaturalist · ${n}`,
     inGbif: (n: number) => `In the Catalogue of All Life (GBIF backbone) · ${n} more names`,
+    inCol: (n: number) => `More in the current Catalogue of Life (2026 edition) · ${n} names`,
   },
   wheel: {
     title: "Wheel of Life",
@@ -489,6 +513,28 @@ export const es: typeof en = {
     more: "← Más registradas",
     less: "Menos registradas →",
   },
+  col: {
+    kicker: (ed: string) => `La Biblioteca de la Naturaleza · Catalogue of Life, ${ed}`,
+    title: "El Catalogue of Life actual",
+    metaDesc: "Cada especie aceptada en la última edición del Catalogue of Life, la lista mundial de los seres vivos, explorable desde los dominios.",
+    intro: (n: string) =>
+      `El Catalogue of Life es la lista mundial de especies, compilada cada mes por más de 160 bases de datos especializadas, de FishBase y la Mammal Diversity Database a World Flora Online y Species Fungorum. Su última edición nombra ${n} especies vivas aceptadas. Cada una tiene su página aquí, incluidas las descritas tan recientemente que aún no aparecen en ninguna otra parte de la biblioteca.`,
+    species: (n: string) => `${n} especies`,
+    extinct: "Extinta",
+    provisional: "Aceptada provisionalmente",
+    alsoCalled: "También llamada",
+    range: "Registrada en",
+    synonyms: "También publicada como",
+    branches: (n: string) => `${n} ramas`,
+    previous: "← Anteriores",
+    next: "Siguientes →",
+    references: "Referencias",
+    recent:
+      "Esta especie figura en el Catalogue of Life pero aún no en la taxonomía de GBIF de 2023 ni en iNaturalist: lo más probable es que se haya descrito, o separado de otra especie, muy recientemente. Lo que se sabe hasta ahora está abajo.",
+    credit: "Del Catalogue of Life (catalogueoflife.org), compilado a partir de sus bases de datos especializadas; CC BY 4.0.",
+    onCol: "Este nombre en el Catalogue of Life",
+    browse: "Explorar el Catalogue of Life actual →",
+  },
   gbif: {
     catalogue: "La Biblioteca de la Naturaleza · Catálogo de toda la vida",
     records: (n: string) => `${n} registros de presencia`,
@@ -512,6 +558,7 @@ export const es: typeof en = {
     stacks: "En los depósitos",
     credit: "De la taxonomía troncal y los registros de presencia de GBIF (GBIF.org), con Wikipedia y la Source Library.",
     gbifSpecies: (k: number) => `Especie ${k} de GBIF`,
+    foundCredit: "Encontradas por su nombre en iNaturalist y Wikimedia Commons; haz clic en una imagen para ver su autor y licencia.",
   },
   taxon: {
     openStacks: "La Biblioteca de la Naturaleza · Depósitos abiertos",
@@ -536,6 +583,7 @@ export const es: typeof en = {
     inCodex: (n: number) => `En el códice · ${n}`,
     inInat: (n: number) => `En los depósitos abiertos de iNaturalist · ${n}`,
     inGbif: (n: number) => `En el Catálogo de Toda la Vida (taxonomía de GBIF) · ${n} nombres más`,
+    inCol: (n: number) => `Más en el Catalogue of Life actual (edición de 2026) · ${n} nombres`,
   },
   wheel: {
     title: "Rueda de la Vida",
