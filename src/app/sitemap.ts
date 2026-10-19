@@ -5,6 +5,7 @@ import { CODEX, GERARD } from "@/lib/codex";
 import { SHELVES } from "@/lib/shelves";
 import { EXHIBITIONS } from "@/lib/exhibitions";
 import { COUNTRY_CODES } from "@/lib/countries";
+import { birdFamilies } from "@/lib/birds";
 
 const BASE = process.env.NEXT_PUBLIC_SITE_URL ?? (process.env.VERCEL_PROJECT_PRODUCTION_URL ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}` : "http://localhost:3000");
 
@@ -15,7 +16,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority,
     alternates: { languages: { en: `${BASE}${p}`, es: `${BASE}/es${p === "/" ? "" : p}` } },
   });
-  const rooms = ["/", "/atlas", "/wheel", "/catalogue", "/shelves", "/bestiary", "/aviary", "/plates", "/herball", "/identify", "/grow", "/exhibitions", "/about"].map((p) => u(p, 0.9));
+  const rooms = ["/", "/atlas", "/wheel", "/catalogue", "/shelves", "/bestiary", "/aviary", "/plates", "/herball", "/identify", "/aviary/checklist", "/grow", "/exhibitions", "/about"].map((p) => u(p, 0.9));
   // most-observed species from the identifier's label table (≈10,000)
   let top: MetadataRoute.Sitemap = [];
   try {
@@ -30,6 +31,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...EXHIBITIONS.map((x) => u(`/exhibitions/${x.slug}`, 0.6)),
     ...GERARD.map((c) => u(`/herball/${c.id}`, 0.5)),
     ...COUNTRY_CODES.map((c) => u(`/catalogue/country/${c.toLowerCase()}`, 0.5)),
+    ...birdFamilies("en").map((f) => u(`/aviary/checklist/${f.slug}`, 0.5)),
     ...top,
   ];
 }

@@ -51,18 +51,6 @@ export const IUCN: Record<string, { label: string; color: string }> = {
 };
 
 // GBIF backbone keys used by the Atlas filters
-export const ATLAS_LAYERS = [
-  { id: "all", label: "All life", gbif: "" , inat: "" },
-  { id: "plants", label: "Plants", gbif: "taxonKey=6", inat: "Plantae" },
-  { id: "fungi", label: "Fungi", gbif: "taxonKey=5", inat: "Fungi" },
-  { id: "birds", label: "Birds", gbif: "taxonKey=212", inat: "Aves" },
-  { id: "insects", label: "Insects", gbif: "taxonKey=216", inat: "Insecta" },
-  { id: "mammals", label: "Mammals", gbif: "taxonKey=359", inat: "Mammalia" },
-  { id: "reptiles", label: "Lizards & snakes", gbif: "taxonKey=11592253", inat: "Reptilia" },
-  { id: "amphibians", label: "Amphibians", gbif: "taxonKey=131", inat: "Amphibia" },
-  { id: "fish", label: "Ray-finned fish", gbif: "taxonKey=204", inat: "Actinopterygii" },
-  { id: "molluscs", label: "Molluscs", gbif: "taxonKey=52", inat: "Mollusca" },
-];
 
 // ——— Spanish ———
 
@@ -106,8 +94,3 @@ const IUCN_ES: Record<string, string> = {
 };
 export const iucnLabel = (lang: Lang, k: string) => (lang === "es" ? IUCN_ES[k] : IUCN[k]?.label) ?? k;
 
-const LAYERS_ES: Record<string, string> = {
-  all: "Toda la vida", plants: "Plantas", fungi: "Hongos", birds: "Aves", insects: "Insectos", mammals: "Mamíferos", reptiles: "Lagartos y serpientes",
-  amphibians: "Anfibios", fish: "Peces óseos", molluscs: "Moluscos",
-};
-export const layersFor = (lang: Lang) => (lang === "es" ? ATLAS_LAYERS.map((l) => ({ ...l, label: LAYERS_ES[l.id] ?? l.label })) : ATLAS_LAYERS);

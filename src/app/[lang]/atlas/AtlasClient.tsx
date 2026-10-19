@@ -1,9 +1,9 @@
 "use client";
 
-import { useCallback, useEffect, useRef, useState } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import Link from "next/link";
 import Globe from "@/components/Globe";
-import { layersFor } from "@/lib/shelves";
+import { atlasTree, pathTo } from "@/lib/atlas-tree";
 import { useLang, useT } from "@/i18n/LangProvider";
 import { lp, LOCALE, type Lang } from "@/i18n/config";
 
@@ -126,8 +126,9 @@ async function boundaryAt(lat: number, lon: number, level: 0 | 10 | 20) {
 export default function AtlasClient() {
   const lang = useLang();
   const t = useT().rooms.atlas;
-  const LAYERS = layersFor(lang);
-  const [layer, setLayer] = useState(LAYERS[0]);
+  const TREE = useMemo(() => atlasTree(lang), [lang]);
+  const [layer, setLayer] = useState(TREE.get("all")!);
+  const trail = pathTo(TREE, layer.id);
   const [where, setWhere] = useState<Where | null>(null);
   const [list, setList] = useState<SpeciesCount[] | null>(null);
   const [total, setTotal] = useState(0);
@@ -146,6 +147,8 @@ export default function AtlasClient() {
     const u = new URL(window.location.href);
     const lat = Number(u.searchParams.get("lat"));
     const lon = Number(u.searchParams.get("lng"));
+    const l = TREE.get(u.searchParams.get("layer") ?? "");
+    if (l) setLayer(l);
     if (!u.searchParams.has("lat") || !Number.isFinite(lat) || !Number.isFinite(lon)) return;
     const w: Where = {
       label: u.searchParams.get("q") ?? fmt(lon, lat),
@@ -156,16 +159,19 @@ export default function AtlasClient() {
       placeName: u.searchParams.get("pn") ?? undefined,
       country: u.searchParams.get("cc") ?? undefined,
     };
-    const l = LAYERS.find((x) => x.id === u.searchParams.get("layer"));
-    if (l) setLayer(l);
     setWhere(w);
     setFocus([lon, lat]);
   }, []);
 
   // keep the URL in step so any view can be shared
   useEffect(() => {
-    if (!where) return;
     const u = new URL(window.location.href);
+    if (!where) {
+      if (layer.id === "all") u.searchParams.delete("layer");
+      else u.searchParams.set("layer", layer.id);
+      window.history.replaceState(null, "", u.toString());
+      return;
+    }
     u.search = "";
     u.searchParams.set("q", where.label);
     u.searchParams.set("lat", where.lat.toFixed(4));
@@ -184,7 +190,7 @@ export default function AtlasClient() {
     if (!where) return;
     const ctl = new AbortController();
     if (page === 1) setList(null);
-    const iconic = layer.inat ? `&iconic_taxa=${layer.inat}` : "";
+    const iconic = layer.inat ? `&taxon_id=${layer.inat}` : "";
     const scope = where.placeId ? `place_id=${where.placeId}` : `lat=${where.lat}&lng=${where.lon}&radius=${where.radius}`;
     fetch(`https://api.inaturalist.org/v1/observations/species_counts?${scope}&verifiable=true&per_page=60&page=${page}${iconic}&locale=${lang}`, { signal: ctl.signal })
       .then((r) => r.json())
@@ -305,19 +311,39 @@ export default function AtlasClient() {
             )}
           </div>
 
-          <div className="flex flex-wrap gap-2 mt-5">
-            {LAYERS.map((l) => (
-              <button
-                key={l.id}
-                onClick={() => {
-                  setLayer(l);
-                  setPage(1);
-                }}
-                className={`px-3 py-1.5 text-sm border transition-colors ${l.id === layer.id ? "bg-glow text-night border-glow" : "border-[#e8e2cf33] text-[#d8d1bb] hover:border-glow"}`}
-              >
-                {l.label}
-              </button>
-            ))}
+          {/* the filter is a tree of life: each choice opens its branches beneath it */}
+          <div className="mt-5 space-y-2" role="tree">
+            {trail
+              .filter((n) => n.children.length)
+              .map((n, row) => (
+                <div key={n.id} className={`flex flex-wrap items-center gap-2 ${row ? "pl-4 sm:pl-6 border-l border-glow/40 ml-1" : ""}`}>
+                  {row > 0 && <span className="label text-glow/70 mr-1 !text-[0.6rem]">{n.label} ›</span>}
+                  {(row === 0 ? [TREE.get("all")!, ...n.children.map((c) => TREE.get(c)!)] : n.children.map((c) => TREE.get(c)!)).map((l) => {
+                    const on = l.id === layer.id;
+                    const onPath = !on && trail.some((x) => x.id === l.id) && l.id !== "all";
+                    return (
+                      <button
+                        key={l.id}
+                        role="treeitem"
+                        aria-selected={on}
+                        aria-expanded={l.children.length ? on || onPath : undefined}
+                        onClick={() => {
+                          setLayer(l);
+                          setPage(1);
+                        }}
+                        title={l.sci}
+                        className={`border transition-colors ${row ? "px-2.5 py-1 text-[0.82rem]" : "px-3 py-1.5 text-sm"} ${
+                          on ? "bg-glow text-night border-glow" : onPath ? "border-glow text-glow" : "border-[#e8e2cf33] text-[#d8d1bb] hover:border-glow"
+                        }`}
+                      >
+                        {l.label}
+                        {l.children.length > 0 && <span className="ml-1.5 opacity-60">{on || onPath ? "▾" : "▸"}</span>}
+                      </button>
+                    );
+                  })}
+                </div>
+              ))}
+            {layer.sci && <p className="label text-glow/60 !text-[0.6rem] pl-1 latin normal-case">{trail.filter((n) => n.sci).map((n) => n.sci).join(" › ")}</p>}
           </div>
           <div className="max-w-[820px] mx-auto mt-4">
             <Globe gbif={layer.gbif} theme="night" step={1} onPick={pickPoint} marker={where ? [where.lon, where.lat] : null} focus={focus} initial={[30, 15]} onStats={(s) => setCells(s.cells)} />
@@ -381,7 +407,7 @@ export default function AtlasClient() {
                   {copied ? t.copied : t.copy}
                 </button>
                 {where.country && (
-                  <Link href={lp(lang, `/catalogue/country/${where.country.toLowerCase()}${layer.gbif.startsWith("taxonKey=") ? `?g=${layer.gbif.split("=")[1]}` : ""}`)} className="text-[#d8d1bb] hover:text-glow">
+                  <Link href={lp(lang, `/catalogue/country/${where.country.toLowerCase()}${/^taxonKey=\d+$/.test(layer.gbif) ? `?g=${layer.gbif.split("=")[1]}` : ""}`)} className="text-[#d8d1bb] hover:text-glow">
                     {t.everyInCountry}
                   </Link>
                 )}

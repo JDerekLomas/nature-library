@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { usePathname } from "next/navigation";
+import { usePathname, useRouter } from "next/navigation";
 import { switchLang, type Lang } from "@/i18n/config";
 import { useLang } from "@/i18n/LangProvider";
 
@@ -9,12 +9,23 @@ import { useLang } from "@/i18n/LangProvider";
 export default function LangSwitch() {
   const lang = useLang();
   const path = usePathname() || "/";
-  const q = typeof window !== "undefined" ? window.location.search : "";
+  const router = useRouter();
   const opt = (l: Lang, label: string) =>
     l === lang ? (
       <span className="text-ink">{label}</span>
     ) : (
-      <Link href={switchLang(path, l) + q} hrefLang={l} className="text-ink-2 hover:text-moss" lang={l}>
+      <Link
+        href={switchLang(path, l)}
+        hrefLang={l}
+        className="text-ink-2 hover:text-moss"
+        lang={l}
+        onClick={(e) => {
+          // carry the current query (Atlas place, filters, search) across, read at click time
+          if (!window.location.search || e.metaKey || e.ctrlKey) return;
+          e.preventDefault();
+          router.push(switchLang(path, l) + window.location.search);
+        }}
+      >
         {label}
       </Link>
     );

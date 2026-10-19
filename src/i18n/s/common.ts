@@ -1,5 +1,6 @@
 export const en = {
   siteName: "The Nature Library",
+  imprint: "Every living thing · Est. MMXXVI",
   siteDescription:
     "A library of living things: every plant, animal and fungus on Earth, mapped on the globe, read through the old herbals, and shelved by what they can do.",
   nav: [
@@ -48,6 +49,7 @@ export const en = {
 
 export const es: typeof en = {
   siteName: "La Biblioteca de la Naturaleza",
+  imprint: "Todo ser vivo · Fund. MMXXVI",
   siteDescription:
     "Una biblioteca de los seres vivos: cada planta, animal y hongo de la Tierra, sobre el globo, leído a través de los viejos herbarios y ordenado por lo que puede hacer.",
   nav: [

@@ -4,6 +4,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import SearchBox from "@/components/SearchBox";
 import LangSwitch from "@/components/LangSwitch";
+import Mark from "@/components/Mark";
 import { LangProvider } from "@/i18n/LangProvider";
 import { LANGS, isLang, lp, type Lang } from "@/i18n/config";
 import { dict } from "@/i18n/dict";
@@ -41,9 +42,12 @@ export default async function RootLayout({ children, params }: Readonly<{ childr
         <LangProvider lang={lang}>
           <header className="sticky top-0 z-50 border-b rule bg-paper/92 backdrop-blur-sm">
             <div className="mx-auto flex max-w-[1320px] items-center gap-4 px-4 sm:px-6 py-3">
-              <Link href={L("/")} className="group flex items-baseline gap-2 shrink-0">
-                <Seal />
-                <span className="font-display text-[1.35rem] leading-none tracking-tight">{t.siteName}</span>
+              <Link href={L("/")} className="group flex items-center gap-2.5 shrink-0" aria-label={t.siteName}>
+                <Mark size={38} className="text-moss shrink-0 transition-colors group-hover:text-rust" />
+                <span className="flex flex-col">
+                  <span className="font-display text-[1.35rem] leading-none tracking-tight">{t.siteName}</span>
+                  <span className="label text-ink-2 !text-[0.56rem] mt-1 tracking-[0.2em] hidden sm:block">{t.imprint}</span>
+                </span>
               </Link>
               <nav className="hidden xl:flex items-stretch ml-4">
                 {t.nav.map((d) => (
@@ -72,7 +76,13 @@ export default async function RootLayout({ children, params }: Readonly<{ childr
           <footer className="mt-24 border-t-[3px] border-double border-ink">
             <div className="mx-auto max-w-[1320px] px-4 sm:px-6 py-12 grid gap-10 md:grid-cols-[1.4fr_1fr_1fr_1fr] text-sm">
               <div>
-                <p className="font-display text-2xl">{t.siteName}</p>
+                <div className="flex items-center gap-3">
+                  <Mark size={52} className="text-moss shrink-0" />
+                  <span>
+                    <span className="block font-display text-2xl leading-none">{t.siteName}</span>
+                    <span className="block label text-ink-2 !text-[0.58rem] mt-1.5 tracking-[0.2em]">{t.imprint}</span>
+                  </span>
+                </div>
                 <p className="mt-3 text-ink-2 max-w-sm leading-relaxed">
                   {t.footerAbout[0]}{" "}
                   <a className="link-ink" href="https://sourcelibrary.org">
@@ -120,14 +130,3 @@ function FooterCol({ title, links }: { title: string; links: string[][] }) {
   );
 }
 
-function Seal() {
-  // a small engraved globe-and-leaf seal
-  return (
-    <svg width="26" height="26" viewBox="0 0 32 32" aria-hidden className="text-moss translate-y-[5px]">
-      <circle cx="16" cy="16" r="14.5" fill="none" stroke="currentColor" strokeWidth="1.2" />
-      <ellipse cx="16" cy="16" rx="6.5" ry="14.5" fill="none" stroke="currentColor" strokeWidth=".8" />
-      <path d="M1.5 16h29M4 9h24M4 23h24" stroke="currentColor" strokeWidth=".6" />
-      <path d="M16 27c0-7 3-12 9-14-1 7-4 11-9 14z" fill="currentColor" opacity=".9" />
-    </svg>
-  );
-}

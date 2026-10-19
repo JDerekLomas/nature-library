@@ -4,6 +4,7 @@ import { CODEX, codexIn } from "@/lib/codex";
 import SpecimenCard from "@/components/SpecimenCard";
 import { toCard } from "@/lib/cards";
 import BirdsNear from "./BirdsNear";
+import { BIRD_COUNT } from "@/lib/birds";
 import { asLang, lp, LOCALE } from "@/i18n/config";
 import { dict } from "@/i18n/dict";
 
@@ -36,6 +37,10 @@ export default async function Aviary({ params, searchParams }: { params: Promise
         .
       </p>
 
+      <Link href={L("/aviary/checklist")} className="group mt-6 flex items-center justify-between gap-4 border border-ink bg-card px-5 py-4 hover:bg-paper-2">
+        <span className="font-display text-2xl group-hover:text-moss">{dict(lang).rooms.checklist.banner(BIRD_COUNT.toLocaleString(LOCALE[lang]))}</span>
+        <span className="label text-ink-2 hidden sm:block">eBird / Clements</span>
+      </Link>
       <div className="mt-8">
         <BirdsNear codex={codexIds} />
       </div>

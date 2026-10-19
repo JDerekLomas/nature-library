@@ -7,6 +7,7 @@ import { getTaxon, getChildren, photosOf, stripHtml } from "@/lib/inat";
 import { asLang, lp, LOCALE } from "@/i18n/config";
 import { dict } from "@/i18n/dict";
 import PhotoPlate from "@/components/PhotoPlate";
+import EBirdCard from "@/components/EBirdCard";
 import WhereItLives from "@/components/WhereItLives";
 import Stacks from "@/components/Stacks";
 import FieldNotes from "@/components/FieldNotes";
@@ -92,6 +93,7 @@ export default async function TaxonPage({ params }: { params: Promise<{ lang: st
               <IucnStamp code={iucn} />
             </div>
           )}
+          {isSpecies && <EBirdCard sci={t.name} inat={t.id} lang={lang} />}
         </div>
         <div className="min-w-0">
           <h1 className="font-display text-[clamp(2.4rem,6vw,4.6rem)] leading-[0.95] tracking-tight">{name}</h1>

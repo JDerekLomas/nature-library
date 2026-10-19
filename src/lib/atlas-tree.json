@@ -1,0 +1,744 @@
+[
+ {
+  "id": "plants",
+  "sci": "Plantae",
+  "en": "Plants",
+  "es": "Plantas",
+  "gbif": "taxonKey=6",
+  "inat": 47126,
+  "children": [
+   {
+    "id": "dicots",
+    "sci": "Magnoliopsida",
+    "en": "Flowering plants: dicots",
+    "es": "Plantas con flor: dicotiledóneas",
+    "gbif": "taxonKey=220",
+    "inat": 47124,
+    "children": [
+     {
+      "id": "daisies",
+      "sci": "Asteraceae",
+      "en": "Daisies & sunflowers",
+      "es": "Margaritas y girasoles",
+      "gbif": "taxonKey=3065",
+      "inat": 47604
+     },
+     {
+      "id": "legumes",
+      "sci": "Fabaceae",
+      "en": "Peas, beans & acacias",
+      "es": "Leguminosas",
+      "gbif": "taxonKey=5386",
+      "inat": 47122
+     },
+     {
+      "id": "roses",
+      "sci": "Rosaceae",
+      "en": "Roses, apples & cherries",
+      "es": "Rosas, manzanos y cerezos",
+      "gbif": "taxonKey=5015",
+      "inat": 47148
+     },
+     {
+      "id": "mints",
+      "sci": "Lamiaceae",
+      "en": "Mints, sage & thyme",
+      "es": "Mentas, salvias y tomillos",
+      "gbif": "taxonKey=2497",
+      "inat": 48623
+     },
+     {
+      "id": "cacti",
+      "sci": "Cactaceae",
+      "en": "Cacti",
+      "es": "Cactus",
+      "gbif": "taxonKey=2519",
+      "inat": 47903
+     },
+     {
+      "id": "oaks",
+      "sci": "Fagaceae",
+      "en": "Oaks & beeches",
+      "es": "Robles y hayas",
+      "gbif": "taxonKey=4689",
+      "inat": 47852
+     },
+     {
+      "id": "nightshades",
+      "sci": "Solanaceae",
+      "en": "Nightshades: tomato, potato, chilli",
+      "es": "Solanáceas: tomate, patata, chile",
+      "gbif": "taxonKey=7717",
+      "inat": 48516
+     }
+    ]
+   },
+   {
+    "id": "monocots",
+    "sci": "Liliopsida",
+    "en": "Monocots",
+    "es": "Monocotiledóneas",
+    "gbif": "taxonKey=196",
+    "inat": 47163,
+    "children": [
+     {
+      "id": "grasses",
+      "sci": "Poaceae",
+      "en": "Grasses & grains",
+      "es": "Gramíneas y cereales",
+      "gbif": "taxonKey=3073",
+      "inat": 47434
+     },
+     {
+      "id": "orchids",
+      "sci": "Orchidaceae",
+      "en": "Orchids",
+      "es": "Orquídeas",
+      "gbif": "taxonKey=7689",
+      "inat": 47217
+     },
+     {
+      "id": "palms",
+      "sci": "Arecaceae",
+      "en": "Palms",
+      "es": "Palmeras",
+      "gbif": "taxonKey=7681",
+      "inat": 48867
+     },
+     {
+      "id": "lilies",
+      "sci": "Liliaceae",
+      "en": "Lilies & tulips",
+      "es": "Lirios y tulipanes",
+      "gbif": "taxonKey=7699",
+      "inat": 47328
+     }
+    ]
+   },
+   {
+    "id": "conifers",
+    "sci": "Pinopsida",
+    "en": "Conifers",
+    "es": "Coníferas",
+    "gbif": "taxonKey=194",
+    "inat": 136329
+   },
+   {
+    "id": "cycads",
+    "sci": "Cycadopsida",
+    "en": "Cycads",
+    "es": "Cícadas",
+    "gbif": "taxonKey=228",
+    "inat": 136336
+   },
+   {
+    "id": "ferns",
+    "sci": "Polypodiopsida",
+    "en": "Ferns",
+    "es": "Helechos",
+    "gbif": "taxonKey=7228684",
+    "inat": 121943
+   },
+   {
+    "id": "clubmosses",
+    "sci": "Lycopodiopsida",
+    "en": "Clubmosses",
+    "es": "Licopodios",
+    "gbif": "taxonKey=245",
+    "inat": 47623
+   },
+   {
+    "id": "mosses",
+    "sci": "Bryophyta",
+    "en": "Mosses",
+    "es": "Musgos",
+    "gbif": "taxonKey=35",
+    "inat": 311249
+   },
+   {
+    "id": "liverworts",
+    "sci": "Marchantiophyta",
+    "en": "Liverworts",
+    "es": "Hepáticas",
+    "gbif": "taxonKey=9",
+    "inat": 64615
+   },
+   {
+    "id": "greenalgae",
+    "sci": "Chlorophyta",
+    "en": "Green algae",
+    "es": "Algas verdes",
+    "gbif": "taxonKey=36",
+    "inat": 50863
+   },
+   {
+    "id": "redalgae",
+    "sci": "Rhodophyta",
+    "en": "Red seaweeds",
+    "es": "Algas rojas",
+    "gbif": "taxonKey=106",
+    "inat": 57774
+   }
+  ]
+ },
+ {
+  "id": "fungi",
+  "sci": "Fungi",
+  "en": "Fungi",
+  "es": "Hongos",
+  "gbif": "taxonKey=5",
+  "inat": 47170,
+  "children": [
+   {
+    "id": "mushrooms",
+    "sci": "Agaricomycetes",
+    "en": "Mushrooms & brackets",
+    "es": "Setas y yesqueros",
+    "gbif": "taxonKey=186",
+    "inat": 50814
+   },
+   {
+    "id": "lichens",
+    "sci": "Lecanoromycetes",
+    "en": "Lichens",
+    "es": "Líquenes",
+    "gbif": "taxonKey=180",
+    "inat": 54743
+   },
+   {
+    "id": "cupfungi",
+    "sci": "Pezizomycetes",
+    "en": "Cup fungi, morels & truffles",
+    "es": "Pezizas, colmenillas y trufas",
+    "gbif": "taxonKey=316",
+    "inat": 152032
+   },
+   {
+    "id": "rusts",
+    "sci": "Pucciniomycetes",
+    "en": "Rusts",
+    "es": "Royas",
+    "gbif": "taxonKey=270",
+    "inat": 69967
+   },
+   {
+    "id": "moulds",
+    "sci": "Sordariomycetes",
+    "en": "Flask fungi & moulds",
+    "es": "Pirenomicetos y mohos",
+    "gbif": "taxonKey=320",
+    "inat": 53539
+   }
+  ]
+ },
+ {
+  "id": "animals",
+  "sci": "Animalia",
+  "en": "Animals",
+  "es": "Animales",
+  "gbif": "taxonKey=1",
+  "inat": 1,
+  "children": [
+   {
+    "id": "mammals",
+    "sci": "Mammalia",
+    "en": "Mammals",
+    "es": "Mamíferos",
+    "gbif": "taxonKey=359",
+    "inat": 40151,
+    "children": [
+     {
+      "id": "primates",
+      "sci": "Primates",
+      "en": "Primates",
+      "es": "Primates",
+      "gbif": "taxonKey=798",
+      "inat": 43367
+     },
+     {
+      "id": "carnivores",
+      "sci": "Carnivora",
+      "en": "Carnivores",
+      "es": "Carnívoros",
+      "gbif": "taxonKey=732",
+      "inat": 41573
+     },
+     {
+      "id": "hoofed",
+      "sci": "Artiodactyla",
+      "en": "Deer, cattle & whales",
+      "es": "Ciervos, bóvidos y cetáceos",
+      "gbif": "taxonKey=731",
+      "inat": 152870
+     },
+     {
+      "id": "rodents",
+      "sci": "Rodentia",
+      "en": "Rodents",
+      "es": "Roedores",
+      "gbif": "taxonKey=1459",
+      "inat": 43698
+     },
+     {
+      "id": "bats",
+      "sci": "Chiroptera",
+      "en": "Bats",
+      "es": "Murciélagos",
+      "gbif": "taxonKey=734",
+      "inat": 40268
+     },
+     {
+      "id": "marsupials",
+      "sci": "Diprotodontia",
+      "en": "Kangaroos, koalas & wombats",
+      "es": "Canguros, koalas y wómbats",
+      "gbif": "taxonKey=1452",
+      "inat": 42711
+     }
+    ]
+   },
+   {
+    "id": "birds",
+    "sci": "Aves",
+    "en": "Birds",
+    "es": "Aves",
+    "gbif": "taxonKey=212",
+    "inat": 3,
+    "children": [
+     {
+      "id": "songbirds",
+      "sci": "Passeriformes",
+      "en": "Songbirds",
+      "es": "Paseriformes",
+      "gbif": "taxonKey=729",
+      "inat": 7251
+     },
+     {
+      "id": "raptors",
+      "sci": "Accipitriformes",
+      "en": "Hawks & eagles",
+      "es": "Gavilanes y águilas",
+      "gbif": "taxonKey=7191147",
+      "inat": 71261
+     },
+     {
+      "id": "owls",
+      "sci": "Strigiformes",
+      "en": "Owls",
+      "es": "Búhos y lechuzas",
+      "gbif": "taxonKey=1450",
+      "inat": 19350
+     },
+     {
+      "id": "waterfowl",
+      "sci": "Anseriformes",
+      "en": "Ducks, geese & swans",
+      "es": "Patos, gansos y cisnes",
+      "gbif": "taxonKey=1108",
+      "inat": 6888
+     },
+     {
+      "id": "shorebirds",
+      "sci": "Charadriiformes",
+      "en": "Shorebirds & gulls",
+      "es": "Limícolas y gaviotas",
+      "gbif": "taxonKey=7192402",
+      "inat": 67561
+     },
+     {
+      "id": "herons",
+      "sci": "Pelecaniformes",
+      "en": "Herons, ibises & pelicans",
+      "es": "Garzas, ibis y pelícanos",
+      "gbif": "taxonKey=7190953",
+      "inat": 67566
+     },
+     {
+      "id": "parrots",
+      "sci": "Psittaciformes",
+      "en": "Parrots",
+      "es": "Loros",
+      "gbif": "taxonKey=1445",
+      "inat": 18874
+     },
+     {
+      "id": "hummers",
+      "sci": "Apodiformes",
+      "en": "Swifts & hummingbirds",
+      "es": "Vencejos y colibríes",
+      "gbif": "taxonKey=1448",
+      "inat": 1583761
+     },
+     {
+      "id": "woodpeckers",
+      "sci": "Piciformes",
+      "en": "Woodpeckers & toucans",
+      "es": "Pájaros carpinteros y tucanes",
+      "gbif": "taxonKey=724",
+      "inat": 17550
+     }
+    ]
+   },
+   {
+    "id": "reptiles",
+    "sci": "Reptilia",
+    "en": "Reptiles",
+    "es": "Reptiles",
+    "gbif": "taxonKey=11592253&taxonKey=11418114&taxonKey=11493978",
+    "inat": 26036,
+    "children": [
+     {
+      "id": "squamates",
+      "sci": "Squamata",
+      "en": "Lizards & snakes",
+      "es": "Lagartos y serpientes",
+      "gbif": "taxonKey=11592253",
+      "inat": 26172
+     },
+     {
+      "id": "turtles",
+      "sci": "Testudines",
+      "en": "Turtles & tortoises",
+      "es": "Tortugas",
+      "gbif": "taxonKey=11418114",
+      "inat": 39532
+     },
+     {
+      "id": "crocodiles",
+      "sci": "Crocodylia",
+      "en": "Crocodiles & alligators",
+      "es": "Cocodrilos y caimanes",
+      "gbif": "taxonKey=11493978",
+      "inat": 26039
+     }
+    ]
+   },
+   {
+    "id": "amphibians",
+    "sci": "Amphibia",
+    "en": "Amphibians",
+    "es": "Anfibios",
+    "gbif": "taxonKey=131",
+    "inat": 20978,
+    "children": [
+     {
+      "id": "frogs",
+      "sci": "Anura",
+      "en": "Frogs & toads",
+      "es": "Ranas y sapos",
+      "gbif": "taxonKey=952",
+      "inat": 20979
+     },
+     {
+      "id": "salamanders",
+      "sci": "Caudata",
+      "en": "Salamanders & newts",
+      "es": "Salamandras y tritones",
+      "gbif": "taxonKey=953",
+      "inat": 26718
+     }
+    ]
+   },
+   {
+    "id": "fish",
+    "sci": "Actinopterygii",
+    "en": "Ray-finned fishes",
+    "es": "Peces de aletas radiadas",
+    "gbif": "taxonKey=204",
+    "inat": 47178
+   },
+   {
+    "id": "sharks",
+    "sci": "Elasmobranchii",
+    "en": "Sharks & rays",
+    "es": "Tiburones y rayas",
+    "gbif": "taxonKey=121",
+    "inat": 47273
+   },
+   {
+    "id": "insects",
+    "sci": "Insecta",
+    "en": "Insects",
+    "es": "Insectos",
+    "gbif": "taxonKey=216",
+    "inat": 47158,
+    "children": [
+     {
+      "id": "beetles",
+      "sci": "Coleoptera",
+      "en": "Beetles",
+      "es": "Escarabajos",
+      "gbif": "taxonKey=1470",
+      "inat": 47208
+     },
+     {
+      "id": "butterflies",
+      "sci": "Lepidoptera",
+      "en": "Butterflies & moths",
+      "es": "Mariposas y polillas",
+      "gbif": "taxonKey=797",
+      "inat": 47157
+     },
+     {
+      "id": "bees",
+      "sci": "Hymenoptera",
+      "en": "Bees, wasps & ants",
+      "es": "Abejas, avispas y hormigas",
+      "gbif": "taxonKey=1457",
+      "inat": 47201
+     },
+     {
+      "id": "flies",
+      "sci": "Diptera",
+      "en": "Flies & mosquitoes",
+      "es": "Moscas y mosquitos",
+      "gbif": "taxonKey=811",
+      "inat": 47822
+     },
+     {
+      "id": "dragonflies",
+      "sci": "Odonata",
+      "en": "Dragonflies & damselflies",
+      "es": "Libélulas y caballitos del diablo",
+      "gbif": "taxonKey=789",
+      "inat": 47792
+     },
+     {
+      "id": "bugs",
+      "sci": "Hemiptera",
+      "en": "True bugs & cicadas",
+      "es": "Chinches y cigarras",
+      "gbif": "taxonKey=809",
+      "inat": 47744
+     },
+     {
+      "id": "grasshoppers",
+      "sci": "Orthoptera",
+      "en": "Grasshoppers & crickets",
+      "es": "Saltamontes y grillos",
+      "gbif": "taxonKey=1458",
+      "inat": 47651
+     },
+     {
+      "id": "mantises",
+      "sci": "Mantodea",
+      "en": "Mantises",
+      "es": "Mantis",
+      "gbif": "taxonKey=788",
+      "inat": 48112
+     }
+    ]
+   },
+   {
+    "id": "arachnids",
+    "sci": "Arachnida",
+    "en": "Spiders, scorpions & mites",
+    "es": "Arañas, escorpiones y ácaros",
+    "gbif": "taxonKey=367",
+    "inat": 47119,
+    "children": [
+     {
+      "id": "spiders",
+      "sci": "Araneae",
+      "en": "Spiders",
+      "es": "Arañas",
+      "gbif": "taxonKey=1496",
+      "inat": 47118
+     },
+     {
+      "id": "scorpions",
+      "sci": "Scorpiones",
+      "en": "Scorpions",
+      "es": "Escorpiones",
+      "gbif": "taxonKey=872",
+      "inat": 48894
+     },
+     {
+      "id": "harvestmen",
+      "sci": "Opiliones",
+      "en": "Harvestmen",
+      "es": "Opiliones",
+      "gbif": "taxonKey=907",
+      "inat": 47367
+     }
+    ]
+   },
+   {
+    "id": "crustaceans",
+    "sci": "Malacostraca",
+    "en": "Crabs, shrimp & woodlice",
+    "es": "Cangrejos, gambas y cochinillas",
+    "gbif": "taxonKey=229",
+    "inat": 47187
+   },
+   {
+    "id": "centipedes",
+    "sci": "Chilopoda",
+    "en": "Centipedes",
+    "es": "Ciempiés",
+    "gbif": "taxonKey=360",
+    "inat": 49556
+   },
+   {
+    "id": "millipedes",
+    "sci": "Diplopoda",
+    "en": "Millipedes",
+    "es": "Milpiés",
+    "gbif": "taxonKey=361",
+    "inat": 47735
+   },
+   {
+    "id": "molluscs",
+    "sci": "Mollusca",
+    "en": "Molluscs",
+    "es": "Moluscos",
+    "gbif": "taxonKey=52",
+    "inat": 47115,
+    "children": [
+     {
+      "id": "snails",
+      "sci": "Gastropoda",
+      "en": "Snails & slugs",
+      "es": "Caracoles y babosas",
+      "gbif": "taxonKey=225",
+      "inat": 47114
+     },
+     {
+      "id": "bivalves",
+      "sci": "Bivalvia",
+      "en": "Clams, mussels & oysters",
+      "es": "Almejas, mejillones y ostras",
+      "gbif": "taxonKey=137",
+      "inat": 47584
+     },
+     {
+      "id": "cephalopods",
+      "sci": "Cephalopoda",
+      "en": "Octopus, squid & cuttlefish",
+      "es": "Pulpos, calamares y sepias",
+      "gbif": "taxonKey=136",
+      "inat": 47459
+     }
+    ]
+   },
+   {
+    "id": "cnidarians",
+    "sci": "Cnidaria",
+    "en": "Corals, jellyfish & anemones",
+    "es": "Corales, medusas y anémonas",
+    "gbif": "taxonKey=43",
+    "inat": 47534
+   },
+   {
+    "id": "echinoderms",
+    "sci": "Echinodermata",
+    "en": "Starfish & urchins",
+    "es": "Estrellas y erizos de mar",
+    "gbif": "taxonKey=50",
+    "inat": 47549
+   },
+   {
+    "id": "worms",
+    "sci": "Annelida",
+    "en": "Earthworms & leeches",
+    "es": "Lombrices y sanguijuelas",
+    "gbif": "taxonKey=42",
+    "inat": 47491
+   },
+   {
+    "id": "sponges",
+    "sci": "Porifera",
+    "en": "Sponges",
+    "es": "Esponjas",
+    "gbif": "taxonKey=105",
+    "inat": 48824
+   }
+  ]
+ },
+ {
+  "id": "chromists",
+  "sci": "Chromista",
+  "en": "Kelp, diatoms & kin",
+  "es": "Algas pardas, diatomeas y afines",
+  "gbif": "taxonKey=4",
+  "inat": 48222,
+  "children": [
+   {
+    "id": "kelp",
+    "sci": "Phaeophyceae",
+    "en": "Kelp & brown seaweeds",
+    "es": "Algas pardas",
+    "gbif": "taxonKey=7073593",
+    "inat": 48220
+   },
+   {
+    "id": "diatoms",
+    "sci": "Bacillariophyceae",
+    "en": "Diatoms",
+    "es": "Diatomeas",
+    "gbif": "taxonKey=7947184",
+    "inat": 123880
+   },
+   {
+    "id": "watermoulds",
+    "sci": "Oomycota",
+    "en": "Water moulds",
+    "es": "Oomicetos",
+    "gbif": "taxonKey=32",
+    "inat": 52595
+   }
+  ]
+ },
+ {
+  "id": "protozoa",
+  "sci": "Protozoa",
+  "en": "Protozoa & slime moulds",
+  "es": "Protozoos y mixomicetos",
+  "gbif": "taxonKey=7",
+  "inat": 47686,
+  "children": [
+   {
+    "id": "slimemoulds",
+    "sci": "Myxomycetes",
+    "en": "Slime moulds",
+    "es": "Mixomicetos",
+    "gbif": "taxonKey=319",
+    "inat": 47684
+   }
+  ]
+ },
+ {
+  "id": "bacteria",
+  "sci": "Bacteria",
+  "en": "Bacteria",
+  "es": "Bacterias",
+  "gbif": "taxonKey=3",
+  "inat": 67333,
+  "children": [
+   {
+    "id": "cyanobacteria",
+    "sci": "Cyanobacteria",
+    "en": "Cyanobacteria",
+    "es": "Cianobacterias",
+    "gbif": "taxonKey=68",
+    "inat": 67334
+   }
+  ]
+ },
+ {
+  "id": "archaea",
+  "sci": "Archaea",
+  "en": "Archaea",
+  "es": "Arqueas",
+  "gbif": "taxonKey=2",
+  "inat": 151817
+ },
+ {
+  "id": "viruses",
+  "sci": "Viruses",
+  "en": "Viruses",
+  "es": "Virus",
+  "gbif": "taxonKey=8",
+  "inat": 131236
+ }
+]

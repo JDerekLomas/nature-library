@@ -6,6 +6,7 @@ import { asLang, lp, LOCALE } from "@/i18n/config";
 import { dict } from "@/i18n/dict";
 import { wikiSummaryIn } from "@/lib/wikipedia";
 import PhotoPlate from "@/components/PhotoPlate";
+import EBirdCard from "@/components/EBirdCard";
 import WhereItLives from "@/components/WhereItLives";
 import Stacks from "@/components/Stacks";
 import SpecimenCard from "@/components/SpecimenCard";
@@ -86,6 +87,7 @@ export default async function SpeciesPage({ params }: { params: Promise<{ lang: 
               </div>
             )}
           </div>
+          <EBirdCard sci={e.scientific} inat={e.inatId} lang={lang} />
         </div>
 
         <div className="min-w-0">
