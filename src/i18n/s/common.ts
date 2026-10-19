@@ -5,6 +5,7 @@ export const en = {
     "A library of living things: every plant, animal and fungus on Earth, mapped on the globe, read through the old herbals, and shelved by what they can do.",
   nav: [
     { href: "/atlas", label: "Atlas", sub: "by place" },
+    { href: "/wheel", label: "Wheel", sub: "by kinship" },
     { href: "/bestiary", label: "Bestiary", sub: "animals" },
     { href: "/aviary", label: "Aviary", sub: "birds" },
     { href: "/herbarium", label: "Herbarium", sub: "plants & fungi" },
@@ -30,6 +31,7 @@ export const en = {
   disclaimer: "Nothing here is medical advice. Never eat a wild plant or fungus on the strength of a website or a photo match.",
   language: "Language",
   search: {
+    title: "Search the library",
     placeholder: "Look up any living thing",
     placeholderBig: "Look up any living thing — “neem”, “Quercus”, “axolotl”…",
     aria: "Search species",
@@ -56,6 +58,7 @@ export const es: typeof en = {
     "Una biblioteca de los seres vivos: cada planta, animal y hongo de la Tierra, sobre el globo, leído a través de los viejos herbarios y ordenado por lo que puede hacer.",
   nav: [
     { href: "/atlas", label: "Atlas", sub: "por lugar" },
+    { href: "/wheel", label: "Rueda", sub: "por parentesco" },
     { href: "/bestiary", label: "Bestiario", sub: "animales" },
     { href: "/aviary", label: "Aviario", sub: "aves" },
     { href: "/herbarium", label: "Herbario", sub: "plantas y hongos" },
@@ -81,6 +84,7 @@ export const es: typeof en = {
   disclaimer: "Nada de lo que aquí aparece es consejo médico. Nunca comas una planta u hongo silvestre fiándote de una web o de una identificación por foto.",
   language: "Idioma",
   search: {
+    title: "Buscar en la biblioteca",
     placeholder: "Busca cualquier ser vivo",
     placeholderBig: "Busca cualquier ser vivo — «nim», «Quercus», «ajolote»…",
     aria: "Buscar especies",

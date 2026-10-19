@@ -56,10 +56,17 @@ export default async function RootLayout({ children, params }: Readonly<{ childr
                   </Link>
                 ))}
               </nav>
-              <div className="ml-auto w-full max-w-[260px] hidden sm:block">
+              {/* the full search box where there is room for it beside ten rooms; a search button elsewhere */}
+              <div className="ml-auto w-full max-w-[260px] hidden 2xl:block">
                 <SearchBox />
               </div>
-              <span className="ml-auto sm:ml-0">
+              <Link href={L("/search")} aria-label={t.search.title} title={t.search.title} className="ml-auto 2xl:hidden p-2 -m-2 text-ink-2 hover:text-moss">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" aria-hidden>
+                  <circle cx="10.5" cy="10.5" r="6.5" />
+                  <path d="M15.5 15.5 21 21" />
+                </svg>
+              </Link>
+              <span className="2xl:ml-0">
                 <LangSwitch />
               </span>
             </div>
