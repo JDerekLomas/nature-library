@@ -21,12 +21,16 @@ UNIT="$APP.service"
 PORT="${SITE_PORT:-3000}"
 KEEP=3                         # releases kept on disk (current + 2 to roll back to)
 CACHE_CAP_GB="${CACHE_CAP_GB:-15}"
+# Next keeps every API answer (iNaturalist, GBIF, Catalogue of Life, Wikipedia) in .next/cache/fetch-cache.
+# All releases share one copy, so a deploy does not start cold: a cold site sends every page to the APIs at once,
+# and iNaturalist answers one address with HTTP 429 (measured on this box, #774), which the pages show as a 500.
+SHARED_CACHE="$BASE/shared/fetch-cache"
 
 say() { printf '[site-deploy %s] %s\n' "$(date -u +%H:%M:%S)" "$*"; }
 die() { say "FAILED: $*"; exit 1; }
 
 [ "$(id -un)" = site ] || die "run as the site user"
-mkdir -p "$BASE/releases" "$BASE/npm-cache"
+mkdir -p "$BASE/releases" "$BASE/npm-cache" "$SHARED_CACHE"
 exec 9>"$BASE/.lock"
 
 health() {
@@ -81,6 +85,8 @@ cmd_deploy() {
   tmp="$BASE/releases/.build-$sha"
   rm -rf "$tmp"; mkdir -p "$tmp"
   git -C "$BASE/repo.git" archive "$sha" | tar -x -C "$tmp"
+  # the build and the running site both use the shared fetch cache (next build keeps .next/cache)
+  mkdir -p "$tmp/.next/cache" && ln -sfn "$SHARED_CACHE" "$tmp/.next/cache/fetch-cache"
 
   say "installing packages (npm ci)"
   ( cd "$tmp" && nice -n 10 npm ci --no-audit --no-fund --loglevel=error --cache "$BASE/npm-cache" )
@@ -131,7 +137,7 @@ cmd_prune_cache() {
   # Next keeps every fetched API answer (GBIF, Catalogue of Life, Wikipedia, iNaturalist) on disk with no eviction.
   # Crawlers walking millions of names would fill the disk, so: drop entries untouched for 14 days, and if the
   # cache is still over the cap, drop the oldest until it is under. A dropped entry is fetched again on next use.
-  local dir; dir="$(readlink -f "$BASE/current")/.next/cache/fetch-cache"
+  local dir="$SHARED_CACHE"
   [ -d "$dir" ] || { say "no fetch cache yet"; return 0; }
   find "$dir" -type f -mtime +14 -delete
   local cap=$((CACHE_CAP_GB * 1024 * 1024)) size

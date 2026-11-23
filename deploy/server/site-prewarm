@@ -1,0 +1,31 @@
+#!/usr/bin/env bash
+# site-prewarm: walk the sitemap slowly so the API answers behind each page are cached before visitors
+# (or crawlers) ask for them.
+#
+# Why: the taxon, GBIF and Catalogue of Life pages call iNaturalist, GBIF, Catalogue of Life and Wikipedia
+# when first rendered. On Vercel those calls came from many addresses; on this box they come from one, and
+# iNaturalist answers HTTP 429 above roughly one request a second, which a cold page shows as a 500.
+# Walking ~11,000 sitemap pages at one every 4 s takes about 12 hours and stays under that limit.
+#
+# Run on the box as root, once before the DNS switch (it survives logout and reboots do not matter):
+#   systemd-run --unit=site-prewarm --uid=site --gid=site /usr/local/bin/site-prewarm
+#   journalctl -u site-prewarm -f            # progress every 500 pages
+# Copy in the repo: deploy/server/site-prewarm.
+set -euo pipefail
+PORT="${SITE_PORT:-3000}"
+GAP="${PREWARM_GAP:-4}"          # seconds between pages
+ORIGIN="http://localhost:$PORT"
+
+urls=$(curl -fsS --max-time 60 "$ORIGIN/sitemap.xml" | grep -o '<loc>[^<]*' | sed -E 's#<loc>https?://[^/]+##')
+total=$(printf '%s\n' "$urls" | wc -l)
+echo "prewarm: $total pages, one every $GAP s"
+n=0 ok=0 bad=0
+while read -r path; do
+  [ -n "$path" ] || continue
+  n=$((n + 1))
+  code=$(curl -s -o /dev/null -w '%{http_code}' --max-time 60 -A 'small-web-prewarm' "$ORIGIN$path" || true)
+  case "$code" in 2*|3*|404) ok=$((ok + 1)) ;; *) bad=$((bad + 1)); echo "  $code $path" ;; esac
+  [ $((n % 500)) -eq 0 ] && echo "prewarm: $n/$total done, $ok fine, $bad failed"
+  sleep "$GAP"
+done <<<"$urls"
+echo "prewarm: finished $n pages, $ok fine, $bad failed"

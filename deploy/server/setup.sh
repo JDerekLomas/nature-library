@@ -49,7 +49,7 @@ fi
 # --- the site user and its folders -------------------------------------------------
 id site >/dev/null 2>&1 || useradd --system --create-home --home-dir /srv/site --shell /bin/bash site
 chmod 0755 /srv/site
-install -d -o site -g site -m 0755 /srv/site/nature-library /srv/site/nature-library/releases
+install -d -o site -g site -m 0755 /srv/site/nature-library /srv/site/nature-library/releases /srv/site/nature-library/shared /srv/site/nature-library/shared/fetch-cache
 install -d -o site -g site -m 0700 /srv/site/.ssh
 [ -f /srv/site/.ssh/authorized_keys ] || install -o site -g site -m 0600 /dev/null /srv/site/.ssh/authorized_keys
 install -d -o root -g site -m 0750 /etc/small-web
@@ -58,6 +58,7 @@ install -d -o root -g site -m 0750 /etc/small-web
 
 install -m 0755 "$HERE/site-deploy" /usr/local/bin/site-deploy
 install -m 0755 "$HERE/site-deploy-ssh" /usr/local/bin/site-deploy-ssh
+install -m 0755 "$HERE/site-prewarm" /usr/local/bin/site-prewarm
 install -m 0440 "$HERE/sudoers-site" /etc/sudoers.d/site && visudo -cf /etc/sudoers.d/site >/dev/null
 
 # --- systemd ---------------------------------------------------------------------------
@@ -97,3 +98,5 @@ ufw --force enable >/dev/null
 
 echo "setup done. Next: write /etc/small-web/nature-library.env and caddy.env, add the deploy key, then"
 echo "  sudo -u site site-deploy deploy <sha> && systemctl restart caddy"
+echo "To check the Caddyfile, run the check as caddy (as root it creates the log file owned by root and Caddy then cannot write it):"
+echo "  sudo -u caddy caddy validate --config /etc/caddy/Caddyfile --envfile /etc/small-web/caddy.env"
