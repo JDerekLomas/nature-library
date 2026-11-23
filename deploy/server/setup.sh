@@ -98,5 +98,5 @@ ufw --force enable >/dev/null
 
 echo "setup done. Next: write /etc/small-web/nature-library.env and caddy.env, add the deploy key, then"
 echo "  sudo -u site site-deploy deploy <sha> && systemctl restart caddy"
-echo "To check the Caddyfile, run the check as caddy (as root it creates the log file owned by root and Caddy then cannot write it):"
-echo "  sudo -u caddy caddy validate --config /etc/caddy/Caddyfile --envfile /etc/small-web/caddy.env"
+echo "To apply a Caddyfile change use: systemctl reload caddy (a bad file is refused and the old one keeps serving)."
+echo "Do not run caddy validate as root: it creates the log file owned by root, and Caddy then cannot write its log."

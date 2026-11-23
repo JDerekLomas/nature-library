@@ -38,6 +38,9 @@
 		# a restart during a deploy takes a second or two: hold requests instead of failing them
 		lb_try_duration 20s
 		lb_try_interval 250ms
+		# Next builds absolute redirects (the sign-in callback) from the address it listens on, not the
+		# Host header: put the public name back
+		header_down Location "^https?://localhost:3000" "https://{http.request.host}"
 	}
 
 	log {
