@@ -1,0 +1,2 @@
+# /etc/sudoers.d/site: the site user may restart its own unit and nothing else
+site ALL=(root) NOPASSWD: /usr/bin/systemctl restart nature-library.service

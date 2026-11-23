@@ -1,0 +1,10 @@
+[Unit]
+Description=Trim the nature-library data cache daily
+
+[Timer]
+OnCalendar=*-*-* 04:20:00
+RandomizedDelaySec=600
+Persistent=true
+
+[Install]
+WantedBy=timers.target
