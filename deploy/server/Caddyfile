@@ -54,6 +54,13 @@
 }
 
 {$NL_HOSTS:http://nl-hosts.invalid} {
+	# Until DNS points here, Let's Encrypt cannot check these names, so Caddy falls back to its own certificate.
+	# Cloudflare (SSL mode "Full") accepts it, so the DNS switch has no gap; Caddy gets a real certificate on its
+	# next renewal (within hours), and Cloudflare can then be set to "Full (strict)".
+	tls {
+		issuer acme
+		issuer internal
+	}
 	@www host www.thenaturelibrary.org
 	redir @www https://thenaturelibrary.org{uri} 308
 	import nature_library
