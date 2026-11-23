@@ -1,0 +1,157 @@
+#!/usr/bin/env bash
+# site-deploy: build one commit of the site on this box and switch to it.
+#
+# Installed on the box as /usr/local/bin/site-deploy. It runs as the `site` user, reached only through
+# site-deploy-ssh (the forced command on the deploy key), so a deploy key can do these four things and nothing else:
+#
+#   site-deploy deploy <40-hex sha>   fetch that commit from GitHub, build it, switch to it, check it answers
+#   site-deploy rollback              switch back to the release that was live before the current one
+#   site-deploy status                print the live commit and the releases kept on disk
+#   site-deploy prune-cache           trim the data cache (run daily by a timer, not by the workflow)
+#
+# Env values come from /etc/small-web/<app>.env, which only root can change. Nothing here prints them.
+# Copy in the repo: deploy/server/site-deploy. Changing the repo copy does not change the box.
+set -euo pipefail
+
+APP="${SITE_APP:-nature-library}"
+REPO_URL="${SITE_REPO_URL:-https://github.com/JDerekLomas/nature-library.git}"
+BASE="/srv/site/$APP"
+ENV_FILE="/etc/small-web/$APP.env"
+UNIT="$APP.service"
+PORT="${SITE_PORT:-3000}"
+KEEP=3                         # releases kept on disk (current + 2 to roll back to)
+CACHE_CAP_GB="${CACHE_CAP_GB:-15}"
+# Next keeps every API answer (iNaturalist, GBIF, Catalogue of Life, Wikipedia) in .next/cache/fetch-cache.
+# All releases share one copy, so a deploy does not start cold: a cold site sends every page to the APIs at once,
+# and iNaturalist answers one address with HTTP 429 (measured on this box, #774), which the pages show as a 500.
+SHARED_CACHE="$BASE/shared/fetch-cache"
+
+say() { printf '[site-deploy %s] %s\n' "$(date -u +%H:%M:%S)" "$*"; }
+die() { say "FAILED: $*"; exit 1; }
+
+[ "$(id -un)" = site ] || die "run as the site user"
+mkdir -p "$BASE/releases" "$BASE/npm-cache" "$SHARED_CACHE"
+exec 9>"$BASE/.lock"
+
+health() {
+  # the home page must answer 200 within 90 s of a restart
+  local i code
+  for i in $(seq 1 45); do
+    code=$(curl -s -o /dev/null -w '%{http_code}' --max-time 10 "http://localhost:$PORT/" || true)
+    [ "$code" = 200 ] && return 0
+    sleep 2
+  done
+  return 1
+}
+
+switch_to() {
+  # point `current` at a release, restart, and check it answers; on failure go back to what was live
+  local new="$1" old
+  old=$(readlink "$BASE/current" 2>/dev/null || true)
+  ln -sfn "$new" "$BASE/current.tmp" && mv -Tf "$BASE/current.tmp" "$BASE/current"
+  sudo -n /usr/bin/systemctl restart "$UNIT"
+  if health; then
+    [ -n "$old" ] && [ "$old" != "$new" ] && ln -sfn "$old" "$BASE/previous"
+    say "live: $(cat "$new/REVISION")"
+    return 0
+  fi
+  say "the new release did not answer 200 on / within 90 s"
+  if [ -n "$old" ] && [ "$old" != "$new" ]; then
+    ln -sfn "$old" "$BASE/current.tmp" && mv -Tf "$BASE/current.tmp" "$BASE/current"
+    sudo -n /usr/bin/systemctl restart "$UNIT"
+    health && say "went back to $(cat "$old/REVISION")" || say "the previous release does not answer either"
+  fi
+  return 1
+}
+
+cmd_deploy() {
+  local sha="$1" rel tmp
+  [[ "$sha" =~ ^[0-9a-f]{40}$ ]] || die "deploy wants a full 40-character commit sha"
+  flock -w 900 9 || die "another deploy is still running"
+  rel="$BASE/releases/$sha"
+  if [ -f "$rel/REVISION" ]; then
+    say "commit ${sha:0:7} is already built on the box; switching to it"
+    switch_to "$rel" || die "switch failed"
+    return 0
+  fi
+
+  say "fetching ${sha:0:7}"
+  if [ ! -d "$BASE/repo.git" ]; then git clone -q --bare --filter=blob:none "$REPO_URL" "$BASE/repo.git"; fi
+  git -C "$BASE/repo.git" fetch -q --prune origin '+refs/heads/*:refs/heads/*'
+  git -C "$BASE/repo.git" cat-file -e "$sha^{commit}" 2>/dev/null || die "commit $sha is not on GitHub (push it first)"
+  # only commits that are on a branch of the repo (main, or preview for the preview site)
+  [ -n "$(git -C "$BASE/repo.git" branch --contains "$sha" 2>/dev/null)" ] || die "commit $sha is on no branch"
+
+  tmp="$BASE/releases/.build-$sha"
+  rm -rf "$tmp"; mkdir -p "$tmp"
+  git -C "$BASE/repo.git" archive "$sha" | tar -x -C "$tmp"
+  # the build and the running site both use the shared fetch cache (next build keeps .next/cache)
+  mkdir -p "$tmp/.next/cache" && ln -sfn "$SHARED_CACHE" "$tmp/.next/cache/fetch-cache"
+
+  say "installing packages (npm ci)"
+  ( cd "$tmp" && nice -n 10 npm ci --no-audit --no-fund --loglevel=error --cache "$BASE/npm-cache" )
+
+  say "building (next build)"
+  local t0=$SECONDS
+  (
+    cd "$tmp"
+    set -a; . "$ENV_FILE"; set +a
+    export NODE_ENV=production NEXT_TELEMETRY_DISABLED=1 NODE_OPTIONS="--max-old-space-size=4096"
+    nice -n 10 npx --no-install next build
+  ) || { rm -rf "$tmp"; die "next build failed (the live site is unchanged)"; }
+  say "built in $((SECONDS - t0)) s"
+
+  printf '%s\n' "$sha" > "$tmp/REVISION"
+  date -u +%FT%TZ > "$tmp/BUILT_AT"
+  mv -T "$tmp" "$rel"
+  switch_to "$rel" || die "the new build did not come up; the site is on the release it had before"
+
+  # keep the newest $KEEP releases, never the live or previous one
+  local live prev
+  live=$(readlink -f "$BASE/current"); prev=$(readlink -f "$BASE/previous" 2>/dev/null || true)
+  ls -1dt "$BASE"/releases/*/ 2>/dev/null | sed 's:/$::' | tail -n +$((KEEP + 1)) | while read -r d; do
+    [ "$d" = "$live" ] || [ "$d" = "$prev" ] || rm -rf "$d"
+  done
+  say "done"
+}
+
+cmd_rollback() {
+  flock -w 900 9 || die "a deploy is running"
+  local prev
+  prev=$(readlink -f "$BASE/previous" 2>/dev/null || true)
+  [ -n "$prev" ] && [ -f "$prev/REVISION" ] || die "no previous release on the box; re-run the workflow on an older commit instead"
+  local cur; cur=$(readlink -f "$BASE/current")
+  switch_to "$prev" || die "rollback failed"
+  ln -sfn "$cur" "$BASE/previous"
+}
+
+cmd_status() {
+  local cur; cur=$(readlink -f "$BASE/current" 2>/dev/null || true)
+  echo "live:     $( [ -n "$cur" ] && cat "$cur/REVISION" || echo none )  built $( [ -n "$cur" ] && cat "$cur/BUILT_AT" 2>/dev/null )"
+  echo "previous: $(cat "$(readlink -f "$BASE/previous" 2>/dev/null)/REVISION" 2>/dev/null || echo none)"
+  echo "unit:     $(systemctl is-active "$UNIT" 2>/dev/null || true)"
+  echo "releases on disk:"; ls -1t "$BASE/releases" 2>/dev/null | grep -v '^\.' | sed 's/^/  /'
+}
+
+cmd_prune_cache() {
+  # Next keeps every fetched API answer (GBIF, Catalogue of Life, Wikipedia, iNaturalist) on disk with no eviction.
+  # Crawlers walking millions of names would fill the disk, so: drop entries untouched for 14 days, and if the
+  # cache is still over the cap, drop the oldest until it is under. A dropped entry is fetched again on next use.
+  local dir="$SHARED_CACHE"
+  [ -d "$dir" ] || { say "no fetch cache yet"; return 0; }
+  find "$dir" -type f -mtime +14 -delete
+  local cap=$((CACHE_CAP_GB * 1024 * 1024)) size
+  size=$(du -sk "$dir" | cut -f1)
+  if [ "$size" -gt "$cap" ]; then
+    find "$dir" -type f -printf '%T@ %k %p\n' | sort -n | awk -v over=$((size - cap * 8 / 10)) '{ s += $2; print $3; if (s >= over) exit }' | xargs -r rm -f
+  fi
+  say "fetch cache: $(du -sh "$dir" | cut -f1)"
+}
+
+case "${1:-}" in
+  deploy)      cmd_deploy "${2:-}" ;;
+  rollback)    cmd_rollback ;;
+  status)      cmd_status ;;
+  prune-cache) cmd_prune_cache ;;
+  *) echo "usage: site-deploy deploy <sha> | rollback | status | prune-cache" >&2; exit 2 ;;
+esac

@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+# Forced command on the deploy key (authorized_keys: restrict,command="/usr/local/bin/site-deploy-ssh").
+# sshd puts what the client asked for in SSH_ORIGINAL_COMMAND; only these shapes are let through, so the
+# key cannot open a shell, copy files, or forward ports.
+set -euo pipefail
+read -r -a a <<<"${SSH_ORIGINAL_COMMAND:-}"
+case "${a[0]:-}:${#a[@]}" in
+  deploy:2)   [[ "${a[1]}" =~ ^[0-9a-f]{40}$ ]] || { echo "deploy wants a full commit sha" >&2; exit 2; }
+              exec /usr/local/bin/site-deploy deploy "${a[1]}" ;;
+  rollback:1) exec /usr/local/bin/site-deploy rollback ;;
+  status:1)   exec /usr/local/bin/site-deploy status ;;
+  *) echo "allowed: deploy <sha> | rollback | status" >&2; exit 2 ;;
+esac

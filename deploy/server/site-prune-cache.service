@@ -1,0 +1,7 @@
+[Unit]
+Description=Trim the nature-library data cache
+
+[Service]
+Type=oneshot
+User=site
+ExecStart=/usr/local/bin/site-deploy prune-cache

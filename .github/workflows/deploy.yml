@@ -1,0 +1,88 @@
+# Deploy thenaturelibrary.org: every push to main goes live on the site's own server.
+# How it works, how to check it and how to roll back: DEPLOY.md.
+#
+# The workflow sends one command over ssh: "deploy <commit>". The key it uses can run only that
+# (and "status" / "rollback"); the server fetches the commit from this repo, builds it, switches to it
+# and goes back by itself if the new build does not answer.
+#
+# Repository settings it needs (Settings → Secrets and variables → Actions). None of them is printed:
+#   secrets   DEPLOY_SSH_KEY       private half of the deploy key
+#             DEPLOY_HOST          the server's address
+#             DEPLOY_KNOWN_HOSTS   the server's ssh host key line, so the runner knows it is talking to the right machine
+#   variable  DEPLOY_ENABLED       "true" turns deploys on; anything else and the job is skipped
+name: Deploy
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      ref:
+        description: "Commit (or branch) to put live. Empty = the branch you run this on. An older commit = roll back."
+        required: false
+        default: ""
+
+# one deploy at a time; a second push waits for the first instead of cancelling it half-way
+concurrency:
+  group: deploy-production
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    if: vars.DEPLOY_ENABLED == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Which commit
+        id: which
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REF: ${{ inputs.ref || github.sha }}
+        run: |
+          sha=$(gh api "repos/${GITHUB_REPOSITORY}/commits/${REF}" --jq .sha)
+          [[ "$sha" =~ ^[0-9a-f]{40}$ ]] || { echo "::error::cannot find commit '${REF}'"; exit 1; }
+          echo "sha=$sha" >> "$GITHUB_OUTPUT"
+          echo "Deploying ${sha}"
+
+      - name: Set up the deploy key
+        env:
+          KEY: ${{ secrets.DEPLOY_SSH_KEY }}
+          KNOWN: ${{ secrets.DEPLOY_KNOWN_HOSTS }}
+        run: |
+          [ -n "$KEY" ] && [ -n "$KNOWN" ] || { echo "::error::the DEPLOY_* secrets are not set (see DEPLOY.md)"; exit 1; }
+          install -d -m 700 ~/.ssh
+          printf '%s\n' "$KEY" > ~/.ssh/deploy_key && chmod 600 ~/.ssh/deploy_key
+          printf '%s\n' "$KNOWN" > ~/.ssh/known_hosts
+
+      - name: Build and switch on the server
+        env:
+          HOST: ${{ secrets.DEPLOY_HOST }}
+          SHA: ${{ steps.which.outputs.sha }}
+        run: |
+          ssh -i ~/.ssh/deploy_key -o IdentitiesOnly=yes -o BatchMode=yes -o ServerAliveInterval=30 \
+            "site@${HOST}" deploy "$SHA"
+
+      - name: Check what is live
+        env:
+          HOST: ${{ secrets.DEPLOY_HOST }}
+          SHA: ${{ steps.which.outputs.sha }}
+        run: |
+          out=$(ssh -i ~/.ssh/deploy_key -o IdentitiesOnly=yes -o BatchMode=yes "site@${HOST}" status)
+          echo "$out"
+          live=$(printf '%s\n' "$out" | awk '/^live:/ {print $2}')
+          {
+            echo "### thenaturelibrary.org"
+            echo
+            echo '```'
+            echo "$out"
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+          [ "$live" = "$SHA" ] || { echo "::error::the server reports ${live} live, not ${SHA}"; exit 1; }
+          echo "Live: https://github.com/${GITHUB_REPOSITORY}/commit/${SHA}"
+
+      - name: Remove the key from the runner
+        if: always()
+        run: rm -f ~/.ssh/deploy_key
